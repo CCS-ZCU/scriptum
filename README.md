@@ -1,8 +1,8 @@
-#  [Repository title]
+#  Extraction and analysis of textual data from scriptum.cz
 
 ---
 ## Authors
-* [list of all contributors, with their institutional email and ORCID]
+* Vojtěch Kaše
 
 
 ## License
