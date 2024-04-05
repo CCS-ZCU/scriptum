@@ -1,3 +1,3 @@
-c|ára |P^ získávat naprostý bezpečí mít stáďď |jIa tín
-padnout kořist slabý pomalý jedinec stádo vidět stádo stát poskytovat skutečný bczpcčí alo jca iluze bezpečí
-skupina opiát droga heroin morfium vyvolávat euforický pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:80f3274e6d4442eb6534b1e6d041d0f06f6c45253579b6b075e7fddfa9ed2e9d
+size 262

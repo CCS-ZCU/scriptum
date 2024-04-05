@@ -1,1 +1,3 @@
- Ve dve hodiny v noci byla probuzena hlídkou Veřejné" bezpečnosti, která se přišla přesvědčit, že zločinec ^e v posteli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af0123ff81856cff28a79c784f0b62a14187b4af3cc3421c6a036871cba9f4d9
+size 133

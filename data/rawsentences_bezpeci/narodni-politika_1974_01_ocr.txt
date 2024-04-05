@@ -1,2 +1,3 @@
- Neklid, který svírá duše i tam, kde lidi obklopuje bezpečí a hmotný blahobyt, je jen prvním znamením stísněnosti, které se všude vzdouvá.
- Určití představitelé československé Státní bezpečnosti, na kterých Sovětům zvláště záleželo, a kteří nemohli být do konspiracc proti Dubčekově Československu použiti, byli v závěrečné fázi před invazí od ■ klizeni do bezpečí do Sovětského svazu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a516e01857654a00951e47ded069b5df928b8d1ea597abd1f27c450d6fe4d8e
+size 437

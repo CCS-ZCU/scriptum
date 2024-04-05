@@ -1,1 +1,3 @@
- Měl jsem vidinu exilu, usilujícího, aby se tam, kde vládne nenávist, vrátil opět pocit bezpečí, aby z domova byl znovu v pravém slova smyslu domov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5616b8bb4a531b84c7727f0f86e250d61f1c5d135902b79865ee8342c2249cd
+size 159

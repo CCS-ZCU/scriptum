@@ -1,1 +1,3 @@
-dařit bezpečí sedět bezpečí mít právo sílat boj nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:77675ad39fb237093f5d53d9ed5d71231e973ef5dbf7ee61112a208ca7f08370
+size 71

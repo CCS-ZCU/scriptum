@@ -1,1 +1,3 @@
- Islámská cenzura v podobě evropské autocenzury mezitím kousek po kousku nahlodává svobody a bezpečnost Evropanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b647174e116393da2deb64b76f09c75d7f515486085b9feb633c3f5b94ff147d
+size 123

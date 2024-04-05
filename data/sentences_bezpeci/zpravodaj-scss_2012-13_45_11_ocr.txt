@@ -1,1 +1,3 @@
-psycholog poslední doba přiklánět názor lidé pronásledovat zvladatelný chuť vina jídlo dětství spojený útěcha pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b01381bce08714b44477f6edb21a7760c76a62eaf7d6aebfe229d5bf5ecc3a5a
+size 141

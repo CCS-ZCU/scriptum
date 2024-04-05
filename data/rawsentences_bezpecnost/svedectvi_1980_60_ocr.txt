@@ -1,18 +1,3 @@
- a dělal příslušná opatření pro zajištěni bezpečnosti, nezávislosti ti územní celistvosti obou zemí u.
- V Radě bezpečnosti, při projednávání sovětské agrese, afgánský delegát zase prohlásil, že vláda Babraka Karmala byla ustavena 27.
- a hrajeme zase na uvolnění, bezpečnost a spolupráci ve světě.
- Sdílíme s Vámi přesvědčení, že tato činnost je nerozlučně spjata s úsilím o zabezpečení mezinárodního uvolňování, tak jiak to odpovídá duchu i liteře Závěrečného aktu Konference o bezpečnosti a spolupráci z Helsinek.
- Několik minut po zahájení veřejného zasedání je začali příslušníci Veřejné bezpečnosti rozhánět.
- ledna 1977 ho bezpečnost zatkla a po roce, 12.
- Sám základní princip dohod SALT zvyšuje naléhavost otázky, kterou si Evropané kladou už dvacet let :co zaručuje evropskou bezpečnost — konvenční zbraně NATO, anebo termonukleární výzbroj Spojených států ? Když se organizace Severoatlantického paktu ustavila, přítomnost amerických vojáků v Evropě symbolicky zastírala vzdálenost mezi starým a novým světem (Kennedy : « leh bin ein Berliner »).
- pokud jde o Evropu, nepřispěla k její bezpečnosti.
- - V jakém ústředním úřadě'? - V ministerstvu bezpečnosti.
- - Jak dlouho pracují v orgánech bezpečnosti? - Přes dvacet let.
- — Jsou již nezákonnosti z praxe orgánů bezpečnosti odstraněny ? - Ano, ovšem.
- - Mel jsem dojem, žc nezákonností se dopouštěly orgány bezpečností a žc jejich obětí byli lidé ? - Je třeba všemožné pracovat na posilnění důsledného uplatňování zákonů.
- Ačkoli k nejznámějším formám tohoto hnutí, jakými jsou například skupiny a výbory pro kontrolu helsinských dohod v SSSR nebo Charta 77 v Československu, dala podnět konference o evropské bezpečnosti a spolupráci v Helsinkách roku 1975 (a s ní spojené mezinárodní závazky států sovětského bloku), není přesto podle mého názoru mezinárodní faktor hlavním 665 Politický význam hnutí obránců lidských práv  politickým momentem při vzniku a působení těchto hnutí.
- Když se někdo proti tomuto rozhodnutí prohřeší a chce vydal práci svého kamaráda pod nějakým nešťastným pseudonymem, vystavuje sc nebezpečí, že ztratí místo a navíc bude vydírán státní bezpečností.
- Sílo argumentu o zajištění trvalé bezpečnosti sovětského bloku - jak píše Václav Šikl — nemohl kom unista Dubček při nejmenší vůli odolat.
- Jednali tedy opravdu ve svůj vlastní prospěch, přihUžíme-li k dlouhodobému vývoji ? Ve skutečnosti vyostiili alternativu mezi bezpečností, založenou na vojenské síle u bezpečností, odvozenou z toho, že vlády vládnou se souhlasem obyvatelstvu.
- Západ se totiž nemohl bez dalšího nadále již orientovat na takový détente, který by automaticky přinášel více svobody a prosperity národům východní Evropy a tím přispíval evropské bezpečnosti, neboť by tím ve skutečností redukoval vnitřní opozici vůči režimům východní Evropy.
- Davy shrnuje : Tím, žc Rusové zlikvidovali podnět k reformě komunismu ve východní Evropě, zlikvidovali patrně také Jednu z oněch lepších nadějí, že evropská bezpečnost bude založenu spíše na souhlasu než na síle.
+version https://git-lfs.github.com/spec/v1
+oid sha256:647e2589334e95bb350ea810a837a093f691c6e97e032074476b97c43f284aa6
+size 3352

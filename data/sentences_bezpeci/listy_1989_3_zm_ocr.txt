@@ -1,9 +1,3 @@
-clodat hrozit lama bezpečí
-rozumět bezpečí nebezpečí zvuk
-uvězněný bezpečí
-přestat hádat pokusit Hejhal promluvit duše Hejhulo cítit bezpečí
-mít jistota uchylovat bezpečí
-mít jistota bezpečí lik trvat
-tvůrčí posedlost nalézat vnitřní jistota bezpečí štěstí jiný věc život krachovat zůstávat tvář tvář
-usmát vzpomenout Rand bezpečí fakule Zenkl balit
-okamžik zahlédnout třípatrový hloubka zatočit hlava ochabující sval pravice vtáhnout bezpečí pokoj
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb3a55ade8f4179eef30f97a4b634b34fda8dec800bd52d310c516314860621
+size 474

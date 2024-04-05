@@ -1,2 +1,3 @@
- Studenti, kteří stavbu sledovali, si prosazovali v dohodě s architekty bizarní přání, ve dmi odporem k sousedním stroze moderním konstruktivistickým budovám:  75 - 27 - přáli si schodiště běžící zvenku po budově - připomínalo jim důvěrné pecity, které si přivezli ze svých domovů, z bydlení v domech s křivolakými schodišti a pavlačemi a s atmosférou domácího bezpečí.
- zkušenosti, kterou zažili a velkými koncepty na proměnu světa, s utopiemi i s prosazenými, ale  79 - n - půlstoletou praxí zdiskreditovanými revolučními ideami, začali postupně obracet ke své obyčejné jednotlivé lidské skutečnosti, kde se cítili doma, v bezpečí, v ověřených jistotách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78f6d07c5607aad47dea2f87852e58c64f78b7df8d28d67ff11d067838182d15
+size 722

@@ -1,13 +1,3 @@
-» 7 Zpráva Palmeho komise o odzbrojení a bezpečnosti .
- 29 Ivan Jirous MVÚ MS PS 1/15 507 11 Valdice Zpráva Palmeho komise o odzbrojení a bezpečnosti Teprve po několika měsících se k nám dostává pozoruhodný dokument: zpráva nezávislé komise pro odzbrojení a bezpečnost, nadepsaná "Spo- leěná bezpečnost" /Common security/.
- 1980 k objektivnímu posouzení problematiky vrcholně závaž- né pro lidstvo, zároveň však v bludném kruhu soupeření velmocí i vojens- ko-politických bloků, ovládaných vzájemnou nedůvěrou, podezíráním a obavami o vlastní bezpečnost.
- Vedle mezinárodních orgánů, vytvořených v rámci OSN či mimo ní, reprezentujících vlády a odrážejících právě tuto nedůvěru, podezírání a obavy, vznikl útvar složený z osob vyba- vených jak odbornou znalostí, tak autoritou ve své zemi i v mezinárod- ním společenství, schpnýeh pojímat i posuzovat problematiku odzbrojení a bezpečnosti z hledisek eelého lidstva a přitom i hodnotit přijatelnost myšlenek imnámětů komisípředkládáných pro vlády velmocí i jiných stá- tů.
- Proto musí na místo doktríny vzájemného odstrašování nastoupit něco jinéhoe Touto alternativou je podle komise "společná bezpečnost".
- Zpráva dovozuje, že pojetí vo j enské síly jako základu bezpečnosti stá- tů je pochybné, nedostatečné: čím víc se zbrojí, tím je bezpečnost menší.
- Pochopení pro vliv technického vývoje na mezinárodní bezpečnost se opož- ďuje oproti tomuto vývoji.
- Je proto třeba v: politice vlád áeeaé&fe prosadit pochope- ní pro vzájemnou závislost bezpečnosti, ba samé existence všech národů® Komise formuluje zásady společné bezpečnosti: vyhlašuje zákonné právo všech národů na bezpečnost, odmítnutí vogenské síly pro řešení mezis.
- Je třeba uznat, že bezpečnost se nedosáhne vojenskou převahou.
- Pro zajištění společné bezpečnosti je nutné snížení a omezení všech systémů výzbroje.
- otázek, i když problém bezpečnosti často s takovými otázkami souvisí.
-  - n - 5 6 0 9 Své návrhy i doporučení uvádí zpráva opakováním téze, že koncepce spo- lečné bezpečnosti musí nastoupit místo dosavadního odstrašování pomocí zbrojení» Mír má být založen na práci pro společenské přežití místo na hrozbě vzájemného ničení* Proto komise považuje za stálý cíl všeobecné a úplné odzbrojení.
- opatření zvyšující důvěru, probíhající v Madridu» K zastavení"kvalitativních" závodů ve zbrojení doporučuje komise vše- obecné zastavení jaderných zkoušek, zákaz zbraní proti umělým družicím* všeobecný zákaz chemických zberaní, dodržováni smlouvy o nerozšiřování jaderných zbraní, zvýšení bezpečnosti jaderné energetiky a strohou kon- trolu jí používaných materiálů, omezení i kontrolu obchodu se zbraněmi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dedafcea6a90b446b32c3e458d463d9847aaf1be2687d83833d64166a1d57dba
+size 2935

@@ -1,2 +1,3 @@
-asijský kolektivní bezpečnost mít Rus vytvořit tuhý obranný chtít ten útočný pás čínský hranice
-muž ovládat veřejný státní bezpečnost armáda milice stát nej vnější živel aparát KSČ
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd73a0df4892999a378a48a6404464df775a12cef121dd0159389e8646ac4487
+size 208

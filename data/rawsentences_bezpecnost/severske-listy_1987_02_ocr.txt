@@ -1,1 +1,3 @@
- Podle aoerické privátně financované organizace Fond pro bezpečnost a zpravodajství, SIF, KGB eěla zničení Challenger oslavovat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47ac4e6e3a2f6d7ed5b29f5be4826bba33dab0688c4e749ebc0316893a75e467
+size 138

@@ -1,4 +1,3 @@
-veřejný bezpečnost vytvořit kordon
-vracet Nerudový ulice Kampa bránit přístup veřejný bezpečnost
-hrdý družstevnictví vytvořit přirozený hospodářský nadstavba podpírat hospodářský bezpečnost jednotlivec skupina
-Šedivý připisovat adresa demokratický ministr muset bojovat intrika komunista dodržovat parlamentní pravidlo politický boj moci opřít faktický moc zajistit bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:06993a87f86bcce7219bbbf86e6235df430877b40f80da8f9eb051543d61598d
+size 413

@@ -1,1 +1,3 @@
-začít šířit zpráva svolaný evropský konference bezpečnost spolupráce pochopit naskýtat nový vhodný příležitost propagace myšlenka neutralisace svobodný stát západní Evropa SSSR
+version https://git-lfs.github.com/spec/v1
+oid sha256:f74a12f60d7ce1e8e6061e49598713e089222d4732afceac5eaf3c5dcc5b1914
+size 198

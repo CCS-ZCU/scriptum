@@ -1,1 +1,3 @@
- Fred pořád ještě nebyl přesvědčen, že jsem v bezpečí, a tak mě on a muž z FBI doprovázeli do Colorada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29db7b25543382c0cb005c3af1bf3d62066e03e60b99c975657b6cb2fcbac00e
+size 117

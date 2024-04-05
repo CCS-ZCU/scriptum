@@ -1,1 +1,3 @@
-vědeckopopulám naučný hraný přehnaný drastický dívka nebezpečí život zamilovat věřící
+version https://git-lfs.github.com/spec/v1
+oid sha256:464ad3918f639d86c0cf65e3a691499161d06713db7ad65defffb537ee249341
+size 102

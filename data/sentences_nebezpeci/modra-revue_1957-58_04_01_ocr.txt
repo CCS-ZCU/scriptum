@@ -1,6 +1,3 @@
-znalost demonstrovaný příležitost příčina většina nesnáz svobodný svět stálý zdroj nebezpečí svoboda mír část svět jez padnout komunistický ruka
-západ dovést uvědomit nebezpečí podstata velikost zavírat oko dopřávat přepycha uvolňování spojenectví vzniklý hrozba stalinismus honění chiméra
-zpráva uveřejněný zjistit Kersten zachránit život lidé národnost případ zsapení značný osobní nebezpečí zachránit holandkký lid deportace holandský umělecký poklad konfiskace město Haag přehrada zuyderský moře zničení
-zdát optimistický ochotný myslit diplomatický dovednost vyvést země nebezpečí hrozit dobrý demokrat dobrý evropan
-nebezpečí nacista vyvíjet Beneš projevovat veliký optimism
-malovat zrak obraz všemocný Německo diktovat svět potřebovat pomoc komunistický nebezpečí mít představa správný
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8be13385bf40379a33aa88d14ee4f1bd0be9ae5a8425c39aa81772e38f7f2c3
+size 885

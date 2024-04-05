@@ -1,5 +1,3 @@
-listopad město Cechy Morava den mravní obroda národ
-znát chápat hrozivý nebezpečí stát Polsko Maďarsko Rumunsko připomenout rok situace hrozivý beznadějný
-zfanatizovaný komunistický menšina ozbrojený podporovaný sovětský svaz porazit demokratický většina neo zbroj lhostejný chápající tragický nebezpečí bojovný výjimka obávající občanský válka
-velký nebezpečí
-nebezpečí pominout druhý stát tvrdý realita akutní nebezpečí stát nebezpečí trvalý člověk zvykat chronický zánět začátek akutní stav děsit
+version https://git-lfs.github.com/spec/v1
+oid sha256:d85df255ffa628ad7987034c4b6d83307ab339c1d603aee155c4b7fda7dff830
+size 563

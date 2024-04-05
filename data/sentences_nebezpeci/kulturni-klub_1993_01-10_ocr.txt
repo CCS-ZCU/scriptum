@@ -1,14 +1,3 @@
-oficiální sdělení nebezpečí oddělení měna hrozit kolkování bankovka mít účel připravený nutný rezerva případ dojít
-označit diskriminace majetek slovenský občan porušení mezinárodní právo dohoda majetek občan území chráněný majetek občan jiný stát
-nový slib ubezpečování správnost politika vykreslit posluchač nový nebezpečí strana demokratický levice čelo lizující Petr Weiss
-šance zmeškat nebezpečí dojít bipolarita návrat sféra vliv
-konat akce mez rakouský kulturní institut nastávat nebezpečí incest chodit stejní lidé
-obžaloba Wallis hovořit zneužití pravomoc veřejný činitel nebezpečí prozrazení státní jemsivý
-znamenat nebezpečí obdoba polský vývoj
-úvaha konflikt východ západ zastávat názor německý válečný nebezpečí hlavní hrozba Československo síran
-jiný verze vchod štol propojený nálož štěchý vický přehrada existovat nebezpečí
-rozjímání nahlížet pozdější léta Slovák znamenat den zbavení nebezpečí
-osobitý způsob scinda zamýšlet budoucnost Evropa sjednocení vidět nebezpečí mocnost dosáhnout dosáhnout válka povést potlačení výjimečný zánik suverenita lidský jedinec
-vznikat nebezpečí Budvar konkurence stejný značka vytlačený evropský trh
-Bundeskanzleramt dojít trpělivost vážný nebezpečí český národnostní skupina poskytnout podpora
-důvod poslední doba snížený dotace školní autobus hrozit nebezpečí muset poskytovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1d958e16855cced1a8684a678cb8855b82a286f1bc7fdadaf0a251253262bc
+size 1503

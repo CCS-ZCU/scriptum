@@ -1,1 +1,3 @@
- Němci utrpěli ohromné ztráty, ale místo aby se částečným spořádaným ústupem dostali do bezpečí, bránili se dle rozkazu Hitlera, který prováděl OB West von Kluge, do posledního muže, resp.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f0e023bc812be7beee8440364eb28d8f57098227e6929b90ffeca1d6fbfaaac
+size 210

@@ -1,6 +1,3 @@
- Než desky otevřel, vysvětloval mi, že tady jsou důkazy o spolupráci Janýra se státní bezpečností a že tato spoluprá- ce z Janýra zřejmě učinila vhodný nástroj Moskvy.
- Když se totiž Janýr po mnohaletém vězení vrátil domu, začala ho státní bezpečnost soustavně nutit ke spolu- práci.
- Člověk, který ztratil ženu i dítě, člověk, který byl zbaven pracovní perspektivy a těžko hledal zaměstna- lo  ní — toho pracovníci bezpečnosti systematicky znervózňovali.
- Od té doby mu dali pokoj — aniž se kdykoli zavázal ke spolupráci se státní bezpečností.
- Bezpečnost, do- movní prohlídka, řekl ten nejmladší z nich a odstrčil ho ze vstupu.
- Bezpečnost, dodal ještě a do vzduchu mávl jakousi legitimací.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6d2b54b52f30ddf37dcd5af6797be10c121bf7fa452b144f3d3f482b389b80
+size 767

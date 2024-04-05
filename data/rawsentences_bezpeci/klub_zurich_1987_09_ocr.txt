@@ -1,2 +1,3 @@
- Lid na venkově neví,s kým má držet a proto raději opustí své obydlí a tlačí se do měst, kde hledá bezpečí.
- "Ano, schovala jsem je do jeho kufru, "pokračovala Sally rychle, "myslela jsem, že tam budou v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:030db9b6aee3f7ed21bd27a3dcaa7625dd7d3cda65a8c34adb7a7c343aa239b9
+size 232

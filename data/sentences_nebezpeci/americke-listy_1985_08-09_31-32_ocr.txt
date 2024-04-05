@@ -1,6 +1,3 @@
-mít stoprocentní obrana strana nebezpečí atomový válka odstraněný obé strana soustřeďovat investice udržování rozšiřování modernizace branný systém
-získat úplný obrana strana nebezpečí útok druhý strana vzrůst
-nebezpečí útok existovat počáteční stadium výzkum
-velký nebezpečí atomový útok existovat
-alternativa stát vyhnutelný SSSR rozhodnout ostatní alternativa léta
-litr raný nebezpečí atomový válka odvrácený svět zust rozdělený
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf0c6467f4740805717de684d791dcd42039574ee8d1d572f6b35f04353cbec
+size 488

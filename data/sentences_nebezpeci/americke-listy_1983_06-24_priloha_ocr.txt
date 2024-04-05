@@ -1,1 +1,3 @@
-Šindler potlačovat názor upozorňovat nebezpečí pracovní prostředí uranový důl
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d242fbba6ec35a447aa01c5db398609c2458865834c9cc35ffa199c1a533b3f
+size 89

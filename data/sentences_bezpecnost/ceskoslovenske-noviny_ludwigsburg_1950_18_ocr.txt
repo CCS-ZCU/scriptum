@@ -1,1 +1,3 @@
-rostoucí moc seskupit síla jiný komunistický magnát prostý obava vlastní bezpečnost vliv strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:0443519dd30cc39f9ee52073df8ace81e671a4e2f1d0215ec25b9bcc5fe61d71
+size 116

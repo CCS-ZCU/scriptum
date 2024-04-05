@@ -1,1 +1,3 @@
- Rešpektovanie života a bezpečnosti iných a chránenie si svojho vlastného žívpta vyplýva z hĺbky nášho pudu sebazachovania, ktorý sa ozýva v našom svedomí na každom kroku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0986d38882859d602c0154946de91617e3e0fd440c6f7ee7686b65ca5cde95bf
+size 189

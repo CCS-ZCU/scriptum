@@ -1,2 +1,3 @@
- Už v průběhu a vývoji této krise a pak při jejím vyvrcholení v invasi do Československa se množili známky toho, že v nej vyšším vedení Sovětů je na jedné straně mocenské vakuum, na druhé straně boj o moc; přitom ú- činný vliv na situaci měly jiné nežli ústavní orgány sovětské komunistické strany — maršálové armády a v pozadí agenti lajné bezpečnosti KGB.
- Tamnějši tisk oznamoval” — říká Shub, “že se bude konat schůze, která má prodebatovat otázky uskutečňování resolucí dubnového pléna, schůze, na které mají promluvit šéfové místních KGB a MVD — tedy tajné státní a civilní bezpečnosti a kulturní komisaři.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6caa82e00c48a65813b3d3aba916c64d92b7566e26f51a31280b33ab6ffee6a1
+size 698

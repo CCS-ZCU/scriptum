@@ -1,1 +1,3 @@
-Lenin mít vděčnost slovník octnout curyšský bezpečí katastrofa Ostrava Ota Filip
+version https://git-lfs.github.com/spec/v1
+oid sha256:32870b91605d4c86778d5a0e6c490e3190a81ab6f0d1de20e0b5efae87a011bf
+size 91

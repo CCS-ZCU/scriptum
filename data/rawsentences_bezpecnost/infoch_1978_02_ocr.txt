@@ -1,10 +1,3 @@
- ú n o r a D O P I S C H A R T Y 77 D O B Ě L E H R A D U Delegátům konference o bezpečnosti a spolupráci v Evropě, Bělehrad Pani a pánové, .
- Závčrečný akt z Helsink, základna a směrnice Vaáí próce, vy- hlas u je respektováni lidských práv a základních svobod za Jednu ze zásad a podmínek mírového soužití, bezpečnosti a spolupráce v Evropě.
- VáS zájem o tyto iniciativy je podle naSeho názoru významným potvrzením úlohy, kterou mají hrát v procesu uskutečňování cílů konference o bezpečnosti a spolupráci v Evropě.
- Bránili Jim v tom příslušníci Ve- řejné a Státní bezpečnosti, kteří 6.
- V okolí budovy byly v uvedených dnech rozmístěny početné po- hotovostní oddíly Veřejné bezpečnosti.
- 0 celé Petlici, o každém svazku, o organizaci, výrobě a distribuci edice je -pokud vím- podrobně informována Státní bezpečnost i Jiné orgány.
- Byl však zadržen příslušníky Veřejná bezpečnosti a vyslýchán příslušníky Státní bezpečnosti, kteří provedli osob- ní prohlídku bez Jakéhokoliv přípisu a zadržovali ho až do 17 hodin.
- Státní tajná bezpečnost je zachytila až několik týdnů po Jejich vzniku a začátkem listopadu provedla několik krátkých formálních výsledhů na přípravy teroru, která však blíže nespecifikovala.
-hodinou zadrženi a předv* - dani na okrsek Veřejné bezpečnosti.
- Kompletní "protichnrtlstloká" skupina Státní bezpečnosti v roli pořadatelů n pozorovatelů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a449e51d0eba6bf1cb9ea849711eb78336ded95a5735d01b23be5017ec8d7f6
+size 1516

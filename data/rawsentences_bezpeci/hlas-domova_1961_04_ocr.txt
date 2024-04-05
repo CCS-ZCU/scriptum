@@ -1,1 +1,3 @@
-" Zkrátka, je to "opti- mistický" výhled do bu- doucna a všechno by to bylo krásné, kdyby Montgomery nepřehlédl nějaký ten detail, na pří- klad, jak je možné hle- dat přátelství někoho, kdo už dávno veřejně prohlásil, že nám chce podříznout krk, jaký je to způsob, podle něhož lze žít v bezpečí vedle Sovětského svazu, a jak asi může prospět demo- kratickému světu Asie, ovládaná kolosem, jehož cílem je zničení všech demokracií? Možná, že nám to všechno alespoň trochu vysvětlí jiný citát ze zmí- něné knihy: "Jsou lidé, kteří říkají, abychom se stranili komunistického světa, že není možné vě- řit ničemu, co komunisté říkají, a že nelze věřit žádnému jejích psanému slibu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:582a2e4f8710d3f86a9664bf771febb3a8d8dc1517b1e3203a2b0cf40e817cab
+size 752

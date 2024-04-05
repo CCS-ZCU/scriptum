@@ -1,13 +1,3 @@
- Ministr Schwarzenberg zdůraznil, že smlouva zvýší bezpečnost nejen Česka, ale i Evropy a také celého euroatlantického prostoru.
- Končí melkský proces? Bezpečnost jaderné elektrárny Temelín a její zpochybňování ekologickými organizacemi a politickými stranami v Rakousku plnily česká a rakouská média po dlouhá léta.
- melkský proces, který spory kolem bezpečnosti elektrárny řešil.
- Společná parlamentní komise k otázkám bezpečnosti Temelína byla ustavena po dohodě nynějších premiérů Mirka Topolánka a Alfreda Gusenbauera ze začátku loňského roku.
- Podporujme orgány bezpečnosti, když stíhají skutečnou trestnou činnost, naší snahou není způsobit bezvládí a stav všeobecné nejistoty.
- Popravy už nehrozily, ale František Kriegel byl až do smrti stálým objektem zájmu Státní bezpečnosti.
- tady byla umístěna kubánská ambasáda, dále tady pobývala Státní bezpečnost a v pozdějších letech zde bylo jedno z hlavních sídel Hradní stráže.
- správy zo Slovenska 59  Sokol & sport správy zo Slovenska Podľa schváleného zákona by tento priestupok mohol byť proti bezpečnosti premávky.
- Jeden z referentů konference Joachim Gauck, bývalý evangelický pastor a ředitel Úřadu pro dokumenty státní bezpečnosti NDR 82  První den konference byl věnován obětem komunismu a definici komunistických zločinů z dnešního pohledu.
- Není možno vyjmenovat všechny moderátory či přednášející, ale uvedeme pouze v zastoupení všech Joachima Gaucka, bývalého evangelického pastora a ředitele Úřadu pro dokumenty státní bezpečnosti NDR se skvělým příspěvkem i s „návodem“ nejen českého řešení, a přesvědčivou, ambiciózní členku Evropského parlamentu Janu Hybáškovou.
- Bezpečnost během sletu zadržela 237 osob.
- O ČSSR se začalo jednat v Radě bezpečnosti OSN.
- Na zasedání Rady bezpečnosti OSN se dostavil ministr zahraničí J.
+version https://git-lfs.github.com/spec/v1
+oid sha256:188e2738c99c9d25b6df55e366315fbf10ccb36945d75f493ef3b68a3f01970e
+size 1975

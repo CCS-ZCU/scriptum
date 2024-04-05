@@ -1,1 +1,3 @@
- výročí Pomocné stráže Veřejné bezpečnosti; série čtyř známek k XX.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b53a70929182e9274e1973045176a6895e0917f17e609601f428e26cfc240e6
+size 81

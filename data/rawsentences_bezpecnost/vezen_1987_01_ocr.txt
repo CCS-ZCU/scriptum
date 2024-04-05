@@ -1,1 +1,3 @@
- Cvičení se zúčastnili jako pozorovatelé představitelé armád a diplomaté z 21 signatářských zemí konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55a699844498ab0be58706bdc3c996af305a292adcf7c929855a39cadaf6aadc
+size 161

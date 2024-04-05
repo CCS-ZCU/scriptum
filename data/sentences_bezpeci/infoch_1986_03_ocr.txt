@@ -1,1 +1,3 @@
-velký bezpečí solidarita spatřovat přílišný nadšení opojený dobytý pozice nadšený dokázat důsledný politický nyšleni vážný varování mávnout ruka
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a9b530c41728cdd3246d3f36510f41e29429482537ee6618cc9a4b9ee690566
+size 170

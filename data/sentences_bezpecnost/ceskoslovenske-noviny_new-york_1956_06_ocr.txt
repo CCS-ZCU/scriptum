@@ -1,1 +1,3 @@
-otázka vyslovovat stát bezpečnost záviset jiný politický závislost územní celistvost Československo
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ace2565854728fc1b23bcd5c2ba78991493a1c1abe716556705e90ff3a1c8d
+size 110

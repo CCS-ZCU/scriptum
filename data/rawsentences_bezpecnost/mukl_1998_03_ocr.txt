@@ -1,2 +1,3 @@
- Ale je politováníhodné, že mezi těmi, kteří v této akci vystoupí jako reprezentanti našich exulantů jsou i ti, které úkolovala StB, aby exulantské organisace rozvraceli a podávali o nich informace Státní bezpečnosti.
- Musela jsem uznat, že vlastně nikdo není schopen zajistit její bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4f0f016b5d45343b8f2dd32bc62c07a4adf3c04fb19586b0e13907e0cf7d3aa
+size 317

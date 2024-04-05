@@ -1,4 +1,3 @@
- Kremeľskí predáci chcú všelijakými konferencami o zaistení bezpečnosti zaviesť a zaslepiť kultúrny a slobodný svet.
- Svazu uvědomili, že by nemohli zaručit bezpečnost sovětských hokejistů, a tak raději se vzdali tohoto úkolu.
--Husákův režim za pomoci Státní bezpečnosti natolik mezitím ,.
- Jistě Státní bezpečnost udělá vše, aby tato střetnutí proběhla v klidu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7690ff32d396aef80ef395b9d031a07c44a01590e72ec180cc296e21cc26b69
+size 401

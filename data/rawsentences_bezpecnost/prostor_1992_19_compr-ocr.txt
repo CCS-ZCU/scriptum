@@ -1,3 +1,3 @@
- Je možné uvažovat i o tom, nakolik se vědomí o neudržitelnosti daného stavu projevovalo i v mocenských strukturách režimu, jako byla Státní bezpečnost či armáda.
- Je tím míněno, že nelze ohrožovat korporativní zájmy armády či bezpečnosti jako celku, u nás bychom asi řekli, že nelze aplikovat princip kolektivní viny.
- Jako americký velvyslanec se účastnil řady jednání Konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ffb786347b40d5d5a8a5452ffa9cd053c43f37670d2f3e5c33cb5932214c95
+size 457

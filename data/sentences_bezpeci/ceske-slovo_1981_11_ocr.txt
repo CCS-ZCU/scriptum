@@ -1,1 +1,3 @@
-turista box Calgary Albert plát Německo Kazda hledat jistota bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f006485ffbfa9e91629cefadb508245b39ba3aa4a5653c6f443e3ee0b4723128
+size 73

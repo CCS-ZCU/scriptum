@@ -1,1 +1,3 @@
-dekovat akce ¿okusíte zabránit ostudný proces zdraví kongres
+version https://git-lfs.github.com/spec/v1
+oid sha256:485b246f20ac6d33cc6b6c46c7316dd89154d7d3d8c8342eaa675f827e04187c
+size 66

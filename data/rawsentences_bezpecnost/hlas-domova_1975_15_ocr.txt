@@ -1,1 +1,3 @@
- Poslední došlá zpráva říká, že jednání druhé části konference o evropské spolupráci a bezpečností v Ženevě se chýlí ke konci, že k schůzce v dále vesmírová událost v sovětském podání, že v době.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f31fb3051de2eba05ba0448750be5b9fba897cec71d60bb36b8ebc0210a6cbb0
+size 229

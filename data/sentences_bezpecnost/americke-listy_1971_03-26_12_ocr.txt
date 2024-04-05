@@ -1,2 +1,3 @@
-smlouva posilovat vnější bezpečnost moci pomoci řešení vnitřní zkamenělina posilovaný nejistota nedůvěra zbrzdit potřebný reforma
-tože mít zajištěný vnější bezpečnost moci dovolit důsledný reforma
+version https://git-lfs.github.com/spec/v1
+oid sha256:106a0635f7257fa2c4164223f6c75c35ab570cf337cb463f7d71eb17179cc6d8
+size 223

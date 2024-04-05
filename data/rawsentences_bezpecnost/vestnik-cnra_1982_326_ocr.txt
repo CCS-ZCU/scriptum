@@ -1,2 +1,3 @@
- -afa- 2 - Věstník Schúzka s členy evropských delegací na konferenci o bezpečnosti a spolupráci v Evropě ve Washingtoně Před zahájením Konference o bezpečnosti a spolupráci v Evropě v Madridu v listopadu t.
- “Neutronové” dělostřelectvo by dodalo Západoevropanům více pocitu bezpečnosti a tedy i možnosti zásadovější politiky vůči SSSR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30e30e63ab7b2ad85f40c23674e3c2ee6fe112a60c8ad7c444b58c38b7119fba
+size 370

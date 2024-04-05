@@ -1,1 +1,3 @@
-: 08671—2433, pondelok zatvorené! Milan S t r u h á r Platí jen v Německu KAŽDÝ HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edc6b4190f68118b8e1ec2b5e981ed90fa54225d76b4acf6a0895fd2795bbbf0
+size 80

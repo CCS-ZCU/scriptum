@@ -1,1 +1,3 @@
- Vtrhla tam Bezpečnost, oba mladé může vyvlékla ven, zbila je do bezvědomí, aniž udala jiný důvod, než že je oba Brňáci pobuřovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6643d76d3c5cdfbe1e41770fa7d46f6e9f4fec98b8daa4bb3b69f79d1f7bc33
+size 147

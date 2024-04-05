@@ -1,2 +1,3 @@
-naskytovat otázka státní ústava schopný zachytit lavina zločinnost mladý rozumný důvod stát bránit řeholník kněz žít řeholní sestra ujímat výchova mládež vystavený velký mravní nebezpečí mládež rozvrácený rodina
-Roncalli vyhlazovací akce Žid Vati káně vědomý nebezpečí bolševický expanze válka strana západní spojenec dostat ujištění eventuální expanze hledět omezit
+version https://git-lfs.github.com/spec/v1
+oid sha256:13124f931f0d6c5f2d4b7ee0d57bcc08af92075d4eed954dc7ae648b335c3de1
+size 409

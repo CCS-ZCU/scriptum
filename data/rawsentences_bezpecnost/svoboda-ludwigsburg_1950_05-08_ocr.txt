@@ -1,3 +1,3 @@
- Ďalej sa sociálna komisia starala o bezpečnost čs.
- a otec světcův Vratislav, aby si zabezpečili pomoc německých králů k větší bezpečnosti české' země, stale od Madarů ohrožované.
- Vedle řady učebnic napsal Komenský četné spisy náboženské : Labyrint světa a ráj srdce /: stal se nej- milejší knihou exulantů /, Hlubina bezpečnosti, Jedno potřebné, Historie o těžkých protivenstvích církve české, praxis pietatis, 1 Manuálník / jádro biblí / , Katechismus a Kancionál.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b5d2e51338fed169998c268bc3ede7fcdefd30bd64b06847d2c742b1569b397
+size 518

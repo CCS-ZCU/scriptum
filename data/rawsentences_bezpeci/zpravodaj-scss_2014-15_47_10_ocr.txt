@@ -1,1 +1,3 @@
- Naši rodiče a prarodiče říjen 47  zpravodaj 10/ 2014 spravodaj nechtějí žít separovaní sami, ale chtějí se zapojit zároveň s pocitem bezpečí a to jim RoSa nabízí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89a57f6c7c574ce21c7a08ec3da5c27d6beb66d51abec5614d075548d5dab9fa
+size 182

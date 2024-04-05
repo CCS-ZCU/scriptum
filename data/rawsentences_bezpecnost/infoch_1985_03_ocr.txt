@@ -1,1 +1,3 @@
-atěBÍ střel s plochou dráhou,letu a raket Prsking 11* na, 2-ápae-ěs Nikdo dnes nemůže zvyšovat svoji bezpečnost tím, Že Ghrožuje*druhé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0fdc0ee41908cff2b36d121ba8134167611dce97aec41a69c646cc43f423e4b
+size 150

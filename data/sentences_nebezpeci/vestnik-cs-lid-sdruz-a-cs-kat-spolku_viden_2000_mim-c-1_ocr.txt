@@ -1,4 +1,3 @@
-schopný rozpoznat nebezpečí nenávist rozhořet vrstva společnost
-hodnota společnost scházet hrozit vážný nebezpečí parlamentní demokracie stát prázdný forma moci skrývat diktát moc ekonomický mediální
-současný podoba globalizace bou nést určitý nebezpečí oblast kultura odvrat tradice ohrožení národní kultura frag mentarizace svět vykořeněnost lokální komunita kulturní duchovní sociální přediva
-víra zbavený rozum upadat nebezpečí stát mýtus pověra
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba21d79ef8904c9f1cc6dc2ed8d257dda233017c5cfd549e5d50e1e35d559c70
+size 495

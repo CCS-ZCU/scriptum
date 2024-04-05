@@ -1,2 +1,3 @@
- Beneš je znám jako jeden z nejvýznamnějších činitelů Společnosti národů, předchůdce dnešního OSN, který se neúnavně zasazoval o prosazování kolektivní bezpečnosti v Evropě, jako jeden z nejangažovanějšich protagonistů demokracie v meziválečné Evropě a jako zastánce západní orientace a spojenectví s Francií v československé zahraniční politice.
- Pořadatelé mohou odmítnout vstup osobám, které jsou pod vlivem alkoholu či drog nebo jakýmkoliv způsobem ohrožuji zdraví, bezpečnost a pohodli dalších návštěvníků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6db2e2ab899d64c8787058013ed39e4617cd0280a92a97d04536e6b59592a59
+size 570

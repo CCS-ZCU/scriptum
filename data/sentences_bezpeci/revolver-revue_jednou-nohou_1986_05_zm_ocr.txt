@@ -1,3 +1,3 @@
-strakatý kota posel jiný svět přirozený svět lidský Vacek radost teplo bezpečí
-najít štěstí bezpečí náručí chlapec ktorórna pociťo vala náklonnost povahový rys okouzlovat jít taneční vědět chlapec vypadat
-připadat pravidelný klidný chod stroj jediný jistota jediný bezpečí dojít zkáza strašlivý síla zbortit stěna hlubinný plavidlo zmuchlý ocelový kulička
+version https://git-lfs.github.com/spec/v1
+oid sha256:90e8c5136a721c50aa47772bab35c800c84b35227608ecf83338f25e82cbc3d2
+size 408

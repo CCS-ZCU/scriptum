@@ -1,4 +1,3 @@
- Sám prezident Reagan, který vyzval ze své evropské cesty Izrael, aby Lebanon vojensky vyklidil, k věci prohlásil, že Izraeli má být zaručena bezpečnost před terorem a vražděním jeho občanů z území sousedních států — a z tohoto důvodu také Spojené státy vetovaly rezoluci Bezpečnostního výboru Spojených národů proti Izraeli.
- V čele RGB ho nahradil poprvé v B režněvově éře generál bezpečnosti, a to Vítali j Fedorčuk, o kterém můžeme předpokládat, že má více vztahů k Andropo- vovi než k jiným představitelům.
- Jeho náhlé smrti předcházely vyčerpá vaj ící výslechy, kterým ho podrobily orgány státní bezpečnosti v souvislosti s jeho činností mluvčího Charty 77.
- Jordánsko požádalo v této věci o okamžitou schůzku Rady bezpečnosti a šest členských států Rady pro vzájemnou spolupráci v oblasti Perského zálivu (Saudská Arábie, Kuvajt, Bahrain, Oman, Spojené arabské emiráty a Katar) se v sobotu rozešly a- niž vydaly společné prohlášení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4cf60b335a9d35ddf58174fae698f95ee226d783a531294445945d57eda71a
+size 1045

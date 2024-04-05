@@ -1,2 +1,3 @@
-vysoký cíl politika účele® vláda záruka bezpečnost bezpečnost umožňovat svo bod
-rozhodující měřítko zůstat bezpečnost žárlit osobní bezpečí rnésilný smrt obbes svoboda strach podmínka svoboda ůoec oczpečriost život společnost celek
+version https://git-lfs.github.com/spec/v1
+oid sha256:398c3e97912b2496851f69296bd550bfc0c265a33bb6679f572c6a653ee5f2b9
+size 262

@@ -1,2 +1,3 @@
-ozumný lidé začínat uvazovat nebezpečí plynout přebytek změkčilost bezmezný požitek
-adresa domnívat moci strana společený ský dění druhý vatikánský koncil říkat slovo křesťan zanedbávat časný povinnost zanedbávat povinnost bližní samý bůh uvádět nebezpečí věčný spása
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e4901a3208f01b5843339cb296e81bae623f95fea1589d02f621b1f9826aa1
+size 305

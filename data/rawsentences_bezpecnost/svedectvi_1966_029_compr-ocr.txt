@@ -1,5 +1,3 @@
- Ini- ciativní bylo prohlášení, že komunistické strany kapitalistických zem! „nevylučují možnost" jednání •— po stranické linii a za účasti všech evropských komunistických stran — o otázkách týkajících se „evropské bezpečnosti".
- Přesto věřím, že budeme-li trpěliví, podaří se nám prokázat, že dnešní Německo jako součást nové Evropy, je dobrým sousedem, který hledá porozu- mění, nikoli pomstu, bezpečnost pro všechny a nikoli napětí.
- Politická rezignace tohoto druhu by zmařila naděje Němců, žijících za železnou oponou, pomáhala by konsolidovat nepřirozené a nespravedlivé rozdělení naší země, aniž přitom přinesla Evropě mír a bezpečnost.
- Zato více úsilí si vyžádá přesvědčit středo- a východoevropské země i sám Sovětský svaz o tom, že sjednocené Německo by bylo daleko spíše v jejich zájmu, než stálé udržování ohniska napětí v samém srdci Evropy, že Německo neohrožuje jejích bezpečnost, ale že je naopak ochotno spojit své síly s jejich ve prospěch rozvoje celé evropské pevniny.
- A rychlé zamykání dveří, jak máte vědět, je první podmínka bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f25cd4305aae0d84185b4e3374d8950bdec143ebe6c7ee3889d59c182e0712
+size 1202

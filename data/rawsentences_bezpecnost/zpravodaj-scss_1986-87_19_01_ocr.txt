@@ -1,1 +1,3 @@
- Mně osobně by stačilo pro začátek, kdyby byla povolena Solidamosc, kdyby v ČSSR byla zrušena cenzura a rozpuštěna Státní bezpečnost, kdyby Sovětský Svaz snížil počet svých diplomatů v zahraničí na jednu čtvrtinu, stáhl vojska z Afghánistánu, rozpustil Radu vzájemné hospodářské pomoci i Varšavský pakt a vyhlásil svobodné volby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85ee8473e9602bcc46fb1cfa1ad5665e02fbd2c2cd1ebe142d40112d5e510e7b
+size 364

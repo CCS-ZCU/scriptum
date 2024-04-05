@@ -1,1 +1,3 @@
-vývojový trend směřovat myslit lidé výchova vzdělání rozhled umožňovat vnímat široký souvislost jev nebezpečí skrytý povinný dobrý trend varovat bojovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33efe7f6db5fb307c3dd5ad3952bc29da46f7f8aa35cd34a0be8b175abbffa9
+size 172

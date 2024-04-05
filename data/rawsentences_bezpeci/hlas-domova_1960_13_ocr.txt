@@ -1,1 +1,3 @@
- Ame- rika by se měla připravit na sestup velikána na ú- roveň nejsilnějšího par- tnera, který by přinášel do spolku svobodných národů nejen bezpečí, ale i vzor a ideu, V době překotných historických změn, v do- bě, kdy se rodí z kolo- niálních národů nové státy, jejíchž význam bu- de rychle stoupat, záleží na demokratickém tábo- ře, representovaném pře- devším Amerikou, zda se mu podaří ukázat ces- tu, zda tyto mladé náro- dy přesvědčí o přednos- tech demokratické sprá- vy, demokratického ži- vota.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50a14c1c86f796bb0e197609d6b0efac8fb1cbb56feb887f9fb85a40a1aaa8fb
+size 536

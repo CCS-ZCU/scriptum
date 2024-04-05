@@ -1,1 +1,3 @@
-Nielen žena starý vzdelaný ľude hlásiace náboženstvo zástup desaťtisícový zástup mladý rodín všetký mladý študentov ktorí minimálne nebezpečí strata štúdium schádzat pôsobit ako veriace verejnost spomenout detě pred súdm váhat vyznat svůj vier
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b13ae4814c76c975543811c6b171044f214c812ca16cf4240d1c895fd41f7df
+size 274

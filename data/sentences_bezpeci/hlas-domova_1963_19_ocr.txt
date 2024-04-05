@@ -1,1 +1,3 @@
-olympijský rok bezpečí přední světový vytrvalec mít pořad řada významný mezinárodní podnik
+version https://git-lfs.github.com/spec/v1
+oid sha256:77ef3a531252aa211f799adcc80da5d12d9efe5b32c4e71f85bbd0cb8b469233
+size 110

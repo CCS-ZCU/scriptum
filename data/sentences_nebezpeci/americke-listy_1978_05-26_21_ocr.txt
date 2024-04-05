@@ -1,1 +1,3 @@
-přestálý nebezpečí ráz zapomenutý podařit rád říkávat ulovit číslo
+version https://git-lfs.github.com/spec/v1
+oid sha256:48563b7a42de10208900ad413d59fc8f8f8d7452cdf20fa2b75720421f4f3833
+size 81

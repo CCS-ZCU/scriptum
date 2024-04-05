@@ -1,1 +1,3 @@
-zbraň zvýšit bezp|čnost země v^který umístěný vysto vědět jaderný utok protiuder brát vědomí žádost vláda uznat právo občan vyjadro otázka obecný jma publikovat argum ment plný shoda vládní politika formát stýkat skupina Západe blahopřát Vašemú odvážný postoj zaujímaný tojtto pis vláda podporovat obrana právo lidé celý svět pracovat mír zákaz jaderný zbraň
+version https://git-lfs.github.com/spec/v1
+oid sha256:61e95d293aff6be7ba59a0c7a239840bdca28171cc96f4b0128c88dedbd3a709
+size 399

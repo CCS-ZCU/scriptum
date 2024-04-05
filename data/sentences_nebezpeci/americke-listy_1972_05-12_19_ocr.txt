@@ -1,1 +1,3 @@
-velký nebezpečí Amerika hrozit spoléhat nepřítel
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9513f68051448af146d103ed2e4f5c390df2d581695d42d31e15335b842f4f
+size 55

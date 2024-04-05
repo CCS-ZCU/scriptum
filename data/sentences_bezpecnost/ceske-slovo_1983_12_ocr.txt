@@ -1,5 +1,3 @@
-Praha setkání duchovní různý vyznání přesvědčovat raketa chránit bezpečnost stát světový mír
-bezpečnost podniknout zastrašovací akce charta poslat otevřený dopis mírový hnutí západ Husák vláda národní shromáždění
-bezpečnost Sabata ptát chtít Praha navštívit chartista mít úmysl organizovat protest sovětský raketa ČSSR
-Dodd Robert Dole místopředseda kongresní komise bezpečnost spolupráce Evropa
-Fascell předseda kongresní komise bezpečnost spolupráce Evropa sledovat plnění helsinský dohoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b8b532f373a814f5ec793f6bf8fdc17a4b824fb8f7b92731186e9f61e8bd221
+size 547

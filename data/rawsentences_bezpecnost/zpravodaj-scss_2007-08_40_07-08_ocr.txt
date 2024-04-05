@@ -1,1 +1,3 @@
- Ľudia proste dobrovoľne platia kúskom svojej slobody za kúsok väčšej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:123c2289477e526044783e90daddd9894a30afaf302bbdfa52e94a5a7bbf3aad
+size 91

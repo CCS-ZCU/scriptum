@@ -1,5 +1,3 @@
- Bylo to dosud nejširší mezinárodně-parlamentní fórum, které projedná- valo výsledky dohody o evropské bezpečnosti a spolupráci, zúčastnily se skoro všechny skutečně demokratické státy, které dohodu podepsaly.
- Hlavní referát "Politická důležitost Závěrečného aktu Evropské konference pro bezpečnost a spolu- práci" obsahuje 27 tiště- ných stran a přednesl jej švýcarský soc.
- Druhý referát z politické komise před- nesl holandský liberál Hans de Koster, týká se zvlášť některých aspektů evropské bezpečnosti.
- U komunistických mluv- čích nepřekvapuje, že hájí stanovisko Sovětů a jejich satelitů o "nevměšování se do vnitřních poměrů" (ro- zuměj tím mravní podpo- ru těm, kteří se taní do- volávají lidských práv), dále vytýkají Západu, že se tendenčně zabývá jen "třetím košíkem" a zá- měrně opomíjí "kladné vý- sledky" prvního a druhé- ho o bezpečnosti a spolu- práci hospodářské.
- Avšak pocit bezpečnosti necha- rakterisuje existující ko- munistické režimy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57916fba027cdff4ad197f265d38081269eda91bc6d71bec72a373e3353620c1
+size 1080

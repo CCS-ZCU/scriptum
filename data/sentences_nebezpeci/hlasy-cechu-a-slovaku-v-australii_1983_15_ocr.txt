@@ -1,1 +1,3 @@
-moci nout pomocník přidělovaný pomocník záludný nepřítel smět brát berný mince informace vědět pocházet sdělovat poslové moci jistý skutečný poslo
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b48c68e9e69fc22a3c7eac0c5c12cf07c39ba54b8a3c08aaa14cf05f5f1470d
+size 167

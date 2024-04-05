@@ -1,4 +1,3 @@
- A důvěru, v tuto vládu kladenou, složila tak do rukou státní bezpečnosti.
- Taktéž Honecker v NDR se svou bandou, v niž vynikal zejména Míša Wolf, dřívější šéf východoněmeckého ministerstva státní bezpečnosti, a dodnes vyniká supergangster Kurt Hager, šéfideolog východoně14  meckých bolševiků, stejně tak jako Ceausescu a jeho rodinný podnik, zvaný Rumunsko, Fidel Castro na Kubě atd.
- Dvůr v blízkosti vězeňské nemocnice je zaplněn orgány ministerstva vnitra a Státní bezpečnosti.
- Materiály budou drženy v přísné tajnosti a bezpečnosti (v pokladně banky).
+version https://git-lfs.github.com/spec/v1
+oid sha256:825640d879e98a79d28020b930113399ab560866cf5e60ebb58006b7ac6a0923
+size 614

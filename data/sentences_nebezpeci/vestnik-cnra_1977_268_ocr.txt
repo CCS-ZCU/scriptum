@@ -1,2 +1,3 @@
-duchovní zbavený státní souhlas vystavený zvýšený nebezpečí účast život církev stíhaný
-podzemní hnutí pracovat statečný lidé vědomý velký nebezpečí ochotný obětovat národ svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:d636bd358228963d3c6347fad699a0813d11c00ab676bcd664fa7864393d663d
+size 208

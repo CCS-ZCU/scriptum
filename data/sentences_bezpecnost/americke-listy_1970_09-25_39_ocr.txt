@@ -1,2 +1,3 @@
-označený technický pomoc skládat bývalý voják příslušník raketový vojsko povolat maďarský bezpečnost prověřit antiarijský postoj vyslat boj sionismus
-Prus Nil říkat pražský bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:221850c4a6eb7d2411e0856150bde65c83137d7931144955a1fd2a937f2554e5
+size 207

@@ -1,1 +1,3 @@
-Ivan Klím mýlit otisknout prežský nakladatelství léta pruzp bezpečnost český kult čin narušený
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8dee8a4e6b836029ce66bacecda5968e305d4f1ad7a136e1a7c68f83ac603a
+size 107

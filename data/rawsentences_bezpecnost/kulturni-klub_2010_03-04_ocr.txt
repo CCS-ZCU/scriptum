@@ -1,4 +1,3 @@
- „Diverzifikace zdrojů je pro energetickou bezpečnost klíčová,“ řekl ČTK Fischer.
- Společně chtějí docílit dlouhodobé spolupráce v energetické oblasti, která přispěje k energetické bezpečnosti regionu.
- Téměř tři pětiny si myslí, že existence a jednání aliance působí příznivě na bezpečnost svých členů i na mír a stabilitu v euroatlantické oblasti.
- února Rozkazem ministerstva vnitra ČSSR byla zrušena Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec256e6d94a1ec4fb09bc5196e221a366f04088d39b3e59ce47bf1299256fac2
+size 473

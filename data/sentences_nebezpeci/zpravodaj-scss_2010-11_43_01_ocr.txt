@@ -1,1 +1,3 @@
-dát slyšet terorismus muslim získat Evropa velký počet narozený dítě muslim smět opustit islámský víra obřízka provozovat ubližování tělo kritika islám kritik nebezpečí pronásledování muslim vyhrůžek zabití muslim muset modlit
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c1505d8dca9a0c5c0fb80c987c597b1fc2e581a2842879d8ff5d34d97b7f00e
+size 254

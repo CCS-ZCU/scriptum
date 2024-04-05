@@ -1,2 +1,3 @@
-uvědomit marnost nebezpečí světský zábav volit jiný lepší cesta
-úsilí jednota mít křesťan podněcovat hrozící atomový katastrofa ostatní nebezpečí horizont lidstvo říci
+version https://git-lfs.github.com/spec/v1
+oid sha256:2862bcada337892534998afbe0fb6ddcc03c924874cd1bbebea39cbd5fdb6b5c
+size 191

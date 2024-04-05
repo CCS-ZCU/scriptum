@@ -1,2 +1,3 @@
-odvést pozornost Slovensko velký nebezpečí hrozit národ
-ověřit radost vítězství náhlý nebezpečí dokázat národ sjednotit
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfc9224b22f45e7373d67f403fe2d3b5e047566ad3b480c5ac73d691d1e24c09
+size 136

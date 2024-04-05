@@ -1,1 +1,3 @@
-vzniknout dojem podobný pocit bezpečí smlouva vyplývat západní partner
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda95df44a378989db63ff908045ebf049f1c3878ae24aadab250aceeb94ee47
+size 77

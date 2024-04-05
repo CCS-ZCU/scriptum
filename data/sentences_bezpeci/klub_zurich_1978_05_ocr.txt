@@ -1,1 +1,3 @@
-štěstí slovo skrývat pohled krásný čistý oko slovo drobný krůček končit bezpečí maminka první nesmělý odvážný životní krok smět maminka chybět
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6f8020217bc1dd1af16c4369e517c4a752ced7e902bd856a93c489395637b07
+size 167

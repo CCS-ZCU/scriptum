@@ -1,1 +1,3 @@
-obracet lidé dobrý vůle psát výbor obrana stíhaný humanitární společenský náboženský organizace církev odbory demokratický společenský organizace sdělovací prostředek kruh různý stát svět sledovat dodržování mezinárodní závazek oblast lidský právo obracet přítel polský solidarita Maďarsko NDR sovětský svaz celý československý demokratický exil poslední řadit Intemational sesterský sekce výbor mezinárodní federace lidský právo Petr Pospíchal pomoci
+version https://git-lfs.github.com/spec/v1
+oid sha256:2661442b29ceb2813fd56aeb272f2f1f47c95c8b95e28bb67e8a91344e395d4b
+size 504

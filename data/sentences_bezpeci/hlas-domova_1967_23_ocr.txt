@@ -1,1 +1,3 @@
-bát stín vzpomínka lidé uštvat vykopnout zničit
+version https://git-lfs.github.com/spec/v1
+oid sha256:2455bf620652c8cb49e2922192992983a7e5aca69d8ae9b466032af4b5627324
+size 54

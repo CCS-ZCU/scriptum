@@ -1,2 +1,3 @@
- Byla doba, kdy pět velmocí, které vzešly vítězně z druhé světové války a ustavily Spojené národy, mohlo věřir, žc budou s to ovládat tuto organizaci na dlouhou dohlednou dobu spolehlivým mechanismem hlasování v Radě bezpečnosti.
- Každá ze zakládajících velmocí, Spojené státy, Velká Británie, Sovětský svaz, Francie a Čína, dostala v Radě bezpečnosti stálé křeslo a právo veta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc6ec44ecb52cceca538e51379764709bbbc8dfaba2e84bb71af3ed90e05318c
+size 421

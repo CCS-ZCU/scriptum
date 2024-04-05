@@ -1,1 +1,3 @@
- Potom děkoval sněmu jménem Českého království a jménem poselstva za pozvání a za průvodní listy, světským pánům a městům za bezpečnost a pocty, kterých se jim Velké čištění v novém kostele před velikonocemi v Sev.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d21bc93789b46c38280998068899d8df37c739ed51aab3099d4c58927d48741
+size 242

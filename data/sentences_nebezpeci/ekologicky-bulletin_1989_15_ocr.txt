@@ -1,6 +1,3 @@
-změna hladina podzemní voda způsobený odběr voda různý účel výstavba přehrad nebezpečí vysychání pokles hladina
-vznik rezistence škodlivý organismus opakovaný použití pesticid existovat nebezpečí vznik rezistence škodlivý organizmus použitý účinný látka
-nebezpečí spočívat opakovaný zásah rok případ poškozený vzájemný poměr jednotlivý drh moci dojít indiferentní chování mikroorganismus použitý pesticid mikroorganismus moci pesticid metabolický rozkládat rozklad potřebný energie pocházet organický hmota mikroorganismus moci rozkládaný pesticid využívat zdroj energie
-přenos peBticid další nebezpečí plynoucí aplikace peaticid spočívat horizontální vertikální přenos pesticid meta bolit půda pole
-úzký sled plodina spojený užívání persistentní pesticid přinášet nebezpečí znečištěný spodní voda
-červen Vimperk Československo uvědomovat nebezpečí vyplývající ničení životní prostředí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3b4b40cd5bebe6ed744e9f5b4f4f0bb07f985ce3cbd83d998fb31bcca79400
+size 991

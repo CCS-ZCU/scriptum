@@ -1,5 +1,3 @@
- Vzniklo neformální společenství lidí, kteří si vzájemně pomáhali a to se nelíbilo veřejném činitelům a hlavně pracovníkům Státní bezpečnosti v Severočeském kraji.
- únosná mez kontroly bezpečností, milicí a různými špehy, kteří za každým rohem čmuchají ohrožení státního zřízení a tím neposilují ani tak třídní zá~ jny jako své vlastní pozice.
- Prý by se tím ohrozila bezpečnost Skandinávie a dnešní "stabilita".
- Tak získal Brež- něv první vyznamenání z nekomunistické země, a to za svůj "velký příspěvek k upevnění míru a mezinárodní bezpečnosti".
- XXX DENÍK ITALSKÉ KOMUNISTICKÉ strany U- NITÁ přinesl zprávu o zatčení tří mladých disidentů pražskou bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8b4deb5434091615e8323b9523b7916694f248bb3977017dd06eafe0bc7134
+size 758

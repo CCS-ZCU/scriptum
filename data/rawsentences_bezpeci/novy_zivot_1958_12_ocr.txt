@@ -1,2 +1,3 @@
- 1689 pronásledování katolíků v Novém Yorku, Dongan sám se musel uchýlit do bezpečí a později se vrátil do Anglie, kde strávil zbytek svého života.
- I když nebyli pronásledováni, přece nikdy nežili v bezpečí, nesměli vykonávat veřejný úřad a nemohli se ani jinak uplatnit ve veřejném životě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07f5c43b1dcb8637402f7241c7c21dd80f5920806ed28b442ca73161ba333954
+size 324

@@ -1,1 +1,3 @@
-hrozit nebezpečí TONS umlčený orgán zastat stihaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:9927c3a000d31b78c5939cbe007f97a35eb0a99bfb6ac16b86473fce1405961f
+size 57

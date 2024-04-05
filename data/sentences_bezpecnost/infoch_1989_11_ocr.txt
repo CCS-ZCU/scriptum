@@ -1,1 +1,3 @@
-význam mít povalečný áoba atlantický smlouva bezpečnost semě gastavení stalinský expanse
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a61d2952e4fd11aaae9b7f2b5425d8e91a8ac70e241b34f7e12204623421da
+size 99

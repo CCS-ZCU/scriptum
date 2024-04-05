@@ -1,2 +1,3 @@
-přesvědčení prohlašovat Amerika zavazovat usilovat mír bezpečí svět jaderný zbraň
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2959dd8d0461737e4451175c527196a8887a769b660efd96fdc6781c25882213
+size 190

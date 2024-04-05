@@ -1,8 +1,3 @@
-Genschera dohoda INF západoevropskou bezpečnost posiluje.
- Předseda komise pro bezpečnost a spolupráci v Evropě Steny Hoyer slíbil, že nepřestane pokračovat ve snahách o ukončení perzekuce členů Jazzové sekce a dalších skupin, například Charty 77.
- Z toho důvodu žádáme, abyste pro tuto naši pokojnou manifestaci zajistili naši ochranu příslušníky Veřejné bezpečnosti.
- Vaše konference se zabývá bezpečností v Evropě.
- Prosím Vás snažně, pokuste se udělat něco pro bezpečnost kultury a tím i národní identity Čechů a Slováků.
- Dopis Václava Havla vídeňské Konferenci o bezpečnosti a spolupráci v Evropě O ekonomické reformě v ČSSR ANKETA V Praze, 28.
- Ze se nehledí ani na případné obavy obyvatelstva, týkající se jaderné bezpečnosti, je v komunistickém státě zbytečné připomínat.
- Veřejná bezpečnost zahájila stíhání za vraždu a loupež proti dvěma pachatelům ve věku 23 let, kteří v Chomutově napadli a smrtelně zranili 711etého muže a uloupili mu deset korun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e53a528e8b38974db380e73e6bcb6086c5321ef1c3534bcba9c2433ca03b730
+size 1059

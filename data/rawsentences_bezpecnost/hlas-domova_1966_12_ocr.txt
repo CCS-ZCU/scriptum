@@ -1,2 +1,3 @@
- Asi v deseti letech se Fi dal zapsat do turistického kroužku a každou nedělí šlapal se starými "turisty a turistkami" v pumpkách a balónových bundičkách model 1935 do kokořínských a jiných neprobádaných hvozdů, a vlidná náruč přírody přijala jeho utýra- nou dušičku, stavši se mu hlubinou bezpečnosti pro časy přítomné i budoucí.
- Můžeme lehko uhodnout: Fran- e nebyla k ničemu, Angličani se vykrucova- li, jen velký slovanský bratr nabízel bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:390c4d9dcbf32a5107a53a24385acab0d5599fd2916adf182a26251315e48555
+size 497

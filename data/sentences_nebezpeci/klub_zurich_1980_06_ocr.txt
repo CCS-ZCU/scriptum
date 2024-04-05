@@ -1,2 +1,3 @@
-don Bosco znát nebezpečí varovat přehánění trest přehlížení
-výborný žvatlat vědomý nebezpečí hrozit manžel
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3c5a60cebdce1150aa06a6d5b26b68f407a40fab2ed2647d0dfd364c8f1f3c
+size 126

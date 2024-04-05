@@ -1,6 +1,3 @@
-upírat práce neschopný projev velký diskriminace Labor Exercens obrana život oslavovat život vědomý tolikerý nebezpečí život ohrožovat technologický společnost
-pohled nebezpečí ohrožovat život muset hlásat posvátný ráz život
-kázání zdůraznit shoda víra kultura vylučovat doplňovat víra dávat kultura pravý smysl chuť
-Josef promluvit kněz řeholník zvát čelit nebezpečí sekularizace nemeckon ajit vzdávat skutečnost křesťanství dnešní svět odsunutý vedlejší kolej kaple sestra dát založit pokleknout hrob svatý arkét Bourgeois rodný Francie odejít Kanada věnovat výchova dívčí mládež
-nebezpečí technologie věnovaný kázání mše svatý letiště Ďownsview
-zpráva italský tisk objevit ČSSR nebezpečí videoregý strační přístroj videozáznám prodávaný drahý valuta puštěný volný trh režim moci přisvojit uspořený
+version https://git-lfs.github.com/spec/v1
+oid sha256:48398e61af48649f51885a0212f1aee6b2ee6278281518ecf62d67c0ae95093a
+size 900

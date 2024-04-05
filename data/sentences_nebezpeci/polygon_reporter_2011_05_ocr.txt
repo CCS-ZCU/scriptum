@@ -1,6 +1,3 @@
-hrozit nebezpečí pedagogický pracovník školství klesnout plat začátek rok plat klesat školský odborář ministerstvo
-rozebírat nebezpečí
-záblesk baterka upozorňovat povaha nebezpečí
-York nařídit primátor Michael Bloomberg zdůvodnění pochopit snaha notný úsilí odvrátit nebezpečí stoupenec Alláha moci urazit islám pokrokový člověk vědět náboženství míra mít společný mezinárodní terorismus korektní premise zapochybovat závažný provinění islámofobie dopouštět
-rostoucí saturace přesycení bytový trh přibližovat nebezpečí bublina moci prasknout trvající železobetonový předpoklad neustálý pravidelný růst hodnota nemovitost porov nový Polygon natelný spolehlivost zákon přitažlivost zemský přestat platit
-moci zpomalit území hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d539d4b666d77fc260767f812b22ab9686d9efbbfa4a8735103ec86e1235bc8
+size 822

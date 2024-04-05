@@ -1,1 +1,3 @@
- Mám k tvůrcům zvláštní úctu jen tenkrát, jestliže dostoupili na nezpeněžitelné a v časnou moc neproměnitelné vrcholy duchovní tvorby; pak jsou živitely, kterým jsem též já povinován vděčností- Na druhém místě mám také úctu k tvůrcům, bojujícím proti pověře a tuposti své doby za spravedlivou věc; bojujícím statečně, třebas je jímá strach; zápasícím bez ohledu na potlesk i těch nejlepšxch, s nezájmem o bezpečnost, dobré bydlo své nebo svého bližního.
+version https://git-lfs.github.com/spec/v1
+oid sha256:670b66e1eb0bbfa850af704f602a31df137055631ab0cf09020bacfe92ab5981
+size 512

@@ -1,2 +1,3 @@
- má vydat dokumentaci o bezpečnosti svého zařízení.
- Chtěli se později vzít, ale přišel jim do toho únor 48 a plukovník Hlásný musel zase prchat Vyzrán Prahou ke spolupráci, jištěnou její bezpečností doma, dva roky tahal československé špiony ve spolupráci s FBI za nos, až dostal Evu ven a potom zařídil zatčení československého agenta Navalače / Kubeše, absolventa školy KGB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b3ef35539a72e89a3d597904e2d0699c910de0a40e24853dbe4610917c437e3
+size 414

@@ -1,1 +1,3 @@
-Jaroslav Strnad nový vážný nebezpečí hrozit světoznámý egyptský sfinze
+version https://git-lfs.github.com/spec/v1
+oid sha256:422a7d2fb018358fa2ee4fb18a7ee4e8c289ebcbddbba630726a92fb1d87ea9e
+size 81

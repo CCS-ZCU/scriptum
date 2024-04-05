@@ -1,2 +1,3 @@
- Námitkami rázu poli- tického rozumějí se veškeré námitky, kterými by vláda mohla podpírat! důvody vztahující se na bezpečnost země, např.
- ideologii stranou, svědčí o tom represe skrytá i otevřeně zjevná: vyhrožování a policejní šikanování náboženských akti- vistů, útoky oficiálních sdělovacích médií proti představitelům Církve Svatého Otce nevyjímaje; neustálá provokativní přítomnost Státní bezpečnosti na poutích a církevních Slavnostech^ brutální potlačení pokojné manifestace věřících v Bratislavě spod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a60960b58d8bcab2fefd9210859e102674008cbfb9ad38914d362ab044763a3
+size 580

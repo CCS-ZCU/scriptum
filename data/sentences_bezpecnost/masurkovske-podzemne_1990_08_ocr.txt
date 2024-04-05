@@ -1,2 +1,3 @@
-státní bezpečnost |a|l praktika pek bezpro otfednout příčina normální oblen noietao elita hladit ilonoet SNB znatnout kie potýkat SlB latinsky zlakat list zkuienoatý pobyt nápravný zařízený mít určitý morální právo zaatat tich |lmi veře|nost zpilat
-řefný bezpečnost jméno bade pracovat ida dosavadní název vrát celosvilový zavedený oznaCený policie
+version https://git-lfs.github.com/spec/v1
+oid sha256:32445dbe4f6f30130f009bfed68ea1522f7c8488b3e51e6a8ec879b78a102dd1
+size 381

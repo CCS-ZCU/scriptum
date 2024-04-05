@@ -1,2 +1,3 @@
- 4- 4 _ — n Jednáni konference o bezpečnosti a spolupráci v Evropě se d o vánoční pře stávce mezi 20.
-/, ale i po stránce občerstvení a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28f2a859fff047f7aa4aead58eb2c2dd1d22c62175be7b8c6de2abd2444dbb3
+size 164

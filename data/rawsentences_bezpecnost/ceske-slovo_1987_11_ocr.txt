@@ -1,1 +1,3 @@
- Československý občan v něm nebyl nástrojem vlády ani žádné strany, nýbrž stát byl nástrojem ve službách jeho bezpečnosti a blaha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa1ba29b1c180d9a1ec358b5d9483b952653844a41388cbe0617b5f3b8aefb7e
+size 147

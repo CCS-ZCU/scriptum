@@ -1,3 +1,3 @@
-věc moci chroait lidský bezpečnost lidský sdraví poškodit jiný věc
-obsahovat věc moci ohrozit lidský bezpečnost lidský zdraví poškodit jiný věc
-oprava vyloučený zpráva obsah mít ohrozit bezpečnost stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf433a8f2def5a38e5d0dac44e83fe59559b818f8e6712372e6a16da03610c17
+size 224

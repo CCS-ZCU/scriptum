@@ -1,2 +1,3 @@
- Členové městské rady — Zprávy ČSN R A z Washingtonu V rámci činnosti pracovní skupiny AEEEC (American East European Ethnic Conference), jejíž je Československá národní rada americká členem, se v poslední době uskutečnilo několik schůzek se zástupci State Departmentu a Bílého domu o otázkách týkajících se Střední a Východní Evropy a příští Konference o Bezpečnosti a Spolupráci v Evropě, která se bude konat ve Vídni v r.
- George Wardem, šéfem Office of European Security and Political Affairs, ve věci příprav na další Konferenci o Bezpečnosti a Spolupráci v Evropě, která se bude konat ve Vídni v r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a680b699c369824f0e923797d5bca91b2ec6d0f9fcfd50c893dba64d4fdd844
+size 661

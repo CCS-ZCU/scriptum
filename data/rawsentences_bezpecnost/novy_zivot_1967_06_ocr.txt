@@ -1,4 +1,3 @@
- Petra a Pavla, sloupů katolické církve, nelze určit na základě historických dokladů s naprostou bezpečností.
- Konference měla jednat o evropské bezpečnosti a možnosti světové vrcholné schůzky komunistických stran.
- • Na sjezdu Mezinárodního svazu studentů v Ulán Bátáru bylo rozhodnuto uspořádat příští rok na podzim v Praze konferenci o evropské bezpečnosti; zúčastní se ho studentské a mládežnické organizace z evropských zemí.
- • ČSSR znovu nabídlo Radě bezpečnosti OSN kontingent ozbrojených sil pro akce na udržení nebo obnovu mezinárodního míru a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a907a1fc53517e88cca87e11943fe73c82300457ebe208891c58d2b262a1f8a
+size 624

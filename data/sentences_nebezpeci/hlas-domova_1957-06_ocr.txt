@@ -1,1 +1,3 @@
-nebezpečí komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee3fcd1f4a95eb273472bcc2c1b1094703f5d3109535923b20ba4d66d6014f8
+size 178

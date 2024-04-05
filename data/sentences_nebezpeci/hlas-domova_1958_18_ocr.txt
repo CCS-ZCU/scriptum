@@ -1,1 +1,3 @@
-umět počítat muset vidět hrozný nebezpečí číslo
+version https://git-lfs.github.com/spec/v1
+oid sha256:28ee02346c4467df2b915c4a352b1f91bc7e80e6c86bce05418f71c292507559
+size 57

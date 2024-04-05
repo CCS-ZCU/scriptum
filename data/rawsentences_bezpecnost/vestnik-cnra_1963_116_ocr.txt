@@ -1,1 +1,3 @@
- Opatřiv vlastní zemi rozsáhlou moderní obranu, chtěl všem národům zaručit nebo vrátit nezávislost a všemu lidstvu chtěl zajistit bezpečnost a požehnání míru a pokoje — tento president spojoval v sobě politický postřeh, vzdělanost a mravní sílu a o ně opíral svou odvahu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59bc81ffe84eb5ebaa1629a8d1e2beef48d2b98ad94e41af268461634a4cf65f
+size 300

@@ -1,1 +1,3 @@
-druhit druhom miesta
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd7c1ca872a7472f7456d0f0a5e82ab71c2868f710ced7097210d67696f69fa
+size 21

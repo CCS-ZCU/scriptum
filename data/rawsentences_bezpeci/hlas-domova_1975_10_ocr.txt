@@ -1,1 +1,3 @@
- cítí v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:decc3a649f66614e3b15c456c088e3835091c9d2bb43a85e21274c0307f7b531
+size 21

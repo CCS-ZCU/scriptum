@@ -1,1 +1,3 @@
-západ vědomý nebezpečí podoba světový komunismus hrozit západní civilisace
+version https://git-lfs.github.com/spec/v1
+oid sha256:12d30d3318ed9a8db44471cc4bbb73b532a9701aff8f4d297bb4e38ce25894ff
+size 84

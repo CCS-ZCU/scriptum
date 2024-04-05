@@ -1,18 +1,3 @@
- Jeho argumentem byla bezpečnost SSSR.
- To se odráží na moskevském postoji k evropskému společenství a na sovětském návrhu na konání celoasijské konference o bezpečností.
-“ Tato optimistická teze zazněla zvlášť pravděpodobně před čtrnácti dny, šest měsíců po vraždě otce Popieluszka, kdy politbyro stručně oznámilo, že „přijalo demisi“ Czeslawa Milewského, nemilovaného ministra vnitra, šedé eminence, odpovědné ve straně za bezpečnost.
- Výjimky z tohoto principu jsou povoleny jen v zájmu veřejného pořádku, bezpečnosti a ochrany zdraví.
- Pro státy v Perském zálivu znamená íránská revoluce a irácko-íránská válka zatím největší ohrožení bezpečnosti, kterému musely čelit.
- Zadruhé je třeba zajistit bezpečnost vládám zemí produkujících naftu v oblasti, která je přátelská vůči Západu — vládám, které vzdorovaly pronikám sovětského vlivu do oblasti, sledovaly rozumnou těžní a cenovou politiku a dávaly přednost otevřenému a tolerantnímu politickému systému.
- Uvědomují si, že zatímco státy v zálivu se nemohou obejít bez Spojených států, jež zaručují jejich bezpečnost, Spojeným státům samotným takové výhody ze situace nutně neplynou.
- Neochota arabských států podílet se na amerických plánech možného nasazeni vojenských sil vyvolává sice nespokojenost Spojených států, ale její výhodou je, že země v ob103  lastí zálivu staví před nezbytnost obrany vlastní bezpečnosti, což je pozice, kterou by měly zaujímat.
- Není to sice ještě účinné obranné společenství, ale zvyšuje bezpečnost jednotlivých členů vzájemnou politickou solidaritou, výměnou výzvědných informací a konáním společných vojenských manévrů.
- Arabské země převzaly odpovědnost především za bezpečnost svých území a lodních cest; rolí Spojených států je poskytovat státům v Perském zálivu vojenskou pomoc a stát nablízku se svými silami jakožto ultimatívni hrozbou proti pokusům o blokádu zálivu; Evropané mohou být užitečný, budou-li zdůrazňovat neútočnou podstatu západní politiky, hledat diplomatická řešení konfliktů v jejich různých fázích a snad i tím, že se v klidnějších dobách budou snažit začít s Teheránem dialog.
- 105 Šiité, noví islámští dobyvatelé Josette Aliová Foreign Affairs, Washington, podzim 1984 nění v arabské oblasti znepokojuji prohlášeni Američanů, včetně členů Kongresu, která zacházejí daleko za oficiální záruky bezpečnosti Izraele a snahy po řešeni arabsko-izraelského problému.
- Říkal jsem si: jak můžete velkou účast voličů uvádět jako nezvratný důkaz vůle k demokracii, když účast ve volbách je povinná a tuto povinnost zjevně posiloval strach z pokut nebo příliš známých represálií ze strany bezpečnosti? Jak se odvažujete předstírat, že tyto volby byly „velkou lekci občanské výchovy“ pro Spojené státy, když se odhaduje, že čtyřicet procent Salvadorců je negramotných? Takový humbuk.
- Proč Reaganova vláda v prvních dvou letech svého úřadováni učinila tak málo pro zkroceni zabijáků v salvadorské bezpečnosti? Proč jim v témže období dodávala tolik zbrani? Neuvědomuje si, že militarizace je pro Salvador nemoc, nikoli léčba? Na tyto otázky bych neměl odpověď.
- Sovětský svaz ospravedlňuje své vojenské zásahy ve střední Evropě poukazem na dva principy: ideologickou legitimitu a bezpečnost.
- Druhý princip má delší tradici: je jím přehnaná představa o tom, co je „nezbytné“ pro „bezpečnost“ matičky Rusi, té často napadané oběti evropských dějin.
- Proti soustavně přeháněným bezpečnostním potřebám Sovětů stoji různící se, postupně či současně podceňované a přeceňované potřeby bezpečnosti Spojených států.
- Armáda a bezpečnost odpovídají jen a jen FSLN.
- A přece se během těchto let kousek po kousku hromadily důkazy, že forma touhy po věděni, které naše století svěřilo všechny naděje na mír, bezpečnost a svobodu, nebyla tyto požadavky schopna uspokojit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:126606dfcc40d36a0275b82b15e4083196f3c5523e1a6440dba3ae89f39aedad
+size 4196

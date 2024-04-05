@@ -1,1 +1,3 @@
- Na rozdíl od diskusí kolem bezpečnosti v Harrisburgu, o této havárii nesmí v Československu nikdo /včetně Charty 77/ ani skytnout, ne tak diskutovat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:261e6cfde4b7df187cf4c0d7c8dd401e234d24257d487f7f42522d322fd25785
+size 160

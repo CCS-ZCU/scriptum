@@ -1,1 +1,3 @@
-viadukt prohlédnout odborník nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:18b839d2b4413be981df47f0f57dbe5f2b291dec1a368c81a6d08c5847f3ffb9
+size 50

@@ -1,3 +1,3 @@
-Mácha dějstvovat nicota Deml bezpečí smrt
-dovolený posilovat bezpečí myšlenka
-progresivní vysokoblahorodí podařit dopravit briliant bezpečí kus muset zachraňovat dopad moskevský známý
+version https://git-lfs.github.com/spec/v1
+oid sha256:33cc124d97b20a5ddff3e5d74daaa0da32bc3c03b0b48436365b2020f9252950
+size 201

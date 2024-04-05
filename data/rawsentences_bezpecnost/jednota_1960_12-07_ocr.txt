@@ -1,1 +1,3 @@
- Obom hodili šatky na ústa, zviazali im ruký a odviedli ich rovno sa stanicu takzvanej národnej bezpečnosti, komunistickej polície.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ae13eb19f25f8a6b4a0b3b1dd616c91a88884e11e7dc5e6428d15f62226ef2
+size 138

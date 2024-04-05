@@ -1,1 +1,3 @@
-Sin bojovat vláda president Marcos muset bojovat komunistický nebezpečí Filipíny
+version https://git-lfs.github.com/spec/v1
+oid sha256:65d002fc698b5e07473b96d9513fc17282d423cd610ba42081bdb4dff7174365
+size 86

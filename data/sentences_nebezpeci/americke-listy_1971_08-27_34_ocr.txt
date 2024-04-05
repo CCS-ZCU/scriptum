@@ -1,2 +1,3 @@
-vypadat lidé dokázat držet přímý tlak nepřítel nebezpečí zbavit případ únik emigrace soudržnost ráz rozplynout
-mimořádný nebezpečí akce Peking vidět Sovětskaja Rosio čínský vstup světový politika přispět vytvoření dělící čára socialistický systém socialistický hnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:77eee564cc29eca06de6536941ad4f76baf0236d70df026881d35316992d5087
+size 307

@@ -1,2 +1,3 @@
-druhý světový válka hrozit bezpečí komunista hrát volba vnutit Itálie stalinský režim italský tisk USA organizovat kampaň protikomunistika dopis posit lát příbuzný přítel Itálie Ameri čaný italský původ
-Jefferson odejít odpočinek psát památný slovo svoboda tisk občan schopný číst bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1131c2757c35031b0a38bbc0e72bca5e137819d650db89597bd44634ff1bf3fa
+size 100

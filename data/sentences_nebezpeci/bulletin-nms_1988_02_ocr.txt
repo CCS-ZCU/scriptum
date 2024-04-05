@@ -1,1 +1,3 @@
-bezpečný tranzit jiný země osoba nucený opustit vlast důvod svědomí odmítat podílet posilování apartheid služba ozbrojený síla adřovat přesvědčení pevný opravdový úsilí směřující definitivní odstranění nebezpečí válka uchování mezinárodní míra realii^ce sebeurčení rozvoj mezinárodní spolupráce lada charta OSN mít výsledek vytvoření podmínka kte rých vojenský služba stát potřebný brát úvaha rezoluce
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3971f784320937f645f4c9ee87ba061d82fdeb5ec9aad93767054e38e036a08
+size 450

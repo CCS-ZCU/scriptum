@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
-troufat vyčítat bezpečí západní dálav dát dělat
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa310df573a2481f763e733dccb0e4a793575f29140356f9c720d9be2cabbf4
+size 154

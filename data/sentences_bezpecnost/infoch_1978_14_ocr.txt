@@ -1,7 +1,3 @@
-kvalita prevence havarie úroveň prostředek odstranění následek rozhodujícímisfcfconfjt faktor bezpečnost jaderný provoz
-kapacita zařízení omezený fungovat urřitý stupeň hektar variep ííezajištovat bezpečnost maximální možný havarie nif výkla povahovat rozhodnutí primární potrubí
-havarijní bezpečnost zajištováns krytý kritický část primární okruh lze unikajíoí radio aktivní látka odčerpávat čtyx havarijní plynojem
-provoze bezpečnost záviset ačný míra
-Klíčův postavení provoz jaho bezpečnost mít operátor reaktor
-zájem důsledný dodržování provozní předpis respektování bezpečnost níchy limit radiační předpis zavést uplatňovat zásada případ předpis stanovený mít právo porušit
-státní bezpečnost volat návštěvník výslech veřejný bezpečnost posílat zaměstnání hlášený občan kontro lovaný pracovní doba
+version https://git-lfs.github.com/spec/v1
+oid sha256:128e294e66bbda12672a6f4b8edbca0923b888d23d0c0bfcc3367bdda49792d8
+size 824

@@ -1,7 +1,3 @@
- Zároveň je však pravda, že k tomuto novému »světskému rameni« nikdy úplně nepřilnula, uvě- domujíc si, že její poslání je nadpolitické a že pravá její bezpečnost ne- závisí na ochraně »světského ramene«.
- Symposium studijní skupiny ČSKP v Zurzachu Zahájení symposia Současný vývoj křesťanské filo- sofie a křesťanské sociální nauky Vztah církví a náboženských orga- nizací ke společenským problé- mům současnosti Křesťansko-sociální a politická hnutí a jejich národní a mezinárodní organisace Kresťansko-demokratický spoločen- ský model a jeho aplikácia na švaj- čiarske problémy Křesťanské odborové hnutie - no- sitel' spoločenského pokroku Mládež, ideologické extremismy a re- kristianisace současné společnosti Otázka mezinárodní bezpečnosti a spolupráce v Evropě Křesťansko-demokratická koncepce evropské a mimoevropské integrace Sommaire - Sommario 9.
- VACLAV HAVEL Československo-polská policejní akce na cestě českosiovertsko-polského přátelství Stíhání chartistů Případ Jana Zmatiíka Připravované soudy v Brně Společný zásah československé a polské bezpečnosti Soud proti Petru Cibulkovi, Liboru Chloupkovi a Petru Pospíchalovi Soud s Františkem Hrabalem a Jiřím Volfem Represe proti nezávislé kultuře 21.
- Akce Státní bezpečnosti proti františkánům 18.
- 12/84: Dopis Československému výboru pro evropskou bezpečnost 343-345 31.
- Proti represáliím Státní bezpečnosti 464-468 15.
- VONS 429 Zásah Státní bezpečnosti proti ne- závislé kulturní činnosti 33.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4949bd25e31e9324be962ed0e40ab90b14cd108b4fdb1091b6ee90e73627f5c5
+size 1616

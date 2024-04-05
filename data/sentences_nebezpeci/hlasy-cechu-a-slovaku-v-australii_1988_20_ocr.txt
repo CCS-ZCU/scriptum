@@ -1,1 +1,3 @@
-zaměstnavatel naříkat schopný Turkyni dát pracovní instrukce představovat potencionální nebezpečí spoluzaměstnanec plátno
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ec0ca97afe0276138f54d5d40448a91cc2f4ebcf397bff428690ab2ef0cd170
+size 135

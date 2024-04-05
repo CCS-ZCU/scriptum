@@ -1,2 +1,3 @@
-navětřit rezavý loupežník vytušit nebezpečí hrnout
-vrátit synáčka náhoda ucítit pach liška vytušit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bac8125ccc95289dc1f9b05a8fda002fbaa58da88e519825ed17b974e79da23
+size 126

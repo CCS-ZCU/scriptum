@@ -1,1 +1,3 @@
-svolaný rada fénický město sestavit ponížený list přísaha věrnost hovořit egyptský král milostivý vládce dávat poddaný život majetek bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9246337dc0a05c3fb43fbc279ca0820b04e0fab054afce395635ad0af5b66ce7
+size 161

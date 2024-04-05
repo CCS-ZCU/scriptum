@@ -1,2 +1,3 @@
-státní bezpečnost návštěva byt zabavit manželka osobní doklad vůdčí list
-osobní majetkový bezpečnost dát získat
+version https://git-lfs.github.com/spec/v1
+oid sha256:da277cff800a4d5ddd516e1043c3273f6ce4d0e377759de8c80e48fed5ebe483
+size 128

@@ -1,13 +1,3 @@
- ¡PaKty BILANCE Z MADRIDU « Zrada ! » « Nová Jalta ! » « Opět o nás bez nás, jako v Mnichově ! », vyhlašovali mnozí jinak věru bezúhonní disidenti z SSSR a z východní Evropy, žijící v emigraci, když byl před pěti lety podepsán Závěrečný akt, známý jako helsinské dohody Konference o bezpečnosti a spolupráci v Evropě.
- reálného socialismu jako na oslabování bezpečnosti a spolupráce mezi národy.
- VÝSTAVA SAMIZDATU V MADRIDU K zahájení druhé následné Konference o bezpečnosti a spolupráci v Evropě loni v listopadu v Madridu (viz výše) byla péčí pařížského výboru Entr’aide et Action zahájena v hotelu Melia Caslilia výstava samizdatů ze Sovětského svazu, Polska a pod názvem « Československo bez cenzury » i z Československa.
- listopadu 1980) ODEŠLI PŘÁTELE VÝSTAVA SAMIZDATU V MADRIDU K zahájení druhé následné Konference o bezpečnosti a spolupráci v Evropě loni v listopadu v Madridu (viz výše) byla péčí pařížského výboru Entr'aide et Action zahájena v hotelu Melia Castilia výstava samizdatů ze Sovětského svazu, Polska a pod názvem <c Československo bez cenzury » i z Československa.
- Svoboda malých národů měla zaručovat bezpečnost velké Evropy.
- Každý den v devět hodin se sejdeme v osmém patře nové skleněné budovy, kolem které stále jezdí pohotovostní vozy Veřejné bezpečnosti se zapnutou výstražnou sirénou.
- Zaujali mé až dva příslušníci Veřejné bezpečnosti na železnici.
- Na jeho adresu jsem zaslechl jen jedinou větu : v Co myslíš, byl opilej ? v Jediní lidé, kterých sc tato událost vůbec nedotkla byli příslušníci Veřejné bezpečnosti na železníci.
- Po chvíli přišli z haly dva příslušníci Veřejné bezpečnosti a přesně podle naučených formulek se chovali jako při rozháněni demonstrace.
- Večerní Praha o tom v rubrice Černá kronika napsala : Veřejná bezpečnost zasáhla proti dvěma opilým výtržnicím V.
- Soudruhu, to nepatří na schůzi ROH ! Petr se ale nedal, nejdříve rozebral chatrnou kulisu schůze, která se snaží zastírat nefungující odborovou činnost a pak postupně poukázal na : špatnou organizaci práce: nedostatečnou hygienu a bezpečnost práce; špatnou politickou práci.
- Velení fronty dodalo výzbroj jak pro stráž bezpečnosti tak pro finanční stráž.
- Bezpečnost v dezolátním stavu, vykrádání, úřady nejsou respektovány.
+version https://git-lfs.github.com/spec/v1
+oid sha256:139f91d00374fe31f48bf830a15eb023207cb8a80ae6063a8a90cb9b68b18a3b
+size 2470

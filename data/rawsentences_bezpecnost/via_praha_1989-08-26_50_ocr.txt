@@ -1,12 +1,3 @@
- Za tímto účelem sestavila pohotovostní jednot u Veselé bezpečnosti /VB/.
- SYS vykročila Bezpečnosti na pomoc a pokusila ae korzující zastavit a rozehnat.
- *W8ak shromáždění ob anó se nevzdali svého úmyslu, okurkových pendreků, stříkajících slonů a psa ae nezalekli a Jednotlu Veselé bezpečnosti rozehnali.
- Josef Kuhn je jedním z aktivistů nových občanských iniciativ a pro své postoje měl již mnoho potíží ae Státní bezpečností.
- oälo k potyčce, přičemž občané odtrhli příslušníky ¿tátní bezpečnosti od *t«nlalava ¿enoe a umožnili au, aby se vzdálil.
- orovní prohlíiku provedli vyšetřovatelé Státní bezpečnosti z irne kpt.
- říaluěníc? VB byli před soudní budovou, v soudní síni byli příslušníci státní bezpečnosti •  DV.
-září v Praze na Petřinách zadržen Státní bezpečností historik Václav Vrabec.
-jatou společenskou atr mosférou v zemi a rovněž zásahem Státní bezpečnosti proti manifestaci, která byla uspořádána v Lipsku 4.
-ml si, přítomnosti pracovníků Státní bezpečnosti v civilu, rotože mu bylo známo, Že už od Incidentu 30.
-srpna v áriově ulici, kde ho nSkolikxiesítek občanů osvobodilo z rukou příslušníků itátní bezpečnosti, kteří ho předtím zbili ů chtěli ho odvést, je hledán policií, která vyhrožuje, že ho nechá trestně stíhat, dal se ot^nlslav iene do b^hu.
- ovér zadržení prohlásil, že j? pravděpodobné, že když Jednal s funkcionáři ájM o návrhu nového zákona o mládeži, naäel se mezi nimi někdo, kdo zatelefonoval Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17f7e1f00c4a1221f5e77c89c18baa753e65f6bc5880f1fee4ad2c7cfffd108
+size 1620

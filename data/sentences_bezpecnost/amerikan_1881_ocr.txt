@@ -1,1 +1,3 @@
-vteřina zírat děvče temno položit oblečený postel
+version https://git-lfs.github.com/spec/v1
+oid sha256:53505551b65e96ce4382e9dacfe343ac8471aa97a1d91e7c7cdfcdaaea0e9ec4
+size 57

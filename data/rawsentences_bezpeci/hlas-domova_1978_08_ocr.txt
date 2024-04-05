@@ -1,1 +1,3 @@
- Mnohokrát jsem byl upozorněn jak turisty, tak ěerstvě příchozími, že je nesprávné a nepřípustné psát z bezpečí ciziny .
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a979423db8e33e14dfacb786b8f381a56c43425b54b994bfaa0390dbc7fa67
+size 137

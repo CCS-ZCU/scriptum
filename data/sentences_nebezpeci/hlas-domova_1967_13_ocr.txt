@@ -1,2 +1,3 @@
-lidé vlastní kůže poznat nebezpečí ocitat malý národ mít odsuzovat pomoc jiný malý národ
-útok přivedený říš skoněmecký pluk dostat obchvý tem Tarnopol vzniknout nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f19c11b4c5cc0f8e1858feb9dc9bd0540c769410c78a4213343d9139d9e61d38
+size 189

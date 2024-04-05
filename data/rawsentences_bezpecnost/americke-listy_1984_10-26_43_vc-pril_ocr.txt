@@ -1,2 +1,3 @@
- Nicméně: maršál Ogarkov se objevil náhle ve východním Berlíně a byl yglmi okázale přijat nejenrďŽ'ichem Ho- neckerem, nýbrž také druhým mužem politbyra pověřeným otázkami bezpečnosti Kreuzern (na kterého se někteří pozorovatelé dívají jako na možného Ho- neckerova nástupce).
- Prome- Rušný Egypt Egyptský nej vyšší soud státní bezpečnosti vynesl rozsudek nad 302 členy náboženské a politické organizace AI Džihád, která se podílela na zavraždění bývalého egyptského prezidenta Sadata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feca1c54399efa323d587826b256b004e50f77bb3b3271f9c6a860ca7616f4d8
+size 543

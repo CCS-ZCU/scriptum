@@ -1,4 +1,3 @@
- Informace uvádí ministerstvo ve zprávě o bezpečnosti a veřejném pořádku v ČR.
- Bezpečnost uvěznila celkem 472 osob.
- srpna O ČSSR se začalo jednat v Radě bezpečnosti OSN.
- června Pražský arcibiskup kardinál František Tomášek obdržel ve Svatovítské katedrále dopis s 3 397 podpisy věřících katolíků i protestantů, v němž protestovali proti zásahu Státní bezpečnosti vůči františkánům a jejich přátelům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de1f5b0ae69b7d24c62aba3bf5b6cb9a72b577d42169426f542611ce50fcbb76
+size 451

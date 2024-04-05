@@ -1,1 +1,3 @@
-Izrael dát vědět cíl vojenský akce zajistit bezpečnost přivést Palestinec věřit násilí poznání spor nutný řešit jednání sovětský rachejtl
+version https://git-lfs.github.com/spec/v1
+oid sha256:593dfd8e64d010b30773c33f33091620a41d7479be0a699c7154de7ea5b781e6
+size 159

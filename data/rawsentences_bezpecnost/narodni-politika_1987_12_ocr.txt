@@ -1,1 +1,3 @@
- Zpočátku nebylo vůbec možné získat pro vysílání materiál od našich letců; z důvodů bezpečnosti měli též zakázáno mluvit do mikrofonu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:840fefed07e3ab7d183af35cff9a9a6b602b56219f65b43218bdaec3e1475276
+size 155

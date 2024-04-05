@@ -1,2 +1,3 @@
-zdravý Evropa národ rovný Evropa zaručit jistota bezpečnost občan kie schopný obhájit
-vědomý odpovědnost poslání svět veliký část odpíraný základní svoboda mít moderní člověk ^právo celý srdce stát myšlenka nový sjednocený Evropa moci jednotlivý národ žitý svoboda národní cíl možný vrátit kontinent hospodářský sociální bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:31c54780c504332755c71d2fdb4472c9b04644ac77bf5cf35ce22dc3154f0549
+size 387

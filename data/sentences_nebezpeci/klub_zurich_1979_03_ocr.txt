@@ -1,2 +1,3 @@
-smyk auto zlomit vaz farář Tišnov Jan Nesvačil léta pohřeb zúčastnit kněz raněný řidič být spirituál litoměřický seminář léta bohoslovec léta
-situace kritický nebezpečí zeme kopec sesut
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75772391265f0c7fcd61dfc9e4d46ba7d6560939311ab5ad3aafffde5b12638
+size 211

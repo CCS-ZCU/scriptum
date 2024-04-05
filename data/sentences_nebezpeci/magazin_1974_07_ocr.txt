@@ -1,3 +1,3 @@
-ráno sebeslabší znamenat nebezpečí
-lze zkrátit řidič sejmout přehledný zatáčka vrchol stoupání silnice křižovatka tušit nebezpečí noha plyn přesunout pohotovost brzdový pedál
-Vznikp léda nebezpečí lze brzda uvést činnost reakční doba zkrátit vteřina
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2a8db38564788e19fc85ea29c2e7b6e9029850cfcc5759dad5eabdebd8b82e
+size 281

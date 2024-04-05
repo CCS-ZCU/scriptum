@@ -1,2 +1,3 @@
-hodina víeě mem vést hlnoovka cit pojíst první
-Xttáxx státní bezpečnost rok dbát táto avoboda pohyb Slvsl soulad státní zájem usedat vedlejší stolek
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9598ed0f79c746d5349890f94320745777bd2f1be0697cff34fa3d846b4eda
+size 168

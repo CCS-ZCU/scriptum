@@ -1,1 +1,3 @@
- Cítím se v bezpečí na jehohřbe^ tě a upndnu-li do dřímoty, naskytne se mi pří procitnutí milý pohled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe87586597b2048903094db96dd59ece1c5864659894d2e65cf168fa86e8701
+size 115

@@ -1,1 +1,3 @@
- února 1ÍI84, dopis, z něhož ncjdů- ležitéjší část citujeme doslova: Činnost společenství Charty 77 trvající již déle než sedm let je plně v souladu s ústavou naší republiky článkem 17 a 29 a opírá se také o mezinárodní uznání, jak bylo vyjádřeno zejména v závěrečném aktu konference o bezpečnosti a spolupráci v Evropě pode- psaném v Helsinkách i v interpretaci, jíž tomuto dokumentu dali účastníci madridského zasedání této konference.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3cc223fe8b56e06e5a4e53d51e8dcb6ef543c1f2db60a51c793ebd7acb53201
+size 491

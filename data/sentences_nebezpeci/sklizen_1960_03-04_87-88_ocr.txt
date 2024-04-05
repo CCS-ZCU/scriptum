@@ -1,2 +1,3 @@
-tehezení smysl překonaný hrubý materialismus egois mus odstraněný strach vládnoucí národ představa jící smrtelný nebezpečí celý lidstvo
-moci skrupule soustředit konečný cíl lidé trpět snížení životní úroveň připravovat konečný útok tímco demokracie muset brát ohled přání lid vidět nebezpečí tvrdit Rastan čas pracovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2598cc7171f67f64f55ff952c2952ed3d3ec4d67f23ad02eb881e5451e49707
+size 342

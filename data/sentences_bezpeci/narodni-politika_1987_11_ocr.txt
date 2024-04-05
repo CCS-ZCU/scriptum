@@ -1,2 +1,3 @@
-pravit vinník přesunout bezpečí vinný jednotlivec předmět zlobný msta místní obyvatelstvo
-osmý strana národní politika listopad šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a9102e0ea1bd09ac6da93b754b230ce0f9be6263b33319d183fc4134ad5a0d6
+size 178

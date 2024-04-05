@@ -1,1 +1,3 @@
-bezpečnost mluvit závadový činnost dítě psychý logový nezájem rodič
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aedf8662f3023fe36c32bb56e3824780ee11b753defe207805224a149f2cf1f
+size 72

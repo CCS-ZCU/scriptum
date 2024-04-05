@@ -1,1 +1,3 @@
- - o Q o - Soudružka Andula Plecitá, učitelka ze Slaného, se strašně zlohí, že nedostala přidáno k novému roku* Ona totiž tuhle dětem vyprávěla, že Husákův režim preferuje jenom čtyři písmena abeeedy: A - armáda, B — bezpečnost, GS - aelníci a B - dbst.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d407e883d0ed02daefcca8a6896978fe129a1225c5f20089527632e7cf5f745b
+size 281

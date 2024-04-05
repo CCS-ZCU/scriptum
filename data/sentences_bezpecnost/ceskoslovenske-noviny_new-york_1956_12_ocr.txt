@@ -1,1 +1,3 @@
-ovzduší válečný mírový lidový instinkt podvědomí pomyslit národní bezpečnost vyhnutelnost pohotový lstivost druhý strana sjednávat čestný úmluva bezpečný
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aba90f4ac664b690f3dd2413b48c2bd7f30d0fc38b715c5445278b3b7a16187
+size 181

@@ -1,1 +1,3 @@
- Nesmírime-li všichni zlé vzpomínky přítomností lepší, než byla minulost, nezbavíme-li se zlých obav bezpečím spolehlivějším, než jaké poskytují ŘEZNÍK PÍŠE STYLEM SEKRETÁŘE ESC Na pražském náměstí Dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:687d915c5b26474b961af12e2d189ddb049fe7b36258fbfd56e6c5726e1280f6
+size 233

@@ -1,1 +1,3 @@
-nebezpečí zvenčí Američan ohrožovat bezpečí klid země
+version https://git-lfs.github.com/spec/v1
+oid sha256:656bbaa6f7aa4f7e55c31bdb05873801571b060c2841a8433cb816740b01b7e3
+size 63

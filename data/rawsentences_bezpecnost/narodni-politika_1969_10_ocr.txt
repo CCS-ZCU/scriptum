@@ -1,2 +1,3 @@
- Vím však, že finanční bezpečnost dodá člověku hrdější postoj v nebezpečích, které se v exilu vyskytují.
- Ve výroční den byly pražské vysoké školy střeženy příslušníky bezpečnosti, kteří na udržení pořádku byli vybaveni i lehkými kulomety.
+version https://git-lfs.github.com/spec/v1
+oid sha256:036dec3ce350933ce67c36842793730dbfe4217eb41d6851f6b3d044d2af088c
+size 277

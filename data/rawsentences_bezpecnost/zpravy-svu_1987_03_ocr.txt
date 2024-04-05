@@ -1,1 +1,3 @@
- dubna skupina uspořádala v klubu Americké univerzity ve Washingtonu výroční recepci, na níž promluvil předseda SVU Jiří Nehněvajsa na téma Mezinárodní bezpečnost: Mír, válka a zbraně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f3f1f6f13137656ee6eb86d37196889a38c88225559a1f262d9172c5832f123
+size 204

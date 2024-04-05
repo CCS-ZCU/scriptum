@@ -1,1 +1,3 @@
-dozvídat president Beneš poznamenat únor politika americký vláda vždyt zavánět vměšování
+version https://git-lfs.github.com/spec/v1
+oid sha256:91b5fa34c9f473408fa4baf6734a749643ba34f6f5817d81f8d90b394de3d1ae
+size 101

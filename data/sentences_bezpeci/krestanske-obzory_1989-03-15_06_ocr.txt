@@ -1,1 +1,3 @@
-Václav Havel věřit jít přijímat ^sát situace učedník večeřadlo strach Žid zavřený dveře situace děj opustit Jeruzalém hlfedat bezpečí Ema 2Ích doufat mít vykoupit
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6f4d8f0719446a69daeb384e2479742734b054d63323df138fe8437ea9cc23a
+size 179

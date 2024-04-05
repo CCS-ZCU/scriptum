@@ -1,1 +1,3 @@
- Na konferenci se jednalo o “Bíle knize”, kterou připravili Českoslovenští aktivisté za lidská práva pro zástupce 35 států, které podepsaly Helsinskou dohodu o spolupráci a bezpečnosti v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ff3e64ff7c168543c3d2b3ced5edf04a993da267d7ff4f695968e4c626db27
+size 214

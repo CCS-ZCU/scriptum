@@ -1,6 +1,3 @@
- Pietní akt připomněl potlačený studentský pochod z února 1948 Studentský pochod, který se odehrál před sedmdesáti lety a který potlačila bezpečnost, si v pražské Nerudově ulici připomněli jeho účastníci, studenti, akademici i politici.
- V horní části Nerudovy ulice je brutálně zastavila bezpečnost a Lidové milice.
- Jde o šedesát investičních akcí, jež zahrnují modernizace, posilování bezpečnosti a zvyšování výkonu.
- Povolení provozovat první blok mají energetici od Státního úřadu pro jadernou bezpečnost do poloviny října 2020, druhý blok do května 2022.
- V žádosti o obnovu licence, kterou musí ČEZ podat do dubna 2020, bude dokládat stav elektrárny i bezpečnostních systémů, musí předložit i plán, jak zvyšovat bezpečnost.
- Schválili Pracovný plán na rok 2018 predložený rakúskym líderstvom S3, ktorého prioritami zostávajú spolupráca v oblastiach dopravy, duálneho vzdelávania, energetiky a energetickej bezpečnosti, priemyslu 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6a337c876b13723e91f1de7f406c2dd255aacd0426e58b9a5c25788d999382
+size 1025

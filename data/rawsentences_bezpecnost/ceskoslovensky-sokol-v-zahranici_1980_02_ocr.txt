@@ -1,1 +1,3 @@
- Ale jednu věc musí mít vedoucí na paměti: bezpečnost! Nevybírejme příkré a příliš kamenité břehy, nebo nebezpečné, prudké či mohutné vodní toky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4723743470d2712a8f8dc270aa3d871a4b7b311c7467a574c5c0012fab419385
+size 167

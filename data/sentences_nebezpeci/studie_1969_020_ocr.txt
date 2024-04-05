@@ -1,8 +1,3 @@
-zbytný církev nebezpečí
-smýšlení žadatel bud ochrana nebezpečí riziko rodinný záležitost náboženský obřad přistupovat nutný okrasný přívěsek
-církev potíž hrozit nčjaký nebezpečí vystavený riziko první sesot trpět kněz
-veliký nebezpečí dnešní krize záležet osobní potíž kněz hrozit stát krize kněžství
-docenění liturgický svátostný funkce překážka šíření evangelium moderní svět
-biskup muset živoucí pojítko generace cena nebezpečí jedny zdát progresivní druhý opatrný
-toužit výška jaso vzlétající pták stoupající šťáva květina
-příslib lákavý síla přitažlivost umenšit nebezpečí zbloudit Aťsi zbloudit najít nový záchvěv harmonie krása pít palisáda les otvírat braný děs slyšet odhodlat zřeknout plout hloubka leknín
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9f72e8e386fd9e76bc38b8804bef815916b676577db45fc7eaf36d6a20901de
+size 962

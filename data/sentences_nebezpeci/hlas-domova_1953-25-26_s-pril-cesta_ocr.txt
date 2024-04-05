@@ -1,2 +1,3 @@
-Američan vidět nebezpečí marx leninismus
-rámeček cítit dtstojnost čest opravdový hodnota člověk nebezpečí ohrožený strana žít dávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6634a0aa1e4ce6c6aab45bea9fbe85449bc3e0d4621ed3ffcfd67cd1df38723
+size 164

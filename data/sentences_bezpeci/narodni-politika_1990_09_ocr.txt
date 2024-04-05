@@ -1,1 +1,3 @@
-—red— osmý strana národní politika září šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:0166b7d34b1db1304d2ae4575226618aebd273a57be17cbd0c4b00f2cbc28aaf
+size 87

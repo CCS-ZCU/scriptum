@@ -1,2 +1,3 @@
-humpolácký formulace naznačovat bezpečnost připravit akce zastrašit občan informovat cizina skutečný poměry země
-Rusko zaručit bezpečnost západní Berlin zřeknout strašák západoněmccký imperialismus povést utužení satelitní diktatura jistý uvolnění
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eee9fb79a63eb421ba32368b6ee31f1291baabc9a1ab70ce032e60450be0aa4
+size 276

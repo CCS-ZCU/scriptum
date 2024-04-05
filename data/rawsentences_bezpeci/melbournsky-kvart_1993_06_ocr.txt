@@ -1,1 +1,3 @@
- NIC, ZMIZEL, URČITÉ MAJ HO! Jestli ho mají, tak seš už v bezpečí, horší by bylo, kdyby ho nemohli dostat, táhli se za tebou a někde tě zkusili sejmout.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be188eef229cee16ff11f96b9672621968b07d7921cadf7f9cc3bfebcf7cad76
+size 135

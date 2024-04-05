@@ -1,5 +1,3 @@
- Při vystupování byl Stanislav Devátý zadržen příslušníky Státní bezpečnosti, kteří vůz britských diplomatů sledovali.
- Po propuštěni byl ihned, asi po minutí, cc byl na svobodí, zajištěn přivolanou gottwaldovskou Státní bezpečnosti, která ieka;2 s vozem před východem 2 ruzyňské věznice.
- Ráno k nímu přišil náčelník Státní bezpečnosti inženýr major Vlastimil Danek, který na Stanislava Devátého křtiei, že ho zlikviduje a nejrůzníjším způsobem mu nadával, a vyhrožoval.
- Stanislav Devátý držel od chvíle, kdy byl uvězněn ve věznici v Ruzyni a kdy na nem dělali příslušníci Státní bezpečnosti sví pokusy se psem, hladovku.
- Na to by) odvezen do Kromířire, kde je spádová prokuratura, na které je zaměstnán vyšetřovatel, který má na staresu konflikty mezi občany a Bezpečností v Kroměříži a v Gottwaldove.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b13e03975c9cb24838b24ebbd3b4b2482a73c8a7f65b59960cbc301ae59f0dd
+size 898

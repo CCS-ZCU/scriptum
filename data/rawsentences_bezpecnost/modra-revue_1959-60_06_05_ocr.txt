@@ -1,1 +1,3 @@
- Komunistický tisk na- padal beztrestně švehlu, jemuž přičítal k tíži činy jeho švagra (nemohu si dnes s bezpečností vzpomenout, byl-li £v ehlův švagr opravdu podvodníkem, či byl-li to jen komunistický výmysl).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a840afa1ab12533be2f502807c2206fd0692b2c76d369699205a0f1afddb10eb
+size 231

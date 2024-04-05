@@ -1,1 +1,3 @@
-zbavený záruka bezpečí stěna
+version https://git-lfs.github.com/spec/v1
+oid sha256:4125cdd87c9f0b249e2a9abcace55bc3c61560c2a7cbd3ffd786394f866608bb
+size 34

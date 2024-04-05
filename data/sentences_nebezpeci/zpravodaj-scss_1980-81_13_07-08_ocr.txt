@@ -1,1 +1,3 @@
-smrtelný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:86e0da19e94169e45b0a03d73edef50eb8343a313d4030b421633e8145c792cd
+size 22

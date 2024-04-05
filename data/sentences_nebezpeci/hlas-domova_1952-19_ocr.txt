@@ -1,1 +1,3 @@
-moci odpustit Anglosas přehlížet nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:1322643fc227a0d076caf025c3aca3df4e08af295c3cb7a0f5c9480c23c0798f
+size 55

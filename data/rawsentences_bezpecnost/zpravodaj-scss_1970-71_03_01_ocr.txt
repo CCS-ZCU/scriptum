@@ -1,6 +1,3 @@
- Ochotně podpisuje protokoly Státní bezpečnosti,které posílají jeho kamarády na smrt.
- Svou servilní výpovědí před soudem zachraňuje se doživotním žalářem, slíbil a podepsal další spolupráci s orgány ministerstva vnitra a Státní bezpečností.
- Základní vlastností, kterou musí mít každé vozidlo, je zaručení bezpečnosti celé posádce.
- Po stránce pasivní i aktivní bezpečnosti je při konstrukci použito nejmodernějších poznatku.
- Výkon vozidel, jejich prostornost i bezpečnost plně vyhovují potřebám všedních dnu, rekreaci i dlouhým prázdninovým cestám.
- Zařízení značně přispívá k bezpečnosti provozu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4250a16ffe4b345139c8203e8ff7c78d856d6346c41e7da778d3893e1be00fe3
+size 671

@@ -1,18 +1,3 @@
- Civilní zahraniční politika zvyšuje národní bezpečnost s nižšími náklady a mnohem organičtěji.
- Z hlediska východní Evropy se mi zdá, že by Západ mohl vykoupit svou bezpečnost mnohem levněji.
- Rusové máji právo na bezpečnost a také na naše přátelství; nemají však právo vymezovat a kontrolovat náš společensko-politický systém.
- Žijeme s vědomím, že naše bezpečnost a svoboda jsou neustále ohrožovány, žijeme s krutým ďáblem dějin, který žádá, aby se bezbranný občan musel bát, abychom misto revolveru ukrývali pod poduškou vodíkovou bombu.
- Zelení popírají, že by skutečně existoval problém bezpečnosti - to všechno je výmysl Spojených států.
- Jedním z nich je skutečná sovětská hrozba americké národní bezpečnosti a mezinárodním zájmům.
- Sovětofóbie, stará a známá politická nemoc, ohrožuje demokratické hodnoty, deformuje rozpočtové priority a ohrožuje národní bezpečnost perspektivou nukleární války.
- 14, September 1981) uveřejnil generál Cvigun ako prvý námestníkpředsedu KGB, zodpovědný za vnútor- nú bezpečnost, článok o úspěchách KGB v boji proti disidentom, ktorých kvalifikoval ako „zločincov".
- Mnohé ukazuje na to, že šlo o provokaci NKVD a polské bezpečnosti.
- Stalo se, co se dalo předvídat: před válkou (jak tomu obvykle bývá u neteritoriálnich menšin), byla krajni intemacionalistická levice populární mezi židovskou mládeži a inteligencí, a tak se v aparátě nové moci a zejména v jejím represivním aparátě (bezpečnosti) objevilo nemálo Židů nebo lidi židovského původu.
- Role značného počtu přeživších polských Židů a rovněž Poláků židovského původu v bezpečnosti a v celém aparátě komunistické moci připomínala rok 1939, kdy značná část židovského obyvatelstva východních území s demonstrativní radosti — krátkodobou — vítala rozklad republiky a okupaci.
- listopadu zaslala vláda Jánoše Kádára, nastolená Sověty, jugoslávské vládě dopis, ve kterém zaručila Nagyovi a jeho druhům bezpečnost a zdůraznila, že nemá ani v nejmenším v úmyslu proti nim zakročit a že se tedy mohou „bezpečně vrátit do svých domovů“.
- O čtyři měsíce později, aniž jim rumunská vláda odebrala právo azylu, je se souhlasem téže vlády sovětské vojenské letadlo převezlo s páskami na očích a pouty na rukou z Bukurešti do Budapešti v doprovodu plukovníka maďarské Bezpečnosti, který dnes působí pod jiným jménem jako maďarský velvyslanec v Moskvě.
- Podobné jako jeho předchůdci, potvrdil Mitterand svou věrnost atlantické alianci, ale zdůraznil odhodláni Francie určovat svůj vlastni kurz; učinil kroky k zesílení francouzského jaderného arzenálu, ale odmítl  znovu zapojit Francii do systému veleni NATO; potvrdil oddanost Francie politice détente, ale zároveň ukázal, že bude bránitzájmy francozské bezpečnosti v Evropé a ve Třetím svétě; potvrdil, že Francie akceptovala evropskou hospodářskou integraci, ale neprojevil sebemenší sklon podporovat nadnárodní politickou integraci.
- Krátce před volbami varoval, že bezpečnost západni Evropy (nemluvě o Francii) vyžaduje drastické sníženi počtu sovětských raket SS-20.
- Náš neurochirurg, také důležitá osobnost v hierarchii strany, otevře zítra třesoucími se prsty hrudní koš kolegy z vedení strany a ponoří do něj skalpel, prověřený úředníky státní bezpečnosti, skalpel, který možná přetne správný nerv a umožní vůdci plynně pronášet projevy na manifestacích a sjezdech.
- Předtím však vejdu já do sálu, střeženého pracovníky bezpečnosti.
- Takový nešťastný národ se zdánlivě chová docela přirozeně, s úctou naslouchá své hymně, volí si národní shromáždění, má velvyslance, zasedá v Radě bezpečnosti, zkrátka chová se jako každý jiný suveréní stát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:257ad69d3b2745dd4625354c4c350e0d2ad379b1dcf4d52a12b82811d7193f13
+size 3987

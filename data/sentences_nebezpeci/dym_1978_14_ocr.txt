@@ -1,1 +1,3 @@
-Leštná nebezpečí kluk slovo sesout podlaha
+version https://git-lfs.github.com/spec/v1
+oid sha256:33d683fa56f8464289f64c6a566b9eb7faf46d96b19bf12d82c3653de8fab178
+size 47

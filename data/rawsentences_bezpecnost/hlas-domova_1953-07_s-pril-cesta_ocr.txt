@@ -1,1 +1,3 @@
- iHD 6/lIl/„Podle slov náměstka předsedy vlády a ministra státní bezpečnosti Karola Bacílka ”zasloužil se nejvíce o odhalení Slánského spiklelfcj; neckého střediska” .
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c60414635e63b4fb2c59ecb7e4d86705d5fa9e67c56451a05c22676e209639a
+size 189

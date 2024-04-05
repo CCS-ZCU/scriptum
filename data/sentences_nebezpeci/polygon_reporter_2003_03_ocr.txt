@@ -1,4 +1,3 @@
-jiný nebezpečí představovat kritický připomínka část reforma
-mythizace armáda pokračovat doba komunistický soudný člověk jasný strana armáda namířený nebezpečí hrozit směr přepadení hrozi nový Polygon rech potřebný země vojenství
-vždýtovat policista jít svědčit říkat advokát Jaroslav Brož existovat nebezpečí uniforma schovat
-spoluorganizátor známý prohlášení představitel český šlechta adresovaný prezident Beneš signatář postavit obrana Československo hrozící nacistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3fa2f2e18557d446818215ac0cda38e57731cd897525a2b647fb5a635a6d46
+size 544

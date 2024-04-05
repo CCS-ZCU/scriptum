@@ -1,1 +1,3 @@
- mládeže jsou rekrutováni do ’’pomocné stráže” Veřejné bezpečnosti, aby pomáhali v ’’potírání páskovství”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58c96ec7ac4d97debb8107116fd1ad32d06ef9e9083fe2bb125e485664c74131
+size 134

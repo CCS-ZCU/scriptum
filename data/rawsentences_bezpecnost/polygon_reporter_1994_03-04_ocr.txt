@@ -1,3 +1,3 @@
- Je naivní pochybovat o tom, že president Clinton si u Číňanů vykoupil právo veta v Radě bezpečnosti, až budou USA požadovat vyhlášení sankcí vůči Severní Koreji.
- Jen několik málo politologům a historikům s úzkými konekcemi k Státní bezpečnosti (Václav Král, Antonín Šnejdárek) bylo povoleno zabývat se ošidnou sudetoněmeckou thematikou, samozřejmě přísně v intencích rudých mocipánů a podle jejich měnících se okamžitých potřeb.
- Při rozhánění jednoho nepovoleného koncertu a následující hromadné rvačce s Veřejnou bezpečností prý se sice nepral (Roman byl drobný kluk), ale zato hulákal: „Bijte je, bijte je!" A mne pak predvolávali stále častěji na okresní oddělení SNB, snažili se mě obvinit z „rozšiřování západní kultury“ (tehdy jsem nevěděl, že takový paragraf vůbec neexistoval), příslušník VB, který mě osobně znal dlouhé roky, mi často dělal „běžné“ kontroly občanky a řidičáku ve dvě hodiny v noci, zabavili mi cestovní pas, protože „nebylo v zájmu Československé socialistické republiky, abych nadále cestoval do ciziny".
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5475c0f83b190da08c01c3ad66a173537637e26c3dcc1417d33e96784977aa1
+size 1158

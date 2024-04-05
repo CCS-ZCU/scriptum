@@ -1,6 +1,3 @@
-dnešní doba vidět opovážlivost nebezpečí
-scházet klamný nauka domněnka nebezpečí varovat vyvrátit
-sen přispět připravený nový ovzduší vzdálený nebezpečí válka metla národ
-hlavní projev mít ministr Plojhar nebezpečí mír světový sjezd odzbrojení mír konaný červenec Moskva německý otázka chystaný koncil
-otec pronést mimořádný francouzský rozhlasový poselství vyzývat vládce národ upřímný vyjednávání odvrátit nebezpečí válka zachovat lidstvo metr katolík věřit bůh zvát modlitba mír
-skolení dít strach imperialista rozpor mírový zásada cíl zahraniční politika
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f3592622063ed03d217b18c9c32c02cc25df355ab60d258a8d617fff2fa16c
+size 634

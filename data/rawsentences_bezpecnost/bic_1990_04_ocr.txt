@@ -1,1 +1,3 @@
- Čtyři agenty východoněmecké STASI / komunistické státní bezpečnosti/ zaučuje instruktor pořádné práci na soustruhu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a56ceab7ce5deffad955213b563b0f70b7210e147ebb90fbb43b03d75b8245f
+size 131

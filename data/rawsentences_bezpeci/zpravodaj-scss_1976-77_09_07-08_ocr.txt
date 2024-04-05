@@ -1,1 +1,3 @@
- Ty můj kraji, ty mé bezpečí, ty má zatvrzelosti, ty má věčnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0687dd6bf78e89f96e9f58fc30db74fc17bcd89e423a7e0e127feb11e4ae454a
+size 74

@@ -1,1 +1,3 @@
-zásadní pravidlo zastupitelský úřad hranice mít právo poskytnout výjimečný případ asyl svojich budova osoba ohrožený vážný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:797825b58435f0f71b192afbf7d12b67290e019bf2bcdf62136682e3bb5a812e
+size 152

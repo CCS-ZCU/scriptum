@@ -1,1 +1,3 @@
-rok Slovák nebezpečí pomadarštění konec druhý světový uálka Slouácl ocitnout situace poražený národ zásluha stát součást Československo dostat národ vítězný
+version https://git-lfs.github.com/spec/v1
+oid sha256:5041a87c8b6e48a89b4898800b6bd3894259701276cee436bd3b74d6af1e307b
+size 180

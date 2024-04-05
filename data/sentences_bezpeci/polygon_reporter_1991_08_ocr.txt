@@ -1,1 +1,3 @@
-znát výhoda třetí sloupec jistota chtít vědět nutný nutný otázka pojišťování vyřizovat náhrada škoda pojišťovna Švýcarsko Německo Československo platit velký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac1e02f12d99a4800575c7f1135241d960d4c155538c34a54cb73e693e32af08
+size 187

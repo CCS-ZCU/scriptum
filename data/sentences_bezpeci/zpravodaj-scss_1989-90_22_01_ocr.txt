@@ -1,2 +1,3 @@
-vznešený idea lidský bytost osudový chvíle mocný hnací síla úsilí egoistický bezpečí snaha svobodný individualita lidský právo
-Petr Chudožilov ÓDA pohyb myšlenek
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d569982098682e4c605f705453d62cd68c44537847b612669a5af0192dca854
+size 181

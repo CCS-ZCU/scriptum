@@ -1,4 +1,3 @@
-vášeň pokrokový kruh nebezpečí zbrojení horečný
-sovětský tiskový agentura novost uveřejnit minulý den článek dnešní křestanství boj nebezpečí válka tvrdit římsko katolický církev zaujímat otázka dvojaký postoj
-současný pronikání komunistický nebezpečí území JAR
-Záhir šáh uvědomovat nebezpečí hledat sblížení Čína pozice Sovět silný
+version https://git-lfs.github.com/spec/v1
+oid sha256:16f1888321bd820b9fb0e8291640bcb6f554d9d0ae48f0a12e6cce867889a59e
+size 385

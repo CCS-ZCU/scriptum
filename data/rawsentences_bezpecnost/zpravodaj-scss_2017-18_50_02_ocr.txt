@@ -1,1 +1,3 @@
- ročník  REZIDENCE RoSa • Byty 1 kk, 2kk - nájemní bydlení se službami pro seniory • Otevřenost vůči veřejnosti, bezpečnost a soukromí pro klienty • Výborná dopravní dostupnost do centra Prahy (trasa metra C, zastávka Kobylisy) • Asistenční pohotovostní služba • Praktický lékař a psychiatr přimo v objektu • Aktivizační programy, knihovna, multifunkčnísál • Kavárna, restaurace, kadeřnictví, manikúra, pedikúra • 24h tísňová péče a ostraha objektu Střelničná 1680/8, Praha 8 | info@rezidencerosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ca6728c3dce823b142e056f4de35a5c134b39463b91235c785d8142da81bab
+size 556

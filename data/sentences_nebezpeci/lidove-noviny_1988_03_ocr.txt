@@ -1,3 +1,3 @@
-hrozit nebezpečí armáda přepadnout sovětský svat zatrhnout noviny svo bodný psaní lze doufat Kuprjanův článek začátek objektivní informování sovětský tisk česko slovenský problém moci mít dobrý vliv nměze
-ten hrozit akutní nebezpečí restaurace kapttaltspio
-malý tušit hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4455c9683f7535a993c54a381d3f537d2215420f4d9c3ff01b1a90b5a57f3051
+size 314

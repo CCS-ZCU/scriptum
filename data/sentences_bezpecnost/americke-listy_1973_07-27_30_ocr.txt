@@ -1,2 +1,3 @@
-patřit perspektiva velký obchodní kulturní styk Američan cestující československý velký bezpečnost
-Praha překážet úsilí sovětský svaz zmírnění napjetí Evropa ohrožovat bezpečnost vlastní sovětský
+version https://git-lfs.github.com/spec/v1
+oid sha256:91a7f66bd93137d29bb9c03d6f78655c0367cc458b0d19740306fc61b8557f4f
+size 223

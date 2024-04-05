@@ -1,2 +1,3 @@
-Václav Malý přednést projev otázka porušování náboženský svoboda situace církev hovořit situace politický ohled lidský právo základní kámen evropský dům muset lidský právo Evropa stát velký nebezpečí vytvořit oso Berlín Praha Bukurešť nebezpečí muset zabránit zájem země celý východní Evropa Evropa
-opačný případ nebezpečí národ osvojit filozofie přežití kolaborace
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa0ba6c44c9631aea9202e88f047d4b2e1224f38474ddf2240096f085a28fa49
+size 415

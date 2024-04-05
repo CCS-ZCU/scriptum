@@ -1,1 +1,3 @@
-reformní důslednost hrozit další bezpečí patrný způsob konzer vativní skupina opakovaný vyjadřovat zkušenost obrodný proces
+version https://git-lfs.github.com/spec/v1
+oid sha256:705de3e588aacf65f97748be834195adf1fd952a984655ae6bed9175e9bbac6b
+size 137

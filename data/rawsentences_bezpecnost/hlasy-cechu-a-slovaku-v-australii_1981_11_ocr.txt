@@ -1,2 +1,3 @@
- Státní Bezpečnost dostala pří' kaz zvlášt pečlivě sledovat osoby, které si tzv.
- Je nyní mimořádným profesorem pro otázky národní bezpečnosti na vysoké škole amerického námořnictva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9fd068b16161ecaa9e6a7be03c45bfb434f06eb0a66ce1d459a7ea109c41628
+size 206

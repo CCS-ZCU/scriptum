@@ -1,4 +1,3 @@
- Měsíc bezpečnosti a ted’ co nevidět nastane Měsíc zostřeného přátelství, a máme dny — Den žen a Den železničářů a Den tisku a Den esenbáků a Den dětí.
- Přemyslu Coufalovi, na mrtvé ze závalů v uhelných a uranových dolech, na zastřelené ze Šumavy, na oběti toho, čemu se v hantýrce Státní bezpečnosti říká “aktivní opatření”.
- oba zemřelí už brzy po únoru 1948, oba ubití při výsleších na Státní bezpečnosti? Kde skončil popel popravené dr.
- Komedie, nic jiného, protože je dobře známo, že popel všech ■popravených převzala v krematoriu Státní bezpečnost a že byl rozsypán kdesi na zledovatělé benesov - ské silnici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d146c4be6e7c92b746cd4ef51ac83458b6cc5a2c5163a4218e153e192a37bca4
+size 700

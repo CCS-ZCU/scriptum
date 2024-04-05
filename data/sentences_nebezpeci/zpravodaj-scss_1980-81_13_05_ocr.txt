@@ -1,2 +1,3 @@
-pohlcující materialismus slepý ziskuchtivost vyvolávat nebezpečí surovina příroda nahromadit léta promarnit desetiletí
-případ krajní situace ohrožení nebezpečí vyjadřovat základní zkušenost člověk doba člověk hroutící svět zkonstruovat pevný klenba opřít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2bc3b2d90ac4c664dc5722afd160e6c6c09856dcec38db49fa11bc8ea3bce59
+size 286

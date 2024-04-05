@@ -1,1 +1,3 @@
- Není však i tak dokladem oné časté beznaděje, která tak silně tíž í církev ? Což ji nepozorujeme v kolektivní rezignaci -a depresivních náladách v posledních letech u mnoha konventů, obcí,■ordinariátů i diecézí ? Zdá se, že je čím dále tím méně křestanů a hlasatelů radostné zvěsti, v jejichž životě by prozařovalo něco z bezpečí a naděje víry ve vzkříšení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a32fd2f7fc7a017b94954fd52d6fb8288fbd198c79e023cda4de3004016913fa
+size 172

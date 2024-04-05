@@ -1,2 +1,3 @@
-podat důkaz skutečný protisocialistický nebezpečí považovat nutný konfrontovat československý skutečnost ortodoxní teoretický poučka
-počítat trvalý opakování tvrzení nebezpečí pravicový protisocialistický síla pouhý neustálý značkování lidé zafixovaný představa existence síla čas zapochybovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:553c928b1d016ce207d18c25e17c6a9daadd7d540d2e4cea0362784f5c7a24d1
+size 330

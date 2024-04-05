@@ -1,1 +1,3 @@
- Oheň znamenal lidi, vodu, jídlo, bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feb2f7449c650f53ee520c0251b2adba286d4a1b2b31ceb64e5f5feede07fd49
+size 47

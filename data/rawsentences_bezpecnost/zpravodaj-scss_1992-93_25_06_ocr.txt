@@ -1,4 +1,3 @@
- Hloubali státníci nad otázkou, hloubali, kdože teď zasedne de Rady bezpečnosti na prázdnou židli po nebožtíkovi Sovětském svazu? Až se dohloubali.
- Nu což; třeba bys v Radě bezpečnosti na dálku antarktického tučňáka od ruského delegáta ani nerozpoznal; oba by měli fraky.
- Ale časem přijde zase jiná změna, a moudří diplomaté ji vyřeší opět tak mistrně, jak to s tou rozviklanou sovětskou židlí v Radě bezpečnosti.
- Ale státní bezpečnost nemiloval a potom, co by jim asi povídal, když se s nikým moc nebavil a nekomunisté jeho společnost nevyhledávali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f9eb7001ef990dff5b405ae6d21ce490aa15ce19af84e0bc75f9d398bcd367f
+size 605

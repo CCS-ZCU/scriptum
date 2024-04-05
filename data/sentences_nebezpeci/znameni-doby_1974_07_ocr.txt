@@ -1,2 +1,3 @@
-děsit déše průchod městský ovzduší nasycený jed stávat sprcha agresivní kapalina hluk základ otřásat křehký zařízení nervový systém člověk velký nebezpečí
-hlídat
+version https://git-lfs.github.com/spec/v1
+oid sha256:12655b77590c543b44d066ce75acacca173674dc37647f935534456f4aeb8a55
+size 189

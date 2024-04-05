@@ -1,3 +1,3 @@
- politika Na schůzce s pracovníky ministerstva zahraničí a šéfy diplomatických misí uložil přítomným Ceaušescu, aby vysvětlovali smysl všech rumunských zahraničně politických akcí tak, že jsou podnikány v duchu mírové koexistence, v zájmu dorozumění a spolupráce mezi národy a pro upevnění míru a bezpečnosti.
-” BRATISLAVA TAKÉ VYHOŠŤUJE Ve dnech po jedenadvacátém srpnu bylo v součinnosti Veřejné bezpečnosti a Státní tajné bezpečnosti zadrženo celkem 5 turistů ze Švédska, NSR a Jugoslávie a tři novináři (Paris Match, Die Welt, Neues Revue).
- Řekl, že sovětský zásah vůči Československu loni v srpnu byl, “nesmírnou tragedií nejen pro československý národ, ale i pro všechny lidi, věřící v mír, bezpečnost a spravedlnost”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3abb124eb6d9675914141a573747e1007b04d7c1765db60f1605bc4b7705b26
+size 806

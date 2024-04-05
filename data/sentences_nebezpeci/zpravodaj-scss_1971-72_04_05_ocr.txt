@@ -1,1 +1,3 @@
-upozorňovat nebezpečí obsažený sovětský návrh evropský bezpečnostní konference přijetí znamenat posílení sovětský imperialismus moc ujařmený národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3230c13d2daf3534570cfc8da0d2578b95a53ee2bb1b45feb3879d84b68535d
+size 167

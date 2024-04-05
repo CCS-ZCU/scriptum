@@ -1,3 +1,3 @@
-zajistit hranice nebezpečí vpád
-Přemysl tušit nebezpečí skrývat mít
-jiný nebezpeČí ňemuž pevný hradba slabý vel mistr řád zároveřý říšský kníže kusit založit řád stát stát země uherský bratr český královna
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c356b94133790dba13f20261c1b2885af9b4a0703776c26a8f98e4b9664b392
+size 243

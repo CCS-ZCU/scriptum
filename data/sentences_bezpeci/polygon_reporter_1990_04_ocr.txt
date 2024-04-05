@@ -1,1 +1,3 @@
-telefon zamýšlet podnikat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b2702d688dd067f8c6aaf5c2fd759a8a70a6a30eeda8c19ad88ed502a315abe
+size 28

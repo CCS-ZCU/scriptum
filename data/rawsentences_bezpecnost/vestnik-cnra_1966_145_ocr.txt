@@ -1,1 +1,3 @@
-” “Jací soudruzi?” “Nu, víš, jsou z výboru státní bezpečnosti (tajné policie).
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e546f276e0bdca19b35c5cd1f6beaeb94438a9c7df5d6dc50b751ad85cea1d
+size 95

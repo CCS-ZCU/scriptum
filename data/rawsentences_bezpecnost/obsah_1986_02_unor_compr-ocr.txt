@@ -1,3 +1,3 @@
- Milan Lukeš spatřuje pozitivní zvláštnost Kulturního fóra v tom, že "kulturní osobnosti usedly za jeden stůl s diplomaty a že společně s nimi jednali o možnostech mírové spolupráce: problémy evropské kultury byly tedy podřízeny problémům evropSké bezpečnosti.
- Evropská bezpečnost a světovým mír jsou podmínky důstojného života a kultury, a tak se snad rozuná samo sebou, že se delegovaná umělci sta.
- Ůsllí podřídit problémy evropské kultury problémům evropské bezpečnosti je totiž podle mne falešné a pochopitelné jen jako produkt krátkodobé účelové kampaně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:399265bc077f6f7c0e168cf07fd875e46dcdc464aff72e6646d8b5072d20cbd5
+size 620

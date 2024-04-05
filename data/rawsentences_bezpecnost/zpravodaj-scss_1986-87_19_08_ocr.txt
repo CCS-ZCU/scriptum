@@ -1,4 +1,3 @@
- - Jen pro cizince podotýkám, že jsme se s Milanem nedopustili ničeho trestného, nebyl tedy důvod považovat ty držáky za muže zákona, a já ani netvrdím, že byli od bezpečnosti! Proto se s hanbou ptám: proč jsem jim nedal jednu nebo více facek? Oslabený právní cit! Našel jsem prázdné kupé, usadil se, a tu mě jeden z těch mladých násilníků požádal, Ota Ulč abych mu půjčil ten strojek a štětku.
- "Hospodársky utečenec" SBOHEM HELSINKY! 3ak je známo, skončila konference expertů pro bezpečnost a spolupráci v Evropě, která měla kontrolovat plnění Helsinských dohod a zasedala v květnu t.
- "koše" námětů o bezpečnosti a spolupráci v Evorpě a o lidských právech.
- Konečný v telefonu svou lest přiznal, ale tvrdil, že mu šlo o Waltonovu bezpečnost, nikoliv o jeho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfd55216606e2270b553c3647731fe5e013c8725205c4a233c21c61db8e1651b
+size 828

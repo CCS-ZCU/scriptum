@@ -1,1 +1,3 @@
-matka bezpečí dítě důležitý vlastní život
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c8b5a6dff228372ab2011d720d5a316c3cbe7e68e0910801ea1660702a0ab77
+size 51

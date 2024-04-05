@@ -1,4 +1,3 @@
-modlitba prostředí nebezpečí číhat
-psát první strana zambijský deník projev vyjadřovat myšlenka Afrika prodej komunismus nebezpečí
-otec vzpomenout mládí okusit práce lom znát nebezpečí vzpomínka tragický příhoda provázet celý život
-Benedikt nebeský ochránce Evropa vyzývat ustat násilí sužující Itálie zmizet strašný nebezpečí hrozit člověk nástroj ničení dovést vytvořit
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1db244b4ec2b5734e5b00af005fe54729f7b049cf7db9ff640c883d7c2f6132
+size 419

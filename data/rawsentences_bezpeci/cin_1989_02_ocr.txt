@@ -1,1 +1,3 @@
- Jak být doma v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2a8b35f061350bcb53ef0145d313e499da2b657c83b502c42d2df6b7c0eb40
+size 28

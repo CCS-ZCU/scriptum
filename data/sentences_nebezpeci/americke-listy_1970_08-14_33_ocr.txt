@@ -1,2 +1,3 @@
-logický hrozit Československo nebezpečí odpadnout německý revanšismus
-dělnice nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae654c4bb93f45be655c015fce20ea8a14250bb47367a62f02bffd7799bd9336
+size 98

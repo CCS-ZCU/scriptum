@@ -1,1 +1,3 @@
- Druhý । spočívá v rozdílném nazírání leteckých společ- I uostí na bezpečí cestujících.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b12b44840d9ab777817ab859e95d3d0935a1ae174fb8274b1e506cac73cfead
+size 104

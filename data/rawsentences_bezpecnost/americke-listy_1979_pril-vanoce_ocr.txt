@@ -1,1 +1,3 @@
- Americká vláda v té době dvakrát varovala iránskou, že “ponese veškerou zodpovědnost” za bezpečnost čtyřiceti devíti rukojmí, dosud držených v Teheránu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c601ffe0c67d80789a3afc439feb4fa157069215e515db6361f3a5c7cccab357
+size 175

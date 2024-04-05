@@ -1,3 +1,3 @@
- Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšši možnou záruku solidnosti a bezpečí.
- Nynějším hlasováním se občanům České republiky dostalo bezprecedentní možnosti rozhodnout o svém místě v Evropě, o své příslušnosti ke společnému prostoru bezpečí, práva, spravedlnosti, prosperity a dobrých sousedských vztahů.
- A že ovšem nebude míru a bezpečí, dokud bude existovat Izrael (zde nazvaný „monstrous Zionist entity“).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa59ba0f929d1ef69447fd665581498820194f016d2b8fcef166f25d6ab30084
+size 477

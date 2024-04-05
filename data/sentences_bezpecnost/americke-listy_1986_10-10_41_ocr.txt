@@ -1,3 +1,3 @@
-jmenovaný komise senát nabádat velký změna vládní instituce mít starost bezpečnost země doplnit nový detail obvinění učinit vládní administrativa sovětský svaz zneužít
-státní bezpečnost reagovat způsob vlastní
-státní bezpečnost odejmout podpisový arch podpis mít chvíle zadržení
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafadfa310b747a6536705e975f03978f7e80dcb780fdb1b438ed35b7ac2d632
+size 312

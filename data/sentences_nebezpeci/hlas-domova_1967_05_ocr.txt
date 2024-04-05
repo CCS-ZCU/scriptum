@@ -1,1 +1,3 @@
-vláda generál Suhart pravděpo dávat přednost exil předejít nebezpečí srážka počětný sukarnový stoupenec
+version https://git-lfs.github.com/spec/v1
+oid sha256:61a48279bbc488ec1a7a6222ebe27d89c61278cacb7b9ee5aacab22fc657d57d
+size 109

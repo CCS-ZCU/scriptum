@@ -1,2 +1,3 @@
-hlava lehký pokrývka nebezpečí úpal
-umět kloktat
+version https://git-lfs.github.com/spec/v1
+oid sha256:25024b77480f26b790f2c2cada9817b494e03f71a6301c6828c7de8e69bff18f
+size 55

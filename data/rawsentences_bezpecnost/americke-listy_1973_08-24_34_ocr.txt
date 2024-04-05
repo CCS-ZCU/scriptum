@@ -1,3 +1,3 @@
- ČESKOSLOVENSKÉ DROBNIČKY O tisíc trestných činů méně zaznamenaly orgány bezpečnosti na Slovensku za první polovinu letošního roku ve srovnání se stejným obdobím loňska.
- Bylo to opatření rozumné i z hlediska naší bezpečnosti.
- Technici začali ihned zajišťovat možnost vysílání, byla provedena i zásobovací opatření a ministr vnitra vyslal na naší ochranu i několik příslušníků bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b6d8ed3a8fd477af7d7a28b651c97b9937af7de7df7c96c51d92e91976795f
+size 436

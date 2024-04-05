@@ -1,2 +1,3 @@
-ověřit radost vítězství náhlý nebezpečí dokázat národ sjednotit
-krůpěj krev kapička malý patrný ohraničovat jemný kůže ruka znamení nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3adeb8fc65b4767f36d256854509f35c7f4b57fa3b38988a7eab3b3bf863365
+size 165

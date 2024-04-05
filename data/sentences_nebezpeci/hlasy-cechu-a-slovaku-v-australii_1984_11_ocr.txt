@@ -1,2 +1,3 @@
-sovětský sportovec nebezpečí Amerika hrozit ohrožený sovětský propaganda atlet požádat azyl vypovídat Amerika poměry mateřský země socialismus
-pan doktor Basset prohlásit nový Zealand stát zóna prostý jaderný technologie nebezpečí zásah jaderný zbraň vyloučený
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c0ebaa3b33871733c972d43c6190532385d32d1419e00658aa1c920121c266
+size 289

@@ -1,1 +1,3 @@
-americký ministr zahraničí Haig prohlásit existovat akutní nebezpečí AMD AVE
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9aa220c9e6d30d0490fcc0302a5cde3833bd51a551572dc469b371c0b18572c
+size 84

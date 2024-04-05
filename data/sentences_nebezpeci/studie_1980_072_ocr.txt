@@ -1,4 +1,3 @@
-zdůraznit promluva mluvit všeobecný deklarace lidský právo základní rozměr schopný základ zvrátit systém strukturovat celek lidstvo osvobodit lidský existence individuální kolektivní nebezpečí hrozit
-Marx rozpoznávat hluboký nebezpečí spočívající pouhý vněj šímý převod moc odstraňování individuální soukromý vlast nictví
-malý křesťanský skupina vzniknout poslední léta rostoucí potřeba lidský společenství dnešní anonymní společnost žít nebezpečí izolace přizpůsobivost
-vidět soud lidé událost čitý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee7f5e6930bbea39e5016142633d0c7eb3f1ab7eb78a1efa5ca67324d3a3dcfa
+size 574

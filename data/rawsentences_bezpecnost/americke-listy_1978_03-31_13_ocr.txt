@@ -1,2 +1,3 @@
- Ale Brown řekl, že Střední východ jako takový, se svými zásobami strategicky důležité nafty, je nedílnou částí americké bezpečnosti a Spojené státy se postarají o jeho obranu.
- “Střední východ a Perský záliv nemohou být odděleny od naší národní bezpečnosti a od bezpečnosti našich spojenců v NATO a v Asii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c051f45999608aa700105dddd212e88465cfd7fe013922230570952228e8c25
+size 345

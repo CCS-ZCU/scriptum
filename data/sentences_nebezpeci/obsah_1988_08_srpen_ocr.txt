@@ -1,2 +1,3 @@
-svět táhnout euroamerický civilizace pojem obsažený rozpor nebezpečí lepší možnost•
-podklad zájem očekávání další politický sociální jiný požadavek společnost diferencovat vznikat rozdrobovat rozpadávat politický spojenectví společenský makrosféra mikrosféra
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fe1d31ed7a8e42b0bada6ecb7d2cff031db154491729331b4f1fa04f82c8c49
+size 291

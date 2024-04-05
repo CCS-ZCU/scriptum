@@ -1,4 +1,3 @@
- Jejich směr- nicemi se pak řídí bezpečnost i justiční orgány.
- Když příslušníci veřejné bezpečnosti vedli čtyři mladé muže v řetízcích po chodbě, dá- vali jim svou účast a podporu najevo svými pohledy či máváním všichni: ti známí i ne- známí.
- Evropské konference o spolupráci a bezpečnosti byl celkový stav sovětských vojsk ve východní Evropě ještě zvýšen o 100.
- srpna 196S zvolený zástupcem prvního tajemníka KSČ, byl zavolán státní bezpečností na pohovor, při němž byl varován před podpisováním dalších prohlášení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3522528dada1f63c9fd4a3e0465d51bde7d433bcb05ac53466c712cdba6673
+size 592

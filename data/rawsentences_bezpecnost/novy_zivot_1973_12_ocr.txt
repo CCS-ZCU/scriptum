@@ -1,2 +1,3 @@
- * Sdružení mělo své zástupce i v oficiální čs delegaci na moskevském sjezdu » mírových sil, za mezinárodní bezpečnost a odzbrojení, za národní nezávislost, spolupráci a m ír«; byli to biskup J.
- Vše má být skončeno před skončením Konference o evropské bezpečnosti a Rozhovorů o snížení vojsk ve střední Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e693b108129781869de9c3045d6b98aa0aa290a9a4bbbce117916918698e9119
+size 350

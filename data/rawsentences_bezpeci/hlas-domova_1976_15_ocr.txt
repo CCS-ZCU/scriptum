@@ -1,1 +1,3 @@
- Na jejich nel svobodné straně platí totéž a totéž tam znamená kolaboraci s těmi, kdo zaručují bezpečí a přidělují prebendy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:399dc0effad3f02c20c20847da40c774a36f95a29065a8d706260b0165b904a0
+size 141

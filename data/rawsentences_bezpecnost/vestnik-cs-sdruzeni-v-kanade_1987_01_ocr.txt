@@ -1,1 +1,3 @@
- ) K danému problému se naše organizace opětovně  vracela ve všech svých podáních pro vypracování dokumentů pro kanadská jednání pro konference o bezpečnosti a spolupráci v Evropě, Helsinki Accord, ať již se jednalo o zasedání v Bělehradu, Madridu, Ottawě, Bernu či Vídni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ada43612d2ff7a93bb36344c25e2ab49202751df4be8206d429ddaa877e1bb
+size 299

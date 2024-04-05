@@ -1,1 +1,3 @@
- Prezidentův poradce pro otázky národní bezpečnosti McFarlane prohlásil v televizi, že sovětská strana přijde s nějakou odpovědí za několik měsíců.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31dd9955e5d26d46c2daab384957e6200157dd517eb7363beb7af75f236e5c04
+size 165

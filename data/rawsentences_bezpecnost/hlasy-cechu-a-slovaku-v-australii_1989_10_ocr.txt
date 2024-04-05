@@ -1,1 +1,3 @@
- bezpečnost zadržela v Brně a v Praze tři Brity, kteří se pokoušeli rozšířit 1200 letáků, ve kterých měli "propagovat nezákonnou skupinu, jejíž aktivisté z řad čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2190e440753485dc0103f466937f55ad47070e690ddcc9ddf2b7f9c1826e17c
+size 184

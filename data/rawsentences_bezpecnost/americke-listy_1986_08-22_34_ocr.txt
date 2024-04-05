@@ -1,1 +1,3 @@
- Sovětský svaz prostě tyhle věci dělá, a svět přece musí usilovat o mír a bezpečnost, takže o československém roce 1968 se raději nezmiňovat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8d3340c32a1d9c9a1fa92ebc6383b0f045b8b032d815e8cb3913db53137cfec
+size 158

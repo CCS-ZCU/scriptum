@@ -1,2 +1,3 @@
-výkonný motor nový konstrukce karoserie interiér vozidlo zvyšující bezpečnost jízda pohodle cestující
-státní svazek moci spolkový republika Německo ručit bezpečnost komunistický země
+version https://git-lfs.github.com/spec/v1
+oid sha256:b74a74e10b410b45531d6570a13992d0f4c755afc60f88e7a04b1a240d3aaa3e
+size 202

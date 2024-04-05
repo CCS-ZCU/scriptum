@@ -1,1 +1,3 @@
- Československý vývoj prohloubil všeobecné úvahy o jednotlivých sporných evropských otázkách, včetně otázky německé a včetně evropské bezpečnosti, tolik v posled- ní době v z ý v a n é i těmi, kteří neza- ručují bezpečnost ani svým smluv- ním partnerům^ Svým " nerealis- mem " se stalo Československo nej- větším poválečným apelem k evrop- skému realismu, který není ovšem ani zdaleka totožný s kapitulací před daným stavem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5fbf809aa3658340689951f34b2b19cfceef288990a91988057a3069e412fc
+size 475

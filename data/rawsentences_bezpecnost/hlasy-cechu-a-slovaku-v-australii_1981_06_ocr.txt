@@ -1,6 +1,3 @@
- Rád zapomněl, že tato Konference jedná o bezpečnosti v Evropě.
- Tož Konference 35 států o bezpečnosti v Evropě, v druhé fázi zatím zapomněla na lidská práva a začíná jednat o francouzském návrhu odzbrojovací konference, který byl již na konci první fáze před Vánoci přijat všemi členy NATO.
- Konečně v Závěrečném spisu z Konference o evropské spolupráci a bezpečnosti v oddílu o "Rovnosti ve svrchovanosti a úctě k právům,obsaženým ve svrchovanosti", je toto právo národům a státům výslovně přiznáno.
-/ INTERNATIONAL HELSINKI ASSOCIATION Na právě probíhající madridské evropské konferenci o bezpečnosti a spolupráci v Evropě bylo ustaveno Mezinárodní helsinské sdružení /IHA/, složené ze zástupců všech 35 zúčastněných států.
- Sdružení, které je nezávislé na vládách jednotlivých zemí, podporuje organizace a skupiny obhájců lidských práv ve všech zemích, které podepsaly Závěrečný dokument o bezpečnosti a spolupráci v Evropě v Helsinkách, koordinuje jejich spolupráci, chrání je před vládními a policejními zásahy, informuje občany jednotlivých zemi o dodržování Helsinského protokolu, předává stížnosti o porušování Helsinské dohody evropské konferenci a Organisaci spojených národů a dbá o jejich projednání a morálně a mafeerielně podporuje oběti politického pronásledování ve státech, které Závěrečný akt v Helsinkách podepsaly.
- Členem Mezinárodního helsinského sdružení se může stát l<aždý občan nebo kolektivně každá organizace ze všech 35 států, které podepsaly Závěrečný dokument o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d541f7864745759ee4e9e56eed74ce54ccfbb3183e9ad0665b3db25301a15cb4
+size 1707

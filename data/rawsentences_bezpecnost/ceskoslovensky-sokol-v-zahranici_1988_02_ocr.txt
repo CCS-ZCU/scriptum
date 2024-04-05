@@ -1,2 +1,3 @@
- květen, kdy se do Prahy sjede nejvíce občanů a komunisty kontrolovaná armáda, jednotky ministerstva vnitra, Státní bezpečnost a Závodní milice mají pohotovost.
- Slávou a alkoholem zpitý Klement Gottwald pod hlavněmi pušek a automatů části armády, jednotek ministerstva vnitra, Státní bezpečnosti a Závodních milic, vykřikoval v to nevlídné odpoledne 25.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2538f3c3ed01ca1e1057446ef8b0b2df8f250ee4f1facee624ba466108655f6b
+size 383

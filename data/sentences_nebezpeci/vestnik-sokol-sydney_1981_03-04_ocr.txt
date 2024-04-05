@@ -1,1 +1,3 @@
-Francie kapitulovat francouzský couský vojenský správa Čechoslovák rít
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb011234507cc2a5160a2863e84606c70bacacc5d38477c8ed15649a0e4bea9
+size 69

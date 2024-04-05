@@ -1,1 +1,3 @@
- I když jde poměrně o ojedinělé a isolované akty, nelze je již — vzhledem k společenské bezpečnosti — podceňovat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:671390d63434c6ecd43b921f6f3b88e226185a5ae0120e238ab836db8e5d1f1b
+size 129

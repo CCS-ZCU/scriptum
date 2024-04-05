@@ -1,1 +1,3 @@
-Détente přivodit uvolňování hospodářský styk oko zvýšit nebezpečí nákaza západní představa svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebdfef36560779f8da1ed267d42b474b54dcb88d9917bf80f3a0333f7b2bcefd
+size 115

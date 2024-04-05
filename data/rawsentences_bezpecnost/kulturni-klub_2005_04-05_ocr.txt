@@ -1,5 +1,3 @@
- státech by mohla být na úkor bezpečnosti Států - jeden katolický to fašista, pan Chudoba [.
- Udavačské stránky za pět tisíc Herec Pavel Landovský konečně obdržel kladnou odpověď na svou žádost o vydání svazku, který o něm vedla Státní bezpečnost.
- Jenže Státní bezpečnost jej jako nebezpečného disidenta sledovala mnoho let.
- Tato akce zinscenovaná Státní bezpečností sloužila k diskreditaci katolické církve.
- oznámení 69  informace & inzerce oznámení Jak jsem se (ne)stal agentem StB Jan Vaněček byl prvním, kdo dosáhl na základě výnosu soudu výmazu svého jména ze seznamu agentů někdejší komunistické Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7066ed0665840dee86f92b271c1669fa9278555bb5d5427b32f4bef6d10fc5ca
+size 689

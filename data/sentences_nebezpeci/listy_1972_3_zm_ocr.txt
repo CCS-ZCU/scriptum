@@ -1,6 +1,3 @@
-mnohý mít zlý ozývat doba nacistický okupace známý dát pokoj komplikovat život uvádět druhý nebezpečí
-Pachman nebezpečí hrozit další proces spo luautorství
-zvačka komunistický nebezpečí zardousit demokracie znát silnit vůle lid
-příběh předchozí mít dostatek konkrétní hmota vyvážit nebezpečí prázd ného ideologizování teoretizování
-nebezpečí dostat svah intelektuální abstrakce začít tlačit diskuse místo začít
-pochopit Shakespeare hrozit velký nebezpečí přeměna Disneyland who
+version https://git-lfs.github.com/spec/v1
+oid sha256:83659595641c0d0ca4fb97d8bc47c2107ad309873fa83d18ffc1baac8ab8833d
+size 641

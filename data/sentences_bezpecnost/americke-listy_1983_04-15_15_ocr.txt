@@ -1,5 +1,3 @@
-říci novinář západoněmecký vnější bezpečnost moci zaručený rámec NATA
-tvrdit citovat bezpečnost vyvyšovat strana
-skutečnost tragedie začít komunistický strana vyvýšit zákon bezpečnost degradovat poslužný živnost přidružený výroba politika
-bezpečnost jednotný pohled zvenku
-činnost odhalený rok dostat imunita výměna informace britský bezpečnost čas důležitý
+version https://git-lfs.github.com/spec/v1
+oid sha256:7087f737c4aa1488d00b6ad3f2178443846ecc7e0a7a5786caa4836b4aed6722
+size 401

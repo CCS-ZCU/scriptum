@@ -1,1 +1,3 @@
-" Bože, ale co když se chilským Koniášům povede vyčistit i redakce, že v nich zbudou jen novináři nátlaku neschopní nebo schopní všeho? Nehrozí ne- bezpečí, že všechna liberální periodika ze stánků zase zmizí? Co když pak zbude miliónům Chilanů jako je- diný zdroj informací jen El Merkurio a podobně uitra- reakční listy? " Z počátku," píše P R Á C E dále.
+version https://git-lfs.github.com/spec/v1
+oid sha256:315503d31064fd4d7407f90abca60398f9c45688a47db87c1254b511771ef399
+size 36

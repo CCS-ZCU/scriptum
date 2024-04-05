@@ -1,4 +1,3 @@
- O tom svědčí i rozhovor našeho zvláštního zpravodaje Ulricha Richentala s mužem, který tu zodpovídá za organizaci a bezpečnost, rytířem Frischansem von Bodmanem.
-! Kde je příbor? On tu zodpovídá i za bezpečnost, není-liž pravda, rytíři? Anebo jen za doroty? Tak jest, Vaše.
-) (upozorní ho na sebe pohrdavým zvukem) (všimne si příchozích) Co tu hledá?! Sem tady jakožto pověřenec pro bezpečnost koncilu.
- Po studiu dokumentů považuje dokonce koncil v Kostnici za první konf erenci pro spolupráci a bezpečnost v evrop- ských dějinách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af35767435979a169c9aecb0e067fd916f470a2dd791324baef794425a22fc54
+size 577

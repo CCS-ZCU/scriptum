@@ -1,1 +1,3 @@
-metr rok číslo
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a2c184ef80fe5f08429f457b00f072e2644ad87b89a8a0f1835867507716ef
+size 17

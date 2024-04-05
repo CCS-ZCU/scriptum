@@ -1,2 +1,3 @@
-konfrontace
-následovat známý guláš nebezpečí reakce návrat buržoázna společnost pomoc imperialismus obětavý boj partyzán východní oběť rudý armáda
+version https://git-lfs.github.com/spec/v1
+oid sha256:658ebc55f259c332dc3a723900e1a2ab94667d2bd6d256eb3e6d2f034c3b06d8
+size 167

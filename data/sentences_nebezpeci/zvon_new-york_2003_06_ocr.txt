@@ -1,1 +1,3 @@
-nebezpečí uvědomit nový forma pýcha zdolat pyšný chtít
+version https://git-lfs.github.com/spec/v1
+oid sha256:3954d6d8ca0d2631ec8ae0e557f45109c197701a426b1e313ba2996bd9b76108
+size 63

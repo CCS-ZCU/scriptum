@@ -1,8 +1,3 @@
- DOKUMENT O CSSR PRO AMERICKOU DELEGACI V ŽENEVE Jako mluvčí Američanů českého, slovenského a podkarpatoruského původu rozhodla se Československá národní rada americká doplnit přípravy americké delegace pro ženevské pokračování „Konference o evropské bezpečnosti a spolupráci“ dokumentačním materiálem o tom, jak je komunistickou vládou v Československu porušována „Deklarace lidských práv“ vyhlášená Spojenými národy, přijatá také československým komunistickým režimem a „zajištěná“ v čs.
- Toto volání na poušti v Sovětském svazu má na Západě už svou odezvu a bude zajímavé pozorovat, jak se jim budou řídit západní delegace na Konferenci o evropské bezpečnosti a spolupráci, a do jaké míry bude Moskva v zájmu svých obchodních, hospodářských a technologických plánů ochotna ustoupit.
- Po prvních zprávách z Helsinek, že hlavním kamenem úrazu na konferenci o evropské bezpečnosti bude jednání o lidských právech a o volném proudění lidí a myšlenek přes hranice, se pustila do vypracování pozoruhodného, obsáhlého a přesvědčivého dokumentu.
- Dokument dostaly různé delegace na konferenci o evropské bezpečnosti a spolupráci včetně americké a budou mít tedy možnost porovnat hned na miste se skutečností to, co tam bude demagogicky hlásat soudruh velvyslanec Oldřich Pavlovský.
-Místa, která se zabývají otázkami KSZE (konference pro bezpečnost a spolupráci v Evropě) prostudovala pozorně Váš dokument a seznámila se s lam vyjádřenými očekáváními a požadavky, jakož i se stanoviskem vedoucích osobností československého exilu k problémům, které se bezprostředně dotýkají Vaši země.
- Heslem dne je „evropská bezpečnost“.
- Ovšem, usilování o mezinárodní bezpečnost však nesmí vést k tomu, aby tím byla cementována nebo dokonce sankcionována nesvoboda národu a osob.
- Další srazy mládeže musela Veřejná bezpečnost zakázat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a99e85523e92463697a7f31eb0cd141047e74e2cf932a57f33af6f3840b228
+size 2013

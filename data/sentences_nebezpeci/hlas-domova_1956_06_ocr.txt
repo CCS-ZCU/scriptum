@@ -1,4 +1,3 @@
-spočívat hlaveň nebezpečí poslední událost
-bezprostřední nebezpečí záplava hrozit
-velký nebezpečí jižní Slovensko HLAS domova
-komunistický nebezpečí ztrácet mlha sovětský diplomacie vědět využít
+version https://git-lfs.github.com/spec/v1
+oid sha256:6179640ae52e366a84ed3ab6e4e5aabc5f33f1483e4320e46ac5282fc3b0f310
+size 217

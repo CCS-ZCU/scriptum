@@ -1,3 +1,3 @@
- HAVEL PÍŠE DO VÍDNÉ Konferenci o bezpečnosti a spolupráci v Evropě Vážení delegáti, jen mnohonásobně ověřená nemožnost dosáhnout porozuměni u československých instancí mne vede k tomu, že se obracím až k Vám.
- Vaše konference se zabývá bezpečností v Evropě.
- Prosím Vás snažně, pokuste se udělat něco pro bezpečnost kultury a tím i národní identity Čechů a Slováků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09743f4baf8cb88dbf1855e58307b7b6331d609d6199488413525aaf3c586ecb
+size 413

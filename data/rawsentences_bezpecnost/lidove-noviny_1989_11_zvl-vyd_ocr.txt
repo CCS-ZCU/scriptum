@@ -1,1 +1,3 @@
- Vyzýváme všechny příslušníky bezpečnosti, aby si uvědomili, že Jsou především lidmi a občany této země a teprve potom podřízenými svých nadřízených.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e81f5818de3fa0e66f6a876cd5db6ab1a4955ddd5190f54be12615eb8eaf8d6
+size 173

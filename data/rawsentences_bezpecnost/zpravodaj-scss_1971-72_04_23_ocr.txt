@@ -1,2 +1,3 @@
-Státní bezpečnost sipřá- 2 PŘÍPAD BUKOVSKIJ fakta - dokumenty - svědectví  la,abych byl prohlášen za nesvéprávného.
- Zde máme nevyvratitelný důkaz pro mé tvrzení, které je tady v soudním sále označováno jako pomlouvačně, že na příkaz státní bezpečnosti jsou vykonávány psychiatrické represálie proti dissidentům, proti lidem s odlišným názorem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad67628d5bfb209ea5608532910feccf1fda52f07a6cb22d6bbdf0b6d418c87
+size 385

@@ -1,2 +1,3 @@
-obor léta pracovat vědět známý předobra různý dobový taneček zírat Jiříkův vidění televize stát
-Švýcarsko hrozit nebezpečí vládní kormidlo otočit tajemství stabilita
+version https://git-lfs.github.com/spec/v1
+oid sha256:edd731ca5e1eb096cce0ff5c62894be13a727466b5996864cd6eebcb2922c6a6
+size 191

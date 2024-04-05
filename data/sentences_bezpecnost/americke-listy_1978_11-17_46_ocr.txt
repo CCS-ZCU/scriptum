@@ -1,1 +1,3 @@
-britský delegát komise Jíro lidský právo Vincent Evans ptát muset sovětský svaz vynášet přísný treat zastánce lidský právo moci zajistit bezpečnost země veřejný pořádek
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df232fe164f6b4b8b238b3652e30428311c4ef6135f0c30f09b7575c23c2f14
+size 191

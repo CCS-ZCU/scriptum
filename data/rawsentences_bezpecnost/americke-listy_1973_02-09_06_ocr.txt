@@ -1,7 +1,3 @@
- Zapadni vlády jsou přesvědčeny, že otázky’ zbrojení a odzbrojení souvisí s programem konference o bezpečnosti a spolupráci v Evropě a přejí si o těchto složitých problémech jednat s evropským východem paralelně.
- ÚNORA 1973 V HELSINKÁCH SE POMALU POKRAČUJE Když na zasedání v Helsinkách britský velvyslanec označil pozměněný sovětský návrh na program konference o evropské bezpečnosti a spolupráci za “podstatný krok vpřed”, měl na mysli, jak brzy potom naznačili západní činitele, dva ústupky, učinené dosud sovětským blokem.
- Sověty předně svolily k tomu, aby první bod pořadu jednání, to je “zajištění evropské bezpečnosti a zásady vztahů mezi státy v Evropě”, zahrnoval diskusi o takzvaných opatřeních k upevnění důvěry — jakož i principy nedotknutelnosti hranic, nezasahování do vnitřních záležitostí jiných států a zřeknutí se násilí.
- Západní a východní návrhy se teď liší hlavně v tom, že Východ žádá, aby byl vytvořen stálý poradní výbor pro otázky bezpečnosti a spolupráce, který by pokračoval v práci konference.
- Země NATA, podporované neutrály, znovu a znovu zdůrazňují, že nemá význam svolávat konferenci o bezpečnosti a spolupráci, nebudou-li dobré vyhlídky na to, že z ní vzejdou důležité dohody.
- V prvním budou všechny příspěvky na námět “politická a vojenská bezpečnost”, v druhém návrhy na hospodářskou spolupráci a v třetím podněty ke kulturní výměně, k rozšiřováni informaci a kontaktů mezi lidmi.
- Vedoucí plánovacího oddělení západoněmecké- ho ministerstva zahraničí Brunner vyzdvihl, že helsinská dohoda o pořadu jednání sama o sobě nestačí; k zahájeni konference o bezpečnosti musí ministři zahra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1879d095a5881a815b884da5087bb6973830460fd30cddc554ded8027c3a04a2
+size 1822

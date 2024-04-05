@@ -1,5 +1,3 @@
-moci zeptat pan Mazurová vojenský plánovač velitel dát souhlas rušení vojenský útvar snižování počet armáda hrozit akutní nebezpečí ozbrojený konflikt
-nebezpečí chartismus diskutovat stránka chartistický tisk stránka většina tisk exilový kapesní průvodce inteligentní liberál vlastní omyl Ivan Pavel Tigrid kapesní průvodce inteligentní žena vlastní osud Toronto
-soud velký nebezpečí smysl dvojí
-zadruhý nebezpečí rámec charta existovat lidé konzervativní zaměření
-lze soudit nebezpečí velký rozšíření hrozit imunita získaný epidemie zachvátit mluvící obyvatelstvo Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:268b98605ff3526b75ac2b820814eae7a2a7cddefc13d4428034d314d2e758d0
+size 633

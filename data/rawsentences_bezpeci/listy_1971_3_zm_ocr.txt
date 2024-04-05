@@ -1,1 +1,3 @@
- Molnár těmto příslušníkům ukázal na 3 příslušníky sovětského Výboru pro státní bezpečnost, oble- čené v civilu, které samozřejmě nepředstavil a řekl asi toto: Soudruzi, pojedete spolu se so- větskými orgány na Ú V KSČ, kde vezmete do ochrany soudruhy DubČeka, Smrkovského, Kriegla a Pavla a přivezete je na KS SNB Praha, kde budou v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:819bfb870b9e2f3b2ba712ef4dac7b242584736651b85f3334be6105da5aed9c
+size 374

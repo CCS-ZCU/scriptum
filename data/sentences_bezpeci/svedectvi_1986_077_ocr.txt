@@ -1,2 +1,3 @@
-pravda svěřovat péče mocný osobní ochránce živitel stát příjemný zdát ochrana skýtat pocit jistý bezpečí jistý svět
-pocit bezpečí klid člověk ochotný obětovat svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c79bd57ce6e975aeee7bbdc9fd704afc460851da7862b8c71a61708b1e805b
+size 192

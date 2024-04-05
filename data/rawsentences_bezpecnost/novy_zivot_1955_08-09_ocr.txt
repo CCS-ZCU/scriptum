@@ -1,1 +1,3 @@
- Soukromé vlastnictví je prostředek, který je k životnosti hospodářství a k povzbuzení lidské iniciativy nutný : státní moc je musí proto chránit a zajistit mu i bezpečnost a stálost, bez níž by pozbylo svou účinnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ee91ca27fd274b84fc956f27e83b4b29b01516d57b71d79112b59aff85993e
+size 239

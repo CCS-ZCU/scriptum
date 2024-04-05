@@ -1,1 +1,3 @@
-morální Praha národní umělec Kácel JotC velký dojem zápit wbít nebezpečí jaderný válka vypovídat představitel země NATO lékař Moskva jet
+version https://git-lfs.github.com/spec/v1
+oid sha256:7703dfdfb978791573ba831e11594f29170143ff283fd55579dcf99cf2694843
+size 157

@@ -1,1 +1,3 @@
- • Už potřetí letošního roku sešel se západoněmecký kanceléí Willy Brandt z francouzským presidentem Pompidou za stejným účelem: prodiskutoval cesty západní Evropy k vlastní, to jest na Americe nezávislé bezpečnosti před eventuelní sovětskou válečnou hrozbou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e5793d284c99b68211df47b2fca36a7ac3c973af04b8eb28dee5441b9b05a11
+size 288

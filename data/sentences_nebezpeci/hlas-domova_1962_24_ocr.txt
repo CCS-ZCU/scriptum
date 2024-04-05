@@ -1,5 +1,3 @@
-uznat nebezpečí zažehnaný
-dlouhý doba objevit mikrofon bývalý uprchlík vysvětlit československý lid nebezpečí kynout západ
-pádný argument přímý náznak členství západní blok nést nebezpečí komunistický útok členství utralistický blok jistota komunistický přátelství
-bubnový palba moře hřmět nebezpečí muž poztrácet síla pochyba úzkost stud
-nebezpečí spočívat obranný zápas utrpět přehnaný důvěra umírněnost Nikita Chruščov
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aae2cb04e6d48f66f7d53514b609cfd4b3d0db8b32ee55e637325418fa38072
+size 483

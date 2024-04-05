@@ -1,9 +1,3 @@
-" Istý rádioamatér zachytil rozhovory medzi veliteľstvom bezpečnosti a jednotlivými operačnými jednotkami.
- Istý člen bezpečnosti, ktorý sa zúčastnil na manifestácii, ss vyslovil, že asi polovica jeho kolegov vnútorne so zásahom nesúhlasila.
-“ Ti príslušníci bezpečnosti, ktorí sa sprá valí agresívne a brutálne boli aj podľa svedetva zahraničných novinárov pod vplyvom alkoholu.
- List znie takto: "Vážený súdruh, predseda vlády! Obraclune sa na Vás s naliehavou žiadosťou, aby ste prešetrili, kto dal podnet a rozkaz na brutálny zásah príslušníkov zboru Národnej bezpečnosti, ktorí zaútočili dňa 25.
- Napriek tomu, v uniformách zboru Národnej bezpečnosti oblečení muži do davu vrážali za jazdy s nákladnými a osobnými autami ohrozovali životy občanov.
- Pretože dodnes nedostal vysvetlenie o tom brutálnom zásahu zboru Národnej bezpečnosti v Bratislave, obraciame aa na Vás b rozhodným protestom proti tomuto konaniu príaluánflcov zboru Národnej bezpečnosti.
- Nikto z prítomných veriacich občanov na námestí nijako neohrozoval poriadok, sal nenapadol ani len slovne, žiadneho z príslušníkov zboru Národnej bezpečností.
- Preto musíme tento zákrok zboru Národnej bezpečnosti odsúdiť ako nepochopiteľný a neoprávnený.
- Zaslanie k Vám by však predstavovalo, ako nás o tom učí skúsenosť z minulosti, vlnu vyšetrovania príslušníkmi zboru Národnej bezpečnosti a analýzu podpisov príslušníkmi Štátnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e26753eef53d65176733aec71b16e7b1145184e4b449992932d7af54956c7b0a
+size 1526

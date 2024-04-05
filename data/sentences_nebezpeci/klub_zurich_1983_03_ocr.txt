@@ -1,2 +1,3 @@
-nebezpečí mnohý muž vstoupit tajný organizace bojovat katolický církev chudý rodina přijít smrt otec jediný živitel rodina mizina
-Pavel myslit
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5c969f9071f230c2d1b56305259073aff6f94a72ccaec1ef62aeea946c961f
+size 155

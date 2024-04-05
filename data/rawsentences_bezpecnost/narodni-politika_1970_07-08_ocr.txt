@@ -1,2 +1,3 @@
- Kromě konfidentek Státní bezpečnosti, nasazovaných do její cely, trávila Horáková svoji vyšetřovací vazbu v přísné, naprosté isolaci.
- Děje se tak vždy za a- sistence jednoho, přinejmenším,, hlídače, který kromě bezpečnosti svého svěřence splňuje i úlohu ochutnáva- če vína.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ab728ad657ad81ceffc512af0fe499ebe6909cf81669796bd45899856666d0
+size 310

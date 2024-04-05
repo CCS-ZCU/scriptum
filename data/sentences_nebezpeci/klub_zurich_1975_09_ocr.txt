@@ -1,2 +1,3 @@
-káva pilo voda nebezpečí ledvinový kámen existovat
-předvídat uvedomit zástupce papežův vikář Řím nebezpečí hrozit Vatikán zirocnit vláda komunista
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfda29a81da10e6e9a4e1dbf8cdf30ca6daba1791d141952c6bbbe57923f9a3a
+size 166

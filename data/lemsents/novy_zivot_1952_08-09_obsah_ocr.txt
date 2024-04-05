@@ -1,7 +1,3 @@
-Novy život rf M S Č N Í C Y R L O M E T O D J S K É liga J ro5 srpen září
-číslo
-obsah vzkaz velký americký Čech
-nový apoštolský konstituce exulantský rodina svatý Václav
-apoštolský list svatý
-otec národ ruský zemč Katolík stát
-stadion Wembley právo rodič škola světový kongres Romany Toronto
+version https://git-lfs.github.com/spec/v1
+oid sha256:b07c9c1c133a11835657f2ff697792391fb15d4af4accb4a2a6a9b257e57901b
+size 323

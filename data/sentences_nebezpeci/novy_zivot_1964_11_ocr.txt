@@ -1,3 +1,3 @@
-církev potřebovat ústřední vedení velký světový rozšíření velký nebezpečí naléhavý potřeba křesťanský lid různý dějinný okolnost moci dodat rychlý spojový prostředek
-diskuse ukázit síla blok severoamerický biskup
-představa lidský pokolení tvořit jednota lidský dějiny vyjadřovat souvislý dějství mít smysl předmět filosofický básnický spekulace závěr nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c7e18fb3ed3607c407e54917cdcf6a69bcc1f8e3b37e3db37d9e9c09151dcf9
+size 413

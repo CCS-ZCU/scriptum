@@ -1,2 +1,3 @@
- Sovětští vojáci se prochá- zejí po ulicích a kolony jejich aut zdr- žují dopravu; domácí fízlové, sloužící státní bezpečnosti, slídí u stolů v hos- podách, na sportovních tribunách, v dopravních prostředcích.
- Jsme velmi znepokojeni možnosti ohrožení bezpečnosti těch, kteří tyto zprávy po- dávají.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc29ef61a4bd134a4f54c49dd7596440b289337f4736b33ad7f94b9823cd279
+size 338

@@ -1,1 +1,3 @@
- RSČ Rada svobodného Československa obdržela od kongresní komise pro bezpečnost a spolupráci v Evropě, jež ve Washingtone sbírá dokumentaci o porušování práv v komunistických zemích, dopis, který citujeme: "Děkujeme za Váš dopis z 19.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f159bfc04f6b0d9149d5004b97c4786938043b5c9ca7e3add620d1777f887042
+size 256

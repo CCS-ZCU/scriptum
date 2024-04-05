@@ -1,6 +1,3 @@
- Vůbec už nemluvě o obecné kulturní škodě, jakou představuje nenapravitelné zmizení kteréhokoli rukopisu či osobního archivu kdesi v úřadovnách Státní bezpečnosti.
- Is kopiemi: další, následné příkazy Státní bezpečnosti ČSSR mne poučily, že literární tvorba v samizdatu ohrožuje v ČSSR nejen samotného autora, ale 1 jeho manžela, nezletilé děti a rodinné příslušníky starší 80 let; ti všichni byli od podzimu 1984 StB vyslýcháni a předvoláváni k výslechům.
- Zároveň bych byla v současné situaci šťastná, kdyby Státní bezpečnost nepokračovala v budoucnu v domovních prohlídkách: to je jediné, co bych jako prosbu vůči orgánům státní moci — v oblasti kultury — předkládala.
- Při domovních prohlídkách, konaných namnoze bez souhlasu prokurátora, Státní bezpečnost nemilosrdně zabavuje soukromé archivy, časopisy, výstřižky, výpisky, fotografie, korespondenci, knihy Jakékoli vlastni poznámky, rukopisy, kopie článků i s uhlovým papírem, veškerou zahraniční literaturu i výtisky a samizdatové průklepy autorů na indexu, ba dokonce básnické sbírky nositele Nobelovy ceny za literaturu národního umělce Jaroslava Seiferta.
- 3) Dopusud, a to trvá už šestnáct let, jedná režim s lidmi jinak smýšlejícími, podle něho tedy neposlušnými, pouze prostřednictvím Státní bezpečnosti a soudů.
- Spisovatel, který se omezuje na beletristickou tvorbu, mohl doposud počítat s tím, že nebude zavřený, i když jeho knížka vyjde v zahraničí, ať už v cizím jazyce nebo česky, že se represe vůči němu omezí na občasně pohovory s pracovníky Státní bezpečnosti, perzekuci rodinných příslušníků v zaměstnáni nebo ve škole, odposlech telefonu, kontrolu korespondence, případně příležitostné sledování.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55706dc897002fb3f5ffefac715bd4c946bfc176f68c35660d7894ad7730faf0
+size 1853

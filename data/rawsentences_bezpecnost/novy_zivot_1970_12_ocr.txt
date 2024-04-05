@@ -1,2 +1,3 @@
- Nedalo se ani pomýšlet na svatbu bez slavností, které by provázely tuto z nej významnějších životních chvil muže; ale už ani všechna pole nedávala onu trochu finanční bezpečnosti.
- výročí SN; vyjadřuje v něm naději, že SN přes své dosavadní jen částečné úspěchy splní naději lidí a vytvoří světové bratrské společenství; k velkým jejím úspěchům patří vyhlášení Listiny lidských práv, mezi nimiž má přední místo také právo na svobodné vyznávání a vykonávání náboženství; třeba jen litovat, že Listina a další usnesení na obranu důstojnosti člověka a jeho svobod a bezpečnosti, které byly přijaty, nebyly opravdu uskutečněny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f190d01dd8da31f65071f5f066bf74bf51b44448bf68e6fba4d166811590535
+size 711

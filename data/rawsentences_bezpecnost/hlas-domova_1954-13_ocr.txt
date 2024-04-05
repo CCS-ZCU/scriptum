@@ -1,1 +1,3 @@
-Stav bezpečnosti na železniciach je krajné nevyh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3843e03da3692d1b5ec075f87f6dd1d9564c87b6442f30527056704446de982a
+size 53

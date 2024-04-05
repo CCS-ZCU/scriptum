@@ -1,2 +1,3 @@
-věc limitovaný zbrojení postavení Brežněvův příznivý celý svět mít válka zbrojení strach přispět limitování nebezpečí politický populární
-jít západo evrop ský podíl náklad severoatlantický společenství generál Haig hodnotit uspokojivý shledávat růst vědomí nebezpečí vyplývající sovětský vojenský politika růst ochota vytvořit protiváha
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb42fc7643980cbbec5457cb6efd16a50c391bbc05d42d4656dc39c5be028f79
+size 385

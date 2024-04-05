@@ -1,1 +1,3 @@
- štýrský: Látající mul  Osmá strana NÁRODNÍ POLITIKA Květen 1989 Čtyř-až šestinásobné zvětšeni kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? 5 výcarské bankovnictví a pojišlovnictví skýtá nejvyŠŠí možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76f167b5164c40e047f511fb81814f9abe45f489d8a4f9e090e573b34a4c0d2a
+size 107

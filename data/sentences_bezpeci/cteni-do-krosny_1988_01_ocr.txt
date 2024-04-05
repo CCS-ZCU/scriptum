@@ -1,1 +1,3 @@
-velký život církve bezpečí skupina uzavřít stát určitý druh sekta otevřený celek
+version https://git-lfs.github.com/spec/v1
+oid sha256:a638c408204db96b14c5fded2aa4a728865d934227dc8d0092f68907efbdc0ca
+size 93

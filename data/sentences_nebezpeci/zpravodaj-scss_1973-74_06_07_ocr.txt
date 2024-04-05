@@ -1,1 +1,3 @@
-zásada nebezpečí kompromis přípustný
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7606b48c335de5e5c315623184ce9988c42c609368b4d03fe2e0b3609875313
+size 43

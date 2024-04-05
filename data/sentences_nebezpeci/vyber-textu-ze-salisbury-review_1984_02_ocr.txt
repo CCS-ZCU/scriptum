@@ -1,2 +1,3 @@
-ukázat nebezpečí pramenit zmatený chápání lidský vztah pornografie vyvolávat zmatený chápání
-věřit konzervativní vláda jednat nebezpečí snížit
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1137123f84cb6bc44a1bf6712792ee04408ff23555ce746a19b428c8900dba
+size 166

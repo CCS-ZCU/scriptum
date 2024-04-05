@@ -1,2 +1,3 @@
- Nevím, jak si to československá vláda představuje, že bude možno si vybírat mandle a hrozinky z evropského koláče a nepřihlásit se přitom k základním členským povinnostem vůči tomu, co evropské bohatství a prosperitu zajišťuje - NATO!? Nemluvě ani o tom, žeje to právě NATO, které udržuje i vnitřní evropskou stabilitu, která jediná poskytuje také nám klid a pocit bezpečí.
- ? ■ Znáte výhody »třetího sloupce jistoty« ? ■ Chtěli byste vědět, co je bezpodmínečně nutné a co méně nutné v otázkách pojišťování se ? ■ Vyřizujeme náhrady škod z pojišťoven ve Švýcarsku, Německu, Československu ■ Platíte velké daně? Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23e5bd6813b54ca0c7bd323d85f5da3342735f89143dfd94650264d8231a3d4f
+size 261

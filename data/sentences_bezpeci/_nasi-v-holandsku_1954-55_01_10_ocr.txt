@@ -1,1 +1,3 @@
-meditativní bezpečí moci dovolat chvíle připravený žit žít samota hluboký niterný spojení
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51f864432493aa76610a47d365f0f53268f4f8a7164e8809dead3f21cb1af97
+size 102

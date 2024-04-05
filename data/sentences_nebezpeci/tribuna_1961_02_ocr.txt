@@ -1,1 +1,3 @@
-nebezpečí vyskytnout spojený stát váhat vystoupit obrana zájem
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7f60f9f1edb67993aac1c061c627e634355224b7b4489fbdea03701785c6162
+size 69

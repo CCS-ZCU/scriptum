@@ -1,12 +1,3 @@
-lze říci hentira vel Lemberk zasáhnout statečnost historie mladý pře myslovský stát vítězství zákonitý král vrácený vnitřní rovnováha velký duchovní zápas odehrávající západní křesťanstvo ovládnutí český země strana hohenštaufský znamenat malý nebezpečí svoboda církev duchovní život utvářený
-věk postoj heroický zaměření nemoc ným choroba malomocenství znamenat ošetřující stálý nebezpečí porozumění obklopovat sau časný společnost
-nebezpečí vedení kněz většina odcizit církev
-dát říci polovina český katolík ovlivněný přátelský tisk míra nebezpečí ztratit víra
-většina mnich klášter německý národnost hrozit nebezpečí odsun klášter zaniknout
-válka únor komunistický strana dostat moc komunista převzít kontrola církev nebezpečí řím ské pomucenumý udržet
-zdát zestátnění nést značný míra nebezpečí depersonalizacc dát vínek dějinný vývoj ztráta trans cendentní odpovědnost
-nebezpečí plynout strana usurpátor moc strana občan samotný
-občan nakloněný reklo movat stát zajištění zbavený riziko nejistota nebezpečí druh
-strana hrozit nebezpečí hybridní zbytnění státní vli
-půst vymizet život křesťan postit nej pátek znamenat žít chléb voda
-uvedený chorobný projev plynout nebezpečí věc projednaný MNV Lutopecny ukládat ustanovení zmíněný paragraf
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bdc2ba9f1575674c4a4fa4890fd802d63c7c5c2662e1b00914b1ccb3d47b92
+size 1548

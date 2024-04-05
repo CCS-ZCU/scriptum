@@ -1,2 +1,3 @@
-projev vyplývat koncept smír myšlenka sjednocený spolupráce boj intelektuál elita svobodný svět jediný síla schopný rozrazit nebezpečí komunistický pronikání celý svět
-Škvor snažit zmenšovat nebezpečí hrozit tisíciletý křesťansko demokratický kultura tradice národ zdůraznit národní tradice mrtvý relikvie živý ohrožující proces
+version https://git-lfs.github.com/spec/v1
+oid sha256:e614a618d075230145444056ef8a56541da08cf02644c6391be73e4c1a654154
+size 367

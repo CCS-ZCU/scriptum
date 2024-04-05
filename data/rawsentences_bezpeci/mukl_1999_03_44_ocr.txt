@@ -1,1 +1,3 @@
- Dienstbier píše: „Házet na lidi bomby a rakety z bezpečí, aniž riskujeme totéž, co ti, na které tyto rakety dopadají, se na Balkáně považuje za nečestné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb9a7e55a09f480e220f525b9ba628fbd934f1121d66cdbcb04dcce22f02f28
+size 172

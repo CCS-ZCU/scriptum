@@ -1,3 +1,3 @@
- Takový e- migrant vypoví vše, co ví, zaplatí tučné výkupné — Státní bezpečnost ho může popřípadě vydírat, ale domů smí jen nakrátko.
- Jaruzelski například ostřejší postup proti církvi, Gor- bačov pochopení pro Jaru- zelského problémy s kádry státní bezpečnosti.
- Nikoli prosím jen bezpečnost, ale všecky složky veřejných věcí československých, se dostaly do vlivu a kontroly agentu operujících mimo KSČ a přečasto i bez vědomí KSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34f5cc697c9ea0bc35c9eff854121fdf016ba3cea82ea96d3e314b047892d465
+size 488

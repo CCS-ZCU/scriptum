@@ -1,8 +1,3 @@
-President pokoušet utlumit ostuda nebezpečí Anglie zavést český občan visový povinnost udělat Kanada přímý telefonický rozhovor Čechy obdivovaný premiér Tony Blai
-pozoruhodný hysterický oddanost mopartajní klausián projevovat kritický náklonnost maloměšťácký idol plný břicho idol nebezpečí
-vysoký příspěvek státní subvence dar vznikat demokracie vážný nebezpečí
-pocítit americký novinář pražský ulice spatřit plakát nápis sdružení republika Republi kánský strana Československo odmítat vstup NATO velký NATO zobrazený lebka německý helma železný kříž
-povodňový neštěstí úprosný zkouška improvizace dovednost přerůst národní tragédie katastrofa státní správa selhání informovaný váhavý vláda trpký doznání úzký horizont lid uvěřitelný podcenění nebezpečí čerstvý zkušenost malý povodna
-srovnání připravenost úroveň práce správní úřad vyspělý země obdobný katastrofický podmínka Německo stejný povodeň USA hurikánový nebezpečí Austrálie velký lesní požár
-zákon nebezpečí povodna předepsaný vyhlášení zvláštní stav bdělost pohotovost ohrožení
-hrubý podceňování nebezpečí všeobecný pasivita charakterizovat podivný stav činnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad123398d4ec0a4e8ab7de38a94dd000ea221d916277c20888e069b7f057adca
+size 1283

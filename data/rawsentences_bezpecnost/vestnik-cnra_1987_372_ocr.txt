@@ -1,2 +1,3 @@
- Lombard Avenue, Cicero, Illinois 60650 Telefon: 656-1117 Následná konference o CSCE ve Vídni — jednání o bezpečnosti v Evropě Ve zvláštní pracovní skupině, která jednala o stavu bezpečnosti v Evropě, promluvil za americkou delegaci dne 24.
- Následná konference o Bezpečnosti a spolupráci v Evropě — zhodnocení předsedy Helsinské Komise, senátora Alfonse M.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60bb194336639e8eaafdb83efbb39f7559165ed203e6f6c0332595cdfbb9963b
+size 386

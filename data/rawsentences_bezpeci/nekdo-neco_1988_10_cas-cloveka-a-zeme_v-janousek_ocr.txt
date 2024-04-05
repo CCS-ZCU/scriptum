@@ -1,1 +1,3 @@
- Nebo dokonce vědomí plného bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85888b998b194fc092e66a20fc6b1ecb06537aa7e49fb24962bcbed107c4732
+size 42

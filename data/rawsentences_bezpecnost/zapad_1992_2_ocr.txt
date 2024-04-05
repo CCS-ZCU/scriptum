@@ -1,1 +1,3 @@
- Patří k nim vedle pocitu bezpečnosti •' vytváření lidského společenství s nejbližšími jako univer- zální model začleněnosti každého z nás do společenství i společnosti, dále vy- ' laděnost (nebo disfunkčnost) zájmů, pocit každodenního nejbližšího styku a pořádku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d23cc50030e30ffe249ca390ea7ea4a1a57dbb85605acfc8b04481e3d92e97a9
+size 301

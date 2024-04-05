@@ -1,3 +1,3 @@
-bezpečnost číslo litr státní orgán podnik líž koordinovaný tAtlak mladý člen takzvaný
-omezit vedení obrovský výdaj bezpečnost armáda jediný opora
-jméno veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:46dd53ac8cf59bc3f711a52390d07dd03ab25545706ad18cd8ffb44c7ef82776
+size 193

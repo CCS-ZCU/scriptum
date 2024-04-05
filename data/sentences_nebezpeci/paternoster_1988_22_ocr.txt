@@ -1,2 +1,3 @@
-píseň Turek provdaný prodat hodonínský mýtný Turek dcera jednat pokus bezpečný politika pohraniční město vesnice hrozit nebezpečí drancování
-pomoc přirovnávaný obrovský vůz ocitnout hrozný nebezpečí moci vytáhnout světec
+version https://git-lfs.github.com/spec/v1
+oid sha256:35991c8b14c0c4aff33093b9b7f5c32862ed2b20a0ab17b5f806b7fbb7a3edc9
+size 247

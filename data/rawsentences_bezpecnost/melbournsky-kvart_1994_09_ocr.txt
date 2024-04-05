@@ -1,1 +1,3 @@
- Budovy Státní bezpečnosti v Bartolomějské ulici byly částečně navráceny řádu Františkánů a ta část, která byla za komunistů vězením, byla upravena na turistický hotel - lůžko kolem US $20 denně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5382676df7f4dbc4ccd6b4657163df3ee4ee5c07696aa3d7e3e8f47e1d7b3b2
+size 221

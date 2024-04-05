@@ -1,1 +1,3 @@
-vlastní náboženský řado vyjít nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5711a9ae9741f27c0e8b890ce434565c2d95379f69e4645474d52ec6b16054b
+size 48

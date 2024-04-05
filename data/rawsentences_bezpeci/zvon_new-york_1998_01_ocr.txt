@@ -1,2 +1,3 @@
- "Odvezeme tě do bezpečí", volali na něj.
- "Naskoč si," volali, "a my tě odvezeme do bezpečí".
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f03ae55ef097eb720588ac760b4c0ace9236e4e2ae7b7d67bfef98bf2da3627
+size 103

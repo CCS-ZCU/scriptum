@@ -1,5 +1,3 @@
-ministr Heger uvažovat hromadný odchod vyhlášení stav nebezpečí předseda asociace kraj souhlasit doporučovat Hegerův odchod
-pouhý léta působení Masarykův Československo prokázat úžasný kulturní schopnost dosáhnout vídaný osobní popularita rozdíl svedený Jaroslav Ježek dělat malý potíž utéci cizina Mnichov ukázat nebezpečí hrozit
-přijít únor nový nebezpečí akutní pomnichov ské
-příběz pacient chtít upozornit limit nebezpečí přinášet biologický pohled nemocný člověk průmyslový pojetí medicína
-dospět flagelantství rozhodnost zaslepenost srabařina ochota ignorovat nebezpečí hromadit mračno bouřit prozřetelný mama ukazovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:44148abb6ea8a178fc19e019f33e9288b27fc004a00aa436234b5c8b1a10484c
+size 694

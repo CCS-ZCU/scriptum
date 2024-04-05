@@ -1,4 +1,3 @@
- Jeho nová kniha POCIT BEZPEČÍ / Geborgenheit, Steinhausen, 286 s.
- " Děti i dospívající touží vědomě i podvědomě po rodičích, kteří stojí za nimi, dovedou jasně rozhodovat a zprostředkovat jim pravidla, zásady života a své zkušenost "Pocitu bezpečí by se mohlo znovu do sáhnout, kdyby rodiče nedovolili,aby teoretikové výchovy a rodinně nepřátelští ideologové fušovali rodičům do jejich úloh.
- Pocit bezpečí vznikne, až budou mít rodiče odvahu, být rodiči.
- Pocit bezpečí potřebuje každé životní období.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3747254c552303f1b86499513895c7183083e088646152eeb6ee62d955ed0717
+size 560

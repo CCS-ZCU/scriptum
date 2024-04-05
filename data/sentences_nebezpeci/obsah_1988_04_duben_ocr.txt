@@ -1,3 +1,3 @@
-poznáska zmínit termín cu^dný lyrik mírný upozornění nebezpečí kata
-křídlový káf lpící ivota bránící blízký emrt1 zlákaný lstivý ponoukání kohose hrdina istrčit milovaný křídlovka evokovat sugestivní situace bitevní nebezpečí přimovat zetroubit signál vydat poslední zbytek dech
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a328a776725162b25b958bae37483d5c0a2d9e559ce049c7ece5f2757101d768
+size 317

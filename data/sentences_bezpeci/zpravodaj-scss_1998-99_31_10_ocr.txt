@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojištovnictví skýtat vysoký možný záruka solidnost bezpečí
-________________ zpravodaj ______________
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe33602800fdabfc155fa58b7bbb467a96a6b4246c8e5fcd773bf22a000dfd2b
+size 138

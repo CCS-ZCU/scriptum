@@ -1,1 +1,3 @@
- p ř i k á z á n í je dovolená jen práce d u š e v n í a n u t n á í z d r a v o t - n i c t v í , d o p r a v a , bezpečnost ap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1dd9c8f1e1f701b50fbffbd4a3f63f20324b4abffa220ceb1b368a29f42559
+size 142

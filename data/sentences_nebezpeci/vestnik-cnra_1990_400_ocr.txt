@@ -1,1 +1,3 @@
-chtít riskovat živelný stávka chaos mezinárodní hanba prosit komplikovat situace vystavovat nebezpečí veřejnost odsoudit pochopit volání chvíle
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e6860d3a6f542d80f0ef2d95df302fb8da6dec092d2fc6a908311b5d9f1159
+size 156

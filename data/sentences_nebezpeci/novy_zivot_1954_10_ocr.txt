@@ -1,5 +1,3 @@
-představit kněžský život bolestný plný pokušení neklid nebezpečí
-listopad volat svátý otec hlas roznést radiový vlna celý zvětý Československo Kraluj církev vyznávat oslavovat něžný královský moc utíkat bezpečný útočiště usprostřed dnešní pohroma nebezpečí
-zkušenost Rakousko říkat středoevropský národ upřímný zbožnost zvlažnělý Román zdát odstranění sovětský nebezpečí povést návrat katolicismus
-psát nebezpečí hrob svatý
-indický kardinál Gracias
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03d53dd6a0cc9fc1c041025ca21d0848e080b62ab8ef7ed375ea6d160790c9b
+size 516

@@ -1,4 +1,3 @@
-Washington chápat sovětský krok vládní opozice Andrew Young republikánský oposice vyslovit oficiální stanovisko tiskový konference ústa předseda národní výbor strana Wil liama Brocko předseda poradní výbor republikán národní bezpečnost Fred Iklo
-Oficiálni stanovisko republikán vypracovaný klový výbor národní bezpečnost žádat radikální změna africký politika Kuba africký angolský občanský válka africký roh porušení zásada uvolňování napětí
-Kri tisovat Carterův vláda brát dostatečný ohled bezpečnost Tajwan jižní Korea
-Aleš Macháček Jiří Laštův kao práce přijet státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:65d7b2a828c2a9936b70c1a87e00a5125e15466d327a39ed2126c7cc529debe0
+size 648

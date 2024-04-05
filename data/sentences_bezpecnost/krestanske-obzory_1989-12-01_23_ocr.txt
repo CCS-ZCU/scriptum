@@ -1,1 +1,3 @@
-státní úřad rozhodující slovo mít státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:64b58fe110ae5879f55b0aba4373030931303a5995d1cb9b64c5219fa340067b
+size 62

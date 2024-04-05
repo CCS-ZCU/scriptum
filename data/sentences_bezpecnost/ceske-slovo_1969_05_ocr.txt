@@ -1,1 +1,3 @@
-duben uskutečnit veřejný bezpečnost celý území republika rozsáhlý akce cíl vypátrat postihnout různý kre Polsko Maďarsko Rumunsko Bulharsko mongolský procento
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f3ea832bf4983031cddf80917927978b2c17bc23068bb9dba6f0a16c3da0e6f
+size 175

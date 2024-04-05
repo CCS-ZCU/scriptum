@@ -1,1 +1,3 @@
-zlepšený hospodářský situace zmenšený číslo vedění plán ztroskotat nízko nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd839419f4d3c3e2dbc23171b098f85275a94c780c3caaddde2de5d74bfd8a57
+size 95

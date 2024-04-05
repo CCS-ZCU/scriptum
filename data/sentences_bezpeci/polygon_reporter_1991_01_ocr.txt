@@ -1,2 +1,3 @@
-případ Libye ztráta civilista velký Američan dostavit město vyházet náklad zmizet bezpečí
-znát výhoda třetí sloupec jistota chtít vědět nutný nutný otázka pojišťování vyřizovat náhrada škoda pojišťovna Švýcarsko Německo Československo platit velký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:522a8f10e88ce18d2dfb4e41a0e5f9f596ea5fcad6243795914629e815b97cf2
+size 287

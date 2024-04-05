@@ -1,6 +1,3 @@
-moci tvrdit malý nebezpečí omyl nábožnost kulturnost pojem souviset
-McDonnald mel exilový studenstký katolický federace spolupracovat národní federace stát žít tétoyspolupráce usilovat probudit veřejný mínění uvědomit bezprostřední nebezpečí komunismus
-boj resoluce žádat hlavní téma studijní činnost Pax Roman rok role katolický universita pojmout dodatek litr komunistický nebezpečí
-století katol cism nebezpečí stát nacionální ^sloužit mítě metr metr národní interes
-bolest utrpení doba nejistota
-druzí vidět velký nebezpečí ohrožovat duchovní podstata národ mravní úpadek bolševismus přinést
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd50e3f37a66e0dac16c14bd234826e0ca6823a0d46e820cbedf2ad4f9d25eab
+size 656

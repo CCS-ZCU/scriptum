@@ -1,1 +1,3 @@
-nebezpečí staro nový slovenský nacionalizmus vednout priatelium ktorí pokračovat opatrný pokus udržať rovný chrbeic rozšiřování ilegálný tlač
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3f69b876e2388ac33064952673d9121e9d12c7b8c6f4f5d94c7002635987e6d
+size 159

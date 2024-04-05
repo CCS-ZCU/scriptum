@@ -1,2 +1,3 @@
-obyčejný lidový hospoda líný tečný měněný personál hlučný špinavý připomínající nádražní restaurace chodívat léta cítit bezpečí
-uklidnit poddat pocit bezpečí nechat hlava klesnout hřbet ruka třímat rám sedadlo
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e5a92ea7da6ace1893fa9583d0832d8ba826e7fb778f80bf82c2cd92e7d51c
+size 243

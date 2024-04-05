@@ -1,1 +1,3 @@
-stačit klamat domnívat možný vykoupit mír bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd94d86a8b731562bc31299418c303dff44233bd7c9763a41c9e569bdb5c0226
+size 59

@@ -1,3 +1,3 @@
-rozdělení Československo hrozit akutní nebezpečí Mečiarův muž post ministr zahraničí ČSFR Moravčík zanechat český republika diplomatický troska
-poničený lána kukuřice vypleněný zahrádka rozrytý les nebezpečí prasečí mora
-rok dovršit činnost železnice vynález konstrukce blokovací signalizační zařízení omezit nebezpečí srážka
+version https://git-lfs.github.com/spec/v1
+oid sha256:97bcb0d8e2b622e0f736b39beff82980ebda394f5c2a6808b2996532427c905a
+size 369

@@ -1,2 +1,3 @@
-Novotný Tit korektní zapomínat Jugoslávie nositel bezpečný bacil revizionismus Novotný režim představovat smrtelný nebezpečí
-nebezpečí opozice hybný páka pracující demokracie nebezpečí demokracie ohrožovat posilovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:f934bf6c20f151cc5b10b6ace2eecb7555fbdc1d8789892736244f27d2f83d08
+size 237

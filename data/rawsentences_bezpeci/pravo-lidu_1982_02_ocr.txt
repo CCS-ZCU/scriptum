@@ -1,1 +1,3 @@
- Je dobře vědět, že takové všednodenní zásahy patři k obvyklým skutečnostem života těch, kdo nenásilným způsobem a v plném souladu s platnými československými zákony usiluji o zachováni lidských práv, o spravedlnost a bezpečí pro všechny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b9f1a952ca55033b625477cd143d851680bac2ec093b856f48e4b60769e754
+size 266

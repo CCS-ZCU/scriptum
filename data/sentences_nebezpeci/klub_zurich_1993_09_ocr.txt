@@ -1,1 +1,3 @@
-Peggy Manová žena domácnost matka manželka spisovatelka objasnit nebezpečí marihuana lélý jiný protinarkotický program prohlásit ředitel americký ústav zkoumání zneužívání droga
+version https://git-lfs.github.com/spec/v1
+oid sha256:5939d082c7eac8f73ec51daef9b94a1f203e3c70d6ecbb592db7cd04e5d2cda8
+size 198

@@ -1,2 +1,3 @@
-podvrh jmenovaný studie CIA falsifikát americký armádní příručka mluvit používání levicový teroristický organizace spojený stát vyděšení spojenecký země země nucený zpřísnit vnitřní bezpečnost
-státní tajný bezpečnost ušetřit zbytečný úkol
+version https://git-lfs.github.com/spec/v1
+oid sha256:6af1fc332ee28fc9d2fcccb5c46aadc7b13ca75d01fd5bf44ca3bada3bdeec73
+size 278

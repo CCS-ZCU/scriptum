@@ -1,1 +1,3 @@
- Zejména těžil z lehkomyslné upovídanosti o věcech, jež mají zůstat v zájmu bezpečnosti státu utajeny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c2b03afe918c6e4f67902a44983ec75808a61852a15cdd8e60e9b2eeb0ee23b
+size 115

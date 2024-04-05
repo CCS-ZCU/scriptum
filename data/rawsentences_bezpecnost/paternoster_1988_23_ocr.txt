@@ -1,3 +1,3 @@
- MINISTRYNĚ (sama): Přece nepoběží kvůli jednomu slovu na Bezpečnost? Fuj, že si nedám pozor na hubu, ale to je, že jsme všichni přepracováni.
- - Ale Barnard přece nepoběží na Bezpečnost.
- Hala by- la obklíčena ještě více a mezi vozy bezpečnosti se objevi- li i policajti se psy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d35eac0d6bba3b7cb079569ec69d9947a334313869b044c39f185ed1eb4a57e
+size 304

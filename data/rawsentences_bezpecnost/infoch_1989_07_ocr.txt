@@ -1,8 +1,3 @@
-ozsánlv článek Jiřího Hájka Srpe^s 1968 v Radě bezpečnosti, v némz autor vzpomíná na srpnové události před dvaceti Laty a na to, jak je prozíval v roli ministra zahraničí.
-1939 Výboru pro evropskou bezpečnost, Výboru ča\veřejnosti,L.
- zadržen Státní bezpečností v montérkách přímo u stroje, byl však po obvinění z pobuřování propuštěn a je stíhán, na svobodě.
- Nyní je F*Stárek va vazbě v Hradci Králové a Státní bezpečnost pri vyšetřování v jeho věci používá nezákonných metod.
- Za neodpustitelné považujeme rovněž brutální akty, jichž se dopustila Bezpečnost vůči účastníkům pokojných manifestací v Praze.
- ?růvod chtěl projít Ševcovskou a Karmelitskou ulicí na náměstí Svobody k budově vojvodského úřadu Bezpečnosti.
- V Karmelitské ulici se průvod srazil s kordonem milice !Veřejná bezpečnost).
-4 v Mikulášské ulici, kde bydlí náčelník vojvodského úřadu Bezpečnosti v Krakově, gen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfc4fc228b0ec695e0efe3fa67117307d6ceb0ff42c05ea19ff4576b7caf3e39
+size 991

@@ -1,1 +1,3 @@
- "Události posled- ních měsíců dokázaly dramaticky potřebu sil- né organisace kolektivní bezpečnosti", vysvětluje president Eisenhower- Hospodářská pomoc Eisenhower se také rozhodl žádat o zvýšení vojenské a hospodářské pomoci cizím státům na 4,4 miliard dolarů (2,6 na vojenskou pomoc a 1,8 na pomoc hospodář- skou, technickou a j.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad6c5cecd15e7c9918380a6058200d8d80f527ffd6ecfb056954f175020717f7
+size 363

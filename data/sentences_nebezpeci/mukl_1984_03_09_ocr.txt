@@ -1,2 +1,3 @@
-svobodný člověk pochopit opomenout hrozba smrtelný nebezpečí svoboda representovat moderní imperium totalita ideologický Messianismus
-činit uvědomovat citlivý signál nebezpečí signál opakování smrtelný omyl dávný minulost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2301fe1b7149bc407ccd7cf889be97389c740267efb9e27b8cd595f15358a533
+size 242

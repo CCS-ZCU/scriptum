@@ -1,3 +1,3 @@
- Středověký člověk sloužil především Bohu, a proto uznával, že je třeba hájit společnou víru, společnou bezpečnost a společný mír.
- Hledal stále výš, nad stvořením, nade vší jeho prchavou bezpečností a nadějí.
- Až má dramata o to usilují; jsou právě zápasem zoufalé duše s dusivou tmou, jež ji chce zaškrtit, zápolením duše, která hledá kolem sebe v tomto neviditelném světě, který ji obkličuje, řád, pokoj a radost, které s jistotou a bezpečností objevila v sobě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c5aa44172e90ffa9687a639a5ecf0353972815469621dca7dede1f15b88cb04
+size 522

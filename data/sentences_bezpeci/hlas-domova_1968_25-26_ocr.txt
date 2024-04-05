@@ -1,1 +1,3 @@
-malý moci udělat umožnit pocit bezpečí jistota
+version https://git-lfs.github.com/spec/v1
+oid sha256:fee7806e1267fd86b1db9555593742a349ae963c69a680b4fe36f4bac53f0c64
+size 52

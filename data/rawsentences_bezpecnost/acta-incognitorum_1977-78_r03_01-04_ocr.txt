@@ -1,2 +1,3 @@
- Důvodem byla let» výcviku, nadšení pro věc a to, že odpadly nutné ohledy na bezpečnost při výcviku.
- Ale pozor! Budete-li hledat ústředí státní bezpečnosti, musíte zajít na náměstí Dseržinského a Je to ta poměrně nenápadná, asi pětipetrová budova když se díváte přímo od zadní části pomníku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d35c110bdb0e59388fb87f0aa17d357ab65c63112b12e15a59cc4b43def6c42f
+size 332

@@ -1,2 +1,3 @@
- Vidíme zde vlivné síly, které mají jinou představu o bezpečnosti země.
- To hlavní: byl daleko z dosahu StB - a proto jsem se odhodlal k nehezké fintě, v zájmu své vlastní bezpečnosti a hlavně s úmyslem hezky poplést nepřítele: „S Molnárem jsem promluvil jen jednou - a i to mi stačilo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a13e174d177a73dc1e88f8247922677350550b5ace37d62bd6f9d44ee1d83e12
+size 311

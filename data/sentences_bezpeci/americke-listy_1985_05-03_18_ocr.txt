@@ -1,1 +1,3 @@
-ostatní svět moci ignorovat důsledek ruský mentalita vlastní existence bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1d9cd7eea50969cb6cc1bf4f0e3e12aabaf0fe74d813e44b8f9ce7316748d0
+size 86

@@ -1,1 +1,3 @@
- Celý tento soubor změn v posledních deseti letech, způ- sobený válečnou situací, částečné záměrně legalisovaný a provedený Labour Party, přetvořit Anglii ve spořádaný stát, dávající bezpečí a hospodářské, sociální a lékařské zajištěni všem svým občanům bez rozdílu, v nejvyUi miře, slučitelné s celkovou hospodářskou situací ze- Vedlejším produktem tohoto vývoje ovšem bylo velké zesíleni mocí státu a veřejných in- stitucí a mnohá omezení dříve autonomních činnosti iniciativního jedince, které zaměstná- val dřívější liberalislický řád.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3cd3d1364e7a9899f4243f0de689c4ea582d464c152fd17d84be4f58f75d98f
+size 610

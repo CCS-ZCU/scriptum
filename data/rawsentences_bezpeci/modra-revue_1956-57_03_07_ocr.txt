@@ -1,1 +1,3 @@
- Historické povolání této říše je zabezpečiti národům, od nepaměti spojeným pod žezlem naší dynastie, klidný rozvoj, bezpečí na venek a svobodu uvnitř.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f5ec633a3b74fe6956b474f0066a94ad386acf75927383480063878aa88b59
+size 171

@@ -1,1 +1,3 @@
- Ale konflikt na blízkém východě, evropská konference o bezpečnosti budou témata,o nichž bude řeč.
+version https://git-lfs.github.com/spec/v1
+oid sha256:372aa979a9327043f6b39335d7f5cce2c013bf8e0c50c4798b5bc887e6dbacdc
+size 109

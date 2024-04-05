@@ -1,1 +1,3 @@
- Konferenci o bezpečnosti a spolupráci v Evropě se závěrečným aktem v Helsinkách z r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f638bd295df48884ab00c8ddde5ea5e4500c00f3d4341477856217810a92e84a
+size 94

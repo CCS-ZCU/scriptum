@@ -1,1 +1,3 @@
-mít probudit svobodný klid thargie upozornit nebezpečí metoda praktika systém nechávat stoupat vyvolený žebřící funkce padat
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b58441ef5cf50d1918bb277af3c4e283dfb63382aa29890c88ed70296ca234c
+size 138

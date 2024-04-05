@@ -1,7 +1,3 @@
- 6-POLYGON 6/91  KRAJSKA SPRAVA SBORU NÁRODNÍ BEZPEČNOSTÍ 'V BRNO .
-ážoný pano redaktore, • L celý týden jsom přemýšlel, jestli Vám mám napsat a nebo si mám nechat své zkušeností so Státní bezpečností pro sobe, článek "Uvočka honí vlky" Vám možná způsobí nepříjemnosti a určitě so najde dost těch, kteří Vám budou psát ve stylu "Scš vůl .
- Každý to ví, soudruhu Dienstbiere!“ Dienstbier prohlásil, že nikdo nebyl donucen odejít z vlasti, protože on sám tak neučinil, třebaže „měl zejména od Státní bezpečnosti mnoho nabídek, aby emigroval“.
- Na druhé straně však drtivá většina Čechů a Slováků nikdy se zločinným komunismem neměla nic společného a komunistická státní bezpečnost jim také nikdy nic nenabízela, natož aby jim dělala “mnoho nabídek,, či dokonce přislibovala pomoc při oficiálním převodu do emigrace.
- Právě naopak, komunistická Státní bezpečnost vystavěla proti této většině našich národů na hranicích barikády ostnatých elektrických drátů, minových polí a kulometných věží, aby jí v odchodu zabránila.
- září diskutuje v rámci mimořádného zasedání Konference o bezpečnosti a spolupráci v Evropě o řešení těžké krize v Jugoslávii.
- 1969 o odposlouchávacích taktikách Státní bezpečnosti pomocí tzv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a521447721d96844286539929bdc0de1e68dfdd6a21ea166a9f97b1ad5c21adc
+size 1364

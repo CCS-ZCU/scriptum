@@ -1,11 +1,3 @@
-Kypr rozpolcený smiřitelný poměr řecký většina turecký menšina nebezpečí nový srážka zažehnaný
-sovětský svaz stálý nebezpečí vyhoštěný Československo Československo přijet říjen minuta
-otázka pan doktor zastávat názor těžiště velký nebezpečí svobodný svět přesunout sovětský svaz Ruda Čína
-přistupovat skutečnost rok kubánský krise riskovat Sovět akutní nebezpečí thcrmonukleární konflikt Chruščov považovaný diktátor umírněný
-názor komunistický Čína představovat velký nebezpečí sovětský svaz dokazovat upadnout zapomnění vážný ohrožení světový míra kubánský krise představovat
-západ upírat pozornost hypnotisovaný dít Asie přehlížet velký nebezpečí
-nabídka těžkost mít Sovět západ připravený nebezpečí lákavý návrh vážný
-otázka názor mít čelit sovětský nebezpečí
-pejskař upozorňovat nebezpečí postup využívat zdůrazňovat prvek americký politika vyvěrat poznání svoboda dělitelný mocenský politika minulý století moci mít podpůrný úloha komunista měnit cíl měnit taktika
-aktivum odbočka Čsnra Washington patřit psaní dopis veřejný politický činitel novinář člen odbočka upozorňovat komunistický nebezpečí varovat důvěřivost komunista
-nebezpečí octnout metr vzdálený dum svatý
+version https://git-lfs.github.com/spec/v1
+oid sha256:d800857cf6577ee2f9b8c962d46e0e2e731fcce663a3de6ffe9060913985e119
+size 1348

@@ -1,1 +1,3 @@
-určitý permanentní přirozený nebezpečí ovlivnit doba krátký dvacetiletý
+version https://git-lfs.github.com/spec/v1
+oid sha256:248c96d8863558b31823cd164839f48b298778a6777f7477d1e40186dcb41a47
+size 82

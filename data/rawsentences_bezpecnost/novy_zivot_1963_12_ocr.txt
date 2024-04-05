@@ -1,1 +1,3 @@
- odborná organizace Spojených národů a pečuje o zvýšení bezpečnosti námořní plavby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aee71e2d96d9e15aabf9788d712e6a12f59cd3bb23accaf374a51ce479eea20
+size 96

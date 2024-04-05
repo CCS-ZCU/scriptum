@@ -1,1 +1,3 @@
- Mnozí snad budou namítat, že žijeme v Americe a jsme tu v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3f49e9c734be5f810ddd28cfde9f5ddc6ba76b4197108aa11da67163f6268aa
+size 74

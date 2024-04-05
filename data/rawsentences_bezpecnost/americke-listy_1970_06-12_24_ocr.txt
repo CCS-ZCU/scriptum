@@ -1,1 +1,3 @@
- * Rakousko je vedle Itálie a Belgie další kandidát na jedno z evropských míst v Radě bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7d541dedc397ff39e2368edc14dd5c7177c35419fc8efb8c90c3ff77de27ca
+size 107

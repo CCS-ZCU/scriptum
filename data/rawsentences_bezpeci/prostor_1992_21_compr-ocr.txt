@@ -1,4 +1,3 @@
- Stabilizovaná 65  společnost jim dodává jistotu, že si mohou bez obav vzít půjčky, zakládat podniky nebo vysázet stromy a rozvíjet veškeré tyto aktivity, které jsou všechny podmíněny jediným předpokladem, že bude zaručena ochrana vlastnictví členů společnosti, že jejich život a individuální existence budou v bezpečí a že jejich děti převezmou hodnoty, jež pro ně vytvořili.
- V naší kultuře má však rozdělení rolí a prací podle pohlaví dlouholetou tradici, samostatné rozhodnutí a jednání, lov, odchod z bezpečí domova na výpravu do divočiny a podobně jsou pociťovány jako mužské jednání, a proto se ženě tyto vlastnosti promítají do obrazu muže.
- Roku 1571 si pořídí velkou knihovnu, odebere se na venkov na zámek Montaigne a nad vchod do domu dá napsat tento nápis: Léta Páně 1571 ve věku osmatřiceti let Michel de Montaigne, již dlouhou dobu unaven službou u soudu i úřadem, se dosud v plné sile uchýlil v luno „učených Pannen“, aby v klidu a v bezpečí strávil zbytek svých dní.
- Albrecht bude jistě gravitovat k takovému ostrůvku a podaří se mu do něj vklouznout - a zase z něj vyklouznout, až bude svět v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee51b63706cebe0cefcc6eb4718426e3aea7c340f307d27b7bee744db283b06
+size 1227

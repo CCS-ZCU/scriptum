@@ -1,1 +1,3 @@
-západní Německo přát svět zbraň bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4697f60335c11d1180b894e6cbebb047b5c20402a1e4e7bd3bd05c86bcfd0c
+size 49

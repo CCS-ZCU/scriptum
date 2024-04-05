@@ -1,2 +1,3 @@
-ohnisko epidemie izolovaný hrozit nebezpečí neštovice rozšířit sousední stát
-Bekl vidět nebezpečí situace odhodlaný ustupovat mrtvola moci udělat puč země
+version https://git-lfs.github.com/spec/v1
+oid sha256:64cecabe83ac3a68f2147379f1427314b11e5feca5c9442eb2e1818251863811
+size 171

@@ -1,3 +1,3 @@
- Jana Litomis- kého pravděpodobně ne j významně-i ším zásahem bezpečnosti proti Chartě 77 a zejména proti VONSu, jehož bvl v poslední době ing.
- StB a přestat se scházet by znamenalo jen potvrdit, že policie má pravdu, zatímco každé malé dítě /a ostatně i StB sama/ ví, že zásahy bezpečnosti proti mladým lidem a zákazy jejich schůzek znamenají poruš ování zákonů.
- Dům Litomiského ve Vyskytné byl obklíčen bezpečností již několikrát dříve a jeho návštěvníci byli také již mnohokrát vyšetřováni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8590b6c143b1648d5d7b90c3eeab25214a6a591fb08f509af1698e3ec2c17636
+size 556

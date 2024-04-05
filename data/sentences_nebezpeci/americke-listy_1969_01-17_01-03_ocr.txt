@@ -1,1 +1,3 @@
-hrozit nebezpečí tank obsadit město následek otevřený teror politický režim
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed454c7635a2feac7d3a06885e8beafcdd814ddae561b6c911359968cc92b529
+size 84

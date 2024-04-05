@@ -1,1 +1,3 @@
- Prvním všech prostředků léčebných jest bez odporu vzduch a zvolí-li se dobré místo a dostojí-li se podmínkám přirozeného života, pak možno s bezpečností tvrditi, že každá počasní nemoc, i když ji lékaři prohlašují za nezhojitelnou, pobytem na čistém a zdravém vzduchu, spojeným s vhodným pohybem, jednoduchou, živnou stravou a při vzdalování se všelikého rozčilování se, jistě zhojena bude.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc40aae003c9ae120aa8a1ce3c198f854f724d9c4d857590a49658f32b35c54
+size 436

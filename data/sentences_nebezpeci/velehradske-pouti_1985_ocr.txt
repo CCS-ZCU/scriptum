@@ -1,1 +1,3 @@
-svátý ctihodný vladyko chrat modlitba toba toužit
+version https://git-lfs.github.com/spec/v1
+oid sha256:773cb0b8efff634783bec34a756592a5ae99418ff2e597d960eb6854ea0f9f21
+size 54

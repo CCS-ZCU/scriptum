@@ -1,3 +1,3 @@
- kde by dlržba obrovských majetků jednotlivci nebo malými skupinami ohro- žiovala svobodu lidí, efektivitu hospodářství nebo bezpečnost ná- '*íoda/.
- Kdo slouží vlasti ve vojsku, ať se považují za služebníky bezpečnosti a svobody lidu; a když správně zastávají tento úkol,o- pravdu přispívají k upevnění míru.
- V Izraeli je mnoho stratégů, kteří si myslí, že jeho bezpečnost neutrpí ani v p ípadč, zůstane-li Jýrie v Libanonu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0e144574ea71ab7c468d01832953c7dda3e4834810b8c2bac09cae371f2eac4
+size 471

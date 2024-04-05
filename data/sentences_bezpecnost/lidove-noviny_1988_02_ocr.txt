@@ -1,1 +1,3 @@
-zákon moci tání právní poradna shromáždění moci hrožený bezpečnost plynulost silniční vůz
+version https://git-lfs.github.com/spec/v1
+oid sha256:b81c40db057ff8e4dba4b505ed1b0036bb5036ee286bfdd68f9946050d9d9f2b
+size 110

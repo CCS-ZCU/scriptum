@@ -1,1 +1,3 @@
- Zeptal jsem se svého průvodčího, zná-li nějaké místo, kde bych byl v bezpečí před žraloky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f1c088fea6337ab1e1fae51b76d47dd4a1bc115e7e76847e5a9fd84cab5e02
+size 104

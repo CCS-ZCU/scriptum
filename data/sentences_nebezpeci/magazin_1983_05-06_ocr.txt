@@ -1,6 +1,3 @@
-Bukovskij ukazovat řada bezpečný iluze pacifista způsobovat pacifista mír zajišťovat záměrný podpora agresor zvětšovat nebezpečí válka znamenat působit míra
-demokratický kancléř západní Německo Helmut Schmidt upozornit rostoucí sovětský nebezpečí podoba raketa atlantický pakt dojít dvoj usnesení sovětský svaz záležitost jednat jednání dovést pozitivní výsledek západoevropský stát nucený zájem obrana instalovat území nový typ americký raketa západní pacifista přestat mlčet spustit obrovský kampaň existující sovětský raketa raketa americký mít postavený
-přijít čas trvat začít účtovat dít sovětský věra chušec přiznat činit šepto vyměnit strážce poklad upozorňovat vydaný nebezpečí trestní stíhání pobuřování
-nebezpečí člověk přijít život přemíra rychlost srovnávat rychlost rychlost vesmírový raketa opovážlivost rouhání
-otisknout mít možnost nebezpečí
-vypadat hovado nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:de23490f352de92bb21375d18a28a574c18bbc24f4fa148c041a35c1d7e42208
+size 993

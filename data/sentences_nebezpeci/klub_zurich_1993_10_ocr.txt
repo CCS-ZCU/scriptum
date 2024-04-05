@@ -1,2 +1,3 @@
-lékař prohlásit Manuel překonat nebezpečí
-nemocný upozornit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:c74514cc0879df6bef7f7c3df6ba1f84a0549f751f5be7ec56177f1151ee992f
+size 79

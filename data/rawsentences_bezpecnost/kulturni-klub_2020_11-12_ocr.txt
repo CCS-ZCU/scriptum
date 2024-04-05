@@ -1,6 +1,3 @@
- Náklady na zajištění bezpečnosti konstrukce budov jsou vyčísleny na 70 000 eur (asi 1,8 miliónu Kč).
- 1980 se v Madridu československá delegace účastnila zahájení schůzky představitelů 35 signatářských zemí Závěrečného aktu helsinské konference o bezpečnosti a spolupráci v Evropě.
- Vyplývá to z analýzy Národního úřadu pro kybernetickou a informační bezpečnost (NÚKIB).
- S kurátormi, reštaurátormi, galerijnými pedagógmi, grafickými dizajnérmi, ale aj pracovníkmi z produkcie či oddelenia bezpečnosti zbierok sa pozriete do zákulisia prípravy výstav, zistíte, ako fungujú výpožičky umeleckých diel, alebo ako raz produkcia zháňala na výstavu kolóniu mravcov! Neobídete ani tému rekonštrukcie SNG v Bratislave, v rámci ktorej sa dozviete novinky o pripravovaných stálych expozíciách, knižnici, o fungovaní nádvoria či kina a predstavíme aj infosystém, ktorý vám nedovolí zablúdiť v novej budove galérie.
- Nesmírně ráda řídila velká osobní auta, milovala rychlost, ale i bezpečnost.
- září 2020 Ve Vídni jednala delegace Výboru pro zahraniční věci, obranu a bezpečnost Senátu Parlamentu ČR, složená z předsedy Pavla Fischera a místopředsedů výboru Tomáše Jirsy a Patrika Kunčara.
+version https://git-lfs.github.com/spec/v1
+oid sha256:663619b5b45004ce1014b8b4bfaff31ff37364be39a5e4b309f5d71b575ca7ab
+size 1292

@@ -1,2 +1,3 @@
- Proto ani naše armáda, Bezpečnost a Lidové milice nedostaly rozkaz к obraně země.
- —afa— 2 — Věstník Československo se “vyznamenalo”! Na konferenci zástupců 35 států v Helsinkách, která se konala u příležitosti desátého výročí podepsání Závěrečného Aktu z Helsinek Konference o Spolupráci a Bezpečnosti v Evropě, měli všichni ministři zahraničních věcí zúčastněných států příležitost zhodnotit 10 let činnosti v t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f05dabadd04c687c20da2d9172ad95c32607fb011d78313038cd9a05c889dab
+size 476

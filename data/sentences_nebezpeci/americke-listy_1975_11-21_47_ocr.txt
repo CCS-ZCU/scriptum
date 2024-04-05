@@ -1,1 +1,3 @@
-fakt odchod vojsko OSN znamenat velký nebezpečí srážka syrsko izraelský hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:e82bb9179cd7580237de248a77b482fc8711eb433aa1684807301eb0aa9a9418
+size 86

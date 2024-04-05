@@ -1,1 +1,3 @@
-vyvolat otevřený útok americký politika SSSR mentalita bezmocnost pacifistický ilo ionismus Walter Lacquer používat termín abulie Hoilanditis snaha čelit nový ohrožení vlastní síla Evropa bývat přiměřený odpověď snaha vykoupit bezpečí stavba potr bítě
+version https://git-lfs.github.com/spec/v1
+oid sha256:24549f8328b386c1900d40b339b307cc556e51d4b047ba2ee143a493666169ee
+size 277

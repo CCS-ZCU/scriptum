@@ -1,1 +1,3 @@
-Zdeněk Jičín ský vyzvaný doba konání sjezd KSČ vzdálit Praha vystavovat nebezpečí zadržení
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dc71af8947b2fae8e0411d83b53bd437881ced1ef792efa506d9f6b4792bf9b
+size 104

@@ -1,1 +1,3 @@
-beznadějný situace Panenkův mužstvo Rapid Vídeň mít utkání Reál Madrid převaha prohrát Antonín Panenka podat dobrý výkon rohový trestný kopa zn^enat nebezpečí madridský branka zachytat Miguel Angel
+version https://git-lfs.github.com/spec/v1
+oid sha256:7882dd933a3b7ebe6c22a8dcc7b11d59c8903a3062f87e965485506aa33e8f9e
+size 218

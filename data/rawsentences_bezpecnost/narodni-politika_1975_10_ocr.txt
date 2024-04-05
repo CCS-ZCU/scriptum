@@ -1,1 +1,3 @@
- Dalším primátem je i rozšíření sítě agentů a konfidentů Státní bezpečnosti na školách — špicluji se nejen učitelé a žáci, nýbrž i jejich okolí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43ed8f78d236582a125022f32b86715b7f42478fd263a42b5238dc9d00cb76c3
+size 171

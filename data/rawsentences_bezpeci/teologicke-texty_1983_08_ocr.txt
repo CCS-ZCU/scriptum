@@ -1,1 +1,3 @@
- Je to tak, když nemohu nebo zatím ještě nemohu odpustit, že bych se mel"nejprve ptát: Kdo vlastně pro tebe jsem? Jak mám uvěřit,, že'se mi neposmíváš, když jsi mě přece předem videi oklamaného, nic netušícího, podvedené- ho nebo zbaveného vážnosti a zařadil mě do svých piánů? Připadám si jako zraněný, ve svém bezpečí a jistotě otřesený; vztah k tobě, který jsem cítil jako plást chránící mne, dostal díru a už mě nezahřívá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4335f65c21595a67595ee6c753ed2a5b1a6219c0f6ec93b5c623e70f33a57aa4
+size 173

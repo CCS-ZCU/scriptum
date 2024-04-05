@@ -1,1 +1,3 @@
-uvedený případ zneužití léčebný preventivní péče studenec Zina Koč podepsat charta pomoc policie hospitalizovaný uzavřený venerologický oddělení Praha dostat nebezpečí moci nakažený pohlavní nemoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:d57b7e50f651ddb26f2622d89ddd345aca6c4eeb553b7d17db7ee17c34137364
+size 220

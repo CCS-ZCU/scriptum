@@ -1,8 +1,3 @@
-nebezpečí nova středit zapojit církev přestat chodit mše svatý
-jednat žena sklon neu róza nastávat nebezpečí přechod projevit vážný nebezpečí neuróza
-zdravý žena prožívat přechod nebezpečí měnit
-nebezpečí moci poznat psycholog choroba vypuknout žena tan máj sklon mládí mít zajít psycholo gov
-hrůzný nebezpečí umělý rozmnožování lidé vyjít vlaský román Ken Helia třetí dvojč
-národní nebezpečí
-otrok
-nebezpečí televize
+version https://git-lfs.github.com/spec/v1
+oid sha256:97b7a8ee76197249771643f43eb732598367c6b6cf5a74e839bfe06f17db3a4d
+size 517

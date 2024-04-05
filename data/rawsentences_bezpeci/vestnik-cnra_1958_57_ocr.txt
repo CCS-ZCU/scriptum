@@ -1,1 +1,3 @@
- Na nás je, abychom zde,v bezpečí svobody, tuto kulturu živili, nosili, a rozmnožovali tak, aby opět mohla být v příhodné době předána domovu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:795d69fd1575a693357d1c2064d8ea11e0b6f4fbeba9755fd2ce48d2e6523cba
+size 156

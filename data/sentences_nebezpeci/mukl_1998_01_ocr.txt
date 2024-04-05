@@ -1,2 +1,3 @@
-hrozit nebezpečí opakování problém zažít rok
-popisovaný záležitost nebezpečí aktuální postoj čin vymazat období poznámka
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ed4d4c26da67179f15f21aced547c5aab4a774a697d43eaa3b3673ed5aa2467
+size 138

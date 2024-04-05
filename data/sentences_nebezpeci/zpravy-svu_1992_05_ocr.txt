@@ -1,1 +1,3 @@
-přednášející zaměřovat přednost problém nebezpečí vyplývat aspekt mezinárodní spolupráce požadavek společnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:19761c1a60e8d9a2f7870c28023e8eb0385b1dfe2e2697ec5b24a6d2cea488e5
+size 127

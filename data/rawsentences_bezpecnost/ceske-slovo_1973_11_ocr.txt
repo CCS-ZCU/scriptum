@@ -1,6 +1,3 @@
- Sbor vypracoval memorandum, nejdříve k přípravným jednáním a potom ke konferenci o evropské bezpečnosti a spolupráci, které poslal západoevropským vládám, vládám Spojených státu a Kanady.
- Ať už šlo o společnou americko-sovětskou iniciativu v Radě bezpečnosti Spojených národů či o to, co NĽW YORK TIMES nazvaly devíti hodinami strachu po čtvrtečních náznacích zvýšeného napětí mezi Washingtonem a Moskvou.
- Hlavni sovětský tiskový orgán ostře odsoudil postoj čínské delegace v Radě bezpečnosti Spojených národu.
- Skutečnosti nicméně zůstává, že se Peking sice distancoval od rezolucí Rady bezpečnosti Spojených národů za nynější krize, ale nezablokoval jejich přijetí použitím práva veta, které Čína má jako jeden z pěti stálých členů bezpečnostního orgánu Spojených národů.
- Hrob Jana Palacha byl denně plný kvetu i poté, kdy z něj československá Státní bezpečnost odcizila náhrobek.
- jednatelka Teprve po třetí výzvě Rady bezpečnosti OSN došlo na Středním východě k příměří.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f76e4e64e46282b75759261b4e0bd44efc25c0bafe2d0c096347b392d1077d
+size 1093

@@ -1,2 +1,3 @@
-věznice nalézat doba vězeň
-rozhorlený lid chtít Angličan lyn čovat policie mít činit bezpečí dostat vězení
+version https://git-lfs.github.com/spec/v1
+oid sha256:635c2060b4aa7f565ffc3c5ca0ce48db694843f0ee8b3c81326f385615f06e34
+size 120

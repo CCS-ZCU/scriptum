@@ -1,2 +1,3 @@
-bezpečí
-odevzdat dítě bezpečí divoch přihnat
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f84dd0e8d808b951293d49520221a69562f8001e235c50a68541912a19d61ca
+size 52

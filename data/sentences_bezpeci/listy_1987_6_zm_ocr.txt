@@ -1,2 +1,3 @@
-důkaz někdejší nezájem záležitost obracený záda svérázný protest lid konkrétní politika falzifikace denunciace represe politika normalizace lidé politika znecho tilo zahnat bezpečí rodina chata
-Erich Fromm psát úťo svoboda určitý sociální vrstva západní spo lečnost spatřovat rozvoj demokracie ohrožený trvalý tradice způsob život bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0540ebf8fb62b970af0b0279dbbb8e7061f119e2c968129269ca4889bc1584ac
+size 372

@@ -1,1 +1,3 @@
- Upozonťl na nedobrý dojem, jejž v Jugoslávii vyvolávalo privilegované postavení sovětských odborníků, a naprosto jednoznačně konstatoval, Že je ne- přípustné, aby si sovětská zpravodajská služba budovala svou sít v Jugoslávii a najímala do svých služeb jugoslávské občany: „Máme svou vlastní státní bezpečnost a zpravodajskou služ- bu pro boj proti různým zahraničním kapita- listickým elementům i domácímu třídnímu ne- příteli, a potřebují-li sovětské zpravodajské orgány v tomto směru jakoukoli informaci a pomoc, mohou ji míti kdykoli k disposici, jak tomu ostatně, pokud šlo o nás, vždycky bylo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12207f8a549875faded4ea3bab34704b49f137faf47699d0c2356b5cd9f65a5b
+size 663

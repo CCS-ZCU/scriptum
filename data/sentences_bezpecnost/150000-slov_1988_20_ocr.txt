@@ -1,14 +1,3 @@
-obětovat bezpečnost soukromí konečný poskytování interview ponechávat čas vlastní práce
-přednášet téma centrum mezinárodní bezpečnost kontrola zbraň stanfordský univerzita
-sekce nazývat mezinárodní bezpečnost otázka lidskost
-bezpečnost dát získat jiný dát získat
-důraz kladený vzájemný bezpečnost vzájemný závislost země zen
-spojenec muset ujasnit ATO moci překročit rámec vojenský nutnost dospět politický program východ západ poskytnout velký bezpečnost
-nutný prosadit síla věřit možný zajistit bezpečnost zbrojení neustálý hromadění zbraň hromadný ničený
-nutný organizovat společný rovný bezpečnost
-svár ideologie společný bezpečnost
-komunista přesvědčený socialismus rozvíjet přednost kapitalistický společnost plný zaměstnanost sociální jistota bezpečnost účast pracující příprava rozhodování kontrola státní hospodářský společenský záležitost spojení vědecko technický pokrok pokrok sociální vzdělaný bezpečný budoucnost mládež
-koexistence společný bezpečnost platit časový omezení
-říkat bezpečnost jaderný věk moci zajištěný velký množství dokonalý zbraň politický jednání
-Stalin soudit bezpečnost nezvratnosť socialistický řád Rusko moci zaručený revoluce sau sední země
-Knesset konat tajný zasedání podvýbor státní bezpečnost výzvědný činnost vedení Ebanův Pereš znechucený proniknout veřejnost nazvat baňa nafoukaný pávo
+version https://git-lfs.github.com/spec/v1
+oid sha256:c71bfdeb985c4b437a7d377497a98ab7aacf9fc4418b41ca85c515e23e25aadf
+size 1497

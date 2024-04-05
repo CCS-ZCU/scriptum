@@ -1,1 +1,3 @@
-sexualita odloučený plodnost nebezpečí duchovní láska muž žena spojený věrnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:5813613c0dd021fddab442718f26f794d61aa3ee5707f0f5618062c51dbc742a
+size 89

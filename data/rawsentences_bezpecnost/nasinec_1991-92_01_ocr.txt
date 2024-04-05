@@ -1,1 +1,3 @@
- Všechno se navíc děje takřka pod nosem našich vladařů, o naší bezpečnost se údajně starajících, jejímuž vůdci de Klerkovi jsme k tomu venkoncem dali v březnovém referendu neprozřetelně mandát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a80f387f3bb58b18bb915909a330144e7277438bb776a6178f0c058e8758daef
+size 216

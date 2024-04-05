@@ -1,1 +1,3 @@
-vyptávat bezpečí mít hlásit
+version https://git-lfs.github.com/spec/v1
+oid sha256:91598503b26a0fe3718f4ed2048a4696d2cb3dd3818b98f95af6b3613dcf072f
+size 33

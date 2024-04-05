@@ -1,3 +1,3 @@
- Amerika na to všecko pohlížela z ústraní, ježto izolacionistické nálady a hluboká krize zabraňovaly jak politikům, tak širokým kruhům veřejnosti pochopitreálnostne- bezpečí fašismu i pro USA.
- Ačkoli mu v žádném případě nelze upřít obratnost a dokonce i íránští náboženští představitelé jsou nuceni semknout své řady, Rafsandžani není ještě v bezpečí.
- Nádech bezpečí před výpovědí vane chodbami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f7769dd4823283a1908c00890ee6f56c541af19a7b37daee6c068f2af3357b5
+size 239

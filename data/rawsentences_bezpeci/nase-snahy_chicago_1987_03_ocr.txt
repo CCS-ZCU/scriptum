@@ -1,1 +1,3 @@
- Mladší americký čita- teľ, ktorý v pohodlí nastavovateľnej leňošky, obklo- pený mierovou idylou dvoch mačiek, troch mopslí- kov a vrecka s čerstvými zemiakovými lupienkami, sa začíta do Gelbovej knihy, môže sa mýlne oddať driemotám o bezpečí, ktoré mu poskytuje Múr po- stavený východným blokom pre jeho ochranu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4f9755b5b1e7941c54f13d890f09aeed3706f1b1104aec645ba6d369c65d010
+size 336

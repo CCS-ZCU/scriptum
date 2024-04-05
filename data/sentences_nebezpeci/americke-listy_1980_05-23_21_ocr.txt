@@ -1,1 +1,3 @@
-sebemenší skulina objevit skromný světélko svobodný konformní myšlení představovat režim nebezpečí moci přiznat moci odsoudit muset pokoušet označit jiný jméno
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb2231e75db6e285e26909c891914ec033909f0b43768a202a58bd013e270dd
+size 178

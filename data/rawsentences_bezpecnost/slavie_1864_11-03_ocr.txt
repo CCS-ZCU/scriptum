@@ -1,1 +1,3 @@
- Elston pohlédnul do tváře jeho, kterážto potvrdila tušení, jež smutek v táboře panující byl v něm vzbudil: rty jeho zbledly a třásly se když tÁza] se Reginalda, „Mluv! co se stalo?“ pak u- kázav k bílému stanu, dodal, „Jest v bezpečnosti ?“ „Ano, je ji dobře!“ odpovědělReginald.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e95105b112e803db6f113abd34ab97bddbc9fae870c5fa94bda7ee0c565e95
+size 317

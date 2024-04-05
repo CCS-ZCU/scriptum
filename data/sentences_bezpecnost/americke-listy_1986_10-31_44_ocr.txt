@@ -1,1 +1,3 @@
-způsob zasáhnout případ pražský bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:214431f464f9141e1f0a0b733a0cb6658bc19c411c698ce825f20a6b2a36b683
+size 50

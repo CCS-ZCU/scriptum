@@ -1,3 +1,3 @@
-státní bezpečnost konfident získávat vydírání
-národohospodářský analýza vypracovávat státní bezpečnost agent Economist předválečný ministr Dvořáček
-doba státní bezpečnost chystat provést únos demokratický politika Bohumil Laušman Rakousko
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c54490f768cbdc71494b1bb2ee2b73f4a0e85d3c0bc03a1d4f6175d57833aa2
+size 270

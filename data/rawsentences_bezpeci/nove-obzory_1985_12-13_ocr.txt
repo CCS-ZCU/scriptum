@@ -1,1 +1,3 @@
-« Toto všechno se nedá oddiskutovat tvrzením, že se jedná pouze o alternativní cenovou politiku a strategii zaměstnanosti, kde zboží se přiděluje na základě délky fronty a ne podle jeho ceny, a že tato politika poskytuje bezpečí plné zaměstnanosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c710446f54d68bae7ac3cda1a6c4142861836b329f688055684a3f5b5dece27d
+size 269

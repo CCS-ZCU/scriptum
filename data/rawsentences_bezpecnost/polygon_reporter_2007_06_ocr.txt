@@ -1,8 +1,3 @@
- Premiér Topolánek s předsedou Zelených Buršíkem odletěli do New Yorku podpořit členství ČR v Radě bezpečnosti OSN.
- ČR neuspěla ve volbě do Rady bezpečnosti OSN, bylo zvoleno Chorvatsko.
- Ministr zahraničí Schwarzenberg připravuje analýzu neúspěchu ČR při kandidatuře na nový POLYGON 6/2007 / 3  člena Rady bezpečnosti OSN.
- To platilo ještě i roku 1968 v případě okupace Československa a zřejmě teprve nástupem Henryho Kissingera do fůnk- ce amerického ministra zahraničí v roce 1973 nastala podstatná změna v západní politice, která vedla ke konferenci o spolupráci a bezpečnosti v Evropě konané na přelomu července a srpna roku 1975 v Helsinkách.
- Kec (registrovaný důvěrník Státní bezpečnosti), se v roli náměstka pokusil činnost parku privatizovat do společnosti Park servis.
- Balujevského, ale i některých případných kandidátů na prezidenta republiky, kterým nevadí ucházet se o hlasy komunistů, nám připomínají, že vyrovnání se s totalitou let 1948-1989 není jen o komunistech z dob totality, ale, a to především, o naší další bezpečnosti, bezpečnosti všech členů EU a všech našich demokratických přátel.
- Jejich odchod je pochopitelný; poté, co jsme si v MF DNES přečedi o přátelství šéfa bezpečnosti (!) v NBÚ Hejla s bývalým capo di tutti cápi české mafie Mrázkem (jejichž odposlechnuté hovory státní zastupitelství nepovažovalo za důkaz o trestné činnosti), o jeho přátelství s ex šéfem poradců Zemana Sloufem, o jeho schůzkách se soc.
-“ Co je to „Domeček“? Historik Tomáš Buršík: „Používali to k vyšetřování vojáků na přelomu čtyřicátých a padesátých let, byl to objekt státní bezpečnosti a armády dohromady.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb3a3aac9050518ddd92560e26879c9db15f890d6cd2876098a9e98f82e4e4a9
+size 1790

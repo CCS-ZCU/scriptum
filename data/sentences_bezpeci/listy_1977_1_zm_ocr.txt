@@ -1,2 +1,3 @@
-člověk léta žít atmosféra absolutní akademický svoboda legální bezpečí ztrácet dát jemný smysl jinotaj podtext zašifro vaný poselství čtenář pěstovat sofistikovaný diktatura
-mnohý ve1 řejnost projevovat stoupenec oficiální norma kánon skutečný život život kulturní činitel oddělený odeh rávat probíhat snový svět fetiš poklad bezpečí absolutní soukromí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e248ee6d9edeeddd2a46c1d8dc5c791ed300c356758ce40d83d968aec0c364
+size 395

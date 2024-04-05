@@ -1,1 +1,3 @@
-březen Teoreticko —politický občasník obsah číslo zlevnit vášeň podražit rozum
+version https://git-lfs.github.com/spec/v1
+oid sha256:322b476e016938906a28e71f29e81e30a689f7888bfe0c8cda6a9bd449f3be5d
+size 91

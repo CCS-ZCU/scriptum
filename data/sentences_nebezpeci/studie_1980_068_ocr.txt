@@ -1,12 +1,3 @@
-poraženecký nálada hrozit rozbití národ vystupovat snaha čelit nebezpečí mnohý český kulturní činitel pozitivní program postavit nepřítel síla duch
-upadnout nebezpečí prázdna zavěšený konstrukce
-krize evropský civilizace muset znamenat krize diar chie rozpad vznik nebezpečí pevnost osobní vědomí řec kýmaný israelský smysl rozpadnout
-dostávat podoba znát nebezpečí
-potvrdit hlášení sovětský muslim Afganistan vedený usnadnění komunikace počet dezertér řada zůstávat patrný záhodný redukovat rozšířený názor nebezpečí islámský nákaza pronikající střední východ přilehlý sovětský oblast
-případ přičarovat Moskva reálný nebezpečí prediktivní tero rismus
-viděný Kreml moci revoluce vymoženost vystavený nebezpečí zprava Československo zleva Afga nistan
-hrozit určitý nebezpečí
-rozpor odvaha velký podnik ohled nesnáze nebezpečí opatrnost varovat chybný krok celý proces zpomalovat přehný moci zastavit
-rozdíl Amerika strana nebezpečí stranický protivo přenášet vláda
-míra možný čelit nebezpečí zneužití moc centrální hospodářský byrokracie rozšíření politický demo kracie odvolatelnost vedoucí politik demokratický pra vidět
-přistupovat nebezpečí výraz solidarita ohrožený pokus bránit společenský hodnota napadený vměšování politika podléhání antipolský vliv
+version https://git-lfs.github.com/spec/v1
+oid sha256:875a9076e3b224b67649954362288c4f8a9e8af5535192e70895ca8f4fd0f699
+size 1402

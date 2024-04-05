@@ -1,1 +1,3 @@
-nést kříž znamenat odhodlat Kristus zemřít ukáznit tělo vyzbrojit bitva přemáhat nebezpečí jméno Kristův hrozit dát ovlivňovat svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a4c4adf2e866b4636689066094cd41bcc3b38b5c2787491f45bcb83be68ea9
+size 149

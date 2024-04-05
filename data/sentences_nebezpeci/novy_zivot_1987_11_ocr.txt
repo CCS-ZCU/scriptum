@@ -1,4 +1,3 @@
-důležitý věc strana víra strana radovánka materiální věc strana nebezpečí droga
-naléhat oficiální návštěva prezident Reagan USA chudý národ sdílet materiální statek morální hodnota
-boží spravedlnost prodchnutý milosrdný láska lidský model nebezpečí zastavit spravedlnost znát milosrdenství jistý smysl slepý člověk moci nechat vést nenávist pomstychtivost
-velký nebezpečí rok svatořečený blázek
+version https://git-lfs.github.com/spec/v1
+oid sha256:97222b1fb3d1d38a0585e1ae3d7f7a2caf2dd97b09cdddc96c96f94113cac695
+size 442

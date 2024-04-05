@@ -1,1 +1,3 @@
-kříž uchovávat památka vězeň svoboda blízký nebezpečí sseba pokus útěk přinášet připomínka surový bezpráví typický rys minulý režim léta český republika přetrvávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aadd9022eb678c3068be461baf1416fca493f86199c55bb91a0ebc6b6ba478d
+size 193

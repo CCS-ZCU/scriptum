@@ -1,6 +1,3 @@
- Jména: — Ladislav Kopřiva, bývalý ministr státní bezpečnosti a též člen politbyra; — Vratislav Krutina, poslanec, člen ÚV KSČ; — Jindřich KotaL náměstek ministra vnitra; — Karel Mestek, náměstek ministra zemědělství, člen ÚV KSČ; — Vladimír Koucký, velvyslanec v Moskvě, člen politbyra.
- — V Bezpečnosti se nejvíce činili agenti Molnár, Houska a Kavan.
- Ministerstvo vnútra SSR v spolupráci so Slovenským ústavom bezpečnosti práce a Hlavnou správou požiarnej ochrany MV SSR vykonalo vo vybraných objektoch s ľahko zápalným a výbušným prostredím preventívnu previerku.
- Vlani prekontrolovali 100 objektov, pričom pri požiarnej ochrane a bezpečnosti práce sa zistilo 2891 nedostatkov, ktoré mohli spôsobiť vznik mimoriadnej udalosti.
- A tak se přes Státní bezpečnost, ale nejen přes ni, vede vůči mně a tisícům jiných komunistů dlouholetá psychologická a sociálně existenční vojna.
- Byl mi dán příklad : když jednou v noci projížděly Šumperkem sovětské tanky, tak pár občanů telefonovalo na Veřejnou bezpečnost, že v tom hluku nemohou spát, že se tu ruší noční klid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec4b221d9484b934531d995a44dccc2cfbe6889232b7d1b54f2a55eecf2ca513
+size 1174

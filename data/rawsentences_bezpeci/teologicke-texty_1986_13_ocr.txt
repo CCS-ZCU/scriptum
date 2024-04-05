@@ -1,1 +1,3 @@
- Ukazuje názorné, co zname- naly jezuitské "redukce v období kolenizaěního zotroeování pro jiho- americké Indiány: bezpečí, plody práce kulturu /zpěv divadlo .
+version https://git-lfs.github.com/spec/v1
+oid sha256:0750b45e31caf96f2a0c7ec88238608c029039d9a787408c161a2059df12f538
+size 170

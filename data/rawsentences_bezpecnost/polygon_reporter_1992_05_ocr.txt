@@ -1,2 +1,3 @@
- A pak přišla svoboda i k NAM! Vloni běžely reportáže, jak se žena dozvěděla o manželovi a kamarád o kamarádovi, že spolupracoval se Stasi - státní bezpečností.
- Naprosto ne hloupí vysocí činitelé bývalé Státní bezpečnosti čili estébé využívají hlupáků, aby si pomalu a trpělivě upevňovali své už dost pevné pozice v nové České republice (ve Slovenské republice je mají dostatečně pevné!) Současné vedení v Čechách nenávidí dvě kategorie lidí: emigranty, jež nazývá posměšně „krajany“, a staré lidi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:884475ab58167f16cb4954e001ce66d376572cce8cc68bb60c649aab5ed0ffe9
+size 568

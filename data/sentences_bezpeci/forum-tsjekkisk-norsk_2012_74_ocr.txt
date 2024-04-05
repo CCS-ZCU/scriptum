@@ -1,1 +1,3 @@
-handicapovaný profesionální sportovec Heřman Volf spolupráce MILD nadační fond cesta bezpečí národní abilympijský asociace vybrat celý český republika dítě pohybový postižení rámec projekt cesta sen splnit sen
+version https://git-lfs.github.com/spec/v1
+oid sha256:54191592588cc78b6904926e2a00264c28e3896ceeec67d47ca52244b4b25977
+size 231

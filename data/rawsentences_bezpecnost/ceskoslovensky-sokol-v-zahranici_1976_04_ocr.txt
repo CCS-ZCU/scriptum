@@ -1,1 +1,3 @@
- Cvičitel musí také upozornit cvičence na správné oblečení a musí samozřejmě plně zabezpečit bezpečnost cvičenců - především dobrou znalostí terénu a správným výběrem činnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3cc6c1a4c0dbbb816f90f48be374eb8d61f4f6ceeb67f24fc7a0a1c988cc50
+size 203

@@ -1,2 +1,3 @@
-svobodný národ stát totalitní nebezpečí ohrožovat rozplynout
-chudinko země přilepený vědět džungle
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9c4353d7221e80d4dd7c2a87325923f8608e6dd1d692958f5b0624205c2535
+size 112

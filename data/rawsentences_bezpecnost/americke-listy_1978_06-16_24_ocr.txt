@@ -1,5 +1,3 @@
- Pachatelé těchto útoků nebyli nikdy vypátráni, ačkol-i ministr vnitra nejednou prohlásil, že bezpečnost je s to objasnit převážnou většinou spáchaných trestních činů.
- Jelenu Mašinovou stejně jako Ladislava Hej- diínko a návštěvníky plesu železničářů, napadli příslušníci bezpečnosti, kteří za tyto činy nebyli potrestáni.
- ze tylo akce misou aker,,,i nezodpovědných jednotlivců, ah it za m- mi stojí státní bezpečnost, respektive některé její složky.
- Nemá-li na vedení státu ulpět podezření, že vydává bezpečnosti k tukovým akciu, příkazy mho alespoň s mm mlčky souhlási, musí ji donutit, aby teror zastavila.
- Mv a naši snoienci musíme a budeme schopni čelit jakékoli předvídatelné výzvě pokud jde o naši bezpečnost vůči strategickým nukleárním nebo konvenčním silám.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b34ae4bd67203bc8eec1d624a24f43b666c5a10855e4b0162534c1eff6045f53
+size 860

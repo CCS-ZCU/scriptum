@@ -1,2 +1,3 @@
-jiný věc bezpečnost pietní akt památka čínský student
-litr bezpečnost vytvořit chránit socialistický pořádek vykořisfovatelský třída obrácený pracující dožadující právo starý člen komunistický strana čestný příslušník inteligence využívat právo garantovaný ústava právo petiční článek
+version https://git-lfs.github.com/spec/v1
+oid sha256:57208d8d45ec574c0aa28dac3c5adbf33ac8772de8b98a83ddb5c838f458f6df
+size 330

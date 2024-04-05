@@ -1,2 +1,3 @@
-, že největší nedostatky v bezpečnosti a ochraně práce jsou právě v kamenolomech.
- členů Stráže bezpečnosti, zástupci Čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05dff589eeff82614929869207d77a34cac980cb88a24260c97b274c4767525a
+size 138

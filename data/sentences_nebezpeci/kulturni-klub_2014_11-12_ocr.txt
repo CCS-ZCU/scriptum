@@ -1,1 +1,3 @@
-Burian tehdejší hrozící nebezpečí vrátit Praha
+version https://git-lfs.github.com/spec/v1
+oid sha256:283a4bcc7ef67527a67c6b0be223529029bc8e4edaf302c30721cfdf5949dd51
+size 54

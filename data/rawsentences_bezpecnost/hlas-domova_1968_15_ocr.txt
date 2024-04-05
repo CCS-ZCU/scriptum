@@ -1,5 +1,3 @@
- Zmocňuje se mě obyčejně při četbě řádek odvážných lidí, kteří bojují na stránkách některých československých časopisů bez ohledu na vlastní bezpečnost o rozšíření dosažených svobod.
- Všechno nám v ní bylo ukradeno: životy, rodiny, existence, bezpečnost, důstojnost, důvěra v lidi, spravedlnost, víra v národ, v našem případě dokonce i vlastní zem.
- komunistů nemůže a nesmí být v zájmu bezpečnosti státu ohrožováno.
- Je to součást akcí, jejichž účelem je rozbití strany, ochromení Státní bezpečnosti, aby nebyla schopna chránit socialistický stát, a nakonec likvidace socialismu .
- Podporujme orgány bezpečnosti, když stíhají skutečnou trestn-ou činnost, naší snahou není způsobit bezvládí a stav všeobecné nejistoty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a97bba7d49e02c672406d1b16083526944b7bba06ccacada215a4eaf9dfaaeaa
+size 805

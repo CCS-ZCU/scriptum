@@ -1,1 +1,3 @@
-velký var nebezpečí vyznít představovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd658728e3c8e0747f6b904ee7a056892c77f4ed406ebf9bec45642eefb33249
+size 45

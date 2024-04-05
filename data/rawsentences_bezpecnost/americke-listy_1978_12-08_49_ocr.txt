@@ -1,2 +1,3 @@
-” Samozřejmě, že Čína patří také k těm pěti mocnostem, které mají stálé členství v Radě bezpečnosti Spojených národů a od nichž deklarace žádá, aby se “neodkladně dohodly na omezení svých vojenských rozpočtů”.
- Nicaragujské události se zatím nestanou předmětem jednání Rady bezpečnosti Spojených národů — neboť Venezuela odvolala svou původní žádost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c4569e6ef76884c061e6f688f586aa261907e487cdde16429343292892cceac
+size 406

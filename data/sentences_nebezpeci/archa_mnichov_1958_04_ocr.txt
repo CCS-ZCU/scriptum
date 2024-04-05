@@ -1,1 +1,3 @@
-hrozit nebezpečí žetysečlověk moci doucna vyvinovat řečený svinovat směr
+version https://git-lfs.github.com/spec/v1
+oid sha256:da4253a8c7a09a1e699129608e3aef57b8c309351afc83dc2bb85ed3a8e1633f
+size 84

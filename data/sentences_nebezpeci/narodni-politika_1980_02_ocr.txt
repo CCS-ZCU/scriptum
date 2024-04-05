@@ -1,5 +1,3 @@
-obecný nebezpečí judikatura typický živelnosť ovladatelnost průběh událost
-připustit pachatel vydat lidé obecný nebezpečí znalost opatrnost zacházení zbraň prolomení první hraniční závora pominout obecný nebezpečí okamžik student dohoda opustit autobus zbýt řidič
-Bohuslav Reynek vydávající cesta básnictví dít nebezpečí svět země odkazovat otec zaštiťovat nej modlitba
-šedesátý léta upozornit novela směšný láska odhalující moc lidský předsudek nebezpečí manipulovanost jednotlivec společnost
-muset cítit zahanbený počínat počínat pastýr zájem spása ochotný dát život ovce pastýr najatý stádka doba nebezpečí opouštět
+version https://git-lfs.github.com/spec/v1
+oid sha256:72bc86cd8b133407d84d0f1b873556c6ab45770379d2600695f55441748d96b4
+size 694

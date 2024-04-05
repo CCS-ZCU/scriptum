@@ -1,1 +1,3 @@
- V Radě bezpečnosti byly do nedávná jen čtyři pracovní jazyky, bez čínštiny, ale přijetím ČLR je i zde počet pět.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cae8b0477e16ecb9eb0efe9dbb7cf9d4cb02c2f7857283615a902a1698d1ba9
+size 129

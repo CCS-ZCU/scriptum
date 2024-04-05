@@ -1,2 +1,3 @@
-starosta trvat zřízení samostatný palestinský stát nový stát mít mít schopnost bránit bezpečnost vlastní síla
-sovět slovo zdokonalovat bezpečnostní systém učinit věc
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c34cc2f1c761261154c5f97184aa361e0325505c7a12993dac260633077018d
+size 186

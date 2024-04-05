@@ -1,1 +1,3 @@
-Jančík dopis uchovávat vystavený nebezpečí tlak vyšetřování gestap originál dopis další zničený
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f361307234614e7b55fbcc17f022edaf950e710c387683a042968be96cf513
+size 111

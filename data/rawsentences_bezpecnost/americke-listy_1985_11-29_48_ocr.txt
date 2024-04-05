@@ -1,7 +1,3 @@
- K zákroku bezpečnosti došlo již po vlastně zcela nevinném vystoupeni skupiny Adept.
- září letošního roku provedla bezpečnost domovní prohlídku u clenu výboru sekce, zabavila veškerou korespondenci s ministerstvem kultury, jmenný seznam členu i rukopisy.
- listopadu 84 obvinil vyšetřovatel Státní bezpečnosti zaměstnance ČSD Augustina Navrátila, narozeného 20.
- U- věznění Augustina Navrátila je pravděpodobně součásti mnohem rozsáhlejší akce Státní bezpečnosti, v jejímž rámci byla vyslechnuta řada osob, byly provedeny domovní prohlídky a byli uvězněni dva občané z Gottwaldova: Jaromír Němec a inženýr Bedřich Koutný.
- Tak musel zmizet kdysi ministr vnitra Barák, když o- hrožoval postavení prezidenta Novotného, v nedávných časech mnoha tituly ozdobený Obzina, když jeho činnost ohrozila bezpečnost samotného Husáka.
- Bezpečnosti a člen uličního výboru nebo uliční organizace KSČ.
- Je to vlastně ve své podstatě Státní bezpečnost, která si však svůj původní název zachovala pouze u národních ministerstev; — Hlavni správa roz- vědky, rozdělená na legál- ní a nelegální část, která má I správy, A, B, C, D, jež provádí výzvědnou činnost v zahraničí téměř po celém světě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30749fea2ed8cd2d5d46c31e4582ef6f75afa93680f6a630777ba800cebc88de
+size 1296

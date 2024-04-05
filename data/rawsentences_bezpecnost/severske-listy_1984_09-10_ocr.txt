@@ -1,1 +1,3 @@
- Což zgjlmalo už nejenom tnventurníky, ale i Bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b7c70de89ca5e88ff077bf1cb65cf4c615bfdc2bc791a48f4324fd64d47ce3
+size 61

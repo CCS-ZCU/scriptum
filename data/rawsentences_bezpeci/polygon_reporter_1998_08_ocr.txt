@@ -1,2 +1,3 @@
-“ O několik let později, z bezpečí londýnského exilu, však nabádá národ, aby (snad s klacky či kameny v rukou) škodil Velkoněmecké říši, která měla v té době dokonale vyzbrojenou a organizovanou armádu.
- ♦ Platíte vysoké daně? Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77bc98d54e27950d13496d084540898f0d7e1fac2879ffaae8be84f848d09ec1
+size 335

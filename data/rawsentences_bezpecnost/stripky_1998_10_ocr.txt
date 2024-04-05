@@ -1,1 +1,3 @@
- Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d940c84288389ace55554b931aeac07072b2ed4dda6b5831573d864b10b7130
+size 24

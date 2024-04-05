@@ -1,1 +1,3 @@
- Zenkl byl dopraven do bezpečí do Londýna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:441136bab0e0ae6b479587cf226e8f8df26e818c95c85a645cb0198fa87fea19
+size 46

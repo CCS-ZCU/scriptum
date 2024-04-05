@@ -1,3 +1,3 @@
- Jan Patočka, napsal pět dní před svou smrtí, těsně předtím, než byl po mnoho hodin znovu vyslýchán členy Státní bezpečností, list, který se stal jeho závětí.
- Problé- mom bezpečnosti západu na dlhý čas zostáva otáz- ka: ako sa dá spolunaží- v a ť so Sovietskym zvá- zom, ktorý okrem vojen- ských nemá nijaké iné reálne prostriedky a kto- rý preto považuje vojen^ skú moc za nástroj svoj- ho politického sebauplatňo- vania vo svete.
- prosince 1953) jasně to vyjádřil ministr vnitra Karol Bacíiek: O tom, kdo je vinný a kdo je nevinný, roz- hoduje strana za pomoci orgánů Národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0cfb548c7c0c2dfdcc278b9279d7345a728f0f0dc0dbb9c9b0adcc3626a1122
+size 648

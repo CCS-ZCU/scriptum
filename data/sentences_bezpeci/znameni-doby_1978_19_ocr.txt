@@ -1,1 +1,3 @@
-bezprostřednost výraz pokoj smíření bezpečí zdát
+version https://git-lfs.github.com/spec/v1
+oid sha256:99bc75491115d6d1a139f7a96f9d80a8679ac809b0839c7be32d0e64dacb38b0
+size 57

@@ -1,2 +1,3 @@
-Podobil  nou situaci bylo lze pozorovat též v oblasti ministerstva vnitra a to nejen u kriminální a dopravní policie,ale též u Státní bezpečnosti.
- Důležitost VKR a zároveň též KGB stoupla propuštěním stovek důstojníků z československé armády a ze Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a411f59fc0316b5e9ae3fde8d44ce8feeda897568103bcacb57dc45a24af7f14
+size 296

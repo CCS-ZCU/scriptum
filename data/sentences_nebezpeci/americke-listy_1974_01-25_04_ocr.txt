@@ -1,3 +1,3 @@
-zbraň válka blízký východ ukázat omezený působivost dohoda Nixon Brežněv odvracení nebezpečí atomový konflikt vládnout Washington vystřízlivění
-hlavní problém finanční odborník odvrátit nebezpečí světový měnový chaos
-tek nesmyslnost atomový válka nutný vyjádřit etapovitý uvolňování snižování břemeno strana omezování vojenský potenciál odstranění nebezpečí srážka stojící bio
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f0d509c0e2e267a0ca5071e2f826ad033f3cc4adda4631097f64ed7ef418923
+size 433

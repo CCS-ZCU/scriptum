@@ -1,1 +1,3 @@
-řada odborník podobný teze kroutit hlava upozorňovat nebezpečí přenesení americký model odlišný středoevropský prostředí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d74bcec6f253fed0bdf9fa681c4bdf20813c07e2fd44982bb7b0464495438fb
+size 136

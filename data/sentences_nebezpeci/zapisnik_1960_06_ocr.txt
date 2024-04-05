@@ -1,1 +1,3 @@
-metoda mít přednost mít mez nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec35616a81f95cca23830c6d2b033369d46fc13a748452a555b03f3b9991d26
+size 43

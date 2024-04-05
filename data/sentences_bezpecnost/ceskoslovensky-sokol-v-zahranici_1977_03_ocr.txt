@@ -1,1 +1,3 @@
-začít nacvičovat prostný ukázat naprostý dokonalost pohyb pružnost ovládání končetina celý tělo bezpečnost jistota postoj upažení vzpažení opravdový rozpětí hrudník dokonalost koordinace pohyb poloha
+version https://git-lfs.github.com/spec/v1
+oid sha256:3210d6525b1a2f6b9efdde087439b0a8e219923ad618770637db2ac54a86e75d
+size 222

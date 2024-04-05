@@ -1,2 +1,3 @@
-možnost země opustit vrátit zájem klid bezpečí československý
-bezpečí politika shledávat moderní doba moderní doba napadnout válčit
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3775378c7d536f486f941c12f6ccd68336328dad411d7fc6cfcb37ee86e7313
+size 147

@@ -1,3 +1,3 @@
-hodina rok zkáza cítit bezpečí
-neštěstí podnik číslo litr metr rok hodina hodina nebezpečí rok metr litr hodina metr litr situace činit přihlížet metr bezpečí připojit metr litr metr metr hodina podnik lečník společnost metr
-litr litr metr podnik číslo hodina metr bratr podnik rok metr podnik litr král číslo metr litr metr metr podnik litr metr místo slušet hodina rozvážnost společnost metr svěřit bezpečí hodina hodina podnik nutný zařídit
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a292f31e0d28490e8e8f6f5cdd29d5a1356a9e73628cf4543194bdf7183b71
+size 482

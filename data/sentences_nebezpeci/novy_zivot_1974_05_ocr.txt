@@ -1,6 +1,3 @@
-nebezpečí zachít připsat technický vymoženost pokládat skutečný jediný vládce svět
-hrozit nebezpečí požár přeskočit vesnice
-věřící existovat nebezpečí nejistota moci určitý okamžik vystoupit povrch ukázat křehkost zdát samozřejmý
-věřící žít otazník nebezpečí zřítit propast nicota nevěrec hotový existence hotový člověk
-hluboký pokora přesvědčený zjevení částečný úplný vystavený nebezpečí vlastní překroucený úvaha
-smět stydět prchat vyvolávat posměch druhý věřit katolík vytvářet jistý nebezpečí jmé budoucí kardinál řízat dříví Beran Trochta Mukařův první léta šedesátý
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e332fdc64dff262f4f13bb0cbd5ce0acae3982e6caabb638f87862ddb38bf39
+size 668

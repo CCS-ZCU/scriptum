@@ -1,2 +1,3 @@
- V Polsku není již ovšem mnoho možností jak odpor projevit a nedostat se přitom do konfliktu se státní bezpečností.
- Šel na nejbližší stanici Veřejné bezpečnosti a tam se přihlásil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7593612814dab69d5374b85c4dd868b2f939d21bf495501801d39422d8340315
+size 201

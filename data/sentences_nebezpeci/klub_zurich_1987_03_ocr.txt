@@ -1,4 +1,3 @@
-vidět uvědomovat nebezpečí
-dostání ukazovat podstata teologie osvobození smírný nebezpečí církev hlavní
-zkouška medicína profesor ptát udělat přivézt pacientek prasknutý vřed žaludek nebezpečí smrt primář přítomný
-promínit pan profesorat pacient nebezpečí smrt spoléhat paměť
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3eb8b59808aa0fdd284a0801b7c916c6a8ce8b2115ee783df056d51870ff355
+size 311

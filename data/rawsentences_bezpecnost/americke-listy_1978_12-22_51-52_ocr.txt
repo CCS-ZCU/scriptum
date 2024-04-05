@@ -1,2 +1,3 @@
- V pátém článku sovětsko-afgánské smlouvy stojí psáno, že Svaz sovětských socialistických republik respektuje politiku neangažovanosti — kterou Afgánská demokratická republika provádí a uznává, že taková politika je důležitým faktorem světového míru a mezinárodní bezpečnosti.
- Israel chce mír a záruky bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eea825391bc7a4d63279da73b06388e6ce7b847287f6ce526de5a3490f299ab
+size 353

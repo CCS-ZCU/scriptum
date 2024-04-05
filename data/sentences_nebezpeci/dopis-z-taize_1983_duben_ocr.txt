@@ -1,3 +1,3 @@
-přítomnost kříž ukazovat strana věrnost konec nebezpečí dojít zatčení druhý strana hluboký láska
-egoisin pýcha nenávist
-existovat boj nutný vést boj zlo forma
+version https://git-lfs.github.com/spec/v1
+oid sha256:768ac653cd204016bf9d65603ddfd89d59cb215486a122e0d3bd168bf198ad94
+size 177

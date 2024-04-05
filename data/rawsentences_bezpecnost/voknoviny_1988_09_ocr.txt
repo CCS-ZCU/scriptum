@@ -1,1 +1,3 @@
- Báseň "Zbytky> eposu" byla - jak uvádí autor - 'psána a nedokončena v zimě 1954~*:r1955 - ToTo' dílo je zřejmě dozvukem velké ^prozaické práce E„ Gondyho z leť 1953 ~ 54', které neslo pracovní název Román a jehož ru- kopis byl dvakrát zničen Státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af014eaed8d23c2b2233d37c18a80ff5283f9fbd26e81feb81fecf0d42f68ff6
+size 290

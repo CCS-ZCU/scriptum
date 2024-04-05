@@ -1,2 +1,3 @@
-strojovna vypuknout požár elektrický instalace vystrašený nebezpečí plynoucí přepravovaný náklad znalý posádka panický strach naskákat záchranný člun loď opustit požár nedostatek kyslík uhasit
-statečnost růst vzdálenost středa nebezpečí boj
+version https://git-lfs.github.com/spec/v1
+oid sha256:abb81f97733b74a253608e520b2da9e25b4c06446b7c3f14555d81e7467e4705
+size 269

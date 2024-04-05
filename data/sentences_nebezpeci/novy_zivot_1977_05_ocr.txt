@@ -1,2 +1,3 @@
-
-křesťan zašeptat zdrávas chvíle velký nebezpečí silný bolest vrchol šťastný životní událost
+version https://git-lfs.github.com/spec/v1
+oid sha256:5555e3306ed0dc9d22a6cdce4f88ae7275298200cfd0a16b1109530fa110b456
+size 108

@@ -1,1 +1,3 @@
-Bouda spadnutí vchod plakát nápis odlož zbraň vrátný
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1ef864a44cb2572e08556a0f760fc652a9b72de6be7049dc81eb07433299439
+size 66

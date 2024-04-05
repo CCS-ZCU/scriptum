@@ -1,1 +1,3 @@
- Žádal o vysvětlení nepochopitelného a s hlediska přísné námořní kázně, jakož i bezpečnosti, neodpovědného činu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec654338478c16a7d120e759cd025e281cf2de853ce2c67e42ed7caa44ea99ef
+size 131

@@ -1,2 +1,3 @@
- Na četných schůzkách po Helsinsko konferenci Svatý stolec hleděl ukázat všem delegátům, do jaké míry svobodné a účinné vykonávám náboženské praxe přispívá k posílení bezpečnosti a spolupráce mezi národy, a konkrétně mluvil o bolestných přípa- dech naprostého upíraní náboženské svobody kato- lickým obcím východního obřadu, které úplně ztra- tily právo na existenci uvnitř nových politických a juridických struktur po druhé světové válce.
- 1975 kona- la zasedání proslulé Konference o bezpečnosti a spolu- práci v Evropě; není divu, že právě tento fakt mu byl podnětem, aby poukázal na význam jejího Závěrečného aktu a dalších úmluv a konferencí, konaných a uzavře- ných na základě Helsinské konference, na důležitost re- spektování lidských práv a zvláště svobody náboženské; svoboda je nedělitelná, přispěje se tím k mírumilovnému soužití ve světě (viz str.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d2fba69729b1c7dc9b611cc5e881f7c67f909581709f4935a4e331b54389c4e
+size 969

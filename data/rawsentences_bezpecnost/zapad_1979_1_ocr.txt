@@ -1,3 +1,3 @@
- V neposlední řadě směrnice porušují Závěrečný akt Konference o bezpečnosti a spolupráci v Evropě, který čs.
- Byla to celostátní akce ministerstva kultury a Státní bezpečnosti.
- Státní bezpečnost však pouští mezi lidi nesmírné množství pomluv a překrou- cených informací.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d097276c0e023d66e171c311cc21e427a7cf930cc3917592f13c703fc8baaf6
+size 305

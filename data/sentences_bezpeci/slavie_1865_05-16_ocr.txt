@@ -1,1 +1,3 @@
-vystupovat nový zásada prohlášený zásada nězakroéovaný národnost zásada zájem Francie právo vlastnictví osobní bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae2dc628976781a1bfcdcfd58e82ecc1de42aee60f1ba0420a78d5a844155a6
+size 136

@@ -1,21 +1,3 @@
- V tomto kontextu si evropská levice s nebývalou naléhavostí znovu položila otázku: Jaká je vlastně československá zkušenost? Jak to skutečně bylo v roce 1968? Jak je to do- opravdy dnes? A jaká z toho plynou poučení? * * * V polovině léta podepsaly evropské státy spolu s USA a Kanadou, zato bez Albánie, helsinský dokument o bezpečnosti a spolu- práci v Evropě.
- Súčasne veími účinné drží v šachu riaditelov, aby náhodou neupadli do pokušenia lepšie využít! schopnosti týchto svojich neplnopráviiych zamestnancov a nedaj boh poskytuút im lepšie zadelenie, či dokonca piat, Ako som už naznačil, týmito návštěvami u zamestnávatela sa ani zdaleka nekončí záujem Bezpečnosti o l'udif čo sa 11a Sloven- sku aktivně zasadzovalí za reforinué lmutie z roku 1968.
- Ještě předtím byl dlouhé měsíce držen bez soudu ve vy- šetřovací vazbě, když byl předtím zbaven za petici (v duchu akčního programu KSČ) poslanecké imunity a vydán orgánům Státní bezpečnosti.
- Ale já tuto akci režimu přesto vítám, protože i nám jde o to, aby mohli mluvit jim než jen předsta- vitelé mocenských aparátů, i když je nanej- výš problematické, co budou smět říci! O VÝSLEDKU EVROPSKÉ KONFEREN- CE O BEZPEČNOSTI A SPOLUPRÁCI HÁJEK: Výsledky z Helsinek je v zásadě třeba pokládat za pozitivní, a je třeba se distancovat od pokusů bagatelizovat je a znehodnocovat.
- To je otázka elementární bezpečnosti.
- Že vědomosti nerozhodují, lze dokumento- vat na příkladu dcerky vysokého funkcionáře bezpečnosti z Nymburka.
- Nedávno jsem ho náhodou potkal a 011 mě zval, abychom za nimi přijeli na chalupu, že je to stejně všechno jedno, protože hned druhý den, co byl po mém návratu u mne, si ho zavolal jeho šéf, bývalý vyšetřovatel Státní bezpečnosti a obořil se na něho, jestli se zbláznil, že leze ke mně do bytu, když ví.
- Státní bezpečnost ovšem svazky edice zabavuje, pokud na ně narazí — např.
- Zatím však ani generální prokuratura ani státní bezpečnost nenašly vhodný paragraf trestního zákona, jímž by mohly autory postihnout za to, že pro potřebu svých přátel a profesionelně zainteresovaných čtenářů dali rozepsat rukopisy svých děl.
- Svět nemlčel ani před čtyřmi lety, kdy československá generální prokuratura a česko- slovenská státní bezpečnost (tj.
- V době, kdy jsem byl vyslýchán státní bezpečností, byl mi předložen mezi jiným také dopis Americké historické asociace adreso- vaný představiteli Československé akademie věd.
- Nemohu při tom nevzpome- nout absurdní fakt, Že příslušný důstojník státní bezpečnosti přiložil tento dopis ke spisům jako důkaz o tom, že "publikace Sedm pražských dnu sloužila a nadále slouží burŽo- azním ideologům jako prostředek vyvolávání emocionálních a protisocialistických nálad".
- Koncem dubna tohoto roku přišla ke mně skupina příslušníků Státní bezpečnosti, aby se souhlasem generálního prokurátora pro- vedla prohlídku mého bytu, neboť pry je podezření, že ukrývám písemnosti prokazující trestný čin podvracení republiky.
- Nevím ještě, jak kniha skončí, co připíšu'a co vyškrtnu, ale naše Státní bezpečnost už ví, že to bude kniha závadná.
-  HELSINKI co dál? Josef Pokštefl Málokterá mezinárodní konference byla přijata s tak smíšenými pocity, jako konfe- rence o bezpečnosti a spolupráci v Evropě.
- K této otázce sluší se říci, že ustanovení závěrečného aktu konference o bezpečnosti a spolupráci v Evropě — nehledě na normy obecného mezinárodního práva —• jsou v tomto smyslu naprosto jednoznačná.
- Podpis těchto států je i pod ustanovením, kde se říká: "Při výkonu svých svrchovaných práv včetně práva určovat své vlastní zákony a nařízení se budou (zúčastněné státy) řídit svými právními závazky podle mezinárodního práva; dále budou brát náležitě v úvahu a provádět usnesení závěrečného aktu konfe- rence o bezpečnosti a spolupráci v Evropě".
- J D E O AKTIVNOST POSTOJE Uskutečnění konference o bezpečnosti a spolupráci v Evropě a její výsledky jsou vý- chodoevropskými politiky prezentovány — přes počáteční úsměvy na obě strany — jako vítězství vládnoucích kruhů Sovětského Svazu a východoevropských států.
- Právě tak výsledky konference o bezpečnosti a spolupráci nepřivodily rozklad západoevropské no společenství — naopak se zdá, že vyvolaly opět hlasy, požadující pev- nější politickou, ekonomickou i vojenskou in- tegraci.
- Závěrem je možno říci, že i přes své nedo- statky vytváří závěrečný akt konference o bezpečnosti a spolupráci v Evropě a opatření v něm dohodnutá určitou záklacínu nejen pro mírovou stabilisaci evropských poměrů, ale i určité východisko, určitý instrument pro dosažení jednoho ze základních cílů východo- evropských národů a tím i národů Českoslo- venska — jejich samostaného, nezávislého rozvoje.
- Ačkoli vynášejí do nebe "zmírnění napětí", "mír" a "bezpečnost" a uzavírají mezi sebou řadu iidajných dohod, nejde o nic jiného než o prázdná a klamná slova.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cafad0b7346c9ee4c422bc0d72acd925a34931836fa09d3b4bf78793c07be01
+size 5331

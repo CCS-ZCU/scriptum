@@ -1,2 +1,3 @@
- Po likvidaci břevnovského kláštera se do hospodářských budov nastěhovala Státní bezpečnost a do hlavní části tzv.
- • Na zasedání Evropské západní unie v Palermu byl dán souhlas, aby do Unie přistoupily ČSFR, Polsko a Maďars- ko jako «přidružené země»; mohou spolupracovat ve studiu evropské bezpečnosti s organismy, které se zabývají problémy zbrojení, ale též aplikací dohod o omezení konvenčního ozbro- jení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e782e134f0b265fc255d3725d5b804e4f2920a78cfed152575ad33359e83fd6
+size 457

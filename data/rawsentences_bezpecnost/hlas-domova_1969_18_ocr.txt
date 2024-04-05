@@ -1,3 +1,3 @@
-’’ FEI ČESKOSLOVENSKO VE ZKRATCE Sbírá se materiál proti bývalému ministru vnitra Pavlovi? Ministerstvo vnitra a rozvědky "Po lednu 1968 se ministerstvo vnitra a Bezpečnost staly terčem mnohá zuřivých útoků: realizoval se strategický plán antisocialistických sil na oslabení a likvidaci mocenských orgánů našeho statui Zároveň měly útoky diskreditovat ministerstvo vnitra a Bezpečnost a vyvolat ve veřejností apriorní nedůvěru ke každému jejich pokusu informovat státní a stranické činitele o reálném 'nebezpečí, jež pro republiku vyvstává z horečné činnosti západních rozvědek u nás1 a z působení našich občanů, které západní roz- vědky pro svou činnost získaly.
- Pamatujeme sé ještě, jak sdělovací prostřed^ ky velmi zlé odmítaly jakoukoli informaci o tomto nebezpečí a vydávaly pracovníky ministerstva a Bezpečnosti div ne za lháře.
- Tehdy nebylo strážců bezpečnosti, tehdejší lidé neznali zákony, .
+version https://git-lfs.github.com/spec/v1
+oid sha256:6865e205909c7aa68cfe02a6909e3b5a9bb4cb970dd143a4257525931b03a5de
+size 993

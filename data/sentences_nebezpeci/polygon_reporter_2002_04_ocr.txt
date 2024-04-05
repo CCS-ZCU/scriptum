@@ -1,4 +1,3 @@
-firma zadlužení dokázat vyřešit vlastní síla vystavovat nebezpečí společnost dluh koupit chtít pohledávka kapitalizovat získat dlužník kontrola
-čekat krušný čas
-mít dítě rád posílat nebezpečí zbytečný
-vládnout smrt nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1ea0b69607f98bdc2022c810412846d0d3dabb4f1f2878be20a39c5525dac3
+size 256

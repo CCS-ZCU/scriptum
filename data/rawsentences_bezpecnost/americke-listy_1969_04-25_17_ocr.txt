@@ -1,3 +1,3 @@
- Tato kontrarevoluce nesměřovala k tomu, aby vzala lidu výsledky posledních dvaceti let, pokud byly, nýbrž hodlala mu dát zisky další: rozšířit jeho občanskou a politickou existenci a dát lidem bezpečnost i před komunistickou stranou.
- — Mimo to, po lidské stránce, bezpečnost těch nejvěrnějších funkcionářů by byla ohrožena, neboť nikdo neví, koho by lidová většina volila za funkcionáře strany.
- Demokracie budou musit najít také místo v zákonech a tento zákon uplatnit na tom, kdo pod fiktivními záminkami nechce sloužit bezpečnosti své vlasti z důvodu vlastního pohodlí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be2fb13598b7e28fcb76a4d1c14b5f7809b87cfc1648d1fe48fd67632411da5c
+size 625

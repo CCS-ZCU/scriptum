@@ -1,2 +1,3 @@
- Liberál oproti tomu je osvobozen od vměšování třetích i státu, s výjimkou jeho osobní bezpečnosti a veřejného pořádku.
- Lidé proti lidem! by se dalo říci, neboť stovky, nej modernějšími zbraněmi vyzbrojených vojáků, náklady z důvodů bezpečnosti jdoucí do milionů švýcarských franků, opatření na letištích, po příjezdové trase, v hotelích atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3c025ae2b64e997d3559e4a393322d23a5c54a7e88611f79c06d6e228c4906
+size 388

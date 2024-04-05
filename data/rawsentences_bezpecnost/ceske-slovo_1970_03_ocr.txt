@@ -1,1 +1,3 @@
- Mohl bych psát o mnoha překrásných, někdy až dojemných „stockholmských“ zážitcích, bezpečnost těch, s kterými Jiřík si ještě ani neuvědomuje, že vystřelený kotouč jednoho z jeho spoluhráčů z modré čáry končí v sovětské brance jsem je prožíval [a kteří žijí v Československu) ,;c mi vsak milejší, než seběsenzačnější přímo dokumentární příhoda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c973aeb85a7397b96cab223967cd029a38d1c16960a62c7c040ec9d736bb9e40
+size 403

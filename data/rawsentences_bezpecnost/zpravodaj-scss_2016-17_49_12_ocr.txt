@@ -1,3 +1,3 @@
- Mlčí databáze ministerstev vnitra i zahraničí, marně po osobě jménem Danny Douglas pátrali experti v archivech Státní bezpečnosti (StB).
- Státní bezpečnost byla čtvrté správě kriminální ústředny nadřazená a nemusela ji o 22 december prosinec  12 / 2016 spravodaj zpravodaj svých aktivitách informovat.
- 061 205 08 50 NEU! Abfahrt von Luzern ALSA EGGMANN euro Lines REZIDENCE RoSa Rezidence RoSa pro seniory v Praze otevřena Praktický lékař a psychiatr přímo v objektu Aktivizační programy, knihovna, multifunkční sál Kavárna, restaurace, kadeřnictví, manikúra, pedikúra 24h tísňová péče a ostraha objektu Byty 1 kk, 2kk - nájemní bydlení se službami pro seniory Otevřenost vůči veřejnosti, bezpečnost a soukromí pro klienty Výborná dopravní dostupnost do centra Prahy (trasa metra C, zastávka Kobylisy) Asistenční pohotovostní služba Střelničná 1680/8, Praha 8 | info@rezidencerosa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8472ee0e1cbac16e63fde57765d73e9549dcf83c9d4271d96e3248768651a4d
+size 953

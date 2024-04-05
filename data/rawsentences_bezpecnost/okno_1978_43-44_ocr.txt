@@ -1,5 +1,3 @@
- Ďakujeme Ti mliekar, keď nám ráno zazvoníš, že to nezvoní už naša bývalá obávaná štátna bezpečnost.
- Rada však pokládá odsun německé menšiny z Československa za definitivní nikoliv z důvodů šovinistického nacionalismu, nýbrž z důvodů československé národní a státní bezpečnosti a z důvodů vzájemně prospěšného rozvoje česko- slovensko-německých vztahů.
- Prvním mluvčím Charty 77 byl profesor Patočka, jehož jisté nelze podezírat ze sympatií ke komunismu a který, jak jistě všichni dobře víme, zemřel v době, kdy byl velice tvrdě vyslýchán pražskou Státní bezpečností.
- A pokud jsou to noviny bez politiky, snad by stálo za úvahu požádat o nějaký inse- rát třeba Státní bezpečnost v Praze, aby se nemuselo poníženě děkovat za jednodolarové milodary.
- Ale už tu byla Veřejná bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a373365916b86e3ff0ae215000eb2d75297307316b6ec0886febc0f2058ace5
+size 880

@@ -1,1 +1,3 @@
-manžel věc muž stát příležitost těžký hřích
+version https://git-lfs.github.com/spec/v1
+oid sha256:01431c1c4cc1012684ff03258b7872dc59338bd6fd3525d3054fb3b25a97070a
+size 56

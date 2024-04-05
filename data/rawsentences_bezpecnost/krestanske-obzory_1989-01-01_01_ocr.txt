@@ -1,1 +1,3 @@
-On rái odpověděl¿žeqto Jsou příslušníci bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf0ad9aeb111194cbaf9f31891445389250d25178216ac57bcc3963b40bd9a7e
+size 63

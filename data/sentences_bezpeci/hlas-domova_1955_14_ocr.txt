@@ -1,1 +1,3 @@
-zajímavý průběh hráč Slavie přizpůsobit slabý soupeř přerušit soudce hra začátek druhý poločas stav Slavie ochrana slavistický hráč soudce podařit odpoutat fanoušek Maccabi bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:98de4343eb552114a570a6926bd56ccaf4377489e4b97cdf9bbaf11a05ef6183
+size 204

@@ -1,2 +1,3 @@
- Bezpečnost soudí, že šlo o zručně vyrobenou nálož, která byla schopna v určený čas způsobit explozi.
- ; Avšak ani pečlivé prohlídky za účasti několi- í ka desítek pracovníků bezpečnosti další .
+version https://git-lfs.github.com/spec/v1
+oid sha256:191a37bbf3749816bc230ad4f05c5081d4150f9180d63b0b2cad5ffe39d6ae5f
+size 222

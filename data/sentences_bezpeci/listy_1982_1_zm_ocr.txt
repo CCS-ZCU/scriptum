@@ -1,2 +1,3 @@
-Skilling vrátit Praha bezpečí Londýn krátký možný sta oklika Vídeň léto setrvat dobrý měsíc
-zatěžko najít historický vysvětlení obecný národní apatie strach drobný bezpečí zaručovat nápadný chovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:51bc27de62dda0ccc00c0246de22ceb02f6ab682f078189db5c9f3fdb8ef104a
+size 231

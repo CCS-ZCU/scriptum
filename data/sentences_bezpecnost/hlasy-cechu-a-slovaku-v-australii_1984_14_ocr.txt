@@ -1,2 +1,3 @@
-dojít zmíněný autobus nehoda prozíravý veřejný bezpečnost vědět rada
-případ iniciátorka státní bezpečnost snaha očernit angažovaný osobnost oko sympatizující veřejnost znát mez
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f174b00a09088f8259b9bd6feb1e304cae9249031641bfdb3f286f9355c22de
+size 201

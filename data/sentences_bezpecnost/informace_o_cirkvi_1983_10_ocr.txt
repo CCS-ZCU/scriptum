@@ -1,2 +1,3 @@
-působit sebejistá povýš nost člověk promítnout velký duch doba národ ^kteřit věřit
-katolík zatarasit ces místp správa povolání dávat sázka vlast bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f7267fbf3a367efc96926da0865162420dbce7fe2e5dd9ace88c0809a9f0b7d
+size 181

@@ -1,1 +1,3 @@
-tra mít roh bezpečí pih vteřina
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62daaa8328cdb06c2fc4073470cf672d40f94cfb4541b467f530c8b7bc763df
+size 36

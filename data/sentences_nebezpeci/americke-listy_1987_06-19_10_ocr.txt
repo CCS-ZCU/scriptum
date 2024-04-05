@@ -1,1 +1,3 @@
-muset obviněný proces propuštěný kauce soud moci zamítnout případ opodstatněný nebezpečí žalovaný soud dostavit
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbf812653b4b8f9f12b9101e481170fe7785cfbb1e7c8314444de48c4e31ea6c
+size 126

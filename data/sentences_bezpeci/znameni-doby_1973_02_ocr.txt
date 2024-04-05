@@ -1,1 +1,3 @@
-moci udínit pravdivý rozhodnutí žít bezpečí zdůvodňovat odhodlání návrat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e7f903a9a2024a596333ca1c4430f6127bd967f3971214ac4f2e86a9dfadf10
+size 85

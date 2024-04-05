@@ -1,1 +1,3 @@
-pravděpo~ spočívat velký závadnosť paraliteratura
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a725b81bc7fa8952aab19c87ebc983a2e8004de9bb39fe3145df3cbec5c86c
+size 56

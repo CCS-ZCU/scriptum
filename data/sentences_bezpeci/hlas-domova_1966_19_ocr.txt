@@ -1,1 +1,3 @@
-majitel postavený možnost bezpečí zaopatřený závětří zoolo gický zahrada riziko zápas svobodný vota
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8959e95df88d054dcf26a457cb2079bbbd0cac1da30e14218ec03191e806225
+size 114

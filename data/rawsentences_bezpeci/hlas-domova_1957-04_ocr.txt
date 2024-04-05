@@ -1,1 +1,3 @@
- lostí zde venku hájit své bezbranné krajany, nebo e cynicky vysmívat jejich podvázaným možnostem :loudnější akce? Bude se podobný pisatel umět ¡mluvit, až jednou bude mít možnost přehlédnout až dnes dlouhou řadu hrobů, které možná nejbližší budoucnost rozmnoží v nekonečné hřbitovy obětí, a ruiny domovů, za své neuvážené čmárání v urči- tém blahobytu a bezpečí? Jeho psaní je vypočteno r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2cec898a8e756d3bf2b18c83d0d1e29a7323f188a6e11342b144e7d9c9d257c
+size 314

@@ -1,6 +1,3 @@
-vyhnutelný doplněk svévole politbyro určování cena zboží cena práce obnývo váný pocit ohrožený válečný nebezpečí existenční bezpečí irracionáleň pracov
-režim přistoupit další bič sovětský nebezpečí
-pravit místo horší bezpečný muset jit infekční barák vydávat týž nebezpečí velký voják fronta pravit článek militarismus pacifismus psaný doba Hitlerův nástup Německo
-jmenovaný zen povýšený privilegovaný spojenec obšťastněný starý průmysl zdravý hospodářství rozvážný lidé vláda destalinisační proud pracovat hloubka přivádět nebezpečí den propuknout vyvolat mnohý překvapení
-Giddeons vidět nebezpečí nový cionismus mít jiný tvář isolacionism dřívější
-hrozit nebezpečí kůrovec zahnízdit les léto oblast rok rozmnožit
+version https://git-lfs.github.com/spec/v1
+oid sha256:99349d2efc4b2159df234cdfdc9e22d378e3227833d527291bf29a4b630b5f4d
+size 857

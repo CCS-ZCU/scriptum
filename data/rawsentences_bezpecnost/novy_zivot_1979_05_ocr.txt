@@ -1,1 +1,3 @@
- Zvlášť radostné měli letos velikonoce křesťané v Ugandě, kde pád Aminová režimu jim vrátil klid a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb5f196929d920fc26bda10a9ea8a6b2b64749e00d697fe4fafcd3828f55113a
+size 125

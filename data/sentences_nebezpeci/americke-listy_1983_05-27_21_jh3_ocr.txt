@@ -1,2 +1,3 @@
-dnešní nukleární nebezpečí
-osmnáctiletý mladík Kábul znamenat nebezpečí odvod
+version https://git-lfs.github.com/spec/v1
+oid sha256:14873520acc569954a9b3f9b286e8c28971d9f9fcf2ede8bf67874af2f632c99
+size 90

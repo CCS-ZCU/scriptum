@@ -1,4 +1,3 @@
-zabránit nebezpečí dávat bůh napsat
-jezero moře znamenat voda smrtelný nebezpečí želm hebrejský počítání
-spravedlnost uvádět mír nebezpečí
-bojovat pýše nebezpečí ztratit podstatný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee1a1cf707ba119bd060fff806bacf097c6c59241733213f27be79be573f5246
+size 205

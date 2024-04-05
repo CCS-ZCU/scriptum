@@ -1,1 +1,3 @@
- Jak se dozvídáme, snaží se nyní příslušníci bezpečnosti zbavit se nadměrných zásob pendreků, pout a revolverů prodejem za devisy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c7f792eee4f72a58fab79984d5c95b6ec46bcb2149b0765380cb743501c81c
+size 146

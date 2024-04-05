@@ -1,1 +1,3 @@
- Mohu si počínat tak, že se klient bude cítit v naprostém bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9079fafa7ce67e38cd01d85ad3231796f7f9412b858e876e67a926883dfd8117
+size 74

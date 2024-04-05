@@ -1,6 +1,3 @@
-absolutizovat bezpečí blokovat přechod dospívání znamenat svoboda dětství potlačovat
-infantilismus uzavřený společnost vyznávající bezpečí klid
-scéna stůl stůl pivo rum sedět plastící pocit bezpečí zabydlenost chtít mít hraní hospoda nablízka
-bezpečí
-dostávat dostižený částka velitelství odečítat srážka strava ubytování ošacení ostraha vězeň platit hlídač cítit bezpečí moci klid pracovat
-obojí směr lidský aliance vysoký duchovní domov upírat Svobodův vize bezpečí štěstí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3e5dac58858b836c8d6bd96ffbae5a52c1f4076bcb3a6d5d53e53e6806d5cc
+size 539

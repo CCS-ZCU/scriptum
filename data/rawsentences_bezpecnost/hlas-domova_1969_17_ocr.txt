@@ -1,2 +1,3 @@
- ” nekompromisně budú viesť boj proti kriminalitě, so zvláštnym žámětaním ha dóslednú obranu socialistického, statného a • společenského zriadenia, bezpečnost republiky, jej ynútorného poriadku a spojeneckých vzťahov zoi ZSSR a ostatnými-"socialistickými krajinami.
- Vzpoura byla potlačena příslušníky ústavu, Veřejné bezpečnosti a hasičů z Liberce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:300fec1404d22d233cf728dd5481ecf4c35ee93ce21be85be8d37bb375b0ce2a
+size 388

@@ -1,3 +1,3 @@
-podobný pštrosí politika dřívější reprezentant země Mnichov
-krize léta manželství nebezpečí
-muž větřit nebezpečí Geborgenheit obávat pouto
+version https://git-lfs.github.com/spec/v1
+oid sha256:450ce1c8b32dce6cc3275b1d89e533723cd37e05a2d485e79faf5af269479e12
+size 159

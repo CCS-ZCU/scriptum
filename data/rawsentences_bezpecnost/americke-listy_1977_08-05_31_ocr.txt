@@ -1,5 +1,3 @@
- Protože jsem nebyl “poslušný” a stýkal se s disidenty, protože jsem podepsal moci nepříjemnou rezoluci politických vězňů, adresovanou Jednotě českých právníků a zveřejněnou v zahraničí a protože jsem vydal knížku v Edici Petlice (rukodělná edice knih autorů, kteří nemohou oficiálně publikovat), měla na mne státní bezpečnost spadeno.
- Pak mi nepřímo státní bezpečnost navrhla vystěhování a když jsem nebyl proti, udělal jsem jim radost.
- Bezpečnosti se zdálo, že pořádání semináře souvisí s úmrtím prof.
- Na jedné z Meh je zobrazen jeho stůl, na nějž orgány bezpečnosti položily Paměti Eduarda.
-?” Moskevský dopisovatel New York Times poznamenává, že sovětská bezpečnost KGB podnikla neobvyklý krok: oznámila zatčení ů- dajného teroristy, obviněného z pumového útoku před budovou moskevského hotelu Sovětskaja jedenáctého června.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f236872b7d77e37061ac299bab62febd7412a633dbe6429c2521caafcd45ad9
+size 926

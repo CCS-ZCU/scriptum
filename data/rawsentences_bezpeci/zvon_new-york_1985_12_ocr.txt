@@ -1,1 +1,3 @@
- Proto 62 vojáků z jiho- italského města Bari, jacísi zbožní piráti, přenesli jeho ostatky do bezpečí, do svého rodného města.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af004750a4a4dd0104e8426d0ac857b22045bc3b96d1d26bbf1a5db85ce0a8b4
+size 139

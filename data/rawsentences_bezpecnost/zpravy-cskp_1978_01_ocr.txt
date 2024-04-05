@@ -1,2 +1,3 @@
-Nově vytvořená státní bezpečnost měla rovněž v čele komunistu.
-obrany bylo mezi najvyššími důstojníky 35% ko unistů,v Ministerstvu vnitra ’ a státní bezpečnosti bylo na klíčových místech 44% komunistů, v Ministerstvu informací 45%-Policie byla systematicky zesilována.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d910e20487a701934bcfc8ea892f06d8a5ed1619452305f58de8334cdd00dfc9
+size 297

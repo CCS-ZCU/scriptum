@@ -1,1 +1,3 @@
-paní černý svěřit obava bezpečnost muž
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dc02143862e0bc3c7128b7cb301c6272c520e9ea9e846e601434e566d01d063
+size 46

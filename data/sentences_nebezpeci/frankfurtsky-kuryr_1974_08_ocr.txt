@@ -1,4 +1,3 @@
-pochopit sociální demokracie znamenat velký nebezpečí komunismus východní Evropa psát článek
-svobodný část Evropa žít nebezpečí stálý ústupek sovětský agrese
-říjen mít tehdejší předseda československý poradní sbor argumentovat vyvracení hrozba kontrarevoluce ČSSR utvářený veřejnost dojem SSSR moci zasahovat probíhat existovat nebezpečí ozbrojený plíživý pokus převrat
-nebezpečí sebevražda
+version https://git-lfs.github.com/spec/v1
+oid sha256:8722d2749f64e9be5d5affce279ae8c9084e38bd96d22a2cbfa01900a089a258
+size 439

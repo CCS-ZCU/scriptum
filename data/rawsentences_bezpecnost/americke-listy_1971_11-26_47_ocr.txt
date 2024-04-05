@@ -1,2 +1,3 @@
- která se týkala bezpečnosti a Ameriky a její vůdcovské role, nehodila se do horečky těch lei, nepatřila ani k heslům nej hlasitějších HÉeráiů ani k heslům vzrušené ulice, v níž byly někdy nošeny vlajky nepřátelského státu a čínský Maovce-Tung byl vzýván a brán za vzor.
- Rovnost a bezpečnost před chudobou pro všechny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df6aa58868c7012901d6fdc049ba9f97ac3ccd2fe80d419ca4aaaa24340fa8a
+size 356

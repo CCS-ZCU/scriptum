@@ -1,1 +1,3 @@
-solidarita domorodec žít misionář Rhodesia bezpečí moci strach krutost guerill vykonávat duchovní práce
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88c661515135fd23a8a3f9c0b4f33e675e571251286ecf09d9c3cfc47e14fce
+size 113

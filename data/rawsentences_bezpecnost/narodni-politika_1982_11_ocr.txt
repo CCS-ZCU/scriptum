@@ -1,2 +1,3 @@
- Nikto nikdy nespočítá, koľko ľudí v Československu má „napichnutý“ telefón, koľko majú kontrolovanú poštu, koľkí sú pod stálym dozorom bezpečnosti.
-" Ani to však nebyla pravda, protože Katynská vražda nebyla omylem, ale plánovaným, záměrným genocidním aktem, spáchaným proti polskému národu - a zároveň to byla rutinní operace státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41e11216097f064b6a01eb39fb6033afe704ed74b1cae8f2dff583908940644b
+size 391

@@ -1,1 +1,3 @@
- — V zemi panovaly bezpečnost a klid; známé je přísné potrestání Jana ze Znojna na Žampachu (zv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9c79e2fbf0506de505e5e181e42fa09bb13b7cd4ceca3e148535c227b90c601
+size 108

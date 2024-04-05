@@ -1,3 +1,3 @@
-rudí zvítězit Španělsko dostat Stalinův vliv vývoj poloostr ovo ubírat jiný směr nebezpečí rudý nákaza ohrozit Itálie Francie Portugalsko
-jiný volba zbývat
-názor velký nebezpečí malý rozměr váha atomový puma moci vozit kufr osobní auto nosit záda
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e26feedcbc59336080889ba656c5ce60fcb301228e68c6af1790f0e15ebcf9
+size 274

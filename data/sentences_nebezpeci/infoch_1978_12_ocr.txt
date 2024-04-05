@@ -1,4 +1,3 @@
-trestný čin obecný ohrožený zákonný ustanovení trestní zákon mít zniní dmout 0In
-obecný nebezpečí judikatura neovls datelncst pribéh událost kuza stav obecný nebezpečí považovat nnpříklad soudní rozhodnutí
-připustit pachatel vydát lidé obecný nebezpečí nspříklad
-msasit první hraniční závora pominout obecný nebezpečí okamžik
+version https://git-lfs.github.com/spec/v1
+oid sha256:56f75dced0739a280ec7f348b26216080da7448c5041e80735eb8f663eae2a0c
+size 367

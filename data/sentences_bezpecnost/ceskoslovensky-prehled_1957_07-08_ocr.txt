@@ -1,1 +1,3 @@
-malý baltický stát příklad zbytný bezpečnost velký stát sovětský svaz moderní válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:4088fa8e43f83f4b25db1a1447dd7dea8a7d25c963bcd47f3d7f67c632388433
+size 97

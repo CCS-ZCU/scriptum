@@ -1,2 +1,3 @@
-obavlááta vnímavost IkMR ^tést vyvarovat mnohý nebezpečí nástraha
-pétit ssžet hrošit nebezpečí otevřený kre
+version https://git-lfs.github.com/spec/v1
+oid sha256:925f5c39cdea057aff00ac2b18a3eaa49385e93bc4cd69d9bc4abbf261b257a2
+size 123

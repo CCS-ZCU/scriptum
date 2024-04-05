@@ -1,1 +1,3 @@
-Z OBSAHU Krejčí: Souručenství • Středa: Pravopisná poznámka • Vrána: Experiment s pouští • Pochodeň • český Betlém • H.: 1970 — rok » normalizace « • von le Fort-Benáček: Modlitba církve • Nuhád: Libanonská vládní krize • Humanismus musí být křesťanský • Vánoce sv. Otce • Stalo se ve Vatikáne, doma, v exilu a jinde ve světě • Vzpomínáme P. dr. Adolfa Pelikána • Heidler: Nový zákon • Z dopisů • Naše povídka: Racek, Vina ROČNÍK XXII . ŘÍM • LEDEN 1970 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e653b9ec09351441b198fe6ddd2c442a00b6d3757fb0453e0590180393f1061f
+size 540

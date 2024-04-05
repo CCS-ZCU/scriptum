@@ -1,1 +1,3 @@
-mýlit obloudit vážený porotce
+version https://git-lfs.github.com/spec/v1
+oid sha256:179afccbfeb0bc78a214f60182533239d96bc17e4f864c3fd79307130fbd6d8a
+size 34

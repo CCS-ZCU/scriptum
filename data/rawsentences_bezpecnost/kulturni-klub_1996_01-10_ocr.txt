@@ -1,6 +1,3 @@
- Občané poznají své agenty Každý občan bude moci u Ministerstva vnitra zjistit jaké údaje na něj vedla bývalá Státní bezpečnost a kdo byl udavačem.
- Je známo, že bezpečnost tehdy infiltrovala různé skupiny svými agenty, kteří je pak řídili a vyprovokovali k činnosti.
- Jako celek přispěl každý z těch, kteří v Rakousku našli útočiště a pomoc k pádu totalitních režimů na Východě a tím také k větší bezpečnosti Rakouska, k tomu, žc sc z periférie Evropy stalo opět jejím středem.
- Nástup sedmatčicetiletého šéfa Hlavního úřadu říšské bezpečnosti a generála policie Reinharda Heydricha jako zastupujícího protektora právě na svátek sv.
- léta Bendův Úřad pro dokumentaci a vyšetřování zločinů komunismu předa) Státnímu zastupitelství v Uherském Hradišti vyšetřující spis, v němž jsou obviněni tři vyšetřovatelé Státní bezpečnosti v Uherskem Hradišti, mezi nimi otec dnešního předsedy KSČM.
- za nelidské zacházení s vězni, ublížení na zdraví s újmou a porušení služebních postupu Alois Grebeníček po návratu z koncentračního tábora nastoupil u Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6258abbc16191586e3a87d3f0b210a62019337987271dff8ad60f41f970a1010
+size 1192

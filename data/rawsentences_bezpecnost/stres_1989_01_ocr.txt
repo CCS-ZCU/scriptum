@@ -1,7 +1,3 @@
- Veřejné bezpečnost a lidové milice.
- Člen bezpečnosti v civilu se snaží uklidňovat.
- Přiakakuja příslušník bezpečnosti v civilu.
-2Chod provedla karlovarská bezpečnost neobvyklý zásah.
- Jak bylo později uvedeno příslušníky bezpečnosti, celý zásah byl proveden na udání, že jmunuvaní ae podíleli na podpisové akci, ve které vyjadřovali své poděkov áni ca.
- Tři z nich Dušan Janáček, Richard Krauao n Jan Ulrich byli druhý den vyslýcháni Státní Bezpečností /StL)/.
- 0 G L 3 Čistírna, odpadních myšlenek Odlučovač jedovatých slov F i l t r citového prachu jo láskc- k bližnímu Veřejná bezpečnost svědomí Ministerstvo spravedlnosti vztahů Nejvyšší soud lidskosti je láska k bližnímu Harmonie a rytmus srdco xj^rva a světlo očí Vyspělá kultura dlaní je láska k bližnímu Revoluční hnutí mysli Vedoucí strana dušo kírová politika rozumu je láska k bližnímu na věčné časy a nikdy jinak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9096ade751342f0d0a2384b5513bee44df7b5e56fdf9f67dda80a32cbcf39465
+size 974

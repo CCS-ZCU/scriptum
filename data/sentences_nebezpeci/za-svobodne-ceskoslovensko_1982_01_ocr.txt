@@ -1,1 +1,3 @@
-komunistický uchvácení moc CSNRA varovat západní svět nebezpečí skýtat sovětský expar
+version https://git-lfs.github.com/spec/v1
+oid sha256:966c4c74b600b95350098f8804c2d1a0361f5f359f233552feb642b67ad6105d
+size 97

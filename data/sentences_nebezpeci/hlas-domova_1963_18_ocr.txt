@@ -1,2 +1,3 @@
-žádat dodržování zákon pracovník státní orgán znamenat vydat nebezpečí vážný politický obvinění plynoucí důsledek
-ležet nemocnice pohmožděný ledvina krev plíce nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:66d5f89b6a7b5aaa8c7f8ce7c9244c92c69a193912461a427542fea8303df657
+size 204

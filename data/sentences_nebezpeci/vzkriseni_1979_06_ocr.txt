@@ -1,2 +1,3 @@
-vidět hlavní nebezpečí církev sekularizace
-bát znát nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ec8deb773bcb9ef017fb7985126e2e129b796d436977d50e488ab0bb5c13e46
+size 71

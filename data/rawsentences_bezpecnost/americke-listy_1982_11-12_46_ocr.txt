@@ -1,1 +1,3 @@
-zahájil nepřítel politickou, ideologickou a hospodářskou ofensi- vu proti komunismu — zatím co Kreml prý učinil reálný odhad, v jakém nebezpečí se nalézá bezpečnost Sovětského svazu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c993618fb4140d2d45bdc2b7f2c78f76bcd3fa5fe4a4edf5b31940196db252d6
+size 203

@@ -1,1 +1,3 @@
- Množství závodivých her se táborníkům velmi líbilo i když několik zcela mimořádně horkých dnů zápolení hodně ztížilo a děti se pak již nemohly dočkat zmrzlinové odměny a svlažení v jezeře, kde při dohledu na bezpečnost dětí vypomohl také jako plavčík bratr Karel Pavel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b044f1087288b45095a26035751dcbf73c8aaeaf3ebccec994bc43911c96607
+size 306

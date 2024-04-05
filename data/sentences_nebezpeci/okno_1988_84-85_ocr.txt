@@ -1,1 +1,3 @@
-ignorovat existence světový kongres Slovák representovat skutečný slovenský politický elita exil elita přirozený výběr líbit líbit představovat akutní nebezpečí budoucí harmonický soužití bratský národ analogie lze spatřovat konflikt katolík protestant Irsko Básk Španěl Španělsko Tamil Singalesi Cejlón Tibeían Číňan Tibet Flám Valon Belgie obyvatel Jura bernský kanton Švýcarsko Chorvat Srb Jugoslávie etc
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde4900936d858b1e71001897627b884be89b7aff1d5604c812cba80fc3f30e0
+size 448

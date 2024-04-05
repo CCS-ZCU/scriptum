@@ -1,1 +1,3 @@
- Abych docílil úspěchu,a jsem jÍBt,že ho docílím, abych mohl vy- hlodávat příznivé proudy vzduchu a udržovat se v nich, jest dlužno zdržet se, pokud možno vystupování do značných výšek, aby se zabránilo příliš značné ztrátě plynu; mimoto dlužno vzdálit ohefi pokud možno nejvíce od plynu, konečně jeBt nutno,nalézt zahřívací přístroj, jenž by v sobě shrnoval všechny podmínky bezpečnosti,aby byl lehký,mocný a snadno se dal řídit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e3c16c27dfe055c756b825ee030ac570f050f649a0f396ff757949c17baaa2a
+size 481

@@ -1,8 +1,3 @@
-nutnost chránit nebezpečí vést hbitý pohybování zadní končetina vzpřímený chůze
-nebezpečí nutit živočich spolčovat obrana dát podnět kolektivní způsob život
-skutečnost číhat nejeden nebezpečí
-člověk mínit pán bůh měnit
-nebezpečí dát dnešní poměry překonat
-schvalovat úsilí podporující svornost národ oddalující nebezpečí válka zvlášnout nabádat odzbrojení odvrácení atomový válka
-universitní kostel Lipsko nebezpečí zbořený
-nebezpečí víra dítě kolonie biskup upozornit rodič společný pastýřský list
+version https://git-lfs.github.com/spec/v1
+oid sha256:25b1e8177b44541c4ce2cee9a983de33d3c58ac687da4fc311e9259a7cc48b29
+size 574

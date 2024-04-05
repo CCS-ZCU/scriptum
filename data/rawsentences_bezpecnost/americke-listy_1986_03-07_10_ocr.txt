@@ -1,1 +1,3 @@
- Bezpečnost pojišťují individuální držadla a v průběhu zkušebního provozu nedělal nový chodník problémy ani invalidům a starým lidem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f5db7ce1b0ef29efb2c7b901ec6165fa884cc7da27253ec144ccbf09c5481b
+size 151

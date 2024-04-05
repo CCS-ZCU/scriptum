@@ -1,1 +1,3 @@
- světové válce byl jmenován Zemským velitelem národní bezpečnosti v Ostravě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9536da262201da127be86ad46d20fbd7629e1a93887a35c0bb5a532954ac6b0
+size 86

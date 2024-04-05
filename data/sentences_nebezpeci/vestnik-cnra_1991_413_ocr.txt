@@ -1,1 +1,3 @@
-parlament delegace upozorňovat válečný nebezpečí podněcovaný Vídeň Berlín
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c28833e21107d068761151074c01db8f7806ee8b996cbca599085cc73b1b06
+size 85

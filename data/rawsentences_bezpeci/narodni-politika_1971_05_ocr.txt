@@ -1,1 +1,3 @@
- vojska provedli tento čin zrovna vůči Rakousku, které nám a desetitisícům dalších našich občanů poskytlo s tak velkými finančními a hmotnými občtmi spojené osobní a společenské bezpečí v době kdy jim ho ani vlastní stát nemohl zabezpečit před cizími invazními vojsky, že způsob, kterým se krádež a odvlečení exulantů Zdenky Světlíkové a Ladislava Fryče z Rakouska uskutečnilo, je tak trestný, že ohrožuje dobrou pověst celého našeho československého lidu, že žádný zástupce čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8d251e1df6c8f8684bfc36de772a7920bc8941039b366837b99fade30a4702d
+size 536

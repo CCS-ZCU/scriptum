@@ -1,2 +1,3 @@
-vystoupit Zoch mluvit nebezpečí decentralizace
-vidět úřad nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:90df608455300ad18c053cfec98a626f38dfbfb397512f055a350f9faff1029e
+size 75

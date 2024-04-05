@@ -1,1 +1,3 @@
- Společný život rodiny musí být utvářen láskou a vzájemným sebeodevzdáváním, bezpečím a teplem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1003d58bdba8de734fb3ef5eb9267da0a575bd37f59801dab542ee5779868763
+size 111

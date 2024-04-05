@@ -1,3 +1,3 @@
-velký nebezpečí hrozit nacistický okupace Hácha svěřit ochrana říše
-jaderný arzenál SSSR existence režim skrývat velký nebezpečí
-osobnost člověk nemoc míra podhlodat představovat nebezpečí protivník země sever východ jih obklíčený sovětský armáda komunista ovládat klíčový pozice armáda policie
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0e68f74ec95562ece5be3287db84125e098308b0f7d834bd125f463065ff770
+size 334

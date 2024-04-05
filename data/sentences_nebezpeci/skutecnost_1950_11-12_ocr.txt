@@ -1,2 +1,3 @@
-nebezpečí vědět poloviční nebezpečí
-upozorní nebezpečí hrozící iný vznik universální monarchie ruskfr ina jevit přehledný výslovný zlý
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d6c5bf58e7f8c9e0202a00f12f4946cfd1da5886f9576b1372b30f318d67243
+size 370

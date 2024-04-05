@@ -1,1 +1,3 @@
- Nebudeme vinu svalovati na dny nevinné, spád pohrom p řičítati hvězdám přečistým , nevědouce bezpečí hledáváme v jícnu hadově, nevědouce tančíme v opojení po sopkách, a naše srdce růze myslící se rozpomíná tak málo jen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff37ab005a3411e80321bab0fa46f4579656467637b54071eb703a6a4bf6b115
+size 250

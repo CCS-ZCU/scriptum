@@ -1,3 +1,3 @@
- (mk) kultura 19  kultura Jindřich Streit -výstava zabavených fotografii Jindřich Strčil vystavoval v Obecním domČ v Praze soubor fotografií, který mu v roce 1982 zabavila tehdejší Veřejná bezpečnost.
- Dostupné informace dokazují, že se tak snažil krýt jednoho z podezřelých, v roce 1965 vysokého důstojníka Sboru národní bezpečnosti.
- let příslušníky tehdejší Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74dd0c15418028affa6237b8bba085f46f925c2989166523ff8b3123c6d49674
+size 417

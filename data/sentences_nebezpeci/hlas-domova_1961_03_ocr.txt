@@ -1,4 +1,3 @@
-proslov připomenout Američan hlava celý svobodný svět velikost nebezpečí demokratický věta vystavený
-nebezpečí komunismus trvat dlo pře dotknout nes zvyknout trvý lého skutečný viset hlava den noc padnout
-řešení stávat den snadní den blížit hodina vrcholný nebezpečí zbraň nepří telský moc narůstat síla
-racet svěřený dlouhý historie lidstvo zodpovědnost bránit svo bod chvíle jvout nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:75233aac6e842653ff215345e2fed20233e7d12d163744bcb21e297991bfcedd
+size 424

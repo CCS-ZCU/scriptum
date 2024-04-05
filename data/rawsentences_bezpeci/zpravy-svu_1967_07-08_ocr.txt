@@ -1,1 +1,3 @@
- Ten je omluvitelný za železnou oponou vládním psychologickým i jiným terorem, ale je neomluvitelný u exilu v bezpečí .
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef7de9e8f8665a4279afae4456497a19b1e10380bcbf27c25964625680143da
+size 129

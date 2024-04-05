@@ -1,1 +1,3 @@
-naleznout státní bezpečnost exemplář případ omluvitelný
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a7dab1f8309a3a500c2510948fa5ef6ec700da0cc534f444687f86d9895484
+size 64

@@ -1,1 +1,3 @@
- Opatrně vystoupil po schodech, schod po schodu, a nahoře na plošině chodníku spatřil ty vzdálené bludičky bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb2cc2bf422742443b2c92d91e52eb441d4cf6d490d0eebcec6514602de79a1b
+size 127

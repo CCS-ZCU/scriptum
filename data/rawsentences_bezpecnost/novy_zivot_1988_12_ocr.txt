@@ -1,1 +1,3 @@
- Vede k důvěře, že jdeme správnou cestou a k bezpečnosti myslí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aee9e935ba069ce0df5e7a88109c1f183356d05788bbc0810b5f09cc7a5c4405
+size 71

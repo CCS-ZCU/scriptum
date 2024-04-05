@@ -1,5 +1,3 @@
- Nejprve podle dnešní stranické módy napadl poradce amerického prezidenta pro otázky bezpečnosti Brzezinského a pak pokračoval dost nelogicky kritikou diskuze na třetím sjezdu Svazu československých spisovatelů v roce 1963.
- V jednom mým případu se dokonce rozplakal student, že nebyl tolikrát u výslechu jako jiný můj přítel a považoval to svým způsobem za podceňování státní bezpečnosti, která — respektive — za skutečnost.
- že jeho státní bezpečnost nějak podceňuje, zatímco toho druhého nepodceňuje.
- Státní bezpečnost už při domovních prohlídkách nehledá jen konspirativní materiál, ale opisy rukopisných sbírek básni, průklepy románů, a filozofických pojednání.
- Státní bezpečnost je téhož názoru, který je potvrzen zkušenostmi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b98388ea35607366673071229c72ddde2f742ffaeb577929acd30b3f5d8dd156
+size 811

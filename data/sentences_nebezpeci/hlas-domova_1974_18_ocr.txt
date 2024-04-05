@@ -1,1 +1,3 @@
-chladnost nazvat citelnost usuzovat muž jiný národ umírat bojiště mít češ Slovák vystavit nebezpečí smrt prokázat vážnost věc
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bce8833240fcae79021f9ddf344d634fb3d7a3be695e2a99fc6c01d9a8fd6d4
+size 142

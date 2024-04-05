@@ -1,2 +1,3 @@
- Sověty svolaly do Moskvy ("či Paříže", pravilo se v notě) "E- vropskou konferenci o bezpečnosti".
- Výměnu budou provádět městská oddělení veřejné bezpečnosti podle místa trvalého bydliště občanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b023006e678f5ce54c4a333dd0d4eb297f7dad3a07e10acedca10a4e164886
+size 221

@@ -1,1 +1,3 @@
- října připadla velmi vhodně návštěva tří českých senátorů, členů výboru Senátu ČR pro zahraniční věci, obranu a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc6cfe7b0d0fe9cb9ffb496a65cdbf8d9251ba99f3d9add5603cf2e06edd7b8
+size 147

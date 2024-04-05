@@ -1,3 +1,3 @@
-zdát druh pohyblivý tekutina zaplavovaný ocitat vážný nebezpečí utůpit
-problematický skladování zpracování radioaktivní odpad nebezpečí spočívat ^před vesmo provozní havárie lze vyloučit
-uva žít možnost ohrožení obyvatelstvo válečný teroristický útok jaderný elektrárna ekonomický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:260d6dba91fc1fa84439c6d93bff82ff3fc933d93ee059a0159b65cbf3458971
+size 561

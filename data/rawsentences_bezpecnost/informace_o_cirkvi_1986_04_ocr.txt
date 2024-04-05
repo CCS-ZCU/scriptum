@@ -1,1 +1,3 @@
- Ukrajinský kardinál Lubačivskyj, žijící v exilu, vydal při tomto výročí prohlášení, v němž projevil naději, že vláda SSSR znovu uzná ukrajinskou katolickou cír- kev v souladu se Závěrečným paktem Helsinské dohody a závěrečným doku- mentem Madridské konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72cbe1080c74a5a71669e56abcab8c3db198b65f212359f864766989309e2b93
+size 331

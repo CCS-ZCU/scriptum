@@ -1,1 +1,3 @@
-desatero křesť anský řid litr vozidlo metr společnost uvědomit řídit 'št mechanismus moci stá nástroj smrtijmúž velký nebezpečí zdraví ičo jiný cyk list chodec
+version https://git-lfs.github.com/spec/v1
+oid sha256:21434961dfab479eba1406ff0491c454ae612c357f77c91c1204b2340e4152a5
+size 179

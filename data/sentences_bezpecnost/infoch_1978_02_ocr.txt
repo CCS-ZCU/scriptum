@@ -1,2 +1,3 @@
-celý petlice svazek organizace výroba distribuce edice vědět informovaný státní bezpečnost jiný orgán
-státní tajný bezpečnost zachytit týden vznik začátek listopad provést krátký formální výsledeh příprava teror specifikovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4b04e57bc0d3a374380363c676d58f607fba1ed527eabe06f8bb77511371374
+size 242

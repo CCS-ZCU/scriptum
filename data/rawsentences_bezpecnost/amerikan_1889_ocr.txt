@@ -1,2 +1,3 @@
- Psaníčko znělo: Pane Balzare! Nemám tu čest býti Vám známa, avšak z tobo, co mi přátelé Vaši o Vás vypravovali, soudím s bezpečností’, že se snadno dohodneme.
- „Dejme tomu, že byl byste nyní doma a zdráv a věděl byste dobře, co vás očekává, dáte-li se odvésti; — šel byste přece na vojnu?“ „Ano, pane,“ zašeptal nemocný, „učinil bych to okamžitě! Co znamená má páže nebo život můj v porovnání s bezpečností vlasti?“ To bylo vlastenectví pravého rázu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a96aa4c07d0dc4f60cf42db8f2f674a21199a722f25b9bf0fe998156bedc13a
+size 518

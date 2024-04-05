@@ -1,6 +1,3 @@
-lež země narodit chtít opustit doba nebezpečí
-podnik %cit nebezpečí Milena němčinit
-kům tara jít vota hrozit nebezpečí jít plynový komora muset předstírat skvělý zdravotní stav zlikvý dovaný méněcenný jedinec vyplatit život
-dopis v~žuje součást literární odkaz 3větový význam ulice žít Kafkův muzeum Jeruzalém bezpečný společnost d>ba svět nebezpečí rok vát válka mrhnout vzít ulion
-cesto celo podnik rok dbát možný nebezpečí dosažení měsíc hodina jediný cíl Zeme sVÍ tráoit hodina pohledat mít zada ach řekx kůň podnik nama mluvit Mésíc dostat nso vrátit
-muset přát starost zbytečný věřit nebezpečí podnik rok tnl
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7eed84368ad17d30ed84083603e3e0bfc76e6477c940c56c307da932f70669c
+size 680

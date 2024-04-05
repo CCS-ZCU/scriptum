@@ -1,4 +1,3 @@
- Vytvořil zvláštní — zcela osobitou podobu novo- Méně pracovních úrazů Za posledních několik let, kdy se v republice organizuji prověrky bezpečnosti a o- chrany zdraví při práci, podařilo se snížit pracovní ú- razovost o víc nežij 17 procent.
- Ve východoněmeckém ideologickém časopise “Einheit” se v lednu objevil článek šéfa východoněmeckého ministerstva pro státní bezpečnost generálplukovníka Mielkeho — kde zdůrazňuje význam a znásobující Ze ”Spol.
- » MUDR Jiřina Zelenková, bývalá členka ÚV KSČ, vyloučená v čistkách z KSČ, povoláním lékařka-anesteziolog, byla vyšetřována státní bezpečností ve věci ošetřováni zemřelého Josefa Smrkovského.
- Bezpečnost projevila dojemnou starost o stav našeho zdravotnictví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7b65b0a2e18171e58ec94311abb398dc3a118c11a13506d770f2f1822d1059
+size 804

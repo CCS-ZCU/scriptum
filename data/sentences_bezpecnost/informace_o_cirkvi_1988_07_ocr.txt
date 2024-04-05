@@ -1,2 +1,3 @@
-r>ozornit daný okolnost mít obava bezpečnost pravděpo dobnost blízký doba fařt přestávat noc uchýlit
-varovat bslava kanonipace považovaný ilagální moci narušit veřejný pořádek bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:623586bba4e2b393f2e9054fd6ee6b2aa828085cc993a2e92afdd2e2694931ce
+size 206

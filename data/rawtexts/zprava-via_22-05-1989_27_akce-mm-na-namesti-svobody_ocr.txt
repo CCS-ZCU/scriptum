@@ -1,1 +1,3 @@
-3.Brněnští aktivisté ze Stanislava Devátého Dne 19.5. ve 13 hodin rozvinula na námestí Svobody v Brně skupina nezávislých aktivistů transparent s nápisem "Život a svobodu Stanislavu Devátému” Současně předkládala kolemjdoucím petici adresovanou generální prokuratuře ČSSR, v níž se rovněž požaduje propuštění S.Devátého. Petici podepsalo za devět minut dvanáct kolemjdoucích, poté bylo všech devět účastníků manifestace předvedeno k podání vysvětlení na okrsek VB. Asi po hodině byli všichni propuštěni. Předchozího dne bylo po Brně rozšířeno větší množství letáčků, požadujících propuštění Stanislava Devátého. [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3c5c8c9744ebd162d81534636b940ad8dc092e42a26ee4908120740023ebd2
+size 700

@@ -1,1 +1,3 @@
- Jsme pevně rozhodnuti pro existenci NATO a hájení bezpečnosti Západní Evropy, a mohlo by dojít k vážnému ohrožení míru, kdyby sovětská vláda pochybovala o našem odhodlání.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1553a2bd93f9f7037e57947fcb2b6b0378d5be28cc9361804003fff94a48f9bc
+size 192

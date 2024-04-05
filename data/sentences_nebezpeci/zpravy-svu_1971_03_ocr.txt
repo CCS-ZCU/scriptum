@@ -1,1 +1,3 @@
-zjistit zraněný jít podívat unikat plyn strana zpráva SVU nebezpečí požár výbuch
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad9d7f5b505799bb3b2ebbf000e0815bf45304aaed9f67ac9754a55f60869bcd
+size 91

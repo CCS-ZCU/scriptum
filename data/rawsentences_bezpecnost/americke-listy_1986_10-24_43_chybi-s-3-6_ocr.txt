@@ -1,7 +1,3 @@
- září na bavorsko-českoslo- venské hranici k honbě, na Veřejná bezpečnost neustále v akci Ve středu 15.
- října 1986 byl předvolán na obvodní oddělení veřejné bezpečnosti v Praze VIII.
- Doktor Průša vykradení bytu hlásil bezpečnosti — která zahájila v této věci vyšetřování.
- V souvislosti s tím byly zadrženy tři podezřelé osoby — na něž však bezpečnost vyvíjí nátlak v lom směru, aby u- vedly do protokolu, že byt lidi a k řadě výstřelů.
- článek Charty OSN ukládá Radě bezpečnosti vypracovat plány na zavedení systému úpravy zbrojení .
- Valné shromáždění OSN opět ukládá Radě bezpečnosti vypracovat konvence pro systém odzbrojení, včetně kontroly a současně zajistit užití atomové energie jen k mírovým ú- čelům.
- Sovětský svaz navrhuje systém kolektivní evropské bezpečnosti, — kterého se nebudou účastnit USA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68f3bb661449b1a9239cb6260a24831f48309163ac622c9b93e46919cbb353da
+size 916

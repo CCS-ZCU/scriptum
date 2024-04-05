@@ -1,8 +1,3 @@
-vystoupit jednání uvádět otřesitelný platnost nebezpečí společnost oítit napadený bránit
-Všeohno mít kořen duchovní sféra člověk tvůrčí svoboda ctnost mravnost právo náboženství ohrožený stagnace zvyk mechaniSae
-vnější materiální prvek tajemný zákon vlastní tíha odpoutávat prvek vnitřní tělo odpoutávat duše litera duch vnější prvek chtít stát samoúčel metr ohec zbožštit Edyž podařit vnitřní tvůr svoboda vzdát vnější technika umírat umění ctnost právo nábo ženství přijít pochopit nebezpečí začít zmechanisováný pořádek popírat
-slovo TImino1 mít prostorový yýsnam duchovní Kristus stát pozemský lid ský hodnota
-učitel Nikon Černohorský přát termín poslušnost užívat rozvaha nak znalost pís vydat nebezpečí poslouchat dást místo bůh
-krásný představa nebezpečí legalismus duch zákoník fari3e číhat lira oko
-Evropa mít velkéšaný nejeden nebezpečí
-společný nebezpečí ohrožení
+version https://git-lfs.github.com/spec/v1
+oid sha256:5166c379f15887016f6f6c71ba4a3b37cc5fde27d854af0e29f6ad0af105b141
+size 999

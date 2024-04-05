@@ -1,2 +1,3 @@
-horší případ najitý dobrý příležitost úplný bezpečnost překvapení
-jistota bezpečnost budit důvěra —^ostátní ·pak vykonat vášeň
+version https://git-lfs.github.com/spec/v1
+oid sha256:92ba2f0dd1f3da4c09f097192860f4182c2109a26e93b1cb39914a51b7a3ed92
+size 152

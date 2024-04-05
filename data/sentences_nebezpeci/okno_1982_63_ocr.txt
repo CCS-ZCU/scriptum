@@ -1,4 +1,3 @@
-Jirásek brát velký nebezpečí katolík
-nebezpečí
-válka zamíchat český kul nebezpečí
-uvrhnout nebezpečí ptát
+version https://git-lfs.github.com/spec/v1
+oid sha256:3411fa828d5ba0fc05cd4d7f911bc1d2976a2853926ddc8bd9723675be179f51
+size 123

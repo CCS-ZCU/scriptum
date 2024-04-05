@@ -1,2 +1,3 @@
-zaručit svoboda bezpečnost vycítit Kleopatro mít skvělý kořist znamení vítězství Oktaviův vracející triumfá torma přivedený Řím Řím pobouřený
-zásada zbudovaný poctivost bezpečnost svědomitý obsluha
+version https://git-lfs.github.com/spec/v1
+oid sha256:94ae3fa814f6ec9a3b1cd759e01a54cdf27f8e56382f8646fdc3ae962d15e5c7
+size 223

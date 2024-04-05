@@ -1,1 +1,3 @@
-nebezpečí rozšíření konflikt zvýšit
+version https://git-lfs.github.com/spec/v1
+oid sha256:360c8a91de1789ed055668a5bf06f3ec9d03a75391b2316b3c0143edcdb6ce8d
+size 44

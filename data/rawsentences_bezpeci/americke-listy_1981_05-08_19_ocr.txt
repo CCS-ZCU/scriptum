@@ -1,1 +1,3 @@
- jako ovce na porážku, místo aby v bezpečí seděla v Orleansu? Jakoby neměla žádnou větší touhu, než abychom ji upálili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b203018dc830911d750fc195d00a72a4e898a0700d77f7f6aed6e03ec18ea2
+size 134

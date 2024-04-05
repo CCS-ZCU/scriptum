@@ -1,8 +1,3 @@
- Smlouva se SSSR (podepsaná v srpnu 1970] právě lak jako v prosinci téhož roku podepsaná smlouva s Polskem zdůrazňuje snahu o mír, bezpečnost a normalizaci vztahů, dodržování cílů a zásad Charty OSN a potvrzuje, že obě smluvní strany nebudou ani v budoucnosti vznášel územní nároky.
- pevně zakotvena v atlantickém spojenectví, na němž závisí její bezpečnost a svoboda a bude se svými partnery pokračovat v úsilí o politické sjednocení západní Evropy.
- Velinský z Oxfordu se ve svém referátu zabýval návrhem na uspořádání mezinárodní konference o evropské bezpečnosti, která v sobě skrývá pro naše národy jisté nebezpečí, neboť by legalizovala nynější stav ve střední Evropě.
- Vraťme se ale ještě k tomu pevnému charakteru, který zdůraznili všichni recenzenti knihy, pokud jsou v dosahu okupantů a Státní bezpečnosti.
- Na pořadu jednání byla otázka plánované konference o evropské bezpečnosti a aktuální světové problémy.
- Polem jsem sloužil v oblastní úřadovně Slálni bezpečnosti v Rý- mařové a v době tzv.
- 1945 jsem působil jako kriminální asistent kladenské úřadovny Státní bezpečnosti.
- V lednovém vydání Českého Slova jsem informoval o tom, že státní bezpečnost zatkla představitele českobratrsko-evangelického sboru v Praze-Vršovicích, faráře Duse a filosofa dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c23464a56266b16ab5dde1ece45dc9ed898d4fef50a70a3f7f22bbeae7680f
+size 1400

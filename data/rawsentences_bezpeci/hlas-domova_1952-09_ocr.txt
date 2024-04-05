@@ -1,1 +1,3 @@
- 'Faruka proti' vaidietickému parlamentu proto, že; úplný, a náhlý odchod anglických vojsk se serae /který avafdisté prosazují/ by velmi -ohrozil bezpečí demokracie ve Světě vůbec, protože by pravděpodobně vydal Suezský kanál na pospas SSSR (.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c7190c5a17e1562f7ba669dddd74cc8bbf63d277c32d1f85b49cb49b95273ec
+size 264

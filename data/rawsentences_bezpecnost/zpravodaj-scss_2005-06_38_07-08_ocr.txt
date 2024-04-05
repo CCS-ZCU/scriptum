@@ -1,3 +1,3 @@
- Potrebujú silného partnera, ktorý neobťažuje svoj inú rozpoloženiami a pomôže v presadzovaní demokracie a mäkkej bezpečnosti.
- Bývalí agenti Státní tajné bezpečnosti, z nichž jeden svědčil proti němu i za totality, se snaží seč mohou, ale moc jim to nejde.
- Případně se poučíme o zajímavé minulosti ředitele přerovské policie, který byl za totality předsedou jedné z mnoha stranických organizací Státní tajné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f0a0a79a5be43a7dfee0a3d8ec9ce21893677582cdec4853be100d675683b5
+size 467

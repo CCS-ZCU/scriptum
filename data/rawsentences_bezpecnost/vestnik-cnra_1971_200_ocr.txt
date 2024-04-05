@@ -1,4 +1,3 @@
- Kopal doufá, že tato smlouva se stane “jedním z úhelných kamenů evropské bezpečnosti, která by důsledně vycházela z existujícího stavu a stabilisovala na jeho základě mír v Evropě.
-” To tedy je zřejmě základna návrhů, s nimiž se Sovětský svaz vytasí při konferencích se západními mocnostmi o omezení zbrojení, o snížení početních stavů vojska obou mocenských skupin v Evropě, o zajištění světového míru vůbec a evropské bezpečnosti zvlášť.
- To je také ten “existující stav,” na němž sověty chtějí “budovat mír a bezpečnost v Evropě.
- Ale sovětská vláda už vybočila a poslala náhle do Dánska, Norska a k vládě anglické Semjona Ca- rapkina, náměstka svého ministra zahraničí s upozorněním, že o zmenšení vojenských početních stavů se může vyjednávat jenom v souvislosti s konferencí o evropské bezpečnosti, kterou západní spojenci dosud odmítali a které dosud nedůvěřují.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c7bdcdc877f28941fe55dfbab0a358eab98ccbe600c9d34e080f7079e58f68
+size 983

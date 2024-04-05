@@ -1,1 +1,3 @@
- Poukázal na to, že hlavním cílem této kampaně bylo ovliv- nit a zdiskreditovat vý- sledky, jichž pracující ČSSR dosáhli při uskuteč- ňování závěrečného doku- mentu helsinské konferen-, ce o bezpečnosti a spolu- práci v Evropě před nad- .
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfeaaba93459629f0a92d1430818575a55a26688e2c3911c6eb9db26f097bcce
+size 265

@@ -1,1 +1,3 @@
-nebezpečí polarizace rýsovat vývoj státní občanstvo krýt pojem národ Rakousko Uhersko Polsko třetí dělení Quebec Canada
+version https://git-lfs.github.com/spec/v1
+oid sha256:7524017cbc94267ef4af75dc2e6b0991527191f197bd7d44793d5bee2989310e
+size 131

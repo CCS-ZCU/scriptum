@@ -1,2 +1,3 @@
- Amerika je hlavním cílem jejich nenávisti, zbožné přání nemůže být odpovědným politickým programem, nemůžeme svěřit naši bezpečnost do rukou OSN.
- Bush slíbil odzbrojení Saddáma ať už s podporou, či bez podpory Rady bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:939dbc15e0717025c695b540964cbedaff61ca5d440afdd8281989873f4c1182
+size 257

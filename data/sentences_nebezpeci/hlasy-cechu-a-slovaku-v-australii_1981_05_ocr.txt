@@ -1,2 +1,3 @@
-vítězství bolševik občanský válka Rusko řádit budoucí nebezpečí komunismus celý svět
-svobodný společnost rostoucí útok sjednocovat společný úsilí moci nebezpečí čelit
+version https://git-lfs.github.com/spec/v1
+oid sha256:38df1be1710f89ac78978ac9004c531fbe24ff307f5a8ca7bdd37e43222701af
+size 192

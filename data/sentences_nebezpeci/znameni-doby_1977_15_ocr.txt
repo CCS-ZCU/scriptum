@@ -1,7 +1,3 @@
-upřímný vypovídat nebezpečí lidský civilizace lidský lhostejnost lidský hloupost
-přihlížet ekofilmus přehlídka film životní prostředí probíhat čtvrtý Ostrava Por muset myslit nebezpečí číhající bláhový lidstvo valit mest utíkat obracet země naruby křísit šílený fyziologický tempo vyrábět zboží opotřebený odhazovat voda země kácet prales brát domov opice přivykat život divočina vozit rezervace plýtvat voda dobývat hlubina voda zabíjet křísit zamořovat vzduch půda možný jed vracet život
-jádro nebezpečí auto symbol prestiž nástroj exhibicionisrn ztotožnění věc vůz moc člověk přestávat ovládat zvládat člověk volant majitel příjemný užitečný dopravní prostředek osoba vysoký morální odpovědnost možný rozsévač neštěstí smrt
-mluvit přísný zákonný opatření postupný vylepšování silniční síť zdokonalování dopravní prostředek představovat neodvratný nebezpečí moci zdokonalit vylepšit přítomnost kentaura maso kost napolo srostlý dopravní prostředek napolo ovládaný psychický zmatek fyziologický únava normálnost charakter říkat moderní člověk
-vyrvat člověk nostalgie transcendence Marx pokusit filosofický vysvětlit ospravedlnit člověk zredukovaný pouhý pozemskost marxistický člověk tvůrce výtvor sociální x^ád člověk zredukovaný svět nebezpečí nudit
-nebezpečí dnešní situace patrný nutný povolání evangelium prohlubovat rozvíjet
-zřejmý modlitba brevíř pronášený časový tíseň příznivý setkání dojít názor modlit text rozjímání spěch názor hnát extrém nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a214420939a2019b86a243058a3c86700cb2790164b791952df76fc3d323dc
+size 1660

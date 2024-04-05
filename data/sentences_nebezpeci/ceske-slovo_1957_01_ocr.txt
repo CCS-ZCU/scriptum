@@ -1,1 +1,3 @@
-komunistický druhý pětiletec hrozit letošní druhý rok jiný konkrétní nebezpečí rozvrat
+version https://git-lfs.github.com/spec/v1
+oid sha256:72863270de982406aae059aa04e332f8d59c67c6ad3c78351139c14ca6a41467
+size 98

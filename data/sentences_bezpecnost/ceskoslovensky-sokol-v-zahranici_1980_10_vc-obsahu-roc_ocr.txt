@@ -1,1 +1,3 @@
-scházet okamžik pravdivý chtít tvrdit panovat Evropa bezpečnost mezinárodní právo řád národ sjednaný nový klid míro rokování Sokolstva doba důležitý připravenost myšlenkový ujasněnost sestra bratr spoléhat národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c3279ae4221d62451b7da234ded4a13d72a3c1136701d607d09d1603172472
+size 237

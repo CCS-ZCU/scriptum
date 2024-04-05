@@ -1,1 +1,3 @@
-hlavní otázka politika zaměřený uvolňovaný napětí bezpečnost názor země shodovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d88cd22bbc3a0baf8d99de59aabf9316b06d4104ba97f9965bbe5e0d53d01c8a
+size 93

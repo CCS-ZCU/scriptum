@@ -1,1 +1,3 @@
- Společně s americkými a sovětskými odborníky pro bezpečnostní otázky se snaží rakouské úřady zajistit co nej- vyšší stupeň bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d43bcff0efc1dbeb7ba38dbc54119659e1fe9449e7b362d7bb8053ed6f672b98
+size 151

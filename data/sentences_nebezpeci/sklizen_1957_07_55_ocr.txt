@@ -1,1 +1,3 @@
-odvážit byt namítat vydávat nebezpečí zdrcený zesměšněný kousavý Postilla
+version https://git-lfs.github.com/spec/v1
+oid sha256:14332638e1630d43deeaea6604ec7a1eaadb6c98756fefa088fbb55b19f5edbf
+size 86

@@ -1,1 +1,3 @@
-nebezpečí vystřízlivění deziluze moci vést individuálna resignace cesta
+version https://git-lfs.github.com/spec/v1
+oid sha256:94c8c86233470f126e723a2d864623e31f6fa68a089eaa30d2ae86fd7fe21027
+size 80

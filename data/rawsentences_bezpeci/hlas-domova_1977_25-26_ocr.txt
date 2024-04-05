@@ -1,1 +1,3 @@
- Zbaveni záruk bezpečí čtyř stěn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba4b50cf6ed8269c5c9fcc2cc832df9f9d32b614baf62396267e148e13d4f9d
+size 40

@@ -1,5 +1,3 @@
-zbývat troska myslit jiný nebezpečí obklopovat záchrý hledání cestička zkáza uniknout
-domnívat zapot nít zamknout syn prasknout pojistka doznívat zátek žitka banket uvědom nebezpečí svírat úže
-sovětský propa ganda dařit namalý vata stěna nebezpečí sto veliký ruský lid znepokojit přít hnusný rozplamenit
-nebezpečí hrozit dělník svoboda ného svět
-stát řízený moc samovládný potřebovat myslit vlastní zájem vznikat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded9211488dac467a657503b26bb6acd93f965ba032ceafba73a204fcd0a72d1
+size 593

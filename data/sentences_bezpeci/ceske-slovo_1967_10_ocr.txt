@@ -1,1 +1,3 @@
-javor úcta český slovo verš vybíravý spěch chytat děj dovolovat obrat zprofanovaný próza špatný psát hrdina Pavel Radvan myslit spis vlahý květina ret psát křehký verš Praha květen ssát prvý doušek svoboda bezpečí míra
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cfbf3d09a2664c4b4ae851095fefa6e14a8579a7fe7b38bba738c1bfe5967ce
+size 245

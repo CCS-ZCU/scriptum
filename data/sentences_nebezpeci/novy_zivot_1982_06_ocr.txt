@@ -1,1 +1,3 @@
-režim říkat nepokoj ojedinělý projev mládež svedený západní propaganda prvek přátelský socialistický Polsko uvádějící nebezpečí životní zájem Polsko pokrok stabilizace sociální míra dílo vandal chuligán přiznat počet zakročený vysoký vězení internační tábor přeplnit soud začít pracovat pracující místo propuštěný student škola jít mládež léta řidič vzatý průkaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b31d53f55372959cc226a6d6f1e7b7c5e8f662aaa551f26c5df7fb803f54497
+size 419

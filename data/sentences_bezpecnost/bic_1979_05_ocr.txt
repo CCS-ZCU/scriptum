@@ -1,1 +1,3 @@
-proslulý šéf státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:516a926ea810f78b64c811e9c219d2aa20e62540b59465261c854efb55d55381
+size 37

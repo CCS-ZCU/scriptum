@@ -1,2 +1,3 @@
- Tvůrci snímku navštívili několik koncertů zpěvačky, vypravili se i na její bývalou chalupu, kde Marta Kubišová kultura podepsala Chartu 77 a kde ji sledovala StB, a natáčelo se také v Archivu bezpečnostních složek, kde Marta Kubišová poprvé otevírá svazky, které si na ni Státní bezpečnost vedla.
- V Liberci představili bundu, která svítí a ukazuje změnu směru Technická univerzita v Liberci představila finální verzi bundy, která má zajistit bezpečnost cyklistů na silnicích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0968e0788baf168e7c887f11bf3ee692a45bc0dec3c8d1aa4a728fcef258a8f2
+size 520

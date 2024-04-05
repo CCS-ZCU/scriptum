@@ -1,1 +1,3 @@
-horší Klerkův vláda vysvětlitelný politika posedlost vycházet radikál společenství ANC SACP Cosatu další cena dávat sázka bezpečí přežití Jihoafričan
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b4d1e279426c93cca5b8b2ee0f27f52f1ed42cd4786bd48f49ab902d01af9b5
+size 170

@@ -1,2 +1,3 @@
- Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Co si to troufáte nám vyčítat tam z bezpečí západních dálav, copak se tehdy dalo něco dělat? Mohl se například odepřít podpis na petici, domáhající se popravy Milady Horákové, jakkoliv by ji pak beztoho byli popravili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a445921ac1315c87afdfba24ad1885ff96fbf9bf3663a0a547464608b0a30f31
+size 348

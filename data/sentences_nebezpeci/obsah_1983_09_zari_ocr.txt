@@ -1,1 +1,3 @@
-strana nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:376cb1d7101e48e129e9dbba46dd7e7ed221375c91fc7f6d44346f92cec4e9b0
+size 26

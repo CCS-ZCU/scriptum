@@ -1,1 +1,3 @@
-první otázka televizní pořad kjeho obraz klást drobounký holčička stojící kraj trávník pozadí rýsovat zemětřesení postižený dům jmenovat Helena Japonka léta mít velký strach dům cítit bezpečí třást mnohý vrstevník zahynout
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb1787b389410468f756200895eda0615cb57ca98edfb9a449469f8f699f9c0
+size 254

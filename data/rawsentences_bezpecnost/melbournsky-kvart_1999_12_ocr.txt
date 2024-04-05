@@ -1,1 +1,3 @@
- Přeme se o pravost záznamů Státní bezpečnosti o lidech sledovaných i spolupracujících a ti, kteří ty záznamy dělali, jsou mimo a a v pozadí se vysmívají.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ae36bbe2a5a3e565cf38960117f3c546000f2bff26458fd2d7fcdfc80a68397
+size 171

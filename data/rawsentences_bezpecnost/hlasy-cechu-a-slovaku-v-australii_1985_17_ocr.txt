@@ -1,1 +1,3 @@
- Nikoli prosím jen bezpečnost, ale všecky složky veřejných věcí československých, se dostaly do vlivu a kontroly agen- tů operujících mimo KSC a pře- často i bez vědomí KSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2928f75be5be9176f34fa7c4e2536cef08635826d27596e1d68757ead282f994
+size 192

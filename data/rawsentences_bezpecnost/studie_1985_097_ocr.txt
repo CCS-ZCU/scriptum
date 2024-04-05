@@ -1,2 +1,3 @@
- Ještě větší podiv vzbuzuje, jak mohl znalec pak přesné toto »zboží« odhad- nout, když věcí byly odebrány polskou bezpečností.
- O celou záležitost se začala zajímat bezpečnost a posléze církevní tajemník.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41dad8eb1258d4994fd5a0b4037df43561724b603b1f3dceeff85ad58aaa762e
+size 231

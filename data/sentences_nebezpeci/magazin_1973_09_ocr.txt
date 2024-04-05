@@ -1,6 +1,3 @@
-Ilja nebezpečí pomyslit chodit možný pěšky jít pěší cesta kombinovat autobus podzemní drahý ošklivý nej špinavý odpudivý vidět
-drt bába dovědět kočka hrozit nebezpečí vypláznout stovka
-loď hrozit nebezpečí potopení těžký představit číslo volání pomoc vzrůst vzít úvaha světový moře oceán
-loď nacházející nebezpečí střílet lidé puška zvonit zvon vystřelovat raketa
-rok Berlín svolaný konference zúčastnit námořní mocnost učiněný pokus stanovit jednotný signál nebezpečí
-velký Británie navrhnout signál jet nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7037a1e8902d09b690ef961abe62f444a8743a768319f58ad4f446afb1fb3793
+size 589

@@ -1,6 +1,3 @@
- Příležitost vytvořit s demokratickým Německem takový vztah, který by nám zajistil plnou bezpečnost z této strany, nemusí být stále tak vhodná, jako je dnes.
- Důvodem pro toto řešení má být zajištění strategické bezpečnosti státu a jeho ekonomiky.
- Kupodivu názory, spojující prosperitu a bezpečnost Evropy s co nejrychlejší integrací, jsou od začátku vyvažovány jinými názory, které v podstatě varují před podceňováním existence národních entit pro stabilitu a celkovou úroveň většiny lidí.
- dubna 1950 přepadla komunistická milice a „stráž národní bezpečnosti“ a jako přísně hlídané vězně, za doprovodu pistolí a samopalů, odvážela do neznáma, jen se opakovalo, co už naši dávní spolubratři dávno zažili.
- Více bezpečnosti je i více demokracie.
- Požadovala posunutí sovětsko-finských hranic u Leningradu výměnou za jakousi neobydlenou tundru na severu Karélie, finskou záruku bezpečnosti železniční trati do Murmanská, pronájem ostrova a námořní základny Hanko ve Finském zálivu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f61d3f8b7b3fed933afb37ac2116176099eec1d316b88b88984a9d7eb6167fa3
+size 1089

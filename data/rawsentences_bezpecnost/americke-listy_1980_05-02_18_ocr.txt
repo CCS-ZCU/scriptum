@@ -1,2 +1,3 @@
- Mluvčí, mi- nisterstva zahraničí sdělil, že státní ministr Petr Blaker, který s Černíkem hovořil, mu dal na srozuměnou, že tento případ se může nepříznivě projevit jak v bilaterálních britsko-československých vztazích, tak i pokud jde o výhledy následné konference o bezpečnosti a spolupráci v Evropě, jež se připravuje v Madridě.
- Zejména v otázce zajištění bezpečnosti Izraele, se izraelské veřejné míněni zdá být víceméně jednotné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a412cfadfda587371577d3e3a16f4203a1dac5ed5c402dccfc6c0c8ecfcaddb2
+size 488

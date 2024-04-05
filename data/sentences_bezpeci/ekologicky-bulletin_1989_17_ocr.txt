@@ -1,4 +1,3 @@
-mír mír znamenat svět dávající lidé pocit bezpečí
-naděje bezpečí vázat silný stát zajiětovaný policejní aparát spojovat silný armáda odstraěující potencionální vnější nepřítel
-bezpečí znamenat společnost zbavený život atreaa strach stav stálý ohrožení
-umírající les otrávený potravina chybějící střecha hlava nedostatek tvůrčí práce skýtající uspokojení cenzura kontrolovatelný represivn aparát stát ohrožení dovolovat pocitovat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2a598d0bcdcf41700b7ab89f9d089c7eeb660c938ba543ea97d50c23b058a7
+size 501

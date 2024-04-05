@@ -1,1 +1,3 @@
- Ani jeho kritikové mu však nemohou upřít statečnost, s níž zápasil po 21- srpnu 1968 o uhájení toho, čeho bylo do té doby dosaženo, a především osobní, odvahu, kterou projevil, když v době, kdy mnozí někdejší radikálové dávno utichli, nebo se uchýlili do bezpečí, se na podzim roku 1971 v rozhovoru pro zahraniční tisk znovu přihlásil k myšlenkám Pražského jara a podrobil současný režim ostré kritice, a když o rok později v dopise západoevropským socialistům zdůraznil, že české socialistické hnutí tkvi svými kořeny v západním socialismu a n-e ve východním.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4a603047ce9c2b4497aeef510a4fe1a6ef68f832d1b68645206e537cd8e89f1
+size 618

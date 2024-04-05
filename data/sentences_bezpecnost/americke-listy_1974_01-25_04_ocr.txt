@@ -1,2 +1,3 @@
-průběh úspěch selhání jednání záviset bezpečnost spojený stát atlantický spojenec
-sovětský úředník rušený odpovědný provádět státní bezpečnost základ příkaz politbyro cítit žádat vysvětlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e53215b1a6d80da7a4a335bb7c44444f27d5ee082c6a36c71e8710fdc08ead
+size 225

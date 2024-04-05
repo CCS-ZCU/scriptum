@@ -1,2 +1,3 @@
- EB 50  Česi odkazujú Ľangošovi: Urobte si poriadok doma Česká strana je prekvapená žiadosťou Jána Langoša, aby Česká republika vrátila Slovensku všetky zväzky po bývalej Štátnej bezpečnosti a vojenskej kontrarozviedke, ktoré sa týkajú slovenských občanov.
- „Zostane však ešte stále povinnosť slúžiť v armáde, ak by došlo k ohrozeniu bezpečnosti krajiny," povedal minister.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70c4bf8544260e1134936779733e90c2916bf9ea642c02ad050743195fecc1bb
+size 411

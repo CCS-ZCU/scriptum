@@ -1,1 +1,3 @@
- veřejné bezpečnosti a že se u- prchlíci dosud nepřihlási- li u policie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e133d4ca857a6fa053c9ffe9c5d4e5fcd003cfde8e4630a1267731f662c01d3
+size 80

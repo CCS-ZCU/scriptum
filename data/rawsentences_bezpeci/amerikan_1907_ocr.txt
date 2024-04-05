@@ -1,3 +1,3 @@
- Pfert přiskočil k ní a uchopiv její vyhublé tělo odnášel ji se schodou do bezpečí.
- Úzkost sevřela srdce mladého muže — ale pomyšlení, že nyní, uprostřed tohoto děsného neštěstí, zmatku a zkázy, mohl by snad býti milované dívce prospěšným — nebo ji snad dokonce zachrániti, do bezpečí ji dopraviti, dodávala mu síly, jakou v sobě ještě nikdy necítil.
- Když se konečně dostal v bezpečí, nevěděl, kde jest.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7193c42c84ba8ac556c9ba733a1ebb90e71d28cfd95303b76ccdf3445e426166
+size 457

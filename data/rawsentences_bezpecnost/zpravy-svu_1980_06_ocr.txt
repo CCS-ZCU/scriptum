@@ -1,1 +1,3 @@
- Záštitu nad uměleckými podniky sjezdu převzaly paní Emilie Benešová- Brzezinská, manželka poradce prezidenta Cartera pro otázky bezpečnosti státu, a paní Irena Kirklandová, manželka předsedy americké odborové ústředny AFL-CIO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44fa102dcf377794e03e3b79bd80b6661bb91ec736bcbcbf0c65e97bf694a372
+size 249

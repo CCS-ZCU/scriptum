@@ -1,1 +1,3 @@
-štátnout bezpečnost justícium období období kult osobnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:38766a90fdc1e26ae474a1533d84204b21b92caef4987cf09584cd3c7aeb94ad
+size 64

@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojištovnictví skýtat vysoký možný záruka solidnost bezpečí
-unie svoboda uvádět název kapitola charakterizovat duch program odpovědný občan svobodný společnost řád spravedlnost pocit bezpečí hospodářství služba společnost vzdělání třetí tisíciletí důstojný podmínka odpovědný občan země venkov zemědělství péče životní prostředí energetika svět zahraniční politika vnější bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc512619abbb3c3864e67d8afd36ae95f0af7fd77286b05c0a316b7beffc194
+size 466

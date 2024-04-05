@@ -1,1 +1,3 @@
-obsažený moment jistý nebezpečí mluvit magor interview dělat dělat literatura pátek chášiní zločin chtít svobodný informace páchat zločin
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad8ec0b3ff860a1779b3d21b4b54407dae0df9fdcb74852e5176f85d0ea911d
+size 144

@@ -1,2 +1,3 @@
- Podle údajů z dobře informovaných kruhů, filmovala bezpečnost během návštěvy amerického velvyslance přítomné a poznamenala si také poznávací značky automobilu, které stály u hřbitova.
- Není to poprvé, co pracovníci bezpečnosti hrubým způsobem poruš;:;.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71b0f62cc3d379b73001acab70393fc6fcb1ca74279b7fbb43a4a3c918c178c6
+size 282

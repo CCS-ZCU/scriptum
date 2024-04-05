@@ -1,1 +1,3 @@
- Svědkové nejpovolanější, oba první presidenti Československé republiky, oba sokolové, dosvědčují, že Sokol měl nesmírné zásluhy o probuzení národa k odporu proti Rakousko-uherské říši, že to byl Sokol, který vytvořil a vedl sibiřskou anabasi a že to byl Sokol, který se nezištně a obětavě ujal vedení a vzal na sebe péči o bezpečnost a obranu nového státu* umožnil nekrvavý převrat a tak zabránil nesmírným škodám během těchto osudných dní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f81c783c5b6ee868c6fa465e4917f8eb6dfb64ab57e30c100dde45a7f3a2e3
+size 493

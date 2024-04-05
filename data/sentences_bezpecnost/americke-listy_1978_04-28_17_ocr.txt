@@ -1,1 +1,3 @@
-mluvit osoba odsouzený ohrožovat vnitřní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b096bf7d6b6bdd816d3f2a250967b51012216cfae9a7af33f09359eba78c8c5
+size 57

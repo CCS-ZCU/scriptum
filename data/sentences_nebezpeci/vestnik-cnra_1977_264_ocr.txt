@@ -1,2 +1,3 @@
-březen předvečer návštěva Cyrus Vance Gromyko ohražovat nařčení sovětský nebezpečí hromadění lež západ zabezpečování lidský právo sledovat určitý cíl zdravý mezinárodní ovzduší moci prosadit taktika konfrontace další válečný zbrojení pravit Gromyko
-psaný měsíčník informovat událost Československo nebezpečí světový komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:e659f76df2a6dd11a9904700c238399103d8fa1e5012a338978a97b6f702d3d5
+size 375

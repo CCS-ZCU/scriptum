@@ -1,2 +1,3 @@
- Uvážil Jimmy Carter skutečně hrozný účinek, jaký by mělo oslabené NATO na bezpečnost a morálku protikomunistických sil ve všech zemích - a zvláště na statečné, svobodymilovné lidi východní Evropy? President Ford to uvážii.
- Ponechte zkušeného presidenta pracovat pro americký mír a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d84395858416bd7116ac9791f047593d6653a6b28f8bbc614c35c4dfbcb1daf
+size 325

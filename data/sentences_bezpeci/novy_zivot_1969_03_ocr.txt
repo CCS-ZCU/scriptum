@@ -1,1 +1,3 @@
-ideál klid bezpečí osobní bohatství blahobyt smysl kapsa zakotvení vysoký řád hodnota moci dát dnímůcký noc život smatý ret pevný kladný smysl směr
+version https://git-lfs.github.com/spec/v1
+oid sha256:50023a4c6bd9af2770bd1a7c3b1aebac3e3f91524e6f51678075c7267cc182a8
+size 166

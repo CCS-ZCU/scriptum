@@ -1,2 +1,3 @@
-svíze nebezpečí vědět scházet cvičba trpělivost vidět dopis psaný loreta zámoří jet Ancona Terst loď Víd
-podařit perestrojka nebezpečí světový mír žádat západ pomáhat reformní politika
+version https://git-lfs.github.com/spec/v1
+oid sha256:94246c0481a2066ebb6960f9bbb5af8894313934d4fdc23edb0a8a1c216a444e
+size 215

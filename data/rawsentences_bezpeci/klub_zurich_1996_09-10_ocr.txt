@@ -1,4 +1,3 @@
-Terezy má 4 0 0 0 sester v 120 zedítě musí mít POCIT BEZPEČÍ! ¡Pocit bezpečí a jistoty je u dítěte a mladého :člověka zvlášť, důležitý.
- K tento potřebám patří také pocit jistoty a bezpečí.
- ¡A přece nebude mít pocit bezpečí a jistoty.
- Jistě dítě nemá poučit bezpečí a jistoty tak, že by tyto pocity rozebíralo a uvědomovalo si je rozumem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:368903012bd2b5946eebe600614e99e875357915b34996dc9a79901c2aeb7ffc
+size 384

@@ -1,4 +1,3 @@
- Kde by byla vedouc! role strany? Ale občanská práva jsou i ve východoevropských režimech navíc proklamována v ustátě, což si po Helsinkách občané živě uvědomili, a navíc jsou součástí a podmínkou evropské bezpečnosti.
- Take Státní bezpečnost obsadili z části svými lidmi.
- Strážce bezpečnosti však klepu nevěnoval pozornost a ubíral se dále.
- pojistné doby ani po nabytí německého občanství ( a ti starší jen výjimečně), pochopit, že osobní a majetková bezpečnost se nedá získat dodatečně, když je již pozdě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a963a3a7b5c324ab53a14629a768957a27648346d1db05ce7a31ab55495f259
+size 569

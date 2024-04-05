@@ -1,1 +1,3 @@
-Československo platit velký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:061a85bbfce56aa789b7850fd32a022d64ac01bb25097f1d18dc9e1ee50991d8
+size 35

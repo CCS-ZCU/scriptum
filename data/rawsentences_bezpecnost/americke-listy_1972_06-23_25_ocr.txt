@@ -1,1 +1,3 @@
- A — velmi svéráznou: sovětská bezpečnost si předvolává jednotlivé “disidenty" a postaví je před volbu buď si zažádat o možnost vycestování (bez možnosti návratu), nebo se smířit s neurčitou dobou pobytu v pracovních táborech na Sibiři.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f75d8b1285a5e35f075cd045067605b2d7062572ad62914b09d808f9a2202b
+size 266

@@ -1,4 +1,3 @@
-pán Československo mít seismograf mezinárodní nebezpečí
-srpnový agrese posunout hranice nebezpečí světový mír sel kilometr směr západ
-nedbajíc nebezpečí hrozit
-hrozit nebezpečí považovaný kontrarevolucionář moci dojít tragedie
+version https://git-lfs.github.com/spec/v1
+oid sha256:56b4f25cea3a252a2972698c0b043ee75ba817e0c4ab2ba40ad564f7a36bd7e4
+size 252

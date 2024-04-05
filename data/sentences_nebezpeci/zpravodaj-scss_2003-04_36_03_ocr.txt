@@ -1,1 +1,3 @@
-otázka zdroj velký nebezpečí světový mír týdeník obdržet Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:40aff5d88b058c760208942dff1e2f96ff8f71d1392138962c2e70ee02e54c77
+size 74

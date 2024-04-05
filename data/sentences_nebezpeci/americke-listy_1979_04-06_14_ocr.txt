@@ -1,1 +1,3 @@
-zaostalý archaický Afghánistán Taraki moc rok velký nebezpečí islámský tradicionalista zmohutní
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad6bc8eb56501f3e0a126cbf6c23f23d05b40b8efed4a9842a5ac8c253a7a03
+size 106

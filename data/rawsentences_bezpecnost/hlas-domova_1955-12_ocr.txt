@@ -1,1 +1,3 @@
- — Bývalý ministr státní bezpečnosti Ladislav Kopřiva je teď prvním náměstkem ministra místního hospodářství.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03e207e93a14b3efd73df5636113a1b950643d015c15a54362241a3a22606738
+size 127

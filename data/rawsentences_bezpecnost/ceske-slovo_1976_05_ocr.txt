@@ -1,2 +1,3 @@
- Jeden z prvých pořadů stanice se nazýval „My to víme" (později „Vzkazy domovu“), ve kterém Svobodná Evropa pranýřovala ty příslušníky Státní bezpečnosti, vězeňské a pohraniční stráže a jejich pomahače, kteří se k čs.
- Podle mého názoru zase to není nic nového: Už president Beneš vzal na vědomí novou evropskou realitu po pádu Německa, totiž skutečnost, že sousedě Sovětského svazu nemají jiné možnosti než se Sověty spolupracovat, a budoval na logickém předpokladu, že v zájmu bezpečnosti Ruska bude lépe, když tato spolupráce nebude podmíněna povinným obdivem komunismu, nýbrž dobrovolnými přirozenými přátelskými vztahy (organic union?).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2e2c67884d4cd10cbaa08866be5bdecab2c3dedbda488099f7063f4a016ac3
+size 716

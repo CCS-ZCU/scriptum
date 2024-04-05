@@ -1,1 +1,3 @@
-tušit slabý komunistický režim nebezpečí krvavý konflikt moci zdát reálný
+version https://git-lfs.github.com/spec/v1
+oid sha256:8570490c820f0ff92196d379782218bdae7a629e60b3cd64238e11af7a98a236
+size 84

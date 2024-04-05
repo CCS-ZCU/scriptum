@@ -1,3 +1,3 @@
-vlast celý svět nebezpečí lidé komunismus morální zlo podvod smyslný utopie
-odpovězit odejít exil
-nebezpečí hodnota duchovní křestanský kultura svoboda důstojnost člověk obrana hodnota stát boj
+version https://git-lfs.github.com/spec/v1
+oid sha256:5837100ab0a86a54c8a6ae97352c6a31ff10db77fda5d7aacfccdb3107e6fe6d
+size 213

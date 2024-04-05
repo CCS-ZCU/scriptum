@@ -1,2 +1,3 @@
-moci víra obstát nebezpečí
-patřit nebezpečí pohoršení Písmé říkat uvést blud možný vyvolený
+version https://git-lfs.github.com/spec/v1
+oid sha256:79917e68a88d3309a50a6699aafba83018d5f35de6e31cb36278f825568f8368
+size 109

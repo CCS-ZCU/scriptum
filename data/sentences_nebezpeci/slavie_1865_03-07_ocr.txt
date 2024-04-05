@@ -1,2 +1,3 @@
-Lee rád odeslat část armáda pomoc Sherman něhožto hrozit rebel nebezpečí Grant hledět spů soba překazit Sherman projít severní
-celý svět mít vláda prostřed nebezpečí nastupovat mít dlouhý trvání čekat truchlivý konec
+version https://git-lfs.github.com/spec/v1
+oid sha256:130c53485a5ed27733cb222071246fe23ba15d070cfa5d9ac7085a860f6e7589
+size 231

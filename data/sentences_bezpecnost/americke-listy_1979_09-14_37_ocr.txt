@@ -1,2 +1,3 @@
-rakouský orgán mít pohledávat zodpovědný bezpečnost
-starost bezpečnost pozůstávat pravidelný obchůzek plot svědčit bezpečnostní opatření den otevření cizinec považovat bezpečnostní risiko vykázaný přechodný nucený pobyt bezpečný vzdálenost rakouský hlavní město oznámit rakouský ministerstvo vnitro
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5da5a3b5878ebc57454bce49668658916fddc20d5dc93f7e4ef48fd76f095a
+size 335

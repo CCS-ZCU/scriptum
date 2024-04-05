@@ -1,6 +1,3 @@
- ného vězně Pavla Wonky konferenci o bezpečnosti a spolupráci v Evropě a esej o právní kultuře.
- Ty odstranily dosavadní Národní frontu; provedly očistu všech orgánů moci tak, aby zajistily, že budou poslouchat komunisty, zamezily demisujícím ministrům přístup do úřadu; pod jejich údery a zásahy bezpečnosti se rozpadaly nekomunistické strany, jejichž vedení přebraly tzv.
- V ocelárnách u Krakova v Nowé Huti, kde nejdřív stávkovalo 700 lidí a pak kolem 5 tisíc, byla situace mnohem vážnější, nebot dělníci hovořili nejen o penězích, ale také o nezávislých odborech, které budou hájit jejich zájmy, o dělnických právech, o bezpečnosti práce, o nedostatku vyhlídek do budoucna atd.
- Církevní hodnostáři v jednáních s ministrem vnitra zajišťovali bezpečnost dělníků.
- Námětem je vražda katolického kněze Jerzyho Popieluszka, kterého příslušníci polské státní bezpečnosti unesli, utýrali k smrti a hodili do kanálu.
- Delegát, který měl na starosti bezpečnost a byl z Peru mi sdělil, že lituje, ale že mi nemůže pomoci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa3cf0b4e13c75abd3a6685b3473938a791fff30615a24beff4be90664c6d27
+size 1115

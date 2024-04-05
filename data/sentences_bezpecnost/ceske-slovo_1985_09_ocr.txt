@@ -1,2 +1,3 @@
-bezpečnost dopustit hrubý chyba
-srpen zadržený spisovatel Václav Havel Ladislav Lis státní bezpečnost hledat prohlášení charta sedmnáctý výročí okupace Československo sovětský vojsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5ca1e784f6c402a0053323aed81277daaa1262318cd99b3feaf04e2a09ecf5b
+size 202

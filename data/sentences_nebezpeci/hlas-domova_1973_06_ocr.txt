@@ -1,2 +1,3 @@
-přidat hospodářský ohled důvod politický nervosita sovětský svaz vyvolávat žlutý nebezpečí nutící zabezpečit evropský záda překvapit příjemný tvář sovět snažit poslední doba stavět odiv
-zavázat vyrobit vnuk vlna zakoupený Tuzex bon poslat bratr západ postřehnout nebezpečí plynoucí soudruh návrh Fritz Loli
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1cc7793c47c99b1286933337bf4b257a0aea605e5efb18f363507aa73643354
+size 343

@@ -1,4 +1,3 @@
-Žid sloučení řecký myšlení zrada
-chtít zlehčovat problém nebezpečí plynout křesťanský myšlení řecký sklon rozumový uvažování smíšení náboženství politika
-říkat Hegel světový duch mít čas vykonat předsevzít mít strach nebezpečí komplikace vystavovat průběh vývoj dějiny
-Driesch český čtenář představovat působivý synteze dílo Teilhard Chardin neu sledovat duchovní vření srovnat studie narušený dialog svět kněz teolog vědomý odpovědnost víra boží lid odhadovat možnost žít víra víra dnešní svět zorňovat nebezpečí hrozit rozpracovávat personální rozměr křesťan ský filosofie vycházej personalismus Maritainův libnerův
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d5477f779a5f0be1ab541744794a7070181c7f01260f43afa0022860c881f6
+size 703

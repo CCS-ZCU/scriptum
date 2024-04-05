@@ -1,5 +1,3 @@
- A pak jsou tu lidé z AVO - madarské státní bezpečnosti, kteří si vysloužili spolu s Rákosím a jeho nástupcem Gerbm největší nená - vist maďarského lidu.
- Zatím co se radí ÚV jsou již v plné pohotovosti orgány sovětské státní bezpečnosti.
- Prvé tři dny byl zajatcem v budově ÚV hlídaným příslušníky AVO i sovětské bezpečnosti.
-listopadu - Rada bezpečnosti varuje SSSR před intervencí.
- Mnohem později vyšlo najevo, že Imre Nagy s ostatními byl v Rumunsku zlikvidován zvláštním komandem madarské bezpečnosti'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d65e12c39fcbe518a7133ec31dec2e4b09e335a6d9e33e1499beda3410a6fd
+size 563

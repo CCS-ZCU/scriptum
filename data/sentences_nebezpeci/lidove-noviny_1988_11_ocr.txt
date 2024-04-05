@@ -1,1 +1,3 @@
-jít pasáž hovořící pravicový síla KSČ hlavní nebezpečí zveličení role antisocialý stický síla průběh pražský jaro
+version https://git-lfs.github.com/spec/v1
+oid sha256:d59c69766d335f3e3dfe02b8984140ef2702c1b79207139647fb490fc7f28b8c
+size 133

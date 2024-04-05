@@ -1,1 +1,3 @@
- Dychtivě se vyptávali, jsou-li opravdu už v bezpečí a kam se mají hlásit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ede2971d4f00dad243bd229e10add6bfd5bc63bebe92f3bf89b44f72c0a34692
+size 82

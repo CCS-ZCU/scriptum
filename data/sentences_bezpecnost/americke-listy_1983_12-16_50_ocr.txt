@@ -1,1 +1,3 @@
-státní bezpečnost mít dělat
+version https://git-lfs.github.com/spec/v1
+oid sha256:239dc16fc8cb73875c81a71a1302b9d2a74e48b091957a91153efd641b1b13d1
+size 33

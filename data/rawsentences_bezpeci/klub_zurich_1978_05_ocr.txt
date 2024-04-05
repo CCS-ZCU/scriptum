@@ -1,1 +1,3 @@
- A přece tolik štěstí se za tím slovem skrývá, tolik pohledů krásných, čistých očí, tolik slov, tolik drobných krůčků končí v bezpečí u maminky od těch prvních, nesmělých, až po ty odvážné životní kroky, při kterých nesmí maminka chybět.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f66667713081beacf86b3d6bba4488393c05991405f0cebae81818b3fee91f
+size 274

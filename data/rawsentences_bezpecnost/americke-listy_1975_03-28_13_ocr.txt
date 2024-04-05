@@ -1,4 +1,3 @@
- PODIVNÝ HOST Britský ministr vnitra Roy Jenkins informoval Dolní sněmovnu, že vláda se rozhodla vydat návštěvní visum členovi politbyra sovětské komunistické strany, bývalému šéfu sovětské státní bezpečnosti a nynějšímu vedoucímu funkcionáři sovětských odborů Alexandru Šeljepino- vi.
- Jenkins připomněl, že roku 1956 doslal britské návštěvní visum také tehdejší šéf sovětské státní bezpečnosti Ivan Sě- rov, který doprovázel na cestě do Velké Británie Chruš- čova a Malenkova a že mu je tehdy vydala vláda konser- vativní.
- Země Varšavské smlouvy i jiné národy chtějí, aby práce konference o bezpečnosti a spolupráci v Evropě byla uzavřena na nejvyšší úrovni v nadcházejících měsících — řekl sovětský vůdce a dodal, že velkou odpovědnost berou na sebe ti, kdo se zatvrzele snaží překážet co nejrychlejšímu ukončení konference.
- Připomeňme, že nejvyšší představitelé devíti států Evropského společenství, kteří se nedávno sešli v Dublinu, prohlásili v závěrečném komuniké, že určité významné otázky v souvislosti s bezpečností a spoluprací v Evropě musí být urovnány, než bude možno svolat závěrečné zasedáni 35t; států na nejvyšší úrovni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8587a98ab15ed4469ec2bfc6751eb1c2d46cd9bff8bf2f0f154ea5719361756
+size 1292

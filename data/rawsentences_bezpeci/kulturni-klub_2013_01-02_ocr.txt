@@ -1,1 +1,3 @@
- Ve sněhové vánici jej našel bezvládného a pokusil se ho odnést na zádech do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ebcc9c662969113c0d71061b882ebeb344c7fa83cef7990f094617aa7a0ad94
+size 96

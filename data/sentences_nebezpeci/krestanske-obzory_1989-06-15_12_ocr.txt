@@ -1,1 +1,3 @@
-práce závislý zedničithus u~kterě hrozit nebezpečí mztít protáhnout neděle
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1c64190184e13d3f92b73cad9a2c000e2cf41bd3432aea6a33243e7900e1c7
+size 85

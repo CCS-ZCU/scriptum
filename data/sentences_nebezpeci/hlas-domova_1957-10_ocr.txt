@@ -1,2 +1,3 @@
-otázka zůstávat možný trvý existence slátý ného Jordán rád vít opak zdát pravděpodobný nebezpečí dobro zažehnaný
-dělník neko munista vysazený nebezpečí pracovní perse kuk výluka
+version https://git-lfs.github.com/spec/v1
+oid sha256:4654b2ecbcab8977b14c8b3d6012cbd7f8bccb821d9411131a39d69a4ace1f1e
+size 389

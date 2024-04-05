@@ -1,1 +1,3 @@
- Dochází k paradoxnímu jevu: při pohledu na defilující rakety se v divákovi nerodí pocit bezpečí, ale vzmáhá se v něm naopak stále silnější pocit nebezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b613f0eab5277c42fca8b696226e03ddc5a98cfafeb41d6e8ee71da48261a5
+size 176

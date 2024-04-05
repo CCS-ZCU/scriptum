@@ -1,1 +1,3 @@
-existovat havajský firma Bonda Compo obchodující flóra argentinský zásilkový služba květinový francouzský společnost Rosé Roúen vídeňský Arnold Myschet schek list dočíst fanatický zloděj flóra
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad365aae3b8395c03ac8c75276b9b60d67cf5aefce4818928ff1779185764a6e
+size 214

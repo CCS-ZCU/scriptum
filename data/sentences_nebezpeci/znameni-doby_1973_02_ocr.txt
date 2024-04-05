@@ -1,7 +1,3 @@
-tkvět nebezpečí ďábelský zneužití
-pochopit ariatotelovsko toaistický etika pový
-vysvětlovat udivující způsobilost většina lidé preventivní jednání domnívat soucit nebezpečí minout tupost cizí utrpení soucit vyvíjet rostoucí strach hrozivý blízkost pohroma
-Kristus chtít křesťan znamenat šíře Kristův srdce muset podílet odpovědný čin svobodný chápat chvíle vzdorovat nebezpečí pravý soucit prýštit strach osvobodivý vykupující láska Kristův trpící
-smrt heroisovat život velký drahý zpěčovat vidět smysl život nebezpečí zoufalý vinout ohrožení smrt životní statek znát strach život ostatní ničivý účinek trvalý ohrožení
-moci dojít muset úkon viděný uznaný podstatný hrozit nebezpečí řečený odbytý vyuměIkováný založení individualis tický racionální vázaný zvyk
-charaktérisovát postoj očekávat jiný vystupovat zabrat vlastní Mun ocitnout bouře nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ed8be2cb56e16c32b3d4112552d54b886c1c4d67b500b165ff1555c1a6aa6b
+size 955

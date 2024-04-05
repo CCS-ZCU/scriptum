@@ -1,5 +1,3 @@
-doživotí Musar Cerdar Celebi dávat splátka Omar Baggi Akž opatřit revolver Bulhar Antonov
-vydržet bezpečí Kundera divit vydržet ustat ohromný mnohohlas volání záruka věčný skeptický pramen konstruktivní nedůvěra konstruktivní spokojenost neustálý pochybovačství trvalý snaha zásadní sentimentální postoj zabraňovat další možný ústupek
-vzpomenout rodina bezpečí sníst starý sýr chvíle sebrat německý zásoba vybavit říkat salónní obrázek chlapec vídat namalovaný daleký veřejný záchodek
-list strom tráva zelený květ strom luka rozsvítit barva lehký ranní vánka proběhnout celý krajina rozbzučet hmyz začít vonět nastat den sen pominout tíseň odpl svět vrátit jas radost bezpečí
-mít pocit domov bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e30c08f9dcdafcdc5a3e45ea7358eb53314eb85c12981eb5a1b13b39e30bdb9
+size 784

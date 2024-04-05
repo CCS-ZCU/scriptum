@@ -1,7 +1,3 @@
- Měla zřejmě stejný strach jako já: že každou chvíli přijde někdo ze všudypřítomné československé Bezpečnosti a zatkne mě.
- Kdy ke zbití v místnostech hlavního stanu československé státní bezpečnosti stačí být zatčen a nemít u sebe nic než občanský průkaz.
- Několikačlenná skupina Státní bezpečnosti vnikla do bytů všech nejznámějších aktivistů hnutí za lidská práva.
- Celkovým stylem to připomíná velkou razii Státní bezpečnosti, která předcházela politickým procesům v roce 1972 nebo tzv.
- Dr Kašpar proslul nejen řízením všech politických procesů u pražského Městského soudu, ale navíc jako snaživý fízl a fungující pracovník Státní bezpečnosti.
- Zástupce KSČ v Národním divadle a předsunutá pěst Státní bezpečnosti takyherec Šavrda, zvaný »Ticho (j)de Šavrda«, podal návrh, aby byl Karel Höger vyloučen z KSČ.
- A my tam v těch scénách, jak chocholatí spolu s čet- níky honí pobudy po celém okrese, děláme z ramen bezpečnosti trochu pouťové šašky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:099e5da2099d019b7d45389fd2e1960bc70edf6224e2512892c2fcb3b19a49c5
+size 1069

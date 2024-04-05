@@ -1,3 +1,3 @@
- Jiná věc však je , z a d rž í-li mne Bezpečnost při pietním aktu na památku čínských studentů.
- Zbývá jen otázka, zda budeme opět státem, který se sice k myšlenkám Konference o evropské bezpečnosti a spolupráci hlásí, ale yc své politické a legislativní praxi je popírá, či zda této historické šance využijeme.
- d l Bezpečnost, kterou jsme vytvořili, aby chránila socialistický pořádek proti vykořisfovatelským třídám, je teči obrácena proti pracujícím dožadujícím se svých práv, proti některým starým členům komunistické strany a čestným příslušníkům inteligence, kteří využívají svých práv garantovaných ústavou, jako je právo petiční (čl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2602f4534bfd8b1e1dc0910025e20a068fe3311651b9a1b5ceb8b85b23520863
+size 725

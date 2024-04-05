@@ -1,2 +1,3 @@
-Hrabánek město stěžovat práce komise práce celý slavnostní plena tamta jevit liknavý pracující nebezpečí prodlení
-rád práce začínat prosakovat řada publikum přát úspěch realisace usnesení komise mít práce vznikat nebezpečí prodlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:1edb88f0be294ac2da62d0641fb7cb819bcd0e15581105835bc424039a939aa7
+size 261

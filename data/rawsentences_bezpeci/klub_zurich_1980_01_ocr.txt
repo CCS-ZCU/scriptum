@@ -1,1 +1,3 @@
- Chtěl, aby matka Páně byla v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc59c13fd02a2169ef8d0251a2ba9a87aaa9328fdc9e52335f7af2802c42cc1c
+size 44

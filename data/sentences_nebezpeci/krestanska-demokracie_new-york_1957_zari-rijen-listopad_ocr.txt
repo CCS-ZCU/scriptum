@@ -1,1 +1,3 @@
-široký masa lidový stačit chléb hra spatřit hrozící nebezpečí úspěšný obrana
+version https://git-lfs.github.com/spec/v1
+oid sha256:e063d87fd240c55808c36403c9a4a428475c175da15f62351a824a2a40c46763
+size 91

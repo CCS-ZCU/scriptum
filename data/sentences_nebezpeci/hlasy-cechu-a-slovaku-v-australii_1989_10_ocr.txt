@@ -1,2 +1,3 @@
-Panečka zavést Austrálie problém mít vláda poplatnický peníze věnovat syd neyský festival teplouš odporovat lidskost doktor odmítnout položit nakažený AIDS společný místnost zdravý pacient vystavit smrtelný nebezpečí
-vážný nebezpečí veřejný podpora liberál odlákat nejeden volič
+version https://git-lfs.github.com/spec/v1
+oid sha256:95cab706c94f2f3a7c1ff1979b250ebabe21129c090cb8990de8912b03cd38ba
+size 310

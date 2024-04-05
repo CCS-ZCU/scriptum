@@ -1,2 +1,3 @@
-hrozit jiný nebezpečí
-zbrojní úsilí stát převládat extrémistický hnutí mít dostatek finanční prostředek nákup modemý jaderný zbraň řada desetiletí znamenat velký nebezpečí svobodný svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79b51b358a6342484d818524916f92eefe9b5683600cfe0fcb82ef4f2b75c2d
+size 213

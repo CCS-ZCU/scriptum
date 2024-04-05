@@ -1,1 +1,3 @@
-bezpečnost Indie hrožený postup indický armáda oprávněný soulad zájem pokrokový lidstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:58fe1fde3f4705b407b8df1d498ad7f7ddeb1ea1088df968d25a14ebfa91d111
+size 99

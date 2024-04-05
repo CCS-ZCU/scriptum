@@ -1,1 +1,3 @@
-část věnovaný Evropa representant kontinentální Čína pravit navrhovaný konference evropský bezpečnost mít nazývat konference nedostatek bezpečnost Evropa snaha lidé různý taktika pokoušet zastřít skutečnost mír bezpečnost Evropa ohrožovaný snažit vytvořit klamný dojem Evropa nastávat uvolnění západní fronta klid dosáhnout konečný cíl
+version https://git-lfs.github.com/spec/v1
+oid sha256:057849bc85e5987744ae805312b28e3d97a14198e5a20980768f5b513504db4e
+size 373

@@ -1,1 +1,3 @@
-zřejmý lidé strana železný opona uvědomovat míra vděčit dnešní relativní bezpečnost odpor obyvatelstvo sovětský blok
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbb6f949d99a4624e2eb333f1c82be1263a2fb64c9d53673ea753c83033cca86
+size 132

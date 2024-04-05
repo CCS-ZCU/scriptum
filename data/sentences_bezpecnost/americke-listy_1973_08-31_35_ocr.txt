@@ -1,1 +1,3 @@
-mluvit hledat bezpečnost malý národ postavený kolos vypěstovat filosofie uchvatitelsiví
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbb04ac5433210acab2a075dc33a77f08957be7b3accb6d9fa712959c80261c7
+size 94

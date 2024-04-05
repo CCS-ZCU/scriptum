@@ -1,1 +1,3 @@
-Václav Havel hovořit obecný situace Československo stoupající napětí země nebezpečí konfrontace státní moc pokoušet vyvolat
+version https://git-lfs.github.com/spec/v1
+oid sha256:548c703d7514c03d88c537de69da254700e7cee8482daa89d895605a382744f1
+size 138

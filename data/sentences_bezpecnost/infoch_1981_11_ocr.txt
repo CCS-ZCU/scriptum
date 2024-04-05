@@ -1,1 +1,3 @@
-téchtý skutečaoat věřit toíat bezpečnost chránit zájem občan stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50a4307dd5f06d6e9961536e83de270cd18d8ccb603b43de17a4e8e05a6487f
+size 77

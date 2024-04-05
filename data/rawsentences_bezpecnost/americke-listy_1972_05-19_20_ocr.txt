@@ -1,1 +1,3 @@
- Američané českého a slovenského původu jsou přesvědčím, že žádného zmírnění napětí nemůže být dosaženo, ani žádné nové uspořádání bezpečnosti v Evropě nemůže být účinným, an ž by mu předcházelo trvalé stažení sovětských vojsk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c290b59f2621a6014df9bd5989858ebc22121aca81c3606a57bb1485209b22
+size 275

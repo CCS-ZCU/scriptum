@@ -1,1 +1,3 @@
-admine strativeň oddělení armáda bezpečnost justice veřejný oznámit červenec rok výhrada varšavský smlouva
+version https://git-lfs.github.com/spec/v1
+oid sha256:36a3ee307d1931fb46626792ee57330bebbe0b4324d0d03ea9a4953bb94738e6
+size 118

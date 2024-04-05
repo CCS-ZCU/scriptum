@@ -1,1 +1,3 @@
-případ hrozit nebezpečí závist
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a161a9490953af15d323c480297e9f5dbd5da55a5e027b6404856461fdac3fe
+size 36

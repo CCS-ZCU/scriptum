@@ -1,4 +1,3 @@
- Ministr má dobré důvody pro své antipatie, neboť Kavan nezískal bezpečnostní prověrku pro svou estébáckou minulost a má za sebou řadu afér: vzpomeňme jen v opilosti nabouraná auta, mírový návrh, sepsaný spolu s řeckým kolegou v Pekingu (!!), co Rada bezpečnosti OSN smetla se stolu, vyzrazení iráckého teroristy v Praze, z něhož se vyklubal britský agent, našeptávací úloha v aféře Stiřín, podvodný pronájem Českého domu v Moskvě, co přehrál na dnes již slavného lotra Karla Srbu, záhadné peníze v ministerském tresoru, důležité dokumenty, určené ke skartaci, povalující se po celém ministerstvu a jiné různé, na př.
- Tehdy byl bývalý zástupce velitele vyšetřovacího oddělení Státní bezpečnosti v Uherském Hradišti obžalován.
- Výši trestu jim podstrkovala Státní bezpečnost na základě rozhodnutí bezpečnostních komisí KSČ.
-), kde byly dříve archivy Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ab8a50431d23858688c3d990749e87a646508b2f3fbb3cd29f59d580349e5a2
+size 964

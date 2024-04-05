@@ -1,5 +1,3 @@
-N O V Ž V T obsah B Tibet porážka vítězství ČEP velký katolický CENA BOSC psychologický příčina válek Mrštíková MÁJ Habrův CE Armbruster ÚKOL P Marie církve Petr TRI Ústupa SLÁ Heidler eucharistický život Bernat mít dělat
-DaněK sociální apoštolát svět podnikatel
-středa fiÍM Čech Souzený den sborník sklizně O církev komunismus Rozhleda poznámka lepší svět stát exil svět dopis dotaza
-odpovědě
-ročník XI Řím Věten
+version https://git-lfs.github.com/spec/v1
+oid sha256:11cd4cdf42e279ac495793b554be0718dfae3fef164e4eccce2256cf7913d8d4
+size 467

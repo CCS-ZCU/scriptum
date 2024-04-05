@@ -1,2 +1,3 @@
-vysvětlení odepřít osoba blít kilometr moci způsobit nebezpečí trestní stíhání
-běžný praxe odepření podat vysvětlení způsobovat nebezpečí trestní stíhání uvedený trestný čin
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd2a740bdeb2fb6658dcd84cee8bb2b72cf5bd350613a65d69a7c633b064647
+size 197

@@ -1,1 +1,3 @@
-osmý strana nár den litr šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad635dccc7f42d293400949d656a226e3ffce3b2c265ee74b607e846d575f38d
+size 64

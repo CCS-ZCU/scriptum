@@ -1,3 +1,3 @@
-, že pozitivní efekt, který Treholtova aféra má, anebo by měla mít,je to, že veřejnost si uvědomí, že existují agenti, kteří svým vlivem se snaží ovlivnit vlády svých zemí a další důležité osobnosti, aby učinily rozhodnutí, která slouží Sovětům a jsou v rozporu s bezpečností vlastních zemí.
- Palmeho pro jeho "konstruktivní a realistický pohled na doktrínu o společné bezpečnosti".
- Doktrína o "společné bezpečnosti" silně připomíná "společnou bezpečnost" ŠSSR a Afganistánu se SSSR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff8368a17e585c7746a86234efb06c2378d2063c22369d4791dce787795e7b2
+size 540

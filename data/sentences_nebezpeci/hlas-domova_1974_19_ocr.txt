@@ -1,4 +1,3 @@
-nebezpečí pád anglosaský demokracie myslitelný
-člověk vědět moci jet lak tramvaj dostat koupit mléko moci banka vyzvednout úspora síenit postižený joukazovat nebezpečí starat fotbal politický dění ochotný lát hlas ďáblo slíbit íodlný život
-léta Austrálie vládnout liberál ekonomie vzkvétat nebezpečí komunismus zdát ibsurdní
-Baku kaspický moře zavřený vysílačka létající kostlivec parazita černý kočka obvinění znemožnit vysílání letadlo nebezpečí moci zavolat lékař
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d13157bbc6cacb1d9949e6a7ddb42055fcc17e12ce9a387df22604861fb159b
+size 527

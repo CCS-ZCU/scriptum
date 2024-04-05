@@ -1,2 +1,3 @@
-oběť ukazovat celý svobodný svět nebezpečí nový isma hrozit srazit lidstvo starověký otroctví nový koncentrační tábor středověký muěírcna potěšení nový César
-Svoboda nebezpečí volat lidé dobrý vůle
+version https://git-lfs.github.com/spec/v1
+oid sha256:90aff8ce65a90f50dd9b08575e67a3ea8ce8804a3da390c555003481e1e23a75
+size 228

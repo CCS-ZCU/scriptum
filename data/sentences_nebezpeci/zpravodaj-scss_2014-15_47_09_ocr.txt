@@ -1,1 +1,3 @@
-uslyšet cinkání klíč Letná ozvat hloupý heslo ráz pochopit nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fed1506feb50b6095af786582b455867e6c344d1cf37f72649f744c2f580a33
+size 86

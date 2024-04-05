@@ -1,2 +1,3 @@
- A zároveň i nadějný pozdrav z prostoru, kde za posledních 40 let kombinace nemyšlení a zbabělosti zaručovala občanům bezpečnost života a kariéry.
-bezpečnost rozhodně zasáhla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d00e06b78ad5a4aea7587b1a3144f5fb89187ca032193382129971b8d73664b9
+size 193

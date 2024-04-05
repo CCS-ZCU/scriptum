@@ -1,2 +1,3 @@
-hrozit nebezpečí
-varšavský bonský pražský dohoda spatřovat mezník dějiny lidstvo jasný tajit Kreml příkaz satelitní odnož krýt záda nebezpečí modrý mravenec předseda Maa pominout aktuální doba incident řeka Ussuri
+version https://git-lfs.github.com/spec/v1
+oid sha256:a67b6c427297af1ab2f80c572d45d644e18bec96c5b7623384d46332db37ea96
+size 238

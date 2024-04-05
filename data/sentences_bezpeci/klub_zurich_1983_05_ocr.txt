@@ -1,2 +1,3 @@
-rád starat trocha láska bezpečí
-začít žena vyprávět zklamání bolest zakrytý úsměv zdvořilost tajný touha bezpečí úcta manželství
+version https://git-lfs.github.com/spec/v1
+oid sha256:db886ec5471564cd72517202be75b758693c6040fd16ac781306fb864c00ce99
+size 150

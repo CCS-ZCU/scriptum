@@ -1,1 +1,3 @@
-monografie výtvarný umělec první vytvořit ekologický memento upozornit dílo nebezpečí zánik život
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd0d7d39dd2129bfb86a45c9d4d46eba4e72cd673884553995515c63e00903ef
+size 109

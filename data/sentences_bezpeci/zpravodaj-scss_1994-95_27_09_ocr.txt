@@ -1,2 +1,3 @@
-platit vysoký daň
-pocit bezpečí rozlézat kout neděle sotvaco čekaný přihodit smrt zabíjet
+version https://git-lfs.github.com/spec/v1
+oid sha256:73794beffeb3befccb836278cac561ac2473cfe4610136bdb956a36b76a6f788
+size 100

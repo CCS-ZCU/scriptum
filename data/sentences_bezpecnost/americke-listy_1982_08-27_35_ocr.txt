@@ -1,1 +1,3 @@
-nový grémium zajistit bezpečnost veřejnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9951b98f5391c4190972bc40d3dc7b2391b03f1b87e2841d014629583c8ab8d
+size 47

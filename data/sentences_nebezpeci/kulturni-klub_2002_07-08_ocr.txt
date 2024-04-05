@@ -1,2 +1,3 @@
-vyjádření chtít nebezpečí upozornit uvést orientační bod příští diskuse
-průvodce podařit odvrátit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d68795d897a0a1ae04bb5f57914e14baeccebcebc40b7b3d501c79c52b6d58be
+size 126

@@ -1,2 +1,3 @@
-1952, ČTKv s Ministr národní bezpečnosti Ladislav KOPŘIVA byl na vlastní žádost zbaven svých funkcí.
- Ladislav Kopřiva, ministr národní ^bezpečnosti, byl podle pražské úřední zprávy zbaven !ina vlastní žádost5' svých funkcí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ebd508555b9a8332f5f4eff41052dd972d49ba9035a293190aef7aa88f2c379
+size 250

@@ -1,1 +1,3 @@
-znamenat existovat vážný bezpečí politika perestrojka jiný druh
+version https://git-lfs.github.com/spec/v1
+oid sha256:31dde1f383e8bc968bf0d69255544a9ae2aba1bf2529228e44de801f82ab320e
+size 70

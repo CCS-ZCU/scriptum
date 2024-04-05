@@ -1,1 +1,3 @@
- 1963 je připravena poskytnout! nejvýhodnější druhy životních pojistek a pojistných ochran, — programy znamenající bezpečnost a ochranu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd091c5db70ff5654e77bd4c9dd54f52b6685c31c5d1ad460fce5bb16ad4835
+size 150

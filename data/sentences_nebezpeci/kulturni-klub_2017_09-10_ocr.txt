@@ -1,2 +1,3 @@
-jednat křehký těleso velikost moci proniknout atmosféra představovat reálný nebezpečí zemský povrch uvést ústav
-český médium objevit řada text upozorňující různý nebezpečí skrývající současný vývoj
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0ad0ec2cc69d81ff520322cc7116313a608842ab68bb13affa9608bc6eda4a1
+size 227

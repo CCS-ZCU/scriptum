@@ -1,1 +1,3 @@
-evropský bezpečnost pakt aprilový návrh vstup SSSR veroatlantický pakt
+version https://git-lfs.github.com/spec/v1
+oid sha256:b947a4555a5a91196c9e46798717f1f86491ffb421ad5530f8155298b0276388
+size 76

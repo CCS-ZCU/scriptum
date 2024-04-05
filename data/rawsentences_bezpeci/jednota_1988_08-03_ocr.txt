@@ -1,1 +1,3 @@
- »*• bezpečím tu« vás vbum da Pötii’artw ■ vinu e poradí™ »im mno%č vk í.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97ffc1f39c652491d78c19e8466c6d4259509e4ecc3cc17d5201e7e67b4cb389
+size 92

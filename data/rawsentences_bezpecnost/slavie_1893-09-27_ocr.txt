@@ -1,2 +1,3 @@
-: V případě války jakož i,když výbuch válečných podniků bezprostředně se očekává, dále v případě vnitřních nepokojů jakož i když se rozsáhlou měrou dějí velezrádné a- neb ústavu ohrožující a osobní bezpečnost rušící rejdy, mohou na čas a pro určitá místa na základě tohoto zákona.
- O- čistili lesy od ostatních lupičů a vrahů a dbají o úplnou bezpečnost o- kolních velkostatkářů a hodnostů, zaplatí-li se jim určitá suma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:282badb59c4f4b3748ee1ee0c18fc0ec1b0fa38fce327a37611f5f1fe2969e95
+size 485

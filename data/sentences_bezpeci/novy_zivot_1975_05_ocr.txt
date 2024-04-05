@@ -1,1 +1,3 @@
-pohled život zachránit znamenat opustit Ježíšův skupina platit revolucionář skou bezpečný stáhnout bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb12a2007cc5a9246499ff9947e320b0b05590387ec2f9d96c3ad8c53498feb
+size 119

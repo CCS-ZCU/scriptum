@@ -1,1 +1,3 @@
-historický skutečnost slovenský strana jistý míra zaskočený dohoda rozdělení člen uvědomovat opouštět bezpečí rodičovský dům vržený svět vlastní zodpovědnost zůstat předchozí metafora vědět chtít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2eb93976a43286c39dca600cf8ca1ba1a23efe338d9dd6bb3d3ad0bf953e3f9
+size 226

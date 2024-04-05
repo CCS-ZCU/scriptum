@@ -1,3 +1,3 @@
- února znenadání ustalo veškeré zatýkání — kupodivu zrovna v den, kdy byl Ignatěv, Stalinův člověk v bezpečnosti, postaven na druhé nejvyšší místo.
- Přímo otázkou bezpečnosti státu se Masaryk zabýval v zásadním projevu na jednatřicátém sezení, které se konalo 26.
- * projednávala třetí článek sedmé kapitoly státního rozpočtu na rok 1891, který se týkal otázek veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ded15b323446ce4b6e6f5164d10c43d2e0552c562bf2526a407c49b482d15fe
+size 430

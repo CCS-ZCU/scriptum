@@ -1,1 +1,3 @@
-situace ustavičný nebezpečí nabývat apathie přátelství vnitřní osamocenost jedinec zvláštní relief
+version https://git-lfs.github.com/spec/v1
+oid sha256:b61cf3cf3834f231e1bd068cf4cc0bb975d0e55489442bea2798a42b31a4388b
+size 112

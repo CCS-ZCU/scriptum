@@ -1,1 +1,3 @@
-cesta namáhavý bezpečný šlechetní muž jít
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e5ee4844545fca93fe8bc91a43ddf53d18940365779311779eb7e35cca80a2
+size 50

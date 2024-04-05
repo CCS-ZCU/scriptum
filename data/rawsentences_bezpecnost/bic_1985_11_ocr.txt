@@ -1,1 +1,3 @@
- Vřna jde už potřetí k přijímací zkoušce k Veřejné Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a9e331fc650328db243ae9abb0c8c25e73d010900340b08d326255a59be4c9
+size 75

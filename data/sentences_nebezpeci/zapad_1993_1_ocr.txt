@@ -1,3 +1,3 @@
-velký nebezpečí hrozit cistický okupace Hácha svěřit ochrana fiíce
-Maďarskú menšina využívat český •politici zastrašovaní maďarsko nebezpečí udržat nadvláda Slovenskom
-nebezpečí hrozit stava ředitel ústav dějiny střední východní Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfe804517debd010df0d383d2945fb951364934a5db1d193eceb8561933a7870
+size 276

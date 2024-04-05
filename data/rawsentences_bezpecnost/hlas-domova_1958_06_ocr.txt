@@ -1,1 +1,3 @@
- Na obranu a bezpečnost bude oficielně vydáno 9 miliard korun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf6a16ad570045d0b1ed4913a6975fb614969b72fd240a0f5d0c7b7eaaef586f
+size 66

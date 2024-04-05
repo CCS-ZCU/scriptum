@@ -1,1 +1,3 @@
- Za takových poměrů bezpečí může vyplynouti a přijíti pouze z řad dělníků národa našeho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f26a391eaee723fcf48a1a621749c8c1d3c9dcc11b594bac465eb867eb221ec5
+size 104

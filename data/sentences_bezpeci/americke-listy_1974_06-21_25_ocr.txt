@@ -1,1 +1,3 @@
-kritik moci upřít statečnost zápasit srpen uhájení doba dosažený osobní odvaha projevit doba mnohý někdejší radikál utichnout uchýlit bezpečí podzim rok rozhovor zahraniční tisk přihlásit myšlenka pražský jaro podrobit současný režim ostrý kritika rok dopis západoevropský socialista zdůraznit český socialistický hnutí tkvi kořen západní socialismus východní
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2819111bffd3901b420fe087d1f98bf254599abad8335b0f9d1b7b7218ba8da
+size 400

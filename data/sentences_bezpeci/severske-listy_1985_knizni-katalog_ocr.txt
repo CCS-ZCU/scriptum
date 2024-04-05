@@ -1,1 +1,3 @@
-člověk cítit bezpečí moci dejchat pracovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e368e0a05af40bd8c6720544c8b921ce2ea44118be9e566235ecf3a93bc5ec
+size 48

@@ -1,2 +1,3 @@
-jednoduchý klasifikace prokazovat věc značný pestrost výběr proud nasický sociologie charakterizovat dostatečný sociologický reflexe stav vlastní disciplina plynout značný pasivita hyperkritičnost rezignovanost člen sociologický obcej nebezpečí desooiologizao hrozit strana formální představitel špiček věda disciplina benevolentní pře mivo BWieeociologčm}
-upozorňovat nebezpečí zkreslený obraz věda civilizovaný země vydobýt prestiž vysoký
+version https://git-lfs.github.com/spec/v1
+oid sha256:63a63b60b845510f27fa89164ad337b3d59499bb6d967a1a498ebc1d7abf7a00
+size 478

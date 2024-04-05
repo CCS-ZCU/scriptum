@@ -1,2 +1,3 @@
-nebezpečí americký idealismus Ferdinand Peroutka
-Brezna americký list strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:849ae2999a4cce66722c6a8103efdb5ba822b41fed60af568fb664b558dba958
+size 81

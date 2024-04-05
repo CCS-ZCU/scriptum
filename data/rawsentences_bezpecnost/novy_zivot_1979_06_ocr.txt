@@ -1,1 +1,3 @@
- Ano, sluhou Tvých sluhů! « že » střeží« jeho bezpečnost a že bude dobře, když už nebude z paláce vyjíždět.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2536634c6a09223d70d90089f1dbae4ffb93830f9f501cb3552d681efedad29a
+size 126

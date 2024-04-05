@@ -1,7 +1,3 @@
-oběť zdokonalený metoda mít stát pražský arcibiskup kardinál Tomášek státní bezpečnost předložit sumář rozhovor mít park čtyři oko apoštolský administrátor trnavský diecese biskup Josef Gabriš
-Klopýtá československý muž žena dítě hora jižní Angola zajatec jiný politický ideologický zájem převažovat první povinnost stát chránit bezpečnost zdraví život občan
-uvědomit bezpečnost příslušný spis ztratit Slovensko provedený generální zkouška únorový puč osmý čtyřicátý rok
-minulý rok slavit talský bezpečnost velký úkciový spěch boj levicový pravicový terorismus
-státní bezpečnost využít služba bývalý kriminální vězeň nechat takzvaný
-zmínit křivý výpověď gesto pák účastník demokratický odboj státní bezpečnost vynucovat násilí získávat slib
-začátek rok rozesílat komunistický bezpečnost podvržený dopis existující tuzex bezpeční
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7c5f334f1793177ab4e743f71be5a25ed660eb9a9b9828af3395119ed8df98
+size 936

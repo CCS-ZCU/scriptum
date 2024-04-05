@@ -1,1 +1,3 @@
- Bude hořet právě třicet minut, to je dost času, aby ten, kdo doutnák zapálí, se ukryl v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54954644d5fe7bb1f41872091381f4046894540c2b96d0b392a5c34776f26c65
+size 108

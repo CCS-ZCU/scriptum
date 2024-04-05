@@ -1,1 +1,3 @@
- Pokud se o jeho bezpečí, existenční zajištění, veřejný pořádek a všechno, čeho je k životu potřeba, stará někdo jiný, nějací ti oni, národ nutně zůstane nevyspělý.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c92ec29b601c5f12a3ebb60b1eb1561cee3b0567aa9d27c2175d47e7dceb22c
+size 190

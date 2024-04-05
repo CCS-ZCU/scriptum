@@ -1,4 +1,3 @@
-trvat naivní onet trvalý nebezpečí vnější nahodilost uvrhnout propast hluboký skepse
-ojien bod zmobilizovat xássäjcs ostraž tost zreďlektovat nebezpečí
-zkoumání činitel válečný nebezpečí poukazovat zpráva hromada prostředek ničení
-vázat siný nebezpečí zvyšovat stav konvenční síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:68dde558366d9002aa6c7f56468e81b9b807b6241f644a8b446947a1be5538fd
+size 328

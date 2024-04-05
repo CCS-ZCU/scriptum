@@ -1,6 +1,3 @@
-odpadnout nebezpečí Němec dláždit Václavák český lebka potěšení léta prorokovat rudoprávní propagandista slovenský separatista skutečný český kolaborant doba německý okupace
-nebezpečí dynamický německý kapitál dostat věc moci německý politika
-většina dění politický energie vyčerpávat konečný tahanice Praha Bratislava strana unikat dbát smrtelný nebezpečí republika ležet hlodat rakovina
-nebezpečí osud vlastník selský usedlost osud spořitelní bankovní vklad obyčejný střádal
-úklad známý moc všudyprě tomnost ochromující strach hrozba otvírající propast symbolizovat nebezpečí ohrožovat přítomný budoucí život dítě zástupce lidstvo
-značný zručnost otvírání kelímek jogurt vyhnout nebezpečí akutní pokecání
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e47fd191c25d8801281c8c7a598d81bdcda68cea29576c68b9b7a7c371f8a5b
+size 794

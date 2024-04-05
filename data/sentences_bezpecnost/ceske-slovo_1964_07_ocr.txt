@@ -1,1 +1,3 @@
-muset uvědomit doba západ provozovat první pohled tvrdý politika komunistický stát bezprostřední cíl obnova demokracie země střední východní Evropa vlastní bezpečnost světový mír
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2784b2a5f671292b643ddc33fc311fd8368a5de4e50046370ebb141d280c5b4
+size 198

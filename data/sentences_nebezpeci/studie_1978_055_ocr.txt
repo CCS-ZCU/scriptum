@@ -1,1 +1,3 @@
-uznat význam charismatický prvek poměr bůh muset uvědomit nebezpečí skrývat
+version https://git-lfs.github.com/spec/v1
+oid sha256:87002e45286f2eb081fe1897e3d92532eb00dc135baede118c892a4fe1ef1af9
+size 84

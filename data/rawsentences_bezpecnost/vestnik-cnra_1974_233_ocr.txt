@@ -1,7 +1,3 @@
- státní bezpečnosti, každý dolar subvence našim nakladatelstvím znamená výtisky pro lidi doma.
- Ján Papánek: Détente — bezpečnost' či klam? Plánovaná doba skončenia Ženevskej konferencie o bezpečnosti a spolupráci v Európe sa blíži.
- Ináč je obava, že sa Brežnev dohodne s Nixonom pri tohoto návšteve v Moskve na nejakej všeobecnej deklarácii, ktorá, ako píše londýnsky “Economist”, by vážne poškodila vec Konferencie o bezpečnosti a spolupráci v Európe.
- Neposkytla by Európe zvýšenú bezpečnost a viac príležitostí k spolupráci, ale by bola falošnou skutočnosťou.
- VĚSTNÍK • 5  Z UDÁLOSTÍ V ČESKOSLOVENSKU Čeští komunisté a konference o bezpečnosti a spolupráci v Ženevě Nakonec to budou komunisté, kteří budou “good guys” a bude to Západ, který bude obviňován z rozbíjení či sabotování jakéhokoliv dorozumění při jednáních na konferenci o bezpečnosti a spolupráci v Evropě, probíhající v Ženevě.
- Jaký smysl má předkládat návrhy, které zcela otevřeně směrují proti zájmům socialistických zemí? Jaký smysl má předkládat formulace, které mají narušovat právní řád a znamenají vměšování do vnitrných věcí druhých států anebo dokonce mají oslabovat jejich bezpečnost?” dodává Rudé právo.
- Tedy chtějí-Ii páni v Praze přispět k bezpečnosti a spolupráci, vyjednávané při Evropské konferenci, -— jak se holedbají v Rudém právu, — musí též uznávat lidská práva a zákony nejen pro své potřeby, ale též v zájmu těch, s kterými chtějí žít.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ab649518fda83bfd1862b8ed4e9475e4a0b5457f0543f800a06bc137948419
+size 1615

@@ -1,2 +1,3 @@
- Čím větší byl odstup od silné osobnosti zakladatele, čím silnější byla zdánlivá pevnost a hmotná bezpečnost, tím snáze se vloudila do řádu pohodlnost a přizpůsobování světu.
- Komunisté mu vytýkali ilegální činnost a spiknutí proti bezpečnosti státu ; ve skutečnosti se » provinil « tím, že se postavil proti činnosti » vlasteneckých « katolíků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc676153dd72bcbac74b10a5d039277505a251c43c735aedeac23f1152bfb1e8
+size 389

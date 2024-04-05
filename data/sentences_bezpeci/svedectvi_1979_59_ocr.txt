@@ -1,5 +1,3 @@
-myšlenka hrstka kritický intelektuál současný řada minulý moci šířit polovat mnohý téma lidský hovor myšlení luba překrývaný téma běžný každodennost bezpečí ohrožený
-čas mít možnost věc přemýšlet rozhodovat čas vlastní podiv dospět poznání mít domov domov místo bezpečí zakotvení těžišlý bránit přát padnout nicota ležet čas
-znak ráj bezpečí pevný půda lze chvíle spočinout
-postupovat druhý přesvědčení vybičovaný knýnost válka heydrichiáda český národní stát moci zaručit bezpečí český národ
-ohled momentální situace mít právo upřít člověk právo pravda svoboda svědomí slovo bezpečí celistvost osobní bytí svoboda styk pohyb domov
+version https://git-lfs.github.com/spec/v1
+oid sha256:354b852bf91b5b62b9a20afebc250d173258001280b74eac29d7952d9123fb2a
+size 725

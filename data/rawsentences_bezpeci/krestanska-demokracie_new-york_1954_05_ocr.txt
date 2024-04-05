@@ -1,1 +1,3 @@
-A tak Borln"zák porazil svého bývalého mistra Hromádku, a to ta k-přesvědčivě, ží se Hromádka nezmohl ani na odpovedÏByl vyveden za ochrany policie a pro-komunlstických kněží zadním vchodem nenápadně ven a autem odvezen do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af5b07f6b2ca5156b9e027ff6004bc9768bc11c3791770e4fbc11e330437cfc3
+size 254

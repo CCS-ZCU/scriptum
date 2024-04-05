@@ -1,11 +1,3 @@
-Maďarsko Polsko hrozit špič kový stoupenec přestavba komunista dávný odpůrce solidarita nebezpečí celý společnost pře dcvšit dělnictvo reforma doplatit
-lidé vydat nebezpečí
-nový nebezpečí legalizace opozice Polsko Maďarsko výrazný rys působení legální struktura tendence kůň
-jiný nebezpečí hrozit reforma důsledek kontrolovaný růst občživie Medvcděv přirovnat veletok vystoupivší břeh
-ochota scinda angažovat scinda manifestovat ncjrůzný způsob pokojný demonstrace shromáždění dojít pres hrozba nej vysoký místo nebezpečí policejní teror následný soudní perzekuce
-nebezpečí úskalí doktrína poukázat rada francouzský intelektuál pouhý volání poušť
-sexuální volnost vycházet móda vliv nebezpečí AIDS
-jistota ostatní žít spořádaný život vyhnout scinda sociální degradace nezaměstnanost znamenat nebezpečí pasivita propadnutí alkoholismus droga
-scinda slušet království vydat muž kázání užitečný nebezpečí nepřítel pobouřit množství lid
-Václav napsat Colonn žádat zrušit půhon husa nebezpečí cesta
-vzdálenost dvůr papežský nebezpečí cesta zanedbání slovo boží pouhý výmluva
+version https://git-lfs.github.com/spec/v1
+oid sha256:88191653b5f5c492717b4b5b29c6bdbcead4d819c25530a68bba5253413059e6
+size 1199

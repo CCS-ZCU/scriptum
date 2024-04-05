@@ -1,2 +1,3 @@
-nalézat bezpečí důvěra politický význam slovo socialismus
-vždyťvedoucí pracovník navyknout dělat ukládat opomíjet zátý kladní marxistický požadavek věda mít vést politic kao moc dialog polemika upozorňovat bezpečí chybný rozhodnutí hodnocení
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b8de2c78fa7b9ebcfb56085e73b1f5f6340b29e040ed34c09a837e9c9443058
+size 270

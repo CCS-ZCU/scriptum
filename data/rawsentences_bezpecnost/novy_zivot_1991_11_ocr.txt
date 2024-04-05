@@ -1,1 +1,3 @@
- svazu je vede k závěru, že jejich stabilita a bezpečnost budou zaručeny, jen když budou rapojeny do politického, ekonomického a vojen- ského systému Západu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54c4ff3b21de254090663aedcaae7aa4444616436e71c5c37db7ea8bfd7c4466
+size 169

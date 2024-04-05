@@ -1,3 +1,3 @@
-horší skutečnost vystavený nebezpečí uvěznění výslech StB
-režim opozice mlčet moment pokládat nebezpečí smrtelný
-Beneš projevit chybný hodnocení poválečný situace hlavní nebezpečí vidět Německo selhání koncepce léta orientace západní demokratický stát chtít bezpečnost zajistit orientace sovětský svaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f65decda8d7b7502979f00aaa1bb2b5d0c18f7cb65a9cb359211ba41af384db
+size 340

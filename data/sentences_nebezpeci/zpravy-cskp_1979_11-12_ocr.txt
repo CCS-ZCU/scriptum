@@ -1,1 +1,3 @@
-sovětský nebezpečí lze spolupráce komunistický Čína čelit posilování evropský společenství silný komunistický země Asie
+version https://git-lfs.github.com/spec/v1
+oid sha256:a55f95d64d8a80603fcc4a887b5e29801c373c2a368745ce0a3ad446dc0af964
+size 137

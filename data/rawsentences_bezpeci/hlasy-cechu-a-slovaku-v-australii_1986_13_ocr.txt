@@ -1,1 +1,3 @@
- Obalí trny sametem, v náruči skryje před světem, horečku zchladí, má cit i rozum člověčí a dá ti pocit bezpečí, když všichni zradí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33023ad59f6d047261cf681d9d1ef3abc7da397f2f5c06407e0dfd48d668f95
+size 151

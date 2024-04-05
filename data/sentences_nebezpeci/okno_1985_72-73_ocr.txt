@@ -1,1 +1,3 @@
-střední Evropa východní hranice západ citlivý nebezpečí pramenící ruský síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1140b1ecc8dd6dc2c6c6a96c87665770106a7298e8755a11cd2c1dd492d2a6
+size 89

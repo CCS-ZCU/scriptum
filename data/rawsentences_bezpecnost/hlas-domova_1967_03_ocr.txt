@@ -1,1 +1,3 @@
- Při domovní prohlídce zjistily orgány bezpečnosti najednou u jednoho pachatele až 12 kg masa a 3 kg uzenin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bf465789b1845acfb7f3f640c9a9dea006987d2ca9e438b90ca3efbfd55ea2e
+size 115

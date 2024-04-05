@@ -1,1 +1,3 @@
-váznout hospodářství zvyšovat nebezpečí ztížení zásobování obyvatelstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:17fa20099b85e9d170aeec82246d6fd5bb6665379860ba50647adbc84596d126
+size 85

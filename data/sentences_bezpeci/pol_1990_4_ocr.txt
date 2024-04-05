@@ -1,1 +1,3 @@
-Neumann Praha šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f93f6e40857754649d21b4566bf01d2791c5b2cf616844e90b074387954bc7
+size 14

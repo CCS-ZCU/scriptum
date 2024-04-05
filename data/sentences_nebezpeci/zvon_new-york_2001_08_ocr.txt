@@ -1,2 +1,3 @@
-mít provádět složitý operace lepší chirurg anestezista asistující personál přijít telefonát atentát papež
-nebezpečí pominout vyptávat profesor Crucitti podrobnost složitý operace
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3e81696e96133fcbdeb0410ea643c22a12abfa7a0c93a68863739266af333c
+size 199

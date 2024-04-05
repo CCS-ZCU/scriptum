@@ -1,1 +1,3 @@
- Jistota víry znamená pro autory Starého Zákona opravdovou a trvalou bezpečnost, jež je přednostním právem všech, kteří skládají svou naději v Jahve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f87eba080c5b8510c48f5921d4fb4317a2b69ad7edc000ab00fe73050d3997
+size 165

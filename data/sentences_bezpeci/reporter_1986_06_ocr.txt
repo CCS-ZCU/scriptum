@@ -1,1 +1,3 @@
-respekt pan Orlov přání lepší život rád ptát soudit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab03c07b9c38f2c9f15a69ba75331bbb10a64c78d58b73317816a2734dba336a
+size 70

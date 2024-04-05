@@ -1,2 +1,3 @@
-nebezpečí reagovat
-moci role splnit
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e4089bde7c3d909de7f3b48e1cb504c1cf7e6d62c8ce64c840f448629b55537
+size 38

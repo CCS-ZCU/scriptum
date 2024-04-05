@@ -1,1 +1,3 @@
- Jinak nelze dosáhnout bezpečí a míru, poněvadž Sovětský svaz spoléhá na to, že si udrží a upevní tyto državy ve střední Evropě jako nezbytné základny odkud by mohl rozšířit svou posici a pak i svou moc na západní Evropu i dále.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d22a9dfb56824c995edc37026b761d58b6629454820dce6a29928a45a4bb4133
+size 255

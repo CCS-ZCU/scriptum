@@ -1,4 +1,3 @@
-nebezpečí řada starý očitý svědek zemřít
-nemoc nebezpečí život jiný časný duchovní potřeba prosit bůh pomoc Stojanův přímluva
-církev vyjít katakom octnout nový nebezpečí
-smět odpírat nebezpečí druhý přivést pokušení věrnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:13265bb70c75bdb76158a22add45ab9239589773fa8c3874e62bcd00ee5fc9fb
+size 260

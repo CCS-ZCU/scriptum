@@ -1,1 +1,3 @@
- "Všichni redaktoři jsou uklizeni v bezpečí, ani z Literárek nikoho nem ají/' Nedostali tedy například ani statečného Lud- vu Vaculíka, dobráckého idealistu, který to sice myslel s lidmi .
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aa07cf2e7b1f73b57e3d3cd5317690f0b45592258d9c3e01ebe97239ccc47b4
+size 201

@@ -1,1 +1,3 @@
-dňocha Jeruzal bývat bezpečí budat volať pán naša spravodlivosť
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bf1ae1a7fddc7c668259b0878a139e62768f04daf5625055d124aec316d0899
+size 72

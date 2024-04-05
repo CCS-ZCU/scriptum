@@ -1,1 +1,3 @@
-tvořit nebezpečí nevěr právo hledět svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f1600f352311b5a378258e9fb14cd7c75f4820aaa547713ba991fb01332581
+size 48

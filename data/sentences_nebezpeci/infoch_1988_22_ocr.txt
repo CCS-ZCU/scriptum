@@ -1,2 +1,3 @@
-výpověď způsobit nebezpečí
-poměry obava Eakový nebezpečí moci pocitavat žiaždý šířit závislý literatura hudební nahrávka stát uznávaný skupina
+version https://git-lfs.github.com/spec/v1
+oid sha256:0feb97582bff7e3b489c4a621aab9c1deaf41fe4eacee22e399d945a301192b1
+size 166

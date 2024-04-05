@@ -1,2 +1,3 @@
-” PŘED BĚLEHRADEM V Amsterodamu se sešli představitelé 16 členských stran socialistické internacionály, aby se poradili, jaké společné stanovisko mají zastávat na bělehradské konferenci, kde se budou hodnotit výsledky helsinské konference o evropské bezpečnosti, a aby projednali ještě některé jiné naléhavé mezinárodně politické problémy.
- Východní Timor a bezpečnost Austrálie Ing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a24bde983759e206cbf4795b12d308d6ceb297a6edbf52fb2f38e02faf6c9b2a
+size 421

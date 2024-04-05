@@ -1,1 +1,3 @@
-žádat povolení vystěhovat rodina cizina možnost navázání kontakt vědecký ústava země moci usadit vydat nebezpečí zákonný postih strana československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9fb666cfd7e0337f3a4848ada286680cb505f70f8e65a20ae657aa4823971b6
+size 168

@@ -1,7 +1,3 @@
- Dostává se jí plné podpory státní bezpečnosti.
- Veškeré cesty a smlouvy filmových tvůrců pro zahraničí schvaluje s konečnou platností důstojník Státní bezpečnosti L.
- Bývalý stranický šéf bezpečnosti a armády, šedá eminence Antonína Novotného, generál Mamuta se stal krajským.
- Prosazování vysokých i nižších důstojníků státní bezpečnosti na všechna důležitá (Pokrac.
- Před Vánocemi dala státní bezpečnost do cely vězněného šachového velmistra Luďka Fachmana “spoluvězně”-, samozřejmě provokatéra.
- Už to samo ukazuje, že bezpečnost nehodlá akceptovat Husákova prohlášení, že se nesmí vrátit padesátá léta a že “strana nejsou jatka”.
- Bezpečnost se pokusila Fachmanova zranění svést na jeho údajný pokus o sebevraždu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21ab9a461e132a2b4563e5488035d0ff5a1e03e9d278f61d23f0cbb8bfb52540
+size 815

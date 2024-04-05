@@ -1,7 +1,3 @@
-národ dát léta nebezpečí germanizace pominout hotový
-oko vedoucí politik veřejný mínění jediný záruka budoucnost ponechávat otázka mocenský rovnováha evropský kontinent hrát překonání turecký nebezpečí nastolení vestfálský míra dominující role nynější situace stát princip politický úvaha rozměr celý planeta
-nebezpečí prechylovat přítomnost minulost chtít načerpat mrtvý vlast síla vlast živý nebezpečí
-František Křelín rok vědět odhalení historik odhalený století válka zůstat poplatný mentalita český občan okupace šířit senzační panika lama dít vidět pocítit skutečný přicházející nebezpečí různý bestialita nacista
-žít život vlastní nebezpečí
-politováníhodný český komunistický státník doba Edvard Beneš český národ postřehnout toto1 nebezpečí
-mluvit vážený autor stanovisko
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6665e43d21f253560e30b16d12508b2edba525e8f8cbd55001afa8dcfb016f
+size 888

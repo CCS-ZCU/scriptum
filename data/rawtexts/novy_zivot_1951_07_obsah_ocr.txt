@@ -1,1 +1,3 @@
-O B S A H : Bolest a zlo — PhDr F . Uhlíř. Cyrilometodějská Liga — P. J. P. Ani sovětismus ani západnictví — Karel Brušák. Muž modlitby a práce — J . E . kard. Klement Micara. Z Křesťanské Akademie. [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d117902d4b5cf6ebaf4122650c8fc2bbddc4d36ad29fccd125f003b7cf2f335
+size 231

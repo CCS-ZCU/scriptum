@@ -1,1 +1,3 @@
- pluhu, měříce pak dvojím loktem; nezbývalo než uhnouti se vědomí jich moci a chytře rozpoznati charakter těchto povýšenců, k vytí s jejich zvlčilostí duševní; nebot zůstati rovně státi před těmito stvůrami znamenalo  riskovati pohodlí a osobní bezpečnost, nebylo-li dostatečně o štít ochranný postaráno penězi a vlivem přízně ještě mocnější nad nimi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd5158de07e7bbbd62a400e86518555743216938a067a3d58f8b1be771f7d85c
+size 394

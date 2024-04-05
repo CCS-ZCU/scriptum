@@ -1,2 +1,3 @@
-referát vedoucí představitel španělskv komunista pasáž shromáždění zástupce veřejný mínění evropský bezpečnost spolupráce Brusel červen Azcarat shromáždění naléhat delegát sovětský svaz další výchý doevrop
-myšlenka stylizace celý duch uvedený výzva nepropracovanost nedostatek fines připomínat sovětský státní bezpečnost zdát pozadí celý věc
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d424f5323dfdd1c5e42fdce932443b4f519929e9a85e7f1cca26fa506908cc
+size 388

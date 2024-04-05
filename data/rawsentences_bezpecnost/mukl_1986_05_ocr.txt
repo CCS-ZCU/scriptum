@@ -1,1 +1,3 @@
- 11  STAROSTI PANA GORBAČOVA JOSEF NOVÁK, SALZBURG Z analýz průběhu posledních americko-ruských jednaní vychází stále více najevo, že nikoliv na prvním místě zdůrazňované odzbrojení a bezpečnost, ale právě hospodářsko -politické otázky hrají hlavní roli a byly reálnou náplní rozhovorů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af7b60ef781b753408220aff4f5705efae6492a323a8d8766dbe84fb6cb7d957
+size 320

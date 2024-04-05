@@ -1,1 +1,3 @@
- Jde spíše o neurčitou „normálnost“ a „vzornost“, kterou se vyznačuje duch universalistických údobí, jež spoléhala na zaručené bezpečí společného světa, garantovaného Osudem, Bohem, Zákonitostí, Racionalitou či Objektivitou, a jež byla zaměřená na úsilí o jednotu pravdy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:056de5d1b9ad96c570974e84148157a911e4e5b58dfa8ce40b2fca9ca74fb260
+size 307

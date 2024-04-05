@@ -1,2 +1,3 @@
-vytvářet stav nebezpečí
-český lékař pedagog konec padesátý léta upozorňovat vydávat nebezpečí pronásledování
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db826ca367b76a6478cd8d409a55d8396545cf1ef264eff712458b7614fcd5d
+size 127

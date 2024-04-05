@@ -1,4 +1,3 @@
-jedny vidět nebezpečí propast
-Peron Echevarria domnívat Kuba hrozit další nebezpečí přátelství Kuba zmenat vliv spojený stát jihoamerický oblast
-zvláštní desetiletí lidstvo vznášet obávaný nebezpečí světový válečný konflikt demonstrovaný častý zkouška novověký zbraň hromadný ničení
-prudký střih zástupkyně televizní šéf odhodlat nést mít vědět obor vyškolený odbornice velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e523059649ed9241cf910def8b76356ebcd99a7f25d0b300aa32c99926bc55c3
+size 441

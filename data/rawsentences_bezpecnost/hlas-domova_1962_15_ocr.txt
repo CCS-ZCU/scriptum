@@ -1,1 +1,3 @@
- Důvod je tento, a je to "kapitalistický” důvod nade vši pochybu: Honba za korunou "Pracující nejsou vždy v dostatečné míře seznamováni s předpisy o o- chraně a bezpečnosti práce v konkrétních pracovních podmínkách určitého provozu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca6de86f4ed43cb23bc90298a7a3af109e3fdde3582f07e8e85ac034f7a12ee
+size 258

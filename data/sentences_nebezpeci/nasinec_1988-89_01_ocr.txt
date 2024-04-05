@@ -1,1 +1,3 @@
-potěšitelný celý věc fakt množit přihlášení kandidát řada černoch bát tern pře pádný výhružka nebezpečí umlčení doufat dojít černo cha hovořit zvolený mluvčí úroveň město osada
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fabe2ec0b81f4e04562210209724fcf90db347157fc245b297efbbbc4195844
+size 207

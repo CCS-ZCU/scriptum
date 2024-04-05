@@ -1,1 +1,3 @@
- Smyčlené obviněni dvou punků charakterizuje nejen postoj bezpečnost- ních složek k nekonformně vyhlížejícím občanům, ale i k letošním prvo májovým oslavám.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6db5f1a27dce652c9e2b0334c0ed9e7e9ff435d11624894ed77e50330c1bb85c
+size 176

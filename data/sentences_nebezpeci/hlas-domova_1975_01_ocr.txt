@@ -1,1 +1,3 @@
-zákon hrozit nebezpečí trest
+version https://git-lfs.github.com/spec/v1
+oid sha256:6de26527061e4552191920e8cbb7974956448d473698e717cd57a608f939bcb1
+size 32

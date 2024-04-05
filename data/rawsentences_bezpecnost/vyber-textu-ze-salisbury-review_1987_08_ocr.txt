@@ -1,3 +1,3 @@
- Převládne-li vliv levice, bude se zahraniční politika opírat více o ideologické předsudky než o realitické zhodnocení toho, co je nezbytné k zajištění národních zájmů jaké představuje například bezpečnost.
- V každém případě vyžadovalo rozhodnutí uplatnit sankci jednomyslné schválení Radou bezpečnosti Společnosti, jež by Francie určitě vetovala, kdyby sankce měly být vážné.
- Byli tu pacifisté jako George Lansbury, jenž vystřídal Ramsaye MacDonalda ve vedení labouristické strany; liberálové jako Gilbert Murray,  12 ředitel Svazu Společnosti národů, jenž v roce 193; organizoval takzvané "mírové hlasování"; novináři jako Kingsley Martin, vydavatel New Státesmanu; všichni žvanili o "kolektivní bezpečnosti" v době, kdy žádná neexistovala, a zúčastnili se kampaně proti našemu vlastnímu znovuvyzbrojení, když nás nemohlo zachránit nic než zbraně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7362b19340f30eb79a4432f03a039caac96feeea01c7b738abb9d67ff287bb3b
+size 935

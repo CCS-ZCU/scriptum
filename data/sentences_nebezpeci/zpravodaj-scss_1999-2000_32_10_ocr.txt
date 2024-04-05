@@ -1,2 +1,3 @@
-pořádat osvětový vystoupení škola vojenský posádka téma droga nebezpečí závislost brát exota referovat zámořský zkušenost
-najít zúžení tepen nutný operace zúžení nebezpečí mozkový mrtvice odstranit
+version https://git-lfs.github.com/spec/v1
+oid sha256:79de63a0b65a154beedad8568b479cb3916683f947b9606c68a5cefa27a6d1da
+size 226

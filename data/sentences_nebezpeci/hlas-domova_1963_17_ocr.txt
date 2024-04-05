@@ -1,1 +1,3 @@
-najít lidé myslit nebezpečí komunista podařit mládež vychovat mrtvý duše obílený hrob
+version https://git-lfs.github.com/spec/v1
+oid sha256:1237beb2b57ceff5e9ebf97acfc9ecff4a03230d8c218a81a35fa0665bd4bab0
+size 97

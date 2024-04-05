@@ -1,7 +1,3 @@
- Úkoly - sociální činnost, vzájemná pomoc, péče o potřebné spoluobčany, - výměna zkušeností a opatření při výchově dětí a mládeže, utváření vhodného prostředí pro ně, při vzdělávání dospělých, - spolupráce s obecními orgány v různých oborech (bydlení, školství, stavebnictví, opatření ke zvýšení bezpečnosti obyvatel a majetku ve vlastním okolí), - studium a vysvětlování předloh k hlasování, vytváření a průzkum veřejného mínění, příprava nových návrhů a iniciativ.
- Ale aj keby história raz povedala, že Irak bol omylom: účasť Slovenska bola správna už len pre základnú lojalitu s mocnosťou, ktorej ozbrojená sila je JEDINÝM garantom slobody a bezpečnosti tejto krajiny.
- Dôvodom je požiadavka neznížiť úroveň bezpečnosti v krajinách EÚ- 15.
- V zákonoch o Zbore národnej bezpečnosti bola ŠtB chápaná ako jeho súčasť, nikde sa však konkrétne neuvádzalo, čo je jej poslaním a z akých zložiek sa skladá.
- V roce 1951 si násilně opatřili první zbraně i finanční prostředky, při svých akcích však zabili tři lidi - dva příslušníky tehdejší bezpečnosti a pokladníka, který vezl peníze na výplaty zaměstnancům.
- Stala se jednou z hlavních mluvčích poválečného demokratického tábora, takže již před únorem 1948 byla pod dohledem komunisty ovládané Bezpečnosti.
- září 1949 Miladu Horákovou zatkla Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2887f48a9862fc2662232414d02a90ed02592eb8943d7b2649e6689fd314819
+size 1472

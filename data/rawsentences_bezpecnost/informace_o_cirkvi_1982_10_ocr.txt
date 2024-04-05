@@ -1,2 +1,3 @@
- A podobně není moĚná spravedlnosti, jestli-  „ 13 - Se nebudou natrvalo uznána práva vêach zainteresovaných národů, atejsi těmito právy, která jsou prvořadá a neodmyslitelné, je právo na existenci a bezpečnost zemi, nachování národní identity a iden- tity každého jednotlivce.
- Vyslovil též přání, aby se co nejdříve dosáh- lo spravedlivého vyrašeni konfliktu, aby bez použití zbraní, be» každé formy násilí, terorizmu a represálií byla uznána práva obou národů, práva palestinského národa na vlastní území a prava izra- elského národa na bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74539a86192c2ac2ae24eb24ee65b06888e520d063350f8d7f1678e265196282
+size 611

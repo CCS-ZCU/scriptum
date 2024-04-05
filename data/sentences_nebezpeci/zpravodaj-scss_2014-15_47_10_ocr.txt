@@ -1,1 +1,3 @@
-nebezpečí nazývat islámský stát vykládat potěš Jakunina Zeman
+version https://git-lfs.github.com/spec/v1
+oid sha256:88086787290ab500875e8a27e45e2596d4179ac4472f366216497c4aaf3dc656
+size 71

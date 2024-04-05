@@ -1,19 +1,3 @@
- Na toto stále rostoucí ohrožení západoevropské bezpečnosti poukázal už v říjnu 1977 socialistický kancléř Německé spolkové republiky Schmidt.
- 8 Ostatně sám pojem bezopasnosť, užívaný v ruštině pro “bezpečnost”, předčí co do obsahu západní ekvivalent : znamená vlastně ‘naprostou nepřítomnost nebezpečí’ a implikuje, že jakoukoli hrozbu, jakoukoli nerovnost třeba zneutralizoval a co možná postupovat tak, aby ti, kdo údajně ohrožují, se ocitli v postavení slabších a — ohrožených.
- V téže době Státní bezpečnost zahájila dlouhou řadu výslechů a tzv.
- Kaz na zubu krásné ženy se pokusili navodit také nějací Francouzi, kteří chtěli podloudně rozprostřít transparent, žádající zrušení vojenské služby, čemuž pohotová státní bezpečnost v zájmu míru 19  rovněž zabránila.
- Podnětem k nim byl zásah státní bezpečnosti proti františkánům.
- Debata o jaderných zbraních je — nebo by měla být — debatou o nej účinnějších cestách k dosažení míru ve svobodě a bezpečnosti.
- Smutnou skutečností je, že mnozí z nich jsou prostoduché oběti bezohledných politických manipulátorů a že mnozí další jsou fanatici, přesvědčení že existuje “rychlé řešení” složitých problémů národní obrany, mezinárodní bezpečnosti, kontroly zbrojení na Východě i na Západě a všeobecného odzbrojení.
- Zcela jednoduše to znamená, že státy západní Evropy, zbavené své kolektivní bezpečnosti, by ve své další existenci byly odkázány na blahovůli Sovětského svazu.
- Oba předpokládají třístupňový program vedoucí k odzbrojení na “úroveň nutnou pro vnitřní bezpečnost”.
- Skutečnými prioritami je dnes zastavit spirálu vývoje jaderných zbraní — a značně omezit konvenční síly a vyhnout se přitom vytvoření vážné nerovnováhy, jež by mohla ohrozit bezpečnost té či oné strany.
- Na druhé straně je naprosto nerozumné předpokládat, že lidé odpovědní za obranu a národní bezpečnost mají k dispozici jaderné zbraně jako deterent, a přitom nepočítají s možností jejich použití ve válce, pokud by jako deterent nesplnily svou úlohu.
- — To je svůdný argument, který však záměrně zapomíná na jeden důležitý historický faktor — totiž na to, že Sovětský svaz je expanzionistická velmoc, jejíž motivy jdou daleko za snahu zachovat svou vlastní bezpečnost.
- Mír v bezpečnosti Je proto důležité odolat pokušení brát příslušníky “mírových hnutí” jako svedené, ale neškodné idealisty.
- Logickým vyvrcholením jednostranného odzbrojení by byl rozpad západního systému kolektivní bezpečnosti, zatímco Sovětský svaz a Varšavská smlouva by zůstaly nedotčeny.
- Podle Statistické ročenky 1981 činily jen přímé a přiznané výdaje na armádu a bezpečnost v ČSSR v roce 1965 10 miliard 125 milionů korun, v roce 1980 už 22 miliard 900 milionů korun.
- V Jaslovských Bohunicích se prý ignorují i příkazy z porad ministrů (jak psala bratislavská Pravda loni v listopadu) k výměně kabelů, což sice neohrozí budoucí provoz, ale zato bezpečnost pracovníků.
- Hlavní příčinou prodražování výstavby jsou rostoucí požadavky na bezpečnost provozu.
- Kromě toho musím i uznat, že mé kritice vzali vydavatelé aspoň zčásti vítr z plachet svým prohlášením, že ve slovníku jsou nedostatky, nepřesnosti a vynechávky, vysvětlitelné tím, že slovník « byl dělán na koleně a čistě a jedině prací dobrovolníků, často ohrožených na osobní bezpečnosti nebo odříznutých železnou oponou od potřebných zdrojů informací.
- » Následují « Diplomacie » a « Armáda a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c1b4ac84a21f5cc77d3fe752ce93edb600d233200ef65d69d62ed1f5516589
+size 3793

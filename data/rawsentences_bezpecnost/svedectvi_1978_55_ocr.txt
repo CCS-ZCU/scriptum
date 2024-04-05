@@ -1,22 +1,3 @@
- Kurakina, servírka z moskevské restaurace a třicetosm dalších pracujících z 25 sovětských měst odevzdalo v prosinci 1977 v Moskvě zahraničním novinářům podrobně vypracovanou stížnost na nelidské pracovní podmínky, špatnou bezpečnost práce, korupci, vykořisťování a jiné zlořády v sovětské společnosti.
- Následná konference o evropské bezpečnosti a spolupráci v Bělehradě prokázala,, že sovětské manévry, např.
-5 procent, šetřit ac bude na sociálních službách, školství, kultuře, jen bezpečnost dostane přidáno, rozpočet zvýšen, přihlédnemc-li k inflaci, o 20 procent).
-) " bio o způsob připojení Zakarpatské Ukrajiny k SSSR, o návrat československých občanů zavlečených sovětskou bezpečností v roce 1945 do sovětských táborů a o odevzdání některých hotelů v Karlových Varech a budovy a pozemků pražského velvyslanectví Sovětskému svazu jako jakousi protihodnotu za Stalinovy závody v Záluží u Mostu, které sověti Československu vrátili.
- Rozšiřovali svoje pozice v politických a zpravodajských složkách bezpečnosti a armády s cílem získat je do svého výlučného držení.
- Všechny pokusy politických stran proniknout do jejich ,,monopolu v bezpečnosti * 1 tvrdošíjně a úspěšně odráželi.
- protistátní spiknutí na Slovensku, které vyrobila státní bezpečnost.
- Požadovaly na komunistech, aby zavedly pořádek do bezpečnosti a aby se ony samy mohly podílet na kontrole její činnosti.
- Komunisté však považovali bezpečnost za svůj , , rezort“ a nedovolili nikomu do něho zasahovat.
- Vyhlašovaly sice oprávněné požadavky — boj proti policejnímu státu, za pořádek v bezpečnosti, za udržení demokracie — ale bez úspěchu.
- A v zákulisí působila neviditelná, ale velmi mocná síla : komunisté v bezpečnosti.
- Komunisté už od roku 1945 si obsazovali hlavní velitelská místa ve zpravodajské a politické složce bezpečnosti a armády.
- Někteří vedoucí činitelé byli již během války nebo krátce po ní spojeni se sovětskou bezpečností.
- Únorové dny Aktivita „paralelních mechanizmů," zejména svolání sjezdu závodních rad a rolnických komisí, aféry v bezpečnosti, jakož i začínající mostecký případ přivedly vedení tří nckomunistiekých.
- Zjednání vlády i Národní fronty poznala, žc komunisté nechtějí přistoupit na kompromis ani v jednom sporném případě, a že v záležitostech bezpečnosti nemíní ustoupit ani za cenu vládní krize.
- Uvrhly by stát do zmatků a občanských bojů, přivodily by znehodnocení měny a inflaci, hromadnou nezaměstnanost, ožebračily by drobné střádaly, vyvolaly by nedůvěru u našich slovanských spojenců a ohrozily by bezpečnost a mezinárodní postaveni naši republiky.
- Se sovětské strany bylo české vření pozorně sledováno a vhodně režírováno (sovětská Státní bezpečnost zde od r.
-] Až na stížnosti na postup a nevybíravé zásahy do života občanů Státní bezpečností a zneužívání retribučních obvinění proti osobám komunistům nepohodlným a majícím odvahu se proti jejich nenasytně rozpínavosti otevřeně bránit a postavit, domnívám se, že rok 1946 končil ve vládě a v centrech politického dění dosti klidně a smířlivě.
- V éře nukleárních zbrani se překrývají zájmy USA a SSSR, pokud jde o bezpečnost, kontrolu zbraní a mír, ale nejsou to podle prof.
- Bezpečnost Spojených státu a jejich spojenců a životnost jejich občanské politické kultury je závislá na nezbytných podmínkách (jako jsou svoboda informací a politická soutěž), které sověty naopak považují za neslučitelné se svými politickými cíli.
- Maxa Hubert : Československé únorové události v roce 1948 v Radě bezpečnosti.
- Za lidovou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b436e09f5724a692964660ee45ef5454772221081c575a4ca78b95a25325415
+size 3882

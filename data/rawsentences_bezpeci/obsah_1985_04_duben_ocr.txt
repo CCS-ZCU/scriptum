@@ -1,1 +1,3 @@
- Mokrý Propast pana Cogito doma je vždycky bezpečí ale hned za dveřmi kdyi pan Cogito po ránu vykročí na procházku potkává propast není to propast Pascalova není to propas, Dostoj evského je to propast .
+version https://git-lfs.github.com/spec/v1
+oid sha256:08e7edc9668247893fdae44f2b3e52201fa3dc4de559c7d574644eeb5ff30f21
+size 218

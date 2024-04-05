@@ -1,3 +1,3 @@
-státní bezpečnost táhnout výslech
-vláda USA přesvědčený prodej zbraň země zvýšit bezpečnost povzbudit sebedůvěra ochota zúčastnit významný jednání mírový uspořádání
-rada svobodný Československo
+version https://git-lfs.github.com/spec/v1
+oid sha256:b717fc609ffdc08d7ef482ff9dbe41789118f0219cbd1b60d74343710008dbb9
+size 225

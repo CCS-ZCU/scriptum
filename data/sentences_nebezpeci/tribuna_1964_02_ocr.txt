@@ -1,1 +1,3 @@
-komunistický kolos boj nadvláda svět útok Laos Vietnam rozehrávat hazardní gambit nebezpečí konečný důsledek nedozírný
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d157bb346667932c37b6f15c2cf44c293c0457902ead5495d075b65448a8643
+size 132

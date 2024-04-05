@@ -1,1 +1,3 @@
-00 Bezpečnost Jaderných elektráren - přednáška, na kterou jsou pozvány kapacity stojící názorově proti sobě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d319ddc22efcb12a71d4e944af7f2a6af352f60ade8dfab5cfea596384215cf
+size 121

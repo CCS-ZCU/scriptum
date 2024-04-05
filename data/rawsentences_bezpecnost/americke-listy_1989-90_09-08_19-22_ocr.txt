@@ -1,5 +1,3 @@
- Protože tento druh pomluv dostatečně nezapůsobil, požádala strana o bratrskou pomoc - také ve své běžné kontinuitě - Státní bezpečnost.
- Vyjádřily se k němu i Spojené státy, Severoatlantická aliance a Lýbie, a Turecko oznámilo, že chce věc předložit Radě bezpečnosti Organizace spojených národů.
- Názorným toho dokladem bylo pražské "celoměstské shromáždění předního funkcionářského aktivu příslušníků Lidových milicí a Sboru národní bezpečnosti".
- Kupodivu se tak jednoznačně nevyjádřil o Sboru národní bezpečnosti: naopak zaurgoval intenzivnější ideologickou práci mezi jeho příslušníky.
- Není pochyby o tom, že povzbuzeni silnými slovy shora zvýší příslušníci Sboru národní bezpečnosti své aktivity ještě horlivěji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e4a5a013825f8d31fae318f976b5677dc622282fa57a0b5605b85509fb1422c
+size 809

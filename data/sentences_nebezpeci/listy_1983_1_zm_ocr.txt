@@ -1,10 +1,3 @@
-seskupení různý mírový organizace připravovat velký shromáždění mír květen západní Berlín rozdělený otázka část hnutí většina vidět hlavní nebezpečí mír politika spojený stát americ kýt raketa rozmístění Evropa chtít zabránit protestovat protestovat sovětský raketa evropský území existovat
-druhý strana koncepce vidět proces zmirňování napětí možnost podnik stav východ západ nebezpečí vojenský intervence ekoný mický tlak traumatický otřes respektování strategický zájem velmoc
-možný čelit nebezpečí izolace rozhod jící sociální síla společnost trpký zklamání minulost moci polo vičatý opatrný reforma odmítat
-minout nebezpečí Vatikán moci dohodnout režim záda příslušný episkopát
-biskup uvědomovat rostoucí nebezpečí kardinál Wyszyňski státnický prozíravost předvídat překážka subjektivní ráz postavit cesta obrodný proces národní emancipace
-jiný slovo soud zvažovat nebezpečí celek vklad tlivý obviněný
-občan povinný vysvětlení podat odepřít moci případ předmět vysvětlovaný uvedený skutečnost výpověď způsobit nebezpečí trenér
-způsobit nebezpečí trenér
-nebezpečí odsouzení dbaný povinnost malý úspěch mladý lékař kolegium odborník pře ležitost přísný postup
-významný myšlenka chtít svět nebezpečí zakořenit slyšet vřava rovnoprávný originální hlas
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e28a179a4b97d63fac23ad803647afa1b0bbb257b83d10db29a49bde44897eb
+size 1485

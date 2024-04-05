@@ -1,2 +1,3 @@
-rok devadesátý smolný léto přijít velký sucho naftový kri velký obchodní partner vypovědět smlouva odmítnout platit nový zkušený ambiciózní vláda pustit zdražování horšit obava vést země bankrot národ cítíc svobodný počít hašteřit svobodný zvo lený parlament ukázat vděčný zpupný chamtivý neschopný prezident zvolení ptát chvět mít chovat poražený pokora vědomý vin opus vládnoucí postavení znát stát celý zátý zračný převrat smla vený změna pravidlo hra liko změnit slovník významný návyk opravdový nebezpečí ztráta postavení hrozit
-starý kádr
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee5d53920cdf3fa60a88ad67b1cd82c403de722286d1f1c6fca1ac4e4ce9ba34
+size 713

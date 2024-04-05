@@ -1,1 +1,3 @@
- PRÁVO NA SOCIÁLNÍ POMOC, na sociální pojištění pro případ nezaměstnanosti, nemoci či invalidity a stáří, a právo na sociální bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:409ddb6ef43f12405e763ef521fe4f1a7eed0ce6654f4bbdcf6ccc9345c1f502
+size 157

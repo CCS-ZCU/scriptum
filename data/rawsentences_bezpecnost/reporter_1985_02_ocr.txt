@@ -1,3 +1,3 @@
- Podle narychlo, ale perfektně připraveného scénáře bude obžalovaným sice dokázána vina, avšak budou tvořit vzácnou výjimku, černou skvrnu na těle jinak neposkvrněné bezpečnosti.
- Brzezinského, bývalého poradce presidenta Cartera pro národní bezpečnost.
- Jejich ideologové už přicházejí i s novými argumenty: tento obranný systém učiní USA tak bezpečné, že se nebudou muset starat o bezpečnost západní Evropy a tak ji vystaví všanc sovětskému útoku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8110491f7cca51bc001e8a6cda5e1a7179dc263330315275486300a3bcb147
+size 496

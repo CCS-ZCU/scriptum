@@ -1,2 +1,3 @@
-zpráva událost vyvolat obava panický cestování Evropa nebezpečí pobyt cestování evropský země
-pomoci dopis rozeslaný ústředí americký jednota ujišťující sletový účastník hrozit nebezpečí podobný ujištění bratr starosta vysílání krajanský rozhlas Cleveland návrat jarní schůze výbor ústředí konaný Curych
+version https://git-lfs.github.com/spec/v1
+oid sha256:83b0b1294c0f83be587a1043c7e5b58ef3adc78bad4340c92c67c418be2dfc44
+size 346

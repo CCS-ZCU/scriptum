@@ -1,1 +1,3 @@
-moci udělat velký podpora zájem solidarita svobodomyslný lidé svět šít malý nebezpečí zavřít velký naděje volání znít prázdno
+version https://git-lfs.github.com/spec/v1
+oid sha256:da2d2d42cd6f58d6c9a050e9ab0893bb02d08a017a7f3e0f69613c582363c047
+size 147

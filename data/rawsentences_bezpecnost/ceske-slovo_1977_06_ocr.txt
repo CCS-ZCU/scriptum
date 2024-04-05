@@ -1,7 +1,3 @@
- 1946 byl ustanoven zemským velitelem sboru Národní bezpečnosti pro Slezsko.
-  Strana 8 ČESKÉ SLOVO Číslo 6, červen 1977 V Československu koluje v poslední době spousta vtipů na „ochránce bezpečnosti" občanů — policisty.
- Jejich „úroveň" je prý stále tnjšší a náš čtenář z Prahy, který nás nedávno navštívil v mnichovské redakci, vyprávěl: Jdou dva uniformovaní příslušnici Veřejné Bezpečnosti po Národní třídě.
- Československá vláda se v něm vyzývá, aby dodržovala Ústavu republiky a ducha i literu Mezinárodního paktu o občanských a politických právech a Mezinárodního paktu o sociálních, hospodářských a kulturních právech, kteréžto dokumenty právě tak jako Záverečný akt konference o bezpečnosti a spolupráci v Evropě, Československo podepsalo.
- Jak si vysvětlíte, když dva policisté vedou jednoho psa? Dělnická třída má převahu nad intelektuály! A co když jde jeden policista s jedním psem? Víc hlav — víc rozumu! Na pohřeb příslušníka Veřejné Bezpečnosti se dostaví jeho nejlepší přítel — také policista — s velkým zpožděním.
- Státní bezpečnost při „návštěvě“ jeho bytu zabavila mu a jeho manželce osobní doklady a vůdčí list.
- že osobní a majetková bezpečnost se nedá získat dodatečně, když je již pozdě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df7bb9c6a062212149533b09a722eced30b370f528f0070ae15c42fcb699cd1
+size 1368

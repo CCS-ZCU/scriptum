@@ -1,2 +1,3 @@
-nebezpečí PUDU
-nebezpečí sport
+version https://git-lfs.github.com/spec/v1
+oid sha256:46177cfbef40cc2819a76f460325cfc59890e9bed903705d342b04fb916da1f4
+size 35

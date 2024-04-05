@@ -1,2 +1,3 @@
- VÝCHOVA A RODINA Rodina, ve které se dítě cítí v bezpečí a milováno, není pouhým biopsychicko- sociálním uskupením, jež lze popsat strohým jazykem statistik.
- Má být místem nejhlubší intimity a bezpečí, ke se tělesné, citové a mravní síly dítěte rozvíjejí v atmosféře klidné a důstojné kritičnosti a víry ve smysluplnost konání dospělých.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f9d70f2af817f1ecb34a10bf1b85c8ad8285b1d6f0813b8a418f86b608aceab
+size 381

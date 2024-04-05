@@ -1,1 +1,3 @@
- Je snad polská policie méně brutálnější než naše? Dá se tak rovněž mluvit o policii chilské? A tato bodrá tělesa Papeže chránit směla bez výhrad a obav o Jeho bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6d426a3ca2cdb30b4b73fde7239dacb3d701813207d294d5a55563973cb968a
+size 192

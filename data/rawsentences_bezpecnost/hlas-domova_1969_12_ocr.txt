@@ -1,3 +1,3 @@
- Soud předvolal nyní jako svědky dva bývalé spolupracovníky Státní bezpečnosti dr.
- Dále uvedl, že za uplynulých 24 let byly už tisíce příslušníků Bezpečnosti vyznamenány za příkladnou činnost a obětavé plnění úkolů.
- V závěru ministr poděkoval všem příslušníkům ministerstva vnitra za dosavadní práci při zajišťování bezpečnosti ČSSR a vyslovil přesvědčení, že ministerstvo vnitra ČSR své úkoly splní i v budoucnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f977bf277e1803da0dc60cc51c7c36da7a80f736d6f0cdf1f011a2102bf9e399
+size 476

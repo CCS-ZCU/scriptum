@@ -1,1 +1,3 @@
-leden nebezpečí přehnaný nacionalistický požadavek
+version https://git-lfs.github.com/spec/v1
+oid sha256:67df18b327ea7a60edd3d8774af00aa703abf242c9a2320573cb9d21ecf9bc29
+size 57

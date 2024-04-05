@@ -1,2 +1,3 @@
-tatínek intelektuál snířený politický vSeni důsledek věta rozpoznat nebezpečí dokázat podnik slovo svoboda znít *ích rok
-konis podnik litr písenný svědectví octnout tin život členit ráze nebezpečí hodina nohnout zaručít výjezdní brojený skupina Praha
+version https://git-lfs.github.com/spec/v1
+oid sha256:e303ee1b64b2b126b120f9be3aecd5c6e96a331800b6c4a7881d260063cc65b7
+size 280

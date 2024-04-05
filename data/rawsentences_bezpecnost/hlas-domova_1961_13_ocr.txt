@@ -1,5 +1,3 @@
- Konference o bezpečnosti v Evropě Na východ od Berlína Jménem Komunistické strany Československa zasíláme vřelé soudružské pozdravy XIX.
- Zlepšovatelé si to nedali líbit a předali stížnost bezpečnosti.
- Když bezpečnost začala případ Podkopovky vy- šetřovat, se zlou se potázala.
- Zakázal strážným pouštět do podniku orgány Veřejné bezpečnosti bez jeho souhlasu.
- Charakteristic- kým rysem všech návrhů socialistických zemí jak v celkové otázce evropské bezpečnosti, tak v otázce Německa a Západního Berlína je, že důsledně vycházejí z reálné exis- tence dvou světových soustav a nutnosti zajistit jejich mírové soužití, aniž by chtěly dosáhnout nějakých výhod na.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dffc7114880e2457066e3d73ff4b42c9333d1dc1e7a2c086b1f7fba29fbf26b
+size 737

@@ -1,1 +1,3 @@
-polovina esesák zraněný ležet země ostatní hledat bezpečí plot ostnatý drát střílet vězeň pistole
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a6e94bacce399eceeb0e7948bafe36539ce7dec3dc4e00061fc0f175d55f6d5
+size 112

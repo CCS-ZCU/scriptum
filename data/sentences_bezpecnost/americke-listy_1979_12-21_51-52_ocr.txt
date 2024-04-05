@@ -1,4 +1,3 @@
-americký komise bezpečnost spolupráce Evropa vydat
-zjasní vyhlídka úspěšný výsledek činnost komise bezpečnost spolupráce Evropa schůze pořádaný Madrida rok
-Německo postavení rukojmí heslo sjezd západoný mecký sociální demokracie zahájený západní Berlín bezpečnost osmdesátý léta
-spolkový kancléř předsjezdový televizní interview zdůraznit bezpečnost západní Německo záviset příslušnost severoatlantický společenství solidarita
+version https://git-lfs.github.com/spec/v1
+oid sha256:b37310d2977a3a9ec0a7dca12bd39213c151ced75f56792f80f7cb22f79eb2b1
+size 478

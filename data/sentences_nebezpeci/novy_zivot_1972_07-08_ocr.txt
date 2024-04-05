@@ -1,8 +1,3 @@
-katedrála
-povídka John Gérard
-skutečnost zvýšit nebezpečí
-moci uvolnit podařit lano spadnout kanál velký hluk octnout nebezpečí
-poděkovat lidé vykonat vystavit velký nebezpečí
-okupace Rakousko informovaný Schütz upozorňovat Beneš nebezpečí navrhovat možný Rakousko zachránit
-obstát jiný internacionál řešit povodí Amur chtít pojednávat bezmezný smutný záležitost slovanský plemen hrozit děsný nebezpečí psaný vojsko jezdec
-pán nemocný podaný důkaz služba namáhat
+version https://git-lfs.github.com/spec/v1
+oid sha256:4364142e9557ace4c817e20f88bde34a7632829ffab8f3782bf34a2c340f61c6
+size 514

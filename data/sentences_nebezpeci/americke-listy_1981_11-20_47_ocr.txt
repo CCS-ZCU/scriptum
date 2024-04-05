@@ -1,2 +1,3 @@
-Madrid zahájený optimismus hrozit válka
-případ Hitler svět nebezpečí rozeznat konec Hitlerův
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c73d7534b9977e9487cc8517ff6ffe00fe15d76752ce38c1312b576ab3e1e10
+size 102

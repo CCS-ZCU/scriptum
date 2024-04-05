@@ -1,2 +1,3 @@
-vystavovat nebezpečí prezident Carter vyhlásit nukleární embargo
-hrozit nebezpečí evropský průmyslový země obava Amerika dodavatel obohacený uran plný spolehnutí hledat jiný zdroj pokusit realizovat projekt spolupráce spojený stát důsledek Washington ztratit čas kontrola výroba jaderný energie účel mírový válečný
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fc41021eba4e6f0bae673d04553074ae3c7131079377f39c8b7b8aac341a99a
+size 344

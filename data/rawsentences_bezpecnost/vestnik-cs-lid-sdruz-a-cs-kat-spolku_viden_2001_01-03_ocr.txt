@@ -1,2 +1,3 @@
- Leden 1989 - Veřejná bezpečnost na nádraží ve Všetatech Nevím, ale určitě to nebude Peking.
- V šachových partiích diplomacie jí chybělo přemýšlení na několik novala střední a východní Evropě a Rusku; doktorát získala na Kolumbijské univerzitě v New Yorku po vedením Zbig- niewa Brzezinského, který ji později přivedl k práci pro Radu národní bezpečnosti prezidenta J.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9624b545f666a90350d1b5a26173ae340c473881490a82b29e84bba35740fa97
+size 407

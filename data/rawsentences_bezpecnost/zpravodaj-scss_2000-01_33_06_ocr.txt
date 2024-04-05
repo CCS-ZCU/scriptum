@@ -1,4 +1,3 @@
- Smrt na hranicích Zákon číslo 69/1951, § 8: „Ministr národní bezpečnosti stanoví nařízením, kdy příslušník Pohraniční stráže při výkonu své pravomoci použije zbraně.
-“ Nařízení ministra národní bezpečnosti ze 14.
- vláda Pohraniční stráž, která nahradila dosavadní pohraniční ostrahu Sboru národní bezpečnosti.
- K tomu Karol Bacílek, původně dělník, potom ministr národní bezpečnosti: „O tom, kdo je vinen a kdo nevinen, kde končí omyly a chyby a kde nastává trestní odpovědnost, rozhodne strana za pomoci orgánů národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaca29cfea055a0ff062d619608694229e400f7502e690ca9e5ba2492484248a
+size 602

@@ -1,7 +1,3 @@
-ideologie označit Novotný ukazovat prst Čína dogmatismus hlavní nebezpečí vnejšek revisio mířit ukazováček spisovatel novinář důležitý nepřítel
-Zenkl zásluha jít upozorňování americký veřejnost problém komunistický nebezpečí
-věc informovaný vlivný složka veřejný mínění prvý řada exil přesvědčit západní vláda velký nebezpečí pocházet komunistický systém nesvoboda
-západ USA dbát dbát uchovat vojenský hospodářský politický převaha zbrojit vyvíjet diplomatický iniciativa míra činit Harrimanův doktrína moci vyplynout Čechoslovák nový nebezpečí Sovět ilusivní konference Jalta Rooseveltův doktrína míněný rok Trumanův doktrína
-zdát možný nebezpečí hrubý zkreslení postoj otázka zodpovědět evangelický stručnost
-státní tajemník Dean Rusk snažit vysvětlovat zahraniční americký politika politika ustávající bdělost nebezpečí komunismus konečný cíl změnit politika nutný pružnost měnící situace
-svobodný svět výstraha komunistický nebezpečí příčina komunista napodařit znásilnění Československo zmocnit jediný další země
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a4d182b5d0e7b877f50bba3c3d0fb6653340e1c678527d306ecc63df0036fed
+size 1159

@@ -1,4 +1,3 @@
- Naopak, jsme přesvědčeni, že velká pomoc výzbrojí a personálem poskytnuta Fidel Castrovi komunistickými režimy je formou nepřímé intervence zasluhující odsouzení Spojených národů a energického zákroku členů Organisace Amerických Států na kolektivní obranu bezpečnosti naší pevniny.
- Všechno, co nám je drahé, je dnes v sázce: Vnější bezpečnost Spojených států je ohrožena vzrůstem světovládné moci komunistického spiknutí.
- Strážcem vnější bezpečnosti Spojených států je především naše vláda.
- Vždyť americká bezpečnost a americký způsob života jsou dosud pouze ohroženy, kdežto československá svoboda je prozatím ztracena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73539f67b3ed0516f8808e30f6d005d9d7aaf14b184bbb6cb2c681525eb435f7
+size 699

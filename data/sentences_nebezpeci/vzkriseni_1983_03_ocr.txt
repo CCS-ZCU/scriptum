@@ -1,1 +1,3 @@
-vědět určitý nebezpečí lepší poznat rozejít prvotní doba svéh® křesťanství
+version https://git-lfs.github.com/spec/v1
+oid sha256:cac1ef26f076858568d77726ff7af317c6a620c8b3b55d52498c8973c371a05c
+size 90

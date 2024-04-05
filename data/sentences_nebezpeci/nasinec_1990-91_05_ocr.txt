@@ -1,7 +1,3 @@
-jasný vidět nebezpečí návrat komunismus ideologie mrtvý
-zděšení protest platný vykládat pozvolný odzbrojování bělásek zažehnávání nebezpečí případ občanský válka
-mluvit nebezpečí nový studený válka
-čas studený válka odejít emigrace
-hrozit nebezpečí udělat další další dluh plno dluh den spadnout klec
-informovat světový media teče stálý nebezpečí život konservativní komunista reforma oponující zasluhovat maximální podpora západ
-absolvovat flagelantský orgie Harassement kongres přední akademický funkcionárka velký zážitek život významný událost století kolega přijít varovat případ přítomnost žena studentka kolegyně zaměstnankyně kancelář zavírat dveře vystavovat nebezpečí obviněný
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa61eb7183d2941562dc079634c92c719afb44c59bf0b3e04dd33beb706988e5
+size 775

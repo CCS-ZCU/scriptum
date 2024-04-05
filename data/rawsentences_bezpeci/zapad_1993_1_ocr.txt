@@ -1,1 +1,3 @@
- se postaral I o bezpečí koru- novačních klenotů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5360fe83b92138597e4a158be6a7f3bfa24f037ffc1204a26f0475c564a73000
+size 225

@@ -1,1 +1,3 @@
- Výjimkou Jsou omezení, Jež jsou stanovena zákonem a Jež jsou nutná v demokratické společnos- ti v zájmu národní nebo veřejné bezpečnosti, veřejného pořádku, ochrany veřej- ného zdriví nebo morálky nebo ochrany práv a svobod jiných.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa33204adee83c4d62308f421a24aa1e74b3bddebc6d2141a2d7201b4bc4502c
+size 257

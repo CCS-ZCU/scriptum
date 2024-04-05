@@ -1,1 +1,3 @@
- Při útěku ke státním hranicím zastře- lil okrskového zmocněnce Veřejné bezpečnosti J.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff10791b447ee861cfa0ed59359ae12d7cd7cb89b41b473e344698c8c69e59eb
+size 99

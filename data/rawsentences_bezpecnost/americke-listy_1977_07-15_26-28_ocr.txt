@@ -1,1 +1,3 @@
- Jak by se měly řešit problémy obsažené v závěrečném aktu, jak by se mělo dosáhnout pokroku při prohlubování bezpečnosti a spolupráce, kdyby se setkání omezovalo na pouhé opakování dřívějších příslibů? — táže se Scinteia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4e82994e8741cd6a10ab58487c6fc217f725fbe0ac558eebcf3a5d5365a6c4
+size 256

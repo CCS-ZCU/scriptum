@@ -1,1 +1,3 @@
-bezpečnost ekvšlost akce ^uo^^íla ^va jadřovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:820c469de91998a98e1beff41cd0447b2042482ae589718c3e0a77ea11d3fc84
+size 51

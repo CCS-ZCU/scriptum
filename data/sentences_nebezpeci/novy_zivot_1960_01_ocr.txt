@@ -1,6 +1,3 @@
-velký nebezpečí moderní vzpoura spočívat lehkomyslnost dnešní člověk odmítat Kristus kříž
-nutný zničit poslední kořen ZLA
-hrozit nebezpečí aktivista volba prostředek metoda sáhnout teorie třídní boj stát marxista
-příležitost vyhnutelný vyplývat životní zbytnost mravní povinnost muset hledat prostředek ubránit mravní nebezpečí
-Agnuska svátostina věřící připisovat zvláštní boží ochrana nebezpečí tělo duše
-Vždyí nebezpečí říci žert horlivý čtenář nový život číst slušný všecka strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:663f6bd40d286ef609077d5fb1ceae12454cb409d4060e7c39d254ced4d96757
+size 557

@@ -1,1 +1,3 @@
- Prostranství kolem statue vyklidili Sokolové a když zajištěno bylo bezpečí, uvázán do středu sloupu provaz, který se však při prvém nárazu přetrhl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0378e4c7ed77f416983de061623d02024848d19ec45b26f956ab09c05e1bc9af
+size 165

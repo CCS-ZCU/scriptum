@@ -1,1 +1,3 @@
- — V minulém roce řešila Veřejná bezpečnost jen v českých zemích 109.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd836bc8a304e0f0c1b62b2c813f22d3e9990dfca40956d20c1ead65ef74b91
+size 81

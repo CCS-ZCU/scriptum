@@ -1,2 +1,3 @@
-první čas rozdávat nebezpečí okupant oko
-moskevský pravda okupantský voják shazovat helikoptéra poučit věrný kilometr nebezpečí hrozit intervence svobodný legální noviny
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a2bece914e677d8de00183dd74a3807071194e83efe82892d75f4971cbdb495
+size 187

@@ -1,1 +1,3 @@
- ktorý z ohla- dov na národnú bezpečnost’ a z dóvodov hospodářských za 20 rokov přísné obmedzoval export amerického tovaru do komunistických krajin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fa630e219fea59b64dde5c3673265c1641a85dbc1b0e7c37c940fb8e78ab3db
+size 164

@@ -1,1 +1,3 @@
-Francouz podniknout Gajda krok domnívat Gajda ohrozit státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:92569a5aa90c5b543f5b26737880ddd350d4693ff4ab1048a8443d51f4ac23f3
+size 76

@@ -1,1 +1,3 @@
- Tento vzrastajúci pocit úľavy & bezpečnosti nemá základu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9cc4bd73e1d947a9962f7f4a5e2b04aa6dcb4e27763013117969b1f0335620
+size 65

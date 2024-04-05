@@ -1,5 +1,3 @@
-Horáková vědět nebezpečí vystavený národ
-bonnský vláda květen octnout hospodářský úžině následek přesycený dolarový trh překonat nebezpečí bezprostřední
-odvádět pozornost nebezpečí problém komunistický strana
-žlutý nebezpečí vtáhnout Praha jásot přivítaný psát krajanka Praha
-zapomenout slovo bolševický nebezpečí horší nebezpečí německý vychytralý bezohlední
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d159dd5795d8fa838fe4b9adc098c90f51d62610d9275d0f75ed0c0d5a442ef
+size 414

@@ -1,3 +1,3 @@
-nou soustřeďovat kritika americký politika bagatelizovat sovětský nebezpečí
-zdůraznit globální nebezpečí moskevský komunismus
-divák uvědomit nebezpečí vsadit útok
+version https://git-lfs.github.com/spec/v1
+oid sha256:441b2699354e68fb9cb646a4675d1b008a79cae4014fea98b0fbc72d8add65e5
+size 181

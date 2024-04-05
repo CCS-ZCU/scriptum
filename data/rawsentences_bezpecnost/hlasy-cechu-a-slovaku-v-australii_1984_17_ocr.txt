@@ -1,1 +1,3 @@
- Slova kněze nad hrobem ruší státní bezpečnost spuštěnými motory svých motocyklů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5718644b61004db6c6cc0711e722f8c9be934fa5407b98a86edff5249a3f2c02
+size 93

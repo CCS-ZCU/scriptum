@@ -1,2 +1,3 @@
-líakonec ^dyž jít utajit pravo číst rozměr následek neštěstí minimalizovaný ¿čkoliv rychlý spolenlivý informace důležitý pra lid^ skon bezpečnost sdělovací prostředek vlást laz
-bezpečnost obžalovaný chránit rikadv lavice hledaný Zqiuo podnik litr
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b6cf375beae08481bd782a7879306e5dccf282793fce911d0e21cffcff12df8
+size 273

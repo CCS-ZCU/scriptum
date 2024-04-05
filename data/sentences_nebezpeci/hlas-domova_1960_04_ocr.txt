@@ -1,1 +1,3 @@
-americký znalec tvrdit dát nebezpečí čelit něko lika způsob
+version https://git-lfs.github.com/spec/v1
+oid sha256:caa7927c78547e32f91162a2ed77a333eb50d6f20ceb0b377325fe0f516aeb54
+size 56

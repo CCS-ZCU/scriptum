@@ -1,1 +1,3 @@
-Mnoř rekord odci nápor mladý atlet bezprostřeý nebezpečí Rus Anufriev Xuc Angličan Pirie výkon lympiáda Helsinky vyhrát
+version https://git-lfs.github.com/spec/v1
+oid sha256:474072ea6ed2ef1c65e04f369fb505daef4df4afe9af3bebe22bd6f26246d0f9
+size 131

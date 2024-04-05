@@ -1,1 +1,3 @@
-Miloslav Zeman František rád dočkat Maminko rád ses dočkat chtít bezpečí vracet lip
+version https://git-lfs.github.com/spec/v1
+oid sha256:975d10b200f4b87721767a71737ffe70d43aff9ce0c8071e09f34dc4c1122a8b
+size 92

@@ -1,1 +1,3 @@
-Čelme bezpečí nervový šok hrozit skuteč nost patřit blahoslo vený
+version https://git-lfs.github.com/spec/v1
+oid sha256:3356efca31dff76094ae77fa77188bafb6d2cb10a3aa479a221c23094c76901e
+size 74

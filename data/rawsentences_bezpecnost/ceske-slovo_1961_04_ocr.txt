@@ -1,3 +1,3 @@
- Je proto jasné, že pokračování tohoto druhu vedení války představuje poměrně vážné a trvalé nebezpečí pro bezpečnost Spojených států.
- Žádá se v ní zajištění fysické bezpečnosti a nerušené činnosíi členů diplomatické mise v Praze.
- Rudné doly v Příbrami zavedly pravidelné měsíční hodnocení jednotlivých závodů v bezpečnosti práce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e5cef5ca2ea686b6a381b1e6b11465681f78d211c6c45eb01ae574368cf5cb7
+size 383

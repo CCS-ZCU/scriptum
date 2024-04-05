@@ -1,1 +1,3 @@
-zkoumání vést jednoznačný závěr zvaný létající talíř představovat hledisko národní obrana nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5453f5f3d96e0f95eda2e705d2d07c556a31a436840fb529b6cb954c4c3d7bb
+size 118

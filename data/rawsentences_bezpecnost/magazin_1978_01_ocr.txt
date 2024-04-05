@@ -1,4 +1,3 @@
- Pamatujete se na historii s vrahem faráře Toufara? V roce 1968 ho na krátký čas vzali do vazby - byl to tehdy, tuším, už kapitán bezpečnosti ale za pár dní ho zase pustili s odůvodněním, ze od vraždy uplynulo dvacet let, což je čas potřebný k promlčení.
- - Vaší povinností bylo to hned odevzdat na bezpečnosti.
- Nikoliv neopodstatněně vznikají obavy, že státní bezpečnost zinscenuje nějakou teroristickou akci a poton z ní obviní toho, kdo jí je nepohodlný.
- Státní bezpečnost má ještě v dobré paměti, že to byli po sovětské okupaci právě železničáři, kteří nechtěli dlouhou dobu pochopit "normalizaci" a že by to tedy mohla být úrodná půda pro akce nežádoucí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39452cb9b89c0b4d917b4fec2ab28e855e2af9724528cff07f00a96e4246402d
+size 728

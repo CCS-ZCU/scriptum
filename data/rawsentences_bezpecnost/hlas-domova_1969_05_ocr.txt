@@ -1,3 +1,3 @@
- Hlavní však je, že prý se nemusím bát, protože o moji beztrestnost a tuidíž i bezpečnost je prý postaráno.
- Naplňuje mě neobyčejným pocitem; bezpečí, slibuje-li mi bezpečnost někdo, kdo si není jist bezpečností vlastní.
- Prohlášení pojednává též o ' upevňování vnitřní bezpečnosti” a ochraně před asociálními a kriminálními živly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40fa666fb7832f73c97b88501e3644fe2e914a496398f1598c734f5479b861d9
+size 378

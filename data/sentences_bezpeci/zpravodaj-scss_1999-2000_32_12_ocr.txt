@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojištovnictví skýtat vysoký možný záruka solidnost bezpečí
-bezpečí Švýcarsko cesta skončit
+version https://git-lfs.github.com/spec/v1
+oid sha256:4131759edbcb27a258689f17606cf681629b7ec8994171a6cd689894861f000f
+size 133

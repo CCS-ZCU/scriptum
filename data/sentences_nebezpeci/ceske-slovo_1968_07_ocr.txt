@@ -1,2 +1,3 @@
-nebezpečí německý slovanský charakter utlačovatelc obludný imperialismus
-hrozit nebezpečí letecký bombardování
+version https://git-lfs.github.com/spec/v1
+oid sha256:01cf529fbfc1b8ce585c1d36ff471b297e8cb714354a0ebd251cbf9ed98888ae
+size 123

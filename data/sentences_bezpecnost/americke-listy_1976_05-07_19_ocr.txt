@@ -1,2 +1,3 @@
-Rudolf Rössler mít zásluha bezpečnost svý cárský druhý světový válka
-leden sovětský bezpečnost zatknout zatčení najít pytlus konfiskovaný literatura zničený odepsaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:22477789a1cea93d4878ec9e5c2b1b330a6d219d8bcbf8b81217211719642664
+size 186

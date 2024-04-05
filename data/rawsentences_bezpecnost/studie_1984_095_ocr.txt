@@ -1,13 +1,3 @@
- I když pro její autory a distributor}' hrozí nebezpečí zatčení a výslechů na Státní bezpečnosti.
- 446  Severomoravský kraj vykazuje v poslední době zvýšenou aktivitu v »ideologickém boji« prostřednictvím úřadů, a orgánů Bezpečnosti.
- Nikdy jsem se neprovinil proti jejím zákonům, bezpečnosti a celistvosti.
- Výslechy na Státní bezpečnosti naznačují, že je obviňován z působení na mládež.
- Státní bezpečnosti Brno VS-ČVS: 199/15-84 V Brně, dne 25.
- září 1984 Razítko: krajská prokuratura v Brně Nad razítkem prokuratury razítko: KS SNB Odbor vyšetřování Státní bezpečnosti Brno * * + 454  Věc: Stížnost V Brně 27.
- Ivanka Kotrlá Elišky Machové 35 Urno 616 00 * + * Razítko: Krajská správa SNB odbor vyšetřování Státní bezpečnosti Brno VS-ČVS 199/11-84 V Brně, dne 25.
- PROTI REPRESÁUfM STATNÍ BEZPEČNOSTI Dne 16.
- sprna 1984 od časných ranních hodin prováděla pražská Státní bezpečnost, posílená pracovníky StB z dalších krajů, domovní prohlídky a výslechy, které byly zaměře- ny proti Chartě 77 a jiným nezávislým aktivitám.
- Protože vše, co tu popisujeme, bylo provedeno bez vědomí a souhlasu prokuratur)' a ani dodatečně nám nebyl v zákonem předepsané lhůtě žádný takový příkaz předložen, do- spěli jsme k závěru, že šlo o svévolnou a nezákonnou akci Státní bezpečnosti, kterou byly porušeny všechny právní normy našeho státu.
- dubna jsem byl předvolán na oddělení Státní bezpečnosti v Liberci.
- Hlavní a v podstatě jediné téma pohovoru, který se mnou vedl příslušník Bezpečnosti, jenž se před- stavil jako major Melichar, bylo moje současné stanovisko k Chartě 77.
- Příslušníci Bezpečnosti se mi snažili vy- světlit, že můj postoj je mojí chybou, která je zaviněná neznalostí lidí, kteří Chartu rovněž 468  podepsali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5508049b0c511adc3de02879bbbcf1a7faef7776db559af66ced4b01c67a8ddd
+size 1913

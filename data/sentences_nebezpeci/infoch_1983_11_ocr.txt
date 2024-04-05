@@ -1,1 +1,3 @@
-Evropa umístění zbraň zvyšovat bezpečnost země ¿©jichž území rozestavěný vydávat nebezpečí atomový útok odvetný úder mít znamenat znič celý území vôeho život
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0045c8b5cd8be9fc6597876e22ad1935dc03750ea56fe473cd66b2726be4592
+size 190

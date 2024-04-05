@@ -1,1 +1,3 @@
- I když myšlenky přitom občas zbloudí od jednotlivých strof a povzdechnou si nad nerozumnou ce- nou vajíček, i když si třebas tu a tam nad nějakým Zdrávasem na pár minut zdřímnou, není to žádné neštěstí, vždyt se uchylují do většího bezpečí než jindy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:233a61d84d63c5983d70d0ad59b29c54041911a88e4bfe92503abc4a1c7d575b
+size 281

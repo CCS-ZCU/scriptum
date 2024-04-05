@@ -1,2 +1,3 @@
- Takovým krokem je v této době projednávání senátního návrhu novely zákona 140/1996 v poslanecké sněmovně (zpřístupnění dokumentů, vzniklých činností bývalé Státní bezpečnosti a někteiých bezpečnostních složek komunistického režimu), píšeme o tom na str.
- o zpřístupnění svazků vzniklých činností bývalé Státní bezpečnosti a další související zákony (o archivnictví a o správních poplatcích).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ced40814d158c55ffe9adddd3b97b15acfd9114f8e007df2a7dfc4e9865f4645
+size 450

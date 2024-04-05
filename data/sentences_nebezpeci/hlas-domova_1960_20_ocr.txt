@@ -1,2 +1,3 @@
-mítě rumilovný přehlédnout nebezpečí
-náčelník generální štáb nebezpečí přehlédnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:518b3946e965172b9d4987db578b83df42f028477cd73553d6cef8919bc500a2
+size 97

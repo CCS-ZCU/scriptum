@@ -1,2 +1,3 @@
- Keď sa před človekom objavila překážka na ceste k jedlu, vodě, útulku, hl'adania druhého partnera (párenia) a k pocitu bezpečnosti, objavil sa hněv, ktorý vyprodukoval energiu potrebnú na to, aby táto překážka mohla byť odstraněná a zničená; aby on mohci přežit’.
-Možnost1 výbuchu hněvu u 1'udí, ktorí žijú bez primeraného jedla a bývania, ktorí bývajú v podmienkach, ktoré plodia násilie, a ktorí sídlia vo štvrtiach, v ktorých sa ustavičné boja o svoju osobnú bezpečnost’, je stále aktuáina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df3d0430ebd4b51099772512dfba96c1c7f01104509bf0d15361fca3f23114c
+size 548

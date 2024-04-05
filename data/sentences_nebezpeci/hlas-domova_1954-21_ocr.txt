@@ -1,2 +1,3 @@
-stávat móda vidět sebemenší nedostatek demokracie nej silný drobnohled komunistický nebezpečí vzdálený konREVEREND Benson modlit Marilyn Monro
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f3af3cd90aa54ec123e4158381abbc0a37548249ced69f390bf1271cfaae3e
+size 155

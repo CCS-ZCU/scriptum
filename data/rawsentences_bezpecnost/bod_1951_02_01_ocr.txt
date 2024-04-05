@@ -1,2 +1,3 @@
-Byla to britská admiralita,které patřila většina akcií a byl to zakladatel moderního britského loďstva,admirál Fisher,který zdůrazňoval,že bezpečnost Britského společenství národů závisí a bude i v budoucnu záviset na naftě.
-, právech", kterým bylo zaručeno všemu lidu Albánie: "Rovne pravo pred zákonem;svoboda na-' náboženství; svoboda shromazdovani; svoboda slova a tisku; pravo na soukromý majetek; svoboda v hospodářském podnikáni; osobni bezpečnost občanu; rovnoprávnost zen a mu- zu; pravo tajných a svobodných voleb zprávo stezovatí si na rozhodnuti vlády; pravo odvolací a pravo soudního stihaní státních organu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1817060d1fdb5b1b83e8ab3498894a287c30bbc7e245de9d66ad794dbdeb3538
+size 673

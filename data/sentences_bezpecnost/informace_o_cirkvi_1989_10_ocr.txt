@@ -1,2 +1,3 @@
-Ahdčlff přemýšlet anděl přemyslit bůh kardinál Ratzinger píSej mínit věřící řeče anděl
-státní bezpečnost přestat zaměstnávat církev závislý organizace
+version https://git-lfs.github.com/spec/v1
+oid sha256:476e00648ed6d84ab057477b2a693e2d85b1041bd8a1f006ac0d43e59357d67d
+size 177

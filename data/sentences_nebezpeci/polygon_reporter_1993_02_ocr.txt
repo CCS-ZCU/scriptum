@@ -1,3 +1,3 @@
-nebezpečí nový spor zůstat projevit
-velký naděje racionální přístup velký předpoklad dohoda spolupráce velký nebezpečí neúspěch dobrý důsledek strana politický oblast
-posunout východní země představovat otevřený latentní nebezpečí destab lizace ohrožení míra demokracie
+version https://git-lfs.github.com/spec/v1
+oid sha256:764532ad36fdcf4de081d68b846a198d1c1f235c3b74642f242cb679ba8d1bd2
+size 303

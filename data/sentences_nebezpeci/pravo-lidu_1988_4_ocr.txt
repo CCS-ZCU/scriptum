@@ -1,2 +1,3 @@
-bagatelizace nacistický nebezpečí
-Josef Danisz vystavovat nepříjemnost nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f8703790ef2cbf80a96268fea2129e3893ff53a225fe7d87d5addb2df4e432c
+size 88

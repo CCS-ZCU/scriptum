@@ -1,6 +1,3 @@
-Čapek udělat příběh trvalý dojem malý věta chtít lhát chvíle nebezpečí život
-nebezpečí degradace nicota smysl Evropa rozplynout hrozit existence Evropa znát rozumět samozřejmý věk věk síla lze podceňovat spjatý duch člověk vrozený schopnost tíhnout svoboda
-navštívený týden hlavní den sokolský slet Toronto nebezpečí krajan podnik jít
-nebezpečí literární tvorba
-velký nebezpečí lhůta mlčení krátký
-hysterický dav ulice žádat jednostranný odzbrojení západ žádat mír cena podrobení sovět nebezpečí budoucnost Polák Čechoslovák Vietnamec Rus
+version https://git-lfs.github.com/spec/v1
+oid sha256:617bcc9d283564506f0893fe664d5c179c3f2b8109bd2e81e31c5276697d0f6c
+size 605

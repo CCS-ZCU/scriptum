@@ -1,2 +1,3 @@
-Dvacetčtyr hodina Solženicynův vyhoštění uklidňovat titulek jedny melboumský noviny čtenář přešetřit stav kriketový utkání spisovatel détent nebezpečí
-nebezpečí úsilí dobrý věc vyznít
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b11de22bd0845036c5c22ab34104f36d32bc04f68fe16256cec3a428edcdd70
+size 211

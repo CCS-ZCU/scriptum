@@ -1,4 +1,3 @@
-opatřený zvyšovat nebezpečí anarchie země
-případ reálný nebezpečí osvědčit vláda podpora jednotnost odborář zvýhodnění velký skupina zdravotník učitel
-záležet současný český vláda nebezpečí dokázat čelit
-chvíle uvědomit osobní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e588dc44bfe5a267c636763d3428ac1bbf065e5bc6e04f79b2ab321ae8762e7
+size 276

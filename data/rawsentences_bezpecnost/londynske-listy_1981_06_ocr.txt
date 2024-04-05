@@ -1,2 +1,3 @@
- Několikačlenné skupiny Státní bezpečnosti vni kly do bytů všech nejznámějších aktivistů hnutí za lidská práva.
- Celkovým stylem to připomíná velkou razii Státní bezpečnosti, která předcházela politickým procesům v roce 1972 nebo tzv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9ecbc72a0be4c4bf86ebbd6c7ba75e711de0ac6582f3746155bbcafab4446bc
+size 263

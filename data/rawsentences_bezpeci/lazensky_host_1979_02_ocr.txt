@@ -1,1 +1,3 @@
-yuiaiíx ’■ ti- betanů váak již ne jsou bezpečí* - létáme pře© • .
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b11e4b05e46b5a1643c34c4285090e8a1ea86a913fa29ceeda12f7bb24ee116
+size 80

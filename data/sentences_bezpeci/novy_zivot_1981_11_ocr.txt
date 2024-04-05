@@ -1,2 +1,3 @@
-zatřást cítit vinný bezpečí druhý strana opona zanechat sedět mříž
-blahý bezpečí metr atčina lůna vysazený svět donucený reagovat samostatný dýchání další životní funkce
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b3c10d8b6b0004b16761e023ca19d8f5d81e1c1af0eee59cd0f66077ef259d
+size 197

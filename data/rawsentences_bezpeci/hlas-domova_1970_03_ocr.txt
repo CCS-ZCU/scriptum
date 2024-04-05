@@ -1,1 +1,3 @@
- Šablony anticipovaných morálních potřeb Československého uprchlíka, kdy do rámce melancholické atmosféry nadcházejících vánoc, je zasazena sentimentální kontemplace v superposici bezpečí a spirituální sébesatisřakce nebytí v infikovaném, prostředí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e72951e68b83b63cc4daf097e22d9a81b32b4a999f957cd80339feab65f04a21
+size 277

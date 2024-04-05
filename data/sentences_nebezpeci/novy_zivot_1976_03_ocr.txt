@@ -1,8 +1,3 @@
-etroufal vyhlásit svatý rok zvát Řím připravit chladný přijetí žít neustálý nebezpečí nový revoluce poutník celý svět
-zvláštní nesnáz působit pokání onout ocnět octnout nebezpečí smrt křesťan žít pohoršlivý život prosit usmíření poslední hodinec život
-jiný biskup shovívavý usm íření nemocný nebezpečí život dopřávat
-psát dřívější praksa přísný doba pronásledování nutný předejít nebezpečí odpad nový umírněný
-kněží dovolený dělat nutný případ nebezpečí smrt
-Burzio
-Maglione podařit nebezpečí velký část odvrátit
-Československo stávat komplikovaný hrozit nebezpečí režim donutit biskup vysvětit biskup dát vznik hierarchie závislý svatý stolice
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d850e5a6e41cdf95bae13f26778d5679d9291f0c79a5fa1ebc54141c4f3b82
+size 747

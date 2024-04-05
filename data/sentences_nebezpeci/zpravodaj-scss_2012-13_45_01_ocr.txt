@@ -1,1 +1,3 @@
-hrozit stálý nebezpečí napadení perský velký říše
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e392f10728d5c14d66b50688bc5fe4118bf91dff902a53bfa12b9307545a70c
+size 60

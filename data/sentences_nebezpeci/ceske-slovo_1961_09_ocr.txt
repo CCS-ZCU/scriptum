@@ -1,1 +1,3 @@
-Miloš Hanák Ankara upozorňovat sovětský nebezpečí rok nátlak Moskva odvolaný Ankara ministerstvo zahraničí Praha iední první diplomat komunistický puč únor propuštěný
+version https://git-lfs.github.com/spec/v1
+oid sha256:178d06743a6cf2463413cb46ea99cf37f0d4cefecf8046884d326a7cc0c63f2c
+size 186

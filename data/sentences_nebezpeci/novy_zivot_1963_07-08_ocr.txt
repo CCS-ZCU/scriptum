@@ -1,2 +1,3 @@
-mít mysl dobro církev duše přijmout Adžubej vzít nebezpečí správný výklad vědět Církev stát přemožitelný bůh
-plynout nebezpečí mimoevropský národ vymaňovat koloniální nadvláda moci obrátit záda křesťantví
+version https://git-lfs.github.com/spec/v1
+oid sha256:95eccf7253d7632d505b825aac94c8430cbbc9a1f6fc9b2400937189c0839064
+size 237

@@ -1,8 +1,3 @@
-znamenat státní bezpečnost přestat starat kulturní politika
-vyloučený zakázaný spisovatel Československo jednat zástupce veřejný organizace pracovník aparát komunistický strana ministerstvo kultura svaz spisovatel státní bezpečnost
-podívat státní bezpečnost zpracovávat básník spisovatel Jiří Sotola
-státní bezpečnost příležitost
-volat státní bezpečnost
-bezpečnost svoboda Kanada ohrožovat komunistický agrese násilí svět
-přesvědčený kolektivní bezpečnost západní spojenec stabilizační prvek základní podmínka zmírnění napětí mír svět
-navštívit Bonn západní Berlín zdůraznit bezpečnost město důležitý spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ae89289840b6555e38ffe40d4f7b6852d6122833d39911c41c3bf5328d5cdf
+size 690

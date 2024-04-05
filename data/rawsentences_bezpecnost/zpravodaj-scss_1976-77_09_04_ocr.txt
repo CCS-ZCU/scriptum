@@ -1,2 +1,3 @@
- Ačkoli v čele ministerstva vnitra je umírněný Jaromír Obzina, většina vedoucích činitelů bezpečnosti je prý úzce spjata s Bilakem a s jinými dogmatiky v politbyru, jako je předák odborů Karel Hoff- tnann a vůdce pražské stranické organizace Antonín Kapek.
- Zahraniční diplomati v Praze hlásí, že československé bezpečností orgány záměrně porušují ustanovení helsinské dohody o vztazích mezi lidmi a dokonce i o obchodních záležitostech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:288a5850359c6e4888e66197ce85c9a9ae3f2e19c2357d3f0acf775ace75fd27
+size 482

@@ -1,1 +1,3 @@
-hrozit nebezpečí byrokrý tický stereotyp atrans dlo potlačovaný oprávniný zájem reakce eetrvačnoat aooenaký přístup kontrolovatelnost citový výbuch
+version https://git-lfs.github.com/spec/v1
+oid sha256:fde6fd4e48ed9684ccb23b5c516ac1f206f74577d2318c0cf2a712eb53edaad7
+size 157

@@ -1,2 +1,3 @@
-šle manipulace všeobecný bezpečnost manipulovat zatčený justice polit
-vedení bezpečnost justice manipulovat obyvatelstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:61e349a553f925a95eefa194f18a591ee69455bb9bcb44f98e7e7dd3a818072f
+size 129

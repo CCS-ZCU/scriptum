@@ -1,4 +1,3 @@
- Členstvo republiky vo Varšavském vojenskom pakte zostalo predpokladom obrany a bezpečnosti Československa.
- Ve svých důsledcích by to ohrozilo svobodu a bezpečnost samotné Ameriky.
- Tvrdí se, že tyto skupiny jsou nejaktivnější kolem krajské správy Státní bezpečnosti v Praze a kolem ministerstva vnitra ČSR.
- Pak ale není vyloučeno ani podezřeni, že aspoň část protistátních, pučistických letáků se fabrikuje přímo v tajných objektech Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ffa2f6d479cfebdcf097fb29b02b47bfdef7e2f1fc34dd36ae9ae3af62f2487
+size 496

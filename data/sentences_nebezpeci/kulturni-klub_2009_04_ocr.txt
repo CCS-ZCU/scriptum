@@ -1,1 +1,3 @@
-vyloučit lze varianta případ hrozit určitý nebezpečí zánik tradiční veletržní podnik
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00d1ba421dba0f911ded0dbb8e7f069553448c4cfd89476976b3f7884a73627
+size 97

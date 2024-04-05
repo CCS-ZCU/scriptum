@@ -1,1 +1,3 @@
- Jestliže USA stáhne své jed- notky z Evropy, třeba na základě omezeného rozpočtu, budou evrop- ské státy nuceny se postarat o svoji bezpečnost samy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51957c9cff410a8a1d8789fa432b142758be99119f3daefd13865940e49f6dbc
+size 161

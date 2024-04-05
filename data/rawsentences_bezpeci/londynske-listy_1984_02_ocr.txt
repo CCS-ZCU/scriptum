@@ -1,2 +1,3 @@
- To je jakoby si někdo myslel, že jeho dřevěná chaloupka uprostřed lesa, který je plný hořlavin, je v bezpečí.
- Mír znamená bezpečí, život bez strachu z'nepřítele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:789ced248819c1d83da630db8bebe2fe03cdf6e053d7457cf623fc6d49644c61
+size 182

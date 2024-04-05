@@ -1,3 +1,3 @@
- V případě zvolení by ovšem taková politika vážně ohrozila bezpečnost Spojených států, Romantickými iluzemi se nedá čelit komunistickému nebezpečí.
- Státní bezpečnost se snaží zabránit otevřeným protestním akcím.
- Čili veřejná bezpečnost na železnici a Sbor ozbrojené ochrany železnic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be5dfe40fd5565ab994624981bd184ddc96d789b072d15acfcb07671f6bae92c
+size 322

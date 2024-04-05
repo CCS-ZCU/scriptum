@@ -1,1 +1,3 @@
- N ení to výstřelek stylu : „malý člověk“ je zárukou bezpečí, „m alý člověk“ je sym bolem , který nejlépe vyjadřuje rodící se aspirace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1363ece5105416650368c1d753b250985e0c132da9dd2a667b10bd394e7150
+size 161

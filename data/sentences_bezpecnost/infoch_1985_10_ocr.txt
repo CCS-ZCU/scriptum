@@ -1,2 +1,3 @@
-ptát bezpečnost ustoupi oďřpuyodní záměr stát
-pracovník rozvědka statní bezpečnost úbbrnout sna^it najít život
+version https://git-lfs.github.com/spec/v1
+oid sha256:4556d4b6561244dacb5c5a71b670c69adf02bc22fbb528497c6f0ce7178a57ac
+size 127

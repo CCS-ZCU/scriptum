@@ -1,2 +1,3 @@
-nový Zéland slonoch Blechách Mšicí Pacifik nebezpečí Kamila Škapovs článek nebezpečí Pacifik hlas číslo
-Sajůz odzbrojit nebezpečí americký útok
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1d08222da1b941f3a59f236a95c508024e46fa7b7d5d183a5d2033e15df6efb
+size 163

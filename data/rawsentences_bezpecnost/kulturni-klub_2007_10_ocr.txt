@@ -1,4 +1,3 @@
- Jeden z takových případů nedávno rekonstruoval český deník Mladá fronta Dnes, který písemnostem z provenienci Státní bezpečnosti a dalších represivních orgánů věnuje mimořádnou pozornost.
- Aj čo ako 38  hypotetické pripustenie takéhoto vývoja musí byť súčasťou bezpečnosti systému dôchodkového poistenia.
- Podle internetových stránek listu Der Standard, které na rozhovor upozornily, doporučil Baradej Rakušanům, aby se „nesoustředili na skutečnost, že tato elektrárna je, ale více na bezpečnost atomové elektrárny".
- Poté následoval referát předsedkyně Klubu občanů ČR na Slovensku Jany Bratínkové, který otiskujeme, a příspěvky předsedy Českého spolku na Slovensku Pavla Doležala, českého velvyslance na Slovensku Vladimíra Galušky, ředitele Odboru kulturních a krajanských vztahů MZV Zdeňka Lyčky, zástupce MV ČR Petra Šimerky, státního tajemníka - náměstka ministra pro oblast legislativní, pracovněprávní, mzdovou a bezpečnosti práce, Ministerstvo vnitra ČR a pozvaných hostů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d77710182ca6ae9586db02e113068d6295e7db84b61f90c153db8dbb2e598d
+size 1079

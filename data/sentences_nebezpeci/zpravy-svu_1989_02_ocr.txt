@@ -1,1 +1,3 @@
-připomenout Čapkův básnický ovládání český jazyk zabývat utopistický práce řešící problematika moderní vývoj vědecký dramatický dílo kritika dobový nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a97e2461969ca7f09dc703dd573667e91d2194043a52405d3ea3187ba7b6fc05
+size 184

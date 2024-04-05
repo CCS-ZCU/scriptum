@@ -1,2 +1,3 @@
-příslušný referent DZS nebezpečí prodlení
-divák muset připravit nebezpečí napadený zezadu zasypaný konfeta nosit odznak typický karneval známý Blaggedde
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70d1a516aace7abcbc18cff5ad1d3f42244b12be1ae9a60698f8a9ddad39dae
+size 169

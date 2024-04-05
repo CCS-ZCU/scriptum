@@ -1,2 +1,3 @@
- Ani se nedivím, pilíř ústav- ně právního výboru Národního shro- máždění tvoří poslanci Masopust, Bárta a Bartončík, každý s archívním tlusto- spisem dokládajícím spolupráci se Stát- ní bezpečností.
- Jak se tato liga gentlemanů musí bavit při lustriádách! Aídili mašiné- rii státní bezpečnosti a sami jí byli řízeni! Vůbec nepochybuji, že by rádi zase kru- tovládu nastolili, úzkost na mne doléhá až na druhý konec světa a je navíc ještě prohlubována slovenskými pohodnými a moravskými hrobníky, kteří chtějí za- hrabat Václava Havla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:058a737b92dde570a6ff1649b70944d86eff9d716cfb099bfdf0266f2813c41a
+size 603

@@ -1,2 +1,3 @@
- V roce 1968 se přidružil k Dubčekovým reformátorům a jako československý ministr zahraničí vystoupil v srpnu 1968 v Radě bezpečnosti proti okupaci Československa.
-říjen zařazen nebyl Česká republika se stala nestálým členem Rady bezpečnosti OSN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb7ba31c1b57cd74472ef8ac49f1b3d31fb4bae709894cc650d00b3d30cc7cb
+size 269

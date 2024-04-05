@@ -1,1 +1,3 @@
-zbývat otázka RSE udělaný dostatek opatření lidé typ Minařík mít možnost ohrozit bezpečí lidé špión počítat
+version https://git-lfs.github.com/spec/v1
+oid sha256:adaa108afabe6e19b721db83348fea42e3e8c218198e9bcff3ac63b8ef9c2045
+size 126

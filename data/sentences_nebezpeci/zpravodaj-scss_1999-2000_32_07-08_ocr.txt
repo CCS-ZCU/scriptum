@@ -1,2 +1,3 @@
-zločin lidskost mít lidé připomínat existovat nebezpečí moci opakovat
-dojít Praha okradený Jiří Kozelka vnučka vydávat cesta činit kázání vystříhat nebezpečí okradený
+version https://git-lfs.github.com/spec/v1
+oid sha256:88461e1aa09a0a2d87236c6b2ead48314a353ec4bd7b14ed725c5bf7b6aa2b27
+size 189

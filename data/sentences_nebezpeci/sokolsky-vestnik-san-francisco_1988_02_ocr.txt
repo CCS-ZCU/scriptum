@@ -1,1 +1,3 @@
-slovo táboření setkávat camping táboření tábor tábořit tábor tábořiště táborník turistika trempovaný hiker turista chodec výbava příroda volný příroda divočina backcountr zapadákov oblast výlet stezka pěšina stopa ranger hlídač hajný rancher majitel ranče místo táboření průvodce člověk kniha facilita veřejný zařízení zákon pravidlo zákaz prohibit zakázat odpadka littering odhazovaný odpadky tida dát pořádek uklidit nebezpečí endanger ohrožovat jeopard ohrožení divoký zvíře přežít survival přežití provizorní ruka slovo jiný význam angličtina čeština tramp tulák plahočení průkopník panika
+version https://git-lfs.github.com/spec/v1
+oid sha256:03cbc18cd8bd985955bb802dcf69cbd93ed5df09de5e01c5cc62f1e3466f10bb
+size 671

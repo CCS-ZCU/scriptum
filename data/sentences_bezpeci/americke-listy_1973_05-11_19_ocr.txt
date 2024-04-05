@@ -1,1 +1,3 @@
-vysoký běžný dráha moci Saljut bezpečí závada odstranit
+version https://git-lfs.github.com/spec/v1
+oid sha256:2342aafb85f7244efbe8cb7e3c2b92dbc493e954d34347a0b03ace1b6d4c043b
+size 65

@@ -1,1 +1,3 @@
-pozvání návštěva katolický obec kubánský biskup dávný data chybět nutný pozvání státní autorita bed rech spočívat zevný stránka papežový cesta péče bezpečnost veřejný pořádek manifesta cích případný přeprava zajištění pobyt novinář poutnik
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c331c0ec8b19c4c07adb58051e68ff14afb897b76318551b23373cddeba2799
+size 272

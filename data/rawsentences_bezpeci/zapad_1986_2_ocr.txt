@@ -1,1 +1,3 @@
- stačilo by jenom otočit klíčem zevnitř a bezpečí je na- prosté a absolutní, protože pak už je- nom správce budovy měl klíčod míst- nosti a starší pán se synem, kteří vy- konali svůj krátký úklid krátce po páté pravidelně každý den.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ce9925fbc18a2e352cd733a1d93cc8f52798fff7509c5410693aa79ee28bcc2
+size 256

@@ -1,1 +1,3 @@
-Peti ¿sem chaotický atmosféra poručit chirurgický ošotřený prc nebezpečí krvácení moa^ muž bezvědomí >byl zavolaný rychlý •áchrar
+version https://git-lfs.github.com/spec/v1
+oid sha256:d07550a16272928b8ab986e74274474f3498ece38431d908d1121eaa100d4af5
+size 150

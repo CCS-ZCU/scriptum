@@ -1,1 +1,3 @@
-člen komise podivit zlato uložený obycejnycb zásuvka tresor postaraný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6738a18c3e99cb61f17f9ba72d19af8f8d15e6caab3feb0cc3db7858a6ccc509
+size 85

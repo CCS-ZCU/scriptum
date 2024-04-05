@@ -1,2 +1,3 @@
-uvědomit projevovat stísněný pocit nejistota jasný vědomí československý svoboda nebezpečí
-měnit fakt komunistický Indonésie přiblížit rudý nebezpečí dosah ruka
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bc07e83e85e4c36bafb6b65d4c669cc3eb44b81ffcf4191052fac49030a1d4f
+size 181

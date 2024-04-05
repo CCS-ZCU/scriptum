@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
-situace slovanský národ přešlapující prostor Německo Rusko rozpaky Palacký zatrápený Rakousko vyjít poskytnout bezpečí tlak význam rolnictvo utváření národní uvědomění Masarykův rozhodnutí vyhlásit Rakousko boj poznat demokratizace
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b8d9344bcbbf52a06bfa5c8b3521f8b04a5eb1b07cc4f8ef75d0b60d9f608cb
+size 354

@@ -1,7 +1,3 @@
-říjen republika dopustit možný nebezpečí
-malý národ pomoci sebemirumilovní zahraniční politika vnitřní politika mezinárodní řád objevit síla národ stát cesta mezinárodni řád pochopit nebezpečí mít vůle moc malý národ uchránit
-vynikající vedení soustředěný hlaveň nebezpečí uvědomělý silný vedený západ
-výjimka slyšet živý diskuse svár dovolenost dovort nost užít nebezpečí atomový zbraň
-mluvený mít jít vnější zneškodnění fašistický nacistický komunistický nebezpečí názorový etický obrácení představitel
-doba velký kulturní sociální přesun nebezpečí boj zlo lepší lidský řád nesený ryzí duchovní síla nositel minulost svatý
-domnívat uskutečněný tužba moci znamenat budouk svět účet silný přátelský přesný formulace program světový záruka moci představa ovlivnit přimět sovětský svaz uvážit výhoda nebezpečí možnost bud trvat dnešní sovětský nadvláda střední Evropa důvod nabitý hněv nenávist Rusko napětí projevit místní výbus den moci nabýt rozměr existence ruský stát dnešní podoba sázka
+version https://git-lfs.github.com/spec/v1
+oid sha256:244158b918e5cbde74c3855156ee394def6b128844fd61b295542025f1346bfe
+size 1135

@@ -1,1 +1,3 @@
-dosavadní ostravský sign tář chtít rodimera vystihovat Krejčí Leltín Biner ^avín ostravský bezpečnost snaha podporovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79e928f0dfeba08f18e33717c59df5f460d7ea352c82fe324ed3f95b34f2326
+size 130

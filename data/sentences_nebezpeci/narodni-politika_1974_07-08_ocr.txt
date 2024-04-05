@@ -1,2 +1,3 @@
-nebezpečí přímý konfrontace supervelmoce zažehnaný skutečnost dojít dát křehký politika zmírňování napětí
-sovětský veřejnost moci kontrolovat jednání vláda hrozit osudný nebezpečí vláda den noc roztrhat mezinárodní dohoda ujednání
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1426840c8826b47c473102cc9f538952f70e973f8a0e4542dd3b7a7ad3e2c4d
+size 263

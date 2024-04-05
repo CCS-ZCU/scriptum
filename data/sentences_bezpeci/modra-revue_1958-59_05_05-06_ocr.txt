@@ -1,1 +1,3 @@
-vyčkávat chvíle rozvinutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b1f76d2ae2a4a789e21c10a99b88d0f1869bdb8dab5fdedd13c155c9483eb34
+size 30

@@ -1,18 +1,3 @@
- H oře v pánskom sídle bolí úřadovně bezpečností, dolu pod zemou v dávných pivniciach na zemiaky bolí improvizované vázenské cely bez kúrenia.
- T i, s nimiž by se chtéla dohodnout o evropské bezpečnosti, ji stále připomínají — a nyní v souvislosti s politickými procesy v Československu znovu velmi naléhavě — že evropskou bezpečnost nelze zajistit: paktem vlád, které se zavážou, že se nebudou vzájem né napadat.
- Evropská bezpečnost m uže být založena pouze na vzájemném porozumění, otevřené diskuzi, vým ěně názoru, idejí a zkušeností, vzájemné důvěře a otevřených m ezinárodních vztazích.
- Když byl Slánský zatčen, mysleli jsme, jako m noho jiných lidi, že nastane radikální změna k lepšímu, že on to byl, kdo celý ten teror dirigovat Ale skutečnost byla právě opačná, bezpečnost řádila h ú ř než předtím .
- A u to r byl p rofesorem n a H arv ard sk é universitě než se stal hlavním p o rad cem p resid en ta N ixona p ro otázky n áro d n í bezpečnosti.
- Copak bylo — říkají — vůbec zapotřebí vynaložit takové prostředky k obraně, když protivník vůbec nem ěl v úm yslu nás napadnout ? A opravdu, v m oderním státě problém jeho vlastní bezpečnosti se m ůže rozrůst ve vnitropolitický spor prvního řádu.
- T akováto jednání m ohou opravdu být důležitá pro m ír a bezpečnost světa.
- Vláda ve W ashingtonu se tedy m usí zabývat rozborem aspoň těchto otázek : • definicí národního zájm u a národní bezpečnosti v příštích deseti letech; • charakterem vojenské moci v tém že údobí; • vztahem mezi vojenskou mocí a politickým vlivem ; • m ožnostm i využití /vojenského i politického/ různých postojů — převahy, rovnováhy sil, a td .
- V prvních patnácti letech po dru h é světové válce spojovaly Spojené státy bezpečnost se spojeneckým i sm louvam i.
- V ětšina E v ropanů však nevěří, že tyto konflikty by m ohly ohrozit jejich vlastní bezpečnost či nezávislost.
- V bipolárním světě let čtyřicátých a padesátých byl ten to vztah synonym em vojenské bezpečnosti; k dosažení jed n o ty 629  bylo dostačující dohodnout se na společném velení.
- O d roku 1960 bezpečnost sam a o sobě, i když velice důležitá, už neznam ená všechno.
- Č ást této arm ády se v Československu usídlila aby (m im o jiné) „chránila československou bezpečnost před západoněm eckým i revanšisty a m ilitaristy" (T A S S 28.
- A přede dveřm i je celoevropská konference o bezpečnosti a spolupráci.
- Form ální bezpečnost N SR a tím i západní Evropy je sice posílena, kooperaci mezi oběm a bloky jsou pootevřeny dveře, nicm éně bloková logika zůstává v podstatě neotřesena a na vlastní smysl „otevření na Východ", t.
- století pro kulturního tvůrce často životu nebezpečná, stálo by zato odvážit se tohoto : Založit evropskou k u ltu rn í R adu bezpečnosti.
- „H orký d rá t“ evropské kulturní Rady bezpečnosti by um ožnil předsednictvu být ve stálém styku s národním i výbory (v zem ích, kde založení takovýchto výborů je m ožné), s politickým i orgány, se státníky a politiky a m inisterstvy.
- H eslem pro práci evropské k u ltu rn í Rady bezpečnosti by m ěla být devíza A ndreje Sacharova, člena akadem ie věd SSSR : „N aučm e se vyslovit svůj názor bez ohledu na reakci vládnoucích a beze strachu o život.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f84b06b5dfaac310538a669b886da6b4f1fddfcd0c287fbcdbda480463d66df8
+size 3515

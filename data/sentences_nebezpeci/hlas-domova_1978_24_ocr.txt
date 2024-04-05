@@ -1,1 +1,3 @@
-George Meany předseda mocný americký odborový centrála AFL CIO poznat nebezpečí požádat cena kontrola cena mzda mít uzáko něna zvláštní zasedání kongres volba
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec69c5c754fd8f1d24743d88708369de667b0ec6ef6a6ab62d0a4b130fdd3807
+size 179

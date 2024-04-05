@@ -1,2 +1,3 @@
-přijet
-jít bezpečnost stávkovat cích pomáhat účastník stávka pomáhat vyvolávat problém chtít říci
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ceeb041954413f3182982133ba4ffafc0874a9edf12e1f4bcecd29a501a10a
+size 111

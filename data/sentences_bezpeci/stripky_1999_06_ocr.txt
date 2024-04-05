@@ -1,1 +1,3 @@
-listina oznamovat Hus nalézat ochrana král svatý říše nařizovat Zikmund poddaný poskytovat jmenovaný záruka bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:033f98093e2a29d701ed76ba1b035fb5925a56ecff5baccfdcbefbc93bed4ec3
+size 128

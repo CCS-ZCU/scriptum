@@ -1,3 +1,3 @@
- Cítit se v bezpečí, doma, tam, kam patříme.
- Dejte dětskému srdci přílišný pocit bezpečí, a ono pak v celém svém dospělém životě bude totéž bezpečí vyžadovat od všech lidí; jenže ti mu poskytnou leda jen riziko a nezávaznost.
- na lyžích, veliké veselé bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bceeafabaaba0e1891380f248b89637e3d6225fb93a718428a26864052d9bee1
+size 296

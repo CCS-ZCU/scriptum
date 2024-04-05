@@ -1,4 +1,3 @@
- Nejhorší v takovém případu je, najiti dobrou příležitost a úplnou bezpečnost před překvapením.
- Takováto jistota a bezpečnost budí důvěrů—^ostátní·pak vykoná vášeň sama.
- Byli všichni z východních států a jenom za účelem větší bezpečnosti dohromady se sloučili.
- Míra bezpečnosti jest však stanovena na 30 yardů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05204fbbf0952b48cb45b0c395741fbadce82d417d55edc11c4a16ad24eaab26
+size 358

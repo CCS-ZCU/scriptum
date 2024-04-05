@@ -1,7 +1,3 @@
-„Ministerstvo vnitra, správa vyšetřování Veřejné bezpečnosti v Praze a dozorový prokurátor generální prokuratury se obracejí k veřejnosti s oznámením, v němž konstatuji, že se objevily různé zprávy a dohady, týkající sc smrti Jana- Palacha (které sc) snaží budit dojem zpráv, čerpaných z úředních podkladu.
- Střílel si z americké policie a zdejší bezpečnost ho ze solidarity zlikviduje.
- Podle sdělení Veřejné bezpečnost: a dalších orgánů města, konflikty se sovětskými vojáky vyvolávají svým jednáním také mladoboksla - - stí občané.
- Verejne bezpečnosti se nepodařilo zjistit pachatele.
- Bezpečnosti propuštěn.
- Plak vyslýchán jako svědek při rehabilitačním řízení, vyslovil přesvědčení o správnosti protokolů, pořizovaných tehdy Státní bezpečností.
- července 1968 Státní bezpečnost chápala tehdy činnost této sírany jako činnost protistátní a této koncepci podřídila i vyšetřováni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78f947626128aa21b0fe3faa8468c36736971205960c02446c9e02c247a01e85
+size 992

@@ -1,2 +1,3 @@
-Havlův dopis ministr Obzin otisknout četný noviny zahraničí nadpis státní bezpečnost ochotný věnovat Havel rakev
-Finsko cizí vojenský jednotka bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f68c7090954d113a143d2efffd0e1a6db26913588ee8590d39985e524aeb4947
+size 167

@@ -1,2 +1,3 @@
- Celkově má Temelín přijít bratru na 52 miliard korun, avšak podle zpráv ze všech světových stran se výstavba atomek rok od roku prodražuje novými nároky na spolehlivější bezpečnost provozu a tím i prodlužováním výstavby.
- Bezpečnost prý očekávala v Praze na prvního máje teroristické akce, proto již v předcházejících dnech predvolávali přívržence nezávislých občanských iniciativ do Bartoloméjské ulice, kde jim četli varování a doporučovali jim, aby odešli z Prahy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d18492368357473516f6e96a16ccf44e41487718e811d4df1abf3dc05296c72
+size 519

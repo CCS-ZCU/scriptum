@@ -1,3 +1,3 @@
-' Proto si dovoluji upozornit na naléhavou potřebu, aby přísluš- né státní orgány ve zvýšené míře zabezpečovaly osobní bezpečnost všech občanů, zvláště pak pokud jde o.
- Bezpečnost se ujala bezpečnosti ?.
- Sluší, se'tedy vzít spravedlivě na vědomí, že Bezpečnost aokáže dělat dobrou práci a'to i když jde jen o katolického faráře.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90a4e3cc5aae92990417d47c0f4f7ea631c07e93e92e82ff4f8e5ac05c99ef19
+size 372

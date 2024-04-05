@@ -1,2 +1,3 @@
-brožurka poslat politik odborový organizace tisk celý řada asijský země komunistický nebezpečí vážný
-Peking úsilí vytvořit dostatečný protiváha nebezpečí sovětský imperializmus orientovat síla reformní komunizmus solidní politický síla západ
+version https://git-lfs.github.com/spec/v1
+oid sha256:a831bb7dbe0ccc54ff8418b429ff5df0a155f812d08c1060c5985e26e23ce72b
+size 270

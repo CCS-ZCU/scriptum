@@ -1,2 +1,3 @@
-dopad tisko zpráva jasný Jednaodezva veřejnost objevit
-mračno Tramp převalit bezprostřední nebezpečí vydávání zastavený pominout
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8adfc63eb7821107eef43f330532b6ae1a2ad1c69c0e43badcdbd02538ed700
+size 145

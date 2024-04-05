@@ -1,2 +1,3 @@
- Jak policejní, názorně předvedený československou Bezpečnosti' ve shora vyjmenovaných případech, tak jakýkoli jiný, třeba i individuální, namířený z jakýchkoli příčin proti lidskému životu a těžce vy do bylým materiálním hodnotám.
- Tato neuvěřitelně intenzívní činnost Františka Stárka, Ivana Jirousc a dalších nadšenců samozřejmě neušla pozornosti Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a45bb032c8784b4778df557547bf5b4eab7429d9e3fd767d8a4f2e658699d6c6
+size 418

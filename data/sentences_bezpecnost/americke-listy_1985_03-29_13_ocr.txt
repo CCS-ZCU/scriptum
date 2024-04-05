@@ -1,1 +1,3 @@
-zájmový jednota evropský země USA přestat existovat omezený neschopnost NATO zaručit vlastní vojenský převaha bezpečnost Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:c56b897a6215df01ce88ae9fa0a065c68389397c84e92bf1b7b4c1dce5c3dc51
+size 139

@@ -1,1 +1,3 @@
-rád zdůraznit socialistický stát občan chránit pouštět bezpečný krajina občánek muset sedět zadrátovaný hranice bezpečí dohled přihodit
+version https://git-lfs.github.com/spec/v1
+oid sha256:048fba3782c3191b38851d694b117e74d62b3a54f53a4ed945584dd85a594a2a
+size 154

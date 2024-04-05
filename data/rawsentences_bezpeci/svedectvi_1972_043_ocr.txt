@@ -1,3 +1,3 @@
- Zesobcčtějí, zvrhnou se, zoufají si; nechtějí uznat skutečnost, nýbrž vykořisfují jeden druhého, jen aby podepřeli klamnou představu bezpečí.
- Jsou nesmírně ukrutní, jsou původci nekonečného utrpení; ale „jejich" surovost není sadistická záležitost; jde povětšinou o institucionální zlo, působené lidmi, kteří se rozhodli — ze strachu, z touhy po bezpečí a pohodlí — že budou spolupracovat se systémem.
- Je zázrak, že vyšla vůbec : v prosinci 1970 chytila S tb na ruzyňském letišti L evý ho m atk u , prosa co val a jí pořádné a ulovila kus rukopisu,, který si náš au to r posílal do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e8d55f96082b0885641f2daff664b1b2506f7f11a942b5649c7b7f797365b5d
+size 658

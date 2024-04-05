@@ -1,2 +1,3 @@
-Vžydyť chrám chtít ustavit bezpečný oblast bezpečí zákon číslo vyváženost proporce bytost redukce forma
-muset planeta čelit bezpečí vymření vina vina nadměrný spotřeba otrava vzduch moře
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56142734f908f7ef836580368582f142137bb10e5f21e33781c113ca8d40fdd
+size 120

@@ -1,3 +1,3 @@
- Najmä na členov Sboru národnej bezpečnosti (žandárov) bol robený mimoriadny tlak.
- Povereníctvo vnútra zase zdôrazňuje, že každá kňazská schôdzka musí byť predom ohlásená Sboru národnej bezpečnosti (č.
- Procesie Božského Srdca boli veliteľstvami Sboru národnej bezpečnosti zakázané.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90634ef010e049636c0f46c5a01bfea0d90948ffcc5e2c89cc7026356c937195
+size 315

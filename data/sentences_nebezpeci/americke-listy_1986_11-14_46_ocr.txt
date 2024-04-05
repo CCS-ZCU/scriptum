@@ -1,1 +1,3 @@
-okamžik operátor začít uvědomovat hrozící nebezpečí vedoucí směna vydat příkaz spustit havarijní ochrana aktivní zóna zavést regulační havarijní tyč
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5c19b398002b750bdecdaa00dffd92f05cf22df4a653a085798b86356d089dc
+size 170

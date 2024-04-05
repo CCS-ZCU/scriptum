@@ -1,4 +1,3 @@
- Oprávněná starostlivost o bezpečnost státu může vést k pokušení podrobit státu člověka a jeho práva.
- Každý zdánlivý rozpor mezi požadavky bezpečnosti a základních práv občanů musí být vyřešen podle základní zásady — kterou církev vždycky zastávala — že totiž sociální organizace existuje, jen aby sloužila člověku a aby chránila jeho důstojnost; nelze si namlouvat, že se slouží obecnému dobru, když se nedodržují lidská práva.
- Lidé věří, že jejich bezpečnost je zaručena a že se napomáhá jejich blahobytu, jen v míře, pokud budou cítit, že se napomáhá jejich lidské stránce a že je respektována.
- Moje srdce je naplněno smutkem, když myslím na to, že na mnoha místech vašeho světadílu nezmizel rachot zbraní, že tam sice mohou změnit obyvatelstvo, ale fakt války zůstává dál, že se tam domnívají, že jen zbraně dají bezpečnost, nebo kde bratr bojuje proti bratru, aby napravil nespravedlnosti, skutečné nebo jen zdánlivé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b79171e2938683b57b33a47be8a748832bbe9b08a12a8cf24c7fcebdba66e16
+size 1030

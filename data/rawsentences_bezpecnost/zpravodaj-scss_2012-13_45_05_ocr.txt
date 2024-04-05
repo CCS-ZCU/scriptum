@@ -1,1 +1,3 @@
- Po akci státní bezpečnosti byly všichni v březnu 1950 pozatýkáni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b69926d934bb19f4ab3575ab4f0f60084cd4740f24481ace9661f7b9ff95602
+size 74

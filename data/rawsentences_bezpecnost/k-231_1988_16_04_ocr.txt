@@ -1,1 +1,3 @@
- Bylo všecko odsouzení jenom dílem negramotnosti apa- rátčíků? Je jasno, že nás neodsuzovala ani prokuratura, ani soud, ba dokonce ani Státní bezpečnost, ale nějaká skupina na sekretariátě ÚV KSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83fdecc8766e06e289193b9cb6aee5de3e381f33aa735094bc79d42c505f3894
+size 215

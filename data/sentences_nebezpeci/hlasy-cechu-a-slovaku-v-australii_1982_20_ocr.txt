@@ -1,4 +1,3 @@
-psát statečný organizace nebezpečí plán finlandizace Evropa solidarita prý" napadat komunistický režim
-prezident Mitterrand stavět obrana Evropa komunistický nebezpečí smysl americký představa
-žít Československo zahraničí
-nebezpečí komunismus upozorňovat konzervativec předseda strana Ulf Adelsohn projev zabývat situace východní Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffc0c08eabbec5c02019e93eb3e3418e07fee215484932669f74e8ed63ef846a
+size 364

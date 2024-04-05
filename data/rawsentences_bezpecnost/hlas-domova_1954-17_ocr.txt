@@ -1,1 +1,3 @@
-Upřím ně si přejeme,aby došlo k dohodě mezi demokratickým Německem a svobodným Československem o přátelské součinnosti, a věříme,že ústavní vláda osvobozeného Československa se dohodne s demokratickou vládou Německa o všech otázkách, týkajících se poměru obou států,mezi mi také o definitivním řešení všech důsledků, které vyplynuly z nacistické c- kupace Československa,jakož i'z vystj^ hování Němců z Československa,které iř- lo provoděno na základě souhlasu vlád americké,britské a francouzské za tím účelem,aby byla zvýšena bezpečnost ve východní a střední Evropě ve prospěch obecného míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a4e3b742b620b3effa72be1be35be7962385bd61cf13de8e3d6353a0a7721e
+size 669

@@ -1,3 +1,3 @@
- Bass, ale předpokládá se, že funkci později převezme Leo Ottenfeld, o němž je známo, že už dlouhá léta spolupracuje se Státní bezpečností.
- A zběžný realistický pohled praví, že i tato síla se houpe na vlnách mezinárodní politiky, závisí-na dodávkách věcí, jež Israel sám nemůže vůbec nebo v dostatečném/množství vyrobit, na bezpečnosti cest, jimiž dodávky jdou do Israele, na vůli hlasujícího obyvatelstva v demokratických zemích, na ochotě jejich státníků brát na sebe ri- siko.
- v rokovaniach so Sovietskym zvázom třeba viac opatrnosti a obozret- nosti, lebo za úsměv Sovietov nemožno hazardovat’ s bezpečnost’ou celého světa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56cc6e9dca6722db40ad6c7cfd94c83487146ef9dad7e8db43f5e0f5edfcbadf
+size 698

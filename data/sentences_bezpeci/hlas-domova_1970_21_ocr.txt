@@ -1,1 +1,3 @@
-moci mluvit vlastní zkušenost oáze zdravý rozum měrný bezpečí lůno
+version https://git-lfs.github.com/spec/v1
+oid sha256:4efe8ac95ec65d023baaa89ebc18b2a6d2a90518394ee55c6fb420e941d13c4d
+size 76

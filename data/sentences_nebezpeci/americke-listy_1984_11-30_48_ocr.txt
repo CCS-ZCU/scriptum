@@ -1,2 +1,3 @@
-znamenat boj mír mít přihlížet podstata příčina stav válečný nebezpečí vytvářet mít omezovat protest důsledek stav
-tolerance úcta samostatnost techo malý národ vytvořený reálný předpoklad vyloučený nebezpečí Evropa vzplanout nový světový válečný požár
+version https://git-lfs.github.com/spec/v1
+oid sha256:65c43134b8cc7ce864cf848eb2d477c23c0b03b8b3a127d3275707fa7780e6e2
+size 289

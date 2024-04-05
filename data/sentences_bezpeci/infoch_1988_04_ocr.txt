@@ -1,1 +1,3 @@
-mít právo učinit opatření pokládat potřebný vlastní bezpečí prosperita
+version https://git-lfs.github.com/spec/v1
+oid sha256:df38f9a93936e0f30fc1f070842970f33ad3de28b873e6c0582ff0dff3a05809
+size 82

@@ -1,1 +1,3 @@
- Návod na to, jak se má člověk chovat před soudem i ve vyšetřova- cích místnostech státní bezpečnosti byl napsán již před třemi tisíci léty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4820d200f127fa84912a8ffcf24dfe08b42769b5f22b81b5a536a4923d14d936
+size 159

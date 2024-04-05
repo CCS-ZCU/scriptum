@@ -1,6 +1,3 @@
-nebezpečí velký Kramářův sbírka moci francouzský soud pojmout zástava americký podnikatel Ronaldo Lauder pohledávka český stát věc Vladimír Železný televize Nova stát mít rozhodnutí stockholmský arbitráž převzít finanční odpovědnost sporný rozhodnutí rada český republika rozhlasový televizní vysílání zaplatit Lauder koruna
-šéf obec Kostelec Labe Roudnice nachlorovaný vítr směřovat vyhlásit újma nouze vysoký chemický poplach mít Spolan blížící nebezpečí sebemenší informace
-země jediný politolog být doba jednání ustavení koaliční vláda upozornit křehkost vládní koalice upozornit nebezpečí plynoucí spojení subjekt vzdálený sociální demokrat unionis
-doufat Vladimír Špi pochopit rozbíjet vládní koalice vrhat velký nebezpečí menšinový vládnutí DEU
-nebezpečí plynoucí přetrvávání pokleslý bolševický nešvar masmedium žurnalistika upozorňovat varovat léta Josef Kudláček
-hrozit nebezpečí velký fiasko Vietnam
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b8753af3bc6348467adba7ce5d882d1acce64d7efca374691a9ef566362cf9e
+size 1024

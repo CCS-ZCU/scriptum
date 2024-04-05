@@ -1,1 +1,3 @@
-Jiří Hanák týden Denník
+version https://git-lfs.github.com/spec/v1
+oid sha256:435a1bfadbacb0b584d402e006d53ea26858e5f213c520846cad0ab13cdf2d3a
+size 29

@@ -1,2 +1,3 @@
- Tady jsi v bezpečí ? Lázeňský já si ho ohlídám.
- Za tuhé zimy, jaká je v Československu obvyklá, by to nebyli mohli vydržet a byli by mohli udělat něco, co by ohrozilo jejich bezpečí a bezpečí jejich operace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2a7281485f49e73f460f58fe73560ac43d61fdba49b091e5fd99fc6c4f4a10
+size 229

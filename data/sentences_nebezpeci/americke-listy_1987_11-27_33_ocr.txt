@@ -1,1 +1,3 @@
-muž heil nebezpečí vydávat dojem nářek uzavřít kup placení
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff3b626c581a817227d17b6a147721eaf71eb4f82a372c81d1262d2aa34ca2f
+size 68

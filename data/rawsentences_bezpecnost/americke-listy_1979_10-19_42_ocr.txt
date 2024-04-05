@@ -1,2 +1,3 @@
- Důležitým předpokladem k tomu je normalizace a zajištění evropské bezpečnosti.
- Československo je převzalo jako závaznou právní normu v Závěrečném aktu Helsinské konference o bezpečnosti a spolupráci v Evropě a ve vnitrostátním předpise, který má platnost zákona.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f7ebbdbbce3e2388bf46b4699da195bfefcc824f7bbcc4a7fc4493979d0e8d
+size 293

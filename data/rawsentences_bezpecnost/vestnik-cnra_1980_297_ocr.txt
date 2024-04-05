@@ -1,5 +1,3 @@
- Lombard Avenue, Cicero, Illinois 60650 Telefon: 656-1117 Zvláštní zasedání americké Helsinské Komise pro bezpečnost a spolupráci v Evropě Komise amerického kongresu pro bezpečnost a spolupráci v Evropě měla v březnu zvláštní zasedání, na kterém bylo vyslechnuto několik odborníků o stavu lidských práv ve střední a východní Evropě.
- Jak je známo, Helsinská dohoda je rozdělena na tři “koše” (Basket I) se zabývá otázkou bezpečnosti v Evropě a skládá se ze dvou částí: I.
- část pojednává o bezpečnosti a odzbrojení.
- o bezpečnosti v Evropě a o odzbrojení.
- Gordon Skilling, který po své návštěvě Československa podal nedávno svědectví ve Washingtonu před komisí amerického kongresu pro bezpečnost a spolupráci v Evropě (Helsinki).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb6d9f3b2b1411654ca14c7697d66197c62c3762d45a26481a570fd105754666
+size 807

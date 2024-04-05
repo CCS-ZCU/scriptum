@@ -1,4 +1,3 @@
-státní bezpečnost
-uzavřený ‘její první fáze Helsinky červenec státní bezpečnost začít volat výslech různý občan
-chvíle jednat Helsinky Zeneva zaktivizovat ideologický fronta státní bezpečnost
-bezpečnost pohotovost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a871c8057ae4f3969593e363856fa9c45741a256349b81673f622b6e52946d80
+size 240

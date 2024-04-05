@@ -1,1 +1,3 @@
- Naše země tak bude mít poprvé ve svých dějinách pevné záruky vlastní bezpečnosti jako plnoprávný účastník systému kolektivní obrany demokratických hodnot v euroatlantickém prostoru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ce52b3b6340b974622f31ed052656a96a7d06a94244db0948edde2240ecf49
+size 203

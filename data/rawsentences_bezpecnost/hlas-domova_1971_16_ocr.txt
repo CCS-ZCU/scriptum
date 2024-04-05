@@ -1,1 +1,3 @@
-" Prchlík poukázal na tehdejší diplomatickou notu vlády SSSR, v níž byiy vysloveny pochyby o stavu bezpečnosti státu zejména na západní hranici a na "známý případ náiézu zbraní na Karlovarsku" a dodal, že je zřejmě souzen proto, že se při obhajobě záměrů čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dad96f2383a30fa7a6927ae569760fea0e053e2a5419634606814d5c5d5d385f
+size 288

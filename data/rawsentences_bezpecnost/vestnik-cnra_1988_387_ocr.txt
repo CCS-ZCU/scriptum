@@ -1,3 +1,3 @@
- V té době se blížila svému ukončení Konference o opatřeních pro vytváření důvěry a bezpečnosti a o odzbrojení v Evropě, která se konala ve Stockholmu a byla výplodem Madridského zasedání.
- Je to celkem dobrý návrh, pokud jde o problémy lidských práv, ale jeho příliš rozsáhlé části, jednající o vojenské bezpečnosti, zahrnují formulace, které se dalekosáhle rozcházejí s názory Spojených států.
- Objektivní okolnosti jsou v přítomnosti 2 — Věstník KONFERENCE O BEZPEČNOSTI A SPOLUPRÁCI V EVROPĚ A ZÁPAS O SVOBOBU ČESKOSLOVENSKA  příznivé — s obnovením dialogu mezi Východem a Západem, zejména při schůzkách na nej vyšší úrovni mezi Spojenými státy a Sovětským svazem, s pokusy v Sovětském svazu vyzkoušet možnosti pro glasnost a perestrojku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:925df90c5a0dda89c8e1dfd8e6085f064a87476fe8a03614189b91fd0be6871c
+size 826

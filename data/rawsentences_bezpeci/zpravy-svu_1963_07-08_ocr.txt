@@ -1,1 +1,3 @@
- Schwarzenberg o prázdninách cestoval po Evropě a byl pozván k několika přednáškám o střední Evropě a ne- — 71 —  bezpečí komunismu na několik universit v Holandsku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b03e64880ea65209e9f604f458abacf90f7b425409d447115ecf408ffe6f29a
+size 185

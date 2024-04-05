@@ -1,2 +1,3 @@
- bezpečnosti kradou taěky mladým věřícím, které zanechali v kostelních lavicích, když isli'ke zpově- di nebo k sv.
-a laic- ký apoštolát, U městské bezpečnosti byla zrís>,na skupina, 30 odbor- níků, jejichž piJLe je podporovaní vždy 10 odborníky v každém ze 4 obvodů slovenského hlavního města.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8104289afd99b63112be965a34dd0f8d9c61fa8535e4aa6fcd1877fe95357ce
+size 325

@@ -1,1 +1,3 @@
- Ve svém dopise na vice-presidenta Spojených států dovolili jsme si vyjádřit tyto myšlenky: President Johnson označil za jeden z cílů americké zahraniční politiky přetvořit Evropu v “kontinent, v němž národy východní i západní Evropy pracují bok po boku pro společné dobro; kontinent, na kterém spojenecké systémy nebudou stát proti sobě, nýbrž tvořit rámec, v kterém západ a východ budou spolupracovat к zajištění všeobecné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c24d67a7c5967bc3960db7f1d94b081c40d237db6608f53cdad7c0141d2638d3
+size 484

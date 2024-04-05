@@ -1,1 +1,3 @@
- národní bezpečnosti Ladislav Kopřiva, který byl drasticky zbaven slávy v souvislosti se Slánského aférou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d867bc36f580765c3e90580be0ba7c88be23f4dbbf8d6885048ceef3a2525c66
+size 116

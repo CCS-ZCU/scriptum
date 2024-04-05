@@ -1,3 +1,3 @@
- Nigérie a3Í bude ochotn’ a schopná tento požadavek splnit, obzvláště když obdržela od Reaganovy vlády politickou a finanční podporu pro Africké bezpečností sbory, v nichž zaujímá vedoucí postavení, a které mají podle předpokladů vystřídat libyjské jednotky v Čadu.
- 3est osob uvězněných na jeden zátah minulý masíc v Bulawayu bylo obviněno z činnosti, který pravděpodobně měla vést k ohrožení bezpečnosti státu.
- Británie vetovaly n vrh rezoluce Raby bezpečnosti OSN na okamžité zast vení palby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e232806d4a515aa02c4314ced95c0020bf955daf82ff266f27973c4526351610
+size 549

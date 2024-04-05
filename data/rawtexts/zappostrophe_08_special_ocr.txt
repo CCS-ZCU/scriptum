@@ -1,1 +1,3 @@
-Zappostrophe Speciál [pageend1]Environment — anglické slovo, které dostalo v současném výtvarném umíní trochu Jinou dimenzi. Původní význam — okolí, prostředí — byl rozšířen na výtvarné dílo nebo akci, výtvor, který je urůitým prostředím inspirován a do něho zasazen, artefakt, který je spojen s daným místem výtvarně i významově. Tedy znamená to akti- vizaci jinak indiferentního místa a jeho zapojení třeba jako rámce výtvarné aktivity. Tento postup je v zásadě založen na hře s významy. [pageend2]3 [pageend3]4 [pageend4]5 [pageend5]6 [pageend6]7 [pageend7]Melody Maker [pageend8]9 [pageend9]10 [pageend10][pageend11]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3719fb90dc3bb153f35b405f9d2ef804574104853f734d38c0489410705d978
+size 675

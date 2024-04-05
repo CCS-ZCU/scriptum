@@ -1,1 +1,3 @@
-první část služba Rusko spolužá poměrný bezpečí zázemí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bf9471faf360d9dd6ee27ebb5366de5edaafd917ae34121d0ed0f4ac558f987
+size 231

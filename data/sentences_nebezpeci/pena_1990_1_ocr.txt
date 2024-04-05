@@ -1,1 +1,3 @@
-článek ústava mít projednaný strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3c3d3351f2578da8ffbe619424cc60072fa6fe059a2d1045ba819436bba2f0
+size 41

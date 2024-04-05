@@ -1,10 +1,3 @@
- Závěrečné komuniké hovoří o shodě stanovisek, pokud* jde o hodnocení pokroku dosaženého na konferenci o evropské bezpečnosti a spolupráci v Zenově a o přání konferenci úspěšně skončit.
- Jeho reportážní črty zachycovaly prostředí Bezpečnosti a armády (Okresní odděleni.
- Doktor Hirt podal tuto /zprávu roku 1972 senátnímu podvýboru pro vnitřní bezpečnost.
- Úkolem vědců na genetické konferenci bylo stanovit pravidla, která by umožnila další genetický výzkum, a zároveň zajistila jeho bezpečnost.
- Zajímavé informace jim o tom podal například zmíněný československý vědec doktor Rýzl, podle jehož tvrzení se v Sovětském svazu provádí tajný parapsychologický výzkum pod patronátem státní bezpečnosti a obrany.
- který sám cdošel z Československa proto, že o jeho výzkumy a pokusy začala jevit podezřelý zájem Státní bezpečnost.
- Navštívila jej Státní bezpečnost — to ještě před Dubčekovou érou.
- V dekretu tohoto vyznamenání se praví, že Antonín Nehasil, bez ohledu na svou bezpečnost projevil neobyčejnou statečnost, když stál v tváři tvář nepříteli.
- Kelly řekl: „Ztrácíme půdu“, a uvedl, že pravděpodobně bude musit požadovat 250 nových agentů pro práci v oboru vnitřní bezpečnosti.
- státní bezpečnost, kterou informovali o zaměstnancích a návštěvnících francouzského velvyslanectví v československém hlavním městě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd8ae8e429d35ea3b9abd7fcc808e02a4dd279b66caf0560d95c451c58aeed5e
+size 1470

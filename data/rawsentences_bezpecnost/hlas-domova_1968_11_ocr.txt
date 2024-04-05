@@ -1,8 +1,3 @@
- značně odlišné, ale ty byly odlišné i před válkou, kdy byla "M alá dohoda jedním ze základních pilířů, na nichž byla po dlouhou dobu ; stavěna bezpečnost všech tří států.
- Vlastně to byla velká drzost rušit důležité pracovníky čs, bezpečnosti.
- Novotný veřejné nedistancoval od pochvaly tehdejšího ministra národní bezpečnosti.
- Při líčení vyšlo najevo, že obvinění celé skupiny bylo vykonstruováno Bezpečností.
- Celá obžaloba byla uměle vykonstruována z rafinovaně sestavených protokolů Státní bezpečnosti!” Inž.
- 1949 však -přicházejí beriovští poradci a nastává Změna : důkazy nehrají roli, s "technologie” zákroků ■Bezpečnosti se opírá o 1 vymyšlené konstrukce 'obvinění, a již vykonstruované nebezpečí, že by někdo mohl zůstat ■venku, bylo trestné, protistátní, byl to úklad, o republiku.
- Neúčast hokejového národního mužstva, jehož členy už měla státní bezpečnost v úmyslu zatknout, jen co se nevole mezi lidem utiší, byla národu oficiálně odůvodněna verzí: Britové nedali hlasatelům víza, aby nepřátelské stanice ze zahraničí mohly samy vysílat přímé přenosy, proto prý se všichni rozhodli zkazit plány imperialistů; do Londýna se titul mistra světa obhajovat nepojede.
- tisku: "Jsem dalek toho, abych někoho podezíral z něčeho, -nač nemám nej menší fakta, ale myslím, že Bezpečnost měla svého člověka, svého informátora přímo v řadách hokejistů nebo mezi lidmi jim velmi blízkými.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e780c0361e2f97fa66363b9e4e09cffa7b3a9824a2d41c0b6bb519c0b0926fdb
+size 1558

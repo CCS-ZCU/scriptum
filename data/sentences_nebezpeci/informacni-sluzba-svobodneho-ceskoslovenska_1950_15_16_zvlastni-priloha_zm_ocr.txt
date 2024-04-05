@@ -1,1 +1,3 @@
-hodina v^varovat bolševický nebezpečí domní vala demokracie hodina metr zbraň rozumový uvědomo vání skutecný nedostatek společenský řád společnost litr podnik litr hospodářský reforma výsledek kter mích podnik rok litr sociální pokrok zlepšení úroveň široký rok ukázat vést úspěšný obrana podnik rok politický komunismus litr ševismus hodina
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cfc16e3d81d2746394d2c979e4135a2de047c159522b08a05866a8773d8cc71
+size 380

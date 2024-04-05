@@ -1,10 +1,3 @@
- A ještě jiný estébák, Kamil Pixa, smutně proslulý už od doby široce založených provokací na Slovensku na podzim 1947, řediteloval po odchodu z bezpečnosti studio Propag- film a za „normalizace“ to dotáhl na ředitele celého Krátkého filmu Praha.
- Snad jen Státní bezpečnost jednotlivých zemí má podrobně zmapované jednotlivé revolty, bouře a stávky.
- — Americká komise pro evropskou bezpečnosti a spolupráci zveřejnila zvláštni zprávu o činnosti československé občanské iniciativy Charta 77.
- Spojené státy a všichni, kdož očekávali, že podpis pod helsinskými dohodami bude znamenat záruku mírového a zákonného postupu při výkonu lidských práv, jsou hluboce dotčeni skutečností, že občané jsou šikanováni, a biti za to, že se zabývají takovými náměty, jako je bezpečnost elektráren, nemožnost vyznávat svobodně své náboženské přesvědčení, diskriminace v zaměstnáni, nelidské podmínky ve vězeni atd.
- Pilsudski toužil po jednom: zajistit bezpečnost Polska, bezpečnost před Ruskem a před Německem.
- Byla politikou v zájmu zajištění bezpečnosti před ruským imperialismem — bílým stejně jako rudým.
- Některé z nich bezpečnost nedotáhla až k soudu, ukončila je formálně, nebo pouze fakticky v přípravním řízení.
- Podle toho by měla vést vyšetřování Veřejná bezpečnost.
- Ve většině případů však vede vyšetřování Státní bezpečnost, která je určena k vyšetřování politických trestných činů.
- Zatímco se jemu nikdy nic v Praze nedělo a ještě dnes se stále v exilu skrývá za pseudonymy, aby si snad u pánů Bilaků nepoškodil reputaci, mne pan Bilak (vrchní šéf nejen nad kulturou, ale i nad Státní bezpečností) poslal do vězení, odkud jsem se vrátil patřičně poznamenán, se zlámanou páteří a o tři centimetry menší.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1669ee6dc394f720675c43259a61fcd87c62738957b0208d8de5005a8c8cf85b
+size 1900

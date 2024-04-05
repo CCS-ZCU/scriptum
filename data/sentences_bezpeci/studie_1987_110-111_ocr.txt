@@ -1,1 +1,3 @@
-hrozit několikerý bezpečí úspěch nafukovaný sdělovací středek televise vykládaný důkaz lidský všemohouc nost překrucovaný směr antropocentrismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:26506d8286c7148fb65f4aa525e9cc601b4917a29a46adea32dcd201a6f05cbd
+size 163

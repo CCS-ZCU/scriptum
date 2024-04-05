@@ -1,1 +1,3 @@
-vietnamský vedoucí delegát Dinh Nho Liema hanojský vláda náměstek ministr zahraničí vojenský přítomnost Vietnam Kambodža Laos oprávněný skončit pominout nebezpečí ohrožování země Čína
+version https://git-lfs.github.com/spec/v1
+oid sha256:b21aee0537dbaa9aa25062b1d96563cf1454f43bf707dc489073d022f41ccebe
+size 209

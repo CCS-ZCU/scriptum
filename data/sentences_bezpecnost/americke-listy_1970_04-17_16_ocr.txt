@@ -1,1 +1,3 @@
-strážce pořádek postěžovat státní hospodářský jiný orgán ohlásit případ zbývající většina muset odhalit veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8f39f68d6b44d171cdddfdf6026bb2e114537270a07d296fbac8b9ce2eb9eb1
+size 147

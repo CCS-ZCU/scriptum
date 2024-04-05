@@ -1,1 +1,3 @@
- Nemůžeme-pro bezpečnost rodin zatčených a vězněných - veřejně uvádět jmé na,která však redakce má k disposici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cf248cd866da32379ffd040d50e3f05c3f9514b6cfe76bd312584e5440656e
+size 128

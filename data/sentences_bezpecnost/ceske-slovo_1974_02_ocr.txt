@@ -1,9 +1,3 @@
-spojený stát doufat jednání Vídeň umožnit stáhnout oddíl Evropa ohrozit bezpečnost západní Evropa
-naivita promyšlený rafinovanost profesionální zločinec vybudovat KSČ celý rok organizace aktivní disciplinovaný lidé ovládající klíčový instituce odbory bezpečnost značný část armáda
-sovětský svaz shodovat názor západní odborník détent chtít praktický důvod první důvod zajistit bezpečnost západní hranice
-jiný slovo hlavní zájem Sovět bezpečnost stát
-Stalin použít zajištění cíl metoda všestranný studený válka zajistit bezpečnost sovětský hranice zpomalit všeobecný sovětský vývoj Brežněv moskevský jestřáb chtít zkusit détent
-Praha odstraněný hrob Jan Palach vymazat vzpomínka krutý protest okupace vlast sovětský armáda západo německý tiskový agentura oznámit mnichovský organizace jít mladý člen bavorský křesťansko sociál
-druhý západní Evropa jít bezpečnost mít alternativa NATU
-konference mít značný význam národ dohodnout řada rezoluce mít posílit bezpečnost spolupráce Evropa Moskva iniciátor jednat
-prvý výbor přidělený bezpečnost Evropa druhý spolupráce hospodářský vědecký technický věc třetí výbor informace spolupráce kulturní výměna
+version https://git-lfs.github.com/spec/v1
+oid sha256:591e6b4e5bf951e4e51e589c5a0efe977eddefdf0e39b35e2327c76698a894b9
+size 1284

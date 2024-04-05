@@ -1,1 +1,3 @@
-vyznanie patrit týkat moci březen marec zpravodaj spravodaj bezpečí filozofický otázkam pozrézt zúbok
+version https://git-lfs.github.com/spec/v1
+oid sha256:20cb6c8de74737c59233ef71302116f8c9239494adc81a98a84bc4cfb29a2bf5
+size 110

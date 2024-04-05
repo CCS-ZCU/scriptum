@@ -1,2 +1,3 @@
-) prostá snaha o vlastní bezpečnost.
- Jakkoliv nízká je dnes prestiž organisace Spoje- ných národů, jakkoliv poškozena je myšlenka kolektivní bezpečnosti, zásady, na nichž byly Spojené národy vybudo- vány, jsou stále platné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22b8a1c2b45533ab2a1632921407bf8e465820ad5e7063ad15c6edc54a5df065
+size 245

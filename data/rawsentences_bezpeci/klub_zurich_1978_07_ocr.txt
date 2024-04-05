@@ -1,1 +1,3 @@
- Rodiče se ptají: jak je možné, že jsme nic nepozorovali? Přátelé se ptají: jak to, že nám to nenapadlo? Uveřejnili jsme dvě její básně a jako stín přešla i naším svědomím výčitka: proč jsme ji nepovzbudili? Je mnoho lidí, zvláště mladých, kteří nemají nikoho, kdo by jim dodal odvahu, kdo by získal jejich důvěru, u koho by se cítili v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78da2ed13e175daf504712a4bccc0c6f9e5175af1af73fd20a79f78ac5c46535
+size 153

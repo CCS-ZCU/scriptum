@@ -1,1 +1,3 @@
-ohled bezpečnost lidé Československo moci věc svádět ^uzavírat informace názor nej skeptický čtenář
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b6ec55728c11a5866578b6b0a37c0f159d3cb0901242dc2463ce4cdb971d0d0
+size 112

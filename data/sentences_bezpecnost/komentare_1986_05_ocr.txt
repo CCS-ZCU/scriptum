@@ -1,1 +1,3 @@
-epodařit zajistit bezpečnost hlavní metr
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f08a34c8fdf81de4a5c7914a91146dbffda8d99c8304fb5436c1e61e97813ea
+size 44

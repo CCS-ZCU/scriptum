@@ -1,2 +1,3 @@
-tragický konec kardinál Trochty veliký osobní nebezpečí dostat zahraničí spolupracovník
-září mít Luděk Pachman západoněmecký televisnimum komentátor Gerhard Lowenthal přednáškový diskusní večer Kassel téma Svoboda nebezpečí stejný podnik
+version https://git-lfs.github.com/spec/v1
+oid sha256:251f9d4f798775726f95b96ce19b63580993c215c8eb0e1d7bf828b16ba440bc
+size 266

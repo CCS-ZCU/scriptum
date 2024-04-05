@@ -1,1 +1,3 @@
-Oím velký krása moc pozemskýc věc fcír velký nebezpečí zakrýt pohled bůh
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a97604462dafc81b5f4f57cf2742f7fa3625d03f9f183a085547df35e3dd7d7
+size 84

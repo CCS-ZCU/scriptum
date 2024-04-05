@@ -1,2 +1,3 @@
-následek nebezpečí uvolnění mezinárodní napětí vzájemný spolupráce bezpečnost mír výsledek konference pouhý podvod předvoj abdikace západní demokracie imperialistický totalitarismus
-aranžovaný útěk bolševický kolonie svoboda chtivý lidé podstupovat krkolomný nebezpečí uniknout dosah krvavý drápa zachvátit zahynout
+version https://git-lfs.github.com/spec/v1
+oid sha256:09358f34950956caef69254762f158f978261a50dd5d3d6a78e0f0d942ef75a2
+size 350

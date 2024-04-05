@@ -1,2 +1,3 @@
-situace moci svět míra
-živoucí poučný legenda dávat přesný vědomí mít poslání voják odpovídající československý armáda mír bezpečnost západní hranice socialistický svět sovětský lide bratrský země léta prožít hluboký společenský křísa
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f4da1be30c40f948dc3fbf736e68f81fab70f081a6446a4dd840e1708c865f9
+size 274

@@ -1,3 +1,3 @@
- Zcela zbytečný zásah Bezpečnosti proti těm, kdo chtěli v tichosti a bez jakékoli publicity květiny k soše položit, vytvořil okamžitě ze zcela nahodilých chodců protestující dav.
-) projevil za katolíky radost, že se Československo připojilo k závěrům následné helsinské konference ve Vídni, zároveň však projevil politování, že "zákroky bezpečnosti proti pokojným shromážděním v Praze 17.
- Budou se pálit doklady, které by mohly ohrozit bezpečnost jak vaši, tak všech ostatních“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f523233ccb7bf8f40dc7a44952dc743370fb3096afcce6f5d4f62682f65e6ac9
+size 529

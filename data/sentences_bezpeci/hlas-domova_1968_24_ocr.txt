@@ -1,1 +1,3 @@
-docházet zpráva zvýšený aktivita západní politický vojenský stratég přehodnocovat význam dřívější dohoda smlouva navazovat přátelství uvolněný porušený minulý léta převládat pocit bezpečí mesiášství Gaulleův ustupovat rozumný •úvahám nutnost zvýšení obrana země
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbff3a8410892eab7f05e0ca0515f7147a306cc1bbb1f4e2250651ebb6c79e0
+size 305

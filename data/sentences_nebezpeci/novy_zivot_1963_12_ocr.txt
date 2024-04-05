@@ -1,4 +1,3 @@
-mít den život trávit přítomný naléhavý nebezpečí smrt zbývat čas jiný boj moc
-pamatovat biřmování moci udělit farář domácí poměry řádný katolický kněz katolík pokřtěný biřmovaný octnout nebezpečí život
-platit možný řádný kněz dosáhnout snoubenec hrozit vážný nebezpečí život připouštět odklad
-Kterakž nahlédnout boh
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c746ae5cd9573e9bb0bae70d687b13c90e632a0923f8ac74a4f06468ebc5469
+size 370

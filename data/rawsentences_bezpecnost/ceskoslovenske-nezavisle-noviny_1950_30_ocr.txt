@@ -1,2 +1,3 @@
- Rada bezpečnosti BIT rozhodl a pozvat kpro jednání -korejské otáz - ky zástupce Jižní Koreje, Sovětský návrh na za stoupení Sev.
-Mimo to se dožadoval sovětský delegát Malik,aby Rada bezpečnosti neprojednávala případ Američany, sestřeleného sovětského letadla nad bojovým územím vKo reji s odůvodněním, ’*že tato otázka se týká pou ze Sovětského svazu a USA’1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4a17274a7b80b752e0e526bee4a399d48055af3575e1d401d99f2791cb0f3f0
+size 402

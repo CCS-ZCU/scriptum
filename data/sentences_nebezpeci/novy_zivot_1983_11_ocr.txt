@@ -1,2 +1,3 @@
-Martínek charakteristika podstata odhalit nebezpečí konflikt autor censura dávat přednost různý epigonský odvozeniny moci vytvořit skutečný výrazný drama
-Turek ohrožovat křesťanství objevit jiný nebezpečí hrozba atomový válka útočný ateismus nevěra teoretický praktický materialismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bdd282f058ae198abac9505442f4eafbc1b4ceb2d2c9e1111faa7dbda280ac0
+size 312

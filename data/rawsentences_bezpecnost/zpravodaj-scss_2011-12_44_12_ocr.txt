@@ -1,5 +1,3 @@
- Jaroslava Havelky přednesená na konferenci (dokončení z minulého čísla) prosinec 3 December  Ue stojí za zmínku, co o něm řekl bývalý generální tajemník OSN Koffi Annan v Praze v roce 2009: Jan Masaryk byl jeden z nej oddanějších stoupenců (propagátorů, nositelů) hodnot charty Spojených národů, hodnoty demokracie, lidských práv a míru, založeném na kolektivní bezpečnosti.
- Ještě lépe se umístila z hlediska bezpečnosti.
- Lépe si vedla v žebříčku hodnocení osobní bezpečnosti, kde spolu s Lisabonem skončila na 47.
- Budapešť Maďarsko Nejlepší města pro život Žebříček týkající se výlučně bezpečnosti jednotlivých měst je letos novinkou.
- Mercer ho sestavil podle kritéria osobní bezpečnosti na základě vnitřní bezpečnosti, úrovně kriminality, vymáhání zákonů a mezinárodních vztahů dané země.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ee83dbfb5cb6ebd64b9a25b367350d0420129910728fcaa64fb049f4bfb7012
+size 883

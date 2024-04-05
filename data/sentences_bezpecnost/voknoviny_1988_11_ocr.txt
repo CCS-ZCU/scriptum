@@ -1,1 +1,3 @@
-majitel digitální hodinky stopky začít měřit čas minuto vyzývat bezpečnost zásah
+version https://git-lfs.github.com/spec/v1
+oid sha256:64f2e8a71c5d64901e2e36daa6bdd15528735fc3ca8359005aaf98ca0e93b124
+size 91

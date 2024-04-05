@@ -1,2 +1,3 @@
- Tehdy za ním přijela z Anglie na Strž ve vojenském jeepu dcera Thomase Manna, Erika, a chtěla ho dopravit do bezpečí.
- Pomůže někdo z krajanů alespoň radou? Čtyř- až šestinásobné zvětšeni kapitálu ! Zamýšlýte podnikat? Chcete si za nízké úrokové sazby peníze půjčit a na vysoké /e ukládat? Švýcarské bankovnictví a pojištovnictvi skýtá na/vyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69e65a40f95ea204049d94b282e6cdb4b1ab2740325c56563b9907da5fb8a67e
+size 232

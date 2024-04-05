@@ -1,3 +1,3 @@
- srpna namalován kýmsi v noci obrovský nápis: „Dik SSSR za internacionální pomoc!" U tohoto nápisu zastavovala Veřejná bezpečnost řidiče aul a musili se legitimovat.
- Na Státní bezpečnost byly předvolány osoby zatčené při loňských demonstracích.
- národní mužstvo hrálo v prvním utkání po světovém šampionátu proti Francii bez jakéhokoli zájmu, ale velkou vinu na tom nese „vedoucí výpravy*’ (ve skutečnosti agent Státní bezpečnosti] Jiří Míiller, který před zápasem přišel do šatny, kde hráčům vyhrožoval, že už s nimi bude kvůli reklamám pro západoněmecké firmy Adidas a Puma na mistrovství světa v Mexiku a nyní i v Nice brzy zúčtováno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03eea13db97aa87218f36ee31c7ed5435b64c674dd5bdc056aa912c2951c3ff
+size 713

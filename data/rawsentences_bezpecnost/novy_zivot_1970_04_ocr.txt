@@ -1,6 +1,3 @@
-« Arabové naproti tomu prohlášují, že neusilují o vyhlazení Israele ale o to, aby jej donutili podřídit se právnímu řádu světa, který je v nejvyší instanci vyjadřován usneseními Rady bezpečnosti Spojených národů.
- V posledním z těchto usnesení, týkajících se Palestiny, Rada bezpečnosti v listopadu 1967 odsoudila israelské válečné výboje a nařídila jak vyklizení neprávně nabytého území tak i řešení otázky arabských obyvatel z něho vyhnaných.
- Vystupňování terorismu na obou stranách, radikalizující i Starý zákon, který žádal jen oko za oko a zub za zub, kdežto dnes jsou s oblibou vyžadovány dvě oči a dva zuby proti jednomu, zamlžuje podstatu základní otázky tohoto sváru, která zní: má vládnout mezi státy spravedlnost a bezpečnost kolektivní (ke kterémužto cíli byly zřízeny už dvě nadstátní právní organizace, bývalá Společnost národů a nynější Spojené národy), anebo individuální, to jest spravedlnost a bezpečnost pouze pro silné? Israel odvrhuje rozhodnutí Spojených národů a nabízí jen uzavření individuálních mírových smluv se svými arabskými sousedy.
- Arabové se pochopitelně drží rezolucí Rady bezpečnosti, jakož i předpisů obsažených v Chartě Spojených národů pro řešení mezistátních sporů.
- Žádná z velmocí si nepřeje, aby krize byla vyhnána až do konfliktu mezi nimi; a všechny měly na paměti, že tato krise otřásá samými základy Spojených národů, když po poslední israelsko-egyptské válce jednomyslně odhlasovaly v Radě bezpečnosti re- soluci z 22.
- císař nesmí překročit hranice diktované bezpečností monarchie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2628bf703955b14b911d506e2f74ae097f1715f7503bc1272cfaef5122a298a6
+size 1706

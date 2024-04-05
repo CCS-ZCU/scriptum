@@ -1,1 +1,3 @@
-pokoušet vniknout území podnik násilí upozornit přijímat odpovědnost bezpečnost odpovědnost následek padat hlava
+version https://git-lfs.github.com/spec/v1
+oid sha256:720e26ef53696e0a448274b97c42ac300726773a9715a47e5da840869b25e25b
+size 124

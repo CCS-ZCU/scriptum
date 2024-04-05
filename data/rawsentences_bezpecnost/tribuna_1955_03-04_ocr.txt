@@ -1,4 +1,3 @@
- Je možné, že se z důvodů vlastní bezpečnosti dosud obává sjednoceného a silného Německa.
- 1, leden 1951) kontrola satelitních států probíhá tím způsobem, že nejvyšší policejní orgány (Ministerstvo státní bezpečnosti nebo Ministerstvo vnitra) spadají přímo pod pravomoc policejního resortu v Moskvě.
- Formosa: Od té doby, co USA začaly považovat bezpečnost Formosy za svou vlastní bezpečnost, poměr mezi nimi a Rudou Čínou se horšil den ode dne.
- Jisto je, že Quemoy není životně nutný pro bezpečnost Formosy a tedy ani pro bezpečnost USA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a885df73f9cc4bb629c44c82e07a95e1e9addf37aed9bd88557ca88383145e7
+size 590

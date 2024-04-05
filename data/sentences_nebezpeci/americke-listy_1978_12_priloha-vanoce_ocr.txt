@@ -1,1 +1,3 @@
-případný raketa vypálený trosečník signál SOS způsob vyslat plavidlo nebezpečí posádka italský loď vyloučit
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3790b5e177c4b1c6833dbac46907c5c4948f6a57c6555edb3eec7eba44953d6
+size 123

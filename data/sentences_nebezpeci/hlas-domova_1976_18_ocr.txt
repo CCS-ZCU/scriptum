@@ -1,2 +1,3 @@
-nebezpečí
-Svatopluk Ježek Řím
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dfe2420ca61eaa754db82a4346ab7c38bd11dafd6172c921e8ff26f4da8aa2e
+size 35

@@ -1,1 +1,3 @@
- Domov byla jistota, pocit bezpečí, který cítíme, když jsme obklopeni lidmi a věcmi, které jsou nám blízké.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ec945149f65715f478a0ce201cef2cc478ab497979392f02d90e4d47cad712
+size 119

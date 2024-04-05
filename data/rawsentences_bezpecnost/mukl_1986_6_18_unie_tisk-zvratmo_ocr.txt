@@ -1,2 +1,3 @@
- Museli tak učinit s risikem nasazení osobní bezpečnosti příslušníci jiného národa.
- ČERVENCE 1986 ZÜRICH, ŠVÝCARSKO 5  znárodňování stála ve svém radikalismu daleko za buržoáznimi stranami, (sociální demokraté a národní socialisté) které chtěly prosadit dalekosáhlejší zestátnění, než samotná KSČ byla ochotna připustit - tím si pochopitelně zajistila hlasy i středních vrstev, obsadila klíčové pozice v nové státní správě, v novém sboru Národní bezpečnosti (SNB) a donutila presidenta vyměnit osobnosti nepohodlné KSČ v armádě a policii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59af65054680b69dbc1732a8b003a9bdb135ab79d9299d153d3e64451dcb926c
+size 601

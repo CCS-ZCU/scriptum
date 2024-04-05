@@ -1,1 +1,3 @@
-znamenat ohrožený posice bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f383644452b4251bb7b56302e3228c38559ec2505f36d030730350c1f21cdf71
+size 37

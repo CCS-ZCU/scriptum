@@ -1,6 +1,3 @@
- Protože armáda S bezpečnost- ní aparát zůstaly vcelku loyálni Ami- noví, Moskva si začala uvědomovat, že afganský prostor bude koneckonců zajištěn pouze ruskými bodáky.
- Vzhledem k p o k r a č u j í c í m i a rostoucímu v m í - Sování a provokacím vnčjäich nepřátel Afghá- nistánu a v zájmu ochrany výsledků d u b n o v é revoluce, územní celistvosti, národní nezá- vislosti a zajiStčni míru a bezpečnosti se vláda Afghánské d e m o k r a t i c k é republiky v souladu se S m l o u v o u o přátelství, dobrých sousedských vztazích a spoluprácí r 5.
- V poslední době se k tomuto podzemí připojili i věd- ci a vydali řadu originálních akademi- ckých studií, které by nikdy neprošly cenzurou - například práce Jaroslava Suka a Jana Frolíka o soudobém vězeň- ském slangu v Československu, která v jedné sekci analyzuje žargon pracovní- ků Státní Bezpečnosti.
- V poslední době se k tomuto podzemí připojili i věd- ci a vydali řadu originálních akademi- ckých studii, které by nikdy neprošly cenzurou - například práce Jaroslava Suka a Jana Frolika o soudobém vězeň- ském slangu v Československu, která v jedné sekci analyzuje žargon pracovní- ků Státní Bezpečnosti.
- Belluscio, který je laké vedoucím vládního úřadu pro bezpečnost a ve- řejný pořádek, řekl, že nejméně Čtyři hlavni italští teroristé a více než dva tucty jejich spolupracovníků byli cvi- čeni v přísně tajných základnách blízko Karlových Varů a Doupova, Oba výcvikové tábory byly založeny čs.
- Malé rozdíly jsou v tom, že se nepo- pravuje, sledování a odposloucháváni se provádi na vyšší úrovni elektronic- ké techniky a orgánům bezpečnosti přibylo na oportunismu a cynismu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:402b343d432979e3630023674246d76caa0196037c0f9f2707c905d86c1fc494
+size 1805

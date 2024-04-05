@@ -1,2 +1,3 @@
-strach rozechvívat svět mít obraz
-najít něžnost bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a9ff351f3997af3a994e712eee74ded51aa617c8c0d28100b191613b4fa72a
+size 64

@@ -1,8 +1,3 @@
-Kramář nastoupit politický dráha nozit veleň zámožný zemřít zadlužený chůd život vyplněný zištný práce národ vést triumf žalář šibenice návrat vězení vrátit národní hrdina stát první ministerský předseda obnovený český stát prožít poslední léta život zahrnutý nevděk posměch ostouzení první jediný politický vůdce pochopit nebezpečí plynoucí československý republika pochybený zahraniční politika
-událost vídeňský říšský rada objektivní zpráva mít vliv panující Vídeň nálada poukazovaný nebezpečí německý agitace dostat článek sir Rovrland Blenner hassetto důkladný vysvětlení vysoký čas mitout Rakousko Německo boj rakouský Slovan všeněnecký proudící hnutí oceňovaný celý dosah rok snidit zapomínat
-vůle spokojený národ hájit jednota milovaný říše vlastní krev
-musit obávat stát jlastní zájem smět odvážit zjednat Němec umělý panství veliký část stát přátelský stát mít program kte podnik samostatnost odvislost Rakousko znamenat velký nebezpečí
-publikace něnec ruský zvláštní dohoda Rakousko otevřít oko podívaná nebezpečí Rakousko dostat dřívější politika balkánský ukázat Rakousko besc bezpečný zadní kryt spoléhat uzavření petrohradský rakousko ruský úmluva poněra zjinačit
-Vídeň pocítit petrohradský návštěva stát volnějšíný Rakousko znenáhnout vymykat berlínský vliv Německo vyhledávat muset Rakousko smět vystupovat Vídeň povolaný protektor Rakousko rakouský Němec chtít vystavit nebezpečí Evropa isolovaný hlas Německo požadovat konat spojenecký povinnost setřást Všeněmec šos ojedinělý politioký váha
-případ východ nouze okamžik nebezpečí fungovat příčina muset pomýšlet důkladný přestavba starý divadlo lze gpolehnout moderní racione lni výstavba nový velký budova pomůcka nouze odpovídat nový potřeba
-moci Němec být dobrý veřejný mínění Evropa mít nebezpečí východ nutnost zřízení říše dunajský
+version https://git-lfs.github.com/spec/v1
+oid sha256:bac66c8f8c4287afebf3543addee9ba931b8a89db5e3e2a5f3b340bc2a785812
+size 2045

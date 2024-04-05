@@ -1,1 +1,3 @@
-obyvatel vědomý nebezpečí infekce zkažený maso jáma strom naházený nahnilý ovoce závažný objev hranice Břeclav bulharský přítelkyně Táňa chytit celník falešný razítko pas
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a37da0f3af81489e601cfbee093d1fc1114d9605dbd37a4a3db1b3ebdb41bb5
+size 195

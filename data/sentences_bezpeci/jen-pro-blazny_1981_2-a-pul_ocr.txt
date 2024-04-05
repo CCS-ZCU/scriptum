@@ -1,1 +1,3 @@
-síla bezpečí lidé
+version https://git-lfs.github.com/spec/v1
+oid sha256:712a2259b38bd30d3342d99e9c4a62c67cfd7ffec8cb79dd0b7f44f6fb1a25e4
+size 22

@@ -1,5 +1,3 @@
- Sde ^e raspelitavii ni ládskýcr* p m 6 a^cb^d ^edan pvlw' \ C fftnyj» bezpečnosti p^-.
-y os ve stali, n^tavoní: řTonfcreno«1 o bezpečnosti a Ope'» j^tíC; v l'rrcne Uvlr, áo sne^oá míry vÍBl^^kom 4i«;!Ích ajouholotrKo 1''.
- Pak následuje zásah bezpečnosti.
- V případě zásahu bezpečnosti nelpe zapomenout, že svým chováním vyvíjí- me tlak jak no diváky', tak i na policajty.
- v poslední době se v zemích Var- šavského paktu dosti mluví o redukci konvenčních zbraní a dokonce o zkrá- cení nákladní vojenské služby» Pak je namístě položit moci otázku: Proč chcete snižovat stavy vojsk a zároveň zavíráte do vězení ty, kteří ve vojsku nechtějí sloužit? Bobře je také si uvědomit a ostatním připome- nout, že za "bezpečnost" a "státní zájem", jak to formulují politici, se platí vysoká ekonomická cer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d9e4b26265f059fd09e77b5c203b819a0be72bb6630367ebd6933bd3067d58
+size 875

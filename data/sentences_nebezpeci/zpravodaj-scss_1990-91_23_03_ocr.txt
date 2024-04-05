@@ -1,3 +1,3 @@
-pralament povstat varovat nebezpečí politický proces případ nebezpečí výsostný oprávněný
-obvinit sovětský soudruh nedostatek bolševický bdělost podceňování nebezpečí kontrarevoluce mít zkušenost rozdíl zakalený československý normalizátor
-vážný nebezpečí návštěva skrývat pan Arbenz vynasnažit odebrat asylový povolení
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4cd7a912b0a7934b95723434293d19fac301497bf6c559ae5a842c65bd220a1
+size 360

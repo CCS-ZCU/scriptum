@@ -1,4 +1,3 @@
- Ty se ptají: Komu vlastně Národní budova po právu patří? Krajanům, kteří před dlouhými desítkami let ji pomohli svými skromnými grošíky postavit? Těm, kdož v době jejího vzniku nebyli ještě na světě a do Spojených států přišli mnohem později? Budeme opět informovat Ve Vídni byla na tři týdny odročena následná helsinská konference o bezpečnosti a spolupráci v Evropě.
- V neděli odpoledne zasáhla v Praze bezpečnost proti setkání kolektivu mluvčích ob- BEZ KOMENTÁRE Do Prahy se vrátila čtmáctičlená brigáda Julia Fučíka, která pomáhala při sbčru kávy v Nicaragui.
- V jednom soukromém bytě se shromáždilo 27 lidí, kterým policie odebrala občanské průkazy a pak je rozvezla k výslechům na různá oddělění Veřejné bezpečnosti.
- Sabatu v neděli večer odvezli dva muži státní bezpečnosti asi tři kilometry za Štěchovice, kde se mu na osamělé silnici snažili nahnat strach.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f201e9950cca592098c18fc485e233ee51edd772a5f2a03d3ff7b87f0e95445e
+size 963

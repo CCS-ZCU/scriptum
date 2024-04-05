@@ -1,22 +1,3 @@
-zkoušet sluneční žár poušť vydaný být nebezpečí zemřít žízeň
-nebezpečí
-číst říci pouhý formalita nebezpečí úrok platit
-přijít zvěd podat zpráva John Hallet syn dům majít tušení hodina rok metr metr nebezpečí
-kůň zůstavený ochrana muž jiný postavený cesta Livermoor vedoucí moci případ hrozící nebezpečí soudruh varovat
-srdce chu dobný moci vydat nebezpečí urýchlený jednání pozbytý
-nebezpečí hrozící dodávat síla
-druhý dělník spěchat důl <UNK>by uniknout další nebezpečí
-zasáhnout cíl odvážný zločinec usmrtit nebezpečí odstraněný lokomotiva plný let supíc řítit blížíčí rychý vlak
-moci počít
-jediný možnost cestující rychlovlak strašlivý neštěstí srážka zachránit musit mít následek zřícení celý vlak prohlubeň stopa hluboký prostředek zdát šílený muset okamžik nebezpečí použitý
-stroj blížit rychlost moci zvýšit hrozit nebezpečí výbuch
-lokomotiva hrozit nebezpečí velký mít vysoký kolo lokomotiva stavební vlak jedoucí moci majíc kolo nízký kolej vyšinout okamžik pravý štěstí
-dávat výstražný signál parní píšťalý naděje strojvůdce rychlovlak slyšet povážlivý moci blížící nebezpečí ostrý záhyba uzřít hlučení lomoz vlastní vlak výstražný signál uslyšet
-nebezpečí rychlovlak růst sekunda
-Marietta mžik poznat nebezpečí milenec nacházet znajít povaha lstivý Ital meškat vrazit síla Lacerta zavrávorat
-jet bystrý kůň vypozorovat chtít hrozit nebezpečí
-chtít upozornit blížící nebezpečí zpozorovat středa Indiánův důstojníkův
-vysoký hora vniknout musit překročit zažít mnohý lovecký dobrodružství soudruh vojín Johnson octnout nebezpečí život
-okno čas bouřka zavírat radno nechat otevřený lidé předejít možný nebezpečí zadušení hrom udeřit světnice
-pravda odvaha mít spočívat záležet život domov macecha poutat jiný otec
-utrpět bojovník nesnáz hlad nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:704ee2b205ce09c0988e7e9060b83347548e26e93a705906873e882c1b7bef3e
+size 2013

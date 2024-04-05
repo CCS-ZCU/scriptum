@@ -1,1 +1,3 @@
-bezpečnost kroužek vědět rozhánět vice příležitost zadržet zahraniční lektor oxfordský universita přijet kroužek přednášet
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b56a15e3fc240317a23671311cb22fe17bf1fc6f7fd36ea13d6a69f4d66160
+size 141

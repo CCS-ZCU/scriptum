@@ -1,1 +1,3 @@
-krov kostel vznítit chrám velký nebezpečí oheň uvedený
+version https://git-lfs.github.com/spec/v1
+oid sha256:384e39d16be02e5f522a871cf40356b5492284e8a512da3af0b1821f3549e243
+size 62

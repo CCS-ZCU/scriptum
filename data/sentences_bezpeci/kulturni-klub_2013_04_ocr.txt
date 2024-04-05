@@ -1,1 +1,3 @@
-ústav pojetí znamenat funkční stabilní organizace mít racionální uspořádání poskytovat prostor bezpečí individuální rozvoj klient
+version https://git-lfs.github.com/spec/v1
+oid sha256:db48921ce57b75df2034536d72cad3b605347bfa4746e97ca23df1a3022b3bac
+size 146

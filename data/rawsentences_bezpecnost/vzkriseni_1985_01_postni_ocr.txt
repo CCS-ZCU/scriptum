@@ -1,1 +1,3 @@
- Ideologicky to zdůvodňuje teorie o národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c4cf7341271f0a69578875bca1a34a2ac42bc383b0764596f90eb6cf5a548ee
+size 62

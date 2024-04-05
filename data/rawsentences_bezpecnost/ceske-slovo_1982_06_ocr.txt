@@ -1,1 +1,3 @@
-bezpečnosti, která opětovně naléhá na Lisa, aby se z Československa vystěhoval.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46be1917a177f5b87b2a620adc9572e944efdcb33578b756e49b31ca24b65803
+size 88

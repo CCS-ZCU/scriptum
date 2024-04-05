@@ -1,1 +1,3 @@
- Administrace Zpravodaje říjen 52 október  Nové bydlení pro seniory v Praze - Rezidence Rosa ✓ Byty 1 +kk a 2+kk s vlastní kuchyní a koupelnou přizpůsobenou pro seniory ✓ Zdravotní a ošetřovatelská péče poskytovaná Českým červeným křížem Výborná dopravní dostupnost - poloha přímo u metra C - 10min do centra Prahy / Bezbariérové vstupy a veškerý pohyb po domě, protiskluzné povrchy V Budovy obklopené zahradou V Bezpečnost a soukromí klientů / Dálkový asistent k přivolání pomoci V Aktivizační programy Dokončení Rezidence v létě 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef1af00792bd18a09ed0173fb8ad0e502804a9ccdf68dda16faa9e420a35c3e
+size 590

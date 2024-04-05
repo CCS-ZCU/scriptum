@@ -1,2 +1,3 @@
- Jsem rozhodnut postarat se o to, aby Amerika dostála své hrdé tradici, jež uprchlíkům zaručovala bezpečnost.
- Jako důkaz toho prý byl Husák doprovázen při návštěvě velitelství Státní bezpečnosti vysokými důstojníky protišpionážní služby čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5600a47d39b3e268bc7362582adedcdde41ee0b76327fbbe918309d00009a3
+size 272

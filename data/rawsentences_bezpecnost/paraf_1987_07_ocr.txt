@@ -1,1 +1,3 @@
- Tehdy byla Jeho přednáška o Aristotelovi Státní bezpečností přerušena a A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a9d4f666637d5d9fa22bce59ecaf52ef42012124a465dd587d1015d927b485e
+size 85

@@ -1,7 +1,3 @@
- V mém průvodci sice stojí, že se mám všude vyptat na bezpečnost terénu slovy Phleuv nih mian sohwatthaphiap dai reu te? - to bych ovšem mohl vyletět do povětří, než bych to dopověděl.
- Medzinárodní experti sa vyjadrili v tom zmysle, že v problematike bezpečnosti prevádzky jadrových elektrárni dosiahlo Slovensko západoeurópsku úroveň, takže tieto môžu slúžiť ako vzorové.
- Na zvýšení spoľahlivosti a bezpečnosti slovenských atómových elektrární sa vo veľkej miere podieľali aj švajčiarski experti, ktorí dva roky školili domácich odborníkov v Bratislave.
- Další příspěvek informuje o otevření nového tunelu, který zaručuje bezpečnost před lavinami.
- Po dohode 23  zpravodaj 3/99 s mojím kolegom ministrom Kukanom sme určili obsah, ktorý nám umožni diskutovať o otázkach európskej integrácie, bezpečnosti v Európe s dôrazom na Balkán, o situácii v strednej Európe a o niektorých bilaterálnych otázkach.
- Aká je švajčiarska vízia spravodlivého systému bezpečnosti v Európe? Švajčiarsko sa zasadzuje za vytvorenie priestoru bezpečnosti založeného na spolupráci a bez priepastí v Európe, pričom záleží na vôli štátov, aké aliancie si zvolia.
- Skutočná bezpečnosť v Európe nie je možná bez účasti Ruska, ktoré má právo zaujať miesto, aké mu prislúcha v architektúre európskej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27644cc5e3bdb2b163eed3db8c3cb2b0ca3377a2148cdd46ce724ed596bf8a8a
+size 1410

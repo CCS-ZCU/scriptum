@@ -1,1 +1,3 @@
- Klingera, v němž se Klinger Čížkovi zaručoval za naprostou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d22268cc7beccfce611083a1be8e875286239e848edf51d143123a2c0514e4
+size 79

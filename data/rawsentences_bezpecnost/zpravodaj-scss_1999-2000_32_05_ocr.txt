@@ -1,1 +1,3 @@
- Formulovala je následovně: - podporovat "stabilně bezpečné euratlantické prostředí"; - sloužit "spojencům jako důležitá transatlantická zóna bezpečnosti, kde budou moci konzultovat všechny otázky ovlivňující jejich životní zájmy"; - "plnit funkci odstrašování a obrany proti každé hrozbě agrese, směřující proti jakékoli zemi NATO"; - "přispívat na základě konsensu k účinné prevenci krizí a aktivně působit při řešení krizí včetně operací reagujících na krize"; - "podporovat rozsáhlé vztahy partnerství, spolupráce a dialogu s jinými zeměmi euratlanti- ckého prostoru z hlediska zvýšení transparentnosti, vzájemné důvěry a schopnosti ke společné akci s aliancí".
+version https://git-lfs.github.com/spec/v1
+oid sha256:883d9dcb7e0b22ab1a4892ff09dff5154fb30415b604d3a1ac867ba696a1d8ad
+size 738

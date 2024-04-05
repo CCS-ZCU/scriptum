@@ -1,1 +1,3 @@
- Dálnice z Jakarty na západ je velmi dobrá, ale nebezpečná, protože je místy obousměrná a řidiči 7  na bezpečnost nedbají.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f295f07802a24d3f94703649bfff94f92e2b8cc2e2871354679e5dbccc547c9
+size 136

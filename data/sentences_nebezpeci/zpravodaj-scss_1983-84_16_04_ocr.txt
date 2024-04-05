@@ -1,2 +1,3 @@
-existence předpoklad nebezpečí vznikající provoz atomový elektrárna připustit článek rudý právo
-autor přečkat pohodlí noc vrátit druhý den nezraněný ztrestat ziskuchtivý krčmář zveřejnit zpráva domnělý neštěstí úpatí hora stavět další chata milovník nebezpečí řada turista
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d4086f2cc86686327d4c43da9fe0b53d2c9435e61cb6b87351c3c6c9e358b0
+size 312

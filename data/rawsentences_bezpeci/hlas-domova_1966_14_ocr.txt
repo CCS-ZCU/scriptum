@@ -1,2 +1,3 @@
- Pohraniční hlídka se je snažila zadržet, při čemž byli oba zra- něni, ale nakonec se dostali do bezpečí v Rakousku.
- Z nuceného spojenectví druhé světové války vze- šla nálada falešného bezpečí, důvěra, že komunis- mus je něco neškodného, co už má spalničky fran- couzské revoluce dávno za sebou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4925551b49f89e5ee78accacc24ab8318ba2bec0aa6266a7d5b310c644fbf98
+size 324

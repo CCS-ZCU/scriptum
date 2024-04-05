@@ -1,1 +1,3 @@
-adresa Irena Poláková
+version https://git-lfs.github.com/spec/v1
+oid sha256:e81adf25f71553949f4cd1936335dd3128602233afdbfc56a725d09eed8aac8b
+size 24

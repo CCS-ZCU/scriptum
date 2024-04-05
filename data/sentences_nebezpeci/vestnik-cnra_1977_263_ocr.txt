@@ -1,2 +1,3 @@
-film představující varovný vykřičník vážný nebezpečí čelit svobodný svět sledovaný pozorný zájem osvědčit prodloužený nadšený potlesk
-Jiří Hájek prohlásit Dubček žít isolace proveditelný podpis získat nebezpečí celý akce vyzrazený uveřejnění
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a6099d41cb8539251d1fb61c3335896124d9c47b89fcd5134766ad7ee21fe2f
+size 282

@@ -1,1 +1,3 @@
-člověk jet bezpečí lotr poradit dát přivázat
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f4f585b91a5cf4e421711d80abf23a73ccc4368394513ad540244f04a09d098
+size 52

@@ -1,4 +1,3 @@
-autor upozorňovat vznikající nebezpečí vědomý překvapivý intelektuál vkládat budoucí bezprostřední vývoj velký důvěra technika současný intelektuál filosofický směr směr stať vyznít
-postačit malý skupina malý stádo pracovat risiko nebezpečí jiný cíl pravda počítat pomoc duch oživovatel působit jít vlastní zájem mystický těla prostřednictví koncil svatý
-Ješl další bolest starost hlásit zášť braírský válka propuknout uvádět nebezpečí svět mír klidný soužití národ
-oddychnout děkovat pán bůh ochrana pořádný nebezpečí moci skončit odbýt den strach nervozita temperament síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:55a7e46dfb7a55f1b0301e498eda7d18557ebd08a18365c398972ab6ae23b2d4
+size 653

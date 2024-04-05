@@ -1,1 +1,3 @@
-příbuzný přítel vědět strana nebezpečí návrat hrozit mluvit
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d44a25ef9e79327e213861dee5edb8b566022b3b8121245aef97c0b50348e30
+size 70

@@ -1,7 +1,3 @@
- Kužílek řekl, že strana zdůrazňuje bezpečnost občanů, chce zlepšit trestní řád a posílit postavení policie.
- KDS se zajímá především o problém bezpečnosti a o bytovou politiku.
- OPOZICE ČSSD První opoziční strana ostře kritizovala ministerstvo vnitra, které obvinila (spolu s ODS) z alarmujícího stavu bezpečnosti.
- Státní bezpečnost toho využila k protiakci: vydala pod stejnou hlavičkou a v totožné úpravě v druhé polovině 1954 falešné číslo s provokativním obsahem.
-“ Pan Lukeš teprve nyní objevil Ameriku? Na téma komunismus a Státní bezpečnost byly popsány stohy papíru.
- [Jostenova] fotografie byla rozeslána prakticky všem složkám Bezpečnosti v Československu.
- Výdaje na bezpečnost budou vyšší o 17,7%, na školství o 15%.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3bc3321ec98c6b9fbcfe2ef59dca3f81de144d9a32c1629cb48fb07c99df670
+size 801

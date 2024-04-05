@@ -1,1 +1,3 @@
- prosince ráno 1899 bylo kvůli bezpečnosti rozmístěno na naplněném náměstí svatopetrském 200 četníků, 600 vojáků a několik set vojenských a policejních oddílů bylo v blízkosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1147dc7e398aac55633c9a1bd29163d568bd3c2561169d78d173e632c6c2720e
+size 199

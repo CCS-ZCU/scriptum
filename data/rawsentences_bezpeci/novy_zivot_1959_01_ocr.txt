@@ -1,1 +1,3 @@
- Početné skupiny uprchlíků dorazily až do Palestiny, snad proto, že se tam cítily v bezpečí, nebo že tam chtěly načerpat v blízkosti posvátných míst útěchu a sílu, či proto, že tam hodlali najít pomoc v klášteře svého krajana, učeného kněze a mnicha Jeronýma, který byl výborně znám po celém západním křesťanském světě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93af934cef004d43c53aea7127380a78fe6ad688530fb8bb243490f25891507b
+size 362

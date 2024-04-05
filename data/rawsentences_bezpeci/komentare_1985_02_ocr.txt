@@ -1,2 +1,3 @@
- Stažení vojsk, snížení stavu: jak víte, o tom se už léta letoucí naprosto bezvýsledně vyjednávám Předpoklad je to zas mírové reorienta- ce celkové představy: že v zájmu míru a bezpečí všech je mírové pásmo ve středu Evropy, ne pevně zajištěná hranice na Labi.
-  - 10 - JWB Ad vocem: Pražská výzva Jakkoli je mi proti mysli udílet rady z londýnského bezpečí lidem kteří se nacházejí v obtížné situaci, nemohu přece jen potlačit v sobě závažné námitky proti znění "Pražské výzvy" z 11.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd9f4f46e9bd754325c5357c9c6d8ee942d3d61e156ef7370445d3d560e85003
+size 542

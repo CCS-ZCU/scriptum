@@ -1,1 +1,3 @@
-pocit falešný bezpečí vyvinutý silit proponovaný návštěva Chruščev Bulgani Anglie vyvolat nadšený mít přijet spasitel svět zodpovědný procento trápený
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b2003d7424a30376683f8890fbf53146113075a9f854a338c9539a0d3c5dc9
+size 42

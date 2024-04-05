@@ -1,1 +1,3 @@
-velký nebezpečí hrozit lidstvo oligarchie státní byrokracie problém světový
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0584eed1bfcfa019996641512d879321d1213ddd15c973a8affc4d0a20a12c
+size 84

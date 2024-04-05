@@ -1,2 +1,3 @@
- Táto polícia slúžila výhradne záujmom Sovietov, nerešpektovali zákony, osobnú bezpečnost obyvatelstva a verejný poriadok.
- Vyzbrojený so znalostou zákonov a služieb bezpečnosti, som sa snažil překazit ako priamo s mojim zásahom, tak i preventívne podvratnú činnost komunistov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e425494029f81a33be5a1c916bdc41a27b41dfe204e67303957817a801397b0c
+size 299

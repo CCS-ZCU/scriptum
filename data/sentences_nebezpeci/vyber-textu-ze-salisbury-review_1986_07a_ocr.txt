@@ -1,5 +1,3 @@
-politický nebezpečí představovat velký vize roziu^ný zprostředkující cíl praktický strategie demokratický reforma
-náchylní domnívat vládnutí prostřednictví policejní soudce představovat újma přiměřený břemeno Hume říkat řád společnost setkávat udržovat prostý teteno vědět vlád^•
-lidé doba revoluce takovéia rozpoložení monarchie ostrov vydaný velký nebezpečí úplný zánik
-stát svobodný smysl podrobený sovětský nadvláda
-hodnota prosazovaný svobodný obec hodnota zákon svoboda pluralismus individuální uplatnění sociální interakce společenství nápadní demokracie moci přiblížit čitý libra zrevoiueioizovat vztah stát občanský společnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:dda0cbce85ffeb288373b4f6f3ae076d1fdfa6d00db252e45d40922e485c2649
+size 715

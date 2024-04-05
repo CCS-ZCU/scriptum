@@ -1,1 +1,3 @@
-autor Karel Pecka žít Československo vzít vědomý nebezpečí plynoucí vydání exilový nakladatelství vydání mít prst Dílie
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9814765cdddaea579c3c5a01f05912499c98ef9b158bd8c1a50964a8793575
+size 137

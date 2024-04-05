@@ -1,1 +1,3 @@
-“ Tady ta „skutečnost“ znamená pravý opak: ne hmotná fakta (která oni dobře znají, už když se spolu baví v bezpečí), ale citový vliv, kterým ta fakta zapůsobí na lidské vědomí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b7ea437908123fa18939f2a423d51cb17709d9b2e2563d48d082668e1a9f9e0
+size 202

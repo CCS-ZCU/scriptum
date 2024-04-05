@@ -1,2 +1,3 @@
- V kanceláři byl přítomen rovněž agent bezpečnosti.
- agent bezpečnosti začal křičet: "Máme spoustu míata v táoorech nucené práce pro takové, j*ko jste vy, tak zůs- taňte doma a nechodte na pouti! Podepište výstrahu, že se nezúčastníte té pouti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:499a091716107d63e21713523840a194b660351a37cbae782353cf1b4ce4cffc
+size 271

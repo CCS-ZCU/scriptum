@@ -1,2 +1,3 @@
-) ruská bábka - šéf krymskej autonómnej vlády Sergej Aksjonov „s vedomím svojej zodpovednosti za životy a bezpečnost občanov“ požiadal Putina o ,,pomoc so zaistením miera (!) a pokoja na území autonómnej republiky Krym “.
- Těsně před jeho uskutečněním ho však zatkla Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ded9d0b8661ab1d12575a1e3c952e2735f4489f370ffa5dae940a3e7d17c539
+size 317

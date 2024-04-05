@@ -1,1 +1,3 @@
-rád mluvívat nebezpečí zapo mnění zapomnění organizovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbc8e9db5d198e942c65044932dddfd2f03a6fabe84fb3190b9c56da38e86ba2
+size 65

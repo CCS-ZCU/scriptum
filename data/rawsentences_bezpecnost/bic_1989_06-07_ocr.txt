@@ -1,2 +1,3 @@
- Vojín Ferda dokument rozbalil, přeseti a prohlásil: "To je vono!!" "Co si furt tak zamyslenej?" "Ale lituju, že Spartakus nebyl českým králem!" "Co té to, prosím tě, chytá?" "Ale já to totiž napsal do ites- tu při zkoušce pro přijetí k Bezpečnosti.
- TEN DĚLÁ TO A TEN ZAS TOHLE Páni ministri, prokurátori, Slovutní soudci, páni strážmistři Kriminologové, advokáti, Vyšetřovatelé, psychiatři Páni docenti psychológie, daktyloskopie, patologie Nemocí zjevných, nemocí zhoubných,, nemocí latentních Vynálezcové zámků patentních Veřejná bezpečnosti, zkrátka spravedlnosti: Tady je pumpař, vekslák, řezník A ten, co predražuje rajčata, je zelinář Z melouchu vrátil se nám zedník A z lochu s vojetejma auťákama šmelinář Ten dře lidi z kůže, ten mele flákoty Ten krade, jak může, i za dveřma boty Ten dělá to, a ten zas tohle A všichni dohromady vydělají moc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a8136ffe524cc4121c3d8918206c65ee82396089e0bbc28678fd4a0bb97daf
+size 932

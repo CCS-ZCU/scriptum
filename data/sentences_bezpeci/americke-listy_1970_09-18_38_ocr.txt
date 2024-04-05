@@ -1,1 +1,3 @@
-vyložený bezpečí britský zákon rok vrchol domyšlenost povolovat vývoz zlato kolonie mít trvalý bydliště
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6656f182dc3369b1c86e93df82b8fe52188e11b446d4f1fcd892c4a6eb458c
+size 116

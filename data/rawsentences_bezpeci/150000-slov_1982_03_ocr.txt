@@ -1,1 +1,3 @@
- Co může být lepšího než cítit se v bezpečí? Ve světlém, čistotou zářícím bufetovém sálu je už asi patnáct lidí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6952d842b276c46e4b33ae93808f0b083ff4b0c954f87e7e54572a633198a25a
+size 134

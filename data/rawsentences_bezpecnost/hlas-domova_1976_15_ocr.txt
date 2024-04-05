@@ -1,1 +1,3 @@
- Ve “Smutku” miluje kriminalista - kromě své ženy Lucinky - příslušnici Veřejné bezpečnosti, a jen zásluhou svátého Sidonia zůstane při lásce platonické.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aa8b0400113da294de950acb8d2178395f52fe79cf30e1a9f82225e894a3a57
+size 174

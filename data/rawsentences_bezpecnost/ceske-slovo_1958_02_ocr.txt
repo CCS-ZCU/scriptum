@@ -1,5 +1,3 @@
- Zeptejte se Bacilka, Háruse, Čepičky, Raise, Skody, Aleše, Bartušky a Baráka, bývalých a dnešních ministrů vnitra, bezpečností, spravedlnosti a generálních prokurátorů.
- Václav Skoda vybídl pit lé příležitosti orgány bezpečnosti, prokura- lury a soudů, aby ukládaly přísné tresly nepřátelům lidu, kleči se dopustili trestných činů z nepřátelství vůči režimu .
- bezpečnost při práci se zákony na ochranu práce; 6.
- Bezpečnost při práci, ochrana práce.
- Dnes, kdy komunisté vládnou, neni už jejich cílem bezpečnost dělníků při práci, nýbrž rekordní výroba bez ohledu na člověka Při lámání rekordů riskuje své zdraví obyčejné ten, kdo se o rekord pokouší, a ne ten, kdo přihlíží, moří a tleská.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25057053dff88043d4ce2954712cfbe911ee4cbeeaba73e0f14ca5ef62b8eb24
+size 779

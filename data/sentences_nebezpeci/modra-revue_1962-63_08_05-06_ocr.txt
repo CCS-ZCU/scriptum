@@ -1,5 +1,3 @@
-věda vystavený nebezpečí malý omyl pochybený úsudek vzniknout mohutný stavba den ukázat bludiště
-jiný příklad nebezpečí tendenční propaganda moci tvrzení převzatý cizina československý levicový pramen agentúr rok československý republikánský agrární strana nředstavitel Rudolf Beran volat Praha Hitler nacista přijít
-odpůrce komunismus vědomý nebezpečí
-pathologický zjev vvkořeněnec typ Nejedlý sloužit pláštík socialista pokrokář zastírat skutečný tvář komunismus znemožnit národ poznat skutečný nebezpečí
-český národ nést cudzopasníkom živit cudzie vérit český národ intelhgencie vymanit naoktro ováný rozličný predstáva nebezpečí autonomistický hnutium Slovákov postavit minulost strana právo sloboda slovenský národ uznaní autonomie rámec čsl
+version https://git-lfs.github.com/spec/v1
+oid sha256:8144a28bd21bc88ea9d2eb83ff16e09aa8637e0094797efe772cdc46e1ddf3e5
+size 832

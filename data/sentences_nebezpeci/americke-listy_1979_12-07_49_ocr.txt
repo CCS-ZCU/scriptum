@@ -1,3 +1,3 @@
-Španěl doporučit Nate začínat nebezpečí strana sovětský svaz hrozit
-myslit říci národ nebezpečí horší celý existence
-velký nebezpečí zničení
+version https://git-lfs.github.com/spec/v1
+oid sha256:5df6c499fc76086d75c6f2f3c38e69859ed8fea8c75a7e9bc6b3528e72c1e0eb
+size 163

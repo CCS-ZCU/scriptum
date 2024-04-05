@@ -1,2 +1,3 @@
- A tím také skončil můj pobyt v krajanské společnosti — neodolal jsem déle nutkání k uchýlení se do bezpečí.
- PLATÍ JEN V NEMECKU KAŽDÝ HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b3c52daa14137eb5c6620f4a4d3516fc73d4d3c028ba9747b71141a9e6e4d88
+size 182

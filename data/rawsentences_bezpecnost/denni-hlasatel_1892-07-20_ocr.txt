@@ -1,1 +1,3 @@
- Roku 1875 vstoupil do služeb stráže bezpečnosti, jakožto zřízenec nej nižšího druhu s platem jen 12<>0 franků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbe03fc6d5484b2ed650660335b074ff54aaa663030e9d3b724ccdf1fe5c39f6
+size 123

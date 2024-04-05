@@ -1,1 +1,3 @@
- Zároveň odňal ministrovi zahraničia jedno z klůčových míesf v systéme americkej národnej bezpečnosti, ktoré držal Kissin- ger, totiž poradců v Bíelom dome pre otázky národnej bezpečnosti; a viceprezident Rockefeller odovzdaním listu prezidentovi oznámit, že sa neuchádza o kandidaturu na toto miesto v budúcich prezidentských voí'bách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c9b7eb2f05ccc21a9d3ab717a0bc47a11302444f5c13f4891cc945611370af
+size 364

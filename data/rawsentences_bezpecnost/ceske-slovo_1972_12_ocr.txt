@@ -1,11 +1,3 @@
- V Helsinkách se konají přípravná jednání konference o „bezpečnosti“ a spolupráci v Evropě.
- Jsou na tomto kontinentě země, z nichž musejí lidé, v zájmu lidské bezpečnosti utíkat; jsou jiné, které uprchlíkům poskytují právo asylu.
- Problém exilu je význačný ukazatel a symptom Sotva se může nadát kdokoliv respektu k vlastní bezpečnosti od země, která takovýto respekt není s to zachovat vůči vlastním občanům.
- r, s úkolem, aby připravilo program pro konferenci o bezpečnosti a spolupráci v Evropě.
- listopadu 1972 s úkolem, aby připravila program pro Evropskou konferenci pro bezpečnost a spolupráci, prosíme Vás, abyste venoval svou vysokou pozornost skutečnostem a návrhu, které si Vám dovolujeme tlumočit jménem Československa, kde svobodný projev veřejného mínění je potlačen.
- světové války bezpečnost SSSR nikdo neohrožuje.
- Proto apelujeme na svobodné vlády, které se účastní Evropské konference pro bezpečnost a spolupráci, aby na ni ncpodepsaly nijaké úmluvy, které by budily dojem, že s jejich souhlasem se zpececuje současné podmanění Československa a jiných národů ve střední a východní Evropě.
- Z Československa jsme dostali výzvy, abychom k připravované konferenci o evropské bezpečnosti a spoluprácí, která se bude konat někdy v létě příštího roku (v Helsinkách se koná přípravné rokování) co nejhlučnějí alarmovali veřejné mínění a také vládce svobodného světa a připomenuli jim.
- Třeli konferencí ijsou ovšem předběžné roz- lovory v Helsinkách o svolání Konference o wropské bezpečnosti <a spolupráci.
- Pachman dále řekl, Že v Československu ho po propuštění na svobodu někdy sledovalo až deset příslušníků bezpečnosti.
- Důležitější je přiměřený respekt k faktu exilu co by symptom* určitého stavu, který patři k měřidlům bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4846468308ccefed7dbc7fede7503e7f242214839389f95c7890ce6a7b3d0d90
+size 1939

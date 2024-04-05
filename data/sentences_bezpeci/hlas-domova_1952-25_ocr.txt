@@ -1,1 +1,3 @@
-vzkaz mít potvrzený československý exilový organisace formulovaný uvést bezpečí politický persekuce
+version https://git-lfs.github.com/spec/v1
+oid sha256:a72602f46047f70c3445a91d4c53ab6e7318d7938b3d2539438be79e60524773
+size 110

@@ -1,3 +1,3 @@
- Po sametové revoluci v roce 1989 byl Jan Skopeček neprávem osočen ze spolupráce s komunistickou Státní bezpečností, své jméno nakonec očistil.
- Chovanec: Evropa musí migrační krizi řešit demokraticky Evropa musí migrační krizi řešit demokraticky, humánně, zákonně a v zájmu bezpečnosti jednotlivých států.
- Publikaci doplňuje množství unikátních fotografií, poznámek a doprovodných studií dalších spolupracovníků, jež se zaměřují například na aktivity Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1767eebcb14a8255e15807d360a08f97449b8c5321a1a3f09177028acc983d9f
+size 526

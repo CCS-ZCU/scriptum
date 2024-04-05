@@ -1,1 +1,3 @@
-Titův bok bojovat Bakarič partyzán nacista Tit odvrátit Jugoslávie nebezpečí závislost Moskva spoluzakladatel hnutí zúčastněný
+version https://git-lfs.github.com/spec/v1
+oid sha256:569435ef61b6f99b7d51fb72178bec30521ee034af8801aeb585c46964459da2
+size 140

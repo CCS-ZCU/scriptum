@@ -1,2 +1,3 @@
-Československo zkratce
-Erace provádět poštovní doručovatel listonoš běžný služební výkon inkaso nájemné obecní ^dávka členský podnik pěvek ^roznáška potravinový litr zjištový stav zemědělský práce zvát schůze prodávat vstupenka divadlo kontrolovat stav plynoměr elektroměr horský oblast provádět doprava mléko chléb film státníkrozpoče rozpočtový debata parlament ohlášený číslo ího rozpočet rok národní podnikání správa příjem metr iliarda vydání kulturní sociální opatření příjem metr iliarda vydání národní bezpečnost příjem vydání státní administrativa příjem milium vydání státní dluh úhrn příjem
+version https://git-lfs.github.com/spec/v1
+oid sha256:aab30861e2d77453b6cfb733764c53fa6ecdb57b9a032fa0a9f1d870bf8f7453
+size 689

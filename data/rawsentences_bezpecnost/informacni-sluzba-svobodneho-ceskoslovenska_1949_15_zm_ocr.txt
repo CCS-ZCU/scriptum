@@ -1,1 +1,3 @@
- Patrně vůbec ne- existuje úspěšný způsob, jímž by se mohl malý stát řídit před tváří velké- ho usurpátora, jestliže za sebou nemá pozadí kolektivní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64fbdacc519b5acec9ef16301c2ffcdda8a7091ea546583d207bbb4ffdffe1b
+size 186

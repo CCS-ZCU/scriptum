@@ -1,1 +1,3 @@
- V tomto pohledu »svůj život zachránit « (Mt 16,25) znamená opustit Ježíšovu skupinu, která platí za revolucionář- skou a nebezpečnou a stáhnout se do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9ee89b084872f67f8adac42ba228985b46a600a03513f80c57634150d63cff
+size 175

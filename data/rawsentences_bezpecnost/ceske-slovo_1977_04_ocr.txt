@@ -1,12 +1,3 @@
- Postaral se, a dosud se o to horlivě stará sám režim, lim, že sahá na bezpečnost a existence těch, kteří měli odvahu Chartu 77 podepsat.
- Ostatně nebylo účelem helsinské dohody zajistit plnění určitých humánních věcí, jako je spojování rozdělených rodin, výměna osob i informací, právě v zájmu bezpečnosti? Vždyť čím větší je mezinárodní spolupráce, tím menší je hrozba války.
- Američané samozřejmě nemají tolik moci, aby mohli těmto jednotlivcům zajistit osobní bezpečnost.
- 50ti letý Josef Zikán nevydržel tlak, který na něho vykonávala v posledních měsících jeho života státní bezpečnost a spáchal ve svém domku v Praze Radlicích sebevraždu.
- Státní bezpečnost po něm žádala spolupráci.
- Za tuto i jinou činnost se Zikánovi odvděčila Státní bezpečnost.
- Poprvé státní bezpečnost zadržela reportéra v bytě Jiřího Hájka a podruhé, když odjížděl vlakem zpět do Dánska.
- Bezpečnost obvinila Michaelsona z násilného vniknutí do Hájkova bytu a žádala od něho v tomto smyslu přiznání.
- března sc konalo dvoudenní zasedání americké komise pro bezpečnost a spolupráci v Evropě.
- Americké sdělovací prostředky věnovaly výslechům Jana Beneše a Anny Faltusové v americké komisi pro bezpečnost a spolupráci v Evropě, značnou pozornost.
- Okolnosti to dovolují, protože byl profesor Patočka po svém setkání s holandským ministrem zahraničí vyslýchán státní bezpečností, až utrpěl záchvat slabosti.
- pojistné doby ani po nabytí německého občanství (a ti starší jen výjimečně), pochopit, že osobni a majetková bezpečnost se nedá získat dodatečně, když je již pozdě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aab42951a872053e9ccb1de55018f6d11c5b33daaa88fbbfebdbc8486b94c30
+size 1731

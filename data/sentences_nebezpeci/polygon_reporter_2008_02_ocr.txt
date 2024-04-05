@@ -1,2 +1,3 @@
-nebezpečí zneužití varovat
-lupič jediný nebezpečí Afrika moci dostat zahrada
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1fbebe17ac800b9fc5510d13705e64c6f6939b59738128e810d5ce81c0421cc
+size 85

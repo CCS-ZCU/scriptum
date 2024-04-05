@@ -1,1 +1,3 @@
-i tku naléhavý umělecký Účin své knihy o Na závěr jen poznámka; Klima zaplňuje Pavlův part neuvěřitelnou spoustou stereotypně kladených otázeko /Co je smrt? Co je život? Co je naděje? Co je pocit bezpečí? Co je zvyk? Atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3da5dcdba0fb6dc35cc1ffe7c9a97c67f6ea600e5fef31f96bcc5169055753e9
+size 41

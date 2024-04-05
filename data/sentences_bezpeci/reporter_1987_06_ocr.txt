@@ -1,1 +1,3 @@
-pozdější generace vzdálený bezpečí dívat období úcta pýcha
+version https://git-lfs.github.com/spec/v1
+oid sha256:b438f08e8dbe6e2a37e3b662120d42ad1d05887c52a031db3ed7a78d1dfde307
+size 70

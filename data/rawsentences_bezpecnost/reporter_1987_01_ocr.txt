@@ -1,9 +1,3 @@
- věcí Bohumil Chňoupek, který vznesl protest ve Vídni, kde se setkal se svým holandským kolegou při příležitosti konference pro bezpečnost a spolupráci v Evropě.
- Lidé z oddělení pro národní bezpečnost v Bílém domě pořádně nalétli.
- Jen zbytek slušnosti těm na Západě už víc než čtyřicet let brání v tom, říci naplno, že si svou pochybnou bezpečnost vykoupili i naší svobodou.
- Matka byla "cosi velkého” na Bezpečnosti a otec vysoký úředník ministerstva.
- Až jí kdosi na Bezpečnosti sdělil, že se její dcera pohybuje v podezřelé společnosti nepřátel socialismu.
- a to se muselo stát právě jí, ’’velké soudružce” Státní bezpečnosti.
- Vše se děje pro dobrý pocit a bezpečnost zákazníka.
- Bylo to takhle počátkem léta, když si Bezpečnost pozvala jednoho hocha k výslechu v Praze.
- Pánové z Bezpečnosti však to ráno byli k němu milí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:359fc8d2decdb1847143858097c62ae60c2fc9403b3e57e8191c29829a652f9e
+size 927

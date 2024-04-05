@@ -1,1 +1,3 @@
- Tentokrát byl ze spolupráce s bývalou Státní bezpečností nařčen ministr životního prostředí Bedřich Moldan — zástupce Občanského fóra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f76be67fbfb4ea8a382229cb7a7fcdb4493d761a01d45a325a75078955ad22cc
+size 156

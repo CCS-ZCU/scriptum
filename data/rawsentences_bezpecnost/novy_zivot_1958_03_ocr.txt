@@ -1,1 +1,3 @@
- Tito úředníci, každý ve své oblasti, pečovali také o bezpečnost knížete, neboť nebylo nějakého bezpečnostního úřadu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b972aa57a4e79db892d56e8a3a25bbb4ecdfead8e5499fde28f9e44a0211316b
+size 136

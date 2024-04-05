@@ -1,1 +1,3 @@
- Prosazoval linii zahraniční politiky, opírající bezpečnost československého státu o těsnou spolupráci se západoevropskými demokraciemi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f469a1e3f322cfb20a15aac51f8dccf1c915955963064ed19420976b4dd8a6d0
+size 150

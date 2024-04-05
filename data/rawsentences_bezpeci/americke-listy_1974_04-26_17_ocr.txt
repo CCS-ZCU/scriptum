@@ -1,1 +1,3 @@
- způsobuje zvýšené ne bezpečí požárů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d163afb08809ca65fa62766efcdc6351cb32249235513d4c7d044f12c23c062a
+size 47

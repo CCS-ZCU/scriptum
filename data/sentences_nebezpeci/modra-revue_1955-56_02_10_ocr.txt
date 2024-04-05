@@ -1,3 +1,3 @@
-litr podnik komunistický nebezpečí malý velký Truman pravda metoda infiltrace jší přímý hrozba tok
-hrozba vidět moci přehlížet velký zaslepenec zej vný nebezpečí seskupit ohrožený
-nebezpečí zastřený moci přehlédnutý
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14fe1274f0b6837acdc8bd6f35bda9c7922987806474a76a6dd3546c18a7dec
+size 244

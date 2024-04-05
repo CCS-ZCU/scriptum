@@ -1,3 +1,3 @@
-dát bezpečí avbýt
-Lena vrátit bezpečí odchod setkat postrádat
-jméno mrtvý Drvhi světový válka obětovat svoboda mít právo poslat voják hranice cítit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:89adc43f53f7888d7da78f321e25be0eb4228aefb8e2dc0413c2280f455b1b54
+size 176

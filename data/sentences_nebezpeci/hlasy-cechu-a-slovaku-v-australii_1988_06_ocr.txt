@@ -1,2 +1,3 @@
-Temelín ležet mladý zlom velký míra nebezpečí zemětřesení
-Československo zajatec zaostalý východní velmoc vysilovaný marný zápas vážný nebezpečí propadnout přát jiný umřít zmizet nechat obětovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:da344cc56151a330d8e77b8aa4a28541aca43fb21b066ef02cb9ff06a8bcd5c6
+size 223

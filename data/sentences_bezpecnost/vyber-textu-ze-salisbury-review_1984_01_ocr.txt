@@ -1,2 +1,3 @@
-xistovat názor jít rozsah výdaj obrana zřehý tliv číslo impérium držet silo hodina speciální podnik jiš bezpečnost země moře udržovat obchodní speciální ojen celý svět
-podnik litr idea právo národ impérium sebaurčení přič ponechaný strana otázna mít liva svoboda bezpečnost nový stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b6a2f89e417bfecd65b1fbc2fda915df6d6c50dbf8484cc92708493d5d12c21
+size 318

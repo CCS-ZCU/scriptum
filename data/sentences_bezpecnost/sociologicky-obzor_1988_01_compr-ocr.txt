@@ -1,2 +1,3 @@
-mít zajistit NKVD státní bezpečnost
-státní bezpečnost policie privilegovaný placený lidé stranický státní aparát tvorba strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6df22976b5fc90882c915e415eedd020b4d53d533f6c36fd8e66d6113d8996
+size 141

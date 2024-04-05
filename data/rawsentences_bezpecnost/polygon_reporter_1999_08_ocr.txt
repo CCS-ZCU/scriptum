@@ -1,7 +1,3 @@
- Soudruh generální tajemník v říjnu oznámil, že má 19 tisíc členů, z nichž mnozí jsou na ministerstvech a „dalších významných postech v bezpečnosti, armádě a spravedlnosti.
- POLYGON 8/1999 JIŘÍ LOEWY Oprava textu 63  Kniha Joachima Walthera „Operační oblast literatura“ je smutnou historií sledování východoněmeckých spisovatelů Státní bezpečností NDR.
- Odtud otázka: jak jste získal podklady? I V roce 1992 schválil Spolkový sněm zákon o správě akt bývalé východoněmecké Státní bezpečnosti STASI, a tato akta svěřil instituci, které se dnes podle jejího prvního ředitele říká v Německu Gauckův úřad.
- Lidské tragédie se zde mísí s komikou: jak se například řada fízlů špiclovala navzájem, jak někteří sympatičtí šiba- lové využívali paranoidní zaslepenosti STASI nejen k tomu, aby se dostali do Spolkové republiky, ale dokonce, jak se na účet Státní bezpečnosti obohatili.
- Wet zk y České aspekty východoněmecké STASI POLYGON 8/1999  ! V mé knize je i příběh spisovatele nasazeného STASI ve spolupráci s KGB a československou Státní bezpečností v Praze roku 1968 i později.
- listopadu 1989 nebyla v Praze ani většina disidentů ani většina rozhodujících starokomunistů, ale byl tam inteligentní šéf Státní bezpečnosti Lorenc a dva vysocí představitelé KGB z Moskvy.
- Die resoluce Rady bezpečnosti OSN, která dodatečně legalizovala americkou agresi vůči Srbsku, UCK měl odevzdat zbrane a přeměnit se na civilní „Kosovo Corps“, jehož úlohou má být zajištění bezpečnosti civilních osob pod dozorem MINUK (mise OSN Bernarda Kouchnera).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fb43e052c707771c9251d4b021c1f03c32368e2c75ec07f49a26472e3d3b4a9
+size 1686

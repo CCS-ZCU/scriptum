@@ -1,1 +1,3 @@
- Sotva by existovala bezpečnost stran Života a vlastnictví, a boj všech proti všem, který je stálým lidským pudem, by jistě vypadal ještě strašněji než vypadá dnes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60049d95ac37b384360f18a2762c64c62da21c10ca1be69fb91c5345c8f53741
+size 181

@@ -1,4 +1,3 @@
- To má podle úředního sdělení shromažďovat informace k různým účelům, hlavně k o- chraně národní bezpečnosti.
- Podle nového ustanovení kongresu však ministerstvo zahraničí bude smět odmítnout vstupní visum členům komunistické strany, nebo komukoli jinému, jen když plně a veřejně vysvětlí a doloží kongresu, že žadatel ohrožuje národní bezpečnost.
- Nová ustanovení zpřísni podmínky, za nichž lze odposlouchávat telefonáty amerických občanů, výslovně zakáží CIA sledování amerických občanů na domácí půdě a zakáží FBI vyšetřování politických skupin a organisa- cí s údajným ohledem na národní bezpečnost.
- Podle návrhu, předloženého senátorem Kennedym, FBI i CIA budou muset k jakémukoli odposlouchávání a otvírání pošty obdržet soudcovský, mandát na základě důvodného podezření, jde-li o činnost, ohrožující národní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d7be7da0c7b90ba8069a98222cd6ee8655c5f5c049d1fbe4dc1b335a686d1b
+size 940

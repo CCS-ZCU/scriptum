@@ -1,8 +1,3 @@
- Do Prahy přiletěl prezident Bush obhájit záměr výstavby radarové základny nejen z hlediska bezpečnosti USA, ale i ČR a spojenců.
- Dvacetihodinová Bushova návštěva Prahy byla sérií jednání s českým prezidentem a premiérem, setkáním s českými politiky a předsedou největší opoziční strany Paroub- kem a vyvrcholila Bushovým projevem na mezinárodni konferenci Demokracie a bezpečnost, kde kritizoval Rusko.
- Státní bezpečnost nic nevyhodila, neopominula, ale vyšetřovala, pasti nastražovala.
- dubna 1968) jsem vysvědil, že „Dnes, kdy se hovoří o demokratizaci našeho života i našeho myšlení, o zajištění právní jistoty, měl by si každý z nás uvědomit, že vedle zajištění osobní bezpečnosti, svobody projevu i zajištění nedotknutelnosti cti patří k právní jistotě.
- Současně s tím vycházejí najevo metody používané Státní bezpečností.
- Dokonce i policie, především ta dopravní, měla důvěru, ovšem kromě Státní bezpečnosti.
- A protože damnatio memoriae, ono zatracování paměti, je velice rozšířený fenomén, považuji za nutné zaznamenat zvláštní okolnosti mého snoubení na celnici v Rozvadově, kterou od roku 1613, 78 / nový POLYGON 4/2007  nička vystoupila z auta a čekala ve vojenské boudě, že tolik lidí na hranici nemá co dělat Na československé celnici nás již čekal můj vytoužený Irus se svými pány, kteří z bavorské strany nemuseli překonávat pohraniční pásma, protože kapitalistický stát se trestuhodně nestaral o bezpečnost svých občanů.
- V pražském muzeu Pohraniční stráže byl vystavován vycpaný vlčák, který se prý zvláště zasloužil o bezpečnost státu pokousáním stovky narušitelů nedotknutelných hranic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c5a9dba634da4232f8750c0de253462fec1aa07a523bfad425e70a2300ee28f
+size 1786

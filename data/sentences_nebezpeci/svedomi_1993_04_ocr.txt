@@ -1,2 +1,3 @@
-současný doba dostat nahlédnutí připiš jmenovaný jistý osoba Ostrava obžalovaný uvádět napravitelný darebák připiš adresovaný obecní úřad Pržeň považovat hanobíoí dopis mít lumpa nerv zhuntovaný starý kšand navádět organizace politioký vězeň oelý ostravský kraj podniknout protestní akce údajný čin vypadat nebezpečí uvalení soudní vazba
-nebezpečí hrozit druhý strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b0f40c673e0479bd6b2487fe28723b4dfe33b8d632d8c4e42f0ed604b4994cd
+size 415

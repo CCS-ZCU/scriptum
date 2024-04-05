@@ -1,2 +1,3 @@
-Mexiko ústava vylučovat znovuzvolení hlava stát mít plus minus hrozit malý nebezpečí zabydlený korupce náchylný struktura cena ztráta zkušenost schopný předák
-Stalin Sovět vidět Masaryk potenciální nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e90cb79700711686aca33b08a671be59798f8e6734b4f4e4bee5f3199892e2f
+size 230

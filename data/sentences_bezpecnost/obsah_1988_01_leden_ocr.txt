@@ -1,4 +1,3 @@
-nemocnice bezpečnost nutit vystoupit auto
-klást otázka jednat neohrož svo11 bezpečnost věc ^SU podstata _jít
-bezpečnost technoknatick prod
-cepce garantovat absolutní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:7baa4e2aafb3918722c8b720250e1a979f2889ffce3953725f7e42a7abd79087
+size 187

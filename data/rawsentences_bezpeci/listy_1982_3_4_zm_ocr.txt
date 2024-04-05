@@ -1,4 +1,3 @@
- Dovolte však, abych řekl, že v naší době takový výkon, sám o sobě vysoký statek, má ještě druhý význam, který v domnělém bezpečí liberálních civilizací přichází trochu zkrátka, ačkoli patří k povaze uměni.
- Nedovedu se ještě zastavit a bezpečně sestoupit s kola, ale nějaká ta- jemná a neviditelná síla mě už zastavuje sama, a ačkoli už nejdu, dtžím rovnováhu a jsem v bezpečí.
- Jeho kniha je současně knihou lítosti nad neochotou evropské kultury radikálně reflektovat hrozící ne- bezpečí, neochoty pochopit nutnost obhajoby inte- grity evropské kultury, zahrnující i nenahraditelné hodnoty kultury středoevropské, to jest i kultury če- ské, stejně jako rakouské nebo polské.
- Nedej se zahnat do bezpečí stáda, do jistot iluzí, do ochrany «realistů».
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d0a0b031bb7a949a5c7df5efd9075a605080500c160ee8dad73c4e0ed559ab1
+size 660

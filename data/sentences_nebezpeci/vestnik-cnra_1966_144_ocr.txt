@@ -1,7 +1,3 @@
-Vrázová závěr zpráva prohlásit situace jasný přestat odkrývat komunistický nebezpečí
-podporovat vláda hájit bezpečnost spojený stát americký nebezpečí vnější útok vnitřní rozklad podporovat vláda snažit zdokonalení svoboda skutečný rovnost sociální spravedlnost spojený stát
-kritizovat svoii vláda úsilí ochabnout přeptat vidět chápat velikost nebezpečí světový komunistický hnutí znát chápat
-podporovat hnutí udržovat upevňovat jednota národní větev zmenšovat nebezpečí pronikání komunistický nákaza krajanský řada
-boj komunismus úsilí obnovení svoboda Československo moci povšimnout nebezpečí moci ohrozit svoboda vzrůstající vliv moc Německo
-důležitý změna americký veřejnost velký míra slepý chtít vidět velikost komunistický nebezpečí ochotný odporovat zlo tenkrát zlo rozpoznaný
-bývalý filmový pracovník dokumentární film Barrandův považovat povinnost upozornit nebezpečí pronikání komunistický propaganda pole filmový svobodný svět mluvit zfalšování zkreslení pohled krajan spojený stát představený propagandistický film divák vlast
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e47bd99d823b5d011b54716c91c4158c34a13a75ccaf75449122f50459562b
+size 1158

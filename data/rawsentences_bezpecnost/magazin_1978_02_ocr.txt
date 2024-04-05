@@ -1,6 +1,3 @@
- bezpečnosti měla a má.
- Přes lepší či horší technické prostředky státní bezpečnost vždy - ve zdrcující většině - budovala odposlechy proto, aby se něco dozvěděla a ne, aby strašila.
- Státní bezpečnost si nejdříve ověřila, zda mezi přáteli "rozpracované" osoby není někdo ve vztahu ke kterékoliv složce policie.
- Často to také dělala pod různými zdůvodněními veřejná bezpečnost: nutnost zapůjčení bytu na určité hodiny přes den pro "sledování vykrádáte automobilů v ulici" nebo "vytypovaného zloděje, který se prý chystá na jejich dům" atd.
- Takové vyjmutí mikrofonu může být státní bezpečností předvídáno u člověka, který takové akce zná, a proto jsou někdy instalovány klamné odposlechy.
- Nedívejte se na státní bezpečnost jako na organizaci plnou nevzdělaných pitomců.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf3fd529c9675fb6969e9c00cb81b23a3afbf7ae5314696554e7f885f7016c7a
+size 865

@@ -1,2 +1,3 @@
-chvíle Hitler obsadit Porúří Rakousko vést Sokol Paříž pronikavý propaganda upoutat pozornost nebezpečí nacismus Československo Franica Evropa
-nebezpečí hrozit bezejmenný stíhaný ČSSR
+version https://git-lfs.github.com/spec/v1
+oid sha256:d88cbe4033e55d1cec0f6dc5b3ce14d3838593ba15db3c02f7691bf3e2e5dc9a
+size 202

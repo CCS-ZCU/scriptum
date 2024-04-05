@@ -1,4 +1,3 @@
-exulant poutník míjející odpoutaný dávat klid jistota bezpečí domov vržený svět konflikt převaha nový podmínka
-rodinný přátelský svazek zpřetrhaný sladký bezpečí domov ztracený teplý kouzlo mateřský jazyk umlčený samotářský myšlenka živý rostlina vykořeněný nebezpečí zahynutí
-Svoboda volnost právo soukromí znát enat osamocení isolovanost bezpečí
-autorita bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8c40b19918665d01fd836b1de20e7589b0fba195948fbe05b2bfe5164507a5b
+size 414

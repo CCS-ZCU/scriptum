@@ -1,5 +1,3 @@
-bezpečnost různý město domovní prohlídka oznámit francouzský tiskový kancelář zadržet příslušník františkánský řád
-vláda obviňovat Vatikán řada kněz organizovat pátý kolona cíl narušit bezpečnost dotknutelnost stát
-bezpečnost dostat zvláštní odposlouchávací technika instruovaný sovětský odborník
-bezpečnost předložit zápis rozhovor mít park čtyři oko apoštolský administrátor trnavský diecéze biskup Gabriš
-zdrženlivost
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e123850110311fd62a4a666f96c2495d3cec42f8b8b0011050c512c45a70282
+size 472

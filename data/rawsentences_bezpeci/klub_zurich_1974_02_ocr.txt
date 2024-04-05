@@ -1,1 +1,3 @@
- Zde hledali bezpečí a svobodu a to“iu' také do jisté míry násli - či lépe objevili ve svém nitru, protože není-li něco v nás, není to nikde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d19ab73e7fc56ff0c066f4a9c429ddada1f76af4306804a7256bcf0c63d458
+size 158

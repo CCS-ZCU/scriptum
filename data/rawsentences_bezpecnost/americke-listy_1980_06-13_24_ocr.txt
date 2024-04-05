@@ -1,2 +1,3 @@
- Vláda Spojených států ul del- da Spojených států už delší čas na japonskou vládu naléhá, aby uvolnila ze státního rozpočtu k zajištění bezpečnosti země podstatně vyšší částku, která by přesáhla víc než jedno procento z hrubého národního důchodu.
- Liberálně demokratická strana, která už léta vládne argumentuje, že Japonsko není na případnou a- gresi dostatečně připraveno, že není dost vyzbrojené a že v zájmu své bezpečnosti musí přinést po- VELKÉ ZTRÁTY SOVĚTŮ United Press International sdělil, odvolávajíc se na zprávy z kruhu afghánských povstalců, že -150 sovětských vojáků bylo zabito při útoku v strategicky důležité oblasti, na východě Afghánistánu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:413cf8a59257c420fda4de3b598a8c5cd1a29b71e6a9ca0bbc64f002f5f374bb
+size 747

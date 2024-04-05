@@ -1,20 +1,3 @@
-ležet dát západní Čechy malý železniční trať rychlíkový linie vzdálený bláznivý shon svět nebezpečí vzrůst důležitý punkt mapa
-podařit ulovit Amerikán celý rodina pomožený nebezpečí shroucení zažehnaný
-hrozit nebezpečí ptát Klárka urovnávajíc šat skrývajíc zmatený pohled
-nebezpečí
-stát otázka chtít
-nebezpečí svět moci roztrhnout oddělit odhodlaný sdílet osud podivný postavení lidský společnost
-vyhýbat nebezpečí prodávat zapovězený ovoce
-předmět předmět pátrat hrozit nebezpečí nabízet kořist
-moci octnout
-nález štěstí usmát druhý strana zpozorovat nález znamenat nebezpečí možný pobyt rok káznice zahlédnout policista detektiv blížit hromada kámen sedět rukavice hodit okamžik zbavit démant usvědčující důkaz loupež súčastnit džab vinný novorozený dítě
-náhoda život lidský hrát důležitý úloha zaplést dobrodružství zločinec hrozit nebezpečí život
-mít podezření démant mít ukrytý jistý strana hrozit nebezpečí případ život octnout sázka
-útěk chvíle pomyšlení
-první člen Maffie tajný spolek pracující spěch dohoda Rakousko celý doba válka neustálý nebezpečí smrt
-myslit jít jádro zlý rád uniknout nepříjemnost nebezpečí horší
-břeh pomýšlet možný nebezpečí čelit syn bratr milenec svěřenec služebník Strýc
-mládež obojí pohlaví mít klub spolek studentský domov scházet bavit nebezpečí
-láska dítě muž podstupovat všemožný nebezpečí plna soucit ochota pomoc
-pan Pra jro starý otec Arthur Prajer hrát housle tlouci smyčec nástroj volat obecenstvo hrozit nebezpečí lidé bát
-radost dopadnout pohostit pivo ujišťovat nebezpečí ručit pořádek
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb787ffe685e61179956d8ea2382e2d02d25b7b2ba81f4d78a528441eae935d4
+size 1741

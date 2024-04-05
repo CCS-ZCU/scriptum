@@ -1,1 +1,3 @@
-Pokud zde budeme žít,budeme v bezpečí»nemusíme se ávat,že v kancelářích a v bytech na nás čeká Stalinovo Gestapo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c27383869ad12c2aa9000feba5c63df095d7628b10f56cd046d5242b46017d6
+size 128

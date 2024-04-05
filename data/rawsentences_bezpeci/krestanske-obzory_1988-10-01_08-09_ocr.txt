@@ -1,1 +1,3 @@
- Ne nadarmo se však říká: "Žádná odpověá, také odpověá ! ! !" Tedy P O M O Z T E V P Á T R Á N Í ! Ale ne po manželích Ka- rlu'a Jindřišce Kořínkových, protože tito bezúhonní občané jsou toho ča- su asi v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d75c68c868dd495a261cf75df8663641c8204bc4549f5611a48d8b27eb5cbee6
+size 127

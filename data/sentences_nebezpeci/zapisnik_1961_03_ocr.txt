@@ -1,1 +1,3 @@
-nebezpečí hrozit přivést lidstvo rozum odstranit válka zdát neodvratný střídání roční období
+version https://git-lfs.github.com/spec/v1
+oid sha256:9765c8dfec19504b94b5adc5b546fb6bb829e69bf5df68d3bf56597797241b92
+size 107

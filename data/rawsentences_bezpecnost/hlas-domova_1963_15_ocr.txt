@@ -1,1 +1,3 @@
- Naděje, které vzbuzovaly, konkrétně podloženy nebyly a způsobovaly nebezpečný pocit falešné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f01bc857309811dcf7f7e61ca38dfe9e7b7db6d14220e1e327cde661cbd1cb
+size 117

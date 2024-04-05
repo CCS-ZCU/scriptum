@@ -1,3 +1,3 @@
-Austrálie moci dovolit vidět podstata komunistický nebezpečí Evropa oddělovat zeměkoule
-bránit Rus navnaděný tučný soustěm vtáhnout jiný země
-znít omšelý fráze místo hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d61a3bb5035d2f00749af901235c16063dc037d035275e54a8af446afde3eac
+size 206

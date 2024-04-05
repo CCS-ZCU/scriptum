@@ -1,2 +1,3 @@
-informace citovat odstavec poraženectví politik odstavený národní fronta udávat tón xil odkazovat druhý sledovat drobný osobní cíl negativismus emigrant naočkovaný odpor politický činnost unášený sladký svoboda přístřeší cestování psaní potucha nový plížící politický nebezpečí rozhovor nápis postrádat vtipnost upevněný dveře vstupovat kancelář vedoucí kantonální daňový oddělení
-uprchlík hrozit nebezpečí odjet vyrovnání daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:2550161cf2e71d3150e09092a94217d679b4c675b35d305f0250ff7e646ea7fd
+size 483

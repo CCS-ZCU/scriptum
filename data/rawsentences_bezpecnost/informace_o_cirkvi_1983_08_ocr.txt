@@ -1,1 +1,3 @@
- cirkvi na Slovensku, alebo ste de facto len ustanovízňou, podliehajúoou ÚV ¡053, lep- šie povedanó Státnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c9c36274ad85a00c7344c1ca2c5c3d06504750f1986ad6cf8b3716d2f443039
+size 130

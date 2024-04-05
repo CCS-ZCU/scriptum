@@ -1,1 +1,3 @@
- co, co maaarská zahraniční politika i pres riziko možné vál- ky aktivně podporuje« Modely předsudků jsou citlivé právě na nedostatky i krajnosti tam, kde trhlina mezi očekáváním spo- lečnosti a možnostmi vlády je překlenuta etnocentricky, pro- tože smysl společnosti pro realitu byl narušen» Stane-li se cikán terčem vášní přecházejících od frust- race k agresivitě, pak ti, kdo mají sklon k předsudkům, mo- hou přehánět - konec konců to, co bychom měli vědět o ciká- nech, není dostupné /statistiky nebo informace o kriminali- tě se opírají o fantazii/« Přehnaná fantazie nahrazuje chy- bějící skutečnosti tam, kde tuší mezery« Počet Maáarů se jí zdá malý, proto přehání počet cikánů« Považuje bezpečnost za nedostatečnou, proto nadsadí projevy kriminality /nože, krev zohavení«.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be785b75b6fd050d4e78dcbf412768fa79e1921101c3dfed9c5d9624e3292651
+size 863

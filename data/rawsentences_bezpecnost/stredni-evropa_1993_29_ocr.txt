@@ -1,12 +1,3 @@
- Jsou tu jiné síly, společně a někdy i jednotlivě neméně důležité, jako například zeměpisná poloha, bezpečnost, hospodářství, náboženství, tradice a dějiny.
- v takové, která se pohybuje pouze v ekonomické oblasti, na niž se odvolává, se rozum a kolektivní organizace vytvářejí výlučně cestami, v nichž promítá své kalkulace homo oeconomicus, — má-li vůbec samotná politika jiný cíl než záruku plynulosti a bezpečnosti této cirkulace.
- Dochází k poklesu státní administrativy, bezpečnosti občanů, armády — čili suverenity atd.
- Vznikl uzavřený rozhodovací systém, ve kterém bezpečnost státních financí úplně závisela na dobré vůli a morálce rozhodujících složek starého režimu.
- Vyhovuje jí, když se občané baví, protože potom o ničem jiném nepřemýšlejí; nejenže ráda pracuje na jejich štěstí, ale chce být jeho jediným strůjcem a soudcem; pečuje o jejich bezpečnost, předvídá a obstarává jejich potřeby, usnadňuje jejich radosti, řídí jejich stěžejní záležitosti, spravuje jejich průmysl, rozděluje jejich dědictví: proč by je potom nemohla zcela zbavit námahy života a břemene žití? Používání svobodné vůle se jim tak stává den ode dne vzácnější a zbytečnější, až nakonec každého občana oprostí od používání sebe sama.
- Proč by koneckonců nebylo možné, aby se jednotlivé národnosti cítily v mocnářství lépe než ve spojení s ostatními příslušníky téhož národa na druhé straně hranic? Mírou bezpečnosti říše je míra svobody, kterou popřává svým občanům?4* A proč by tedy nebylo možné dosáhnout i toho, co bylo možné ve starověkém Řecku, kde se amfyktio- ny, sousední obce, byť etnicky nespřízněné, spojovaly na ochranu společného chrámu?35* Dodejme, že to ovšem možné je.
- Zvláštní zpravodaj se proto rozhodl v souladu s rezolucí I992/S-1/1 Komise pro lidská práva sestavit tuto dílčí zprávu, aby Komisi, Radu bezpečnosti, vrchní komisárku OSN pro uprchlíky a všechny zainteresované vlády a mezinárodní organizace upozornil na obzvlášť naléhavé problémy, jež z této politiky „etnické očisty“ plynou.
- S pokračováním bojů v oblasti Trávniku je ohrožena bezpečnost těchto lidí i doprava humanitární pomoci.
- S odvoláním na rezoluce Rady bezpečnosti č.
- 780 (1992) Rady bezpečnosti, které generálnímu sekretáři ukládají vytvořit odbornou komisi, jež by studovala a analyzovala informace o porušování lidských práv a válečných zločinech, doporučuje zvláštní zpravodaj rozšířit mandát Komise.
- Zvláštní zpravodaj naléhavě žádá vlády, aby svým tlakem přiměly účastníky konfliktu k respektování bezpečnosti civilního obyvatelstva.
- V Budapešti bylo nepochybně několik tuctů pochopů z řad Státní bezpečnosti ÁVO, obzvláště krutých mučitelů Gábora Pétera a Mihálye Farkase, v bezprostředním ohrožení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fdbbf2d6ed608c57faa4012f099354a175ed86998136ead50c99e2ea44248af
+size 3019

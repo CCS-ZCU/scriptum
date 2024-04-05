@@ -1,1 +1,3 @@
-Hebyl kapitál pojistka případ védomí finanžní bezpečí pookřát rozkvést ténéř Viktoria královský
+version https://git-lfs.github.com/spec/v1
+oid sha256:f94aad1433decbaccaf3ed7bb8499735d956137411fdaa2133f2d0242dece331
+size 113

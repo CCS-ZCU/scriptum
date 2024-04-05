@@ -1,2 +1,3 @@
- Pomoz mu dostat se do bezpečí a ostat na žive.
- Snad proto jsme na jejich cele cítily takový klid, bezpečí a čistotu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b457a67a8ee6cd3b5416389276fe27d6df438024923bd2428c9dbce4b78fba35
+size 127

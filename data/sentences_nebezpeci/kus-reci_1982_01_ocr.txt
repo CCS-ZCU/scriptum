@@ -1,3 +1,3 @@
-lidé užitečný dovést existovat léto krajina vlastni nebezpečí
-věřit vidět nebezpečí nový hra moci vmísit starý hňup kaštýl
-gladiátor mole uvět louha dosáhnout cena smrtelný nebezpečí svoboda život mít malý cena
+version https://git-lfs.github.com/spec/v1
+oid sha256:b70fd66fefdb4dd3803b608ba8a5b86469651e3cec1809c8f146fbd1dd26b981
+size 241

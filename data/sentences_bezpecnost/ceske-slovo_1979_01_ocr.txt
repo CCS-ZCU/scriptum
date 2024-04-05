@@ -1,5 +1,3 @@
-režim Československo rozpoutat kampaň represivní opatření překrapit mnohý signatář charta mnohý představitel strana vláda žijící naivní představa vládnout státní bezpečnost
-téma státní bezpečnost přestat tabu
-schůze svaz českobratrsko evangelický duchovenstvo mluvit léta různý společenský problém doba země obvyklý téma státní bezpečnost zůstávat bezpečný tabu
-státní bezpečnost mstit Jan Šims
-státní bezpečnost dozvědět pokusit Simsa získat tajný spolupráce
+version https://git-lfs.github.com/spec/v1
+oid sha256:57cfa7c6c1ca9c3798077c135a9329a1375d8deb64f7038a1e027d0ed0b76769
+size 518

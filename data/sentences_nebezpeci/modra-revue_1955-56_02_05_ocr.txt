@@ -1,5 +1,3 @@
-moci popřít skutečnost spojený stát dostat poslední léta pokraj válka válka třetí světový válka dojít zásluha pevnost spojený stát čelit nebezpečí nucený bojovat ustoupit další komunistický výboj
-vystavit nebezpečí jiný lidé použít metoda
-výčitka svědomí stát stát
-jvo zbabělost opakovat prorok nebezpečí vysmívaný lidé chodit dívat rána krvácející
-slabost postavení síla námitka bývat odbývaný nebezpečí vyslyšený národní osud možný rozeznat stopa souhlas svolnost spoluúčast stát výhodný moci vymlouvat Mnichov Jalt argument chybět úplnost mlčenlivost podjetí jařma halekající dav rozkoš bití žhářství tázka odsun Němec
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fb494e136ea9e57fef87ced67f533de867bb536e60adc10c354dd3f5a580603
+size 706

@@ -1,1 +1,3 @@
-pochybnost hrozit nebezpečí probíhat příprava
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5c4325b2478ef09ea2d391089727d87cae5583828964013734d783a1395d24b
+size 51

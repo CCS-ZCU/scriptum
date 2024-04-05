@@ -1,1 +1,3 @@
- "Probudivší • se -svoboda odkrývá to, co se zdálo, jako zdání, a přijetím nebezpečí nalézá bezpečí, získává pro člověka život z vlastního kořene, z vlastního zákla- du.
+version https://git-lfs.github.com/spec/v1
+oid sha256:339876c9cd842cdbf8c2bc52e11a5a5a456365484ff0c3cdea451ce3a55558f9
+size 195

@@ -1,1 +1,3 @@
- "Zvedni jí sukni!" Později, po úspěšném zdolání naší ceety ee s nesmírnou obtíží - po nespočetném množství najatých nohsledů, kteří před tebou odemykají a zamykají dveře a kontrolují tvou absurdní, bezpečností kartu zelené barvy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b9aea7b9483070800673a53b7de8e4bce6561facd1d676df0e9127ba32938e
+size 262

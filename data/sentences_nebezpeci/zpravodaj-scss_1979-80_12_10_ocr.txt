@@ -1,1 +1,3 @@
-Afrika těšit kontinent plný revoluce nebezpečí převrat novot kubánský kozák končící silnice
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58db8cae0f4e8dab97ed778ffe0ff2f34f7048a95fbf9fa8901315f0ba50ff3
+size 104

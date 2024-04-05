@@ -1,1 +1,3 @@
-přirozený trénink životní příprava dítě vnímat děsivý bezpečný aťšak ssmo dokonalý bezpečí mámina babiččin náruč
+version https://git-lfs.github.com/spec/v1
+oid sha256:4456838446848bb4f78e8ce00e599b89d500764f209f725acc97723bc4b7cc19
+size 137

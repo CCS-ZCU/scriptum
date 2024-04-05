@@ -1,3 +1,3 @@
- Vzhledem k tomu, že byl od roku 1969 stálým objektem zvýšené péče Státní bezpečnosti, kte- rá jej pronásledovala za jeho činnost, měl nemalé potíže při realizaci svého záměru.
- Při technických možnostech tehdejší bezpečnosti se stejně nedalo utajit, kdo je autor.
- Občas, když jsme jeli naschůzky, které se ko- naly různé po republice, byli jsme za- drženi bezpečností a vráceni, ale to bylo spíše díky odposlechu telefoná- tů než nějaké indiskreci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61696a6385934b2be92c420b9ed47585b6ba1f6b5fd032f03ec5891a5f47ee95
+size 498

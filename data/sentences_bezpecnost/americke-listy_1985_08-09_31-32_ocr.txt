@@ -1,2 +1,3 @@
-komunista hájit tvrzení československý bezpečnost vyškolit osvobozovací bojovník moci odchovanec zvrhnout terorista
-moci zaručit vlastni bezpečnost předání branný technologie ruka SSSR Evropa odepsat
+version https://git-lfs.github.com/spec/v1
+oid sha256:81d8ece5b03d243ac9ecd3c63552ebda7116fa7f678a53810789c99eb866abc2
+size 215

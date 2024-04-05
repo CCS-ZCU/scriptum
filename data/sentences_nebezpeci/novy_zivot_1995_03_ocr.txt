@@ -1,1 +1,3 @@
-radno zlehčovat nebezpečí bůh brát
+version https://git-lfs.github.com/spec/v1
+oid sha256:506951d823cce13043f61338d44245085893b9d5620b3a4829cf36f28849f6ca
+size 40

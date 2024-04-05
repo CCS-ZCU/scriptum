@@ -1,1 +1,3 @@
- Ve stručnosti se v těchto bodech jedná o následující: -okamžitě zastavit,,poskytnout pomoc zraněným, neopustit místo, zajistit bezpečnost; -stane-li se nehoda na železničním přejezdu, uvědomit vedle policie i správu železnic; -pokud to okolnosti nevyžadují, neměnit nic na vzniklé situaci, v krajním nutném případě změny vše zachytit na situační plánek a zakreslit na vozovku; -při menším zranění stačí poskytnout postiženému adresu; -v žádném případě se nevzdalovat z místa nehody/výjimkou je jen nutný převoz zraněného,ale pak okamžitý návrat/; -také svědkové jsou povinni setrvat na místě až do sepsání protokolu; V případě zájmu můžeme řidičům poskytnout fotokopie originálního znění potřebných článků /poštovné + 0,30 sfr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:031745f689e7e2359c26e92c1b1dc071ed648fef291bfda5dfe66d05df4d2ace
+size 814

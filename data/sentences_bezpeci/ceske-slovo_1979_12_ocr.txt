@@ -1,5 +1,3 @@
-mluva moci větro odváta řeč drahý mateřština ret ruka oko tělo milenčin klín lože sklaň nádherný bezpečí řeč mluvit řeč
-naleznout ekvivalent prvotní bezpečí
-obraz chvíle prosycený pocit bezpečí jistota
-probouzet pocit domov
-okamžik nádherný bezpečí Jiří Orten poznávat hledání ukončený obtížený samota dálka stupňovaný výška obloha
+version https://git-lfs.github.com/spec/v1
+oid sha256:e728519d88236baf1e9cd7aaeafdeacb48eff9cbe8ee19ba13ef69206fa6133b
+size 379

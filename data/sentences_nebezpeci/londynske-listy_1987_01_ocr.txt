@@ -1,2 +1,3 @@
-jít potřebí připomínat svět tečný ne|en osud nebezpečí jez hrozit útočník svoboda ostatní porobený národ svoboda těšit
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cb91caad805790c7d7864db5833d73c8a9b00ad1d65a77e13b7db787d6d12fa
+size 138

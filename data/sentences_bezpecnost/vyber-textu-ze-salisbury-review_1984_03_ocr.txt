@@ -1,1 +1,3 @@
-znamenat změna režim Nicaragui nebe Salvador bezpečnost spojený stát revoluční síla číhat přátelský ambice sovětský svaz karibský satelita
+version https://git-lfs.github.com/spec/v1
+oid sha256:a68aad062f802eaea4ef2e3d8f866f2f92b6d83347996d982389093b1ac51834
+size 155

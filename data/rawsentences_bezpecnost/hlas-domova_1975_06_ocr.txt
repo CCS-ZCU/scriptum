@@ -1,4 +1,3 @@
- března k raportu do Moskvy vyvolalo u některých západních komentátorů dohady, že při této jednodenní schůzce, konané s pompou, jakou připravuje Kreml vzácným hostům při zvlášť důležitých příležitostech, sděloval Brežněv generálnímu tajemníkovi KSČ pokyny k částečnému uvolnění sešněrovaného života v Československu, aby poukazy západních státu na různá tamní omezení nerušily závěrečná jednání o dohodu na konferencí o evropské bezpečnosti a spolupráci.
-30 hodin odpoledne očekáván; v jednom křídle hotelu, kam byl přístup kontrolován dvěma příslušníky Státní bezpečnosti.
- žiadame preto, aby ženevská konferencis 0 spolupráci a bezpečnosti v Európe nezabudla ns poučenie z Jalty.
- Trváme na tom, aby v záujme skutečného mieru a bezpečnosti v Európe znovu prijalř a oživila zásady a závazky, ktoré před tridsiatm rokmi boli na Jalte vtelené do Deklarácie o oslobo denej Európe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa39a64c75b94016d30702e046620bc3b955278caee29e79c7bfa3592b1bbd26
+size 980

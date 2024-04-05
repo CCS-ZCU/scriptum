@@ -1,1 +1,3 @@
- * » * Pocítil sme vážného záko- nodarcu, ako hovořil, že v loni případe, ak ide o bezpečnost Ameriky, doziista každý občan ochotné zaplatí vyšší e Jane aj inúč přispěje na spi- nenič programu vlády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d98c3b9a4718b01af1d18aa42b55e4e768da32ec48d41ac4b055b823ba96eb3
+size 225

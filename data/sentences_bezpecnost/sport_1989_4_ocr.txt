@@ -1,2 +1,3 @@
-rok hranice jemný upozorňující dobytý zámek zrůdný nechámoví systém vládnout ruka společný bezpečnost araáda stranický aparát
-bezpečnost zaměstnání přeptávat Pavlův manželka
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5226201148fec33b1d8e105b5164c4ca87de4cbbea6cf47d099bcd0cd271d51
+size 200

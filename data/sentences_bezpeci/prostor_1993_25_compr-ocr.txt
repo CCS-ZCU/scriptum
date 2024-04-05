@@ -1,2 +1,3 @@
-hodnota vytvářet hlubina bezpečí stálost pevnost spolehlivost důvěra říkat domov
-pokoj vlámat sousedka volat paní vstávat volat pán moci vzbudit volat podruhý přát chtít jít kadeřník
+version https://git-lfs.github.com/spec/v1
+oid sha256:e242b1e1b1de05f4126238a0e0406748dca5fc0880e4b81a236c2bb4bfccbf54
+size 203

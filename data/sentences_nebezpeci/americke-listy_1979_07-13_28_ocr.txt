@@ -1,3 +1,3 @@
-kouřit smět hrozit nebezpečí výbuch
-nebezpečí jediný
-existovat potenciální nebezpečí situace pojout bovat bludný kruh ženevský kmttnika ubezpečovat organizace OPEC ležet srdce stabilizace trh
+version https://git-lfs.github.com/spec/v1
+oid sha256:b25e20f6cce4d9fe34ad8558b4f33c2275d9e729634a9114398ac1e76a51374d
+size 209

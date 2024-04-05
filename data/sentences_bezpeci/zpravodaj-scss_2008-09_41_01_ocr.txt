@@ -1,1 +1,3 @@
-směr vázaný švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb452358fc7187e0f59d738c50c0e8e501d355241d75f0784a7b67ca85ab8b6
+size 112

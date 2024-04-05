@@ -1,2 +1,3 @@
- Domov zmámená bezpečí, prosperitu, jistotu a vřelost vztahů, tedy pocity, které se z naší společnosti stále více vytrácejí.
- Pocit bezpečí ochromují rakety, které se proti vůli většiny obyvatel objevují na našem území.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ff490c7e3bc980fb3605f88ddef99cff8b6206448056dd92fc75508388ccfb0
+size 245

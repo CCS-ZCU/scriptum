@@ -1,3 +1,3 @@
- PÍŠE AGENT MINAŘÍK Bývalý agent Státní bezpečnosti ve Svobodné Evropě Pavel Minařík je v posledních letech šéfredaktorem časopisu ministerstva vnitra Signál.
- Státní bezpečnost v Praze ví, že takové zprávy nepřispívají k dobré pověsti asylantů a exulantů, a proto má nejednou svá želízka v ohni.
- Potud je deník Freyi Klierové jakousi obhajobou ve vlastní věci, určenou také přátelům z rozvětveného východoněmeckého hnutí za občanská práva, kteří na odchod svých druhů reagovali zklamaně a s výčitkou, že oba disidenti podlehli příliš rychle tlaku Státní bezpečnosti a vyemigrovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4608cee5d58e7dabe6a88111b62b39950a7430a958a5e71abaa05b83846d057
+size 652

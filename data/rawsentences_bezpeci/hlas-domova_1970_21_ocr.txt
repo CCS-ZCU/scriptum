@@ -1,1 +1,3 @@
- Může proto mluvit z ' vlastní zkušenosti o oáze i zdravého rozumu a po- L’ měrného bezpečí v lůně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:821a568fbcd171de345a933013cdc0737ea849c6554b27e66453ed7bd28037fd
+size 112

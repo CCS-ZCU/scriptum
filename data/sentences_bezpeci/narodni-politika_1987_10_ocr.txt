@@ -1,1 +1,3 @@
-šestý strana národní litr říjen Čtyr šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:30a9b5eb8a622937f1ffc7aeb8ad64be6c9f9732a0d142bad0f8a9dc952a8d8e
+size 81

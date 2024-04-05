@@ -1,3 +1,3 @@
- Následující den, když se důstoj- níci ze setkání nevraceli, bylo již všem čekajícím jasné, že byli přes veškeré sliby vydáni sovětským bezpečnost- ním útvarům a že tentýž osud čeká ta- ké je.
- časopis velkého for- mátu Rudého práva, se strhujícím názvem Bezpečnost, přinesl v červenci 1989 sou- druhům radostný článek, pod titulkem: Spisovatel s hodností generála.
- litera- turu u redaktorů časopisu Bezpečnost po- kračuje, viz titulek: "Manifest" výprodeje socialismu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ee1df0f77db05c4e1c77a722fa906451f9f5d226ea8570e79f2f49f73b4e7af
+size 524

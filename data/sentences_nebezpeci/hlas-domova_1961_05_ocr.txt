@@ -1,2 +1,3 @@
-Castro potvrdit rozvoj obchod socia listický země úvěr umožnit Castrův vláda překonat americký embargo okamžik nebezpečí imperialistický agrese vytvořit pevný sobota lidární postoj socialistický země strana
-nebezpečí občanský válka zažehnaný okamžik
+version https://git-lfs.github.com/spec/v1
+oid sha256:34d2b56d95336860c2a73286615c6d2424e8e18e650d231239e335470e188e96
+size 271

@@ -1,1 +1,3 @@
-projekt skrývat zanedbatelný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5282dbc657c6d8e7cff2599d7024d7511f647fe40cceda6ccdb28c29a4069e33
+size 43

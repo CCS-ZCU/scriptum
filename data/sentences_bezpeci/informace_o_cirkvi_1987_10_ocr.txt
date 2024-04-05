@@ -1,1 +1,3 @@
-myšlenka zbloudit jednotlivý strof povzdechnout rozumný vajíčko Zdrávas pár minuta zdřímnout neštěstí uchylovat velký bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4935de052e84a89a94e450236732ecea121df85a4fa2626a62f94a00d2124350
+size 146

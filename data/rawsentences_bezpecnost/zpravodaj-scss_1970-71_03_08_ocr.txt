@@ -1,1 +1,3 @@
- President Ceaucescu rokoval v Paříži s presidentem Pompidou- em o otázkách evropské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89ed333722c004337c207288c8c365e74cb2e2288bfad792fc8511048aae0d5c
+size 105

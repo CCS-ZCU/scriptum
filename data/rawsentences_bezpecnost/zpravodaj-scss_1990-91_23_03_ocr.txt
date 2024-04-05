@@ -1,2 +1,3 @@
- Evropa se musí vzpamatovat dříve nebo později do své vlastní existence a sama rozhodnout, kolik a čích vojáků potřebuje k tomu, aby její vlastní bezpečnost a všechny širší vazby této její bezpečnosti vysílaly paprsky míru do celého světa.
- +++++ ZŘÍDÍ SE SPRÁVA ochrany prezidenta, která bude pečovat o jeho bezpečnost, kdežto Hradní stráž bude střežit areál pražského hradu, organizovat vojenské pocty zejména při oficiálních návštěvách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d24f3cb8f280abe508ebe5de895e686deb8bc38a65e237a0067d09725e6f43f4
+size 490

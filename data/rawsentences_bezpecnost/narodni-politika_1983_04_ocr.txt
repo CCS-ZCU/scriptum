@@ -1,4 +1,3 @@
- ’’oprávněné bezpečnostní zájmy SSSR” povyšuje nad skutečné zájmy bezpečnosti vlastního národa /a svobodného světa jako celku/ nemá šanci.
-1983 zatkla Státní bezpečnost 551etou Drahomíru Fajtlovou, ekonomku Krkonošských hotelů v Peci pod Sněžkou.
- máj, kdy se do Prahy sjede nejvíce občanů a komunisty kontrolovaná armáda, jednotky ministerstva vnitra, Státní bezpečnost a Závodní milice mají pohotovost.
- Slávou a alkoholem zpitý Klement Gottwald pod hlavněmi pušek a automatů části armády, jednotek ministerstva vnitra, Státní bezpečnosti a Závodních milic, vykřikoval to nevlídné odpoledne 25.
+version https://git-lfs.github.com/spec/v1
+oid sha256:235e33a6092d3783cbc42ea1c8dfbb084ece2f5a0054ede91a7539f6c8b4ec53
+size 657

@@ -1,1 +1,3 @@
- Obšč začíná nárokem na opuštění či zdolání něčeho lidsky pocho- pitelného, snad přirozeného a jistě omluvitelného: příjemných stránek života, pohodlí, strachu, lhostejnosti, osobní svobody, potřeby bezpečí, závislosti na někom, tvrdošíjného egoismu, možná i pudu sebezáchovy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd1c109f84981cf2fa087723db69181206e3fe4ce2f3b597f14bcd01c52bdb1
+size 312

@@ -1,1 +1,3 @@
-květen ministr zahraniční věc Charles Shultz dodat consequence činnost matka velký bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d773581969cd8723a81529ea251b36b11f64af4f90d600c47b52fc79494bca86
+size 99

@@ -1,5 +1,3 @@
-příležitost připomenout hrozící nebezpečí nový rasistický vlna Evropa vyjádřit znepokojený vzestup pravicový ofašistický hnutí Evropa
-pochyba pokus relativizovat nacistický násilí antisemitský poznámka rasistický útok obsazený nebezpečí genocida uvést prezident list adresovat shromážděný Osvětim
-druhý strana pochopitelný český orgán snažit minimalizovat nebezpečí zneužití proces navracení židovský majetek čestný obohacení
-Podbořany jediný případ podobný nebezpečí hrozit horský městečko Rokytnice dlužit uvěřitelný koruna aukční síň chystat dražba majetek obec půjčka ručit
-tlustý pradědeček obýt umýt lord Havelock děkovat uchránit strašlivý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e241b6993f2451a3c2f162363285b4b2e3c7dc5ce95048ec832f2000077630
+size 739

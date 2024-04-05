@@ -1,2 +1,3 @@
-září Vaculík povolaný státní bezpečnost Bartoloměj ský ulice
-Vaculík vyjádření tištěný uzavírat rok mít negativ záběr státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88eee819cf2a16467830c52910c5cee7a239f4d499373e15213b6db63028c3c
+size 161

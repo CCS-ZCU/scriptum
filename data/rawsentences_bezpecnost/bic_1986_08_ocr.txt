@@ -1,1 +1,3 @@
-: ©o jste udělali pro bezpečnost práce? P.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e0a06e0358f010831d942452ecc60388d927987c6437237af213e22b608d484
+size 47

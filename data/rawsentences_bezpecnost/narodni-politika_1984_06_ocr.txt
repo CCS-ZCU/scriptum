@@ -1,4 +1,3 @@
- Kde — aký mládenček si zafarbí vlasy na zeleno, či fialovo — a súdruhovia z bezpečnosti sa tvária, že sa nič nedeje, že všetko je v poriadku, že „punkeri" ich nezaujímajú.
-, se československá Bezpečnost dověděla od mnichovského advokáta, který, jak uvádí obžaloba, „usoudil, že obsah dopisů hrubě zostuzuje CSSR a její představitele a jejich případné zveřejnění v západoněmeckém tisku by přispělo ke štvavé propagandě vůči CSSR, a dopisy proto postoupil prostřednictvím československého kon- sulátu v Kolíně československým úřadům“.
- 1983 mě v dopoledních hodinách na mém pracovišti navštívili dva příslušníci Bezpečnosti.
- stupně, které rozhodovaly v příslušných pracovně-právních sporech — ti, kdo podepsali toto prohlášení, objektivně ohrozili bezpečnost našeho státu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da823527936a08321ca758105e8b3c60fed4e9c1bbe96a0f97791d383b72cde4
+size 872

@@ -1,1 +1,3 @@
- Smrt je bezohledný ničitel, který otráví každou hru a zábavu, nahlodá každé bezpečí a zničí každý orgán, kterým vdechuji radost života Se smrtí si nikdo neví rady.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c3f1c8ab31da92b936cb33ac57b8b6c38f11326cd75ee441df16d2bba83eae
+size 186

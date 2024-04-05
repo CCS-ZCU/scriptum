@@ -1,1 +1,3 @@
- Neměli bychom se spokojit s tím, že jen v zahraničí existují velké mírové iniciativy, které mají zájem na tom, aby válka v Iráku byla poslední válkou, kterou kdy kdo bez souhlasu Rady bezpečnosti OSN zahájil,” řekl Filip s tím, že domácí mírové iniciativy se tak připojují k obdobným iniciativám v zahraničí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a0f8c3a82ff2ab8a1471452f471cb18aed961558c6b7f33a8c34682a3d8d294
+size 343

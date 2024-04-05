@@ -1,1 +1,3 @@
- Ostatně je to docela přirozený trénink a životní příprava, jestliže dítě vnímá třeba něco děsivého a nebezpečného, aťšak ssmo je přitom v dokonalém bezpečí máminy nebo babiččiny náruče.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bd1ea5816b89387562c79fcc26f7d24c8566bc7529c86580aa025d45b873b87
+size 217

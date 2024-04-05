@@ -1,1 +1,3 @@
- Trockého synové byli popraveni, mnoho jeho přívrženců bylo odsouzeno к smrti nebo zavražděno a Trockij myslel jenom na to, aby svůj archiv dostal do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9ca3439cdd4cf4b9359c54f51b787ca8dbfac0b8fdaeac9158b2bd554fcd12
+size 171

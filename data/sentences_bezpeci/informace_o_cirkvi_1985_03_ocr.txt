@@ -1,1 +1,3 @@
-orien tální loto stín
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2a947288606c823f883bdf38c0f7f7b3ff90045168e6238ac6dd69d08ea6021
+size 24

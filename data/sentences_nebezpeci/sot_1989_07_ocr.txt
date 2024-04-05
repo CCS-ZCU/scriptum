@@ -1,1 +1,3 @@
-Tojsao populární existovat nebezpečí populiomus
+version https://git-lfs.github.com/spec/v1
+oid sha256:dec187cff0fac247e63a450deaa5a887f9a534a80729daf622aba79012dd8517
+size 52

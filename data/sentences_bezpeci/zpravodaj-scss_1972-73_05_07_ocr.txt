@@ -1,1 +1,3 @@
-ironie americký president cítit polský dav Vary sava bezpečí strážce mít starost mívat spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:60e7b081afbc46daacdaa68377b13528fb170484f30e60dfb5e40642e58a6209
+size 111

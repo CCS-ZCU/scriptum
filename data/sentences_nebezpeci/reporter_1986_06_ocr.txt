@@ -1,3 +1,3 @@
-cestovní doklad vydávat nebezpečí azyl občanství odňatý viz zpravodaj číslo
-umělý člověk vytvoření přisuzovat obdivovaný ctěný rabín existovat legenda přispěchat poslední chvíle pomoc octnout nebezpečí nouze zničit pronásledovatel trýznitel
-obava množit zdejší autor lokální noviny hlas panoráma poukazovat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5572cddf5adc679e62c6ba5ff1a8f24bffd630d208e460cfd0b3fb378086e327
+size 355

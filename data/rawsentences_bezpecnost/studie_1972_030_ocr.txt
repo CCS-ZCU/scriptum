@@ -1,15 +1,3 @@
- Tato krize se projevuje v církevněteolo- gické oblasti, kde je brána v pochybnost už i tradice sama - projevuje se v kontestaci mladé generace, která pociťuje ustavené strktury a zděděné způsoby myšlení jako cizí, projevuje se v kulturní a mravní lhostejnosti mo- derní blahobytné společnosti, která rozvíjí nové úpadkové formy za dosud nikdy nepoznaného blahobytu a sociální bezpečnosti.
- První problém, o němž třeba pojednat, otevírá široký rámec zcela nových obzorů: plán evropské konfe- rence o bezpečnosti a spolupráci.
-ckl tehdy: » Ostpolitik nynější bomiské vlády a konference o evropské bezpečnosti spolu úzcc souvisejí.
- » Konferencí pro evropskou bezpečnost a spolupráci«.
- »zajištění evropské bezpečnosti« jsou už data daleko staršího a byla jich celá řada, hlavně ze sovětské iniciativy.
- Brzy na to, v únoru 1954, učinil první sovětský návrh za účelem dohody o »kolektivní bezpečnosti« Molotov na konferenci » Velké Čtyřky « v Berlíne.
- znovu svůj návrh na zajištění evropské bezpečnosti.
- Tato konference by se mela zabývat také návrhem na zřízení zvláštního orgánu, který by byl pověřen řešit otázky evropské bezpečnosti a spolupráce.
- Jak se jeví souhrnné stanoviska k proponované » Konferenci pro evropskou bezpečnost a spolu- práci« na východé a na západé.
- Stejně tak rozhodně se vyslovují proti svolání » Konference pro evropskou bezpečnost a spolupráci Jsou přesvědčeni, že celý Západ se vystavuje velkému nebezpečí svojí ústupností před so- větským nátlakem a jeho Často ani nekamuflovanými cíly a jsou tím hluboce znechuceni.
- To je největší a nejnaléhavějŠí problém evropské bezpečnosti a spolupráce.
- Bez jeho kladného vyřešení vc smyslu osvobozovacích snah evropských podmaněných národů nebude v Evropě ani trvalého míru, ani bezpečnosti a ani skutečné a plodné spolupráce.
- 848  Závěrem se musím vrátit k titulu svého referátu, a to ne jinak nežli otázkami: Bude? Nebude? A když, tedy jaká bude tato »Konference « pro evropskou bezpečnost a spolupráci? Bude se konat v nyní předpokládané formě? Britové např.
- Poslední dobou se také začalo v západních prohlášeních více zdů- razňovat » spolupráce « než » bezpečnost«.
- Obsahem vlastní diskuse byly pak přede- vším otázky týkající se současné politické si- tuace v Evropě, připravované konference o evropské bezpečnosti a tak zvané východní politiky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bac12f411357c3c5771b40d1f00ca2a64a634c8e2f28a9746e303ed7fb3203b
+size 2575

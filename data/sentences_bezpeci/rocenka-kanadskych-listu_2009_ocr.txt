@@ -1,1 +1,3 @@
-mít starost bezpečí rodina přejít noc hranice Bavor Nýrská
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a5f9683629eb5d00f9619c2dfb2d0987fe46428ac9d2a6176f9e0b7f6898b4
+size 66

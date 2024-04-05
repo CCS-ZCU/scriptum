@@ -1,4 +1,3 @@
-strach nebezpečí postih průměr třetina cítit malý ohrožený
-nebezpečí prateta vyhynout vláda dávat velký odměna kus
-podobný akce moci tvrdit demokratický země moci vylepšit posudek mluvit úmysl druhý strana nebezpečí sovětský agrese
-růst nebezpečí fašismus hora zúčastnit podpisový manifest
+version https://git-lfs.github.com/spec/v1
+oid sha256:58bed919cc5a7bfaa479ea3ad440141589e5bbab03d0f7466f54a5cd5b6d6aec
+size 325

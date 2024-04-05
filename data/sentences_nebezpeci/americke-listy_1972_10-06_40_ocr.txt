@@ -1,1 +1,3 @@
-mít přijít úkciový dajný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:843130c66665cefcdde37572ec400c47cb8508756532ad400d24e6c8956744ee
+size 35

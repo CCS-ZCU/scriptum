@@ -1,1 +1,3 @@
- Výjimkou by byly spory týkající se národní bezpečnosti a odzbrojení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcad3cbd44aafd3e5906647ef20c60902426904fd6e69f61c72a4d6becded2d3
+size 78

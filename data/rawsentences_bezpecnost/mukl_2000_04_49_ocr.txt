@@ -1,1 +1,3 @@
- Jen co se Státní bezpečnosti podařilo křeslo obstarat z Ameriky, pozval Gottwald do Československa mezinárodní komisi a sám ji vodil po věznicích a poskytoval odborný výklad: „Klasické mříže v oknech jsme nahradili mřížemi umělecky tvarovanými.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78e30ca0befd80392fc64ea88b464e27b92fd150bbf8a4bb4bcd7ef69aeabff6
+size 270

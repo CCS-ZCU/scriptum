@@ -1,1 +1,3 @@
-velký bezpečnost Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:225cedf041826303d7e28e33ad89b2e2e26cedc27177ceebe82458ba571895c7
+size 26

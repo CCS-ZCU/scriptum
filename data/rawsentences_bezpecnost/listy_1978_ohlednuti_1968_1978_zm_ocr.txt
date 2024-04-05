@@ -1,7 +1,3 @@
- Gri- něvskij: Československo úplně zhatilo celý náš program evropské bezpečnosti.
- O evropske bezpečnosti jenom mluvíme, ale v podstatě jsme s nynější situací v západní Evropě spokojeni.
- Anebo přece jenom šlo o his- torickou chybu, které se podle Zbigniewa Brze- zinského (tehdy prostého politologa, dnes moc- ného poradce prezidenta Cartera v otázkách bezpečnosti) Rusové dopustili ze strachu před následky Pražského jara? Při tak historicky uvědomělých aktérech svě- tové politické scény není jistě náhodou, že prá- vě v těchto dnech absolvuje svůj senzační vý- stup v obou Moskvě tak nepohodlných, protože emancipovaných balkánských zemích, Rumuns- ku a Jugoslávii, soudruh Hua Kuo-Feng.
- Všechno to, co se událo v Československu, dokazu- je, že existuje úzké sepětí mezi bojem za demokratic- ký rozvoj socialismu a budováním socialismu v demo- kracii a bojem za mezinárodní uvolnění, mírovým sou- žitím, zavedením systému kolektivní bezpečnosti v Evropě a překonáním proti sobě postavených politic- kých bloků.
- Policejně-dozorčí aparát je obrovský: počet přísluš- níků politické složky policie /státní bezpečnosti/ se pohybuje kolem 20.
- Sotva tehdy započatému a intervencí přerušenému začátku snižování napě- tí mezi SSSR a Západem se dostalo intervencí nového zdůvodnění: rozdělení Evropy je ne- změnitelné, a tak se musíme o to spíše starat o vlastní bezpečnost a vůči Východu jen otvírat ta vrátka, na jejichž zamčení ani Moskvě nezáleží.
- článku 12 rvního paktů, zaručující občanu právo svo- odně opustit svou zem; pod záminkou "ochrany národní bezpečnosti" (bod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4014831fd1f50a7a1a0da5be37996d102c69e69be6dc6cdccf3c2c34dc5a5072
+size 1738

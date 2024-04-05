@@ -1,4 +1,3 @@
-počínání státní moc tvrdit pravdivost úvodní prohlášení charta konstatující jiný země občan nucený žít trvalý nebezpečí projevit názor ztratit pracovní jiný možný sto
-charta dialog zdůrazňovat dělitelnost míra přímý závislost míra vnější míra vnitřní respekt lidský právo nutnost čelit nebezpečí válka hluboký proměna skutečný příčina sféra společenský politický realita dnešní svět dbající přirozený právo národ rozdělený
-další občan odpíraný <rsvoboda strach preambule první pakt nucený žít trvalý nebezpečí jevit názor ztratit pracovní jiný možnost
-atmosféra změněný obnovený základní podmínka důvěra veřej nostý sdělovací prostředek hrozit vážný nebezpečí sebepoctivý sebehodnot nízký novinářský práce zvyšovat přesvědčivost lež dodávat lesk
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3b9fc509589eac9b820e59e4aed321f72e54fcc08944e7cd8988e763f5f6f5
+size 856

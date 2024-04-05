@@ -1,1 +1,3 @@
-společnost boztříd zmnohonásobit výrobnost vyo žití vymoženost ^technika věda společnost zbavivšit provždy nebezpečí vyrůstající kapitalistický obklíčení vystavit status defi niíiyně úmrtní list
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7c40252446122f6036d8dfb5e0519b15d1e171ec96ed846f30566ff43dac7de
+size 222

@@ -1,1 +1,3 @@
-okamžik laň zavětřit nebezpečí plaš zmizet houština temný byt
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc1ac4e9bd26164be46e57735d56db1663797bd46bc5eccc652ee44aae5b1d9
+size 71

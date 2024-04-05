@@ -1,2 +1,3 @@
-idený titý smysl účel člověk nalézat bezpečí čas plynout velký zajímavý cíl zábavný cíl
-vynořit rozdíl cíl smysl drásající zkušenost porozumění smysl jiný lidský cíl ležet moci cíl vyhánět bezpečí všední den
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d6ee392584287cd307db9b29c6b44c0ecec050cb21c0d49b4bc5d290aaec0aa
+size 241

@@ -1,1 +1,3 @@
- Ich mená sa dostali do rúk štátnej bezpečnosti po zhabaní adresárov a korešpondencie Gondovej a Novajovského.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8663465321e171568df2f5f25dec110167483f4041fe3be6b6272caf0c1e7e62
+size 120

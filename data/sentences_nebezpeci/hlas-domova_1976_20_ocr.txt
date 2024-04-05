@@ -1,2 +1,3 @@
-mít odchod vlast jednout ché podceňovat nebezpečí návrat starousedlík doba prodírat ostnatý drát stačit obrůst sádlo zapomenětnout vost
-kongres vést válka Hitler zůstat paměť lidstvo velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3288a28f11b0a2ec5d5046d7280370c27317ec47e4ad5f6fc41f71b4789c7b0e
+size 216

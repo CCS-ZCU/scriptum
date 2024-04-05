@@ -1,2 +1,3 @@
-státní banka vykrást moci sovětský svaz nebezpečí zažehnaný
-násilí zastánce branec náboženský etický důvod odmítat vzít ruka zbraň nebezpečí vysoký hodnota přiznávat vzor
+version https://git-lfs.github.com/spec/v1
+oid sha256:d55f7aa92992c250a45630d2b1a75801374145865cad3b5a03e565bafd2adc7d
+size 196

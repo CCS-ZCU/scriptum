@@ -1,2 +1,3 @@
-vyvinout tradice krásný tradice
-zvítězit jméno míra odzbrojení konservativec léta vypuknutí válka zasvěcenec vědět odvratný vyzbrojení země výsledek křiklavý čekaný mít britský politika následek pronikavý vypuknutí nový světový válka děsit britský politika vědomý zastávat vyzbrojení poukazovat nebezpečí Německo znamenat riskovat politický sebevražda ostáný vlastní kůže poznat muž
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2e98d1aaaa53e008d5e936b2effedde8988a54fb6b7e5f66fa89fb11296ee4
+size 430

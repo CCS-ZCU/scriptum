@@ -1,7 +1,3 @@
-moci mít slon zahrada moci milovat nebezpečí rozšlat zelí
-drahý peníze žádat malý banka úvěr vysoký sazba vystavovat nebezpečí přihlásit podnikatel získat levný půjčka tradiční banka
-doba rozpad SSSR Rusko oslabený hojný informace tisk televise bída rozklad bývalý ruský armáda přesvědčovat veřejnost strana hrozit nebezpečí
-český republika mít hranice Rusko pocit nebezpečí malý premiér Klaus prohlásit žádost členství NATO spěch
-onen hlas dostat Žirinovský podpora šovinistický politika volba strana připočítat zanedbatelný procento starobolševik stát protichůdný strana politický spektrum věc znovuvzkříšení stalinský imperium Žirinovský bratr zbraň míra šílený plán nabývat přibývání čas nebezpečí svědčit obava tajit francouzský president
-podobnost Bílá hora rakouský nadvláda přinášet nebezpečí ztráta kulturní jazykový identita podobný ohrožovat identita quebecký
-způsob důvod hrdost najedený primát předek
+version https://git-lfs.github.com/spec/v1
+oid sha256:e608dbdcb8cc395755adf66e268fcc68f6c987533b1a4a38249b281faebe89b1
+size 1021

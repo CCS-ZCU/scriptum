@@ -1,1 +1,3 @@
- Bylo se mu již poštěstilo Rusům uniknouti, a bezpečí své pojistili, an ho došla zprava, Že kněz Josef Jasinský, ctihodný kmet a farář Žoludský, na jeho místě zatčen byl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce8eaefea0c20765ae1cf0103a1ba180da79465b7a7fddfd9755dfca7e865a93
+size 190

@@ -1,7 +1,3 @@
-rozjasněný horizont život lid objevit celý spektrum nový nebezpečí národnostní konflikt ztráta sociální jistota hrozba totální vláda kon suma obchod peníze
-nebezpečí rychlý bezduchý komercializace nový život svoboda demokracie zdát velký
-veřejnost podcenit priorita nebezpečí otrávený půda voda vzduch
-překročení hranice narušení vznikat nebezpečí zatčení československý pohraniční orgán
-naléhavý slovo nízký informovanost veřejnost sporný problém zvýšit příjemný pocit nebezpečí
-chtít poučit
-tvrdit pštros okamžik nebezpečí strkat hlava písko zoolog dokázat báchorka
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a06a92f57d39663ac8fae724de76427379cf5d2a0be4690eeb89cd5dffbacf
+size 633

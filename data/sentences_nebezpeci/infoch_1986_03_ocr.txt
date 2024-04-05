@@ -1,2 +1,3 @@
-tendence demokrat střed NSR podezírat kri tik vznesený adresa SSSR staromtdni antikomunisaus
-pracovník předvést den Ladislav Zajíček vedoucí produkce SMH vyslovit varování SMH činnost pokračovat vystavovat nebezpečí trestní stihaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d969eafec4e26ab18625ac7919509ded6908e24d6d59aeccadf2e6867b23ec5
+size 584

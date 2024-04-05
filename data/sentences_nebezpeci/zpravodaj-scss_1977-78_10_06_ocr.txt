@@ -1,1 +1,3 @@
-připomínka československý novinář přijet návštěva západní země dopisovatel moci mluvitout chtít hrozit nebezpečí vypovězení referát kritický přátelský československý činitel pomíjet
+version https://git-lfs.github.com/spec/v1
+oid sha256:b519fb9f606079fc680a3c0fccb918eb65261c3c2a97267a5f3c3bfbedb24589
+size 209

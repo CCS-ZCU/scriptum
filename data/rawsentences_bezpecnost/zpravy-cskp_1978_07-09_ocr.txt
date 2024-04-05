@@ -1,1 +1,3 @@
-srpna článek,v němž zdůraznilo "nutnost vojenského zásahu"před 10»lety-a to v "zájmu evropské bezpečnosti".
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe18a9e90d4f4fea204bcce71de19570e53f2da6d08399aec9ead884012e41ec
+size 120

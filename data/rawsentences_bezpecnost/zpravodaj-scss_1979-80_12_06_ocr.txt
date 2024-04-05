@@ -1,8 +1,3 @@
- Všechno začalo požadavkem na zrušení řady telefonů, požadavkem Státní bezpečnosti.
- Chtěl bych se zastat Státní bezpečnosti.
- "Každý, kdo zná Marxe z vlastní četby, dovede si živě představit, že by muž s tak zřetelným intelektuálním sebevědomím a s tak fanaticky kritickým postojem ke skutečnosti po prvním veřejném vystoupení skončil na výslechu u státní bezpečnosti.
- V psychiatrických liečebných ústavoch dozor a lekársku kontrolu výlučne vykonávajú príslušníci ministerstva vnútra, armády, či štátnej bezpečnosti.
- Zdá se, že poklidně, bez ších zásahů nějakých služeben sovětské "bezpečnosti".
- Po změně vládních režimů v Portu- ’ 17 17 Edmund Řehák JAK JE TO SKUTEČNĚ  galskú, Řecku a Španělsku je nyní jejím posláním sledovat poměry ve státech s komunistickým režimem a jejich plnění "helsinské dohody" o Evropské bezpečnosti a spolupráci.
-/ Škutina editoval i anekdoty o orgánech Veřejné bezpečnosti, které pod názvem "Anekdoty za pendrek" vyšly česky v Curychu a ke kterým napsal Škutina spolu s Otou Filipem předmluvu.
-" Poté hovoří o jiném městě, na jihu Evropy - pravděpodobně Neapoli - kde "vysoké kasárenské činžáky jsou jakousi karikaturou New Yorku, kde sociálních zařízení je málo, bezpečnost žádná a lidi se množí jako červi v gorgonzole, kde vládne bída, prostituce, nejistota, žebrota a pověra".
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e6d5aa9156c94135c9db8a62677bf956d1903bd0b7dd4b241c75df717ba83e
+size 1462

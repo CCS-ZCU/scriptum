@@ -1,1 +1,3 @@
-únorový puč ukázat pravý bezohledný tvář rudý imperialismus Vilém opustit vlast rozhlas svobodný Evropa upozorňovat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2bb602ec777e5fb7b6d73d08a62353ecb68a962c88e3dfba07739d0fc14671
+size 140

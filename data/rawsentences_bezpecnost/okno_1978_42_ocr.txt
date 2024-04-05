@@ -1,3 +1,3 @@
- Vzájemná důvěra byla stvrzena podpisy na smlouvě o bezpečnosti E- vropy.
- Nedávrá konference v Bělehradě zřetelně ukázala, jak to kdo s bezpečností v Evropě myslí.
- První z nich pomohl finančně, druhý mu dal pancéřový Cadillac, protože se více staral o jeho bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be0499cec554b53ada9a843f829cfadbd7ae5ef47db3a9c6dbbb4db3e0008a45
+size 298

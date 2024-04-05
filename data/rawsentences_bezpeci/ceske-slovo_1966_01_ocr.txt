@@ -1,2 +1,3 @@
- Hlavní pohnutkou pro tento komunistický manévr je patrně snaha, uspat tu část mezinárodního veřejného míněni, která dává přednost polopravdám a oddává se pocitu falešného bezpečí.
- Po mnoho hodin nemohli sjet výtahem do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a83c34ff82165f53faa1fe55941a577cc32aaa7f4aab46476c6233fce12139
+size 256

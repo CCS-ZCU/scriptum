@@ -1,1 +1,3 @@
-A přece;když jsem letos v létě opouštěl obživlý vrchol^Etny a měsíční vzhled její krajiny naposledy a sestupoval od bouřícího kráteru dó údolí,v němž teple zářila světla osad,zaplavil mne hřejivý pocit bezpečí a míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c5ee5034db2a5f22cfe875427142fa56b3a8e88b6e543ada731b79a16f6b17
+size 248

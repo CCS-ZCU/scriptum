@@ -1,6 +1,3 @@
- Tam se ovšem jedná o vojenskou bezpečnost, a to je téma, na které hledají i neutrální a nezúčastněné země společnou odpověď jen velice nesnadno.
- BŘEZNA 1985 O ČESKOSLOVENSKU POSTIH OBČANŮ POKRAČUJE VONS — Výbor na obranu nespravedlivě stíhaných informuje pravidelně o neoprávněných zákrocích — “přehmatech" a porušování lidských práv, kterých se dopouští československá bezpečnost a .
- :e “poškozuje zájmy socialismu” a ohrožuje “bezpečnost socialistických zemí” (rozumějme v první řadě Afghánistánu).
- Čtrnáct let zkoušela doktorka Michaliková z ústavu pro bezpečnost dopravy řidiče a řidičky.
- ledna o dvanácté hodině přerušila Státní bezpečnost přednášku Ladislava Hej- dánka.
- Příslušníci StB porušili domovní a osobní svobodu tím, že neoprávněně vstoupili do bytu, vyvedli přednášejícího a čtrnáct jeho posluchačů do přistaveného policejního auta a odvezli je na oddělení Veřejné bezpečnosti na Náměstí míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f064ffbd4da64247e5b22d85e55436ca028f0138f00a7e2cf6553a411a16ee0a
+size 1040

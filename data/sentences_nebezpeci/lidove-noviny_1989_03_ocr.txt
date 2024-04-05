@@ -1,4 +1,3 @@
-závislý literatura nebezpečí ztratit
-bezpodmínečný stoupenec jis rok nebezpečí vykřesat mozek troska litr společnost bezíhní podmínka ženidůý cíl záchrana
-strana zúčastněný uvědomit nebezpečí hrozit malý partner rád vzdát lákadlo moc
-nebezpečí lze shrnout bod Jeruzalém stát řízený newyorský Brooklyn sídlit lubavičský rebe duchovní vůdce silný náboženský strana Aguda
+version https://git-lfs.github.com/spec/v1
+oid sha256:729e079f282cfacd4236f9938b5c43a326f814c9a76e027c386ef29f4ff4eec5
+size 416

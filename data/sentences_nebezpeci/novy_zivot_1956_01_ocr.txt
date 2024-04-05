@@ -1,3 +1,3 @@
-praxe nutný pracovník hnutí varovat nebezpečí náboženský vlažnost promyšlený spojování různorodý prvek
-chtít spokojit úryvek vyvarovat nebezpečí podat papežův myšlenka vam podat celý text poselství stručný komentář chtít upozornit význačný bod shrnout snadný přehled
-psát
+version https://git-lfs.github.com/spec/v1
+oid sha256:95467d7437c453b372146eaa7bc6f1088facc13d9c11ba2de274d61cdda00881
+size 307

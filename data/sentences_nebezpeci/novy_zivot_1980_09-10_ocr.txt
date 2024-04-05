@@ -1,2 +1,3 @@
-třídní boj cesta vést sociální řád nést nebezpečí zvrátit stav stát vytvořit nový spravedlivý situace
-mnohost vystavovat nebezpečí povrchnost postup čas lhostejnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5980c338ea0feafe80dbc1bd18cc4ade312426f704518e45b9a5adc08a4e798
+size 184

@@ -1,8 +1,3 @@
-konat doba naléhavý nutnost rozvíjet historický proces osvobozený pracující člověk forma vykořisťovaný národ mocenský útlak proces odstraněný nebezpečí nukleární válka hrozící tragický konec svét
-léta reagovat kékole nebezpečí snížení životní úroveň
-zřejmý určitý mít zájem nebezpečí zmobilizovaný veřejnost
-Marčuk říci Sacharov mít vědec vysoký autorita nebezpečí moci octnout vakuum pokračovat formulovaný vystoupení
-otevřený sovětský společnost předstat vovat západ malý nebezpečí vojený skůho ideologický hledisko Sovět ský svaz včerejší dnešní podoba
-politický hledisko považovat otevřít stabilní prosperující sovětský svaz malý nebezpečí západ
-tlak existovat výrobce mít trh převaha vzniknout nebezpečí pracující chovat
-Janov tvrdit Gorbačůvův cesta změna ruský poměry vyzývat západ poskytnout všemožný podpora jiný přispět tvoření situace Moskva umožnit východisko nový kniha ruský výzva pojednávat Janov nebezpečí temný ultrý nacionalistický případ fašisko tický proud ruský společnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d726f9b1d7853a5b928bac4f6aaccb0e60cade9a606427fb8fecf002b5b1f2
+size 1126

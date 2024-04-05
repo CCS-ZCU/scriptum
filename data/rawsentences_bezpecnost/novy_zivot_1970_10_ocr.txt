@@ -1,4 +1,3 @@
- Jsou to extrémní činy, které s sebou strhují osoby, jež s konfliktem nem ají nic společného, jako ženy a děti; ohrožují nedotknutelnou bezpečnost mezinárodní dopravy, zvyšují materiální škody a nenávist, také ke škodě těch, kdo je vyvolávají, znamenají krok zpět pro věc m íru a mohou vyvolat nepředvídatelné další katastrofy.
- Nyní měla být její bezpečnost zajištěna.
- Na závěr ocituji čtyři slohy z Komenského básně » Píseň Mojžíšova po převedení lidu izraelského přes moře »: Kdo podobný tobě, Pane? Kde rámě tak požehnané? Kde je kdo tak v chválách hrozný? Kde tak v zřejmých divích možný? Ach sprovodil ten svůj již* lid, vykoupený z mnohých těch b íd ! Veď a doveď jej laskávě k bezpečnosti v plné slávě! Což uslyšíc lidé jiní a jsouc strachem obklíčeni, oněmějí a čest tobě vzdají všickni hned v té době.
- bezpečnosti v roce 1968«.
+version https://git-lfs.github.com/spec/v1
+oid sha256:545cdbc4995555702a11455a872fbdcf8d48a6e68b84a67c5984ecbb1259d653
+size 949

@@ -1,2 +1,3 @@
-uvádět lidé považovat strom velký nebezpečí betonový sloup
-látka ryba představovat nebezpečí potvrdit obava moci zalepit žábra zabránit dýchání
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c732c7abb1de005ace40477832827fa45832133190697c0283714bd468a45c6
+size 162

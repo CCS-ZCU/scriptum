@@ -1,1 +1,3 @@
- To zavazuje k poctivosti, k politické realitě! Chci, aby přišel čas, kdy bude konec utrpení, kdy nejen můj národ bude žít v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85672bcd0930c6ecdf4d56ea8398c8198c3cbee10b5bc4540319c1b3b80f2e6b
+size 97

@@ -1,2 +1,3 @@
-Celsius ÚSPECH nebezpečí podnik litr podnik rok litr společnost podnik rok rok litr litr hodina metr hodina rok podnik litr rok litr litr rok litr metr společnost litr metr metr podnik litr litr rok
-Celsius úspěch nebezpečí Skála
+version https://git-lfs.github.com/spec/v1
+oid sha256:944628b05f2b4991cec1f54dda0d9d01fa7c6f3b8948d94fd47d9de996bd1d45
+size 240

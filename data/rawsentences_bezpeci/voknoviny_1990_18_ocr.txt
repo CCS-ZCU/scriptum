@@ -1,1 +1,3 @@
- Většinu podpisů nemám d o m a - když jsem se dozvěděl o 'vyloupeních bytů' nezávislých redaktorů, odnesl jsem texty, kterých by se neměli komunisté zmocnit, do bezpečí, čímž zároveň říkám těm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8956c819b8718a5d9905f172d28978892750805c34f20b6a443740ea76c83ff8
+size 220

@@ -1,2 +1,3 @@
- I když se musí uznat sovětská potřeba bezpečnosti, není zde důvodu, proč by Západ měl přijmout zradu z Jalty na stálo.
- A co se týče bezpečnosti Západu? Pan Owen nám svým článkem v Timesech připomíná masové oběti sovětských lidí ve společném úsilí zbavit Evropu nacismu, avšak současně bychom si měli připomenout, že válka sama začala cynickým »rozkrojením« Polska Hitlerem a Stalinem, což usnadnilo vše pro následující invazi a okupaci západní Evropy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10aebdb707bf979df5a8a90f661f85b65427122f4203c9ad7cfeb473726b5769
+size 506

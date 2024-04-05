@@ -1,1 +1,3 @@
-žít pohodlí bezpečí muset stát Orlovém kolega takzvaný zločin přesvědčený sovětský vláda mít respektovat vlastní mezinárodní závazek pasáž lidský právo helsinský dohoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f2c469e096e722a59a6bb315e94db45dcfbfd9aa891a695ba7e96c2e3a6e54c
+size 195

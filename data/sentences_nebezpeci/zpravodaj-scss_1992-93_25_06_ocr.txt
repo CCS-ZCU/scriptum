@@ -1,5 +1,3 @@
-reálný nebezpečí vítězství obolat vický levice celý stát Slovensko volba známý
-vztah Československo hrozit nebezpečí prodlení
-tyro námitka brát moci přesvědčit velký nebezpečí hospodářský zhroucení následek pomalý reforma privatizace
-noviny letní přemítání shledávat nepřítel politický kultura nízký pud vášeň nebezpečí moci přicházet strana vysoký morální aspirace
-vidět nebezpečí způsob Havlův myšlen vést role politikův chápaný smysl kněžský paternalismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:e465ae9538357b38f0935dc1881cbaa811f0083d11d5c6e34bd76c30fdaaa884
+size 523

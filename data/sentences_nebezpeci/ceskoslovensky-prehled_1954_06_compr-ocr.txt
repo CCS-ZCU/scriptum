@@ -1,5 +1,3 @@
-spojenec uvědomovat naléhavost úkol nebezpečí situace
-hrozit nebezpečí útok stát smlouva určovat strana zahájit odkald jednání útok čelit
-nebezpečí sociáldemokratsmus funkcionář odbory chtít ulehčovat úkol opomíjet důsledný masový práce podléhat živelný názor nálada zaměstnanec chtít člen nadekretovat různý opatření ohled zájem
-velký nebezpečí střílet červený raketa znamenat pohotovost celý útvar
-poslední Kopecký výklad tvorba muset opírat marx leninismus smět zaútočit strana strana pojetí komunista všecek nový život chvíle svobodný tvorba smrtelný nebezpečí prohlášený herese
+version https://git-lfs.github.com/spec/v1
+oid sha256:273426db8e812cb628e8b7e13da54ab4b5ccd6eff3e7fd3c2d59fecc89a5e683
+size 652

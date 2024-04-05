@@ -1,1 +1,3 @@
- Úhlavným nepriateľom bol však Žid, ktorého najvyšší duben 13 apríl  zpravodaj 4 / 2009 spravodaj policajný orgán vojnovej republiky Ústredňa štátnej bezpečnosti označil nielen za „cudzí živel, ktorý nemá so slovenskou národnosťou nič spoločné, ale i za trvalého nepriateľa slovenského štátu a jeho národa".
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea86d8b8022c26f80d7ec16082bafac1553a51d2fb4723401ba2e525cbee5ac
+size 343

@@ -1,1 +1,3 @@
- Obě delegace hovořily také o Evropě a bezpečnosti v této oblasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db9d747e687f0328e045f6b3cc8cdf2f84694fa62e20551ba8fa10c0e60dc4f
+size 73

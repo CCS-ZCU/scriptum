@@ -1,11 +1,3 @@
- Hned první den jsme jako členové zápa- doněmeckého parlamentu navštívili velvyslance spolkové republiky, a nazítří jsme začali rozhovory l i  v Kremlu o otázkách míru, odzbrojení a mezinárod- ní bezpečnosti.
- Když si odseděl dva týdny, odvezli ho příslušníci bezpečnosti z Holíce k výslechu.
- Ale keď sa teraz hore udomácnila, žiada táto vrstva pomaly viac pluralizmu, pravda, nie hlava nehlava, aby sa nemusela stra- chovat' o svoju bezpečnost'.
- listopadu 1983 prezidentu Husákovi a dal- ším představitelům ČSSR k madridské schůzce o bezpečnosti a spolupráci v Evropě.
- Citujete myšlenku Často vyslovovanou Va- šimi sdělovacími prostředky v souvislosti s roz- misťováním nukleárních zbraní na Západě, že tyto zbraně nijak nezvýší bezpečnost zemí, kde jsou umí- stěny, ale naopak je vystavují nebezpečí jaderného útoku nebo protiúderu.
- Vítáme sice možnosti po- skytované stockholmskou konferencí o evropské bezpečnosti a odzbrojení, avšak trváme na tom, aby do své diskuse o vytváření vzájemné důvěry pojala i otázku jaderných zbraní, jelikož bezpečnost a uvol- 23  není mohou vzrůstat jediné tehdy, snižuje-li se je- jich množství.
-84 Výbor na obranu nespravedlivě stíhaných Československá liga pro lidská práva člen Mezinárodní federace pro lidská práva Státní bezpečnost v akci proti papežově návštěvě V roce 1985 se katoličtí věřící v CSSR chystají oslavit 1100.
- Ve dvě hodiny v noci se přišla hlídka Veřejné bezpečnosti přesvědčit, že zločinec je v posteli.
- Zná někdo lepší vyznění marnosti? (Rakev s nebožtíkem odvážejí potom z Kerska ven a příslušník Veřejné bezpečnosti, muž blízký smrti a k tomuto aktu přihlížející, vrací se zpět, lam, kde pulsuje český život; tak, jak byl divákům předve- den).
- Množící se zatýkání promi- nentních osobností deformuje život těchto nižších příslušníků nové aristokracie ustavičným stra- chem, který se rozrůstá do panického děsu poté, co ve všech místnostech deputátního obydlí (nejin- timnější prostory nevyjímaje) postupně objevují odposlouchávací zařízení Státní bezpečnosti - a tedy kompromitující svědky jejich občasných vý- hrad k novému řádu.
- František Vaněček 42 Doctor honoris causa Václav Havel Karel Kyncl 43 Politika a svědomí Václav Havel 44 VONS sděluje 51 Státní bezpečnost v akci proti papežově návštěvě 52 Dialektika případu Ladislava Lise Jiřina Kynclová, Karel Kyncl 53 Druhá Biela kniha o Československu Miroslav Kusý 54 Máte rádi verše? (O vydavatelství Obrys/Kontur) 55 Zlatv dešť Julian Slatina 55 Královský letohrádek Jaroslav Seifert 56 Dostali jsme knížky z Toronta 57 Ze Sešitu číslo čtyři Jan Hanč 57 Zamjatin: My George Orwell 59 O jedné próze^ Mojmíra Klánského ~ bn - 60 Prohlášení zaživa Ludvik Vaculík 61 Karel Hynek Mácha si hrával česky — böhmisch Ladislav Dvořák 63 Kerskýles (KO) 68 Paměti jako memento Milan Jungmann .
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c33dea55a00ffc97e4b319c664ab137bdbdc822fb1f1369cb8e4517f21ab834
+size 3102

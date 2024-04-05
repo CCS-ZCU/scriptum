@@ -1,1 +1,3 @@
-lidé okolí přesvědčit smrtelný nebezpečí ohrožovat zbývat svět svoboda právní jistota právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:63ba3637ac2558e6ab7aa6fde2f7f1f8a7bfc0b578736b7be69bebcc9d1e487b
+size 106

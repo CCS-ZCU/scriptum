@@ -1,3 +1,3 @@
- Oddíl tyrolských myslivců prohledává kraj, zkoumá bezpečnost křižovatek, mostů na hor- ských cestách, obhlíží četné sesuvy strmých svahů a pátrá po úkrytech malých jednotek.
- Relikvie budí v mužstvu cit bezpečnosti a důvěru v odpočinek po obtížném pochodu.
- Rozesta- vuje stráže, přívolává krčmáře a vyslýchá ho: není tu skryt nepřítel? nejsou tu zbraně? střelivo? nebo cokoli, co ohrožuje bezpečnost? Mé otázky jsou míněny vážně a varuj se lhát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed979076f58df3e9994041dc1ac6b0ecd885d158635fb70d294f28107509b77
+size 506

@@ -1,4 +1,3 @@
- Kdo by chtěl slovem pošetilým ohrozit bezpečnost rodiny? Synové milují i bližního, avšak kdo by Jan mohl mít za zlé, že sebe, vlastní budoucnost ještě víc.
-» * * V Helsinkách se dále jedná o spolupráci a bezpečnosti v Evropě.
- Což je zajisté v souladu s voláním po evropské bezpečnosti a spolupráci.
- O tomto pripravovanom projekte bude informovaná aj Konferencia o európskej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8897a567edb3f7e1429fc1590ba126934055e21595844fba9f557aadd4fef5e
+size 423

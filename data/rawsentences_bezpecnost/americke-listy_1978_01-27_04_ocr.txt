@@ -1,3 +1,3 @@
- a v den, kdy jste jako poslanec vyřizoval ve svém volebním obvodu stížnosti občanů, nařídili dva anonymní příslušníci státní bezpečnosti, kteří nebyli v uniformě a nepředložili žádné předvolání, jinému občanovi — mluvčímu Charty 77, filozofovi a topiči Ladislavu Hejdánkovi, aby je následoval na neznámé místo.
- Když to z pochopitelných důvodů odmítl a vstoupil do pasivní rezistence, byl po chodbě, po dvoře a po chodníku odvlečen do vozu a ležel pak po sedm hodin v ústředně Státní bezpečnosti v Bartolomejské ulici na zemi kanceláře, kde byly za zimního dne otevřeny dveře a okno.
- toto: Účelem Rady svobodného Československa je účast na boji proti komunismu, obnovení svobodné, nezávislé a demokratické Československé republiky v předmnichovských hranicích — obnovení demokratických svobod v ní, účast na úsilí o vytvořeni svobodné a sjednocené Evropy a- světového řádu, založeného na spolupráci, míru a bezpečnosti, právu a spravedlnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dddfb5705e81cab2cdefef491b6312102cf21411798684fb6e2ca0c618b3fab6
+size 1046

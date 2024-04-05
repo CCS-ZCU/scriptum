@@ -1,5 +1,3 @@
-číst nebezpečí pronikání komunistický monopolní organizace krajanský život tisk dodatek přesvědčit litr zabránit podvracení demokratický zřízení
-dvojí nebezpečí lidstvo muset čelit fašistický komunistický
-úhlavní nebezpečí antirom ánů tkvět teoretický kontradikce neutrální tón monotón zevrubný popisnost opakování získávat magický moc refrén Pascal moderní americký literatura Petr den
-úhlavní nebezpečí nuda
-mládí křišťálový koule možný zahlédnout obrys budoucnost svět mít ptát nový civilizace
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ee0c47e95b331ab1a6cd8f90ee04af093f2f8b8ea9ff720720a23259b5d772
+size 573

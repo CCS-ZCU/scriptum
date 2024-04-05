@@ -1,1 +1,3 @@
- Naplňuje mě neobyčejným pocitem; bezpečí, slibuje-li mi bezpečnost někdo, kdo si není jist bezpečností vlastní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1270fbd349689fe720cf3f1a5dfe6f8908104468e618c816269cabd65a199840
+size 125

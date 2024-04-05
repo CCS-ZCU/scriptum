@@ -1,1 +1,3 @@
-nebezpečí vystavený církev země chudý
+version https://git-lfs.github.com/spec/v1
+oid sha256:29aeb263f76e2843bb0aeddca9107acb3022cefcd803a55f715dd773ea441b61
+size 44

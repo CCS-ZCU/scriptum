@@ -1,1 +1,3 @@
-rozhodný kritika situace organizace UNESCO založený rok výsledek společný glo americký iniciativa šíření vědomost propagování vědecký kulturní hodnota čelit nebezpečí totalita Japonsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6404f63ace1b1707ebd66a31e758aa11a8ffdae408da47460f3056ca9f3d07
+size 207

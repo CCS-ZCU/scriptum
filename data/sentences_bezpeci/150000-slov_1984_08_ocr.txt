@@ -1,3 +1,3 @@
-výraz izolacionismus zakořeněný mentalita severoamerický národ přirozený následek základní projekt stát bezpečí hrůza omyl světový dějiny
-jediný průlom bezpečí zajištěný vnější protektor francouzský expediční sbor pokoušet zachránit Maxmilián dosazený mexický trůn Napoleon
-slabost vládní jednotka neochota sovětský voják opustit bezpečí pevnůstka přinášet milicionář vydaný napospas partyzánský útok
+version https://git-lfs.github.com/spec/v1
+oid sha256:52b232bb930e2774b7d26446ef463f0ee2dc2443fc9670e8e093da6600e79b2e
+size 455

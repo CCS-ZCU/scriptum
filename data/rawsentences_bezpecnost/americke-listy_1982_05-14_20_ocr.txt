@@ -1,3 +1,3 @@
- Katolická literatura tedy na čas odumřela, ale jen proto, že státní bezpečnost a státní soudy musely vytvořit monopol socialistického realismu.
- Vstup do druhého poschodí a na vrchní platformu bude možný až v roce 1983, kdy renovace Eiffelkovky bude skončena, renovace, která prý má hlavně zvýšit bezpečnost všech návštěvníků.
- Mezitím by ministr vnitra mohl veřejnosti povědět, o kolik lépe je placen strážmistr, než slevač, učitel nebo ošetřovatelka — je to už nějakých osm let, co bezpečnost nabízela na svých náborových plakátech počáteční plat ve výši přes dva tisíce čtyři sta korun, a nabídka patrně od té doby neklesla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93bb162bd4e078fa923ddee29177726df83199bca73c0f82b6e6cadde60f57f1
+size 696

@@ -1,1 +1,3 @@
-papež Pavel vědomí pastýřský odpovědnost uznat nutný upozornit encyklice mystérium fide nebezpečí plynoucí víra jistý jednostranný formulace strana sloužený mše svátý přepodstatnění celý eucharistický úcta
+version https://git-lfs.github.com/spec/v1
+oid sha256:10e76717cdfa047bf287682a40ed65c21c98361cdc64306915a262c4baf40ad6
+size 232

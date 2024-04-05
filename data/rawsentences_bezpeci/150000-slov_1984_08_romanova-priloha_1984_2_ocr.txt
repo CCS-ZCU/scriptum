@@ -1,7 +1,3 @@
- Tady jsme v bezpečí.
- „Jsme v bezpečí?“ opakoval hloupé.
- Winston se proto cítil celý nesvůj, i když věděl, že jsou v bezpečí.
- Takhle jsme v bezpečí, dokud jsme skryti větvemi.
- Ale byly také chvíle, kdy se oddávali iluzi trvalého bezpečí.
- Winston přestal číst, hlavně proto, aby vychutnal, že čte, v pohodlí a v bezpečí.
- Samota a bezpečí byly fyzické pocity, smíšené s tělesnou únavou, měkkostí křesla a dotykem lehkého vánku od okna, který mu hladil tvář.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b690e83f1a16e5195ca48f98440e27595f36db4377bc715ac7ab50cd94f7a615
+size 514

@@ -1,1 +1,3 @@
- Státní bezpečnost i celá komunistická strana ví, jak je jí nebezpečná slabá žena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a535a217d72367afef78f463621749406be16cc094629765c41ea06e6376d48c
+size 94

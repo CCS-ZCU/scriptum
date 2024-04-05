@@ -1,2 +1,3 @@
- Tvrdá země vytvářela zdravější civilisaci než štědrá Arkádie; obdobně zapůsobilo nebezpečí nově objevených území, náhlé vojenské a hospodář- ské otřesy, mocenský tlak; v oblastech ohrože- ných se vyvíjela vyšší civilisace než v okrsku bezpečí.
-,velekněze spravedlivé oběti" a dodával, le po zavraždění všech majitglů J;bude třeba oběto- vat i sansculotty a mnoho dalších, aby ti zbylí se mohli v bezpečí radovat ze Života.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0a0eff0c2d32a2dc84ea582ba73622c010961432ed3cd6252828e722c30205b
+size 472

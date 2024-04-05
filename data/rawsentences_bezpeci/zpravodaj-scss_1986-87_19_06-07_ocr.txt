@@ -1,1 +1,3 @@
- Ted, v případě Libye, by byl výsledek značně jinačí, kdyby še Američané byli dostavili nad města, vyházeli náklad a zmizeli do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6137967cee21fae5c32958f2ea7d1e09bc0f98f9791ef18a0c81e317df1c1f0f
+size 153

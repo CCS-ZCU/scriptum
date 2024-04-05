@@ -1,3 +1,3 @@
- se ještě stále doma k sobě druží”, nezodpovědně, svým jednáním, které přímo hraničí s denunciací, ohrozila bezpečnost našich společných, bezbranných bývalých spolutrpitelů.
- Oba potvrdili kladné, i když ne ty nej rozhodnější prvky, jež vyplynuly ze schůzky: úmluvy o kulturní výměně, bezpečnosti vzdušného prostoru v severním Pacifiku, obnovení přímé letecké dopravy mezi Státy a Svazem a rozšíření konzulárních služeb zejména na Ukrajině v Kyjevě a New Yorku.
- Exil - i Státní bezpečnost, jak jsem již jednou napsal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c120e12c32f02a3bdd44be437b13e488afdcf1ad0b28c85df5812f0f42df445
+size 582

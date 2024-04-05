@@ -1,1 +1,3 @@
- Velké Národní shromáždění přijalo výzvu к parlamentům všech zemí — které se zúčastnily konference o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e6cb6aa7e4e58bc07b38cb3c500b4c788744ee471559af509b4371b876b7ae1
+size 157

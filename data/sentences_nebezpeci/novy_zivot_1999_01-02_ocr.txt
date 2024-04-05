@@ -1,1 +1,3 @@
-současný dějiny ozřejmit nebezpečí vyplývat zapomenout pravda lidský osoba
+version https://git-lfs.github.com/spec/v1
+oid sha256:31235edc073d0267f429bc45e191328f4c58b25f8f5fdb3ad4bfc091ed9eb4b6
+size 230

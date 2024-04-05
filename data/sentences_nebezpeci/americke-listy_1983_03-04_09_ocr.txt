@@ -1,1 +1,3 @@
-západ východ souhlasit nebezpečí náhlý vojenský útok dát snížit neutrální země NATO varšavský pakt pře first AVE
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19ba31e0d266012eba4f550ed494f1e6b8dac0cd71c276cb4b29104c854eead
+size 125

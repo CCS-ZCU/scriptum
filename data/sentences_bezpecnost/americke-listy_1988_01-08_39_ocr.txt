@@ -1,1 +1,3 @@
-prosinec předvolaný Jan Sabata Jaroslav Sabata Saňův Broumov střežený dům Stanislav Pitáš Olomouc přítel charta chtít sejít restaurační místnost státní bezpečnost zabránit
+version https://git-lfs.github.com/spec/v1
+oid sha256:68a1e077ef8791e56a29bf9419d519ba3b9e1aff987e879173947385f4a5570f
+size 193

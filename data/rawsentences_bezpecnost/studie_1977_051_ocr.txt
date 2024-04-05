@@ -1,6 +1,3 @@
- Dnes je presidentovým poradcem pro otázky bezpečnosti a zároveň předsedou americké Rady národní bezpečnosti, která je nejvyšším poradním orgánem amerických presidentů v otázkách ná- rodní bezpečnosti.
- Vystupňo- vala boj proti jaderným reaktorům Ve sdělovacích prostředcích, v učených i populárních debatách se střetly dva tábory: jeden tvrdil, že bez atomové energie se už v osmdesátých létech zastaví hospodář- ský růst a po vyčerpání normálních energetických zdrojů zhasnou světla, druhý oponoval tvrzením, že ať je tornu jakkoliv, prvním zá- jmem státu musí být zdraví a bezpečnost občanů.
- Celá oblast kolem místa neštěstí byla okamžitě odříznuta, aby se ve- řejnost o tom nedozvěděla, a bezpečnost podobných staveb a zařízení podstatně zvýšena.
- Sověty podle jeho slov neustále zdokonalovaly svůj bezpečnostní systém a » chtějí učinit pro bezpečnost provozu ještě více«.
- Dopis četla, ještě dříve než byl odeslán, Státní bezpečnost a pozvala si Patočku k výslechu: jak k tomu přijde, aby se on, starý pán, zastával takových výtržníků, kteří ani hudebníky vlastně nejsou; a jestli vůbec ví, za koho se to přimlouvá - a předložili mu oplzlé pornografické texty, které ho měly přesvědčit o špatném charakteru Plastic People.
- Ale protože děkan na svém stanovisku trval dál, objevil sc církevní sekretář druhého dne u něho - v do- provodu kapitána státní bezpečnosti a dvou mužů v civilu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb41f9f813533fb01e04d507785ac26b5205ec1d369fa41ca252541336847ff
+size 1552

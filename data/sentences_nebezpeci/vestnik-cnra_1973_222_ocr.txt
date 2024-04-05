@@ -1,2 +1,3 @@
-velký nebezpečí naděje tlak jednotný západ Moskva mulset přistoupit určitý ústupek záležet obchodní taktický výhoda
-poslední den život bratr Falta psát burcovat upozorňovat nebezpečí světový komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e918e5264c6b1c8b328ff06dcb49061edf744df691e3a246807ec7e3f029fec
+size 225

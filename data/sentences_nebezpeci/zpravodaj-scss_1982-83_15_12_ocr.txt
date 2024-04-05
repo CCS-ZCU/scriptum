@@ -1,2 +1,3 @@
-nebezpečí pominout
-nebezpečí utíkat
+version https://git-lfs.github.com/spec/v1
+oid sha256:7daa7f1144e5971fd9cbdd6119e56aa8270d07fa8057ea3f03cf9accbbde5cd7
+size 41

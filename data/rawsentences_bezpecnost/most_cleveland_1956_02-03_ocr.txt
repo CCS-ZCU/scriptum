@@ -1,2 +1,3 @@
- Z piesne “Matka” (Jesenský), žiari pocit istoty a bezpečnosti, v “Rozpomienke na matku” (I.
- Vo viacerých kapitolách autor komentuje politiku vlády a príslušné zákonodarstvo, ktorým sa obmedzila občianska sloboda v záujme bezpečnosti štátu (zákon na ochranu ľudovo- demokratickej republiky, zákon o nútenej práci atď.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4d0bad930f8a475a9b657852c48ba35c8562336074d7655d53c22e714cc2b29
+size 349

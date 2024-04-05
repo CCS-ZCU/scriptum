@@ -1,2 +1,3 @@
-oznamovat usnesení rada ministr týkající otázka zajištění veřejný bezpečí pořádek
-vážný narušení pořádek Gdaňsko pobřežní oblast souvislost požár založený veřejný budova zabíjení žádat rezoluce úřad odpovědný veřejný pořádek bezpečí učinit okamžitý krok obnovení klid pořádek zabránit další narušování
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc97e572d6f2bde827084598f7a97aa979066d5309df3811ed3ff6a60f02e319
+size 359

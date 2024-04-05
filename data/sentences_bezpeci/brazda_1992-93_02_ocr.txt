@@ -1,1 +1,3 @@
-dovést spojit řád pevnost plynoucí pocit bezpečí spousta malý zákoutí křivolaký úzký ulička vybafnout místo čekat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c5e07ff8b4656a9b54ec2c434d6fc23bf282561b1c87bff426c0810bce81a39
+size 130

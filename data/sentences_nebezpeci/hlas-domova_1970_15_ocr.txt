@@ -1,4 +1,3 @@
-oblast mezinárodní vztah rozrušit svazek sovětský svaz ostatní spojenecký stát Československo stát izolovaný pokraj velký riziko nebezpečí
-ironický pravda Čechoslovák zahraničí vidět nebezpečí Dubčekův kurs
-Dubček vedení nebezpečí počátek uvědomovat
-státní zdravotní správa orgán nemocenský pojištění závod provádět kontrola nemocný lidé hrozit nebezpečí postih
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c4e9adced2d138a0de2471c62d6e38e83c72a4005fa6c613c7939269003fe07
+size 409

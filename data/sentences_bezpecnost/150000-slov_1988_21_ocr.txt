@@ -1,6 +1,3 @@
-jádro nový koncepce myšlenka rozvoj moderní zbraň znemožňovat stát zajistit bezpečnost vojenský prostředek
-bezpečnost vytvořit politický prostředek
-mít úmysl zlomit odpor rolník druh socialismus člověk muset klást otázka chtít vedoucí činitel stát ohrožovat další život země vojenský síla vlastní bezpečnost pustit vyhlazování produkovat potravina zastavit předpokládaný genocida dovršit
-respektovat suverenita politický závislost teritoriální integrita bezpečnost angažovanost druhý vysoký smluvní strana národní totožnost kulturní dědictví lid
-překonat nedůvěra zajistit bezpečnost
-pozorovatel napsat hlava kubánský stát obávat bezpečnost toužit navštěvovat jiný země socialistický jiný politik
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c6d4bedb8559de6197277ceafd9f2761c5b6872b27e9c7e79d382cc9ae4e383
+size 769

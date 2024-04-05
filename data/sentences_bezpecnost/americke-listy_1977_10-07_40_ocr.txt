@@ -1,1 +1,3 @@
-bezpečnost americký vláda stanovit muset automobilista chráněný nehoda případ připoutaný ochranný pás budoucnost evropský automobil samozřejmost známý air bag vzduchový pytel nafouknout zachytit tělo případný srážka
+version https://git-lfs.github.com/spec/v1
+oid sha256:214a2245d441ec4b3b897125c791c86183fa942f973d2b93186d06669f1dc0ac
+size 239

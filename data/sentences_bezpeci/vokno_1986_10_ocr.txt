@@ -1,2 +1,3 @@
-škola složka ministerstvo vnitro spravedlnost splývat vjedno pořekadlo svícen tmo zvyšovat pocit bezpečí
-posadit bezpečí pobřeží ostrůvka chet pozorovat rozběsněný pěnivý maso
+version https://git-lfs.github.com/spec/v1
+oid sha256:3989861e0a50a17f099ce2a0807f583739779edc7f812b7ecaa0fea41a6b03f9
+size 203

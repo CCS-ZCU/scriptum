@@ -1,1 +1,3 @@
- na téma bezpečnost v práci, byl uspořádán v O- stravě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5416bc0d06e1ea19bbdce1de5e36df86c3b26f9900535593f2f2b6293a53d757
+size 63

@@ -1,2 +1,3 @@
-vlast přímý nebezpečí zatčený odsa OKNO zeni politický delikt zvláštní reálsocialistický způsob život naděje budoucnost permanentní sprchování oficiální propaganda dát snést
-odcházet vlast politický rozpor stávající režim nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4013ccf2abb4f1a68b8af43dddbe30d84c22e6e1c757a6cca5d19c0594d5a915
+size 263

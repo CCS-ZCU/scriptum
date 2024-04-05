@@ -1,2 +1,3 @@
-nebezpečí dluh hrozit návštěva starý vlast opustit rok
-oprávněný osoba nebezpečí nouze
+version https://git-lfs.github.com/spec/v1
+oid sha256:444f66378c6ee8afa7333e71d5d5a91944d0b80dd9d14773cbe8cd7aee7924ce
+size 98

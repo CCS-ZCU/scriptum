@@ -1,4 +1,3 @@
-nebezpečí rozšíření šedý zóna tušit vědět
-inspirace Šklovský teorie ozvláštnění silný uplatňovat uplatňovat tvůrčí postup hrozit nebezpečí stát konvence surrealistický
-léta trvat zasadit tragický rána celý národní literatura větev uniknout nebezpečí uzavřenost deformace vydávaný
-Macek fašistický nebezpečí vypuknutí válka Španělsko situace SSSR likvidace trockismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf4a4ea41ac5b6240d0009ad713ec6fc866a87b30ddd1ffc75a0921a7bd49743
+size 415

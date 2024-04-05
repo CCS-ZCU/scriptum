@@ -1,3 +1,3 @@
-marihuana pomáhat muset chodit ulice ohrožovat bezpečnost chtít získat lék zkvalitňovat život
-inu
-místní obyvatel prohlásit obávat bezpečnost domov připadat obležení
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ec548d95930d35542a094415e765c2b2c74106239adb55bdbc661843e360704
+size 182

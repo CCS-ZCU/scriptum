@@ -1,5 +1,3 @@
- Především nás upoutala nebývalá síla bezpečnostní služby a chceme hned říci, že jsme to kvitovali se zadostiučiněním: naprostá bezpečnost prezidenta Cartera je pro Ameriku v této dobé strašně důležitá, nelze připustit ani stín možnosti, aby byl prezident jakkoli postižen .
- Byl tu též hlavní prezidentův poradce, předseda výboru pro národní' bezpečnost Zbygniew Brzezinski, i všudypřítomný, s každým hovořící, všestranně čilý — a pro naši československou věc velmi důležitý — ředitel pro národnostní skupiny při Demokratické straně Andrew Valuchek.
- Už jsme psali o tom, že před zahájením bělehradské konference předložil prezident Jimmy Carter senátní komisi pro otázky bezpečnosti a spolupráce v Evropě písemnou zprávu o případech porušování lidských práv Východem.
- Došli jsme k názoru, že se v o- tázkách naší bezpečnosti už nemůžeme pouze spoléhat na NATO.
- ROY ŽITNÝ starosta Americké obce sokolské mezení zbrojení, pokud ovšem to bezpečnost Spojených států a svobodného světa dovolí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:101015756a67344d03191a286cda00c8cf9b5110beb4e5474a7860bc6e520a1a
+size 1111

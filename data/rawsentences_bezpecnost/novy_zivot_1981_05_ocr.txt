@@ -1,1 +1,3 @@
- V Madridu už po několik měsíců probíhá konference o bezpečnosti a spolupráci v Evropě; je nutné usilovat o to, aby její práce přispěly k zaručení a upevnění míru v Evropě, a aby přitom byla plně respektována práva všech národů, jakož i práva člověka a jeho základní svobody — mezi nimi Svatý stolec zvlášť zdůrazňuje náboženskou svobodu a svobodu svědomí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:773af071b06b30af7835942102f1fba6dc6cd17bd0a6b9632155396668203c8c
+size 403

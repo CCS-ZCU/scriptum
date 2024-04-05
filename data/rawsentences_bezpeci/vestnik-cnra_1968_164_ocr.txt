@@ -1,1 +1,3 @@
- Šejna, jemuž bylo uloženo Novotným organizovat vojenský převrat, je v bezpečí ve Spojených státech a vypráví se, že uprchl s důležitými dokumenty, což není Moskvě lhostejno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e0336589252c01a11066d269d0832ea4648dd8a7b52a5398e17b00e5f9fc23
+size 194

@@ -1,2 +1,3 @@
-upo orňoyat porušovat občanský právo hrozit nebezpečí návrat praktika lesátý léta známý řádit sla inisle
-věřit bezmezný Gustav Husák vyvést nebezpečí kontrarevoluce
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc4451d8ba1dc95ce3847e4659c96dac5609cb608b2dda7dba5110b1417de78
+size 188

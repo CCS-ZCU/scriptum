@@ -1,1 +1,3 @@
-skrytost skýtající mír bezpečí patřit podstata člověk
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c5ef5001adf1c3705c01b9fe522dc4ed6eefaddc59832349deb73f78a4677f
+size 63

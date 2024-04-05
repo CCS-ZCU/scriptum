@@ -1,6 +1,3 @@
-hrozit malý nebezpečí muset kritika veřejnost domyslit mít dělat mít perspektiva alternativa dosavadní navrhovat veřejnost předložený posouzení dostat příležitost praxe ukázat navrat vaný alternativa osvědčit
-dopis ukazovat nebezpečí regresivní praxe hezký slovo existovat svaz spisovatel
-odmítat projev poslanec Pružinec upozora jet nebezpečí ohrožení základní občanský svoboda právo nedílný součást možnost svobodný umělecký projev
-vidět stálý vůle stálý nebezpečí vrátit starý horší čas
-clo kový poznání lidstvo postoupit nástroj poučení nema země kultura nebezpečí vědět
-praxe skrývat nebezpečí odpovědnost posunout rovina pře stávat mít smysl mít nést odpovědnost stá vát moci žádat jiný
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaeee45dfab6bf77ff278cde12e1c2cd3bf62e4516c36199f00222157dd18903
+size 913

@@ -1,5 +1,3 @@
-liga lidský právo člen FIDE výzva následný schůzka konference bezpečnost spolupráce Evropa Vídeň smýšlející lidé velící veřídit vítat rezoluce evropský parlament
-lze důvěřovat vládaný požadovat jiný vláda zříci litr přít vesní násilí odmítat národ východní Evropa očekávat helsinský proces spojit evropský bezpečnost rozšíření lidský pravo
-liga zalozený říjen usilovat legální působení úřad zakázaný nebota existence moci ohrožovat bezpečnost veřejný pořádek
-zaznamenaný násilnostium dopustit bezpečnost občan
-prezident republika Gustava Husák generální tajemník KSČ MiloSi Jakeš protest poslední měsíc státní bezpečnost šikanovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e03b1dad282f098757fa421a837a6927bf5a828f817965ba253a1d883f60ecf
+size 721

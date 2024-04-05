@@ -1,2 +1,3 @@
-prohlášení říkat osud baltský národ vážný nebezpečí tamní situace vyžadovat naléhavý opatření
-ústřední výbor KSSS připomínat diktatura skupina lidé národ sovětský svaz hrozit bezprostřední nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:243fbd7e2dcef478d3b860321917f4ae835c3a81bc9da5b133d74b4648806082
+size 231

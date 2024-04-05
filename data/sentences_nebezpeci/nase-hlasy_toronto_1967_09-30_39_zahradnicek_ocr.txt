@@ -1,1 +1,3 @@
-jinudy mít báseň zámořský sladkost ovoce uzrálý jiný slunce zachráněný liký bouřit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:385b386ffe085417e91621c352c2d1591f31e4c3f824f9ebedffc24278e922ad
+size 109

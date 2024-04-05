@@ -1,4 +1,3 @@
- A takovou iluzí polapítelnosti duhy jsou také opravdu dětské představy o mírové koexistenci s komunismem a o naší bezpečnosti, která by byla možná bez obětí a bez opravdového úsilí.
- 2/ Označování současné vlády v Salvadoru za loutku CIA, Pentagonu a Wall Streetu, nadnárodních monopolů atd, Zcela se při tom pomíjí fakt, že tato vláda byla zvolena 80% země, zatímco síly pokroku a míru šly do voleb s heslem: Kdo dnes volí, zítra zemře! 3/ Ohroženou pověstí Spojených států jako záruky bezpečnosti a svobody, jako spolehlivého spojence.
- Státní bezpečnost v Praze využívá ke svým akcím i běžné stavební práce.
- Neučiní tak - řekl dále ministr Chňoupek - pouze v zájmu své vlastní bezpečnosti, ale ovšem "po boku Sovětského svazu a v zájmu bratrských zemí".
+version https://git-lfs.github.com/spec/v1
+oid sha256:033f56a992a60c6883d81479a0ee5c529f688bb4f59207da2d497fa0f4af4692
+size 837

@@ -1,3 +1,3 @@
-neutrální Švýcarsko uvědomovat hrozící válečný nebezpečí zažehnat ustálý ústupek sovětský imperialismus
-západoněmecký politický představitel vidět konzervativní obávat nebezpečí strana sovětský svaz prezident Reagan opak mít pravda
-sovětský blok tvrdit konference snížit nebezpečí jaderný válka podpořit věc odzbrojení
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f30e4271e1067882c0b5ebb07a3fdcf609fd5243f8c3e22572dbc3f5c9e97b4
+size 361

@@ -1,4 +1,3 @@
- “Posílíme i stranické vedení komunistů v o- zbrojených silách a v Bezpečnosti a budeme dbát o výstavbu a zdokonalování LM.
- "Posílíme komunistické vedení na závodech, v Bezpečnosti a v justici,” řekl Dubček, a my.
- Někteří spoluobčané byli ovlivněni obavami o svou osobní bezpečnost; jak se ukázalo, tyto obavy byly bezpředmětné.
- Dokonce ani komunistická Státní bezpečnost, která velmi přísně, až nelidsky vyšetřovala pozůstalé a byla přesvědčena o tom, že zůstali- na “kapitalistickém západě”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e00e0bca978b279c25c2496e816147c1bd420efb9be3c9915533b1f19537362
+size 558

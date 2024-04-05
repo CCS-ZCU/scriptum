@@ -1,1 +1,3 @@
-Ariel Scharon říci aktuální válečný nebezpečí spočívat možnost získání atomový zbraň arabský stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:48840ab8a67fcb65937af12009a01aa6051858e0dd47bb19be1285628e2c68db
+size 117

@@ -1,1 +1,3 @@
- To dohřálo Dana, a když zase houf opeřenců mizel v bezpečí, rozkřikl se na Tima: “Proč jsi, k čertu, nestřelil? Celé hejno jsi měl zrovna před očima!” “No jo,” odpověděl Tim, “vždycky když jsem na nějakou kachnu zamířil, vletěla mi některá jiná do cesty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e629f19380d57534f634743840e9d72b10f4e11afbd9c24d44c31e332dcf141
+size 292

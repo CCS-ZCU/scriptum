@@ -1,6 +1,3 @@
-bezpečný nebezpečí zákeřný
-moc zlo věčný absolutní štěstí pohádka padat klín nebezpečí zkouška
-jiný špatný vtip
-obhajoba smět dovolit čestný odvrátit nebezpečí litovat hájit hájit
-neděle svátek Nanebvsta pení pán konat církev tradiční světový den sdělovací prostředek katolík připomenout odpovědnost pole
-hlasovat mnohý stát třetí svět uvědomovat nebezpečí svoboda tisk návrh znamenat
+version https://git-lfs.github.com/spec/v1
+oid sha256:af2c2e6fe469fd3fe762c7413e0b0f72380fa6ee857b15018d05825cb0bfcc69
+size 439

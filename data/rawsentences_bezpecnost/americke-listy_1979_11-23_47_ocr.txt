@@ -1,2 +1,3 @@
- Výzva Rady bezpečnosti Spojených.
- Řek] však, že žádné vyhrůžky a žádná propaganda z Východu nezabrání Severoatlantickému společenství v tom, aby učinilo vše, co pokládej za potřebné pro svou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43245d5c71ac69c3345a82bd4088bd282c987b5cf125d5c2e76c675fe64d31a1
+size 231

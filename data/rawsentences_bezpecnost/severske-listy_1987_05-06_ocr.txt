@@ -1,2 +1,3 @@
- Gerd Engman vyjádřila také zklamáni švédské vlády nad tím, že tyto otázky nebyly diskutovány v podvýboru UNHCR pro otázky bezpečnosti.
- Pásmo posuzovalo i příslušné oddělení Bezpečnosti, ti ho však závadným neshledali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c9f755f0d9e353fc28ca18ebd3670f3a0e1cadb419c4e0e75b95587b38dd2e
+size 246

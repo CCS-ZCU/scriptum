@@ -1,1 +1,3 @@
-vláda americký systém prezident samozřejmý starat bezpečí občan sdělovací prostředek hezký udělat rovnítko sovětský svaz ozbrojený banda prohánět Libanon moci najít hezký logický
+version https://git-lfs.github.com/spec/v1
+oid sha256:3794b90b31a9b3df20bbe2359ef61b6c24605db4040f8a865e6d1321e28e01a4
+size 201

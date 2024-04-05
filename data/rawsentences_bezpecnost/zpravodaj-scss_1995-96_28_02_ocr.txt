@@ -1,3 +1,3 @@
- To poněkud brzdí snahy o modernizaci, kdy by přestárlé vozové soupravy byly nahraženy úspornějšími, ať už z ěeské nebo zahraniční výroby, a dále zlepšena automatizace i bezpečnost.
- To by vyžadovalo snížit náklady na bezpečnost, na zbrojení atd.
- Nebo proč BIS, odchovaná v duchu KGB, šťourala do hospodářské záležitosti Moravcovy banky, když se má zabývat bezpečností státu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba0a0f4ac2eb26b1bc9d7ec67c0081bf3dc05dcd1084bda50c88c79a46b46d11
+size 419

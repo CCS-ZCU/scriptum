@@ -1,1 +1,3 @@
-Ten^s ^pokládat důlež těaký nezeba bolševický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:aefe9901824fa60c6bf5bbf7196291e1da643e047c8e0a1bee3d3179b4b5eb2f
+size 61

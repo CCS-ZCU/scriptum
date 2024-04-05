@@ -1,2 +1,3 @@
- Byl to zřejmě poslední pokus Egypťanů zatlačit nazpět izraelské síly, než rezoluce Rady bezpečnosti vstoupí v platnost.
- Sbor vypracoval memorandum, nejdříve k přípravným jednáním a potom ke konferenci o evropské bezpečnosti a spolupráci, které poslal západoevropským vládám, vládám Spojených států a Kanady.
+version https://git-lfs.github.com/spec/v1
+oid sha256:193521257fe1819fccd27649d871b77d88bdb1d651afe4d6fea022f2cdee3d1a
+size 342

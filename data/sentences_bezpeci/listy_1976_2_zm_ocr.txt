@@ -1,1 +1,3 @@
-sjezd převládat ideo logický oblast tvrdý linie Suslův narážet odpor kruh sovětský vedení uvědomovat bezpečí otevřený konflikt silný západní komunistický strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc54f89ff09c88f63d5f340659121b69f63ba12c6e31354e46ab63625b3c86d
+size 180

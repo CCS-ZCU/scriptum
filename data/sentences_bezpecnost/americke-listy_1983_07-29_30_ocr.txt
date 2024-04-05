@@ -1,4 +1,3 @@
-Tomáš Liška propuštěný svoboda bezpečnost odvézt bartolomějský celodenní výslech snažit umístit protialkoholní kožní klinika
-státní bezpečnost přistihnout sloužit hlášený mše lesní kaple bydliště
-dobrozdání psychiatr státní bezpečnost
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2607b7728fb13dc6f1f91d77470d20171fce30b00a7971074f325dcda71dc07d
+size 270

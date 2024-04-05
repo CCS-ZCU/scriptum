@@ -1,1 +1,3 @@
-zpravodaj strana motorismus jÉÉ u_styt příprava zima technika jízda zima psát doplnit kapitolek další rada srovnání bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:20158994392ac0801d9d92313c4cca03e1f77e2efbe433e9eebddca232c004b8
+size 138

@@ -1,1 +1,3 @@
-bezpečí zplo
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ecaca02402224ac134c36ab70c0d7f390ebe5b3519e9b2a64553f8b3adb2e6d
+size 15

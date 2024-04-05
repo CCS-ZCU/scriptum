@@ -1,1 +1,3 @@
- Neskrýváme se snad v bezpečí za humny, zatím co bezbranná vesnice je pleněna a drancována ? Nevyčkáváme někde v zátiší za kostelní zídkou, zatím co nepřítel Boží pustoší kostel a svatokrádežně vylamuje svatostánek ? Je třeba zasadit sekyru ke kořenům v boji proti bezbo- žeckému komunismu; ke kořenům, i když se tím snad vystavíme násilnostem a hrubosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:986801e51559864c7394bf8f441dbb8739f8bb8ed6010fc8f0fb7abc302dfe66
+size 393

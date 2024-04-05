@@ -1,1 +1,3 @@
-úmysl starý pokušitel rozdrtit záklrl k^os nskat kultura nebezpečí církev nlěet n<v
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a0110473296a42b6cb93aa944e9c26b9598a73701d6356ff8d95d68323efd9d
+size 92

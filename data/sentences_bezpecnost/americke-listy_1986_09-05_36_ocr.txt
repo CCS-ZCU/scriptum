@@ -1,1 +1,3 @@
-atentát papež bezpečnost přísný náměstí procházet ostražitý stráž
+version https://git-lfs.github.com/spec/v1
+oid sha256:51a8855dc31cc29abeaaaf191a3f60e8f8dccd00fd1e93490e0e607d11a4ddae
+size 80

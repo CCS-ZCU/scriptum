@@ -1,2 +1,3 @@
- A v telegramu přál úspěšné jednání účastníkům Mezinárodní konference mimovládních organizací, která měla za téma odzbrojení, a dodal, že skutečná a trvalá bezpečnost může být zajištěna jen vzájemnou důvěrou a bratrskou spoluprací všech národů.
- * Nové známky vyšly: jedna známka na heslo Za bezpečnost silničního provozu s výstražným symbolem opuštěného dětského míče na silnici a nápisem »Silnice není hříště ani závodní dráha«; pět známek k propagaci Sv&tové výstavy poštovních známek PRAGA 1978 se znázorněním pamětních mincí, vyrobených v Státní mincovně v Kremnici: k 20.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbba4b9ac063fe397e9c37f15a66aeeceaf445df329b9f74104493a1fecaaa9b
+size 661

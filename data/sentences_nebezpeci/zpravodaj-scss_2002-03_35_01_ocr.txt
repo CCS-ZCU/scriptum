@@ -1,3 +1,3 @@
-myslit politik politický strana muset mít vlastní názor soudobý civilizační vývoj svět země muset schopný názor volič vysvětlit vývoj prozrazovat rozmanitý nebezpečí hrozba
-náboženství nebezpečí útočit křesťan žid válka věřící věřící bin Ladinův slovo
-znát německý dokumentace Eliášův ukazovat generál sledovaný nebezpečí rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:5238eb0638d2f04c0f0f126601c9f50d83458b76235ea46c8c236d042dac8538
+size 374

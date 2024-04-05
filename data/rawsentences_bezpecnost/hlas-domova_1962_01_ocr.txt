@@ -1,2 +1,3 @@
- Štrou- gal se zúčastnil, jednání celostátní konference Pomocných stráží Veřejné bezpečnosti, které “pomáhají zajišťovat v době pracovního volna veřejný pořádek a společenské hodnoty.
-” Hlavní referát měl náčelník hlavní správy Veřejné bezpečnosti generálmajor Janulík.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16da53825944002a601718650f879f66762ee616eb2120a350c41f49da762395
+size 314

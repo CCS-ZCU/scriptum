@@ -1,1 +1,3 @@
-přesvědčovat trauma Mnichov dozrát bezpečí první republika trauma český politika národní sebevědomí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56bd8517e0523b4e9dac9758b6351980e972a54acf852753e33a517de158d7d
+size 113

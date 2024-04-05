@@ -1,2 +1,3 @@
-odstranit zákaz činnost komunistický strana nebezpečí komunistický puč
-vzájemný diskuse občan národ chybět vzrůstat nebezpečí problém soužití stát záležitost emocionální uražený Čech hlasovat společný stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f56b76a447cbec3824f90d81fcb30a321db6db601ebbc88b15bb8234888a463
+size 235

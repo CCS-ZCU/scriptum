@@ -1,1 +1,3 @@
- Komunisté totiž dokázali infiltrovat bezpečnost, tvrdí historik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:730c6f0e47584d7641abbbabc01d40cb6e7bf868f14820c365345ab0fbcb23b9
+size 71

@@ -1,3 +1,3 @@
-nebezpečí směs nenávist hněv odcizení strach zhoršit národnostní bouře politický chaos labilita
-moci poslechnout občan Svobodka zachít hukot rušička nebezpečí síthat
-zaměstnanec porušit přestávka činit vlastní nebezpečí zkrácený hokejista NHL předešlý sezóna
+version https://git-lfs.github.com/spec/v1
+oid sha256:0159bb30caa6dac7902988941a8fbf556b7fb20d3687491a280a572a8b819f7f
+size 291

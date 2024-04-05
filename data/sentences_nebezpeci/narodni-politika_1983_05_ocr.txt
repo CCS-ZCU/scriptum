@@ -1,8 +1,3 @@
-Krušnohoří zbytečný mluvit Krkonoše zasažený procento les nebezpečí Jeseník Beskydy ohrožený šumavský jedlo mladý smrkový porost
-dělat problém pomyslný ohrožení doceňovat nebezpečí léta reálný vážný svědčit naprostý lehkomyslnost neschopnost stranický vedení záměrný matení odvracející pozornost
-opovážit přezírat válka trvat
-hrozit nebezpečí stát stát předmět kult lze diskutovat ospravedlňovat zavrženíhodný akce
-hrozit nebezpečí uváznutí dialog posloužit závod zbrojení
-předmět mezinárodní dialog nebezpečí plynoucí závod zbrojení
-výstraha edice archa bavorský genfelda vydat redakce Jaroslav Kučera kniha výstraha Alexandr Solženicyn výrazný podtitulek smrtelný nebezpečí komunismus
-přehlédnout český socialistický politik šance český demokratický politik přehlédnout hrozící nebezpečí obrátit rozpor globální tendence lokální možnost národní neprospěch
+version https://git-lfs.github.com/spec/v1
+oid sha256:683e60724133543c417b37b7be4b1f610e8bacc0822edb9ff707e1807e0c7b55
+size 966

@@ -1,5 +1,3 @@
-začátek šedesátý léta doba prudký studený válka západ hospodářský starost sovětský zázemí objevit nový nebezpečí
-úřední ideolog muset vysvětlit hrozit vzájemný válka kapitalistický imperialista hrozit válka Sovět západ jediný hrozba světový míra nebezpečí válka komunistický stát
-Hantýrek studený válka nebezpečí útok kapitalistický svět vystačit
-ideolog muset hledat nový jazyk odůvodnění svěrací kazajka bránit vznik vnitřní nebezpečí
-pravda drobek smetený pánův stůl záruka další drobek následovat cena trvalý nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d1dd3c56d309e634c2721e2fae9ddbe5e4101e16cb49dc81bc0a9903c58705
+size 601

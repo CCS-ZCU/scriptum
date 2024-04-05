@@ -1,6 +1,3 @@
- Část konzervativců si uvědomila, že primitivní a svými požadavky brutální anonymové, opěvující Viléma Nového a Jodase, se za příznivých okolností propracují nanejvýš do funkcí vyšetřovatelů Státní bezpečnosti a inteligentnější snad i mezi různé kádrováky, než mezi ty, kteří zasedají ve Španělském sále a hrubou prací si ruce nešpiní.
- Po skončení vzpomínkové slavnosti, především ve večerních hodinách došlo na náměstí Míru k několikerému střetnutí občanu s příslušníky Veřejné bezpečnosti, kteří použili pendreku, hasičských stříkaček a slzného "dynu, aby rozehnali davy, které se tu shromáždily a projevovaly nelibost se sovětskou okupací země.
- Podle časopisu „Večerní Plzeň“ — citujeme — „Na příslušníky Veřejné bezpečnosti začali házet kameny, cihly, později květináče a vejce.
- Jaroslav Neumann-Navrátil, kteří potvrdili, že jako spolupracovníci Státní bezpečnosti tenkrát splnili jeji příkaz a nastrojili vysokým, skautským funkcionářům provokační léčku, kterou tito obětaví a nezištně pracující junáčtí činovníci zaplatili dlouhými léty v uranové oblasti, ztrátou jmění a tvrdým postihem svých rodin.
- Celá řada občanů situaci pochopila a odešla, někteří vsak v urážkách a napadání příslušníku Veřejné bezpečnosti pokračovali.
-" Událost vzrušila celou Plzeň, neboť ve městě panuje přesvědčení, že zásah Veřejné bezpečnosti proti demonstrantům byl zcela zbytečný.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7469e2e5b71a91b6dd0ce7cbb96e24f63ab7d88a2995d5c7c291afab744ab55d
+size 1568

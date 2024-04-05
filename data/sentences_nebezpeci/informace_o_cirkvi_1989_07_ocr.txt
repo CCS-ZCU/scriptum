@@ -1,2 +1,3 @@
-kampaň hovořit preservativní prostředek osoba vystavený nebezpečí onemocnění
-bezpečnost oklat vidět nebezpečí agitačněpopagtieknistieký pracce
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c0a251c8841ecd9801ffe934f55ec964f490bec96fd11c4e8675de53e9dfd63
+size 159

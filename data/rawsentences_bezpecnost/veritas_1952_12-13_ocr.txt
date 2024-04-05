@@ -1,1 +1,3 @@
-il z bezpečnost nich dttvodfl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e8ded513331e0dbc5bdd8c8c9211f77023a03e48eeaa47b30aef610255d63fc
+size 32

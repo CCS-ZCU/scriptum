@@ -1,2 +1,3 @@
- “Sovětská špionáž je dnes větší hrozbou pro americkou národní bezpečnost než byla před devíti, deseti lety”, říká Edward O’Malley, náměstek ředitele FBI.
- KGB, s hlavním sídlem na Dzeržinského náměstí v Moskvě, má čtyři hlavní oddělení, sedm nezávislých ředitelství a některá zvláštní oddělení, zabývající se vnitřní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d4d0f3316df095d481ac29326362fc775867412a7d53e4174420960b463950d
+size 389

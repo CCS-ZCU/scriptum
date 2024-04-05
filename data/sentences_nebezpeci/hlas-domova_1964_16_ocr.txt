@@ -1,1 +1,3 @@
-nebezpečí rozšíření konflikt vzduch stát akutný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba49c817656ae1c7712c48079551545632676289aaa7ae8f1cb121bf3e35b7a9
+size 56

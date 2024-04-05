@@ -1,1 +1,3 @@
-československý vláda
+version https://git-lfs.github.com/spec/v1
+oid sha256:14d671eb9252cfcbc45a90578e568dbf31832b46a4b5486243304406f1c0f494
+size 24

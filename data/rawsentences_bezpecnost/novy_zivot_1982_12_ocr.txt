@@ -1,2 +1,3 @@
- Jan Zahradníček jsou ona obsažená ve Všeobecné chartě lidských práv, v Evropském prohlášení o právech člověka, v Závěrečném aktu konference o bezpečnosti a spolupráci v Evropě; jestli Evropa znovu bude jednat v životě spíše náboženském s patřičným uznáním Boha a úcty k němu, v němž je přece základ každého práva a každé spravedlnosti; jestli Evropa znovu otevře své brány Kristu a nebude se bát otevřít jeho spásonosné moci hranice států, ekonomické i politické systémy, široká pole kultury, civilizace a rozvoje — pak je jí budoucnost nezůstane ovládána nejistotou a strachem, ale otevře se nové epoše života, uvnitř i navenek, života blahodárného a směrodatného pro celý svět, který je stále ohrožen mraky války a možného uragánu atomického zničení všeho.
- Josefa Berana a Přemysla Pittra), Politika, Diplomacie, Armá- da-Bezpečnost, Literatura, Věda a Technika.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6345219b4e905368c374cc5d0b863c2caba4283aa419e1d32f62c69bac2f1fda
+size 961

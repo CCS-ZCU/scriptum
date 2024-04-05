@@ -1,1 +1,3 @@
- Je příznačným jevem, že snad v málokteré zemi je literární tvorba předmětem soustředěného zájmu, spíše bych řekl terčem STB (státní tajná bezpečnost!) jako v zemích koruny svatováclavské.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a330aea0ffb6081a88c695f24b3be56a3b2c4a399cd67434d04e8409e3cdb58
+size 215

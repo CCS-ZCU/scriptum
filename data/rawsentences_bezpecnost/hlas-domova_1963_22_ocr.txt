@@ -1,1 +1,3 @@
- Když Ján Valko našel oběť svého hrozného sobectví, vhodil ji do potoka v naivní víře, že bezpečnost usoudí na utonutí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95359aa13e4f493264a5d561d3925ded34477b29b286d7dcff04991819e71bb1
+size 135

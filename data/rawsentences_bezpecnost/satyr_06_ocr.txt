@@ -1,1 +1,3 @@
- roto e se vkude dodržuje pravidlo /i u Vích na bezpečnosti/ jeden za všechny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e4b76e0275604dfdfdaaf39821389bde064fe8df5fc674f86f09a59afc96d9
+size 83

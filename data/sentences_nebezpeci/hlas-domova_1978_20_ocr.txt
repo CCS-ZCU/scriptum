@@ -1,1 +1,3 @@
-mít sledovat úřední oznámený část stát zvýšený nebezpečí požár zakázaný zažehnout oheň příroda
+version https://git-lfs.github.com/spec/v1
+oid sha256:57b0cc3d22bcb8e4f680f7380d3d13beec7bcff9f94c3305b358b9c7fdb735bb
+size 117

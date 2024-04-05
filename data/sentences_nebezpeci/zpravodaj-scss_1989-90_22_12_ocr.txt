@@ -1,6 +1,3 @@
-hoch vedení KSČ poučilit
-velký nebezpečí spatřovat polovičatost kompromis
-hrozit nebezpečí podcenit zlo
-dozvědět připomínat vlastnost zakořeněný český slovenský uprchlík závist spojený udavačství pozbýt filuto právo právo azyl pominout nebezpečí člověk volit trpký osud exulant
-nebezpečí vyloučený
-radit uprchlík konvenční pas jezdět vízum zvláštní papír poctivý mravný skrývat vážný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:414ecd7f8451008811697e6900e967afbae67ad28b72da11030868f7fea3ddc8
+size 448

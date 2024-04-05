@@ -1,1 +1,3 @@
-krok alé skok padesátý léta bezpečnost všemocný ostatní účastník trestní řízení obhajoba okrasný ■fasádou mít dodat zdání spravedlnost justice
+version https://git-lfs.github.com/spec/v1
+oid sha256:1720f126edc03a5f47594dacb4fb7c0e4043a231c3f921e50fc1f4c53866d059
+size 166

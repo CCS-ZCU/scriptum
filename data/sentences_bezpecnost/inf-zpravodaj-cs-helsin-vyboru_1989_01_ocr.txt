@@ -1,5 +1,3 @@
-výbor evropský bezpečnost vzniklý výbor československý
-Jiří Hájek ustavení československý helsinský výbar
-výbor evropský bezpečnost zainteresovaný občan
-výbor evropský bezpečnost spolupráce výbor československý
-rád pozvat představitel výbor bezpečnost spolupráce Evropa zástupce ministerstvo zahraniční věc delegát československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:16001e573ddc869f3aaccbad8b7869e5f5fb69b1d7e26821652814b987dc109f
+size 370

@@ -1,3 +1,3 @@
- Jen v Moskvě musel maršál Achromějev čelit starostlivým otázkám některých sovětských novinářů, zda Sovětský svaz vlastně nehazarduje se svou bezpečností, když se tak náhle vzdává pozice, která byla ještě před nedávném údajně nedotknutelná.
- Od prodeje Karlštejna není daleko, jak autoři praví, ke kupčení s těmi nejsvětějšími hodnotami, jako je vlast, její bezpečnost, suverenita atd.
- V diplomatických kruzích se poukazuje na to, že Hans-Dicirich Genscher se v Radé bezpečnosti zasazoval o takovou formulaci, která by dovolila Íránu rezoluci akceptovat - a Íránci prý o tomto pozadí odhlasované rezoluce Bezpečnostní rady védí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8426663a6eacaa2265e572c31e2465c357af2ddc6ec4269febe0faf4d059fb99
+size 693

@@ -1,2 +1,3 @@
-Ridgwaa poradce Department bývalý konsul Moskva Warren Zimmerman zástupce Department americký delegace Madrid Spencer Oliver ředitel komise bezpečnost spolupráce Evropa
-účastník bílý dům vyslechnout projev prezidentův poradce národní bezpečnost Zbignieva Brzezin ska prezident carta
+version https://git-lfs.github.com/spec/v1
+oid sha256:41a36c814007405280fb6d400ae7e74f746b99098dc3c46ed33a0a67935d4c60
+size 301

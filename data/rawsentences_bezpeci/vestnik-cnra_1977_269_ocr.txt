@@ -1,1 +1,3 @@
- (Obsazení Československa sovětskou armádou není vměšování se do vnitřních záležitostí?) Velice se uplatňovala naše kongresní komise pro bezpečí a spolupráci (Congressional Committee on Security and Cooperation), o které jsme již mnoho psali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22da4d5884785aa8086bc99689e864bfa1722cdfd263a5639fee29a0a2c8484f
+size 164

@@ -1,1 +1,3 @@
-proletít oběžný dráha země nebezpečí sratý zilo hlava přiblížit pouhý kilometr
+version https://git-lfs.github.com/spec/v1
+oid sha256:d26ff2dd2b7c3bf35d0df1c0616301319aada29810ac8d9d41a8e8856701a491
+size 87

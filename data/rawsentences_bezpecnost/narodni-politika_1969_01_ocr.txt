@@ -1,2 +1,3 @@
- Mohou tedy, v určitých případech v zájmu urychlení jednání neb z důvodů ohrožující bezpečnost země, se usnést na společné schůzi.
- Ve svých projevech o zahraniční politice kladl vždy Kramář důraz na to, že nesmíme slepě věřiti ve vše- mocnost Společnosti národů, a účinnost nejrůznějších paktů o neútočení nebo o kolektivní bezpečnosti, nýbrž že si sami musíme býti hlavní oporou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e237bb8731f8894ff982c9dad7b4343afa9d009ca546cc82f1dac748bee6028d
+size 435

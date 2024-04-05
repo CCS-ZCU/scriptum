@@ -1,1 +1,3 @@
- Sblíží-li se skutečně a dostane-li se komunistická Čína s francouzskou pomocí do Spojených národů, kde na ni čeká stálé křeslo v Radě bezpečnosti, není nadsázkou říci, že studená válka vejde do zcela nového a zcela nevypočitatelného období.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98653e7bc0acd6f162778f6d996afb1e8578fb22ed02016f170dfc1d65d53a2
+size 272

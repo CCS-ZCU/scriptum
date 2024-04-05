@@ -1,1 +1,3 @@
-překonat překonávat věčný trach dokázat léta socialismus naočkovat spojený činnost vybočující vyjít kolej vnucený způsob život ukazovat zbytečný
+version https://git-lfs.github.com/spec/v1
+oid sha256:47137fb0d0f2515ce9eca37a6bfb2b4d4a2e91d3ffe602bce9841694a1c49dfc
+size 166

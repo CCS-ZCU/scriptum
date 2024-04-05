@@ -1,1 +1,3 @@
- Je to těžké, ale nutné, neboť užívání siláckých výrazů v bezpečí je nedůstojné této tragické chvíle v životě našeho národa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e89e4ff71464482cac4199ad1569249217158fa885feaaed29ee0830ff4fdbc8
+size 149

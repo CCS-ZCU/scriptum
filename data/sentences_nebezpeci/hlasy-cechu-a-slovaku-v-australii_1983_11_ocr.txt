@@ -1,1 +1,3 @@
-umělec oddaný stoupenec pokrok revoluce moci vidět nebezpečí podřízení vysoký zájem hrozit umění myšlení hledání pravda představa poslušný služební umění rozejít
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece898861ae2c1379bdda073bb1cf0062539a1470009fe7810b8932d98ebbde8
+size 186

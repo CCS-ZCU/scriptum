@@ -1,1 +1,3 @@
- října 1881, aby se jubilejní veřejné cvičení v novoměstském divadle nekonalo, poněvadž nevyhovuje ani velikostí, ani bezpečností a na návrh dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc3e50d78f731cee4832761e8553304a6e583b6a0c13db6cb5805c1bdc69fad1
+size 160

@@ -1,2 +1,3 @@
- A protože v něho musel věřit, věřil ve svobodu a štěstí, ve svou bezpečnost.
- /ždyt pro svou bezpečnost naplili 1 základnu u svých nohou raketami a atomovými hlavicemi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf98865a82de4dc14c551f6e4784ac748f10f3a7b72b64ffe779d0aacde520eb
+size 185

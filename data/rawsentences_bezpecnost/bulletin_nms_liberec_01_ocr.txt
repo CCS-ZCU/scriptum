@@ -1,1 +1,3 @@
- všech úrovních,které posílí bezpečnost a důvěru mezi národy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:113b6502295244e417ca79e25965cd6552ede5262d1fbc7ca7b3f7d371aeac56
+size 72

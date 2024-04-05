@@ -1,1 +1,3 @@
- A je historickou skutečností, že i sama slovenská strana byla nakonec do jisté míry zaskočena dohodou o rozdělení, protože si alespoň někteří její členové uvědomovali, že opouští bezpečí „rodičovského domu“ a jsou vrženi do světa vlastní zodpovědnosti - abychom zůstali u předchozí metafory- a nevěděli, jestli to vlastně takto chtěli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1ca6b23a3b6315fcd5aefbbfd4f045e5e487a6a91a9d4cdeb427b83be37813
+size 375

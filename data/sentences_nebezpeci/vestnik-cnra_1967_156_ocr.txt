@@ -1,3 +1,3 @@
-nutný střední východ skončit stav nejistota založení izraelský stát pařeniště nenávist nebezpečí válka
-rozhlasový stanice městský poplachový siréna oznamovat nebezpečí tornádo předčit návštěva očekávání
-spravedlnost zvítězit střední východ muset zajištěný skýtat demokratický svět jedinečný příležitost odvrátit nebezpečí hrozící míra svoboda národ nebezpečí ztělesněný komunistický velmoc obohatit poválečný olupo vání sousední stát zabírání území zotročovaní lid
+version https://git-lfs.github.com/spec/v1
+oid sha256:f43633ef45b9af1c426b4861b5ad7b2b0be51942fdf4c46020021cc07fb71f15
+size 540

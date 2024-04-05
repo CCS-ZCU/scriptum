@@ -1,4 +1,3 @@
- Východní Německo se snaží o svolání konference o celoevropské bezpečnosti.
- je důležitý krok směrem k míru a bezpečnosti.
-” Vedoucí linií sovětské politiky v Evropě je dnes variace na téma kolektivní bezpečnosti a nástupu Edových front, jako tomu bylo v třicátých letech.
- A jak byly úskočné sovětské záměry před třiceti lety, tak je dnes falešný základní předpoklad nějakého nového systému kolektivní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78bca89a961d478c559f9aded3b52cd7f485d69e2859c79013af1d404c85e8a
+size 466

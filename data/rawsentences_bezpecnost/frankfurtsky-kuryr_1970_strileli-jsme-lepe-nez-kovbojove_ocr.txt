@@ -1,2 +1,3 @@
-výboru pro státní bezpečnost“ (KGB) při čs.
-l964 jsem byl poslán jako spojovací důstojník k sovětské tajné službe do prostoru Jáchymov - Karlovy Vary a za pár měsíců do školy sovětské státní tajné bezpečnosti do Leningradu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cf4021b28dfc3a8f7cc6317be8507338183b423f89748d0cfd6116063076311
+size 252

@@ -1,6 +1,3 @@
-opoziční řeč pře kročit tolerovaný míra hrozit nebezpečí strana dohodnout charakterizovat situace pokus rozbití národní fronta hrozit krok protivník postup nutit
-jednání instituce bílý lístek určitý nebezpečí boj moc nebezpečí občanský válka
-Stránský záležet dosáhnout přestat nebezpečí monopol strana demokratický život moci vyvíjet
-nebezpečí zažehnaný komunista musit včlenit demokratický národní fronta chtít mít strana strana
-nebezpečí rozpouštění politický strana existovat
-nebezpečí předstat vojet bánální člověk
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9007db87416395e91feff4de4029db7d34ee0ed08618171bd0e14435d9148b
+size 579

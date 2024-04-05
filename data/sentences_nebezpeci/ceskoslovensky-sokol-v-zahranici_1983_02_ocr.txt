@@ -1,2 +1,3 @@
-začínat velký nebezpečí známý přítel krajan sestra bratr slovo mít důvěra rouška tajemství důvěrnost sdělit určený plný důvěra toba ochotný tvrzení stát
-uváděný důvod omluva jednání nebezpečí známý příbuzný prostředí omezený moc mít diktátor přisluhovač
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73e2fcc863ebcf3ba05eb4e59a2d6299d7f9042ff7258389f0b2f0d9b09b69b
+size 299

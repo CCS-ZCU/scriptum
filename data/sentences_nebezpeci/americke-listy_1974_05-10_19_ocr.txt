@@ -1,1 +1,3 @@
-Teige propagandista kritický pozorovatel váhat upozorňovat nebezpečí socialistický realismus odhalovat zpátečnický povaha Ždanovův kulturní politika
+version https://git-lfs.github.com/spec/v1
+oid sha256:0354351b0972aadcb901677d0c226abcf29ba01de18bad564bba96c938353164
+size 161

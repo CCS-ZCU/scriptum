@@ -1,1 +1,3 @@
- měla kongresní Komise pro bezpečnost a spolupráci v Evropě zvláštní schůzi se zástupci různých náboženských, kulturních, etnických a jiných organizací, které s ní spolupracují, pokud se týká sbírání dokumentace o porušování lidských práv v zemích signatářů Helsinské dohody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d44cb5a4a72cea476b3b39d3062ad4ff3bb55a0aa09d99451d182f4fc1e23e8
+size 313

@@ -1,1 +1,3 @@
-listopad zpravodaj spravodaj
+version https://git-lfs.github.com/spec/v1
+oid sha256:59ee7f45e8b37349b6cce18c4662caf5ed619f5d461a6b4f4dbfaca2f5f2381d
+size 29

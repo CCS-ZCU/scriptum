@@ -1,1 +1,3 @@
-seznámit úřadovna státní bezpečnost Havel říjen odsouzený měsíc vězení nebezpečí odsouzený výtržnost muset odpykat trest uložený
+version https://git-lfs.github.com/spec/v1
+oid sha256:a032bc02db0cb43ac3652f0fefae02bc9ef4509720f0510f5af4cdd590bc7624
+size 149

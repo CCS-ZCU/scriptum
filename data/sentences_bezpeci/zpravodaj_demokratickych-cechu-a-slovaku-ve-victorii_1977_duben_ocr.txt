@@ -1,1 +1,3 @@
-Hotham bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b9bba985ad3dd304237d292a302d2480b135821840d455503a7300c63a4569e
+size 17

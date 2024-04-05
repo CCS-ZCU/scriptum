@@ -1,1 +1,3 @@
-smilovat pomoci dostat područí hřích žít bezpečí zmatek očekávat naděje požehnaný příchod spasitel Ježíš Kristus
+version https://git-lfs.github.com/spec/v1
+oid sha256:d42fb2bcc4500c272f4c89e662a0ce632585e0d0b3bceb5c59df359ae2dced01
+size 131

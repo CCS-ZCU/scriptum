@@ -1,1 +1,3 @@
-vzniknout nový tip krajina jistý čas potrvat ustálit vztah vytvořit nový společenstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:a04b587a5202807f75fdd33e98d77d4ec574eb27d0ed0f98626ba4d5b29ba811
+size 93

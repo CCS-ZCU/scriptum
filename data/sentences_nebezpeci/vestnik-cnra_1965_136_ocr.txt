@@ -1,3 +1,3 @@
-Čech Slovák mít souvislost veliký obava svobodný západ úsilí udržení svoboda jihovýchodní Asie rychlý obnovení míra zažehnání nebezpečí atomický válka zapomenout národ střední východní Evropa smířit dnešní stav nesvoboda porobený evropský národ odepsat Československo
-slíbit představovat americký větev československý lid
-možný případ použít nebezpečí nevkus
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b61deac4b1549045084629c5bc60293a0a1ab2834d331f49163b2c4170f5ae
+size 408

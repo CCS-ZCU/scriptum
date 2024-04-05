@@ -1,5 +1,3 @@
- na oddělení Bezpečnosti ohlásí prý- nalez marihuany, kterou měla sebou přivézt.
- Bezpečnost zdá se nepohrdne ani primitivy nejniž- šího stupně.
- Další obdobný bod tvořil pohled na terorismus a krizi na Blízkém východě: Natta i Gorbačov zdůraznili, že je třeba se soustředit na kořeny terorismu, vyřešit palestinskou otázku a zaručit Izraeli bezpečnost.
- Dodejme, že vyváženost tohoto druhu, tedy stejný důraz na územní autonomii pro Palestince a na bezpečnost Izraele, nebývá v sovětských posicích obvyklá.
- patřila k nim i vzpomínaná rozmluva s majorem Státní bezpečnosti, kter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceafccf296c5ca4f192b8c3dc512cfec96550ae9785796b865ce9449d911db87
+size 635

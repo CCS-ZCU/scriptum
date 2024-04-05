@@ -1,1 +1,3 @@
-dorůstající dítě prohlédnout trik dospělý hrozit nebezpečí skončit věřící
+version https://git-lfs.github.com/spec/v1
+oid sha256:acab25383c45c75a57268119c8c9ae97272d6a2171269cef5b91ccdcdb4421f9
+size 89

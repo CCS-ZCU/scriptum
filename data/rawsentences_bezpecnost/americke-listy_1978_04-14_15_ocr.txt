@@ -1,8 +1,3 @@
- Jsem potěšen, že konference o evropské bezpečnosti a spolupráci, která začala, v Helsinkách, bude v roce 1980 pokračovat v Madridě a že se snažíte hledat rozšíření možností spolupráce mezi pětatřiceti účastníky konference v Bělehradě .
-'Víme, že cesta k míru, bezpečnosti a spolupráci je dlouhá a svízelná .
- Proces evropské bezpečnosti a spolupráce není a nebude snadný Bylo by nerealistické očekávat, že kontrolní sy- št 'mv, které se vyvíjely po desetiletí a které stojí na komunistických teoriích o roli strany, státu a průmyslu, by se mohly uvolnit během několika málo let.
- Washington proto rozhořčeně chápal každý sovětský krok — Vládní opozice a Andrew Young Republikánská oposice vyslovila své oficiální stanovisko na tiskové konferenci ústy svého předsedy národního výboru strany Wil- liama Brocka a předsedy poradního výboru republikánů pro národní bezpečnost Freda Ikla.
- Oficiálni stanovisko republikánu, vypracované I klovým výborem pro národní bezpečnost, žádá radikální změnu africké politiky vůči Kubě a jejím africkým ať v angolské občanské válce nebo na Africkém rohu — jako porušení zásad uvolňování napětí.
- Kri- tisoval Carterovu vládu, že nebere dostatečný ohled na bezpečnost Tajwanu a Jižní Koreje.
- Alešem Macháčkem a Jiřím Laštův- kou, pro mne do práce přijela státní bezpečnost.
- Vyšetřovatel mne pak požádal o vysvětlení, proč jsem odmítl na výzvu orgánů Bezpečnosti jít s nimi, takže mne museli odnést.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c2fb4ebfbb564586ebb460f581a83cc8660da735896e6d88330d44fee2f2c27
+size 1595

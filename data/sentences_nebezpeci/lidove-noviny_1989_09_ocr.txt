@@ -1,2 +1,3 @@
-Čejka umělec protestující totýl tářský praktika moc chápat nebezpečí avanturismus
-dovědět chápat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:edd75146ea83dfa9e5d350fa4c9ec3c571793e1a8dbff3432ed6f4c09fdd2f7e
+size 189

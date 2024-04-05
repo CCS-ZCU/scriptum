@@ -1,1 +1,3 @@
- února 1949 odsouzen do vězení na doživotí, prý pro velezradu, špionáž, ohrožování státní bezpečnosti a nedo- volené devizové transakce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d98b58066b929b4e6ce76c7667e19c9d990e4de0a0ae3dea5f4a256bd7ee9042
+size 154

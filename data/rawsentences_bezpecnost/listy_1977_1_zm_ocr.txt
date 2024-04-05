@@ -1,8 +1,3 @@
- článku 12 prvního paktu, zaručující občanu právo svo- bodně opustit svou zem; pod záminkou "ochrany národní bezpečnosti" (bod.
- "Dotvořit systém kolektivní bezpečnosti a mírové spolupráce tak, aby mohl být posléze dotvořen i v oblasti vojenské.
- Schmidt ve svém vládním prohlá- šení uvedl atlantické společenství za základ bezpečnosti NSR, ho G.
- To je otázka elementární bezpečnosti.
- Školství, doprava, veřejná bezpečnost, správa park ů, jakostní označení poživatin, skoro všech- no, s Čím se v běžném životě setkáte — s výjimkou pošty — spadá výhradně do pravomoci toho Či onoho státu.
- To zejména proto, že způsob, jakým bylo ono sociální či lépe sociálně politické pozadí studentů zjišťováno, přesahoval daleko rámec kompe- tenči školských orgánů a velmi rozhodující roli v něm hrály orgány politické: stranické organizace, okresní a krajské výbory strany, ne zřídka i orgány bezpečnosti, V posledních dvou letech se od otevřeného zdůvodňování komplexním hodnocením upu- stilo.
- "K Národnímu divadlu?", opakuje si přís- lušník SNB, A pak rozhodí bezmocně oběma volnýma rukama: "Tak to nevím 1*' * * * IV středu bylo možno potkat na Národní třídě a na nábřeží spoustu příslušníků Sboru národní bezpečnosti s bandaskami, džbánky a lahvemi.
- * * $ Příslušnici Sboru národní bezpečnosti dělají zkoušky, aby mohli být povýšeni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f89a80f9c78e4cc66cc1997d1ad219c14f30deedba6e46343e899557282c3793
+size 1489

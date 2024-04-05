@@ -1,4 +1,3 @@
- Letos se setkal kancléř Schmidt s Titem v Helsinkách, kde se zúčastnili konference o bezpečnosti a spolupráce v Evropě.
- V době odsunu se konstituovala Státní bezpečnost, jejím pracovníkům se dostalo prvé příležitosti učit se nejenom vyslýchat, ale i mučit.
- Je také stále zřejmější, že úsilí, o sjednocení západní Evropy a úsilí o rovnováhu sil a tím bezpečnost západní Evropy, má svou oporu v NSR.
- Také problémy vnitřní bezpečnosti států a zrušení pasových kontrol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f902a2c342702dcd922eea32628a4545c5ac933a8d6547803cb5ed6dc974824
+size 522

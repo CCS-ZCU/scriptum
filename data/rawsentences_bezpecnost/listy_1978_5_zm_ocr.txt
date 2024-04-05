@@ -1,16 +1,3 @@
- Před třemi roky se mi v Budapešti dosta- lo mimořádné cti: aspoň stovka příslušníků státní bezpečnosti se pokusila zabránit, aby se studie, kterou jsem s přítelem napsal, do- stala na veřejnost.
- Mohli bychom říci, že pracovníkovi stát- ní bezpečnosti jde o uchování hierarchie je- ho hodnot, zatímco avantgardnímu básníko- vi jde o osobní svobodu.
- Další dálnopisy přišly na bezpečnost, pak na OV strany.
- Z hovoru se dá ale usoudit, o co se jedná: držet na uzdě propagandu, zastavit protiso- větskou propagandu, dát do pořádku vnitřní bezpečnost státu, protože oni tvrdí, že hro- zila kontrarevoluce a mají pro to argumenty, dát do pořádku armádu a ponechání vojsk.
- Bylo by to také v souladu se závěry helsin- ské konference o bezpečnosti a spolupráci v Evropě.
- protistátní trestné činy nebo ty, na nichž má Státní bezpečnost nějaký zá- jem (29).
- Je- ho protiprávnost plně potvrdil i Závěrečný akt Konference o bezpečnosti a spolupráci v Evropě, podepsaný v Helsinkách l.
- Podle této smlouvy zůstávají so- větská vojska d o č a s n ě na území CSSR výslovně "za účelem zajištění bezpečnosti z L í socialistického společenství před sílící- mi snahami západoněmeckých militaristic- kých sil.
-" Klademe otázku, vyplývající přímo z textu smlouvy, zda důvod pobytu vojsk v naší zemi platí i nadále poté, co vztahy mezi zeměmi Varšavské smlouvy a Německou spolkovou republikou byly znormalizovány smlouvou mezi Sovětským svazem a NSR o zřeknutí se síly ve vzájemných vztazích (1970), analogickou smlouvou mezi Polskou lidovou republikou a NSR (1970), smlouvou upravující vztahy obou německých států, (1972) a smlouvou o vzájemných vztazích mezi Československem a NSR (1973), «polu s podpisem Sovětského svazu na čtyřmocen- ské dohodě o Berlíně, a zejména byly znor- malizovány účastí všech států společenství Varšavské smlouvy i Německé spolkové re- publiky na konferenci o bezpečnosti a spo- lupráci v Evropě.
- Následujícího dne byla v jeho bytě vykonána domovní prohlídka, během níž došlo ke kontraverzi, vyvolané snahou orgánů bezpečnosti neoprávněně zabavit osobní dopis profesora Jana Patočky.
- Příslušníci Veřejné a Státní bezpečnosti odváděli - často již v půl páté ráno - uvedené oso- by z jejich bytů, případně je později hledali na pracovištích a v bytech jejich přátel.
- Pokud byli po 48 nebo i více (až 57) hodinách propuštěni, byli většinou zastaveni příslušníky Bezpečnosti hned u vězeň- ské brány a zavedeni zpět do věznice nebo převezeni do jiného vězení.
- Tím vším porušovaly orgány Bezpečnosti a vězeňské správy pra- vidla režimu, běžného v celách předběžného zadržení, jemuž byly jmenované osoby vystave- ny.
- Ve všech těchto případech byl postup orgánů Sboru národní bezpečnosti v příkrém roz- poru s platným právním řádem.
- zadržení uvedených občanů nebylo úkonem ve smyslu zákona a příslušníci Sboru národní bezpečnosti při nem tedy nepožívali zákonné ochrany veřejných činitelů.
- Připomínáme v této souvislosti, že příslušníci Sboru národní bezpečnosti podléhají vojenské jurisdikci a že jejich trestné činy se proto oznamují vojenskému prokurátorovi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31af6471ae23aa7c8c09539ac4e39457d6e36189c48e834372ff06d63d3b6d00
+size 3410

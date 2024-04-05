@@ -1,2 +1,3 @@
-Stalinův smrt zmenšení nebezpečí sovětský intervence vytvořit příznivý podmínka vystoupení konzervativní stranicko byrokro
-zažehnaný nebezpečí kontrolovatelný kon litr moci znamenat oddálený
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9bbe7c64563b0633dbf1e6e0ca305da36f89ada327adeb1568731d6a182e048
+size 304

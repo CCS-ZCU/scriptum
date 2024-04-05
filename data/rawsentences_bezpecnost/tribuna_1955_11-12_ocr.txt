@@ -1,2 +1,3 @@
- Rovněž se ukáže, že naším západním sousedem není Německo vyzbrojené po zuby, nýbrž Německo, které je včleněno do evropského systému bezpečnosti.
- Jen až tato podmínka bude splněna, bude mír a bezpečnost v Evropě více než přechodného rázu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88895c6380c5941bcabc96342196cefa70e59939550a24ed5d571e021762ec61
+size 272

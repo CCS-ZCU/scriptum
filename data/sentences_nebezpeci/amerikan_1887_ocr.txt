@@ -1,5 +1,3 @@
-mlčet McLeane ptáč moci bezpečný
-podivný pravdivo ztráta muž dotýkat obrazotvornost člověk nebezpečí muž člověk muž
-velký nebezpečí promluvit slovo
-překrásný zvolat Sherwood vědět nalézat velký nebezpečí
-dítě říci naleznout moci žes nosit zmužilost jakouž osvojit Nathan přát
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8278425be4fd87598e59f2e6de447530217e112f5af4782f9e48c03758aecb3
+size 303

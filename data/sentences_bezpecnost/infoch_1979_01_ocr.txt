@@ -1,1 +1,3 @@
-obviněný útok veřejný činitel talc bezpečnost prokurat interpretovat potvrzený skutečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5fd46a01641a0a362385c6a30195ba8c6ccd8a18db3bb50a1f9c0e554aa4008
+size 102

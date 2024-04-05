@@ -1,2 +1,3 @@
-vhodný projev sportovní nadšení rozpor •zákonem ohrožovat bezpečnost občan tre stihaný výtržnictví vyšetřený případ pobýtat vazba
-zlobit neúspěch bek Děčín
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f83ef420a58adf5f0a4dc4c6938223ca6def45eb042f64ba0660f0518094ba2
+size 181

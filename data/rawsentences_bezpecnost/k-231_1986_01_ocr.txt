@@ -1,12 +1,3 @@
- Konečný, který neměl s majorem Schrammem nic společného? Kaplan ve zmíněné Nekrvavé revoluci vyslovuje tuto teorii: Bezpečnost od počátku pátrala po vrahovi Schramma pouze mezi národně socialistickými funkcionáři.
- Bezpečnost ho sledovala už delší dobu, neboť její agent na americkém velvyslanectví ji informoval o jeho stycích s Američany.
- Když nakonec zvolili jinou koncepci, od které čekali, že zdiskredituje emigraci, Konečný zůstal v tajné budově bezpečnosti.
- Věznitelé dospěli k názoru, že nemůže být postaven před soud, ani propuštěn, neboť by se tím prozradila existence zpravodajské agentury bezpečnosti na americkém velvyslanectví.
- Petra Konečného a z podobné vraždy Františka Novotného byli žalováni tito příslušníci bezpečnosti: plukovník Josef Čech, 56 let; major Ladislav Zelenka, 53 let; kapitán Jaroslav Pich-Tůma, 49 let; major Bohumil Šedivý, 54 let; stejně starý major Antonín Liška; stejně starý štábní strážmistr Bořivoj Vávra a nadporučík Josef Volf, 62 let.
- Plukovník StB Josef Čech, původně elektromechanik ČKD s třemi ročníky měšťanské školy, který vstoupil do bezpečnosti na příkaz strany, vypověděl, že poprvé slyšel o návrhu na likvidaci Konečného na jakési poradě.
- Zdůrazňuji, že ani ty nejtajnější věci se neděly bez rozkazu nebo pokynů právoplatně volených představitelů strany v Bezpečnosti.
- Musím zdůraznit, že o používání fyzického násilí věděli a schvalovali je všichni k tomu kompetentní činitelé ve straně a bezpečnosti.
- Vše se ve mně vzpírá, když jsem poháněn k odpovědnosti za činy, které tehdy nařídili nejvyšší představitelé strany v Bezpečnosti.
-” Proces se sedmi bývalými důstojníky bezpečnosti, obžalovanými z vraždy Petra Konečného a Františka Novotného, skončil krátce po nástupu Gustáva Husáka do funkce prvního tajemníka strany.
- Kaplana Zpráva o organizovaném násilí o mučeních a vraždách páchaných příslušníky Státní bezpečnosti na “třídním nepříteli”, tedy osobách, které pokládali za nebezpečné odpůrce a stalinským způsobem je likvidovali.
- Roku 1951 zatkla Státní bezpečnost 6 089 osob, v příštím roce 7 129 osob, v polovině následujícího roku 2 992, dohromady 15 210.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8964d804950c3a20a86193b69cd3d412fdbbe3b7f52516ea795410edb95e033
+size 2365

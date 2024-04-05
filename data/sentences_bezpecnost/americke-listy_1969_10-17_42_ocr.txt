@@ -1,3 +1,3 @@
-rodič moci odcházet práce muset bát bezpečnost rodina
-slibovat vláda zaměřit uskutečnění program znovunaslolit klid bezpečnost ulice sousedství
-tajný bezpečnost KGE civilní MVD zdecimovat odvážný malý moskevský podzemí vedený generál Grigorenk Pavel Litvínov
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c3f5ebcc0c5f4c8189cf530edfb104d4c26be6ccc6b9bd6a16f723b38414070
+size 284

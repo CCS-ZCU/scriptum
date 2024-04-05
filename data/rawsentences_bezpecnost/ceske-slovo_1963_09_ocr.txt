@@ -1,1 +1,3 @@
- Západ nemůže odzbrojoval bez kontroly a inspekce; nemůže uvést v pochybnost svou bezpečnost jen na Chruščovovo čestné slovo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34588ce0e04024b6c91d83f1ece2789d638780ad614e807f7f0521b8babea629
+size 137

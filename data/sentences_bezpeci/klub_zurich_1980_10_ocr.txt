@@ -1,1 +1,3 @@
-pečlivý práce diamant bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:169fb2cf7f6c73d109ac7018d6c73ed087be67ad5243e94c374450033eaa2e45
+size 35

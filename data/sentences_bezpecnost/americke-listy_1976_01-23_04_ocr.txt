@@ -1,1 +1,3 @@
-vědomost rozhodovat lze dokumentovat přiklad dcerka vysoký funkcionář bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd87dccf5c308859e158dcbb1f3bc5ffd9f830f20c2632d5c3ac213e6e015515
+size 87

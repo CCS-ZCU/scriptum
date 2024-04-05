@@ -1,2 +1,3 @@
-přesvědčený vztah národnost stát moci ovlivnit občan zvláštní odpovědnost klid bezpečí mít ústavní orgán
-šestinásobný zvětšený kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8fe1b7839da5f2c44e9efea29d4fa982f082b401a93bfc5dce8eca1e0371cf7
+size 169

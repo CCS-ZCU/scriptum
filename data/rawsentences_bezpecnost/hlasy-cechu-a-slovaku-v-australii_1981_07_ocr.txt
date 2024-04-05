@@ -1,2 +1,3 @@
- Co se stane, když požádám o vstupní vízum do Československa? Upřímně řečeno, nevím! Nejspíše je nedostanu, či se budu muset obávat o svoji bezpečnost za případné návštěvy.
- To ovšem' neznamená, že by se stanovisko obou zemí náhle nezměnilo v případě světového konfliktu, a že by nemohlo dojít k internování všech nespolehlivých živlů, včetně těch, kteří svým postojem se zdají být nespolehlivými a tím ohrožující bezpečnost této země.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffb0353a07581356dc5a6ff1a8f6d23db680204ba4c824c6da025877f24e191
+size 495

@@ -1,2 +1,3 @@
-komunista vědět moci bojovat fronta Evropa Asie Jugoslávie nebezpečí by^ivilní válkaš\sa moci rozšířit území
-ukázat rudý nebezpečí Evropa akutní
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe7f0eee297bb3a8ca2b978c7040a2b33e90d7577de3264c62e6c8a57ded5d78
+size 163

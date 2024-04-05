@@ -1,1 +1,3 @@
-—pza— osoba lačný krev zaručit osobní bezpečnost slovo bývalý činnost kát získat národ úcta svobodný svět část svět komunistický značný respekt
+version https://git-lfs.github.com/spec/v1
+oid sha256:a125d236493d3ef31b88a36171794b651da40affd9ec911edb006bdeced40fc2
+size 168

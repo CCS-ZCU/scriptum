@@ -1,2 +1,3 @@
-zdůraznění projev zůstat evidentní nebezpečí doba vyvrcholit týden porážka demokratický elita ČSR
-Bechyně muset další průběh válka vědomý nebezpečí tragičnost premis
+version https://git-lfs.github.com/spec/v1
+oid sha256:4739d00d51a6eb6cbda7ce43bcadaa8e15bf345646eace4094ee7a7407b8319d
+size 189

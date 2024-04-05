@@ -1,4 +1,3 @@
-lidé vystavit nebezpečí rozhněvaný komisař moci pokřtít dítě
-jediný apoštol ukázat slabost nebezpečí zvolený odolávat nebezpečí
-odhodlaný kráčet vlastní cesta hrozit nebezpečí zabloudit
-nabízet žádat příbuzný člen rodina napsat činnost zahraničí nynější režim uvádět veliký nebezpečí činnost ustat
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e42854c6a10dc5dd3e83d183124160d1c55e2713b95d8b0d8549cd322f583a
+size 343

@@ -1,1 +1,3 @@
-velký nebezpečí lidský budoucnost tečho soba tvrdit vědět
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fce63364361e0e9069b7c9e2fb48d292ad49c494f33458a000a6bf8b84f8aee
+size 65

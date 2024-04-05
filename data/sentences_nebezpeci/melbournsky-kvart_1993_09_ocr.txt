@@ -1,3 +1,3 @@
-blízký doba hrozit nebezpečí směřovat masový zájezd turista brát vyprávěný Austrálie bezplatný rozšíření zeměpisný obzory cesta Austrálie zorganizovat spolužák chodit škola pankrácký kostelíček
-Hába důvod nebezpečí dodavatel odmítnout dovážet zboží
-setina vyjádřit obava celý rodina vystavený nebezpečí moci vyřídit účet kriminální deviant
+version https://git-lfs.github.com/spec/v1
+oid sha256:d58a5f47c17e6ac56fef56b1a28c2646977947edf90e4a8d4c628d3602c83fb3
+size 389

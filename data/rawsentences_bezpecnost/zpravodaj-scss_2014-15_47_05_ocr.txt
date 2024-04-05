@@ -1,2 +1,3 @@
- Existovaly různé rezoluce Rady Bezpečnosti OSN, které bylo možné různým způsobem interpretovat.
- Rada bezpečnosti: ze 175 rezolucí (do roku 1990) víc než polovina (97) byla namířena proti Izraeli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b20eafa05ea3a68ccc77f0b3d74484197093814cd18d2d2dd8a955eece30f6a0
+size 213

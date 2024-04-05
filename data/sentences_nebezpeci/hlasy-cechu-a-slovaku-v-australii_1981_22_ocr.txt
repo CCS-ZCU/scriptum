@@ -1,1 +1,3 @@
-Kreisky vláda uvědomit nebezpečí spojený uznání palestinský organizace zmítaný těžkv vnitřní mez národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1c6af171884b53e829ed377ce08d7d60d41d9169f08e1cbb9f3a4b61b52ecec
+size 118

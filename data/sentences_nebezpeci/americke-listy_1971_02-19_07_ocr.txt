@@ -1,1 +1,3 @@
-boj vlastní aparát nadějný zmenšit nebezpečí ruský intervence
+version https://git-lfs.github.com/spec/v1
+oid sha256:2545f8f76df615a9f4b5bc40869dd2ae8c8b282e53bebda2d214b1dcc7d0e858
+size 70

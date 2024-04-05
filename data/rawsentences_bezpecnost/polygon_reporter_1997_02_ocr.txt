@@ -1,5 +1,3 @@
- Jejich argumenty nalezly pozorné uši ve vládách členských států, které se po dlouhé diskusi a někdy i protichůdných veřejných vystoupeních státníků a tajných jednáních mezi diplomaty shodly v Essenu na tom, že rozšířit Alianci na východ je pro zajištění bezpečnosti Evropy nezbytné.
- října 1995 řekl, že „chápe velice dobře vůli Východoevro- panů se připojit k systému bezpečnosti NATO“, avšak že „je také nutné chápat výhrady Ruska“, s nímž je zapotřebí jednat a vytvořit „systém přijatelný pro všechny a jenž může zajistit bezpečnost všech“.
- Nejrozhodnějším stoupencem dohody s NATO se stal Lebed' Je téměř jisté, že když se po loňských presi- dentských volbách generál Lebed’, poté, co pomohl Jelcinovi ke zvolení, dostal na čelo ruské Rady bezpečnosti a prostudoval tajné materiály dostupné pouze jemu a Jelcinovi, dospěl rovněž k závěru, že jediným rozumným východiskem pro Rusko je přijmout rozšíření Severoatlantické aliance za podmínek pokud možno nejvýhodnějších pro Rusko.
- To znamená, že mezi ním a Západem bude uzavřena smlouva o vzájemné bezpečnosti (před poslední válkou se tomu říkalo „smlouva o neútočení“), ve které by se Aliance zavázala, že nepřesune své vojenské struktury na území nových členských států k hranicím bývalého Sovětského svazu.
- Po chvíli prošel kolem jeden člen bezpečnosti, chvíli nato další dva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d7f1a51dc80b4135493eeb58028a40fd9b236e3ccf141249c9bdc6a014bff6
+size 1502

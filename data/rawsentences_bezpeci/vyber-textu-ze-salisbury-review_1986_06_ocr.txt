@@ -1,1 +1,3 @@
- x )  - 87 - bezpečí má podoba laageru - kruhové vozové hradby z a d rž u jící cizorod é a nepřátelské s í ly vné je ji c h útulné a příbuzeneckymi svazky husté prospojované k s lv in is tie k é sp o le čn o sti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d769d213b4418611afd2db234efa42de667bf9add9f4c7eea6dc408cb0fcdb
+size 235

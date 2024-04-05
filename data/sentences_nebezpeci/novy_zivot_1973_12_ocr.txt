@@ -1,1 +1,3 @@
-srpen hrob Palachův oplocný metr vysoký prkenný hradba nápis nebezpečí úraz
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d7524724955bfedf76e00e4c475de74e4db7b0ecb17c62e736d414aa8ecea9
+size 84

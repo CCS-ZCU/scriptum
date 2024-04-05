@@ -1,1 +1,3 @@
- Tedy nebyl to Gorbačev, který si už tenkrát byl dobře vědom své negativní platební bilance, ale byl to Reagan, který, ač nerad, pro bezpečnost Západu uplatnil svou všeobecnou převahu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b130a18dc678f4e666ac5514b06965d52ec8be4607e8d14a83e645620fa9b71
+size 200

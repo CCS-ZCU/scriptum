@@ -1,2 +1,3 @@
-časopis priznávat částka skrytý problém nedostatek složitý situace nebezpečí sledovaný oblast dohledný doba muset pořádek
-terorista fanatik znát strach vyhrožovat druhý ohled nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c4c11772213b409b2668eb01014140e2a95419c1f6e82e81cc2230073798c2f
+size 204

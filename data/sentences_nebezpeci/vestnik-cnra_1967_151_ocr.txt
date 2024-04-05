@@ -1,4 +1,3 @@
-vyhánět nasazovat život nebezpečí uniknout cizina
-škola sokolovna spolkový místnost spolek organisace moci zachráněný komunista emigrace přerušit
-upozornit jednotlivec psát vlivný lidé veřejný život poslanec senátor noviny upozorňovat nebezpečí jednostranný most komunistický země střední Evropv
-povinnost věc svědomí Amerika starý vlast upozorňovat nebezpečí věstník ODB
+version https://git-lfs.github.com/spec/v1
+oid sha256:824a7ee84e25dba8b8e4b2538aed4d54f69b0ffe11cd42c21759c0aa9ee7b0a2
+size 409

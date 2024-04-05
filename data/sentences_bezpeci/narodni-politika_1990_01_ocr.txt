@@ -1,1 +1,3 @@
-osmý strana národní politika leden šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:8848cb0ea1e69a1ad4803274dc4ecbbf5cceedd55008f449481e5beb0bd9ff80
+size 75

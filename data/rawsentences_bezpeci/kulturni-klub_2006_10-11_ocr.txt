@@ -1,1 +1,3 @@
- Úkryt, kteiý vyhledá, však jen budí zdání bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9f40bc2cc0f5b1e39f8a6ea2eadd4c97e0c71b8f4df1f084bb78df523a93655
+size 61

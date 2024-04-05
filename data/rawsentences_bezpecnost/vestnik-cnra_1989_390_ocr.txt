@@ -1,1 +1,3 @@
- Mezinárodní smlouva o občanských a politických právech zajišťuje svobodu a bezpečnost každé lidské osobnosti a jejího soukromí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87a740051e0545de05a0927c904cbea1d9cecd1ae71b9fa9c50cc43bb28d2002
+size 143

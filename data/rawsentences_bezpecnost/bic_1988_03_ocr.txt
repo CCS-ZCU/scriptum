@@ -1,1 +1,3 @@
-ročník, KDO JE KDO a CO JE CO Kraresba JIM Kavka CHODEC: Podle Veřejné bezpečnosti překážka pouliční dopravy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6013769dec65fc4beb187bcbcf47190aa1fbf7aef040337a5a82550e98a13ce8
+size 120

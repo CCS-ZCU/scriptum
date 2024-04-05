@@ -1,1 +1,3 @@
- Často přijeli příslušníci veřejné bezpečnosti, ale nechtěli poslouchat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5227b68b1fcfce8c2207b04f3280b920f7f05a73bbd0f8b5e5ebfb5712e8a1d1
+size 83

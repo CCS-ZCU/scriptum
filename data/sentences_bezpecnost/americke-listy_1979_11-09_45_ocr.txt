@@ -1,1 +1,3 @@
-Connalla vyslovit stažení Izrael západní břeh Jordán enkláva Gáza gdaňský výšina nynější izraelský vláda předchozí vláda pokládat důležitý bezpečnost Izrael
+version https://git-lfs.github.com/spec/v1
+oid sha256:138034f85437f281dc2dec55c1fb7ce045ed871ea5e817699ab69cd143d33c8b
+size 182

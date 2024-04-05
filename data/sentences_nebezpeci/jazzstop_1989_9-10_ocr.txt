@@ -1,2 +1,3 @@
-hrozit řada nebezpečí
-Paul Goma donucený vystěhovat Francie duba intelektuál spisovatel pokoušet rozšiřovat pole působnost hledat únik vlastní ideologie sebeobrana objevovat autor ohled nebezpečí udit podporovat ádnouc systém napadat monopol strana kultura březen rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:828f2853403cb4bf7d310e7c7ddb2fb495f1cdf280753b1cd57c63403790f326
+size 285

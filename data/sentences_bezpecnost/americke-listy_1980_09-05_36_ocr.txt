@@ -1,1 +1,3 @@
-zpravodajství bílý dům
+version https://git-lfs.github.com/spec/v1
+oid sha256:17c8f6a226d66a7d998979e6367be2948bbc426cd9bb582964c2991db7d5f3a6
+size 27

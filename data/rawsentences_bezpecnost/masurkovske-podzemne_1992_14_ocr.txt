@@ -1,1 +1,3 @@
- "Běžná prohlídka kvůli bezpečnosti na dálnici", bylo nám řečeno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61db1539bae1f681f5ca479c5dd236cbfc978abf7e8abca18bad047c24b713b0
+size 76

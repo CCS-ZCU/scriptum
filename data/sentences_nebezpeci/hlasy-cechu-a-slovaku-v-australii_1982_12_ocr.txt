@@ -1,4 +1,3 @@
-mezinárodní instituce moci udržovat pořádek místo hrozit nebezpečí válečný konflikt oddíl ráz policejní válečný
-snaha zvaný pacifista jednostranný odzbrojení západ moci uklidnit sovětský svaz ujistit hrozit nebezpečí odvrátit útočný akce záminka obrana mateřský země socialismus naivní
-poučení nabízet svět počet poučitelný lidé doba velký poučitelný lidé mít exil mít vidět komunistický nebezpečí exil muset připravit politický úkol
-Footscray rád otiskovat dopis dokázat přečíst hrozit nebezpečí slovenština ublížit přepis tisk
+version https://git-lfs.github.com/spec/v1
+oid sha256:291a2aaae84f1aa8027d5cae43b96ad0116d4b072985a947efa4f22b08a3fd06
+size 595

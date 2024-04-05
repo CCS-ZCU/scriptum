@@ -1,6 +1,3 @@
- Ti, kteří doporučují rozšířit NATO, uvádějí na podporu svého názoru argument, že už tak jako tak Evropa je rozdělována na NATO a ne-NA- TO, dále rozšíření bude respektovat ruské zájmy, ohrožení Ruska nepřichází ze Západu, ale z jihu (islámský fundamentalismus) a z východu (možná čínská expanse v budoucnosti) a posun demokratických zemí blíže k hranicím Ruska znamená spíše zvýšení bezpečnosti na západních ruských hranicích a tím zmenšení citlivosti Ruska před tlaky z jihu a východu.
- Žuganov ve své nedávné přednášce v USA navrhoval, aby bezpečnost východoevropských států byla zajištěna ne jejich vstupem do NATO, ale jinými vhodnými mezinárodními smlouvami.
- Sbor národní bezpečnosti, ve zkratce SNB, podle které se stali policisté socialistickými „esenbáky“, byl tvořen Veřejnou bezpečností a Státní bezpečností.
- května bude v Paříži podepsána dohoda mezi Aliancí a Ruskem, která zaručí jeho bezpečnost a umožní jeho souhlas s rozšířením - minimálně pro ČR, Polsko a Maďarsko.
- Rozšíření NATO na východ znamená pro nás záruku bezpečnosti a demokracie.
- A tak mohly v berlínské Normannenstrasse, hlavním sídle Ministerstva státní bezpečnosti (MfS), pracovat po celou tu dobu vcelku nerušeně početné brigády fízlů na likvidaci spisů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08fa6d472b049896abe28f3610920c368c0bb68e37012d2996b6d2d739270a0c
+size 1380

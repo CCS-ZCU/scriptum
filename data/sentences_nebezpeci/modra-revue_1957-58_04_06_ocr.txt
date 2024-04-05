@@ -1,2 +1,3 @@
-nebezpečí koncentrační tábor hrozit
-podceňovat nebezpečí zapomínat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e375d6488e6877be71a119cc8614110fafd73c317b19e4a8534e43ee85d33c
+size 76

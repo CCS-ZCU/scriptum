@@ -1,1 +1,3 @@
-velvyslanec Berlín Paříž Řím hrozící nebezpečí spolehlivost Francie brát vědomí
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f062decb570f9cd1ef044ad42abdc5f30d51faff39e21e13730a0f4dd5093f
+size 93

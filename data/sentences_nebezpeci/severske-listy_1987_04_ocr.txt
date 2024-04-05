@@ -1,1 +1,3 @@
-podie poíadavek hodina účad SIV nucený obsah událost Švédsko jin nebezpečí dostat vyda ten podpora
+version https://git-lfs.github.com/spec/v1
+oid sha256:2184e16ee0fcf85847caa219c8a429d466729b3a02dbb8f89be9bb49b8067597
+size 108

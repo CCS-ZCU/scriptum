@@ -1,2 +1,3 @@
-chápat případ začínat
-žena křik utéci bezpečí nudistický tábor
+version https://git-lfs.github.com/spec/v1
+oid sha256:d70025400642bb82697083ff0e92da521fcf0412dad807ea696d111e5bd56c4e
+size 75

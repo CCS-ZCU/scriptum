@@ -1,1 +1,3 @@
-mluvčí fotbalový unie Guido Tognoni prohlásit zrušení embargo obdržet potřebný písemný doklad obč schopný ochotný zajistit dostatečný bezpečnost hráč divák
+version https://git-lfs.github.com/spec/v1
+oid sha256:44c525625fff590d85c4cb75604ac29262f13712e1e5c4c449485c55d89d149d
+size 176

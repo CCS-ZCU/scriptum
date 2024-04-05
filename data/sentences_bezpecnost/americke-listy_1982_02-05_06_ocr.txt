@@ -1,1 +1,3 @@
-pořad zjištěný režírovat státní bezpečnost kompromitovat československý politický emigrace exil
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcacba4d4ef2efb2d86271a2c2163ee06eaee312c789946a87e0a8fcd7df4f8d
+size 108

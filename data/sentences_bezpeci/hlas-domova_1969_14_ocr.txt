@@ -1,1 +1,3 @@
-zahnat bezpečí stádo jistota iluze ochrana realista
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ee502d82f5b404b42e784adfbebcc4143bffd2544de83e55c7dbba19bfa7ec
+size 55

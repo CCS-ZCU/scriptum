@@ -1,1 +1,3 @@
-Ospale oznamovat Bořek klidný zamlklý pilíř bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e256db793606dc4e94dcd6986bbd1fe50ebdcfdd3ec16a417a238e3f84e4c6
+size 59

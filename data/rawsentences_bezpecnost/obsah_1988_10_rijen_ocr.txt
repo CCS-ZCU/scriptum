@@ -1,2 +1,3 @@
- septembra 1988 stretnúť u svojho kolegu? Frečo tie manévre bezpečnosti na zastrčenej okresnej ceste7 VeO.
-mácie chutného guláša musel na oddelení bezpečnosti v Trutnove zodpovedať anketnú otázku: "Co mělo být na programu schůze nepublikujících spisovateiů, kteří se.
+version https://git-lfs.github.com/spec/v1
+oid sha256:622ed51d828092ec7847cdb2bdd85673f3a153fe057103951f28f4e4939791ef
+size 291

@@ -1,3 +1,3 @@
- listopadu zatkla Státní bezpečnost v Praze 7 osob, mezi nimi dva syny v říjnu na 3 roky odsouzené Otky Bednářové, dále Ivana Kynzla a Ivana Rumla, syny signatářů Charty 77, a 3 další mladé lidi.
- Podle informaci z Prahy jde však spíš o zastrašovací manévr pracovníků Státní bezpečnosti.
- — Sbor národní bezpečnosti má tři speciální policejní učiliště: Vysokou školu Sboru národní bezpečnosti v Praze, důstojnickou školu v Bratislavě a práporčíckou školu v Brně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee1e8ecc13c6ab2becdb8f928f7bf8461a9611fbbc5760034cbd5ed5ee8e41ee
+size 515

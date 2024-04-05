@@ -1,1 +1,3 @@
-rok rok číslo minulý týden proběhnout noviny noticko sledující znění
+version https://git-lfs.github.com/spec/v1
+oid sha256:b723cae8831b8b0f9f649d51e812335a3414584235bd6f4654d5ca3b8b5ec8bf
+size 81

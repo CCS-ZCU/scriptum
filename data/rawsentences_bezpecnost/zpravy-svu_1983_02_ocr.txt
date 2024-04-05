@@ -1,1 +1,3 @@
- : Richard Pipes, původem Polák, byl v Bílém domě členem komise, která se zabývala otázkami mezinárodní bezpečnosti Spojených států.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6ffa47e9536aa191a2ead4a1ffebd6fa413d77791ebe070693f2c60752becf1
+size 148

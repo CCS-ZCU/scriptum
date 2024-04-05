@@ -1,5 +1,3 @@
-chtít vzdát
-Podlá Solženicyn omyl spósobovat bezpečnost západ viset vláska roztfžka ZSSR Čína ktorej předpokládat skončit
-zájem německý národ Bonn přát vojenský rovnováha udržení výhoda ostpolitik přinést bezpečnost západní Berlín spojení německý stát
-pole působnost spolkový vláda budoucnost omezený důsledek spor Moskva Washington bezpečnost západ
-doba Harmelův zpráva prosinec mít atlantický aliance dvojí cíl vojenský bezpečnost politika uvolnění napětí
+version https://git-lfs.github.com/spec/v1
+oid sha256:34fb0fbd3c4d2bafb3152bcf1fd1b024897ba58e216befb02920f3030026433e
+size 512

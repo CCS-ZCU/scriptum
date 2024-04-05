@@ -1,1 +1,3 @@
- Tokijské demonstrace, namířené proti vládě, proti Eisenhowerově náv- štěvě a proti nové obran- né smlouvě americko-ja- ponské, se stupňovaly takovou měrou, že donu- tily Kišiho vládu, aby po- žádala presidenta Spoje- ných států, aby se na své "cestě dobré vůle" Ja- ponsku vyhnul, protože by nebyla zaručena jeho osobní bezpečnost, a že po ratifikaci smlouvy přiměly Kišiho samotné- ho k ohlášení resignace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce8169609a18db9487da877f0047ff8117fcf8be721858242cec56f6d0713582
+size 450

@@ -1,1 +1,3 @@
-většina ohlásit redukovaný číslo očekávaný sklizeň upozorňovat nebezpečí přemnožený různý škůdce
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc0285d0ec1e20c5ed52cd1e9008ab804155e70c0f30e3e2ba5be9760d98350
+size 117

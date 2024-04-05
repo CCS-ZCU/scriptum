@@ -1,2 +1,3 @@
-útěk svět lidé nebezpečí osobní dokonalost zanedbat láska bližní
-nebezpečí vystihnout svatý
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e00de5bfb2435a4aecddb32157d8bdcc090d4a6a0676b9d231881988a6d00e
+size 105

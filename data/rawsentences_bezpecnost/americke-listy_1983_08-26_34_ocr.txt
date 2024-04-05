@@ -1,3 +1,3 @@
- vynakládá, jak píše Jaroslav Hejkal, částka tří až pěti milionů korun, což pochopitelně znamená, že DALŠÍ ZEMĚ PROTI INVAZI DO ČADU Další africké země se postavily za požadavek Čadu, aby Rada bezpečnosti Spojených národů zastavila libyjskou intervenci v této zemi.
- Prozatím nebyla Radě předložena žádná rezoluce ani se strany Čadu ani Libye a diskuse před odročením Rady bezpečnosti se nedotkla otázky současné vojenské situace v Čadu.
- T I CH Ý HLAS RALPH WALDO EMERSON Ač láska vzpírá se a protestuje, Ilias tichý tiše volá na stokrát, Je zatracením žiti v bezpečnosti, Když pro pravdu by muž měl umíral.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e08c038af62624d344e0b4f850022e540a26f5904ca4222d15429375c902b752
+size 672

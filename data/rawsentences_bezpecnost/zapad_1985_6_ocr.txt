@@ -1,3 +1,3 @@
- Pracovalo se na zákla- dě rozhodnutí, že kdo se jakýmkoliv způsobem postavil proti linii KSČ, což v praxi znamenalo, kdo bezvý- hradné nesouhlasil s prosovětskými názory, okupací a vývojem situace po ní, opustí armádu či bezpečnost, a plánovaly se také rozsáhlé soudní procesy.
- Československé vojenské vedení provedlo rozsáhlé nábory do armády a bezpečnosti.
- I u tak upřednostně- ných a mocenských složek jako armá- da a bezpečnost se čekalo na přiděle- ní bytu několik let Tisíce rodin žilo po přeložení vojáků odloučeně a tyto počty v důsledku častých reorganiza- cí a redislokací armády se neustále zvyšovaly, aniž byla naděje na zlepše- ní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a752e910bf160348d9be971fc3c910ece51ef572f5798554f3e0d8f550eae72
+size 716

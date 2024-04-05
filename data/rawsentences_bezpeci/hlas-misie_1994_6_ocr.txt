@@ -1,1 +1,3 @@
- Ohraničený životní prostor, domnělé bezpečí, nerušený vlastní život u sebe, v domě f Zabouchnuté dveře před klepající nežádoucí osobou, před rušitelem mého vlastního pokoje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa7447c2c1cb984aa766bd219b63ccd726a72c32aa61d416cf6b42b38f81d672
+size 200

@@ -1,2 +1,3 @@
-vědomý nebezpečí plynout generalizace zevšeobecňovat muset schopný pojmout skutečnost jednotlivost
-nebezpečí únik rádioaktivní látka
+version https://git-lfs.github.com/spec/v1
+oid sha256:05cb903f544e714d9c5705bdd57ac1898a8eed209b32ca613758d4b9f00244c8
+size 147

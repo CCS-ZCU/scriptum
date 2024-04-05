@@ -1,1 +1,3 @@
- Mezinárodní organizace vyzývají vládu, aby pečovala o bezpečnost ostatních kněží.
+version https://git-lfs.github.com/spec/v1
+oid sha256:168d89155f5b1bade8517e259e586aaf447a8ed14c53a15e335c9686c1ae4ab1
+size 94

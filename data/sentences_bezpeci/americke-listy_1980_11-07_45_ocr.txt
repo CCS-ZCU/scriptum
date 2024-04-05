@@ -1,1 +1,3 @@
-bezpečí druhý svobodný vlast nadbytek lidé líný zbabělý najít výmluva moci věc svoboda udělat
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c701d51722c0d45596abae46264a6f746d38b4d9216827d13845db06a922b2
+size 107

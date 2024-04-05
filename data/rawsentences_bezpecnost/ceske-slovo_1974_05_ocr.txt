@@ -1,8 +1,3 @@
- Tehdy byly mnohé rozbroje v exilu vyvolány působením agentů pražského ministerstva vnitra, oddělením pro desinforma- Z domova dostáváme zc zasvěcených kruhů zprávy o tom, že se chystá ofenzivní pomlouvačná kampaň proti čelným exilovým pracovníkům s pomocí podvržených tiskovin a dopisů, posílaných na adresy oněch krajanů, jichž získala Státní bezpečnost od ztroskotanců — navrátilců.
- Přitom Hu- bylo Memorandum středoevropských exilů k ženevské konferenci o bezpečnosti a spolupráci v Evropě, otištěné v předním švýcarském deníku „Neuč Ziircher Zeitung" zneklidňuje soudruhy v Praze a Bratislavě.
- Vedoucí úloha strany znamenala pacifikaci celé široké veřejnosti a posílení pozic mocenských složek, zejména Bezpečnosti, která od té doby opět zasahuje do všech buněk společenského života, včetně soukromého života občanů.
- Vše hlídá zvláštní oddíl sovětské státní bezpečnosti a zvláště za tímto účelem vycvičeni hlídací psi.
- Kdo chce mít nějaké soukromí a také pocit mravní ti společenské bezpečnosti, jde do jinak již opuštěných baráků, obsadí si některou místnost a zařídí si ji.
- Zpráva Bezpečnosti dávala najevo, že urna měla být propašována za hranice a tam znovu demonštratívne uložena do hrobu.
- Ředitel tohoto úřadu jí však sdělil, že nemá možnost ji urnu k novému uložení na hřbitově vydat a že podrobnosti musí paní Smrkovská nejdříve prohovořit s Bezpečnosti.
- 1974 adresovaný Sboru národní bezpečnosti Děčín: .
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a436516670882f1be706ced28e80f6efeb7093aa3d6f2b9d0989f511e6e00e6
+size 1601

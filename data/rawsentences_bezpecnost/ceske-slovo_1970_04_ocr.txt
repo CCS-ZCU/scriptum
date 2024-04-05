@@ -1,1 +1,3 @@
- František Neuman musel potom hledat osobní bezpečnost v exilu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:200c2a8580f72dbf9cda431f0e4d26b0b14b9d6a593ffc700d5bb5afd8df265b
+size 67

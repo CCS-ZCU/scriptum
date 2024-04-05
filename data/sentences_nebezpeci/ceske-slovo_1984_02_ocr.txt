@@ -1,2 +1,3 @@
-stěžovat československý noviny malý informovanost mladý lidé nebezpečí narkomanie obracet špatný adresa
-nebezpečí narkomanie Československo velký svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4ef1160f023b6ae92e5d57d6694a2a8c26886ae44af37ec7ff6214cea57ec16
+size 167

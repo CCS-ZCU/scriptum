@@ -1,8 +1,3 @@
-jiný slovo soud zvažovat celkový nebezpečí vklad jednotlivý obviněný
-nebezpečí tři stíhání feožlý osoba jméno ováný
-hodium domovní prohlídka případ nebezpečí pr·
-zákon SNB základ pozvaný lhát odepřít vysvětlenír kdybys způsobit nebezpečí stíhání osoba blízký
-výpověď způsobit nebezpečí trenér
-zákon čin trestný odvracT nebezpečí hrazící zájem chráněný trenér
-jít krajní nouse jxtliž nebezpečí daný okolnost odvrátit způsobený následek Háma tajný závažný závažný naž hrozit
-Sin ^ejde nutný obrana obrana zřejmý přiměřený povaha nebezpečí útok
+version https://git-lfs.github.com/spec/v1
+oid sha256:08cc0c116e55c0930517ca55df669e07ef4eda5bd570776369a2e926184c7630
+size 632

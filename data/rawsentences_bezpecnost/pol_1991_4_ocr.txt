@@ -1,7 +1,3 @@
- Vyzýváme vládu ČSFR, aby se obrátila na Radu bezpečnosti OSN s návrhem na vyslání mírových sborů OSN do Chorvatska, budou-li s tím zúčastněné strany srozuměny.
- Když už daňový poplatník musi vydávat značné částky na policii, pak má také právo, aby ta složka chránila veřejný pořádek a bezpečnost energicky, věrohodně a účinně.
- známek kamarádů z mládi při setkáních, na něž se tolik těšil? Byla to nevrlost, neurvalost anonymních lidi? Neochota na úřadech, nepoctivost taxikáře nebo číšníka? Byl snad okraden za bílého dne kapsářkou nebo dokonce fyzicky napaden bandou mužů snědé pleti? Rozhořčeni nad četbou Špíglu a podobných tiskovin? Byla snad odmítnuta jeho nabídka státu dát vlasti k dispozici bohaté zkušenosti z podnikáni v Americe? Anebo to byly jeho poznatky, že nový devizový zákon a předpisy o důchodovém zabezpečení by pro něho byly velice nevýhodné, kdyby se natrvalo vrátil do vlastí? Rozhořčil se nad diskriminaci exulantů v zákoně o mimosoudní rehabilitaci a v zákoně o půdě? Konstatoval, že samet je v Československu spíše pro ty, kteří jej kdysi fackovali na Státní bezpečnosti, než pro exulanty? Že nikdo z těch, kdo jsou vinni smrti tisíců a utrpením statisíců, degradací přírody a národního hospodářství, z těch, kteří přivolali okupační vojska, nebyl dosud volán k odpovědnosti? Zajisté to nebyly všechny tyto jevy najednou, o kterých v poslední době čteme v krajanském tisku v cizině a někdy též v československém.
-exotických“ zemích též o jejich bezpečnost.
- Prostě je třeba se odsunout do bezpečné vzdálenosti ještě dříve, než se začnou vytvářet uzávěry a k pronásledování jsou nasazeny větší oddíly Bezpečnosti, případně vojska.
- Po tolika letech si už ani nevzpomenu, čím pohoršil Státní bezpečnost.
- Co prý jen dalo práce (představte si ten mohutný aparát Bezpečnosti, který nyní pátrá po pár exemplářích starých knih, zatímco na Václaváku vás beztrestné přepadají), než se zjistilo, že je zhotovil jistý německý knihkupec českého původu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d28eb60698af131952418529e6056bd7c8822d58c2f4fd7ea62dafde9499a4ec
+size 2193

@@ -1,1 +1,3 @@
-lze zneuznat měnit aeronautický učinit rok značný pokrok blažit vědomí nebezpečí plavba balon veliký zdát mnohý bojácný mysl
+version https://git-lfs.github.com/spec/v1
+oid sha256:deaef9a76f50d9aafbe8bd190d0d7cd82e7ee64e493377faf71f3234ce3210b2
+size 141

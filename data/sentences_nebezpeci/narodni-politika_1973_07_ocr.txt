@@ -1,1 +1,3 @@
-zbavovat mnohý nebezpečí řešit napjetí jiný vyvolávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3918145ac3d146a060d48ab4c25be970b279de1da96e1f6bf844a41d1daa80d1
+size 62

@@ -1,1 +1,3 @@
- Ecevit dodal, že dokud se Spojené státy zdráhají zajistit Turecku dalšími dodávkami zbraní bezpečnost, musejí se Turci vyvarovat všeho, co by mohli jejich sovětští sousedé pokládat za provokaci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b0baa376c3e2cf731b81d57d58f110a3d8478a5b29dd5bf5610ae99f8acdc13
+size 213

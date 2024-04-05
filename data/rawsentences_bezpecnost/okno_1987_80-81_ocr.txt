@@ -1,4 +1,3 @@
-“ 2) SKUTEČNÉ POUČENÍ Z ROKU 1968, A „POUČENÍ" „ V kritických dnech srpna 1968 nebyl orgány státní bezpečnosti chycen ani jediný kontrarevolucionář— ale kde najit značnou část vedení strany, vlády a Národního shromážděni, to skupina státní bezpečnosti v ministerstvu vnitra věděla.
- Navíc musíme řadu důležitých systémů dublovat či ztrojnásobovat, abychom zajistili alespoň elementární bezpečnost.
- Charta nemá publicitu a kromě toho jil ovládají komunisté - není to ironie? Pro Státní bezpečnost je to dobrý důvod ne-' povolit otěže, ale nic víc.
- věcí Bohumil Chňoupek, který vznesl protest ve Vídni, kde se setkal se svým holandským kolegou při příležitosti konference pro bezpečnost a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86f18455ba410cc7d38240f54c796d7a41a0841a3294f4c4333cd26ac3511acc
+size 789

@@ -1,3 +1,3 @@
-neudaný počet akti vist ohled novoroční Ihut vyhlášený režim amnestie bezpečnost zaručený nabídka odmítnout
-ministerský předseda Gonzales zahajovací projev sjezd prohlásit vystoupit vojenský aliance znamenat ohrozit španělský bezpečnost důvěryhodnost
-poselství otázka španělský členství NATO jasný ministerský předseda zodpovědný národ bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1265a70c0d56ed001482dd569ad05946309b58c93e288699bff72454d4de520
+size 385

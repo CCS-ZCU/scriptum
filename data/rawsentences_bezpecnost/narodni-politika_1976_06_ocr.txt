@@ -1,9 +1,3 @@
- Třeba dodat, že s touto četnou skupinou, pokud s ní vůbec kdo jednal, přicházeli do styku výlučně příslušníci státní bezpečnosti.
- U třetí skupiny spisovatelů již odehrává částečně roli státní bezpečnost, která psychicky připravuje tyto tvůrce jednak na prohlášení loyality, jednak na jednání s „policajty“ v aparátu Svazu spisovatelů.
- Po několika rozhovorech s příslušníky státní bezpečnosti K.
- Zástupce státní bezpečnosti mu přímo prohlásil, že takové nářky nemají smysl, že je to k ničemu.
- To se týká všech složek kultury, vědy a umění, v neposlední řadě i politiky, bezpečnosti a snadnější budoucnosti, tedy hlavních znaků národní hrdosti, vlastní existence a rozvíjení se.
- Soudruzi z Bezpečnosti, nechtíc, aby došlo k přílišnému rozruchu či panice, obrátili se o pomoc na udatného kapitána Minaříka.
- 1 Konečně čtvrtá skupina jsou ti, s nimiž absolutně nikdo jiný nemluví, než příslušnici státní bezpečnosti.
- Přitom ve všech případech represe zůstává hlavním nástrojem „spisovatelské politiky“ strany a státní bezpečnosti.
- Rudolf Striibinger OD POLITICKÝCH K HOSPODÁRSKYM Politické oddělení Státní bezpečnosti odkomandovalo řadu příslušníků k hospodářskému kriminálnímu odděleni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7babc52d8147a114b8a8211422a2ac8e94f664e84cca0c9112e83b4a8163b398
+size 1344

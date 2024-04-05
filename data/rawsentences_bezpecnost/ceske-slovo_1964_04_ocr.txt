@@ -1,4 +1,3 @@
- Takový zdravý poměr by přispěl k míru a bezpečnosti Evropy a celého světa.
- kb— < nemůže plnou měrou těšit z bezpečnosti a prosperity, dokud země východní Evropy neobnoví své historické vztahy s ostatní Evropou.
- třetině za stavu 1: 2 své mužstvo z ledu a odmítl pokračovat ve hře s odůvodněním, že není zajištěna bezpečnost hráčů.
- Samozřejmě, ujalo se věci ministerstvo a připletla se do toho i státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a296bcd9e51aa89b9bdcd7d09e796008a3e0f7035d6ef2d1a067e80e2c4e07b
+size 466

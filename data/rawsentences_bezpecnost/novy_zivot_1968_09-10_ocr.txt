@@ -1,1 +1,3 @@
--sovětského přátelství a vojska budou stažena, jakmile budou odstraněna nebezpečí ohrožující socialismus v ČSR a bezpečnost ostatních socialistických zemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c21bd2fbf245a46cebc0b897d36cdfafa4206b2636349a158e449070bce20a
+size 173

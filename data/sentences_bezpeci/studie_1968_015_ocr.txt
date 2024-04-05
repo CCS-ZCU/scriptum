@@ -1,2 +1,3 @@
-pán církev zprostit povinnost další hledání rozjímání slovo říci postel odpočívat bezpečí cesta pravda zvát meditace studium hle dání pravý smysl slovo
-metr pronásledování obětovaný hodina litr vyplujt bezpečí zůstat
+version https://git-lfs.github.com/spec/v1
+oid sha256:54f4a5b25ac4a885f534c91433f1b45cc7ebd108f12ae934ad86ffc9320431df
+size 243

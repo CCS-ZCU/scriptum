@@ -1,4 +1,3 @@
- V in- tervůu s americkými časopisy se vyjádřil r tom smyslu, že bezpečnost ostrova Tajranu není toho času ohrožena a že jeho vztahy I: Cínč se budou měnit evolučně.
- Využívajú ich ustanovení len pokiaľ sú im užitočné vo veciach bezpečnosti, hospodárskej pomoci a technologie.
- Do jeho domu nesmí nikdo vstoupit a on sám může svůj příbytek opustit pouze na nákupy, při čemž ho sleduje stále nejméně jeden příslušník bezpečnosti.
- V Československu se knihy rozmnožuji fotografováním (xeroxy střeží pod zámkem zmocněnci Státní bezpečnosti, kterým se říká “oddělení zvláštních úkolů” nebo “útvar obrany”; pod zámkem jsou i jiné rozmnožovací aparáty) a je zcela běžné, že si čtenář bez nároku na odměnu a s někdy nemalým rizikem sedne к psacímu stroji a opíše celou knihu, aby se s ní nemusel rozloučit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:220a0ca8c252f022468a2bee39757ac64e2861ed8741acd16ba9d75fa6c148a2
+size 900

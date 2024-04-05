@@ -1,2 +1,3 @@
-nebezpečí rudý čin hrozba rudý Činý nový
-Svoboda smrtelný nebezpečí demokracie odvažovat pochybovat právo občan posílat pomoc nepřítel
+version https://git-lfs.github.com/spec/v1
+oid sha256:83bfd690f5ebe9e88fb21eb5c0c1a13d0392708a253a92746a04dedc4c2b20aa
+size 152

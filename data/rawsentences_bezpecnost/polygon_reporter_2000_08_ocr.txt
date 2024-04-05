@@ -1,4 +1,3 @@
- velvyslance Korbela (otce Madeleine Albright), nyní profesorka na Stanford University Condoleezza Rice, vybraná jako Bushův poradce pro národní bezpečnost.
- Ostatně, pokud jsme měli v Clintonově teamu Madelaine, navrhovanou Václavem Havlem za jeho nástupkyni v úřadě (!), Bushův Cheney vicepresident prošel diplomatickým postem v Praze a česky a rusky plynně hovoří a o Evropě naší oblastí toho zatraceně mnoho ví, i jeho expert a poradce pro otázky národní bezpečností, Condoezza Rice.
- Brzy po Únoru, tak říkaje v prvním sledu, byl Státní bezpečností zatčen a vyslýchán, mj.
- Stalin a jeho vojenská a civilní kontrarozvědka (Směrž a NKVD, vojenská a vnitřní bezpečnost) se obávali, že z hlediska Sovětů svrchovaně důležitý čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c599394478aa10a4cbe9f5471cde9ec550a631480c31384ddf05692aeb43491
+size 791

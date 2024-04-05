@@ -1,5 +1,3 @@
-vědět relativní bezpečí relativní prosperita vděčit občanský poslušnost
-Západoevropan moci mít střecha spojenecký systém vlastní obranný úsilí pocit bezpečí
-bůh odcizený člověk člověk sebeodcizen bůh
-lze porozumět věda vyslovený kýme zkušený absolutní bezpečí
-Nato smýšlející zeptat vědět
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a1a1e8fc284f35b3d107738bbbbe8a9ea6058b9e23e361b8f2e53ed63291b2e
+size 333

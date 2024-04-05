@@ -1,2 +1,3 @@
-možný vysvětlit vojenský trak tát Gaulleův náčelý níka generální štáb dech depsat nebezpečí výt chod dokazovat nuta nost francouzský vodit kový bomba mezikon tinentální raketa
-nacionalismus zplodit druhý nebezpečí nový americký izolacion smu stát zřej
+version https://git-lfs.github.com/spec/v1
+oid sha256:c68fd1d7dd8b92086e979d9b980170e695a7e701e1853640fac2b945cdc06f16
+size 274

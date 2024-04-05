@@ -1,4 +1,3 @@
- Tato akce státní bezpečnosti se stala předmě- ' tem mimořádné pozornosti na madridské konferenci o plnění helsinských závazků, neboť je zřejmé, že postižení se provinili vlastně jen tím, že — na rozdíl od pražské vlády — braly tyto závazky vážně.
- To nevzbuzuje důvěru a pocit bezpečnosti mezi obyvatelstvem.
- Pozítří nato se pak objevily tanky Rudé armády a za nimi orgány různých politických bezpečností a začala zatýkání.
- Delegace se vrátila do Prahy, sovětská bezpečnost zatýkala dál a Zisman tvrdí, že několik desítek Židů bylo tenkrát zastřeleno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbca9b3f8992dd6546f0e91a11b1f65b1e7b8f8854fbe66476d6622e0943a643
+size 622

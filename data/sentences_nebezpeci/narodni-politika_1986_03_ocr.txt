@@ -1,2 +1,3 @@
-pracovat jistý úspěch překonat nebezpečí znamenat pěstitel pomeranč důležitý zemědělský odvětví země stredomorský muška zvaný
-cítit nebezpečí výstraha prudký světlo druhý hlomoz šramota tichý zašusta třetí pach převalit záda předstírat smrt jiný dát útěk klikatý křivolaký vypočitatelný dráha
+version https://git-lfs.github.com/spec/v1
+oid sha256:018a70fea19630a14f5ea6326d5984ec470ed515a59d93d5bfdee09f343e85d8
+size 351

@@ -1,21 +1,3 @@
-nebezpečí Dubček pominout akutní proslulý velvyslanec povolaný Praha porada jet dovolená Slovensko
-nutný najít forma obnovit důvěra veřejnost funkce vytvořit nebezpečí politický zvrat moci mít katastrofální důsledek
-účel politický demokracie mnohotvárný projev čelit drsnost hospodářský vývoj nebezpečí společnost vytvářet soustředova hospodářský politický moc
-vyjádřit soudruh Brcžněv rozhovor možný obrátit pozornost hlavní nebezpečí sporný Čine
-podporovaný anti komunistický centrum západ kulturní fronta prostředek masový informace podceňovat nebezpečí
-velitel funkcionář vysvětlit hrozící nebezpečí přecenit podcenit
-ukázat zcono nebezpečí hrozit závod pracoviště čekat provokace individuum částečný opatření řeč
-poučka nebezpečí zleva stát častý motto Husákův švestkový štrouga lový sklonek rok schválený Moskva urgentní doporučení Kadárův opatrný zmínka Gomulkův
-nebezpečí kampaň sjednocování rozdělovat strana lid tábor přestat rozumět
-nebezpečí difúze mod vědomovat svědčit četný reštrikční zásah dojít počátek dubčekovský éra důvěrný jednání představitel československý
-pokračovat současný stupeň vazalství blokový výklad internacionalismus urážet národní cítění nutný očekávat růst národní rozjitřenost nacionalismus síť nebezpečí moci moderní dějiny podceňovat ignorant
-souhlasit tvrzení německý komunista vidět fašistický agrese německý vítězství bleskový válka nebezpečí fyzický likvidace národ
-začít Rusko bojový akce japonský agresor Moskva vznikat nebezpečí válka fronta
-pán historik líčit situace sovětský vláda nucený podniknout SSSR odvrátit nebezpečí současný boj fronta Evropa dálný východ podmínka plný diplomatický izolovanost
-nebezpečí představovat západní velmoc odmítat vyslovený den
-květen namluvit nejvyššfus sovět strana třetí říše hrozit nebezpečí pakt Kominterna uzavřený Hitler Mussolini vinný záležitost vojensko poiitický smlouva Německo Itálie jediný ulovit boj Kominterna
-pojem chápat vidět chápání pojem evidentní skutečný ohrožení socialismus bezprostřední nebezpečí vystoupení antisociillistický síla režim
-vzpomínat společnost Dubček tvrdit nebezpečí vidět spojenec nebezpečí ohrožení socialismus upozorňovat
-moci pár sovětský voják
-Kádár Praha mobilizovat síla odvrácení nebezpečí
-označení revizionismus havní nebezpečí stát zbraň boj progresivní síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:91efb871f4181d340a673b2bb658ae5986114860eee04ac38a3ce9fb99c24981
+size 2580

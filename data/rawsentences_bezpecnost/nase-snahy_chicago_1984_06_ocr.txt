@@ -1,2 +1,3 @@
- Preto, naj- slAŠE SNAHY- 12  dóverihodnejší vykonávatelia ideologickej a štátnej moci - vysokí důstojníci najvplyvnejšieho ministerstva ko- munistického režimu - ministerstva bezpečnosti, uniesli a surovo zavraždili podporovateli Solidarity kňaza Popieluszku.
- Útvary bezpečnosti sa stali zákonom chráně- ným semeništím kreatúr, ktoré komunistom móže závi- diet' ktoràkol'vek stredoamerická teroristická skupina, či sicilská Mafia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0f865fe3eb82b19c17c6125443c9f51e065c1fc9b4fa2f1a6169c59a9a8080b
+size 467

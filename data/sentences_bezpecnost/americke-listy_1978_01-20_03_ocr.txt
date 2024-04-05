@@ -1,3 +1,3 @@
-prezidentův poradce národní bezpečnost Brzezinski prohlásit novinář nový sovětský zbraň vyvolávat velký obava utronový bomba prohlášení prvý veřejný potvrzení Sovět nasazovat raketa střední dolet
-bezpečnost odvléci pracoviště
-vyžadovat bezpečnost stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2723ad5ac82c2752d268d029e6006079bd11a10fee1b2abf62d113ad5ac0a25
+size 283

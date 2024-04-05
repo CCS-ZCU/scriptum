@@ -1,2 +1,3 @@
-hodina penzenský bolševik vysílat depec Sovět smrtelný nebezpečí
-Dukakis odsunovat důležitost mezinárodní politika skrývat vlastní lhostejnost trvající nebezpečí komunistický hrozba svět druhý Bush provádět směr jasný kampaň
+version https://git-lfs.github.com/spec/v1
+oid sha256:4deba679834fd655ac0092ea06babbe1f78d6bf810f73c21a7880dcf4be4743d
+size 250

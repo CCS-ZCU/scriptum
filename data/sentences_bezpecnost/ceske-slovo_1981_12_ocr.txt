@@ -1,6 +1,3 @@
-odsouzený opouštět síň začít zpívat náboženský píseň zástup lidé čekat nastat neklid bezpečnost vědět rada
-strach polský infekce bezpečnost uchylovat tvrdý metoda chartista VONS
-bezpečnost podniknout široký akce hnuť hudba pop
-dvoudenní akce hledat skrýš Polák náboženský literatura sestra vyslýchaný bezpečnost zadržet kněz Hlozánek zabavit různý předmět cyklostyl psací stroj
-přepadený ozbrojený muž pes kněžský starobinec Moravec bezpečnost prohledat řada
-čihošťský farář Josef Toufar zázrak stát tamný kostelík machinace snažit státní bezpečnost zdiskreditovat církev obsah adventní čtení
+version https://git-lfs.github.com/spec/v1
+oid sha256:6937f7e19c4c8f2de5fd20315d563930ebef353e99aca6978675f5d10eaf4a7d
+size 664

@@ -1,4 +1,3 @@
- Zároveň se bohužel soudí, že režim zajišťuje svoji moc v podstatě jenom svévolí Státní bezpečnosti, bdělou ostrahou hranic, cenzurou a ruŠič- kami.
- Podle francouzské tiskové kanceláře AFP se Pražané ve dny smutného výročí na Václavském náměstí více zajímali o výlohy než opatření bezpečnosti v okolí sochy knížete Václava.
- Ve třetí rezoluci, která se týká Československa, exiloví spisovatelé protestují proti věznění českých a slovenských spisovatelů a žádají, aby Státní bezpečnost okamžitě vrátila rukopisy, jež spisovatelům při domovních prohlídkách ukradla.
- Veřejná bezpečnost dvojnásobného vraha a pachatele několikanásobného znásilnění zadržela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0779cb603a42571764fbb1e52b28d1a7f38d3f69f8dd554c0c0ee77e3cf566e7
+size 742

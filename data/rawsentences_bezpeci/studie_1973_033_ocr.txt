@@ -1,3 +1,3 @@
- O b e c , j í ž h r o z í zkáza, cítí se v bezpečí.
-Já však V i n c e n c , v i d a to neštěstí, z p ě č o v a l j s e m se v r h n o u t d o t a k o v é h o nebezpečí a r o z m ý š l e j e co b y c h m ě l za t a k o v é situace činit a přihlížeje v í c e k s v é m u bezpečí než k o d v a z e , připojil j s e m se se s l u ž e b n i c t v e m m ý c h s p o - lečníků k P a v i j s k ý m .
- P o n ě v a d ž b y b y l o v e l m i n e b e z p e č n é c t i h o d n é m u bratru O n d ř e j i , p r a ž s k é m u b i s k u p o v i , k v ů l i králi a č e s k ý m v e l m o ž ů m v é s t s v o u při na p o d e z ř e l é m místě, sluší se, abys ty, j e h o ž rozvážnosti j s m e svěřili bezpečí j e h o o s o b y , n e j e n za nás, ale i za sebe a za t é h o ž b i s k u p a vše nutné pečlivě zařídil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2322deb5be510752f66c56da92216fdc822d9b7def7ef1581623c1e5eeecf5bb
+size 878

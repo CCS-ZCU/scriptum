@@ -1,1 +1,3 @@
- ní Palestinců a vyslovil přání, aby co nejdříve došlo k spravedlivého a trvanlivému urovnání konfliktu na Středním východě, tak aby bylo uznáno právo Palestinců na jejich vlast a Izraele na vlastní bezpečnost; na ostré protesty izraelských kruhů Svatý stolec jako odpověď připomněl, co pro židy za druhé světové války vykonal Pius XII.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5504c063ea4965391172360786e24e1f491576aa05fb2c26d24245f81b240eb6
+size 371

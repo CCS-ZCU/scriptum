@@ -1,2 +1,3 @@
-veřejný bezpečnost Galanta zjistit konstruktér pilot
-vzít péče veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:686cd407aabd87043d4b77007708e78eac928838515466b89f3be3b5abbbfc5a
+size 92

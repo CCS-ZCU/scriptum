@@ -1,2 +1,3 @@
- století na výstavě v Österreichische Galerie Belveder, a díla se tak vrátila v bezpečí do České republiky.
- srpna 2002 zaměstnanci zahrady přenesli či převezli do bezpečí před velkou vodou přes tisíc zvířat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8144d0d1b6f8ff492c893f63c3c1622fb25817edbfd02b783379b96e85ba3eb6
+size 230

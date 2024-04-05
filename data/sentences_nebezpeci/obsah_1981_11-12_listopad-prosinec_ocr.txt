@@ -1,3 +1,3 @@
-eechopnost lidé jednat preventíma těfit uniknout nebezpečí
-začít psát probucat ostrý sneeitelní vědomí drama nebezpečí všeobecný úzkost chtít uprchnout vyprchat zapomenout
-právo zechrfunit nebezpečí mít svatý
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee866e9088fd2540874a6b4e63a21f645aa8f44f41d9ba41a76ed4ca25b611f5
+size 232

@@ -1,1 +1,3 @@
-: "Smlouvy o vzá- jemné spolupráci při o- chraně státní hranice při budování pohranič- ních obcí uzavírají v těch- to dnech MNV a pohra- niční oddělení Veřejné bezpečnosti v Severoče- ském kraji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ef50cac86eb05bbba29b3932f4878399e4650387babf8e4cbf99370053855f4
+size 221

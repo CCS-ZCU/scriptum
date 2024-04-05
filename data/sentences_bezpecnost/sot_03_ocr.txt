@@ -1,2 +1,3 @@
-spousta policajt civil vědět instituce patřit
-státní tajný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a47c2cfdb517e5411d7c04e5e575bf827c22bac40e1964bf45d584a512e02565
+size 77

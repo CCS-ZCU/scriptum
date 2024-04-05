@@ -1,1 +1,3 @@
-nos lámání rač točit klika prisma optika Samizdat Samizdat opisuj péče vlastní nebezpečí charta vyplácet podepsat spolupráce starý škola
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab394df278709c0b2f81498e57e34253c4d74020819f0d471e9135944cdf0ab7
+size 275

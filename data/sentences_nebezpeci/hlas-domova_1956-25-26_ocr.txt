@@ -1,1 +1,3 @@
-gomulkovština tkvět nebezpečí pomalý kontrolovatelný rozklad rudý impérium
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef41961357f8961d71ebb613816b5c639d397455dea172e4667478d0e1cc7d7d
+size 83

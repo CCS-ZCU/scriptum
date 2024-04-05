@@ -1,1 +1,3 @@
-bezpečnost pseudo bezpečnost nahý mrznoucí člověk tesil krása skříň visící šat
+version https://git-lfs.github.com/spec/v1
+oid sha256:65cec0f535c769e8a73bfacf29b98cd99322abcf2fe088834c6c4212039d02ec
+size 91

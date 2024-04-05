@@ -1,7 +1,3 @@
- “Můžete vážné podlomit ducha naši spolupráce, tím že umožníte třetí straně, aby z vašeho území o- hrozila bezpečnost Československa a jeho spojenců.
- V souvislosti s tím odvezla Státní bezpečnost v prvních litopadových dnech na dvě desítky signatářů Charty 77.
- Otce Jankowského doprovázel k výslechu opravdový dav polských občanů, novináři ve svých zprávách odhadli jejich počet na jeden až dva tisíce; a ti se nerozešli přes neobyčejné množství příslušníků veřejné bezpečnosti, kteří prokuraturu obstoupili a kteří některé demonstsanty a západní novináře a televizní reportéry legitimovali, vyšetřovali a přechodně zadrželi.
-' Dodd; Jóhn G? Glenn, kandidát na úřad prezidenta Spojených států ; Robert Dole, místopředseda kongresni komise pro bezpečnost a spolupráci v Evropě; Paul Laxalt; Daniel P.
- Fascell, předseda kongresni komise pro bezpečnost a spolupráci v Evropě.
- Žádal o prohloubení spolupráce s krajanskými a exilovými organizcemi mimo Spojené státy a podal zprávu o své účasti na zahájení madrid- ské konference o bezpečnosti a spolupráci v Evropě.
- Ve všeobecné debatě byla zdůrazněna nutnost připravit dokumentaci pro konferenci o bezpečnosti a spolupráci v Evropě, která se sejde ve Vídni v roce 1986, jako pokračování procesu sledování plnění helsinských dohod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2118ffb90883d25627daecc7a8aa91bccdaf9e62ff55f042def130b614e9a865
+size 1414

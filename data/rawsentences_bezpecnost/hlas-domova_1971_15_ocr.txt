@@ -1,4 +1,3 @@
- Do tohoto mechanismu patřili agenti státní bezpečnosti .
- šéf státní bezpečnosti a náměstek ministra vnitra, který pak zahynul v procesu spolu se Slánským, prohlásil: “Osvojil jsem sí, že to, co provádíme - úzká skupina představující vedení strany - je správné, i kdyby to tisíckrát bylo v rozporu se zákoněm a mělo i zločinný charakter.
-” Ladislav Kopřiva, bývalý ministr národní bezpečnosti: “Ano, to zatýkání odporovalo zákonům, ale tenkrát se na to nebral zřetel.
- A komise doporučila, aby ti političtí funkcionáři a ti pracovníci bezpečností, kteří měli podíl na procesech, už nikdy nezastávali vysoké stranické státní funkce a nepracovali v oblasti policejní a justiční.
+version https://git-lfs.github.com/spec/v1
+oid sha256:892631245023e01726cd34eee12fcbbb0ff3b241dc5d769c164210cf9ece9ba9
+size 752

@@ -1,1 +1,3 @@
-ánk pravit mít právo život svoboda osobní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f27030dd55e8100836be7b005f6729fbc309fdd5d065ab76f7fd109f4752d5e
+size 59

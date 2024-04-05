@@ -1,1 +1,3 @@
- Zejména poté, co se tibetský duchovní dalajlama omluvil, že letos s ohledem na vlastní bezpečí do Prahy nedorazí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3255fa7da9d23989dafc3e8fd1c023af156a25537aae7aa520a09a3f7f898e82
+size 124

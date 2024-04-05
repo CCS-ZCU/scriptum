@@ -1,2 +1,3 @@
-hledat bezpečnost pakt sovětský svaz
-vidět bezpečnost Siam určitý míra záviset záchrana Laos
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2d5a3ac3b65e98c4be828857fe272d87517fe838fc965bd9b4a856a01d952c5
+size 103

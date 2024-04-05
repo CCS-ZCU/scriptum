@@ -1,1 +1,3 @@
- Dalším důsledkem vyděračství gangu byl diktát obsažený v Moskevském protokolu, aby Československo samo požádalo, pro- střednistvím svého delegáta u OSN, o odvolání projednání invaze a agrese vojsk 5 zemí Varšavské smlouvy proti ČSSR v Radě bezpečnosti OSN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e3f65710ed730cc35398fd0f53237d79a64d649db2f589b971eda897a482ce0
+size 285

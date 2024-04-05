@@ -1,1 +1,3 @@
-veřejný bezpečnost varovat koupě magnetofonový přehrávač značka Walkman digitální hodinky video přístroj moci zabavený
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d4945700c644f9b7c91892c3ac70de4df5de68b8eb6b4b5f22b5cfc6ac7d12
+size 133

@@ -1,1 +1,3 @@
-spravést vost opatrnost vadit doprovodit uznání mít právo zachránit nebezpečí mít starost
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddf6830bf937656bfab42ef9ebef726d81072ae8cc0d58935c3d19878216e6c8
+size 100

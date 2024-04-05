@@ -1,17 +1,3 @@
- "Labyrint světa" v kontrastu k”ráji srdce", marnost světského žití v kontrastu k Bohu, to je cosi ryze barokního, je to přímo klasické dobové myšlenkové schéma, přetrvávající pak v následujících staletích /vzpomeňme poezie Bedřicha Bridela, následující dlouhé tradice v lidové a zlidovělé slovesnosti, bytostní odmítnutí tohoto schématu Máchou a naopak polemické a kontrastní přijetí Erbenem/, A ve filmu? Tam je"laby- rint světa" pojat vnějškově, jako maškaráda, podívaná bez hlubší reflexe - hlavně bez svého v baroku zcela nutného a nevyhnutelného protějšku - Boha, k němuž se barokní člověk uchyluje, v němž hledá pro24  tiváhu "světské marnosti", totiž nejistoty, nespravedlivosti a brutality své doby, v němž hledá vnitřní, duchovní jistotu a hlubinu své bezpečnosti.
- Srovnají skóre Veřejná bezpečnost versus pořadatelé na 1:1I Před rokem byli totiž zadrženi nejen oni, ale až na malé vyjímky prakticky všichni lidé, kteří se sem sjeli.
- Místní bezpečnost preventivně zasahuje několik dní předem a vyslýchá několik domorodců, které si vytipovala jako možné pořadatele * ale od nikoho se nic důležitého nedozví.
- Co je všechny společně láká a nutí trmácet se často celý den a zase zpět, riskovat střetnutí s policií, pokuty, zadržení, předvolání na Bezpečnost v místě bydliště, nepříjemnosti ve škole, v zaměstnání, že se znovu a znovu vypravují na večery, jejichž umělecká úroveň není vždy vysoká, spíše průměrná až podprůměrná ? Že by kouzlo "undergroundu”? Ale to se jeví jenom při srovnání s jeho slovníkovým výkladem jako nadsazené označení, které neodpovídá skutečnosti.
- Prázdný výčep v sobotu večer! Zní to jako vtip, ale domácí jsou prý na bále příslušníků Veřejné bezpečnosti, který se koná několik kilometrů odsud * V sále jsem překvapený podruhé.
- Připočtemé-li k tomu také občas špínu místností, kde se dusilo dvakrát nebo až třikrát tolik lidí, než se tam mohlo optimálně vejít, první dojem náhodného návštěvníka byl nechutný a pro Bezpečnost? Další vítané sousto, jak ospravedlňovat své razie a perlustrace.
- Těch několik unavených, co přece jen zůstane na sále, jak se později dozvídám, se nevyline kontrole a pokutám, protože do půl hodiny přijíždí uniformovaná bezpečnost a civilisté ze Státní ostrahy.
- Podřimuji ve vlaku, jsem rád, že mě příslušníci nekontrolovali, nepředvedli a že tento večer skončí bez dohry, obvyklého vysvětlení čili pohovoru na oddělení Státní bezpečnosti.
- Vždy počítám s případnou kontrolou veřejné bezpečnosti, a proto při sobě nosím jen a jen občanský průkaz.
- Její těžiště se přenese do soukromé osobní sféry, protože slídění bezpečnosti a zejména pak psychóza strachu z odvetných represí vyloučí postupně jakékoli pořádání nezávislých večerů na veřejnosti.
- Balabán zařval jako tur: 104  - Já, který nosím nejdelší péro v republice, budu nakonec píchat nehtem?! - Ještě v noci ho pak bylo vidět, jak pobíhá chodbami Úřadu pro bezpečnost, což bylo známkou jeho nej- vvššího duševního vzrušení.
- Po chvilce váhání vytáčí číslo, které není v žádném telefonním seznamu ani soukromém adresáři, a okamžitě dostává spojení s Úřadem pro bezpečnost.
- Já myslel, když dovolíte, ten Váš Úřad pro bezpečnost.
- - Milý pane! Úřad pro bezpečnost je instituce povahy státní, která podléhá přímo presidentu republiky.
-, ale Tusar už rychle zavěsil, aby si to šéf Úřadu pro bezpečnost ještě nerozmyslel.
-cne opičku, byl z něho opět dokonalý šéf Úřadu pro bezpečnost.
- Od Stánku s večerníky na Kulatém náměstí se oddělil obtloustly muž středního veku a zamířil ke vcho- du do budovy Hradu pro bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a580f819f434fe6a62100ebed8a43daec711d0db247e89037e7f775e527399f
+size 3973

@@ -1,1 +1,3 @@
- A proto musí zasahovat kanadská jízdní: "Největším nepřítelem trampů je Veřejná bezpečnost, která se pokouší trampy kontrolovat a žádá, aby se legitimovali a ukazovali potvrzení příslušného místního národního výboru, že mají právo stanovat v přírodě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79d219d6f454257d0cc70ec51ba06d20382c30ee8152fdc332b0ede45256d137
+size 287

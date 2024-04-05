@@ -1,2 +1,3 @@
- (Tak například odsuzuje jedním dechem motorismus, horolezectví, box, lov a koridu, ačkoliv sám si v době svého aktivního motorisování pletl veřejná komunikace s Masarykovým okruhem, na výletech zlézá kdejakou skálu, aniž by měl alespoň nejzákladnější horolezeckou průpravu a vybavení, která profesionálům poskytují pasivní a aktivní bezpečnost, box a lov si nahrazuje publicistickou hyperaktivitou v tak pochybených periodikách jako jsou Dikobraz^ Tvorba, různé ty Knihy přání atp.
-Aquinové a je připravena "pomoci" Filipínám zejména v otázkách hospodářské obnovy a národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea63fcedcc61c1d1aeddeadf9ee471d4128181ee526e13a0ee07e1e2fa621a0e
+size 642

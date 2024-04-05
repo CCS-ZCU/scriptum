@@ -1,11 +1,3 @@
- Táž agentura také sděluje, že řada lidí byla bezpečností varována, aby se v okolí soudní budovy neobjevovala, jinak že budou mít oni a jejich rodiny potíže.
- ministerstva vnitra o povoláni příslušníků Lidových milic k plněni úkolů Sboru národní bezpečnosti, vyhlášky ministra zahraničních věci o Dohodě mezi vládou CSSR a Prozatímní vojenskou vládou Socialistické Etiopie o vědeckotechnické spolupráci“.
- Nově vytvořena státní bezpečnost měla rovněž včele komunistu.
- Byly váženy síly strany: V ministerstvu národní obrany bylo mezi nejvyššími důstojníky 33 procent komunistů, v ministerstvu vnitra a státní bezpečnosti bylo na klíčových místech 44 procent komunistů, v ministerstvu informací 45 procent.
- Člen Veřejné bezpečnosti jde po břehu řeky a vidí muže.
- Když se asi 200 aktivistů občanské iniciativy za lidská práva dostavilo se vstupenkami do Domu železničářů, očekávalo je asi sto příslušníků bezpečnosti v uniformách i v civilu a začalo je brutálně rozhánět.
- Známého herce Pavla Landovského a dramatika Václava Havla zadrželi s odůvodněním, že se prý vzepřeli příslušníkům veřejné bezpečnosti.
- Bezpečnost oznámila účastníkům plesu, že aktivisté Charty 77 nejsou na bále vítaní a jednoduše jim odepřela vstup do sálu.
- Místo pořadatelů nás očekávali lidé od státní bezpečnosti.
- Muži od státní bezpečnosti byli totiž také v černém.
- Viděl jsem pak i jiné pracovníky státní bezpečnosti, jak kopají a biji doktorku filozofie Horákovou a jednu neznámou dívku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e6588678eaf166b555de86707eaac9799b2366bc84d352c7477625b872ee9c
+size 1639

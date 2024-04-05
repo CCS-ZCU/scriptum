@@ -1,2 +1,3 @@
-chtít souvislost poznamenat americký tisk poslední doba ironizovaný pojem národní bezpečnost národní opatrnost národní hrdost přežilý
-příčina pracovní důvod Brežněvův bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:d679e35b078c70563d4d1d547b0af146a952d9a831a27f4d371deb04074b6a08
+size 201

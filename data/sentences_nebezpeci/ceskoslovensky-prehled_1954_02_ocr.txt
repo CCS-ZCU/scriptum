@@ -1,2 +1,3 @@
-měnit naprostý slučitelnost zájem statní otázka
-bojovat odpor schopnost vládce přinutit komunista zpomalit pochod směr světový revoluce
+version https://git-lfs.github.com/spec/v1
+oid sha256:eec303791a2119a31d03ef611311a9a05a632aaa5260f342f1ce313d72899620
+size 148

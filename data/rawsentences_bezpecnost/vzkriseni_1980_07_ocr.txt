@@ -1,1 +1,3 @@
- Proto jim předpověděl, že před ne jbliž- ším městem je zastaví bezpečnost, nechá je odvézt do nemocnice akuže, který se těsně předtím zraní v havárid a ten muž jim v autě zemře.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af9fa28011033198d56114cd5cb7d67bd71255fc8cddd51acc44c857a47cae0
+size 203

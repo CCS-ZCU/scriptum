@@ -1,1 +1,3 @@
- Lenin však neměl vděčnost ve svém slovníku a jakmile se octl v curyšském bezpečí, na- KATASTROFA V OSTRAVĚ Ota Filip Do nejdelikátnějších záležitostí s přestupy prvoligových hráčů jsme Pastrňáka nepřipustili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:375409df39e6ae2663c8cb3469a9f052c22453eeff196bf19216981466723fdb
+size 234

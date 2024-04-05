@@ -1,1 +1,3 @@
-tušit ostražitý muž ignorovat náznak nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f89e27d8161b87aa4546b1dacb91f9c3aca9c4c6211c706c08b60c0c7a744c1
+size 54

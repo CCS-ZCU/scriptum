@@ -1,1 +1,3 @@
-bezpečnost den objasnit série požár průmyslový objekt území český socialistický republika vražda sedmnáctiletý
+version https://git-lfs.github.com/spec/v1
+oid sha256:78df3293d3578ec02becdb3d49d9120ae52a14a07baf11de2fbe5c7bf673f841
+size 125

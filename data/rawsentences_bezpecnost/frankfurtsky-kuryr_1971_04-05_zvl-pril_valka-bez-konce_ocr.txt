@@ -1,2 +1,3 @@
- Jejich vyhledávání je celkem, obtížné, protože se musí dbát několik:? aspektů: bezpečnost, ne přílišná odlehlost, nenápadnost, odolnost vůči povětrnostním nod-ínkám, agentem lehce orientovctelnou polohu a dostupnost v každou denní i noční dobu.
- hřbitovní prostory jsou sice lákavé pro zakládání schránek, leč jc ;ich bezpečnost je pouze krátkodobá a těm, kteří schránku obsluhují neskýtá hřbitov právě největší bezpečnost pro nepřehlednost a pomníky, zakrývající průhled do okolí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d0023ce17cfd8a5ee5cc4dc51c61b08dcd5aeda94aedbb0bf13038bc9a543d
+size 543

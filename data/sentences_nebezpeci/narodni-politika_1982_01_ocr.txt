@@ -1,1 +1,3 @@
-dlouhý hodina přátelský území nebezpečí protiletecký palba útok stihač
+version https://git-lfs.github.com/spec/v1
+oid sha256:de4f3af2062eb502e834eb8dbac7cb358d5043af97e7cb04f00af261e3f78260
+size 82

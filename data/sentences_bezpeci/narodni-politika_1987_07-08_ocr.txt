@@ -1,5 +1,3 @@
-další ustanovení paragraf týkat bezpečí pronásledování zajištěný jiný způsob
-cizinec politický pronásledování bezpečí jiný země moci západní Německo uznaný politický uprchlík
-země hrozit pronásledování žadatel zdržovat měsíc vstup NSR lze domnívat politický pronásledování bezpečí
-další prostředek komunistický násilí zůstávat řečený hrozba hlad dnešní forma hrozba sociální existence jednotlivec výhružný apel odpovědnost existence bezpečí rodina přítel
-Ctyř šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fe68eb4a21746b6d356b1dd91e9986ec60590c3f3c956d2ca299064ebe5c9a4
+size 564

@@ -1,3 +1,3 @@
- Přebývá v jednom z hradčanských paláců, jehož sláva patří minulosti, v místnostech odposlouchávaných Státní bezpečností.
- Úhla, aby pomohl s organizací Rady v Evropě, 2) předložit zastupitelstvu kandidaturu nových Členů zastupitelstva a připravit další kandidátku, na níž bude věnována obzvláštní pozornost ženám a mladší generaci a 3) zahájit přípravy na Konferenci o bezpečnosti a spolupráci v Evropě, která se má konat v roce 1986 ve Vídni.
- Přesto se naléhavost ničení životního prostředí prosadila do té míry, že i východní blok přistoupil na závěrečné prohlášení, které sice konstatuje, že mír a bezpečnost patří k důležitým podmínkám zlepšování životního prostředí, ale o přímé souvislosti mezi umrtvováním přírody a zbrojením nemluví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:661746fb8a51ac5097b15d52f0063b62100f0b1a6d1f7473b3cef81973b85484
+size 842

@@ -1,1 +1,3 @@
- Teprve začneme-li nacvičovat prostná, ukáže se ta naprostá nedokonalost v pohybu a pružnosti, ovládání končetin a celého těla, bezpečnost a jistota v postoji, při upažení a vzpažení to opravdové rozpětí v hrudníku a ku všemu nedokonalost v koordinaci v pohybu a polohách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a01ba764347df6eee4eeb8ef07af24b5dbd8ce7cb11c00fe057cd8d7dae0f1ed
+size 298

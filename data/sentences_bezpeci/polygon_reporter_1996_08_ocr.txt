@@ -1,2 +1,3 @@
-otázka bezpečí občan představovat základní cíl program
-platit vysoký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9efe65769f73fe0f9b383e00c9fe19127d54e2dc6ca09ceac7c3452d6c9d707
+size 83

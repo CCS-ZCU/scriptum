@@ -1,2 +1,3 @@
- Jak se ukázalo, jednalo se o osmé komisařství kriminální bezpečnosti v Santiagu.
- Izrael má mít právo ponechat své jednotky v některých pohraničních oblastech, aby mohl zajistit svou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b16b6673106ee063630414137a9b48945ece6e2cda642b5cb572cb261f916cf6
+size 212

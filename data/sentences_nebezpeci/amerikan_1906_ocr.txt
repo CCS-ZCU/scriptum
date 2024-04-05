@@ -1,24 +1,3 @@
-div vystěhovalec jsoucí týden upoutaný pár střevíc volný půda nebezpečí život odříznutý celý svět dohled pevný země tlačit druhý spatřit moci spásonosný břeh nový vlast hledat spokojenost štěstí odvislost zámožnost
-
-Galveston veliký město pokušení lákadlo nebezpečí
-obdivuhodný chodba stavěný
-lekat slečno Verunko pravit vypravovat užaslý dívka osidlo padnout strašný nebezpečí nalézat
-nebezpečí nacházet milovaný otec vzpružit chabnoucí sval mladý muž nadlidský síla obrátit
-hukot děsný hurikán náraz burácející vlna Melu zina bičovaný moře
-vyhlédnouce okno spatřit pěnící vlna loďka rychlo prken trám sestavený vora lidé obé pohlaví hledět dostat dům zoufalý chvat ohled jiný stávat ztroskotání loď požár divadlo klidný rozvaha vyznačovat lidé přestát smrtelný nebezpečí
-hrdinný obětavý muž čelo dbát ostatní nebezpečí vzdorovat děsný bouře větrný náraz zuřivý vlna pátrajíce tonoucí zachraňující lidský život dát zachránit
-velký nebezpečí
-nebezpečí minout nemocný začínat uzdravovat vymaňovat hrozný blouznění prožívat novo trpěný dětství mladý
-vypomoci obchod zaměstnaný malý zpronevěření hrozit nebezpečí poctivost přijít světlo muset vypomoci Karel chtít bratr dostat styk trestní zákon
-hračka dát doktor
-Bděl den noc jistý vyváznout velký nebezpečí
-opilost tušit nebezpečí uvádět malý jmění
-čas stát zavalitý pravý ruka yardmastrův zapomínat služba Shockley prokázat nebezpečí vydat
-nadejít doba vlast nalézat nebezpečí dovést čas oddálit cifra technický nákres život vstoupit přední řada zápasník český státopráv nost
-napadat překážet zasloužilý ustanovení ukazovat veřejný městský uznání věrný hrdinný služba žádat komise chránit nebezpečí
-přeložený jiný oddíl vojsko hrozit nebezpečí zastřelení
-div měšťaný chtít ohradit nebezpečí čas bydlet Mormoni jít zlý pověst loupit vraždit
-známý zvíře vynikat velký hbitost bleskurychle dovést uhýbat nástraha nebezpečí patřit zvíře hravý
-chtít člověk stát ohrožený muset jistý nebezpečí čelit pravit jistý společnost
-čtenář číst napnutí zvědavý zájem dějiny český vystěhovalý pustit Chicago jezero michiganský hostinný doba břeh stát Michigan čtenář chvět soucit vzpomínka krutý útrap první konečný zima nebezpečí krajan zažitý zasmát popisování první zábav konaný rozbrnkaný kytara muzika hřeben
-tajit návštěva škola dítě mnohý nebezpečí nemoc hledět snadný nákaza doba řádění nemoc nakažlivý
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f59dee3aaed1fe9727426e298dc7edae8c39db602a24a840cccaeb03ab2a8b1
+size 2675

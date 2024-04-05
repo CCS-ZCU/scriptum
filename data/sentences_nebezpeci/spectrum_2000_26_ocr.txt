@@ -1,1 +1,3 @@
-jednat svazek spolupracující kmen spojovat společný nebezpečí obrana Avar Franek
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6768c7eb61ccad3acf06994b4670daa20c448ea134f587a801294c6d48c6dc3
+size 87

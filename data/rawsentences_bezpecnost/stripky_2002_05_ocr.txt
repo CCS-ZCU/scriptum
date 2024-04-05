@@ -1,3 +1,3 @@
- Bratislava by podle něj mohla českým organizátorům například zapůjčit detekční rámy, rentgenové přístroje či auta, čímž by přispěla k zajištění bezpečnosti účastníků summitu.
-2002 Armáda rozmístí kvůli summitu NATO v Praze rakety Česká armáda chce kvůli bezpečnosti podzimního summitu Severoatlantické aliance rozmístit v Praze protiletadlové raketové komplexy.
- Na bezpečnost při setkání 46 hlav států NATO a Partnerství pro mír má dohlížet na 13.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed086402f1f99248837819e7d4fe2aee959d99cb1035d9d9da943085f8dc31c7
+size 504

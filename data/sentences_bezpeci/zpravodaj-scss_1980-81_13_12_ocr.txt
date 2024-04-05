@@ -1,1 +1,3 @@
-okolnost narodit Praha vracet minulost třicátý léta moci dlouhý útěk nacismus uchýlit bezpečí demokratický Československo krajan
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77849b1f3e65a83b80f29dc95fac99e90da6b83630a0b8ce18b5cf787c7a95c
+size 141

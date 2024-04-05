@@ -1,2 +1,3 @@
- Soviety vetom povedali celému svetu, že si vo Spojených národoch i mimo ne môžu robiť, čo chcú - medzinárodná morálka, mier, spravodlivosť a bezpečnost sveta pre nich neplatí.
- Bezmocnosť Spojených národov v otázkach mieru a bezpečnosti začala hneď v ich začiatkoch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77fecec62c0b7166389bd30c0fd207fd83999042c36382be2f5b7bcb9a21ea3d
+size 291

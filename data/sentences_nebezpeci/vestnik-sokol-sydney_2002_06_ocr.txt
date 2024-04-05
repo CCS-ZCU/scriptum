@@ -1,1 +1,3 @@
-mít dcera pravda názor nebezpečí číhat poškozený dopis oprávněný
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa7294687c6028dc0a602074e1f0d7fa4fd1fb7f60b380184c71006f8884dfc0
+size 76

@@ -1,1 +1,3 @@
- Při všem respektu k panu Orlovovi a přání všeho nejlepšího v životě jsem rád, že se ho nikdo asi na to nebude ptát, co o tom soudí, dokud nebude v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7ee4170ad64e576278bae2e6bb0fed12855ac3e799bdf911a2221c899f49c71
+size 173

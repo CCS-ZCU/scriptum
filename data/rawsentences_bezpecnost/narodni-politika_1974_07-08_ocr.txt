@@ -1,7 +1,3 @@
- Od té doby došlo k dalším setkáním Brežneva s Mixonem, s Pompi- douem a Brandtem, k zahájení Konference a snížení stavu výzbroje a vojenských sil ve střední Evropě, Konference o bezpečnosti a spolupráci v Evropě, pokračují jednání o omezení stavu strategických ofenzivních zbrání, o odzbrojení atd.
- Známá je v tomto směru i Brežně- vova propagace vytvoření systému kolektivní bezpečnosti v Asii, který by dle představ v Moskvě měl být asijským satelitním pásmem vhodně doplňujícím Varšavský pakt v Evropě.
- Spravedlivé uskutečnění těchto hlubokých a nevykořenitelných národních a humáních aspirací našich národů je jediným, nedvojsmyslným, řešením aktuálních evropských problémů k zajištění bezpečnosti, spolupráce a míru v Evropě.
- 32) Státy, které podepsaly ženevskou dohodu, mohou uprchlíka vykázat neb odsunout z důvodu ohrožení vlastní státní bezpečnosti neb ohrožení veřejného pořádku.
- Stát, na jehož území uprchlík žije, má z důvodu ochrany své vlastní bezpečnosti možnost chopit se prostředků, směřujícím proti určité osobě, i když tato má právo asylu.
- Pútnik, ktorého ste pritúlili „pre Kristove rany“ na noc; zatýka vás montér, ktorý k vám prišiel skontrolovať stav spotreby elektrického prúdu; zatýka vás bicyklista, ktorý sa s vami zrazil na ulici; berie vás železničný sprievodca, šofér taxíka, úradník sporiteľne, správca kina — všetci vás zatýkajú a len s oneskorením vám ukazujú hlboko skryté legitimácie bezpečnosti.
- Zdalo by sa totiž, že by celkom postačilo poslať všetkým určeným králikom predvolania, aby sa na hodinu a minútu dostavili s vrecami a v plnej pokore k železným bránam štátnej bezpečnosti, zacenga- li na ne a zaujali im pridelený kus podlahy v cele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad5b4a0495e74ade9c2cc9a5800506da36bf68c1cfadff9cf53d2682cf037ac7
+size 1878

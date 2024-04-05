@@ -1,1 +1,3 @@
- Neopomenul zdůraznit důstojný průběh našeho státního převratu a vděčně konstatovat, že osobní bezpečnost příslušníků Německé říše byla zabezpečena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a601b56543afaefc899a09be583057744252f9d4d595394d7a58b08fe08dcbc0
+size 175

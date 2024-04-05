@@ -1,7 +1,3 @@
-jít Milada Horáková troufat tvrdit vynikat obzvláštní bojovnost nastupující komunismus doba předúnorový moci mít význam případný odvrácení hrozící nebezpečí
-Jiří Dienstbier říkat sólový instalace účast NATO moci vést skutečný nebezpečí rozklad severoatlantický aliance odvolávat přední americký odborník mít radar význam nulový
-odhodlání snaha USA vedený Georgern Bush postavit cena lidský oběť módní celosvětový smrtelný nebezpečí stát část dezorientovaný americký občan léta dík turecký expanzřvita platívat latentní nebezpečí sud prach hrozící chvíle výbuch Balkán
-řidič městský autobus nebezpečí odmítat jezdit muslimský čtvrť Malmö švédský politik strana dojít řítit
-léta podniknout účinný opatření odvrácení nebezpečí
-Jan Kubiš zefum Gabčík věnovat atentát příprava navádět pokyn Londýn spojenecký bombardér Škodův závod Plzeň směr let Plzeň zapálit stodole jiný zdroj uvádět seník Londýn riskovat vystavit enormní nebezpečí odhalení bombardování nota bene napáchat škoda
-nový prezident Felippe Calderón vědomý politický nebezpečí vyvolat dojem proamerický sympatie poslední průzkum veřejný mínění postoj většina Mexičan USA negativní návštěvník přijmout slovo Bush muset snažit USA získat respekt latinský Amerika
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5886e630a352d9239b39299074b6a43e3d64f4d1f0489530eeca7358254fc57
+size 1383

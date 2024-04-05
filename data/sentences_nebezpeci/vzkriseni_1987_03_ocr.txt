@@ -1,1 +1,3 @@
-impulz trát hektar míra žít zed ovědnost stvoření šance nebezpečí manželství rodina výsledek rýt zajímavý rozhovor mít pokračovat skončení setkání
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58f0392889053a561758563a7ebd9c16f0f77aaf63158158c305113776d9dfb
+size 181

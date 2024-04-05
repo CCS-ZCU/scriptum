@@ -1,1 +1,3 @@
-uvidět muset le< nebezpečí přijití
+version https://git-lfs.github.com/spec/v1
+oid sha256:8191ce4ce6cad04b664acbd3f244bb88dd33408c0a680be9fb25de3b6a620f2b
+size 40

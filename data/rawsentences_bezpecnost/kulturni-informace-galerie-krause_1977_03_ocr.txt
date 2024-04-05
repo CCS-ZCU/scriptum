@@ -1,3 +1,3 @@
- Státní bezpečnost ovšem svazky edice zabavuje, pokud na né narazí — např.
-í prokuratura ani státní bezpečnost nenoíly vhodný paragraf trestního zákona, jímž by mohly autory po»tihr- ot za to, že pro potřebu svých přátel a prcfraionálr.
- V rámci vla'tní bezpečnosti se rozhodli pro to druhé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03daaa7e262c6b313133057e56dad88aad28ee92beb27478f6e889d67eabb214
+size 322

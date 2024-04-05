@@ -1,2 +1,3 @@
- Schůzi likvidovala státní bezpečnost:tři osoby byly odvezeny za město a poházeny v noci na liduprázdném mís- tě, jedna byla zbita ve vazbě a sedmnáctiletá Aneta Fadějevová byla zavřena v psychiatrické léčebně (téže,ve které je od le- dna jiné členka skupiny Irina PantokratovovÓ).
-V le- dnu tohoto roicu Komise Kongresu USA pro bezpečnost a spoluprá - ci v Svropě nabídla,aby byl poctěn Nobelovou cenou míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5175b0177a1aa163759b0eba7cb1f9bbe44868b707fbf66a9f594f5c09cdcd07
+size 443

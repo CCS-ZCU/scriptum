@@ -1,2 +1,3 @@
- Je samozrejmé, že škodí to našej americkej ekonómii a bezpečnosti našej obrany oproti komunizmu a všetkej jeho ideológii.
- Svet chce nájsť spôsob na vyriešenie univerzálneho problému bezpečnosti ponad hroby mučeníkov, ktorých odvahu obdivoval, ako sa obdivujú na javisku staré grécke tragédie, ale za ktorými zapadla opona zabudnutia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a6b6e0ce693343fa66ea9efcdee7c7329774b5e14617be2064eb8e9479da691
+size 361

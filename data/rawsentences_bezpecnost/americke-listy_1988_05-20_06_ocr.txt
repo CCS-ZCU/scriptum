@@ -1,1 +1,3 @@
- Podle tiskové agentury TASS ministr obrany Jazov ve své obsažné přednášce mimo jiné prohlásil, že "nové myšlení v Sovětském svazu, vycházející ze současných realit a existence obrovských arsenálů a rizika jejich použití, nutně potřebuje skoncovat se zastaralými pohledy na otázky národní a mezinárodní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a279430dbcc2837a86ef67584060c15c08aa36b632a3dd7a8a55db23e93a4cfc
+size 350

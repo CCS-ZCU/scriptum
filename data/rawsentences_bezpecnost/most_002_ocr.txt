@@ -1,3 +1,3 @@
- Popravčí vrch určoval přesně místo, které umožňovalo člověku obcházet smrt a dávalo  32_________ MOST atd, I Josef Šafařík pocit bezpečnosti, nevybočil-li z řádných cest.
- HAVLOVA IDENTITA Jiří Gruša V Havlově hře Largo desolato (1985), uváděné taky německy, padá hlavní postava, filozof a disident Kopřiva, na kolena před dvěma příslušníky Státní bezpečnosti a vzlykavě je prosí: „.
- Patočkova smrt - jako mluvčí právě založené Charty zemřel bezprostředně poté, co byl vyslýchán Státní bezpečností - zapůsobila na Havla stejně jako na celou československou veřejnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04561162f1b6cb6e3e0c47b810df89cc556dc8b1cd221de85fdad054e590019
+size 637

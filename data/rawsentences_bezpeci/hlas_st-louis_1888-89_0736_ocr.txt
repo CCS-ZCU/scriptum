@@ -1,1 +1,3 @@
- — Dle pozdějších zpráv se nacházejí již dotyční velrybolovci v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7417a3c5fddb8e15a2718e2db72881d8131939fea392eb4315f5c8b1dbf09bab
+size 86

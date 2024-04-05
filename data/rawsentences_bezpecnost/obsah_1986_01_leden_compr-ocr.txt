@@ -1,2 +1,3 @@
- Ale protože se nelze zajmu o tuto prot>lemsciku dosti dobře vyhnout /zvláště vzhledem k horlivým informacím o katastrofách v amerických atomových elektrárnách a o demnnstracích proti jejich stsvbě v Rakousku/, objevují se občas článký obhaju— jící bezpečnost provozu jaderných elektráren /např.
-opak te— prve začáteko" O  r*AÄ- Příští dva týdny probíhaly ve znamení změněného režimuo Zatímco dříve valila paní Olga domů nákupy sice namáhavě, avšak s jistým vnitřním uspokojením, ne-li dokonce okázalostí, nyní se stal prvořadým činitelem požadavek bezpečnosti a nenápadnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7a3e5f37ac8cef3ea83081d45f22532685f0022605b603699c875ce035a2ca
+size 642

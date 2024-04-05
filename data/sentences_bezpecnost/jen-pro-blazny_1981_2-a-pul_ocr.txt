@@ -1,1 +1,3 @@
-olitíie auiout zajistit vážit bezpečnost aát bezpečnost prava astarat
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f4c04716573849b69d468e18af160cce2a69067a4d1a8218f2c164eeac6af1
+size 76

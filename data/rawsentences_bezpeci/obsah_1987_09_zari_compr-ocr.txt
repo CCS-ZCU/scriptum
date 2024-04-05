@@ -1,1 +1,3 @@
- Doma ho přivítalo příjemné teplo sálajících kachlových kamen, odložil si a pohodlně se rozvalil do křesla, aby vychutnal blahodárný pocit uspokojení a bezpečí ve vlastním útulném prostředí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a4802fa868662f58da02276948fca5db6cc114443401dadd5ee2c6fafbd3cc8
+size 213

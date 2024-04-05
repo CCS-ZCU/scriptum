@@ -1,1 +1,3 @@
- Taková literatura vzniká tam, kde sc žije zc dne na den, kde není pocitu trvalosti a bezpečnosti, kde není času na to myslel a tvořit s námahou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8afdfbe172e8e426a97a672bd307710c13c413cd5c916a997413f4cb6760b8be
+size 155

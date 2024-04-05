@@ -1,7 +1,3 @@
- Popularita jeho souboru vzrostla nebývalou měrou (jeho fotografie byla dokonce vystavena Na Příkopech ve výloze módního obchodu s dámským prádlem), jeho manželka pocházela ze země "krvavého psa" Tita, a to bylo pro naši bdělou bezpečnost už příliš.
- Plyne to ze Zprávy o situaci v oblasti vnitřní bezpečnosti a veřejného pořádku v roce 2001, kterou vzala na vědomi vláda Miloše Zemana na své poslední řádné schůzi.
- Jeho hlavním úkolem je v souladu s rezolucí Rady bezpečnosti OSN číslo 1244 podporovat Misi OSN v Kosovu (UNMIK), udržovat bezpečné prostředí v prostoru odpovědnosti praporu a vytvářet podmínky pro mírový a demokratický vývoj v této oblasti.
- Pomoc při zjišťování stavu bezpečnosti a obyvatelnosti budov poničených povodní nabídlo Česku také francouzské sdružení Architectes de l'Urgence (Pohotovostní architekti).
- Faráře Toufara z Cihostě u Ledce nad Sázavou utýrala v roce 1950 Státní bezpečnost.
- Parlamentu hlava štátu vrátila schválený zákon o sprístupnení zväzkov bývalej Štátnej bezpečnosti známy ako zákon o pamäti národa.
- Na druhé straně byla obava těch, kteří do zahraničí mohli z různých důvodů vycestovat, že mohou být ohroženi různými tajnými službami, které byly líčeny komunistickou propagandou v nejčemějších barvách a které plnily určité důležité úkoly, při nichž zcela logicky využívaly všech prostředků bez ohledu na bezpečnost jednotlivých osob.
+version https://git-lfs.github.com/spec/v1
+oid sha256:763b9ca2aa78c55bac4451a4b71405ec49c982a148cf260bb5e032e772ec6eb4
+size 1526

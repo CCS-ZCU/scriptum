@@ -1,3 +1,3 @@
-chvíle podařit potvrdit hrozit okamžitý akutní nebezpečí zbytný reagovat mimořádný způsob prohlásit ředitel bezpečnostní informační služba Jiří Růžek
-vystavit nebezpečí riziko podstupovat monarch
-lákat nebezpečí den napsat společník Praha poslat koruna dojít penize
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc1cde295c7e9e0b57fac55bf1ec89dc92134094ec0317c48298b17f95f654f1
+size 297

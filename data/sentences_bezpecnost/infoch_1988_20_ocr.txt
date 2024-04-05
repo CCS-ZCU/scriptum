@@ -1,4 +1,3 @@
-státní bezpečnost masívní zásah zjištěný možný účastník sympozium
-výbor bezpečnost spolupráce Evropa prezidium ČSAV lístava
-ustavení československý helsinský výbor spoluobčan lidé Evropa přesvědčený úsilí bezpečnost spolupráce kontinent zahájený podpis závěrečný akt KBSR konference bezpečnost spolupráce Evropa Helsinky
-výbor evropský bezpečnost zainteresovaný občan
+version https://git-lfs.github.com/spec/v1
+oid sha256:71b33dc7d0db2f5cb266c9251716a9942a3483f60c6cca2b678b86b3c94f3919
+size 415

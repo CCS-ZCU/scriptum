@@ -1,2 +1,3 @@
- 31  ZA HANESEM REEGENEM aneb první beatnici v Čechách Bílá bradatá koza vykukuje za skupinou křoví, za ní klopýtá scvrklá, nalomená babka, píchá holí do drnů stráně, a když nás vidí na polní cestě, táhne kozu vzhůru do bezpečí, dále od našich podivných postav.
- V rohu sedí „divokej“ párek a drží se za ruce a šeptají si do uší a ona se při tom dívá, jestli se jí nerozsypala taška s nákupem a jestli pivo pro manžela je v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3d80daa0eb107411b99256ed757b7a7200f007b1a8099bc9c607aa7862d7a4
+size 485

@@ -1,1 +1,3 @@
-matka šok snacha jít manžel znojemský nemocnice informovaný syn dařit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:714696338d5086c8a725e61df64afcfbf68f466c996f27c838b11753052b9ade
+size 88

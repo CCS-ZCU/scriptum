@@ -1,1 +1,3 @@
- Kladou vždy důraz na otázky “bezpečnosti”, aby přiměly Západ k ústupkům ve věci zbrojení a obrany, a brání se projednávání otázek lidských práv (t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af049356c4f2ac49a32d5ff60ca38a0e44f0a2f2b8a7319a0e2d0815d978c2a5
+size 172

@@ -1,1 +1,3 @@
-americký letectvo zakázaný bombardovat území řeka Yala čínský týl přísunový cesta shromaždiště úplný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6de1ccee1dedf1d96c5a5638c500ea9e72901df5f0544cff3ab67dcebe08e4a7
+size 129

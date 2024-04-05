@@ -1,1 +1,3 @@
-profesor Hýsek odpovědnost utíci
+version https://git-lfs.github.com/spec/v1
+oid sha256:b914b2326dfffbcaa42131eebb26f779b127c72ccbda2e7cdb3d5f799c562b69
+size 36

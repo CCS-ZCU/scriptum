@@ -1,2 +1,3 @@
-sjezd mít informovaný západ skutečný tvář komunismus studovat nebezpečí koexistence infiltrace komunistický vliv západní svět
-přiblížit posluchač útěšný skutečnost živý tajemný tělo Kristův země katolický církev jediný možný překonat nebezpečí kolektivismus šovinismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4534a7fda50de746068cebe6196407fe0c731817e0814a91beb8574b4bb4473
+size 306

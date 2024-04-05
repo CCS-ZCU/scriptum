@@ -1,2 +1,3 @@
-velký ztráta volba utrpět mecký politický strana zvítězit Moskva poslední chvíle věřit západoněmecký volič hrubý možný trik používající kampaň zastrašený rozeznat nebezpečí západní Evropa strana sovětský svaz hrozit
-zpráva operace zveřejněný úspěšný chirurgický zákrok uplynout týden malý pacient nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:be4d5765be7a0decd2362bf197d64b77561e5ddaa54c19f96cb5dc3543ea3252
+size 362

@@ -1,1 +1,3 @@
-sejdo bezpečí pozdravovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:89ad9e50c7a0cbfcd024eac4bb93c7e5792fc4a139522fefe043eb615bd0f39f
+size 28

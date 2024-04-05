@@ -1,2 +1,3 @@
- Čili tato ten- dence ze svobody své žádat nakonec nesvobodu vlastní, ze své nesvobody mít zaručenu životní skutečnost, odevzdat se vedení té moci, která mi má potom garantovat tu bezpečnost, školství, bla- hobyt — to je přirozená tendence všech lidí na ce- lém světě, není to nakonec potom otázka jen tota- litních režimů — toto nebezpečí zůstává: ze svo- body volit vlastní zotročení, to je to nebezpečí, kterého se musí střežit všichni lidé, odevzdávat svou vlastní zodpovědnost, své vlastní vnitřní přesvědčení, odhodlání, někomu k zařizování.
- sovětského bloku; plán udělat z Prahy sídlo stálého sekretariátu Konference o bezpečnosti a spolupráci v Evropě a že podpoří případnou (pokračuje ze sir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32b0b4e06c3321296eb7fb0b55135c0236badd245127adbdefe5269280acf9a1
+size 787

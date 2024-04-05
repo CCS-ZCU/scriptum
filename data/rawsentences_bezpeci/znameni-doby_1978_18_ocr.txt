@@ -1,1 +1,3 @@
- Přitom můžeme dojít až k absolutnímu dětskému pocitu bezpečí a podle hloubky úkonu do klidného přebývání před Jeho tváří.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5073a1e234877a182aec6ada1a01190cc440d684e34426bdf1dc608f6ba279b
+size 143

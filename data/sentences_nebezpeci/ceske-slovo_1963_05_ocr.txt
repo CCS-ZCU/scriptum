@@ -1,2 +1,3 @@
-národní rada americký Chicago schválený resoluce zdůrazňovat potřeba častý informování krajanský americký veřejnost nebezpečí komunistický infiltrace
-Vor poháněný větro pomoc plachet mít motor případ nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6cfdb5a2383594d0ee9d615789e25179a7bc0e39ef7346bfad4b01a541b69bc
+size 237

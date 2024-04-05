@@ -1,9 +1,3 @@
- zákony, mezinárodní právo a dohodu v Helsinkách: Horečná příprava deseti politických procesů v Praze DESET Cl e n o v ý b o r u n a o b r a n u n e s pr a v e d l iv é s t ín a n ý c h o b v iň o v á n o z po d v r a t n ic t v í r e pu b l ik y Po domovních prohlídkách, které vykonala Státní bezpečnost se souhlasem generálního prokurátora CSSR v úterý 29.
- Úmyslem režimních úřadů nepochybně bylo zásahem Státní bezpečnosti (se souhlasem generálního prokurátora) likvidovat Výbor na obranu nespravedlivě stíhaných a ochromil činnost Charty 77.
- 1) že k soudnímu řízení tohoto kalibru mohlo dojít jen z podnětu skupiny horlivců ve Státní bezpečnosti.
- Při provádění akce se bude bedlivě dbát toho, aby nebyla ohrožena bezpečnost lidí, žijících doma.
- Josefa Danisze pro urážku na cti, které se dopustil v roce 1975 podáním stížnosti na několik příslušníků Veřejné bezpečnosti, poněvadž mu vyhrožovali zbitím.
-“ a dál už stručně: po deseti minutách přijel vůz Veřejné bezpečnosti, rozjel se za pachatelem, ale do této chvíle ho nedohonil.
- Celá záležitost je navíc spojena s nutností dořešit v nových dimenzích bezpečnost provozu těchto zařízení.
- Stávky nejen, že omezují volnost jiných občanů, ony ohrožují i jejich bezpečnost a existenci (pekaři, šoféři, železniční a poštovní zřízenci apod.
- Zprávu inventúrni komise zřejmě nikdo nečetl a teprve když stížnosti zákazníků přinutily stát, bezpečnost k zásahu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:586bdbb10cfd5fae9acc98dcf85afa34c45dbab4a6c59683755cbe048b9c2085
+size 1569

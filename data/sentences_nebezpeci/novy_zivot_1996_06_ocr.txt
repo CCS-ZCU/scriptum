@@ -1,8 +1,3 @@
-nebezpečí porakouštění český národ pominout církevní představitel Čech církev žít obnova doba druhý vatikánský sněm
-myslit případný výsledek šetření sovský komise moci narušit roz víjející ekumenický snaha
-sovětský vlast ocitnout nebezpečí Stalin moci počítat
-tolický protestantský církev Německo hro zilo nacismus vážný nebezpečí
-Karel Borang radit hrozící nebezpečí odebrat
-misionář Stroba Borango uvěřit názor bůh lejší dobrý pastýr zůstat ovečka nebezpečí vlk
-Nosek jiný upozorňovat bolševický nebezpečí Evropa
-Vojtěch ceset loď Dunaj Vojtěch ochránce nebezpečí voda zastínit Jan Nepomucký
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff56ebf17b9518e7903720241b02d6d46eeb1fca5ea3f0101d7e5927527e852c
+size 686

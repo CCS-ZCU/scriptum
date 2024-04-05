@@ -1,1 +1,3 @@
- Samozřejmě, že zde, v bezpečí emigrace, všichni prohlašovali, že se bojovat mělo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55941f12f78697965f5216ca8195e9e397b0ab412d3d50d44f3e745409733a5d
+size 92

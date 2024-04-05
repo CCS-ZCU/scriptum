@@ -1,1 +1,3 @@
-zvenku klíč povytáhnutý zapřený závorka dát zabezpečení dveře přidělat tože obávat bezpečnost rozpor výpověď rodič ostatní občan smrt děle zápis soudní pitva
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6af830ceb89bfa0059a639e42c14c64343a5cb1d75d17878047ba189f80e884
+size 178

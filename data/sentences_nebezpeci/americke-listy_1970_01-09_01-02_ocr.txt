@@ -1,1 +1,3 @@
-pravidlo valný část poúnorový značný posrpnový exulant předhazovat bývalý člen KSČ přímý přímý účast rozliční druh represálie někdejší zabedněnost schopný rozpoznat nebezpečí podvod zločin totalitní režim
+version https://git-lfs.github.com/spec/v1
+oid sha256:a98c17fb1db41f862332db0cf771dafa536b061495bf55e2bf6a2cbff98b4940
+size 239

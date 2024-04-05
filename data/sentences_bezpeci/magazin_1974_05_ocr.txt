@@ -1,1 +1,3 @@
-jít život bezpečí vozit užívat silnice 1sta Skotka zastavit vrať
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c674d1a8377320a0ec68b7c5833410c5995cdd4bcedfa824238aa588fc69426
+size 72

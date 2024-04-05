@@ -1,2 +1,3 @@
-státní bezpečnost pohrozit počátek říjen bývalý ministr zahraničí Jiří Hájek vazba přerýt styk zahraniční novinář
-případ ujmout bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:59c9f5f8a4079609eae3f40b49cb21b42e2bb855aa67c75da56815b29f1f1c63
+size 162

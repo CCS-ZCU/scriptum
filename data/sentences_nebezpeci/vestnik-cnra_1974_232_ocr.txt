@@ -1,2 +1,3 @@
-Solženicyn stát symbol boj komunismus dílo důležitý zbraň léta postupovat odhalený svět pravý tvář komunismus pochopený nebezpečí sovětský porobení celý svět
-jednat hrozící nebezpečí Chicago otevřený československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5229041b05903f867e127c540e78358cd50a995c1d55b668a0b16b3bed12722
+size 244

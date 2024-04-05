@@ -1,8 +1,3 @@
-nutný duše vnitřní strach ozbrojit existovat nebezpečí dát znásobit fantasie
-všinnout citlivost strach statečnost odporovat předpokládat neboř strach znanený větřit blízký nebezpečí
-statečný nebezpečí vědět vědět tlak rozhodnout nejistota závaží ztěžovat rozhodnutí provedení
-smět podlehnout nebezpečí zmínit děs naplněný fantazie nebezpečí možný přehrnout
-jít hrozící nebezpečí chtít podlehnout muset pevný myšlenka
-svobodný stát vrchol statečnost vprostřed velký nebezpečí
-stávat člověk výkon zaměstnání vydávat nebezpečí smrt výsměch bát
-stát hřích zvyk nebezpečí veliký
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad40e8de45464046dd28a1e83e1e3aabee40f9a122ad26d91a4db02d62ea2537
+size 657

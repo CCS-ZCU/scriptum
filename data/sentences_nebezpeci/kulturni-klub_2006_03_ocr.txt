@@ -1,1 +1,3 @@
-nebezpečí lze podceňovat druhý strana podobný investice kolínský automobilka TPCA moci stát nošovický závod Hyundai český republika moci odříkat
+version https://git-lfs.github.com/spec/v1
+oid sha256:a25702b1469c63ed7fa7f7d14e7201e710ceb87dbb19cc04ad1e7afe1d0af190
+size 160

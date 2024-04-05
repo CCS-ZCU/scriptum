@@ -1,1 +1,3 @@
-nebezpečí politický proces vývoj urychiovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ae34a996ebb87bbf501c2598bb25ed2e94b6129d1c705565d1859d01ee968cb
+size 48

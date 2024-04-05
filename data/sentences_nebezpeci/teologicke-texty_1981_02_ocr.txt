@@ -1,4 +1,3 @@
-Pisa přijímat host přichat zentikec oblast Mathare hrozící nebezpečí navštěvovat rodina okolí
-platit cslý teologie zdát vystihovat blematika utrpení teolog rok stojící zájem reflexe odstup muset vystříhat jasný perfektní teorie vydávat nebezpečí myslit realita
-západní teologie spása nebezpečí vidět kříž hodnota ptát podnik rok číslo Ježíš trpět zemřít
-zátý padní svět muset zkoumat hluboký nebezpečí myšlenkový znečiště aktivovat chování destruktivní konec ohrozit celý planeta
+version https://git-lfs.github.com/spec/v1
+oid sha256:2849dfd55a7c9e84ab78a059be2426ef6cb3f7adb138cc52a48a6c6430acde0b
+size 539

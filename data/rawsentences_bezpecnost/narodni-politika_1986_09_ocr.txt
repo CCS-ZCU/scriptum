@@ -1,4 +1,3 @@
- Dnešní mladí Američané by nebyli ochotni jít do války ani ve svém vlastním zájmu, mají příliš rádi svou bezpečnost a své pohodlí.
- Státní bezpečnost „šla po něm44.
- Tých ľudí, ktorí podľa pro- pagandy režimu sa snažili jej nemoc a tragédiu využiť na ohováranie socialistického zriadenia a československej bezpečnosti.
- Bezpečnost sice podvodníckou dvojici dopadla, ale po penězích ani stopy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:476ca924e30ca95ab44d3499b407a639aacb36e969aa523992434ae3e6bf0b8f
+size 436

@@ -1,1 +1,3 @@
-nebezpečí Husákův režim vyhlásit smiřitelný boj hospodářský kriminalita součást klidnění normalizace byvatelstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bf85fe198d513c88bc96c05e61ff77319c83992eae9522771648a9d8423a660
+size 130

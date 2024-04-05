@@ -1,1 +1,3 @@
-Mládek vést mise Vietnam začít projevovat inflace smírný nebezpečí válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fc2e0e522a1e7f8f9cf024f2e0b7ebb240e9fe7dd26ebffd28f1b87d7afbedd
+size 82

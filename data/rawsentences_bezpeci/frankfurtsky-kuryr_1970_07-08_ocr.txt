@@ -1,1 +1,3 @@
-Gornerovi,který se zřejmě už chtěl vrátit ke své práci,a opustila jsem ošklivou budovu z červených cihel,ve které se tolik let cítil v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e1238638e5ecdb2ae7b7b4796d3da93081caa06fb26575cd87c7a2db54c1019
+size 159

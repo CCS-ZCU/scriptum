@@ -1,2 +1,3 @@
-) 68  VANĚK (začne řvát): Na to nemajíprrávo! SOUMAR (šaškovsky): „Zákon čtyřicet ze dne 24, dubna ¡974 o Sboru národní bezpečnosti.
- Oddíl třetí, prostředky pou- žívané příslušníky Sboru národní bezpečnosti při služebních zá- krocích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15066256c6a28a1ed7477620b67ba3724dbe0b5b8c60747d960edd2b05893415
+size 272

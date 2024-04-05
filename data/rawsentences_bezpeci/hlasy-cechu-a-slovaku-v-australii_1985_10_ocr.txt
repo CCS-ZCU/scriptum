@@ -1,1 +1,3 @@
- 0 odzbrojení Problém dneška /kterému čelíme/ je, jak zachovat mír a žít v bezpečí a svobodě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f198f5910cba81c57572c8d95b49cbc96290b9ca4e0cb2d74b4044073eee17b4
+size 106

@@ -1,4 +1,3 @@
- Je dobré myslet na osud důchod- ců a na blahobyt země, ale bezpečnost této země musí být zaručena před- tím, než si zde vybudu- jeme sociálně spravedli- vý blahobyt.
- Měli bychom nyní pozorně sledovat, jak li- berální strana bude pe- čovat o bezpečnost Austrálie a její vnitřní blahobyt.
-" "Orgány bezpečnosti sdhalily 28člennou ne- přátelskou skupinu v če- .
- Při zatý- cání byl zastřelen pří- slušník Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2d60eb8906716ab6e2e5c28a641b4ee7b786f43d6c5d2927bf02fef31aebc93
+size 460

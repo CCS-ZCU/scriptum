@@ -1,2 +1,3 @@
-evolucionista cítit bezpečí moci udržovat odpůrce oběť bezmocnost moc milost nemilost
-spousta peníze přeměnit dunící droga
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d526354c90607151465b2e27ab9f197801bc851a6e374b305b87925bfc6169c
+size 135

@@ -1,4 +1,3 @@
- Proto přikázali československé Státní bezpečnosti, aby celé hokejové mužstvo poslala do Gulagu.
- Zbigniew Brzezinski, presidentův poradce pro otázky národní bezpečnosti.
- Brzezinského, mluvil o přípravách na konferenci o Evropské spolupráci a bezpečnosti (CSCE), která se bude konat v Madridu v listopadu t.
- Fascellem, předsedou Helsinské Komise, za účelem rozpravy o přípravách na konferenci o Evropské Bezpečnosti a Spolupráci (CSCE), která se bude konat v listopadu t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ba93d0ed927142aff0c3c771f8cc5b998d32c8961d4b0a6960d723899884c16
+size 508

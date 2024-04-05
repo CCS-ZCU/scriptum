@@ -1,1 +1,3 @@
-slovo dávat slovo strhnout rvačka brát pomeranč druhý obchod rozbitý muset zakročit veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba890a0b0edf9b95a2e3306254206e9ee58070b30f2f77854788ca3de0cc367d
+size 113

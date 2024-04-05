@@ -1,1 +1,3 @@
-štáb armáda politický vedení relativní bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca17ce9282978a0f9ad881978ef39ae395b76dfb681c911e0ca3d5bdeefd9e0
+size 55

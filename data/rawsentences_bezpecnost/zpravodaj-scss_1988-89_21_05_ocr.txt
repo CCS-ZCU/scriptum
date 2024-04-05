@@ -1,9 +1,3 @@
- Do akcie zapojili pohotovostný pluk Zboru národnej bezpečnosti z Pezinku.
- Samotné Hviezdoslavovo námestie zaplnili v piatok celý den príslušníci bezpečnosti v civile a v uniformách.
- Zároveň vyskočili az aut príslušníci bezpečnosti a začali ludí, ticho stojacich so sviečkami v ruke, surovo mlátit.
-- Take jeho protihráč Gottwald byl postaven před hotovou věc v tom smyslu, že bezprostřední podnět demise, obsazení vedoucích míst v pražské bezpečnosti komunisty, provedli jeho soudruzi v bezpečnosti a že postoj Moskvy byl hlavní při jeho rozhodnutí přeměnit vládni krizi v rozhodující mocenské střetnutí.
- Zatímco Gottwald a vedení jeho strany se na mimovolební konflikt nejméně, jak sám přiznal, od poloviny roku 1947 připravovali a měli k dispozici jedenapůlmilionovou akceschopnou stranu, odbory, rolnické komise, slovenské partyzány, frakce v nekomunistických stranách, rozhlas, bezpečnost, neměl Beneš nic, disponoval jen svým úřadem a svou autoritou.
- bezpečnosti není a nikdy nebylo ovlivňování názorů našich občanů na Johna Lennona 17  nebo případné zamezování projevům sympatií a úcty k umění tohoto bojovníka za mír.
- Bezpečnost zasáhla rovněž 10.
- Jindy si dobírali policii Dnem nezávislosti policajtů, také státní bezpečnost.
- V měsíci bezpečnosti práce skácíme lípu na zahrádce a vlijem vodku do hlavy, neb duben je i měsíc lesů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a457a5dbfa9d93411caa9112b265dea776a8bd4945f75a18adddda405c56c54
+size 1460

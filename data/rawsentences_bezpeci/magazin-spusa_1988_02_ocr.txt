@@ -1,3 +1,3 @@
- Jako by teprve v okamžiku, kdy pozná, jak se tihle vzrušující divní lidé jeví jejímu hmatovému smyslu, mohla dojít bezpečí, opěrného bodu, souladu s tímhle neznámým světem, domova.
- Bylo to hrozně zvláštní! Ale navázala spojení, našla opěrný bod, byla v bezpečí - první Američan v rodině.
- Byl by to ostrov bezpečí, první jistota, kterou by v životě měla od chvíle, kdy opustila otcovský statek, který nakonec zabral stát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98c90d270defa7c796aee6ab5d32d603b173087cf70c37fdb59df18a0424d96
+size 438

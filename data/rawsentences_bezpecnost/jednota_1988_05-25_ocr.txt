@@ -1,1 +1,3 @@
- Pôvod brutálnych postihov treba hľadať nie v emocionálnej reakcii jednotlivých príslušníkov bezpečnosti ale v presne naprogramovaných opatreniach najvyšších straníckych a bezpečnostných orgánov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e3f48a6d03dfe26d3c0b73c2261e373f381eb2374c7d5ce08556b0eaef3aa09
+size 214

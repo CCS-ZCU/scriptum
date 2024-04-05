@@ -1,4 +1,3 @@
-žalm modlívat křesťanský voják úryvek modlitba svrchovaný nebezpečí
-mše pocestní mluvit bůh slovo dlouhý žalm
-vystavovat víra nebezpečí vážit považovat nutný bránit
-dát peníze zbožný účel dobrý skutek nebezpečí udělování odpustek příspěvek dobrý účel dostat povaha obchod náboženský oblast důstojný
+version https://git-lfs.github.com/spec/v1
+oid sha256:3438003da4a9d181cf83f47148f3c9c397eb71c0644274bb55fb81b00685fbd8
+size 345

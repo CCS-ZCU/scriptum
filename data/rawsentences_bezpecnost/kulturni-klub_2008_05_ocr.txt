@@ -1,2 +1,3 @@
- Nejvyšší soud zrušil 30 let starý verdikt nad duchovním Nejvyšší soud zrušil 30 let starý verdikt, jimž byl někdejší disident a evangelický duchovní Jan Šimsa odsouzen za údajné napadení pracovníka Státní bezpečnosti (StB) k osmi měsícům vězení.
- Pro ty, kdo si přesto nejsou jisti svou bezpečností, přivezou mužstva Polska, Chorvatska, Německa a Turecka z domova svou vlastní policejní ochranu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdb56cce7557e399ee5fd02c755eb2c5ce4ae3a3af0ba854b511712a957d15e0
+size 435

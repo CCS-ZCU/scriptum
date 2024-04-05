@@ -1,1 +1,3 @@
-kandidát říci sovětský svaz reprezentovat nebezpečí komunismus dobrý demokracie svoboda přející metoda vládnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae1b3edd1644e309c509a71dc3a78394f33330cd023a60ff87266535bd160d95
+size 125

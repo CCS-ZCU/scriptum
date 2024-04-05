@@ -1,2 +1,3 @@
- — Těsně před zahájením světového hokejového mistrovství ve Stockholmu a tedy před výročím loňských bouří provedla Veřejná bezpečnost na celém území tzv.
- diska Veřejné bezpečnosti v Praze.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6bf92b17d990b45caf4c116269020e86eb96f0dfa0bedb36280b84e6d5684fd
+size 218

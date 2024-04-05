@@ -1,1 +1,3 @@
-nový druh bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:768798f8bb329960a00b5a8303c4320e498f5e542e2242166429173a990bbb0a
+size 21

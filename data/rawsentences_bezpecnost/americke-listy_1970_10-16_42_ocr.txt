@@ -1,5 +1,3 @@
- 4) Moskevský dopisovatel amerického deníku Washington Post zaslal do svobodného světa zprávu o dalším policejním zákroku sovětské bezpečnosti vůči čelnému představiteli ruské inteligence a vědy.
- oportunistic- kých silách v českých krajích, když vypočítal, že k “nepřátelům” na Trutnov- sku patřili předseda okresního výboru KSČ, předseda okresního národního výboru, tajemník tohoto výboru, náměstek předsedy tohoto výboru, jakož i další člen rady ONV, okresní náčelník Veřejné bezpečnosti — přední funkcionářky okresní organizace Svazu žen a — prý — další.
- komorám v Sovětském svazu? Víme my vůbec, kolik lidí na celém, světě trpí pro své politické přesvědčení? My, kteří jsme prošli hrůzami československé státní bezpečnosti, my, kteří jsme poznali žaláře a koncentrační tábory v socialistickém Československu, máme nejen právo, ale povinnost varovat svobodný svět před těmito hrůzami teroru a násilí! Může přijít jednou doba, že se to totiž bude dotýkat i toho nejobyčejnějšího občana kterékoliv země.
- Diskusní příspěvek poslankyně Zdeny Dohnalové, dlouholeté spolupracovnice Státní bezpečnosti a manželky důstojníka této organisace, nesměl být otištěn — nehodil se do krámu soudobé politice, nebo přesněji propagandě šéfa strany, která se snaží uspávat veřejné mínění nejen v Československu, ale hlavně v zahraničí.
- září zatkly orgány Státní bezpečnosti v Bratislavě Pa- vola Ličko, bývalého redaktora týdeníku Svazu slovenských spisovatelů, Kulturní život.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd07f5bc69b015354562efb730b2fb44e564f7879a49e89a4bf40870fd8415d
+size 1659

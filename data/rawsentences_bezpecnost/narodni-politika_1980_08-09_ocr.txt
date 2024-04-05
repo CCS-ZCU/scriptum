@@ -1,16 +1,3 @@
-“ Asi v půl šesté byl starší pán s hudebními zájmy vystřídán mladým mužem, také v civilu, který mi oznámil, že bych mohl být stíhán pro poškozování zájmů republiky v cizině, a začal mi číst úryvky ze zahraničního tisku, kde byly — většinou dosti nepřesně — popisovány dosavadní zásahy příslušníků bezpečnosti proti našim středečním besedám o filozofii.
- Nadporučíku Beranovi — tak se mi představil — jsem sdělil, žu už kvůli naší bezpečnosti považuji za svou povinnost informovat naši i zahraniční veřejnost o každém zásahu příslušníků bezpečnosti proti našemu vzdělávacímu úsilí.
- V Bartoloměj- ské ulici na mně pracovala celá řada příslušníků tajné bezpečnosti, do paměti se mi vryli zvláště dva: Příslušník A (nepředstavil se mi) přecházel vyšetřovací místností a vždy, když přišel ke mně, mne udeřil tupým úderem dlaní do hlavy, popadl mne Za vlasy, několikrát mnou prudce zacloumal a řekl — „tady nám nespěte, pane Tomin.
- Vzpomínal jsem, pane ministře, na ustanovení § 2 zákona 40/1974 o SNB: „Sbor národní bezpečnosti přispívá k tomu, aby všichni občané mohli uplaňovat svá práva při plném zachování své důstojnosti a osobní svobody v souladu s právním řádem a zájmy socialistické společnosti.
- V posledních měsících věnuje Státní bezpečnost mimořádnou pozornost osobě ing.
- Hned první večer po jejich příjezdu se kolem domu sjelo několik vozů bezpečnosti a byla zahájena silná ostraha.
- Akce Státní bezpečnosti však pokračovala.
- ani tak ochrana bezpečnosti štátu, zákonov a práv občanov, ale jednostranné preferovanie a presadzovanie ateizmu, zastrašovanie a represie voči pracujúcim kresťanom.
- Paušálně nahradzovanie „nezúčastnenej“ osoby pri prehliadke úradníkom NV (pre vnútorné záležitosti), nepripustenie príbuzných alebo susedov do tejto úlohy — hoci zákon má zrejme na mysli ochranu záujmov a dôverníka pre postihnutého, ktorý je pri tejto nepríjemnosti bez svedka a nie dôverníka orgánov bezpečnosti, ktorých je tam najmenej päť (niekedy i dvadsať).
- literatúry), pokladá sa za také ohrozenie bezpečnosti štátu, že to musi vyšetrovať takým nákladným celoštátnym nasadením štátna bezpečnosť, (a nie kriminálka), že sa musí s tým zaoberať gener.
- který mu na ulici bránil v odchodu z úřadovny místního oddělení Veřejné bezpečnosti a snažil se ho vtáhnout zpět do budovy, udeřil do čela a shodil mu služební čepici.
- Na druhé straně Státní bezpečnost taková střetnutí vyvolává, a to nejen proto, aby získala podklady pro možné zadržení nebo obvinění, ale především proto, aby doma i ve světě vzbudila zdání, že českoslovenští obránci lidských práv jsou nezodpovědnou skupinou výtržníků, rušících veřejný pořádek a napadajících nevinné a bezbranné příslušníky VB a StB.
- Snaha o vyvolání tohoto dojmu je o to silnější, oč méně se Bezpečnost v Československu stará o skutečný veřejný pořádek a oč méně zasahuje v nesporných kriminálních případech.
- A tehdy jsem vycítila, že ani Státní bezpečnost není s to hájit metody a postupy, jež byly proti mně v letech 1969-70 uplatněny.
- V květnu 1947 vydalo ministerstvo Statni bezpečnosti SSSR pro své agenty tajnou instrukci, která určuje způsoby, jakými mají rozkládat protikomunistický exil a která je ve své podstatě aktuální dodnes: „Příslušníků speciálních oddílů v okupovaných zónách Rakouska a Německa! Využívajíce zostřujících se rozporů mezi Sovětským svazem a západními spojenci, reakční kruhy — ruku v ruce s vojenskými správami americkou, anglickou a jimi ovlivněnou francouzskou — protahují repatriace sovětských občanů.
- Inšpirátor podpisové akce — Milan CERNEGA — byl vyslýchán Státní bezpečností v Plzni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a4f0919a80559906cc9cfa919450aeef3382515d2600e43cb88fe7acde95afc
+size 4016

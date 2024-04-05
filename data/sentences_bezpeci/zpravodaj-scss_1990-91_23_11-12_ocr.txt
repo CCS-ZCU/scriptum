@@ -1,1 +1,3 @@
-krajanský pozdrav SVAZ československý spolek Švýcarsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:4404bb50a3c5b181108bc9f61ed4de3a2bd2a4a2f751e3ebc8c922209862988e
+size 60

@@ -1,7 +1,3 @@
-bezpečí bezpečí přítel odpovídat policista družit hlouček dobrý soused známý Kozákův cesta dovést brztat vidět dát dělat shořet vích
-Dceruška nechat usadit chtít mít bezpečí pomsta manžel
-moci dcerušek vžitý vědět počít vyučovat moci dítko opatrovat žádat najít jiný dobrý místo bezpečí
-vědět dobrý místo bezpečí
-bratr jmout domlouvat řko dítko bezpečí úplný moci ublížit otec milovat
-druhý den zajetí vyvedený krajan Havlík Fickerl primitivní můstek nastavený klád odvést bezpečí
-uvést manželka dítko čas bezpečí zachránit musit brodit prsa voda stoupající
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd4d4345f27846e98d16328e90159fa62b2e78f53cefa7337e25ac2daf1f0976
+size 635

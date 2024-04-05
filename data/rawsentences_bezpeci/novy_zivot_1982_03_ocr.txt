@@ -1,1 +1,3 @@
- Ale vkročil do jejího tajem ství v bezpečí, protože celý život důsledně směřoval křížem ke vzkříšení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e567362de3cecc8fdbad45e7ef26ef48afceaa502124733497d2784d2c05d3e6
+size 122

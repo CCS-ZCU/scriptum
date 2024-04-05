@@ -1,6 +1,3 @@
- To kvůli odposlechu bezpečnosti.
- Proti nim zorganizovala bezpečnost z podnětu vedoucího evidenčního oddělení ÚV KSC Švába provokace.
- Již během sletu bezpečnost zadržela 237 osob, mnozí z nich skončily před soudem a ve vězení.
- Svým nižším složkám uložilo, aby bezpečnost a lidové milice zastavily všechny autobusy a auta směřující do Prahy, ministerstvu dopravy nařídilo odvolat všechny zvláštní vlaky a uvedlo do pohotovosti několik tisíc příslušníků lidových milic.
- Jak dlouho ještě se bude tento muž pohybovat na svobodě? Proč orgány Státní bezpečnosti nevykonávají svou povinnost?! Ing.
- Když Lendvai přistál v Ruzyni, ujali se ho příslušníci bezpečnosti a přesto, že měl platné vízum, vypravili ho nejbližším letadlem zpět do Vídně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdc228966b39d235e27849eb3e14accd9122a323d6fd1d7f25d6c4219864e19
+size 821

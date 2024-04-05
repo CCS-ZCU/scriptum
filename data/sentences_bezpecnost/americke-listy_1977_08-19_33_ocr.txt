@@ -1,1 +1,3 @@
-veřejný bezpečnost rozsáhlý kontrola
+version https://git-lfs.github.com/spec/v1
+oid sha256:7146d4d29b91d9a9db657910dd78d466af1b6e5ba69f694a8f0b4013ad9af21e
+size 42

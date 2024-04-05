@@ -1,6 +1,3 @@
-strážce p0klad
-turista iirozit nebezpečí medvěd odchycený živý prodaný věnovaný přítomnost vážit
-
-reakce přiměřený narůstající nebezpečí společnost rodič snažit omlouvat vina dítě zlehčovat
-zasedání KSČ přijmout rezoluce upozorňující hlavní nebezpečí strana společnost hrozit zprava
-existovat nebezpečí jiný řada zmíněný dobrovolník Palach následovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4595aa98ee770b6fa47e0df8bf406e22bb20ad63e5563069dcd8f502349379
+size 401

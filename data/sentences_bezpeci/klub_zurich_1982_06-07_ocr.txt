@@ -1,2 +1,3 @@
-utíkat nohnout bezpečí
-podporovat mod bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:469d4ceae9a5c5d8ff81fabda48423b21b10da38afbaf36922c7a702c3153163
+size 51

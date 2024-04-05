@@ -1,1 +1,3 @@
-začínat problém
+version https://git-lfs.github.com/spec/v1
+oid sha256:0003707e1bee5279c56f1d60610f2525bfc2691bc36532bee7c8c58066388c3e
+size 19

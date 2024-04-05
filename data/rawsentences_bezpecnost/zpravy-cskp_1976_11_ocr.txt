@@ -1,4 +1,3 @@
-STÁTNÍ BEZPEČNOST se roztrhl pytel.
-po pří etu do RuzyněsCo hlavně hledali čs, celníci v zavazadlech? 6, Co víte o výsleších na úřadovnách Státní bezpečnosti osob,které se vrátily z návštěvy v zahraničí? 7 o Máte možnost se dotázat cestovních kanceláří,organizujících zájezdy československých občanů do zahraničí,na jejich zkušenosti s rozvíjením styků mezi Východem a Západem po helsinské konfe- renci?Mohou uvést rozsah povolených a zamítnutých cest? Je možno od nich dostat zamítnuté výměry anebo opisy? 8, Znáte situaci v dopravě poštovních zásilek do ČSSR a obráceně? Jak je to se zadržováním knih,náboženské literatury,magazínů, časopisů a brožur.
-"než,o několik měsíců později poslal poněkud jiná ’’děla” do malé země v srdci Evropy, jež’’ohrožovala"bezpečnost ruského medvěda a”kompromitovala” budoucnost socialismu.
-Doporučuje multilaterální mezinárodní smlouvu,sleduje vyloučení války,ohlašuje vyrovnávaní politických sporů bez použití násilí,žádá postavení útočníka mimo zákon a zajištění kolektivní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a05b3d1094bfc63161600fd997e7534be0cee6d1308ca8f296926eaed23647b0
+size 1161

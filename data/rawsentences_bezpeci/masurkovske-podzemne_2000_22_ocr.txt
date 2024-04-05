@@ -1,2 +1,3 @@
- Nakonec jsem musel jet oklikou, která byla skoro o sto padesát kilometrů delší, abych zjistil, že můj srub je stále v bezpečí, ale o tři metry blíž bouřlivé řece.
- Čím víc budete vědět o určování všech hub, tím ve větším bezpečí budete.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b995d0eb2f10a463d6cb96dc3b9704c0e700863f9a01dbf10f10cf782814755
+size 269

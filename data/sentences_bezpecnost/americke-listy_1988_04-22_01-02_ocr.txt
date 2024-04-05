@@ -1,1 +1,3 @@
-autor petice vzniknout Maďarsko obracet delegát helsinský konference očekávání proces započatý Helsinky spojit evropský bezpečnost rozšíření lidký právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1f994c8f2dfac435f638b2b91876aff4c2ca35fcc4f5f8302dfdcc3795a3f14
+size 170

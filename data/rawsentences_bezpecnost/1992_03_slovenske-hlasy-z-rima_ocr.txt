@@ -1,1 +1,3 @@
- októbra 1980, homília v Otranto: «Hebrejský národ, po tragických skúsenostiach, spojených s vyhubením toľkých synov a dcér, pobádaný túžbou po bezpečnosti, ustanovil si Izraelský štát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:304c1ee36b70e902fbf7b95ee6b1db8cdc5efb0e42bec2f8b23ec00383b7d2cb
+size 206

@@ -1,1 +1,3 @@
-Ryzák tušit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a3223827f602cd3180b4781a9116e30a3232e901cc089fb9f7db3f8ed081cc
+size 26

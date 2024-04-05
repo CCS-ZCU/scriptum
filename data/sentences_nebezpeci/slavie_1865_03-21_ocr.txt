@@ -1,2 +1,3 @@
-Mobile nebezpečí rebelsk< list psát
-Rosinice udát štasný náhoda zachránit vlastenec vůdce potulujíe Rus ruka padnout blízký nebezpečí čas zpravit
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee5cb93da0a3819c54bc4ba61f28dff2c0e6f63be88ac721e188dc8fa6eb942a
+size 162

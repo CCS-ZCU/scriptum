@@ -1,1 +1,3 @@
- Z Jihlavy až do Brixenu měl četnický doprovod, což se každému tak honem nepřihodí, měl tudíž o plnou bezpečnost postaráno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de9f442af2d04ad77ba6a6b418c3536eefe14deea846676cf52371d138e7868
+size 138

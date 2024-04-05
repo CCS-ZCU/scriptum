@@ -1,3 +1,3 @@
- Jak to,ze generálmajor Šejna byl ponechán Bezpečností bez dohledu, když jí misela být dobře známa okolnost, jak úzké jsou styky mezi Šejnou a Moravcem, který už byl ve vězení? Jejich vztah nemusela obtížně vyšetřovat; cvrlikali si o něm vrabci před ministerstvem národní obrany.
-" Ale to skutečně nebylo možno taktně a nenápadně Šejnu sledovat a sledovací skupinu odvolat v případě, že by se podezření nepotvrdilo? Jak je možné, že Bezpečnost neupozornila velitele hraničních přechodů, že generál Šejna se třeba pokusí opustit republiku, a nedala pro tento případ instrukce? Nebo snad Šejnovi - jak říkají zpravodaj cí - postavil někdo tunel? Kdo? Generál Šejna byl několik dnů "nezvěstný".
-" Ale ptejme se dál: Jak to, že i v době, kdy Šejna opustil Československo, zůstaly bezpečnostní orgány sedět na místě a nepokusily se s jugoslávskou a maďarskou Státní bezpečností navázat operativnější kontakt? Ten by totiž jistě vedl k zatčení generála Šejny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:231b715851b47f0def23c78d6536e4e135d9f769d770532d68b20c42d42bf8d0
+size 1049

@@ -1,1 +1,3 @@
- svazku: Armáda-bezpečnost, Diplomacie, Věda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7819082d721e176945de2b83259c6a3b6d2996af7f344f22f238bad0314cbd41
+size 49

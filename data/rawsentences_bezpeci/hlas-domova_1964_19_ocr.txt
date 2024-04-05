@@ -1,2 +1,3 @@
- Remhold Niebuhr Ve Spojených národech Austrálie byla obdařena sousedem, který znamená všechno možné, jenom ne klid a jenom ne bezpečí.
- Technický pokrok odstranil vzdálenosti a s ním období relativního bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4853698311094126af3f7f7c2beb5ad01fa94f2cd3ade1c65a370fd0ec346e9b
+size 230

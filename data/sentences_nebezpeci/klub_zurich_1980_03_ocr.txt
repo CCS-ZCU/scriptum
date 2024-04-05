@@ -1,3 +1,3 @@
-dostat nemocnice zraněný šofér auto náklad démonický setba lidé uvědomit nebezpečí
-nebezpečí zapomenout dar boží začít přehánět
-otec starost rostoucí nebezpečí válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde7bc659afd77b0b9e768d41c6b448852a94f729774d7909bd2b59b93fc7a66
+size 190

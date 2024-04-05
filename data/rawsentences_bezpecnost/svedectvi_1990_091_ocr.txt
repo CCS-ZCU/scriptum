@@ -1,11 +1,3 @@
- byl vliv západních pacifistických idejí 41  nejvíc patrný: totiž požadavek, aby byly v zájmu nového konceptu evropské bezpečnosti rozpuštěny oba vojenské bloky a aby z Evropy odešly všechny cizí jednotky.
- V Polsku a v Maďarsku, kde se společnost průběžné osvobozovala z totalitních svazků, byla Bezpečnost částí pomerné izolovanou od ostatního obyvatelstva.
- „Základní podmínkou západní bezpečnosti,“ píše Picrrc Hassner, „je pokojný vývoj Východu k demokracii.
- V nadcházejících letech budou na evropské půdě rozhodující dva faktory: peníze a otázka bezpečnosti.
- Mnozí předpokládají podobný vývoj i ve sféře bezpečnosti.
- Společnost ledy vytvoří nový druh moci, který se má omezovat na úkoly, klcré ona sama ( jak ví ) nezvládne: vnitřní a zahraniční bezpečnost.
- Pyšní se trofejemi již zesnulého francouzského barona, starosty města Heidelbergu, senátora za stál Massachusetts, jehož vinou na sebe na čas přilákala pozornost Státní bezpečnosti i kontrarozvědky, neboť nevěděla, že jednak má na pokoji doslova pytle peněz, jednak - a to především - že tady už se míchá vlastně do politiky.
- Zc na svět prostitutek byla úzce napojena Slální bezpečnost, využívající je především jako zranitelné konfidenty, možná však zároveň i naturálně, je nabíledni.
- 1 když, dc iure zákon o příživě neplatí teprve měsíc, Veřejná bezpečnost nám už.
- Nékdy mi to ze strany Bezpečnosti připadá jako sabotáž nebo přinejmenším jako neochota.
- Můj dojem po této stránce byl spíše opačný; rozhodně se mi nezdá, že by jim jako celku ubylo na pracovitosti, a to, jak se hrozili například růstu zločinnosti nebo rozsahu sítě bývalých agentu Bezpečnosti, mi připadalo téměř naivní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe430ca040d38272b2cd36705b2011f769222e55e7e0fa5314ff419a7e2f3e8
+size 1842

@@ -1,2 +1,3 @@
- Ačkoliv jí zdvořile zaručil svobodu a bezpečnost, vycítila Kleopatra, že má být jako skvělá kořist a znamení vítězství Oktaviova s vracejícím se triumfá- torem přivedena do Říma, do toho Říma, který byl proti ní zuřivě pobouřen.
- Zásady na kterých byla zbudována jsou: poctivost, bezpečnost a svědomitá obsluha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a368c355f91df2f32f277f7acea1a502f8b916ff63541597f7e2e0f5ecb2906
+size 348

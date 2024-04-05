@@ -1,2 +1,3 @@
-duben uveřejnit autokritika Smrkov ska mýlit únor slovenský směna domnívat pravicový síla paralyzovaný hlavní nebezpečí strana krajní levice
-ověřit radost vítězství &ejít náhlý nebezpečí dokázat národ sjednotit
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ff784a55bb1b5e8b136e6fc61965f21127b724ad1b8bc33b482276fcc0f6ef0
+size 236

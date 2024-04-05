@@ -1,5 +1,3 @@
-hrozit nebezpečí vážný pokoušet
-přípustný nebezpečí hrozit stupňovat nový jaderný pokus
-Amerika moci nebezpečí čelit pentagon žádat rozpočtový rok částka dolar vývoj systém družice antidružice
-Červík ničit poškozovat vinice dopouštět stejný zločin vlastizrada svatokrádež vražda vystavovat nebezpečí trest smrt
-hrozit nebezpečí kapitalistický nákaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:137d49b6f739507355ca2895abd40e669fbf41ba7502b69b67a745856263f992
+size 394

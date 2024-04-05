@@ -1,3 +1,3 @@
-snaha tvrdit vojenský nebezpečí Stalinův smrt zmenšit
-Churchill říci válka Boston mít odzbrojovat poukázat nový nebezpečí bolsevismus americký reakce zaznít unisono válečný štváč
-vyplývat
+version https://git-lfs.github.com/spec/v1
+oid sha256:965cb5492c534eeb20db8fcf6f2ca1e38f45c19042804792beb1677c21386a20
+size 210

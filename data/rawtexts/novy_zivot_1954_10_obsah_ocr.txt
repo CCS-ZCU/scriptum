@@ -1,1 +1,3 @@
-N O V Ý Ž I V O T 1 9 5 4 NA DALŠÍCH STRÁNKÁCH 10. ČÍSLA Vítovský : Vím, komu jsem uvěřil. - Heidler : Vývoj náboženské situace v ČSR. - Petr: Le- pení střepů, - Krajcar : Neposkvrněná a české baroko. - Královna světa. - Geopolitika hladu. - Bruče Marshall o možnostech náboženského vývoje u nás. MÍSTO POVÍDKY • Ševčík : Útržky vzpomínek... Rubriky : Poznámky. - Křesťan a svět. - Zprá- vy z Říma, z domova, z ostatního světa. - CML. PROSINEC - 19 o 4 - 10 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca544fde3b8844ac506ca9c183147dd5893d29821cd61281fba1cd75049e79bf
+size 521

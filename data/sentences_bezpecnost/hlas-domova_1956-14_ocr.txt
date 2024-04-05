@@ -1,1 +1,3 @@
-pisatel dodávat neutralita kouzelný lék pokračovat reserva zodpovědný politik musit klást řešení otázka zajistit státní bezpečnost neutralita cesta zdát hýbat bezpečný křižovatka
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ecbb8cebc7516fdcc75c18233b155371d537915f0c7666e16c07576653e38d
+size 201

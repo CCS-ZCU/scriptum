@@ -1,1 +1,3 @@
-svobodný strana platit znamenat kolaborace zaručovat bezpečí přidělovat prebenda
+version https://git-lfs.github.com/spec/v1
+oid sha256:e003db5568016b2a6ad23a5b5db59529ff40a4a0e2146bbf48dea0340d7c76d0
+size 87

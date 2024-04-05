@@ -1,3 +1,3 @@
- ve Staré Vsi u Rýmařova zjistili pracovníci Bezpečnosti malý zbrojní sklad.
- Tento geniální postřeh mu , zajistil úpěnlivou nabídku kapitána Státní bezpečnosti, aby s touto lidumilnou a mravychránící insti- ; tucí spolupracoval a přispěl tak k odhalení zloči- n.
- Velké Británie, Itálie, Francie a Německé spolkové republiky, zaslaný před zahájením Evropské konference pro bezpečnost a spolupráci v Helsinkách: Vaše Excelence, jménem Rady porobených národů ve Viktorii v Austrálii, která reprezentuje v tomto státě skupinu estonskou, lotyšskou, litevskou, polskou, českosloven skou, ukrajinskou, ruskou a bulharskou, chceme upozornit na to, že komunistické vlády, které tvrdí,, že zastupují národy, k nimž naše národní skupiny patří, nebyly nikdy zvoleny ve svobodných a demokratických volbách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb53950781fcca1174fa237186501ee72eed390eec85e6a2bf778e4f0145f32d
+size 863

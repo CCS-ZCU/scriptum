@@ -1,4 +1,3 @@
- A kde bude třeba, dodá státní bezpečnost ze svého.
- Morozova, ře- ditele Serbského ústavu pro duševně choré v Moskvě (který je znám jako instituce sovět- ské státní bezpečnosti a je hlídán vojáky, protože 'je v něm velké množství krajně nebezpečných pacientu') opakuje tutéž 'pom- luvu * a odsuzuje internaci radikálních poli- tických odpůrců v blázincích ' v podmínkách třídního teroru a brutální represe vůči revo- lucionářům \ Autor jen zapomněl dodat, že tento starý rusky z v vk bvl rehabilitován a znovu v daleko větší míře uveden do praxe dnešním režimem.
- Kon- cem ledna 1972 se zúčastnila delegace U N E F zasedání Exekutivy MSS ve Varšavě a set- kání o evropské spolupráci a bezpečnosti.
- Byl za to dokonce ještě za Novotného spolu s dalšími vyšetřovateli Doubkem, Kohoutkem a Košťálem zbaven všech funkcí, vyhozen z bezpečnosti a odsouzen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:696a0fcf6f5b99b40a81723f6c5eb29aea23561e4d2fc1b5015e21e0e3d41032
+size 940

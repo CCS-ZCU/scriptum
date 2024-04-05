@@ -1,1 +1,3 @@
-rodina bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:137819a9b836a3e8efba254f808173536a314c33b3318209dc1f2f3388d318e2
+size 17

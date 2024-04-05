@@ -1,1 +1,3 @@
-květen mít vzácný příležitost aetkst ministr životno prostředí bezpečnost jaderný reaktor NSR pan prof
+version https://git-lfs.github.com/spec/v1
+oid sha256:02f6bde2399e89de267480149a3bc100295ba3a90eec3378a23de3676978a96c
+size 115

@@ -1,1 +1,3 @@
-první příspěvek námět politický vojenský bezpečnost druhý návrh hospodářský spolupráce třetí podnět kulturní výměna rozšiřovaný informace kontakt lidé
+version https://git-lfs.github.com/spec/v1
+oid sha256:48f78eb700bb5ac6628866a4f633f21309d83e4294983d82bc4e44820bd515b6
+size 176

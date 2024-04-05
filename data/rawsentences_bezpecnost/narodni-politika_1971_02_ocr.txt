@@ -1,4 +1,3 @@
- V jakési Radě bezpečnosti kdosi zareptal, snad chilský delegát to byl, duše naivní; bylo trochu neshody a delegáti se uklidnili teprve při lun- chi.
- Neoznačuji Vám přímo místo, abych nepřidal na práci naši „bezpečnosti“.
- Z toho je vidět, jak neúplné představy jsem měl o systému Bezpečnosti v roce 1962.
- února ve vládě TĚSNÉ VĚTŠINOVÉ USNESENÍ, podle kterého sc ministru vnitra Noskovi PROTIZÁKONNĚ A PROTIÚSTAVNĚ NAŘIZUJE, aby odvolal rozhodnutí zemského velitele Sboru národní bezpečnosti o reorganisaci pořádkové služby Národní bezpečnosti“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:221008ed78e1a67f12647c569c72c0566ca01647cb4fc051216782b7c20991a0
+size 607

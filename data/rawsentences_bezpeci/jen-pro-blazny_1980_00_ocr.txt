@@ -1,1 +1,3 @@
-Prostě nalezli víc bezpečí v tom aby věci nechali jít volně,než aby po nich vztahovali ruce a pokoušeli se uchopit je či se sami držet a takto objevili a rozvinuli něco c@ bj se snad dalo nazvat psychofýscKé judo, novy uvolněny postoj k*životu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3293e490081fb1f7b2f4cf2b5593dc807b492c7fc2668776bb0db6825f9255f4
+size 261

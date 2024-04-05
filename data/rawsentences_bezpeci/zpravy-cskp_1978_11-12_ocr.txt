@@ -1,1 +1,3 @@
--Všechna zvířata přerušila ještě před výbuchem sopky zimní spánek,opustila své brlohy a přemístila se do bezpečí do vzdálenějších oblastí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d84458d19f8d36518171db4ef07a110c40529a73ce0c949550d94e5b01fc1f52
+size 160

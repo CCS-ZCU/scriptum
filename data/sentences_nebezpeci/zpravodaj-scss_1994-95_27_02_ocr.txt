@@ -1,1 +1,3 @@
-zdát ohled prezident dostávat určitý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dd4dcde2a619d91391ee313f512fb5df39c6f87c89c112bdbd6dfa29030f13b
+size 53

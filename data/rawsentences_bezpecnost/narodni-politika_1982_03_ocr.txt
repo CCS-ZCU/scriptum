@@ -1,2 +1,3 @@
- I sem přijeli ozbrojení příslušníci Bezpečnosti ve velkém počtu — asi 100 osob — ve dvou autobusech se psy a s technikou na osvětlování budov.
- Dnes však byly ve svém stáří připraveny o důvěru ve svou osobní bezpečnost v Charitním domově České katolické charity a o to nejcennější — o své modlitební knihy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08449c581e97e1411ff2e5cd2c1aefeb4c6499ef349f47995b091dc74f94877f
+size 346

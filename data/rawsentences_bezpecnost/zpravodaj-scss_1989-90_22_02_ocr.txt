@@ -1,13 +1,3 @@
- O KREATIVITĚ A JINÝCH VĚCECH Na závěr vídeňské Konference o bezpečnosti a spolupráci v Evropě pronesl nový čs.
- Jenomže Sbor národní bezpečnosti, vyztužený Lidovými milicemi, které dostaly do rukou obušky, takže se nebály zakročit proti neozbrojeným a bezbranným, byl přichystán na všechny eventuality.
- PIETA Zatímco ve Vídni úspěšně skončila konference o bezpečnosti a spolupráci v Evropě a noviny byly plné optimistických titulků a fotografií usměvavých státníků, připíjejících si na lepší budoucnost společného evropského domu, v Praze tentýž den přišly ke slovu policejní pendreky, vodní děla a speciálně na lidi vycvičení útoční psi.
- Škoda, že se jeho slova asi nedostanou k lidem, kteří v těchto dnech na stránkách československého tisku vyslovují svůj souhlas s takzvaným rozhodným zákrokem bezpečnosti proti výtržníkům.
- anarchistům, náramně připomíná metody policejního fízla a donašeče: nebot kde jinde než na státní bezpečnosti mohl - jak píše - později hovořit s účastníky demonstrace z 28.
- Měl snad jejich adresy, aby je navštěvoval doma? Anebo: kdo jiný, než velitelé a příslušníci přepadových komand státní bezpečnosti mu mohl dát informace, včetně lží a výmyslů, o zabavených předmětech při domovních prohlídkách? Že právě zástupce šéfredaktora Rudého práva se věnuje této špinavé a nevděčné činnosti je pozoruhodné a výmluvné.
- septembra 1988 střetnut u svojho kolegu? Prečo tie manévre bezpečnosti na zastrčenej okresnej ceste? Veď sa tak deje v dobe, keď iba nemnoho občanov dá knihe přednost pred televízorom a v časoch, keď všeobecný záujem o veci verejné klesol v tomto národe takmer na nulu.
- Mám toto vysvetlenie: V nenápadnej obci Mladé Buky sa toho dňa stretli spisovatelia a štátna bezpečnost ako poslední, ktorým osud kultúry ešte leží na srdci.
- Kým národ postupne zabúdal, že má štátnu bezpečnost, táto zistila, že mat moc je príjemné a že sledovat spisovatelov je zaujímavejšie, než radových zlodejov, daňových podvodníkov či úchyl- lných vrahov.
- Ten im potom namiesto konzumácie chutného guláša musel na oddelení bezpečnosti v Trutnove zodpovedat anketnú otázku: "Co mělo být na programu schůze nepublikujících spisovatelů, kteří se snaží o nátlak na státní orgány a kdo se jí měl zúčastnit?" "Program je stejný jako vždy.
- Veď zatialčo spisovatelia odvyknutí pohodlnému životu vytvorili vo svojich odpočúvaných bytoch v sebaobrane literatúru naprosto nečakanej sily a hĺbky, ktorú s uznaním číta a prekladá kultúrni svet - dospela na druhej strane štátna bezpečnost k značnej profesionalite v evidencii života a k vysokej psychologickej účinnosti represívnych metod.
- Medzi tým, čo spisovatelia striedavo riešia problém, čo s gulášom, ktorý pripravili pre neprítomných hostí, zalial čo štátna bezpečnost krmi kompjúter číslami občianskych preukazov a štátnych poznávacích značiek, sleduje opatrný občan Olympijské hry a chrúma slané tyčinky.
- V ten den, keď bezpečnost presadí svoj estetický ideál, znechutený národ sa začne obzerat po niekom, kto ponúka lepší progam.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ba55fec0e97df8d52fa3d8159e4baded7a968c6823ded6d1762664cfd655378
+size 3315

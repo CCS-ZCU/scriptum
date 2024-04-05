@@ -1,2 +1,3 @@
- Vedoucí straničtí představitelé východního bloku očekávají, že po úspěšném zakončení evropské konference o bezpečnosti se bude boj mezi oběma systémy v Evropě odehrávat především na ideologickém poli.
- Klíčovým politickým aspektem je, že izraelská vláda dala souhlas k ústupu od východního břehu průplavu za záruku bezpečnosti před novým egyptským úderem, neboť tím vyjádřila, že jejím cílem není ovládáni ci- zího území, ale mír v bezpeč.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12a4c87269db9309307654def0472ee5db8d065c6acce5ed6513622cec629834
+size 501

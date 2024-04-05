@@ -1,3 +1,3 @@
-hrstka zbývající podpis dostatečný zaručit bezpečnost návrh kolektivní podpis petice jméno filharmonie odložený fiasko
-muset divit dát lidé síla
-katolík vzepřít ocitnout vězení léto minulý rok Ján Čarnogurský první místopředseda vláda Praha zodpovědný vnitřní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:987e71cc751fd1832f5e1a60f21b510eab726df6f7ead1cb5301b0e54bdb2e5a
+size 305

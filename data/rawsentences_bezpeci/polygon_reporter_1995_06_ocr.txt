@@ -1,2 +1,3 @@
- Takže aktéři jsou v sudech a miliardy v bezpečí.
- ❖ Platíte vysoké daně? Švýcarské bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07066eb363739df37825598366fc2cf2d64840321e071044307c95365f28c087
+size 162

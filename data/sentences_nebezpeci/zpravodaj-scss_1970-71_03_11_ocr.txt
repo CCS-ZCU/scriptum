@@ -1,1 +1,3 @@
-odchod služba KGB lehký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc40aa464bedaa9050c4fb30cecf4228757db6b5abcaa7c5ed1aff6f57c952d4
+size 38

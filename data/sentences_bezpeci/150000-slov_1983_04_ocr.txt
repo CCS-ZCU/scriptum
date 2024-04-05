@@ -1,4 +1,3 @@
-skupina doufat očekávat očekávat podařit uprchnout uchytit bezpečí moci vybudovat nový život údaj zpráva jméno písemný záznam horší magnetofonový páska skupina zpracovat vyhodnotit
-bývalý uprchlík bezpečí
-říci muž otec bezpečí
-Nino jistota moci ohrozit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe9e9a53888d7c730b8db3107c8c770bd1771d883c0607b09883d2abdc78d247
+size 292

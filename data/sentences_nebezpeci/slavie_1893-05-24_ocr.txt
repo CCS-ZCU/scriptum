@@ -1,2 +1,3 @@
-cestující oznámený kapitán ujistit hrozit nebezpečí upokojit krátký čas
-Straka ubírat Valentův domov
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7c9df0eb0a47a6ac8a16b924ddd3bd845f8931b162e196ff11cb3dfbaa29cc5
+size 113

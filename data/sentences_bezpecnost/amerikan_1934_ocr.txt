@@ -1,2 +1,3 @@
-namítat možný nechat čin potrestání Paprskář vyvádět vědět celý řada jiný policista mít následek porušení kázeň otřesení autorita mužstvo vědět bolet vypravovat dělat bratr postavit odstrašující příklad konat služebník veřejnost zodpovědný bezpečnost občan bojovník očist město
-příhoda had ubytovat velký pohodlí bezpečnost opuštěný chata který squater obývat četný rodina zima zabývat lovo líčení zvěř
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7570746eb9f0eeb84880a0c073efa3c857d73691228e7bcc796a6eabb1964eb
+size 463

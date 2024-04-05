@@ -1,1 +1,3 @@
-text pravit případ těžký poškození život celý společnost existovat reálný nebezpečí opakování čin mít společnost právo sebeobrana násilný prostředek
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c84714d5806a685f997ac698958e0dd328d0189f330cfe1acb99ef0bfc650ba
+size 172

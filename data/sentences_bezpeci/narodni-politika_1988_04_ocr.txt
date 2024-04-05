@@ -1,1 +1,3 @@
-osmý strana Nýrodný politika duben Ctyř šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:d754f353c9869746190f50eed2cfbb2af3df35d22b9d83e8b1bc38f873e6e1fa
+size 81

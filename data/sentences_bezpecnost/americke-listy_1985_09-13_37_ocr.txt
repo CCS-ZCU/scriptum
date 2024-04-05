@@ -1,2 +1,3 @@
-dokázat udělat inštruktorský zkouška letní tábor starat dětský bezpečnost zabavit
-sovětský vojenský policie východoněmecký bezpečnost dozvědět krádež taxík zřídit trasa sovětský voják projíždět silniční zátaras
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e130a8d1c51f1f54a073d58a41f50be612910795154a08099d285466f3b2dc2
+size 244

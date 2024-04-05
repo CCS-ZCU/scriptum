@@ -1,1 +1,3 @@
- Rovněž v Ženevě, kde po měsíční přestávce pokračuje od poloviny ledna 500 zástupců 35 zemí v debato o bezpečnosti a spolupráci v Evropě, dělají čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bbe352b959df1255be3ed2db0cb726f29794d2bfc31d7ec808b2ec05b60ca10
+size 169

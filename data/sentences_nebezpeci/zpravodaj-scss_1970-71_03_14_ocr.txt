@@ -1,2 +1,3 @@
-jít nebezpečí nemoc přečetný emigrace trpět vála
-občan ČSSR výkon právo narážet nabitý ostnatý drát dostávat nebezpečí roztrhnout mina rok zasáhnout střela samopal pohraničník malý octnout vězení trestní čin opuštění republika házet lidé vidět jiný cesta uskutečnit přirozený lidský právo pytel zločinný politický dobrodruh pochybený
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4578950ccb01a4b75cc3d805021bf466639aafbaa1f188c0925a7fa33593aa8
+size 376

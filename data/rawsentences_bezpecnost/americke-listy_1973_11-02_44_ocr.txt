@@ -1,1 +1,3 @@
- svazu tak i USA bude o výsledku všech jednání rozhodovat více než Káhira a Tel Aviv Moskva a New York, při čemž si diplomacie Spojených států musí velmi dobře uvědomit důležitost bezpečnosti izraelského státu na Středním Východě pro budoucnost — jediného spole- hlivého spojence, kterého A- merika na Středním Východě má.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85f25b9fe074b4e7023fd3fc7ab7c688549c8b5d46ca154d227294929e2bb059
+size 358

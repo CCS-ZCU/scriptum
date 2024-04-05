@@ -1,16 +1,3 @@
-^ ^ rok den zaslat občán československý úřad maďarský rakouský eko log petice upozoKujík negativní dA ekologický důsledek stavba vodní dílo Dunaj
-připojit protest ma9arský veřej nost přehrada Gabčíkovo Nagymaros
-í den vydat mluvčí charta dokument obsahující jméno lnoko vých signatář charta T
-první měsíc letošní rok počet signatář charta zvýšit P
-odhadovat celkový počet charta zveřejněný podpis přesáhnout československý občan
-léta existence charta signatář emigrovat zemřít j výbor obrana stihaný československý liga lidský právo člen mezinárodní federace lidska právo FIDH síd lem Paříž mít člen signatář charta žijící Československo člen žít emigrace
-VONS vydat dát sdělení celkový počet sdělený ± t léta
-poslední sdělení zabývat represe účastník mani festace václavský náměstí člen NMS
-postžený letý Jiří Stencl Litovle příaluci níc státní bezpečnost zavézt Praha zbít nechat ^pomoc ležet noc silnicix pd VONS Rf ^Řspěch dosáhnout solidarizující závislý aktivista založený výbor obrana Slávek Popelka úterý
-den proběhnout HdxaixtKixRfxauct krajský soud Brno volací řízení trestní věc Slávek Popelkoví odsouzený původ měsíc trenér pobuřování odstavec trestní řád
-odvolací řízení Slávek Popelka uznaný vinný přečin socialistický soužití odstavec a zátý přečin ddsouzený týden
-shoda okolnost uplynout týden vazbí trest započítávat den vynášení rozsudek Slávek Popelka propuštěný svoboda
-odvolací řízení Slávek Popelka provázený silný policejní asistence transparent slovo propuwdit polický vězeň Slávek Popelka rozvinout mluvčí charta Stanislav Devátý signatář charta Jan Kiš& aktivista spusa soud budova držet jet sekunda zadržený
-propuštěný hodina
-případ Slávek Popelka viz relace
-<
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0afb8ada4b777d83675b31c6a7e2a3b3d61a2233d4094a18dd5c5872f1896f
+size 1897

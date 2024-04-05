@@ -1,1 +1,3 @@
-stupeň nebezpečí záviset seznam použitý
+version https://git-lfs.github.com/spec/v1
+oid sha256:bab82699671fe2686d99e9f44c36c14e9fd2b6ebeec19ce5b6845f72ca807f36
+size 46

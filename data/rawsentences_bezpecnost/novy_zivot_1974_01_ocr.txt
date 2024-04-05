@@ -1,1 +1,3 @@
- Církevní organizace neměla ani tu svobodu, kterou má (u svobodných národů) soukromý spolek, ani tu zaručenou bezpečnost, které užívá veřejnoprávní instituce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06a0c10cb5eb3ac1bbe417f1d564552720ed7a9e7b190ee34969fe93baa3c95d
+size 176

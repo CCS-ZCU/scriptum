@@ -1,1 +1,3 @@
- Z madridské konference — se stává fraška Madridská konference o evropské bezpečnosti a lidských právech, byla minulý týden v pátek opět přerušena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ecdcaae1ee3af479211cf3e8ef9efef66773e2332dce76ee03dc1760921042
+size 165

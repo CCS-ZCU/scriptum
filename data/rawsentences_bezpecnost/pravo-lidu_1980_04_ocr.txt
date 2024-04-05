@@ -1,7 +1,3 @@
- Rodina má poskytnout především dětem bezpečnost a jistotu.
- jistého omezeného využití jaderné energie; její uplatnění však může přijít v úvahu jen při mimořádném respektování bezpečnosti.
- □ O vyšší využívání všech možností získání energie malými a decentralizovanými zařízeními □ O systematický výzkum a využívání nových zdrojů energie □ O předvídavý postup při využívání jaderné energie k výrobě elektřiny, přičemž otázkám bezpečnosti musí být věnována mimořádná pozornost.
- Socialisté se řídi rozvoji jednotlivých článků dopravy těmito hledisky: □ Veřejná doprava má přednost před individuální dopravou nejen pro svoji větší bezpečnost, menši energetickou náročnost a menši znečišťování životního prostředí, ale i proto, že mnozí lidé nemají vlastní aulo.
- Socialistická strana Rakouska v tom vidí důležitý přínos pro bezpečnost Rakouska.
- Bezpečnost Rakouska Naděje na trvalý míra mezinárodní dorozumění nesmí Rakousku bránit v tom, aby učinilo vše potřebné k ochraně své neutrality, své národní nezávislosti a územní celistvosti před jakoukoli cizí vojenskou mocí.
- mezinárodni spolupráci a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f17dc5d6d96026be56f2c97e54f61fac6d1616c337f03ae32922f2b6ce130d1
+size 1268

@@ -1,8 +1,3 @@
- V sovětském sociologickém časopise8 se v této souvislosti zdůrazňuje, že „činnost bezpečnosti vždy odrážela jako v zrcadle politickou situaci konkrétního historického období.
- Bezpečnost pouze uskutečňuje direktivní pokyny vedoucích orgánů různé úrovně“, a proto vlastně „konflikty neformálů nejsou konflikty s bezpečností, nýbrž konflikty s mocenskými orgány“.
- a bezpečnost (policie) Nastává proces rychlého odbourávání bariéry strachu, která bránila lidem v přímých interpersonálních kontaktech a zaháněla je do svobody soukromí (poněkud spikleneckého ladění), a která ostře oddělovala sociální zóny, v nichž se lidé pohybovali (místa veřejná, úřední, oficiální, pracovní, podzemní, soukromé atd.
- A nad tím vším bdělo dohliži- telské oko bezpečnosti, spoléhající na ostražitost loajálních nadřízených v zaměstnání, síť informátorů i agilních pomocníků.
- To ovšem komplikuje postavení bezpečnosti i tam, kde její zásahy lidé vítají (proti mafiím, reketům, gangům a pod.
- b) Kritika praktik totalitní moci oslabila jistoty pracovníků bezpečnosti.
- Přechod od systému ochrany státu k systému ochrany občana samozřejmě zasahuje i složku nejúžeji spjatou s tajnostmi socialistického pořádku - státní bezpečnost (KGB), jejíž prostory na Ljubjance kupodivu znovu vzrostly.
- A tak volba mezi policejní ctí a osobní bezpečností nebývá snadná,zvláště je-li osobní bezpečnost podepřena finančními „argumenty“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:712cb1637bdb338503c107f553235adc6d17d3b0c90d1af40619d7953230eeed
+size 1569

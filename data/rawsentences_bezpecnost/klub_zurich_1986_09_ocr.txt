@@ -1,1 +1,3 @@
- Ale vysvětlujte to při výslechu státní bezpečnosti!" 27 "Jaký povznášející po cit t chránit naši socialistickou vlast proti kapitalistům!" vykládá jeden pohraniční voják druhému.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68f4aaad5c20be1e33beee8f450e5ff8b153358a60e28b91224330a240c3ea2f
+size 200

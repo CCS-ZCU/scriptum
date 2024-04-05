@@ -1,1 +1,3 @@
- (V Benátkách k vězeňkyním) K pracujícím Svět práce prožívá dnes velmi těžké chvíle: nedostává se pracovních míst, denně roste více počet nezaměstnaných, zvláště mezi mladými; životní podmínky, třebas se zlepšily, stále nejsou uspokojující; solidarita, ohrožovaná egois- mem osobním i skupinovým, jen ztěžka si razí cestu; životní bezpečnost, založená na konkrétním a spravedlivém sociálním míru, zdá se není ještě uskutečněna; ekonomie jen velmi nesnadno uzpůsobuje své zákony, tak aby byla ve službách člověka; omyl ekonomismu, který posuzuje lidskou práci výhradně podle jejího ekonomického cíle, ještě zdaleka nebyl napraven.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5db248a94dd853a5cd11088dc3f2238a8511afb95a7f3b7412dca8960b7631fc
+size 707

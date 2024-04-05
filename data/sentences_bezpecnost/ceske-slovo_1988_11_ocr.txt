@@ -1,2 +1,3 @@
-výbor evropský bezpečnost napomáhat zásada závěrečný pakt týkající lidský právo uvádět praxe
-bezpečnost zmařit sympózium Československo
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9dd9391d3c85bb396a911937ff873d9d6f56aab906b6bc51a1db46635d86e62
+size 156

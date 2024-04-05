@@ -1,1 +1,3 @@
-pozbývat naděje zdát možný pán vyvést tolikerý útrap nebezpečí darmo naplano učinit všecka divý zázrak vytrhnout poslední nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:083c76aad93525627497bc2e2b0cddec0c609782f77e09cde16436ca51a837cc
+size 150

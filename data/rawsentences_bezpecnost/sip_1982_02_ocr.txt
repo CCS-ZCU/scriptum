@@ -1,2 +1,3 @@
- Po tisíce let se plavili lidé oceány za dobrodružstvím, opuštěli rodinný krb, bezpečnost domova, jen aby vzdorovali ve svých lodích neznámému.
- Ale protože jsi moje dítě, nebudeš nikdy litovat bezpečnosti, kterou opouštíš.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c2ae2c9f18a5c8ef07c361e46fcd8a8a8bc35a246376bdf8522067fce413b1d
+size 245

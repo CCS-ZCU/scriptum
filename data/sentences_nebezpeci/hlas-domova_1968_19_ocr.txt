@@ -1,1 +1,3 @@
-Československo srdce Evropa moci foý transplantovaný smrtelný nebezpečí celý Evropa ukázat léta Mnichov
+version https://git-lfs.github.com/spec/v1
+oid sha256:98399731f35ffd73896f995e89f418292c218a191ee70ed853a354686ec0f510
+size 113

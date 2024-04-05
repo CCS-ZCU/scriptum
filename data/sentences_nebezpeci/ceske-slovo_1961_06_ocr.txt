@@ -1,4 +1,3 @@
-picsident Kennedy prohlásit hlavní přínos vídeňský porada zmenšení nebezpečí konflikt chybný kalkulace strana
-odchod domov zbavit povinnost upozorňovat nebezpečí
-Skoti uvědomit vážný nebezpečí československý
-strana socialistický moci vystupovat pracovat komunistický nebezpečí vesnice
+version https://git-lfs.github.com/spec/v1
+oid sha256:8385f8015db99323a63e561d718a2d33e5c5cd39dba70d4eb59cd7d75b3ee697
+size 312

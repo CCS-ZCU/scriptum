@@ -1,4 +1,3 @@
- Netoliko Sověty mají nárok na bezpečnost před možností nového přepadení Německem, jak řekl president J.
- Havíři si je zaměnili za nové, přiléhavější — „Já jsem horník, kdo je míň!" — Hle — jak pádně a výstižně odpověděli představitelům vlády, strany a odborů, kteří ustavičně slibovali a slibují horníkům, že se postarají o jejich bezpečnost a zdraví při práci.
- Neznají bezpečnostní předpisy Bezpečnost práce — to byla a je stále opomíjenou popelkou ve všech uhelných revírech a na Ostravsku především.
- „parlamentě" k návrhu zákona o bezpečnost a ochraně zdraví při práci, dne 28.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a45f1a7dbbce16738c08b6d52cacc1a43446aa0894a086004421494e8ac706
+size 667

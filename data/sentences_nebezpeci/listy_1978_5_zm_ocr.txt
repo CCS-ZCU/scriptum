@@ -1,8 +1,3 @@
-nebezpečí spisovatel stát bobko vým list ověnčený klasik velký riziko totální ztroskotání dát dělat nebezpečí existovat spi sovatel muset umět vyrovnat
-pustošit hrozit nebezpečí blaho byt šeřící úkor okolní přirozený svět vyústit totální bída
-mnohý nebezpečí hlavní riziko lektivní duchovní sebevražda odvrý ceno
-nezna menat přiznat censurovaný básník cházet imaginace
-možný nebezpečí jiný pomý slný země prostřednictví censur brát
-nebezpečí uletět udělat provokačka letec hrozit technika podstata ruka
-cítit odsouzený nemocný pracovní doba vystavovat nebezpečí kázeňský potrestání případ lékař uznat práce neschopný
-naléhavost qtázka podtrhnout letošní návštěva prezident česko slovenský socialistický republika NSR návštěva předseda prezidium vysoký sova sovětský svaz NSR zřetelný uznání mírový charakter NSR vztah země ostatní země ský smlouva NSR učina zmínka nebezpečí zdůvodňující tex smlouva dočasný pobyt sovětský vojsko území republika
+version https://git-lfs.github.com/spec/v1
+oid sha256:58dceba6a31e426420c1ef6b94729c14d4dbc34f52371b08457fdd77cc27622b
+size 1387

@@ -1,2 +1,3 @@
- motto: Státní bezpečnost ve snu pracovali vidětá Budeš svědkem zázraku! Zázraky se ději jen jednou, pravil název onoho proslaveného francouzského šlágru, ale občané Prahy, kteří v tyto dny zavítají na procházku na Klárov a mrknou očkem do zahrady Strakovy akademie, kde teď sídlí předsednictvo federální vlády ČSSR, to mohou potvrdit.
- Vyšším principem za vládním usnesením je však také skutečnost, že k upevňování demokracie patří i upevňování zákonnosti a právní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4806a1cd268dd543528f765e582ec72bf03236c0c251338675d62d43f2d7fbb4
+size 533

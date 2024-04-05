@@ -1,1 +1,3 @@
-Červeni
+version https://git-lfs.github.com/spec/v1
+oid sha256:e06809f607605bf80112e9d765fd01b8c9e62b071f1861cf4c256865362a9042
+size 9

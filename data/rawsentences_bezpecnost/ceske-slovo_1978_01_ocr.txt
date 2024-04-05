@@ -1,5 +1,3 @@
- Rozhodl se tedy pro jinou věc: pro svou cestu do Izraele, aby Izraelce i svět přesvědčil, že Egypt má zájem na mírovém urovnání sporu, že uznává práva Izraele ■ na existenci i bezpečnost hranic a že je proti válce.
- Jde nejen o otázku bezpečnosti (hranice Izraele), ale i náboženskou otázku: ve starém jeruzalémském městě mají své historické památky nejen Arabové a Izraelci, ale i ■ křesťané.
- Bezpečnost Izraele by byla zaručena nejen smlouvami, ale i přítomností mezinárodních vojenských jednotek.
- Po alarmujícím počtu úrazů posledních let se rozhodli různé švýcarské privátní instituce a švýcarský horolezecký klub, že se postarají o větší bezpečnost v horách.
- Měli jsme z pekla smůlu, protože bezpečnost číhala za rohem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:774d176e4bbfaff18b170d408a25898b44d8fe2899f35d8eb3bdfbb35eea23cd
+size 808

@@ -1,1 +1,3 @@
-prodej Karlštejna autor pravit kupčení světý hodnota vlast bezpečnost suverenita
+version https://git-lfs.github.com/spec/v1
+oid sha256:38dab2b185af71b1eb1095637c54eeeccf993aedbf27a8a2cd3114908e9966a6
+size 87

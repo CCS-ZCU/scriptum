@@ -1,1 +1,3 @@
-nebezpečí známý nedostatek kvalitní stavební materiál pověstný lajdácký práce dojít únik radioaktivita spodní voda ovzduší vysoký
+version https://git-lfs.github.com/spec/v1
+oid sha256:27599316e8d056b7d5f142e8d88aa830f83f9c23a445523f800f45f8de83b78f
+size 148

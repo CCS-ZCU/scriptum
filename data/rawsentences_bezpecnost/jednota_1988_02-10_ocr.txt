@@ -1,3 +1,3 @@
- 40ročné ateistické vplývanie všetkých masovokomunikačných prostriedkov na jednotlivcov a spoločnosť, ale aj pre presviedčanie a zastrašovanie zo atrany bezpečnosti a úradov.
- a 23, augusta zišlo asi 50,000 veriacich, a to napriek preventívnym opatreniam cirkevných tajomníkov a bezpečnosti, ktorí chceli zabrániť najmä účasti a angažovaní mládeže.
- S narastajúcim počtom pútnikov sa umenšovali zásahy štátnej a verejnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e01df45d8b60d89cc81f843319da7ae9952e3bba2e6874bd58a29d39dff0e84c
+size 471

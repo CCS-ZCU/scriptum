@@ -1,4 +1,3 @@
-podařit nebezpečí odvrátit
-povstat květnový den Praha hrozit velký nebezpečí vzpomínat malověrný
-vězeň horší životní podmínka vzájemný láska snášenlivost hrozit nebezpečí smrt Otakar Březina říci krásný slovo morální hodnota člověk nepřítel muset mít úcta
-diplomat pověřený vděčný úkol namítat velký nebezpečí odvážit podobný rozmluva francouzský král
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c0c8adedd7c7ef9a459ccb3dc0eba3f30f63b51c5a0b13f18b0fc648309d096
+size 407

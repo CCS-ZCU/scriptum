@@ -1,2 +1,3 @@
-smět vinit
-sen nesený vlna sovětský próza poukazovat dehumanizační nebezpečí překonaký historický současný rozpor společnost kažaý sen inspirovat zklamávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac99cb55aa16133425bfcbef762245f1dc35b909cb12cc594cf24afd4655658f
+size 174

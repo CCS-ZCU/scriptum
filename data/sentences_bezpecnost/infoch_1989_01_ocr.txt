@@ -1,1 +1,3 @@
-moci ten stát bezpečnost země zakoušet pocit beztrestnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3fc37cfafee9fc9eb3ed59f0951af59a087f056fef364d72530cc593555013a
+size 62

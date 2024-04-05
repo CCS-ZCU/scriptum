@@ -1,1 +1,3 @@
- Bydlet v blízkosti lidi, kterým rozumíme, s kterými máme podobné zvyklosti a s nimiž se cítíme v bezpečí je touhou mnoha lidi a nejen přistěhovalců.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4f79075dc8b6f67d7fd1a6d7f9844eb1325d6f4f8124301c66c60988feab413
+size 164

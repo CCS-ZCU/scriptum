@@ -1,1 +1,3 @@
- Telefon 01-62 68 78 Printed in Switzerland OVOCNÁ CUKRÁRNA V GOTEBORGU VÁM NABÍZÍ: ovocná polévky, ovocné speciality, ovocné zmrzliny, ovocné dorty na vaši milou návštěvu se těší RODINA LINKOVÁ TRÁDGARDSGATAN 2 411 08 GOTEBORG Telefon 031 / 130129 Zamýšlíte podnikat? Chcete si půjčit za nízkých úrokových sazeb peníze a na vysoké je zpeněžit? ČTYŘ- AŽ ŠESTINÁSOBNÉ ZVĚTŠENÍ KAPITÁLU Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19f4916eb68396a3e1ea316b2127bcddcd21b5455811348b41b92710b88d062
+size 156

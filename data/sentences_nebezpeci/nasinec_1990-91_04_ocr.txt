@@ -1,4 +1,3 @@
-lustrační zákon zakazovat přístup bývalý stranický nomenklatura podstatný funkce státní sféra nebezpečí nápadný vrátit moc
-karta obrátit nebezpečí stát obrovský výhoda štěstí radost
-jediný nebezpečí omrzet přestat působit stadium přiblížit
-hrozit velký nebezpečí ovzduší nemohoucnost znechucení vyskytnout silný osobnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:625c60b07ef6a411d81cec8e947266b8971884523e56b5ee8b72f11a65009cfb
+size 362

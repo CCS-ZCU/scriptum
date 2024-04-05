@@ -1,4 +1,3 @@
-student Palach Zajíc volit krajní prostředek sebeobětování spoluobčan upozornit nebezpečí úpadek morální hodnota najít cesta obnova uchování
-ukázat teoretický pojetí lidský právo všeobecný rámec svádět uplatnění šablon vzdálený realita všední život vystavený nebezpečí politický zneužitý
-druhý nebezpečí bezmyšlenkovitý přenos představa jiný oblast vidět podpora konzumní společnost materiální předpoklad zakotvený hospodářský základna
-nabytý vůz většina představa provoz schopný představovat trvalý nebezpečí majitel ostatní uživatel ulice silnice asociální jev
+version https://git-lfs.github.com/spec/v1
+oid sha256:14566cda230c7f92735c197e0a78cb60a9859194e0790e06c049efa38498b91b
+size 635

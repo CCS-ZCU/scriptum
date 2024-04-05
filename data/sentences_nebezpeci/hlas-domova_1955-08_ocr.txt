@@ -1,1 +1,3 @@
-pohybovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:4da4e08865f80d89b29c174c6a5f693412aac000da1f4872d99e24af0f967c35
+size 10

@@ -1,2 +1,3 @@
-ironie tragický říkat pokrok
-tažení cCA RTH ISM člověk sednout lep propaganda McCarthismus uvěřit svoboda lidstvo západní civilisace hrozit nebezpečí senátor cCarthy druh komunista zjevný tajný ochránce
+version https://git-lfs.github.com/spec/v1
+oid sha256:620e160dd0ab5630810e3f18e202751229a462aa23c2e114018e9c7ef72d8b85
+size 220

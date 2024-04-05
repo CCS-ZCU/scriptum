@@ -1,5 +1,3 @@
- Podľa tejto dokumentácie pri prijímacích rozhovoroch na teologické fakulty sú prítomní príslušníci štátnej bezpečnosti, ktorí kladú uchádzačom o štúdium otázky o ich pemere ku kcmunistickej strane, k socialistickém štátnemu zriadeniu a k prorežimnej organizácii katolíckych kňazov Pacem in terris.
- Kurt Wald8  heim, odevzdal na závěr své návštěvy Sovětského svazu Leonidu Brežněvovi zlatou medaili Spojených národů za zásluhy o světový mír a bezpečnost národů.
- Ve Spojených národech se projednávají pravidla společného boje proti teroru a jejich představitel u- dělí zlatou medaili míru jednomu z největších současných teroristů na světě, zachvatčiku Brežněvovi, snad proto, že se vskutku postaral o bezpečnost Čechů a Slováků.
- Když v září 1938 moji tři důstojníci byli ohroženi Henleinovci na našich hranicích, agent projevil nejen duchapřítomnost, ale i opravdovou starostlivost o jejich bezpečnost.
- Když již chtěl odejet zpět do Švýcarska, byl u východu hotelu zatčen, a to orgány československé státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb5e67c5ff19908cf088e77fe32cc88e47defdc1a0e261684d50a4f3b242c03
+size 1126

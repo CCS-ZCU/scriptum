@@ -1,1 +1,3 @@
-úplný olCTnik •—kloYli1 mít etrúka dtllit práce nebezpečí úkouť
+version https://git-lfs.github.com/spec/v1
+oid sha256:f022c70692e3a351203eaaa995cfe03aafc7c68bba5996b960a63c07133cacfd
+size 77

@@ -1,1 +1,3 @@
-otec bezpečnost určený prosit upusnit psaní míněný rada
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9fc23abfc4095b290247d1906d578bd7314ea047b21c53a49eaf8f56d52fb32
+size 133

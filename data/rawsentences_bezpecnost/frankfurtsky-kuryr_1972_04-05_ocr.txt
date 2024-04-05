@@ -1,5 +1,3 @@
-’ Dodnes sedí ve straně i bezpečnosti lidé kolaborující za války s nacisty, Jaroslav Brodský se napře v knize Řešení Gama zmiňuje o Aelndrovi a jistě právě proto byl po vyjití knihy obviněn v Československu také jako náčist, agent.
- Převzal jsem tedy vedení strany a pro vlastní bezpečnost jsem založil GPU, jehož šéfem jsem udělal zloděje Jagodu.
- A spoléhat na to, že svítí ten za mnou? Co když to je F AR-772? 2/ Dávám-li dostatečně včas blin- kr před odbočením na křižovatce, upozorňuji také protiproud, že tam najedu a že je mohu v rámci plynulého provozu za mnou částečně omezit v plynulé jízdě^přímo, protiodbočující pak upozorňuji,že je mohu částečně oslnit - čili dělám maximum pro bezpečnost provozu.
- Pích-Tůma z STB, jeden ze sedmi někdejších důstojníků Bezpečnosti,kteří byli zatčeni na pokyn Dubčekovy vlády v červnu 1968 pro vraždy, spáchané o 2o let dříve; postaven před vojenský soud 12.
-národm bezpečnosti Karola Bacílka u mnohých z nich při vyšetřování a téměř u všech před zahájením procesů nasvědčovala tomu, že jejich vina bude posuzována podle toho, jak vystoupí před soudem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:becb5de465c0b33cc3478650662bb12ddf3e9a9275401307dd200fdf9452c1e9
+size 1221

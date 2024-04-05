@@ -1,1 +1,3 @@
-lidé lid vystavit občan velký nebezpečí politický manipulace
+version https://git-lfs.github.com/spec/v1
+oid sha256:658cd427bd597aed61c90b85bcd74667bdae0ba24511e9aafa3bf7e3fd557c77
+size 67

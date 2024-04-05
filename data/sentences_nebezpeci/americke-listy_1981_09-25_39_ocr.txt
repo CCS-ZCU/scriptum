@@ -1,1 +1,3 @@
-hlavní nebezpečí chirurgický zákrok vidět lékař moci vyvolat předčasný porod stadium novorozeňat mít malý naděje přežití
+version https://git-lfs.github.com/spec/v1
+oid sha256:047edf29ac54f2f6bf9ff0f209b3b0b1894e7e1f8cde6acde08bb8bbe7688c02
+size 139

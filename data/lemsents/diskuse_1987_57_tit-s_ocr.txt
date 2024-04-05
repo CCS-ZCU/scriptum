@@ -1,16 +1,3 @@
-diskuse číslo listopad teoreticko politický občasník obsah číslo opozice oportunismus Jaroslav Šabata demokratický samospráva samosprávný demokracie
-Vlastimil Tesařová příspěvek diskuse celospolečenský přestavba Vlastimil Tesařová stanovisko skupina moravský občan návrh zákon podnik reforma rozpaky Čestmír Císař Jaroslav Šabata opozice oportunismus vypracovaný rok diskuse historický dokument kůň í tnost uveřejňovat vědomí autor příležitost šedesátý narozeniny narozený listopad
-připojovat gratulant přát jubilant pevný zůraví
-jet pevný nerv zdolný optimismus český poměry dlouhý doba dát říci charakterizovaný zvláštní směsice oportunista opozice
-lze stanovit český opozice oportunní
-dělící čára probíhat národ jednotlivec
-rakouský byrokracie rekrutovat Čech
-postoj Palacký český politika Rakousko markantní důkaz vytrvalý ochota spolupráce rok vytrvalý nesouhlas opozice
-směsice oportunismus opozice představovat řešení národ ovládaný považovat možný žít vlastní způsob život považovat možný vhodný daný doba bojovat režim
-politika doplatit Rakousko úspěšný
-spolupráce chápaný kolaborace být mít navazovat daný jiný možnost volba jiný účinný pozitivní alternativa
-chtít realizovat muset způsob spolupracovat
-indif©rentismus forma S ‘ ř olupráce
-spolupráce souviset souhlas souhlas vyžadovaný dostávat patřičný míra
-opozice moci zásada pasivní negativní doba začít tvořit možnost pozitivní alternativa
-moci vytvořit druhý strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:99d27ee5895b05161efc93a2e0c1489bc31dab1905dbc0650e5afa072d7c247c
+size 1584

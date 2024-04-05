@@ -1,4 +1,3 @@
-zachráni^ nebezpečí
-dobrý jistka nebezpečí smrt slavý nosteň rámec svatba křest pohřeb
-křesťan utéci svoboda hrozit nebezpečí ztratit víra
-den dostat Napoleon Francie opustit Pius neděle Řím utéci Janův hrozit nebezpečí Murata Neapol
+version https://git-lfs.github.com/spec/v1
+oid sha256:499a370d0b73312121479b5ce95e9470946e3b5e8f20a0e1647c640ca2f8b549
+size 332

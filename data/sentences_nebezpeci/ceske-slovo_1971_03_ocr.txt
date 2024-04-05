@@ -1,1 +1,3 @@
-paní Pavel Zenklová nést druhý světový válka osud žena muž stálý nebezpečí významný československý rukojmí německý koncentrační tábor pronásledovaný něinnoký nacista český komunista
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7aee27c7807a5109c031d0ddc8c86973aa59498734879dcb097c9829ba40a7e
+size 211

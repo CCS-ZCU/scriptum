@@ -1,3 +1,3 @@
- Když Vaculka ilustroval a graficky upravoval samizdatové vydání básní Jana Skácela, zasáhla komunistická Státní bezpečnost.
- Všechny prostory současně odpovídají požadavkům na bezpečnost.
- Kromě tradičních raket a dělbuchů se objevila řada nových vynálezů - tedy alespoň pro mě, který jsem to šílenství posledních pár let pozoroval z vršku, už kvůli bezpečnosti dětí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:257a8ce87282b77b7d341b5670ec5df65e2ba17b83861096490d4e60423b4559
+size 412

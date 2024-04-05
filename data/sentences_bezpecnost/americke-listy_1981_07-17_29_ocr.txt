@@ -1,3 +1,3 @@
-známý pachatel přehlédnout poslední písmenek zkratka domnívat státní tajný bezpečnost přejmenovat státní tajný policie
-československý státní bezpečnost rok dokončit dílo arizace židovský majetek
-státní bezpečnost dokončit špinavý práce nacista muset vylamovat zbatba bloníba chrup povražděný
+version https://git-lfs.github.com/spec/v1
+oid sha256:20653d57698db553ea4796247eca366686f5f026ba1f4797498a893667ac6114
+size 327

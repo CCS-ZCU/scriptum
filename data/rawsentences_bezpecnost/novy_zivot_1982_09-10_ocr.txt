@@ -1,1 +1,3 @@
- prosincem 1981, cesta se může uskutečnit jen tehdy, »až bude v zemi úplný pokoj a budou existovat všechny nevyhnutelné podmínky pro papežovu bezpečnost«.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c151b3991a3c51d8ecfd35331b56f3000627bdaf857ef97724e451fc83f0f5
+size 168

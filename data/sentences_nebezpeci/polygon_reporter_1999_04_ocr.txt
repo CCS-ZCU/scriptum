@@ -1,1 +1,3 @@
-nebezpečí zvláštní strategie spočívat nechávat Miloševič rozhodnout mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:4634737c008eae1203ccd07c54b40bc022505f2ffc05970bc312197cf3a17baa
+size 83

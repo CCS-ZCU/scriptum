@@ -1,1 +1,3 @@
-domov pozitivum přístav bezpečí objevovat existovat společenství uvádět dítě život svět vázat důležitý smysl tvořivost hodnota
+version https://git-lfs.github.com/spec/v1
+oid sha256:02cacd1fd0eb47f1fdd509c222083641b3d2fc2b75bdabbee69f67ed6409389b
+size 147

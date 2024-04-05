@@ -1,5 +1,3 @@
-jednat vojenský bezpečnost téma hledat neutrální zúčastněný země společný odpověď
-března Československo postih občan pokračovat VONS výbor obrana stíhaný informovat oprávněný zákrok přehma porušování lidský právo dopouštět československý bezpečnost
-poškozovat zájem socialismus ohrožovat bezpečnost socialistický země rozumět první řada Afghánistán
-léta zkoušet doktorka Michaliková ústav bezpečnost doprava řidič řidička
-leden dvanáctý hodina přerušit státní bezpečnost přednáška Ladislav Hej dánka
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c2b2d23c084e25aca98ead944989de9c4eeb62a5fd44d3808c204d6ca899356
+size 566

@@ -1,1 +1,3 @@
-vystěhovaný všecky dům velký bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f553eacb1962000926cfab7ef732d7f50d53cdd7db330ed328bce66bde8a7ea2
+size 44

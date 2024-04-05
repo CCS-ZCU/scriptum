@@ -1,2 +1,3 @@
-bezpečnost francouzský filosof Jacques Derrid známý dílo rozpor realita popisující jazyk
-Kaplan zodpovědný národní bezpečnost známý případ Kanaďan dvojí občanství činěný nátlak strana cizí vláda
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe8be9ab56f28826afc7feefe1dcf9157037108d57ee71579667516fed3e313b
+size 221

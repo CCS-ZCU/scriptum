@@ -1,4 +1,3 @@
-hlad doba velký nebezpečí polský národ
-Zdeněk Jičínský vyzvaný doba konaný sjezd KSČ vzdálit Praha vystavovat nebezpečí zajištění
-svět svobodný jít celý řada protest podoba diplomatický nóta švýcarský neutrální úřad hrozit nebezpečí
-pramenit nebezpečí všeobecný válka střední východ
+version https://git-lfs.github.com/spec/v1
+oid sha256:3669af0f8b4eccaefa4e6755de0270748601732f5b1023f54e860037b601d1c0
+size 327

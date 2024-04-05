@@ -1,4 +1,3 @@
- DUBNA 1977 AMERICKÉ LISTY STRANA 5 Pražské motivy … Liberalizace v Jugoslávii? Španělský žurnalista z oficielního odborového denníku Pueblo Vicente Pomero, byl československou bezpečnosti držen deset a píd hodiny ve vazbě jen proto, že se poku- sd o interview s bývalým tajemníkem ústředního výboru komunistické strany, signatářem Charty 77 Zdeňkem Mlynářem.
- Byl odveden na najbližší okrsek veřejné bezpečnosti a tam vyslýchán.
- Když žádal, aby se mohl spojit se španělským velvyslanectvím, příslušníci bezpečnosti se mu vysmáli.
- Ba to mu příslušníci bezpečnosti řekli, aby jiným západním žurnalistům poradil sc s dissidenty nestýkat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4e989bbb59d6e48fae329775f8e29eec7e898f14fbcce0088e2fc81ae70990
+size 703

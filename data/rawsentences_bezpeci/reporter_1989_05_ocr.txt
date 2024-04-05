@@ -1,2 +1,3 @@
- Celkem nekrvavý pro ty, kteří byli v západním bezpečí, ale neradostný pro ty, kteří tam nebyli.
- REPORTÉR 5/89 31  REPORTÉR Zamýšlíte podnikat? Chcete si půjčit za nízkých úrokových sazeb peníze a na vysoké je zpeněžit? ČTYŘ- AŽ ŠESTINÁSOBNÉ ZVĚTŠENÍ KAPITÁLU Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9aeb50a5f9b9c20ff864d59f07fde97f7695862f57e565d6f7a2907b86ac43a
+size 263

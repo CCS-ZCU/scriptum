@@ -1,1 +1,3 @@
- Chce vidět své dítě, chce si ověřit a doplnit obraz děťátka, jak si ho udělala během požehnaného stavu těhotenství Dítě touží po teplem bezpečí jejího luna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30b86da0aa6407c90e7899f43c21dcd5fccb3c41c61e4cd12b736f3cd019d7e8
+size 180

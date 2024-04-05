@@ -1,2 +1,3 @@
- března 1988, proti níž Bezpečnost bez- důvodně uplatnila drastické násilí, je spolu s masovou pod- porou petice jen pokračováním neutuchající snahy věřících o svobodu víry a církve.
- Na tuto tradici se pokusil navázat Ota Ho- lub knihou Vlčí komando,18 která měla zakrýt pro- vokační akci státní bezpečnosti, známou pod jménem «Případ Babice», který skončil popravou sedmi osob — mezi nimi i dvou katolických kněží, z nichž jeden byl významným teologem — a dalšími šesti obžalovanými, odsouzenými od 25 let těžkého žaláře až k doživotí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c33174cbe5f6b6646bce496d0aef4213a59569afddbaab94a66a96b0a9316d5
+size 603

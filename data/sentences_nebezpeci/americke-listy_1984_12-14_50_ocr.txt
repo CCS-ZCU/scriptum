@@ -1,1 +1,3 @@
-nebezpečí oheň voda existovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd3a6364820f3b18e2ac88f567a24e689610cbb5fb3a85b89eb63c86cf29427
+size 33

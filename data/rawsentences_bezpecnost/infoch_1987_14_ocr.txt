@@ -1,3 +1,3 @@
- věci; ktere by mohly chroaiti lidskou bezpečnost nebo lidské sdraví nebo poškoditi jiné věci".
- která obsahují věci, které by mohly ohrozit lidskou bezpečnost nebo lidské, zdraví nebo poškodit jiná věci.
-opravy vyloučeny "zprávy, jejichž obsah múze ohrozit bezpečnost státu .
+version https://git-lfs.github.com/spec/v1
+oid sha256:8712fdbfb920a8be6637efdbb245e6450372fe1c517c6a9493a8aba20c25b7bb
+size 300

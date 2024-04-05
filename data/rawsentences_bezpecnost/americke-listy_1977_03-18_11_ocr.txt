@@ -1,3 +1,3 @@
- Den před tím, ve čtvrtek, desátého března byl po jedenáct hodin vyslýchán na státní bezpečnosti, tak jako už mnohokrát od počátku letošního roku, kdy byla vyhlášena Charta 77.
- Starostové prý také trvají na zřízení samostatného Palestinského státu s tím, že bj’ tento nový stát měl mít schopnost bránit svoji bezpečnost vlastními silami.
- Sověty podle jeho slov neustále zdokonalovaly svůj bezpečnostní systém a učinily v této věci snad až příliš; přesto však chtějí učinit pro bezpečnost provozu ještě víc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b9f911c800255eb835ed6781a0ff06c14be420a6e892eedb67443e7441abec6
+size 572

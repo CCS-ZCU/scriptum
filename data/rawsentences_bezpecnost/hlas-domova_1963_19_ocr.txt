@@ -1,4 +1,3 @@
- Nepochopitelněji už vypadá skutečnost, že, jak u- dálosti ukázaly, Néhrú začal opravdu věřit, že se dá bezpečnost na severu skutečně koupit poplácáváním š i r o k é h o hřbetu Rudé Číny.
- Co vás, stavaře, může zajímat odborník na teplofikaci? A dále : to si musíte nejprve opatřit povolení od ministerstva vnitra přes Veřejnou bezpečnost, Vysoké technické učení, organizaci vaší školy, okresní výbor Československého svazu mládeže, a potom přijďte, ale bez toho je vyloučeno.
- A tytéž otázky si musí klást na Západě, pro něž má bezpečnost Indie, přes všechny hříchy minulosti, mimořádný význam.
- Které to země Rudá Čína skutečně hájí? Bezpečnost socialistických zemí je plně zaručena vojenskou mocí Sovětského svazu a jejich vlastními obrannými prostředky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:533ebb81c0870b8ee985a6a77a50c86200f040b4ee4d95b4427e45409a30a6c8
+size 853

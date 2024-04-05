@@ -1,3 +1,3 @@
-Arnaut Joseph Brodsky projev zívěr akademický rok dáma pán absolvent rok rozhodnout odvážní opatrný život dostat přímý fyzický kontakt nazývat zlení
-papež hledět uniknout útlak hrozící nebezpečí byzantský císař zvolit ochránce panovník blízký civilizovaný povolný
-sednout byět dobrý víra souhlasit vystavit nebezpečí soustředit pozornost StB
+version https://git-lfs.github.com/spec/v1
+oid sha256:45f34c35456aaef8e3692f56fb787b632fdda02c388fc656574893b0d1e79c1f
+size 538

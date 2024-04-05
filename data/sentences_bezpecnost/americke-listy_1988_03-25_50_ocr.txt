@@ -1,6 +1,3 @@
-mít zbraň ohrozit provoz bezpečnost cestující chtít výlet možnost dosáhnout Anglie vnutit jednání
-souvislost poutí provést státní bezpečnost řada zákonný opatření
-státní bezpečnost uložit smět opustit Brno
-možný očekávat doba konání pouť mše provést státní bezpečnost další zákonný akce závislý aktivista
-státní bezpečnost minulost bránit závislý aktivista setkání zahraniční návštěvník diplomat poslanec ministerský úředník člen vláda novinář
-skupina oblečený dlouhý baloňák černý brýle uvést sál centrum město parodie polský státní bezpečnost nadšený aklamovaný divák
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce10493c42eeca1b881cdeff9a0f7b6a4778fb0a66e5fc53f6d1e4cfd6f22a95
+size 655

@@ -1,6 +1,3 @@
- prosince zúčastnil v Madridu jako pozorovatel zasedání Konference o bezpečnosti a spolupráci v Evropě.
- Pohnutkou polských přátel k tomuto kroku je očividná nespokojenost s jednáními evropského Západu a Východu o evropské bezpečnosti, jak vojenské, tak i civilně právní.
- Dosud bylo konferencí mnoho, ale větší bezpečnosti se nedosáhlo.
- Vzdor všem diplomatickým jednáním větší bezpečnost nepostoupila ani o píá.
- Jeví se tedy navrhovatelům schůdnější cesta k bezpečnosti v revizi mezinárodního politického uspořádání Evropy ve smyslu uvedení v činnost zóny svobodných států napříč Evropou od Baltiku k Černému moři, která by oddělovala SSSR od Západu územím států nezávislých anr na západním jní na východním bloku.
- To by reálně zvýšilo bezpečnost oběma stranám.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5475225b266809c4b9729359e05e7c745dec37133ce212b3fa1e609a679c33cc
+size 852

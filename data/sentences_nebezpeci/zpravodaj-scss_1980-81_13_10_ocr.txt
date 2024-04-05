@@ -1,1 +1,3 @@
-podklad dojem návrat vězení mít Lederer pocit Československo hrozit nebezpečí společenský sebezad šení
+version https://git-lfs.github.com/spec/v1
+oid sha256:51ce160d20b60d1355dc113b410f34fd8ebb4a7462c0511f72b9fd6fc7e029c3
+size 114

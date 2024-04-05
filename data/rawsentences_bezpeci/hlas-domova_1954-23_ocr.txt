@@ -1,1 +1,3 @@
-Každý rok míru, třeba pochybného,přinese západnímu občanu silnější pocit falešného bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd463858e381f0ca6980bebad643e374e86cbf26f24e33af8bd7566fdd0c3b6b
+size 108

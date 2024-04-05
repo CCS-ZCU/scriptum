@@ -1,1 +1,3 @@
-lidé uvědomovat nebezpečí velký
+version https://git-lfs.github.com/spec/v1
+oid sha256:50db3999105930973eda3d43ad26fe5141d166ebc270474cd22a9d262bf00de2
+size 37

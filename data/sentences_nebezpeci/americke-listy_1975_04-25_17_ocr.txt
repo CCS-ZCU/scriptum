@@ -1,3 +1,3 @@
-určitý permanentní přirozený nebezpečí ovlivnit doba krátký dvacetiletý
-stát dostat nebezpečí Masaryk porušit věrnost stát přidržet lid
-nebezpečí spiknutí spiklenec chtít Amerika zatáhnout válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14dea96e5c0503ab2cbbba2ddd23da2e5548da2cf8d07e946908b40e0c7cf8c
+size 219

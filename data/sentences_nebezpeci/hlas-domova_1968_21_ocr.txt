@@ -1,3 +1,3 @@
-mnohý nebezpečí mnohý útlak útrap ujit zatvrzovat dřeň velký věc znát
-první čas jsm rozdávat nebezpečí okupant podnik římo oko
-moskevský pravda okupantský voják shazovat helikoptéra poučit věrný nebezpečí hrozit intervence svobodný legální noviny
+version https://git-lfs.github.com/spec/v1
+oid sha256:65aaf5f631d850e28bea8a4532694e1326f32d97c117a71eb0e78bc27cc73bcf
+size 277

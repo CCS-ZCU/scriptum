@@ -1,4 +1,3 @@
-nebezpečí představitel výrazný moci zpochybnit celý plán lákání cizí odborník
-velký nebezpečí ČSSD lídr ODS KDU ČSL sdělovací prostředek soudit Paroubek
-souviset nebezpečí nový vlastník skutečnost stát rozvoj koupený společnost žádoucí konkurence zlikvidovat
-poslední doba začít uvědomovat hrozící nebezpečí prodejce elektronika začít spojovat řetězec
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc75f7d30214542c39fabce916bdc3dcc3ae123341e1a7db792b63924cf574b4
+size 396

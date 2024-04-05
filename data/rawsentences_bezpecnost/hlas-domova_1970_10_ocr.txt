@@ -1,2 +1,3 @@
- Řád rudé zástavy dostala Krajská správa Národní bezpečnosti, Praha, jakož i 7 vysokých důstojníků armády a policie a Karol Tomaščik.
-, že orgány Veřejné bezpečnosti dopadly až teď “ vandaly, kteří poškodili ■ 24.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf36d99ff9c0f7f32fd5639ee9c2584f9543ca9754621878582511fdb71223e
+size 245

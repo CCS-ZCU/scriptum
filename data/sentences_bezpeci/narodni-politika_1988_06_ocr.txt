@@ -1,2 +1,3 @@
-jiný směr chápat prostor smysl duchovní prostor skýtající pocit bezpečí pocit identita vnější odezva
-šestý strana národní politika červen šestinásobný zvětšený kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:82b9e5df93668e3ee6dab937b0b8a1b5c5903764da5d219f8c691a65914f85fd
+size 192

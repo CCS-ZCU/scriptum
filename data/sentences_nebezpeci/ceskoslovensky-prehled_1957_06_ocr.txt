@@ -1,2 +1,3 @@
-důslednost muž těžký situace úhybný pohyb nebezpečí znát
-přídělový systém penicilín zrušený výroba penicilin rozšířený hrozit nebezpečí porucha dodávka
+version https://git-lfs.github.com/spec/v1
+oid sha256:32557b748b05b55189276219754e10d05310fc133d4b1c7515d76e04a1039d67
+size 178

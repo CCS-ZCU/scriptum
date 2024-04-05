@@ -1,2 +1,3 @@
-kostel chodit hledat klid bezpečí mít možnost hledat vztah bůh vysvětlovat Štěpán přístup
-mít Linda syn odvést bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a868032e48bf9a5a14dc42a6d5920624cf2c4c600faf689014ab7b2712a3a787
+size 134

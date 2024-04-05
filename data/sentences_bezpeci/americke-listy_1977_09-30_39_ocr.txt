@@ -1,1 +1,3 @@
-bezpečí zoraný půda vyschnout vítr roznést prsť vzniknout další kus poušť
+version https://git-lfs.github.com/spec/v1
+oid sha256:91abc9c4d67211d04076fd38311b72b297423efc71d63c32598f5d1c7d9905cd
+size 85

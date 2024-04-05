@@ -1,2 +1,3 @@
- Tak nakonec dojde i na toho "pracujícího", který se na počátku cítil v bezpečí.
- V září 1939 však z londýnského bezpečí žádal domácí odboj o povstání.
+version https://git-lfs.github.com/spec/v1
+oid sha256:428792128d7c17ddc7e048872a89de2b73e543ae6b43b3b496e5a244601874a1
+size 174

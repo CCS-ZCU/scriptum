@@ -1,1 +1,3 @@
-komunistický strana Polsko smět dovolit roztržka vystavit nebezpečí změnit demokratický strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:6532432ae9bffcb4e51aeae736e49b192a4d85700d604887fcbc677d15935c5c
+size 102

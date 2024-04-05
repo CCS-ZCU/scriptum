@@ -1,13 +1,3 @@
-50 Jediný československý týdeník na východě Spojených států MARATÓN VÍDENSKÉ NÁSLEDNÉ KONFERENCE Účastníci vídeňské následné konference si v těchto dnech připomněli, že jednají už dva roky a že vlastně jejich rokování o bezpečnosti, spolupráci a lidských právech mělo skončit před rokem.
- V téže chvíli vstoupili do místnosti tři příslušníci Státní bezpečnost a Havla odvedli do vazby.
- Rozhodnutí prezidenta republiky v tomto směru má i mezinárodní politické souvislosti, neboť zapadá do kontextu úsilí socialistických zemí o celoevropské uvolnění a posílení mezinárodní bezpečnosti.
- Boj s veksláckou mafií zuří v československých sdělovacích prostředcích už dobrých pět měsíců - a veřejnost je pravidelně předkládána bilance z fronty: V Praze prý dopadl zvláštní tým bezpečnosti za posledních pět měsíců skoro 500 osob, z nichž bylo "několik desítek - jak naposled hrdě hlasila Večerní Praha — předáno prokurátorům a soudům.
- Inspirována příkladem pražských soudruhů, vytvořila si na podzim zvláštní skupinu na potírání veksláků i bezpečnost v Bratislavě - aby i ona mohla předvádět v tisku a v televizi, jak je tentokrát odhodlána s tímto "negativním jevem" skoncovat A to do všech důsledků, včetně — jako to údajně dělají už v Praze - přezkoušení nároků na invalidní důchody, jejichž pobíráním se prý mnozí veksláci kryjí, aby nemohli být obviněni z příživnictví.
- Jistě, že to nikoho z chrabrých bojovníků ani nepřekvapí, když je z pečlivě střežených hranic v případě šéfa bratislavské mafie najednou korso, svědčí to velice výmluvně o tom, co československá bezpečnost současnou kampaní proti vekslákům sleduje: jde jí maximálně o to, aby odstranila viditelné průvodní jevy veksláctví, které veřejnost zbytečně provokují.
- Pokud vím, je to první případ, kdy bezpečnost zabavila osobní počítač nikoliv však proto, že ho někdo nelegálně vlastnil, ale pro podezření, že byl "nástrojem trestné činnosti.
- a/ Jak vyplývá z protokolu o domovní prohlídce, považovala Bezpečnost za osobní počítač jen klávesnici.
- Podezírat může Bezpečnost kohokoli, z čehokoliv.
- 6/ Už před čtyřmi měsíci, tedy dávno před podezřením, pro které mi nyní Bezpečnost počítač zabavila, byl automobil, který ho převážel z Prahy do mé venkovské chalupy zastaven Bespečností, donucen odjet k její budově a i se svým řidičem tam potom mnoho hodin zadržován.
- Pod absurdní záminkou, že je třeba vyšetřit, zda počítač nebyl ukraden se ho už tehdy pokoušela bezpečnost zmocnit.
- Za takových okolností, prohlásil Jazov v jasné narážce na diskusi o bezpečnosti v rámci západní aliance - jsou prý obavy ze sovětské vojenské síly bezpředmětné, a nesmyslné jsou údajně i názory, že by se měly modernizovat ty složky zbrojních arsenálů, kterých se proces kontroly zbrojení zatím netýká.
- Nejen funkcionáři na vyšších i nižších úrovních, ale i soudci, prokurátoři a zvláště příslušníci státní bezpečnosti se začínají bát o své posty, o své privileje a pravomoci, jichž neomezeně zneužívali v posledních dvou desetiletích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ce8aa81ad0e41baefc6fc148c771553c523784312148414ca5edbf660eab96
+size 3350

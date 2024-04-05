@@ -1,10 +1,3 @@
- Bezpečnost, kterou jim poskytl, ve skutečnosti byla zdrojem jeho zranitelnosti.
- Tím, že skoncoval s terorem, který praktikoval Stalin, vzdal se své jediné zbraně vůči stranickému aparátu a tím i své vlastní bezpečnosti.
- Kromě toho se postaral nejenom o osobní bezpečnost členů aparátu, ale aniž by to původně zamýšlel, i o jejich doživotní pozice.
- Představitelé určitých kruhů v bezpečnosti, ve straně a ve vedení průmyslu vytvořili struktury mafie, zejména v jižních sovětských republikách na okraji impéria, kde se mohli opřít i o etnickou základnu.
- Uváděli, že předcházející bloky a dohody ve střední a jihovýchodní Evropě se neukázaly stabilní a účinné, že nezajistily bezpečnost států v celém prostoru mezi Německem, Sovětským svazem a Itálií a že základem k novému pevnému sdružení v této oblasti je právě československo- -polský program.
- Nechtěli proto akceptovat polský explicitně nepřátelský vztah k Moskvě a byli by rádi projekt formulovali "neutrálnčji" jako jistou formu posílení středoevropské bezpečnosti.
- Avšak Bogomolov kromě ostatních argumentů proti konfederaci prohlásil, že Československo nepotřebuje k zajištění své bezpečnosti žádnou unii s Polskem.
-" Po tomto přesvědčivém stvrzení či dementi vládní mluvčí vyložil modifikované zásady československé zahraniční politiky - malé národy nemohou hledat bezpečnost pouze v užším vzájemném souručenství, nýbrž se musí spojenecky zajistit smlouvami s mírumilovnými velmocemi.
- Vyjadřovala přitom přesvědčení, že nakonec i Sovětský svaz uzná pozitivní význam podobného uspořádání zajišťující také jeho bezpečnost a evropský mír.
- Impérium Francie, která nikdy neuznala anexi baltských zemí, pozvala tyto tři staré evropské národy na "Konferenci o bezpečnosti a spolupráci v Evropě" v Paříži.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d60bd7625eb9099c7d306d6a94710d8d8a9764aa33404b593ef525c9cde8ed67
+size 1952

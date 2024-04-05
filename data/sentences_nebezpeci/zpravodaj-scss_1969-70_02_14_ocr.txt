@@ -1,1 +1,3 @@
-člověk muset klást otázka mít smysl
+version https://git-lfs.github.com/spec/v1
+oid sha256:282505c9385168012b93f3d84e4d9c3582a2783ecf0c70c399a21f441fd367ca
+size 41

@@ -1,3 +1,3 @@
-mít dojem rádio velký závazek mít struktura program koncepce věc mít protestní shromáždění hlavní město nebezpečí konfrontace policie
-Havel říkat vycestovat hrozit nebezpečí přítomnost zbavený občanství moci vrátit vlast
-stačit podívat stav hrad kunětický hora snést srovnání pardubický zámek důvod nebezpečí zřícení veřejnost uzavřený
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f231b35e0b7940da46b620412f7b18a60af0048ceb6797c68056b423708cb6d
+size 380

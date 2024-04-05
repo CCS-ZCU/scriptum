@@ -1,1 +1,3 @@
-patera Středy, jimiž přinášel z nebe sílu pro ochranu a bezpečnost obležených.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0386eced907281ec2499324c724a81c6ae47e7a10c1d675f99b604836e21eb5
+size 88

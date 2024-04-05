@@ -1,3 +1,3 @@
- 5° 1989 přijel do Československa navští- vit své přátele, podávám tímto stížnost na příslušníky Sboru národní bezpečnosti v Kroměříži z těchto důvodů: Ve čtvrtek dne 11.
- Jednu zastávku před Kronšříženr mne z autobusu vysadili tři příslu- šníci Veřejné bezpečnosti, dva v civilu a jeden v uniformě« kteří vysí- lačkou přivolali auto VB.
- Žádám« proto Ministerstvo vnitra ČSSR, aby z jednání příslušníků Veřejné bezpečnosti vyvodilo patřičné důsledky, a aby mi byly vráceny všechny položky, odebrané mi těmito příslušníky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d55ecb93dbd8f61d07dd3f9d843fd3e71619889ed2047acd43caab744b596b
+size 600

@@ -1,3 +1,3 @@
-stírat ret hlen dbátit nebezpečí infekce podpírat přejít kašel
-církev mít zkušenost jít vyprosit velký milost doba svízelný doba mimořádný nebezpečí ohrožení účinný modlitba
-kněz vyslýchaný červen hovor míšní mládež
+version https://git-lfs.github.com/spec/v1
+oid sha256:1296df71b6488b183d607e7cce7602a8bde0e197a7d7632eeb990fc192fdf87b
+size 250

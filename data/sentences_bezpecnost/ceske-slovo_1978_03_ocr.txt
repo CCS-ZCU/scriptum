@@ -1,1 +1,3 @@
-úspěšný zákrok kanadský poslanec český původ Otto Jelínek ottawský parlament rejd sovětský špion zasazovat další rušený činnost RCMP politický policie stráž bezpečnost Kanada komunistický agent
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a1d7bb0308460fa4ce422a47b7aaf4acd564c6a18d61ff7d4f65342a5d8c722
+size 218

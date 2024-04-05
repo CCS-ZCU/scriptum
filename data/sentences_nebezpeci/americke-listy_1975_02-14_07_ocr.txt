@@ -1,1 +1,3 @@
-rozsah eventuální konflikt velký svět velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0af93c604d0ec78f77c530f057ef942825b1b9fe54d1d704bf299695fa84c057
+size 61

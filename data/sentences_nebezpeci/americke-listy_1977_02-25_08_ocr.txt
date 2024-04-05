@@ -1,2 +1,3 @@
-sovětský propaganda dařit namalovat stěna nebezpečí veliký ruský lid znepokojit nepřítel hnusný rozplamenit
-válka zůstat československý armáda kapitán sloužit ský pluk Jičín světový válka uvědomit nebezpečí Československo hrozit Hitlerův Německo vrátit Cleveland léta pracovat továrna založení mít velký podíl otec
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4b805be6ccd53a9f21e5060c39855ea61703910b9ab427ae9767cf0a3221d54
+size 358

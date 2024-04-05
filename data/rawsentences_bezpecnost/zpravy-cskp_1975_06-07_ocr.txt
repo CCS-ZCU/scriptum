@@ -1,2 +1,3 @@
- Pak začalo obdobie koexistencie a s ňou sa otvorila Europská konferencia bezpečnosti,na ktorej hrá hlavnú úlohu Sovietsky Zväz, aby si na nej zabezpečil istotu i po právnej stránke”status quo”.
-Upozorňuje v něm na rozsáhlé diplomatické manévry,které poslední dobou podniká Kreml v souvislosti s Evropskou konferencí pro bezpečnost a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afb346f75cf3324df56993799758b03c3e753eb72c9b40f68f55dbb997fa3fff
+size 373

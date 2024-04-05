@@ -1,2 +1,3 @@
-národ naš centimetr země odpustit lhostejnost lehkomyslnost tvář tvář nebezpečí
-hrozit nebezpečí zdařilý experiment ČSR vyzařování moci působit
+version https://git-lfs.github.com/spec/v1
+oid sha256:568b4f62c5276214083357736206ddceac60ce9d57702c62d8b942a390891db5
+size 162

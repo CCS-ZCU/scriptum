@@ -1,4 +1,3 @@
-kancléř Schmidt odpovědět odpovídat
-informace odvézt bezpečnost účastník seminář výslech doktor Hejdánek celý rodina
-Brežněv Afrika Sovět Sovět kontrolovat procento klíčový surovina mít nedozírný důsledek bezpečnost západ
-bezpečnost vypracovávat situační svodek Medkův Battěkův Coufalův případ zmínka zaznamenaný zahraniční hlas monitor zahra ničnich rozhlasový stanice přehled zahraniční tisk
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0caceff8cc0e67e765bc6c1a4f53acd4ccf4f4f92e88c37331a0131fcb66b83
+size 441

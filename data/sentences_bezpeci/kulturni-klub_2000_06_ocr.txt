@@ -1,1 +1,3 @@
-podnět šetření věc týrání svěřený osoba využít příslušný instituce zařízení kruh bezpečí dětský lékař policie místo bydliště
+version https://git-lfs.github.com/spec/v1
+oid sha256:04faa427bc97834b5c39a56afe6fc5c591b967da57b9d2a014b4ce67624b298a
+size 154

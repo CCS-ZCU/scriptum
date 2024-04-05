@@ -1,4 +1,3 @@
- Havel po celou kritic- kou dobu od léta 1978 do května 1979 pod nepře- tržitým dohledem orgánů bezpečnosti.
- 4) V budově soudu i v jeho okolí bylo po celou dobu velké množství příslušníků veřejné a státní bezpečnosti (v uniformě i v civilu) - mnohé z nich jsme identifikovali na základě svých předcho- zích zkušeností.
- «Výbor na obranu nespravedlivě stíhaných», jehož pravým cílem bylo pomocí vymy- šlených nebo zkreslených údajů oslabovat a hru- bým způsobem napadat orgány socialistického stá- tu, Bezpečnost, prokuraturu, soud, sbor nápravné výchovy, vyhotovovat různé písemnosti a v dorozu- mění s dalšími činiteli v cizině a pracovníky zahra- ničních štvavých centrál, zejména emigrantských tiskovin, štvavých vysílaček, zaměřených na osla- bování vlivu socialistických zemí ve světě, rozšiřo- vat a nepravdivě tak informovat na základě těchto vyrobených písemností mezinárodní veřejnost a působit tak potíže naší republice v mezinárodních vztazích.
- Několik minut po zahájení veřejného zase- dání je začali příslušníci Veřejné bezpečnosti roz- hánět.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a834884b3292925e9a24801ff74c8e74901a017004293afb27664401f8f1e8
+size 1182

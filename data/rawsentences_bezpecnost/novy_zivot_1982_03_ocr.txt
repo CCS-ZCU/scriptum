@@ -1,1 +1,3 @@
- uspořádáním Helsinské konference o evropské bezpečnosti a spolupráci, jejíž závěrečný Akt může znamenat nový krok k respektování práv jednotlivce i národů; biskupy řady zemí, kteří přijeli do Říma na svou oficiální návštěvu ad limina — v projevech jednal o nejrůznějších otázkách náboženského života, např.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21f3bbfe6de7daff27b66870233f2588156f2706519f628af713110219314624
+size 355

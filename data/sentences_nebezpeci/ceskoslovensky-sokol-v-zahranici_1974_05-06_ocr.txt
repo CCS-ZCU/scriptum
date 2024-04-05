@@ -1,2 +1,3 @@
-Hřebík promluvit důležitost boj nebezpečí světový komunismus obrana americký svoboda
-dešř ustat možný pokračovat porada číslo pořad vypuštěný cvičený nářadí nebezpečí úraz vystoupený taneční skupina nádherný původní kroj možný vystavit déšť
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56818fb477f51d1ef43604bcb75ff7a278a968ea159a5df7633afa32b712ad5
+size 281

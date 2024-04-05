@@ -1,5 +1,3 @@
- Autor, který se podílel za své dlouhé profesionální kariéry na činnosti, zaměřené na řešení problémů ohrožujících světovou bezpečnost, podává v této knize svědectví o téměř nepřekonatelných problémech, kterým musel UNSCOM a i on osobně, jako „Executive chairman“ této organizace čelit, ve snaze plnit úkoly, zadané Radou Bezpečnosti Spojených Národů.
- O podpůrnou roli by se potom mohli podělit tři, z pěti stálých členů Rady Bezpečnosti, a to Rusko, Francie a Čína.
- Každý z těchto tří členů Rady Bezpečnosti měl k torpedování práce UNSCOMu své důvody, u všech tří se však zdá být jeden společný jmenovatel.
- A to je nepřílišné nadšení nad skutečností, že jeden ze zbývajících členů Rady Bezpečnosti, Spojené Státy, které mají na své straně zbývajícího člena Rady Bezpečnosti, Velkou Británii, jsou v současné době jedinou opravdovou světovou mocností a hodit jim příležitostně klacek pod nohy považují téměř za svojí vlasteneckou povinnost.
- Byly všude: na stole, na koberci, na tmavě modrých uniformách strážců bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08bbd0adeb768ca561a5cff46110a47db2e1fcaebc7193fe54b0594bc8e4e50d
+size 1157

@@ -1,2 +1,3 @@
- Pro západní Německo je spoluodpovědnost za existenci a bezpečnost židovského státu samozřejmá.
- Čtenář Hranáč byl vyzvednut Státní bezpečností — odvezen k pohovoru a přenocování na Borech, jeden den a noc, druhá noc, nikoliv však třetí noc, neboť tento nedobrovolný host celkem pevného zdraví tyto tácky nepřežil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fe7731e9cf9b41b5aaab34d744ed428da4070a5758c429f5e1f3a3939b95bab
+size 350

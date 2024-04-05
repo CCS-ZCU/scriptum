@@ -1,7 +1,3 @@
-napadnout otec rozhodnout použít tonoucí příhodný ampliónuo
-nebezpečí malý mít správa převan Čech Čech slovakizovánír země mít zájem Němec důvodú vycházet lze ocekávat Slovák
-přirozený nebezpečí technika dodat přetechnizovaný pádící svět konz^mit civilizace společenský rok echanismus ijfirozený nebezpečí technika spočívat dávat zapomenout jiný možný forma odhalování
-míra nebezpečí moci změnit bdělost bdělost nejní rvát pomyšlení beznečit vědomí
-čas člověk prostor identita citovaný kus bdělost onen pomyšlení nebezpečí vědomí ohrožený
-staromilství mít přlnej malý velki nebezpečí omyl idea překotný revol
-král počátek sedmdesátý léta hlavní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d416cf190dd4b3aabd93b590e0c8b469aeb20b65e75a9a909a3215d4ceb295
+size 747

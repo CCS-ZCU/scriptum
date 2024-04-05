@@ -1,2 +1,3 @@
-vžeobactó uznávaný právo stát zabezpečit sdružování shromažďování porušovaný právo ostatní pbčsn zdraví veřejný pořádek morálka bezpečnost stát
-případ musice mít zřetel bezpečnost ochrana stát právo nárok jiný občan organizace průběh trestní řízení závazek občan uvedený případ zákon nost realizace práve omezit
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c41203dca38494bf26fb5e307719b8906a2a762c5eed1a37976ad9912efbfd
+size 362

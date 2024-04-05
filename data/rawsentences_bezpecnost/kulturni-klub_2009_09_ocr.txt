@@ -1,1 +1,3 @@
-cz unikátní elektronické databáze někdejší Státní bezpečnosti (StB) - počítačové registry EZO a SEZO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa518dc2ac998e5ce2080d61670b1f05bae5fef25a791b4f9a8450c76a68511
+size 116

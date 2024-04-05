@@ -1,2 +1,3 @@
-jiný země žádat asyl polský turista chtít vrátit Polsko obava vlastní bezpečnost protest
-záchod základ zvláštní záchodový rozkaz uzamčený opatřený pečeť svědčící bezpečnost záchod narušený
+version https://git-lfs.github.com/spec/v1
+oid sha256:76e5956deff9b57806295ffef2ef315fb10bc339f0a98614dd50fd1e3b7adcc6
+size 219

@@ -1,2 +1,3 @@
-výstava velkoplošný snímek lavina další panel lidé dozvědět lavinový dráha velký lavinový tragédie Krkonoše klasifikace lavinový nebezpečí
-proměněný vyjít kostel podstoupit riziko nebezpečí strach vystavit působení boží duch proměna
+version https://git-lfs.github.com/spec/v1
+oid sha256:f434726d906c78589311e7fb400cbc5360a330eafd8f1fa68ce5f1727a34df97
+size 262

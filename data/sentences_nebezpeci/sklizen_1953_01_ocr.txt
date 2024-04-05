@@ -1,1 +1,3 @@
-Lamaont Frank rok litr únava Keranský mluvit mluvit Rusko litr litr litr nebezpečí podnik rok dít tábor ruský emigrace nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd784659551a4b920b972503b5e043aefb98918db636f4c8d1ac13c60c67571b
+size 139

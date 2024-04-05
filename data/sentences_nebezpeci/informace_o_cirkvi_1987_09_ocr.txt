@@ -1,1 +1,3 @@
-úřad návštěva zakázat clo nebezpečí zří cenit obehnat kostel ostnatý trát silniční kontrola omezení prava nutit poutník příchod pěšky
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c75a2822719a0dea04b32941658e9216f07c6610b870110786e08f3ffb3e60e
+size 155

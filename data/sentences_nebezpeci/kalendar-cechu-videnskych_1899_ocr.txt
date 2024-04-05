@@ -1,2 +1,3 @@
-les muset opatrný nebezpečí vyhla cikán
-praktikant Loub mít čas puška nabít bránit druhý okno naň dotírající cikán podlehnout přikvapit čeledín Tlustý poznavit nebezpečí stanovisko kuchyň opustit pomoci odrážet cikán okno
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f04cc9fe9488462bc22ac88e4add9caf0e573b2212b575015c1ca1b564720fd
+size 246

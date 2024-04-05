@@ -1,1 +1,3 @@
- s Pompi- douem a Braadtem, k zahájení Konference o snížení stavu výzbroje a vojenských sil ve střední Evropě, Konference o bezpečnosti a spolupráci v Evropě, pokračují jednáni o omezení stavu strategických ofenzivních zbraní, o odzbrojení atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e085cad31d85bc2555c8a653aa4ffb38ee1e970d1170d95223b01e2b8bc93474
+size 266

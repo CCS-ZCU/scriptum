@@ -1,6 +1,3 @@
- Účastníci porady vyjádřili zklamání s obsahem závěrečného prohlášení bělehradské konference o evropské bezpečnosti a spolupráci.
- bezpečnosti, kteří už tehdy spolupracovali s Kremlem.
- státní bezpečnosti začali také stupňovat provokace, které měly dvojí cíl: jednak získat nerozhodné členy komunistického vedení pro myšlenku, *e „střetnutí s reakcí“ se stalo nevyhnutelná, jednak očernit vedoucí nekomunisty, případně vyvolat mezi nimi paniku.
- Vedoucí evropského odboru amerického zahraničního ministerstva, George Vest prohlásil, že na závěr bělehradských jednání o evropské bezpečnosti a spolupráci bude vydáno jen krátké formální prohlášení (mezitím se už tak stalo), ale mezi účastníky konference bylo shodně dojednáno, že r.
- kongresní výbor pro sledování plnění helsinského ujednání evropské konference o bezpečnosti a spolupráci Watchdog Committee se zástupci náboženských, kulturních, etnických a jiných organizací, které s tímto výborem spolupracují.
- Dva od Veřejné bezpečnosti mu nařídili, aby slezl dolů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:268715595fbecbce5de8a6c16e09a3d120b873ac8d0bf8a47b5ecfef1ec6836a
+size 1133

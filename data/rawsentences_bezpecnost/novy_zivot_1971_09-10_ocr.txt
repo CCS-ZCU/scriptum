@@ -1,2 +1,3 @@
- A to vše ve jm énu bezpečnosti, m íru a blahobytu.
- M ír, blaho a bezpečnost jsou ovšem tato soustava sama: ona je m írou všeho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:968f3e439e75fe3e824fb4da94e0012f8b46b7838a2f336b763fe7a80c64e117
+size 139

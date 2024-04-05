@@ -1,1 +1,3 @@
-cítit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:101a2fa7ee6e8b5c5dc0d1cf094169209f3aa3e4443ac42f80a3702a7bab3587
+size 17

@@ -1,1 +1,3 @@
-" — Na návštěvu Českoslo- venska přijela delegace francouzského senátu, která má za úkol zkoumat otázky všeobecné evrop- ské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:143bd290b9fe2466b5dbe356d24c2905b9c6226cfaa2579b436ece3f59fec2af
+size 155

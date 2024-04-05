@@ -1,2 +1,3 @@
- Církev je téměř úplně spoutaná a její vydanout orgá- nům Státní bezpečnosti zřejmá, i když zjevně není nic patrno.
-tni bezpečnost tak ásilovně pátrá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8375e55d14a7a5d446ac3336fecaa587ec99ea6a844a1f3a56113d29fe38a46d
+size 174

@@ -1,2 +1,3 @@
-delegát Praha disident Praha státní bezpečnost zajišiovat rušený průběh sjezd strana
-rozprava teologie filozofie Lito miský scházet mladý lidé státní bezpečnost považovat protistátní činnost Litomiský únor zatčený
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd40b983a19c0b6bed8faa83c197e933219ec2928590aed5ffdcebf6cecfcca
+size 237

@@ -1,2 +1,3 @@
- Avšak Israel si nemůže neuvědomovat, kolik jeho i nejprimitivnější bezpečnosti je při tom v sázce.
- A ť je pravda to či ono, je jisté , že spisovatel po odpykání patnáctiměsíčního vězení, k němuž byl odsouzen za "podvracení státu a bezpečnosti", pracuje manuálně a jen po večerech se věnuje svému pravému povolání, lite ratuře .
+version https://git-lfs.github.com/spec/v1
+oid sha256:f863bdabd52072b656651e5c14358659130d0d17ee8ce88a2435d041e737cc1a
+size 367

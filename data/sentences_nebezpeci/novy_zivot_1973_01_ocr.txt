@@ -1,9 +1,3 @@
-nebezpečí teologie
-nebezpečí existovat
-křesťanský rodič domnívat mínění představa stanovisko způsob život muset závazný dítě hrozit velký nebezpečí snášenlivost přenést víra odporovat
-pastýř nechat stát hodný ovečka odchýlit stádo jít hledat zbloudilý ocitnout nebezpečí zasluhovat vešker starostlivost námaha
-vést vědomí nebezpečí představovat lidstvo možnost válka prostředek dávat válčící strana dispozice moderní věda technika činit válka lidský protikřesťanský
-konference svatý stolice stavět mít pozitivní cíl upevnit mír bezpečnost Evropa uchovat evropský světadíl nebezpečí nový válka otevřít cesta úzký mírový spolupráce evropský národ
-
-SSR nebezpečí nákaza slintavka kulhavka
-mír možný chtít škarvada zůstat věrný tradice národ Špidlík ekumenismus Ovečka svatý stolice konference Helsinki Veselý exil rukopis König nebezpečí teologie Vrána Heinrich Nobelův cena hlásit čtenářka Nigérie povídka Daniel Rops osmý hřích
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb50fcaefc6e6ea76acd5dbe3044f9af3d47960712fb2e20fb4b4052bf78b34a
+size 1043

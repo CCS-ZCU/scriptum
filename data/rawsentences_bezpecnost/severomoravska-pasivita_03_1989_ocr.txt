@@ -1,1 +1,3 @@
-úměrům, které mu podsouváte» Já v tom naopak spatřuji pozitivní jev, první vlaštovku glasnosti» Redakci jde prostě o to, abychom o sobě všechno navzájem věděli» Protože jsme si jako občané všichni rovni, jistě přinese Tribuna postupně informace o příjmech dalších našich spoluobčanů» Mě například budou zajímat platy tůzných stranických tajemníků, důstojníků Bezpečnosti a jiných, kteří se zasloužili o náš zářný dnešek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:577db7c00ccddad92f9d9daf52435fee8a8e7337bf37212627704805ebb51c99
+size 478

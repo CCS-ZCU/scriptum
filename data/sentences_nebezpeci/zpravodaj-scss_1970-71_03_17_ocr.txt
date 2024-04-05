@@ -1,1 +1,3 @@
-jediný spolehlivý obrana tlak hrozící rudý nebezpečí čtvrtý velmoc spojený Evropa protisíla Rusko Amerika Čína
+version https://git-lfs.github.com/spec/v1
+oid sha256:572b5aa6733c16d267a9abdeabb400003a861d6880934b1c1d6889116befd598
+size 124

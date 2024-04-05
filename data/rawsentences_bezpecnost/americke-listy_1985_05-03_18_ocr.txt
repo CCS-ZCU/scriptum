@@ -1,3 +1,3 @@
- mistrovství Evropy v ledním hokeji ještě není rozhodnuto, který tým zvítězí, a tento šampionát již vešel do povědomí diváku i těch zahraničních nejen dík zápoleni na ledové ploše, ale hlavně dík nevšední snaze všech složek Bezpečnosti zabránit “provokacím.
- Snad se nabízí jedno vysvětleni: proces s policejními vrahy kněze Jerzyho Popieluszka chtě nechtě odhalil způsob práce tajné bezpečnosti a teď ji chce někdo ve straně, a vládě ujistit, že otěže jsou ve správných rukou.
- A to je podle kardinála pochopitelné po bolestivých událostech posledního měsíce — čímž má na mysli především vraždu Jerzyho Popieluszka příslušníky státní polské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9b76f576b3bf16faf6fc3e3ba4a7a58b33ff9b2f5473f808660f60dfaef6d9
+size 736

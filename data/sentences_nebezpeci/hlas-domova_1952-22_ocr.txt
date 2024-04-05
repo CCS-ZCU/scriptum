@@ -1,1 +1,3 @@
-lidé komunismus vybrat Jan Masaryk vrátit Fisch lov zápiska dokládat vědomý nebezpečí východ
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ddcb2552bc195fd349709ec3546319a67180ff45b31a7dd1fd46cc98df3cb4
+size 102

@@ -1,3 +1,3 @@
-nebezpečí tyranie nacistický způsobit duchovní tyranie komunistický třetí bolestný průrva organický růst český slovenský literatura český slovenský umění
-rozvrácený desorien tovaný musit čelit nový smrtelný nebezpečí světový komunismus vojenský úspěch boj nacista proniknout srdce Evropa hranice dosáhnout mít nástupiště další pronikání západ poražený Německo Itálie rozvrácený Francie pohlcení celý Evropa
-mluvit nebezpečí západoněmecký militarismus hrůza vznikat svět vyrábění atomový vodíkový zbraň Západe východ mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ea14d1b35f766306ac9f2eb49e16927b6d9f7e07cb1816ff7620788a7c9637
+size 587

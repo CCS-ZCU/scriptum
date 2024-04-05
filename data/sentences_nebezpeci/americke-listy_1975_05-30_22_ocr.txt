@@ -1,1 +1,3 @@
-emigrant uvažující návrat přinášet nový nebezpečí článek moci ohebnost použitý
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab30f7ea372acef91181807278028ae197a4d77f9421fbb7ef628ba5c02b91c5
+size 93

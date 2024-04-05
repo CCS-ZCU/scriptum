@@ -1,2 +1,3 @@
-záminka letákový akae připravovat státní bezpečnost repreaálie vydavý tele závislý kulturmieh časopis jejiah apolupracovnik&m
-veřejný bezpečnost kontrolovat občanský průkaz vycházející urážet používat fyzický násilí
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb9bce3563eccac048a02546d3f68919e675589e9cccaa2d47740a82732a11d0
+size 241

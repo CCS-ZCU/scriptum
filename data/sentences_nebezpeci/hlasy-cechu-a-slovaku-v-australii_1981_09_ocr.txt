@@ -1,6 +1,3 @@
-postavit velký pevnost evropský strana Bospor přispět strach turecký nebezpečí rok
-domnívat případ Cařihrad poučný lekce mnohý myslit možný utíkat problém komunismus nebezpečí vážný možný věnovat osobní zájem
-mít Urban úpadkový křestan zisk pomáhat komunista svobodný svět sjednocený doba zvýšený nebezpečí exil
-žádat exulant usnadnit akce zájem postižený pacient oznámit případ adresa Křestansko demokratický srdužení Parkville milosrdnější
-Rus nebezpečí tvrdit malý zemička součást Československo informovaný sovětský úmysl politika
-přijít déšť zazelený den ostrý slunce větr vyprahlý mít nebezpečí požár
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8490f435506e906646e566d04848e1f6229eb23618b9a43419e35ce59652480
+size 688

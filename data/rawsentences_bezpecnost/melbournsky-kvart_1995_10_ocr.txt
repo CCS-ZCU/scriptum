@@ -1,1 +1,3 @@
- Účast těchto osobností s sebou přináší zároveň I nové povinnosti, týkající se protokolu a jejich bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc491a582a2f619e8704127ac5eb533f77c383cd001bd9c5852ce853e5066a34
+size 126

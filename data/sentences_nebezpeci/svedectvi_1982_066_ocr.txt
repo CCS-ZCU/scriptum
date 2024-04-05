@@ -1,9 +1,3 @@
-ostatní opětovaný pokus Moskva svádět nebezpečí koflikt vláda čelo spojený stát pokoušet postavit jistý hráz sovětský výbojnost propaganda vytírání zrak
-nebezpečí válka zvyšovat
-
-obejít složitý procedura oficiální vydavatelství moci vydat dílo vlastní náklad nebezpečí vystavený pronásledování
-
-krvavý zápasný světový pole muset vychovávat hlásat mladý Salda poučený Masarykův kniha jistý hrozit nebezpečí pád světový zápas krvavý permanentní světový revoluce reformacce stát hmotný oběť
-Omar Shariíf hvězda film chovat Passer odolatelný rozpor statut hrdina
-Karas zrádce národ vlastenec vidět nebezpečí spojenectví Prusko přesvědčit správnost názor Marholta
-Tomáš Masaryk věk léta vzít nebezpečí exil bojovat československý závislost Jan Patočka věk léta přijmout svízelný úloha mluvčí hnutí lidský právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cbadd001e9d075d01e14c166469e8ebd1a63859f89b4e3c04e7f3d3120087bb
+size 907

@@ -1,2 +1,3 @@
-hora
-zákon výsledek léta debata dovo lot potrat případ nebezpečí život matka zjištěný formace zárodek znásilnění
+version https://git-lfs.github.com/spec/v1
+oid sha256:67683aef67238402a81bdb5aed187750053147b649c66472099dec38be0a65cd
+size 430

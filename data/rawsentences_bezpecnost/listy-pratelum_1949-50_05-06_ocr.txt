@@ -1,1 +1,3 @@
-,uu(jiiw ařesvydčení,že jedině nějaký účinný nátlak se svobodných zení *žc zabránit!, aby členové STB /státní tajné bezpečnosti/ a SMB /sbor národní bezpečnosti/ nepokračovali v nelidském zachá- zení při zatýkání podezřelých.
+version https://git-lfs.github.com/spec/v1
+oid sha256:424c4c9b0bc51125a298a37fe8ce28defbc7ee9bb20b7c17ca93cd4f730791f1
+size 260

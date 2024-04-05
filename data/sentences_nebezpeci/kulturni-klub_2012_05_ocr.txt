@@ -1,3 +1,3 @@
-pirátský strana moci politika vnést téma nebezpečí omezování individuální svoboda zavádění nový technologie spojený
-nynější prezident Václav Klaus tajit názor velký nebezpečí současný západní civilizace takzvaný
-hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b691d683b7471dab5dbc3636068e64ef19edb3e99d6de58147c58ba8d5d44e4e
+size 259

@@ -1,2 +1,3 @@
- Americká pomoc Polsku a Jugoslávii PomoiTkomunistůin Ti, kdo jsou ochotni obětovat podstatu své svobody, aby tím získali trochu pomíjivé bezpečnosti, nezaslouží si ani svobodu ani bezpečnost.
- Spojenectví pokroku Postupně se vytvořila situace, jež učinila z latinské Ameriky vážnou hrozbu bezpečnosti Spojených států, protože komunistická latinská Amerika musí být noční můrou každého Američana, který umí počítat do deseti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2da569a44a767472d7551752deb2eee5167e477aee07c52450e405c15f7d23
+size 466

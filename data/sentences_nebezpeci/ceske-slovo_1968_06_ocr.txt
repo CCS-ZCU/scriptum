@@ -1,5 +1,3 @@
-rozhořčení značný hrozit nebezpečí vážný incident
-nebezpečí Moskva vidět
-hrozit nejeden nebezpečí
-hrozit Dubčekův vedený nebezpečí potrvat malý sjezd strana
-souvislost upozorňovat emigrant státní příslušník západní stát znamenat nynější režim Praha moci žádat výkon trest
+version https://git-lfs.github.com/spec/v1
+oid sha256:802e9b28519241d9066751e0a9664a7875ab609f08b9e23a29c640ebe8f5f06a
+size 310

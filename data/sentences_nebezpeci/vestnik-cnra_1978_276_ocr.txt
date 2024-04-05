@@ -1,1 +1,3 @@
-hlavní důraz klást boj komunismus svoboda spadat obrana spojený stát světový nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b039dd35fbda896b7c56833a13d384ca034f0badcc3030c07fe9b24a0dad14bf
+size 96

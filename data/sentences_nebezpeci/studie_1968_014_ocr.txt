@@ -1,1 +1,3 @@
-živý nebezpečí myslíc zemětřesení zbývat vzdálený křeč drát dát ohrožovaný tryskající nafta
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f79d5f44cf5528dc872a652b7f78db371f64dac366362e6bf04c091a2d1fb28
+size 111

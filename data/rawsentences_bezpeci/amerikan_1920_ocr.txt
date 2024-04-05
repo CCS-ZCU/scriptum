@@ -1,5 +1,3 @@
- ujížděl ve stranu, kde hledal bezpečí, záchranu.
- Posílal jsem jí mnohokráte do zadu do bezpečí — ale ona neuposlechla; dnes vím, že ani nemohla uposlechnouti.
- a můžeme v pohodlí a bezpečí vypálit z kurníku několik nejlepších kusů.
- Československá brigáda u Tarnopole, zrazena demoralisovanými ruskými pluky odpírá se vzdáti a prosekává se do bezpečí.
- Chráněn a dopraven do bezpečí československým vojskem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:619917e204f844280c14f699c773d8083ebccbabc5a5f06b639e53524d745df6
+size 454

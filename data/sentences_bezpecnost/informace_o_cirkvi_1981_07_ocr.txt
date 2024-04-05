@@ -1,1 +1,3 @@
-obávat přílišný úsilí národní bezpečnost povést ide^lcgice kontrola rtudent vyučující
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc410b33c3d63aec30ab53ece22d2314ce17dae5865858b930756907e5042241
+size 100

@@ -1,2 +1,3 @@
- bezpečnosti.
- rřísluáxilci bezpečnosti ^i znenožnili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd17c0f6ec882d352823386f7b18028cd738b84029efd5a8e4ba44506668cb1
+size 61

@@ -1,1 +1,3 @@
- Na programu má působení odborů, projevy diskriminace na pracovištích, bezpečnost ve stavebnictví a lidská práva všeobecně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a7080d5fdbe6645f920ed6bdc655f05b9c4204fedb7d8880b52127e9971bede
+size 136

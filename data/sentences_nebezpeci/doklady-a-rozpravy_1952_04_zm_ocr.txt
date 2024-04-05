@@ -1,2 +1,3 @@
-formální existence formální fungování
-pětka železný ruka sekretariát vzniknout tvář tvář nebezpečí moci nastat chvíle parla mento státotvorný většina
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0f6a6ee8ed30ca42d710dbaac014bfff6284f9587b831e9f8248fba92ada36
+size 169

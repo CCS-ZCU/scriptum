@@ -1,1 +1,3 @@
-bezpečnost zavírat Žid držet vězení
+version https://git-lfs.github.com/spec/v1
+oid sha256:76f5c930d394155c540557c977c4b9f551d76e36c29efb91d34d44002f24b1b7
+size 42

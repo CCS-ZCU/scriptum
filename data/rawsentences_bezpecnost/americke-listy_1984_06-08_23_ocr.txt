@@ -1,1 +1,3 @@
- Odstupující ministr vnitra Dolanc poskytl nedávno u příležitosti čtyřiceti let jugoslávské Státní bezpečnosti interview chorvatské televizi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:388dbe556160645b07ef9e8dd5376eb7b1f8bd850df6ea36348e745fade66f06
+size 156

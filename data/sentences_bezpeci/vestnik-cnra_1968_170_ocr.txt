@@ -1,1 +1,3 @@
-Marčenko provolání ptát sovětský vůdce starat bezpečí socialismus Československo vynucovat násilný prosazení doktrína mlčet přihlížet krvavý teror rudý Čina
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6524763ecc5258512e55a8b1348e6a350d455ac63c0f4259c6e62670cd5c34b
+size 178

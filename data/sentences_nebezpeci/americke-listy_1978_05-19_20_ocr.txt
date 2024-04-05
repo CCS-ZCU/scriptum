@@ -1,2 +1,3 @@
-sovětský vyjednavač Iljičov snažit přesvědčit pekingský vedení Čína hrozit nebezpečí sever mít důvod hledat opora západ sbližovat spojený stát
-mít tiskový orgán časopis moci sejít pohovořit otázka politický zájem nebezpečí policejní zásah
+version https://git-lfs.github.com/spec/v1
+oid sha256:da25ff2a66703237ab659130ff536819e1e2cd63f8909d247a440bd7c40ff83b
+size 272

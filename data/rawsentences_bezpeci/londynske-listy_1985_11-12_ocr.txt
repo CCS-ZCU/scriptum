@@ -1,1 +1,3 @@
-Když si nyní,po mnoha létech celé řady katastrof,které naše národy potkaly,v klidu promyslíme,co se delo a jaké to melo následky, musíme si přiznat,ze to nebyla cesta rozumu,která by nás byla vedla 1/4 v/ ao bezpečí,ale ze to byla cesta nerozumu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:241b02e9ddf8f00ee4f29d19932606b64eb9a9bf1c19af22a2af8200d6333988
+size 264

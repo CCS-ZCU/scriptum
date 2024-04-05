@@ -1,2 +1,3 @@
-dělat první krok souš pocit bezpečí opustit záda chodník slyšet hlasitý projev motorínek
-metr člověk příležitost žít šalám metr pokoj vládnout mír hradba bezpečnost palák bezpečí milovat srva
+version https://git-lfs.github.com/spec/v1
+oid sha256:a08c075113c8335c6133bfbaf4ca970ce9816fc1409303cd35ccc21549ce54a4
+size 217

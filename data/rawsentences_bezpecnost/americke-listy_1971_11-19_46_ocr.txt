@@ -1,2 +1,3 @@
- Spojené národy se počínaje tímto týdnem mění a na každém rozhodnutí Valného shromáždění, Rady bezpečnosti či jiného orgánu OSN se bude aktivně podílet komunistická čína.
- Počátkem března 1968 byl zvolen členem moskevského a oblastního výboru strany, což by svědčilo o tom, že skutečně byl ve vysoké funkci v sovětské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be9769664d0b41eb59a10d34a0efea91c52f90861e3fcbb06f9ab2c0d0d7e72
+size 373

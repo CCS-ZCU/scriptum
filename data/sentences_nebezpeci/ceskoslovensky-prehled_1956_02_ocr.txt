@@ -1,5 +1,3 @@
-slovo Antonín Zápotocký diplomatický nota balonový nebezpečí klíč tázka balonový akce jít napsat slovenský český spisovatel způsob dostat ruka lid lačnící konformní slovo
-velký paradox situace nebezpečí režim chtít zažehnat zahraničí vyrůst záda
-Roz šiřovat imperialista jiný propaganda vláda nebezpečí propaganda odpovídat cit národ balon snášet výše poselství vyjadřovat lidé země povídat
-hlavní správa civilní letectví ministerstvo doprava nucený upozornit zvláštní vyhláška pilota létající Československo nebezpečí srážka balon
-leden hlavní správa civilní letectví obrátit evropský kancelář mezinárodní organisace civilní letectví odborný agencie OSN telegrafický žádost učinit krok odstranění nebezpečí letecký doprava
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f4d361034f981f3067b123f290d2408053337bfea9766e5f14981864e0c3858
+size 811

@@ -1,2 +1,3 @@
-nebezpečí plazivý býle projevovat strana
-déšť voda užít Strahov
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e90541ac2d691a177cca6c09cf7fd775626233e5905204102a08e80b0294b84
+size 73

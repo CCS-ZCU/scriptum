@@ -1,1 +1,3 @@
- Nebudou zřizovány v armádě a bezpečností a zatím též nc na vesnicích a JZD", praví se v usnesení ÚV KSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5661339d17e5096f13724cbd7ba7247f655799f8242ec83f3736ccaffbf251df
+size 120

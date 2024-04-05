@@ -1,1 +1,3 @@
- Konkrétní odpověď Bilak dát nedovedl, uvedl jen, že dostal ujištění, že sou- druzi jsou v bezpečí, pod sovětskou ochranou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a15652986fef5aad14b23ae2a95d7ce4aa39a9e5d6d2f7079cc260160d1b5ce7
+size 522

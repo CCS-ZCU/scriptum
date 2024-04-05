@@ -1,2 +1,3 @@
-Mao potřebovat zbavit odpůrce likvidace potřebovat závažný důvod moci nedostatek smysl chápání hrozící nebezpečí sever
-invaze prohlásit intervence nutný nebezpečí kontrarevoluce hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:edc054e0591ad6245898ea0ffc2e121b9bea29bcefadebc77b3f87a18b4f2a0d
+size 203

@@ -1,2 +1,3 @@
-chtít mít jistota politický strana kandidát dát hlas vědomý komunistický světový nebezpečí
-doufat podařit uvést americký klub moci objasnit nebezpečí komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:6849fc35a8c8c7b27e4a08a3fdd7cc05d6cbbc565466f996d35e754fd4dccc15
+size 178

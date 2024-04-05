@@ -1,1 +1,3 @@
- Co k tomu sovětské politbyro potřebuje? Nový Mnichov, který by západu poskytl falešný pocit bezpečí na kusu papíru, v němž by se slavnostně prohlásily mírové záměry byrokratických diktátorů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aeac7fbb8ab47c605bbbba5a0faea0f5508e5f6ad46927b19848b2df2764da8
+size 171

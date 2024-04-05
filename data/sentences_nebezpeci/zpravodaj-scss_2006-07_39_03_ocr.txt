@@ -1,1 +1,3 @@
-znemožnit kontrola hrozit nebezpečí vytvoření úzký politicko ekonomický elita zhoubný důsledek rozvíjející demokracie
+version https://git-lfs.github.com/spec/v1
+oid sha256:05693413cc11f47ff0854eaa7b6f5d6e2de588e3ebb546806f95038277167a56
+size 131

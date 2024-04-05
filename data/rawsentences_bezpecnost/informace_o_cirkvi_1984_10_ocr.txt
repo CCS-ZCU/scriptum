@@ -1,2 +1,3 @@
- slavnostním závěru apoštolské cesty hodnotila: "V těchto dnech jsme poznali, že naše bezpečnost a blahobyt nestačí ke spo- kojenosti.
- Č í n a "Čínský úřad pro veřejnou bezpečnost", zahájil "Kampaň proti kriminali- tě".
+version https://git-lfs.github.com/spec/v1
+oid sha256:995d6aa8365099b034faddd8fca3ad557fd32c3d04c0c5a4d1a05ca501613955
+size 244

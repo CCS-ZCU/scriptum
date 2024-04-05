@@ -1,3 +1,3 @@
- Když padla Barcelona, zbylo jich ve Spa- 16  nělsku — 8000! Tehdy rozeslala španělská vláda po všech konsulátech v Barceloně dotazníky s několika otázkami: Přijmete svého občana zpět? Postaráte se o jeho cestovné od španělských hranic? Zaručujete mu bezpečnost? Nuže: Česko-Slovensko přijalo své občany zpátky i do té mizerie, kterou jim mohlo nabídnout.
- Na evropské Konferenci o bezpečnosti a spolupráci usilujeme, aby vývoj vedl k volnější výměně myšlenek mezi Východem a Západem a aby se ulehčil život postižený nedůvěrou, jež rozděluje Evropu.
- Nakonec jim bylo důrazně doporučeno v Bartolomejské ulici, aby do 24 hodin opustili ČSSSR, jinak že nemohou ručit za jejich bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bec15f0b04b3590fd09b9c7cb9c6f64b378ca8169048ba8dfc283da213b0b30
+size 749

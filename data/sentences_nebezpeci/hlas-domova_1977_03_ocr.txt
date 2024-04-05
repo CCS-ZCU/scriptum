@@ -1,2 +1,3 @@
-soud konečný stadium zrssžit fie závislý soudce vážný nebezpečí
-Gaškori podařit legram zachytit zažehnat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:528ec6a5978ad1bd87fc1e15adc5c89fc43dbfa48419a644531cf5676ef24168
+size 131

@@ -1,1 +1,3 @@
-zdánlivý bezpečí vystřídaný napjetí strach chycení
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9be641904a0f6f9ce8f0fe0b7467f2c67093a1c5d5130035b6e3294b7df88d2
+size 60

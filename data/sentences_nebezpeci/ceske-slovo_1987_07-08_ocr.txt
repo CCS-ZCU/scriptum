@@ -1,2 +1,3 @@
-nebezpečí moci projevit možný dílčí široký sociální konflikt
-nebezpečí dav rozhořčit Babinský vysoký stranický papaláš stydět ruka brát kradený
+version https://git-lfs.github.com/spec/v1
+oid sha256:664238d15478923147dcf56a50bb5bbceec195e7d4513d215d649ec5dd1dd0cd
+size 167

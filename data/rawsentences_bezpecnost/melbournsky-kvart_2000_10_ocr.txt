@@ -1,1 +1,3 @@
- Marie Baumová, tel: 9764 3342 j ; /"i '• ; i- ; Exulant a přiznání důchodu Ivo Horák v Lidových novinách uveřejnil zajímavou zprávu, s kterou ve zkráceném znění seznamujeme čtenáře Kvartu Karel Pele, kterému je dnes jednasedmdesát let a žije v Austrálii, byl jako mladík napojen na protikomunistickou skupinu, která byla Státní bezpečností odhalena a Pele dostal 15 roků vězení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd7d156fa40239581f389acb890fed8b5e4db96efa2fdffda7206c5edaa85f90
+size 413

@@ -1,2 +1,3 @@
-mít zřetel bezpečnost západní Berlín lze zajistit doba napětí uvolňovat
-detent záviset bezpečnost Berlín americký záruka Bonn uvědomovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b27548b03414cf02a722c0bcbe28763b11299e5814ff78766f538c8dea1ea77
+size 152

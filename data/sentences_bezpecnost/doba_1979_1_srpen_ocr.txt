@@ -1,1 +1,3 @@
-ých KonfliKtč pomáhat unev bezpečnost závislost mladý národní státfl ktař osvobodit koloniální područí zvolit cesta budoucí vývoj státfl vojenr
+version https://git-lfs.github.com/spec/v1
+oid sha256:02745ec7b37f526279e98ff0e6fcac73586234afd7d06ba89532ee718c84f63c
+size 162

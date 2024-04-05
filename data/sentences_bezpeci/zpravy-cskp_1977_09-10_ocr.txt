@@ -1,1 +1,3 @@
-léto opouštět obživlý vrchol ^Etna měsíční vzhled krajina sestupovat bouřící kráter dólský údolí teplo zářit světlo osada zaplavit hřejivý pocit bezpečí míra
+version https://git-lfs.github.com/spec/v1
+oid sha256:008f2f82cd1f99d73086c50d5406ab40869faceb88d863fd8accf438b643f5d1
+size 183

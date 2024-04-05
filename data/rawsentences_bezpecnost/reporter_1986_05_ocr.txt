@@ -1,1 +1,3 @@
- Už celý titul naznačí pozornějšímu čtenáři, co tak nadzvedlo tajné, tajnější i ty nejtajnější strážce bezpečnosti v Bratislavě, ale i možná jinde, že rozjeli celou policejní mašinérii, aby si zchladili žáhu na těhotné ženě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb966f42a5923d34364467dbee2beae4fcf5e1c4e27805276cc621fb75da699c
+size 258

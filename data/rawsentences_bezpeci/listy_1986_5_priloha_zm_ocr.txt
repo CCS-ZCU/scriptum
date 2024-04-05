@@ -1,1 +1,3 @@
- Pro mne to znamenalo zůstat pro své děti — i ve stavu ohrožení — jistotou a bezpečím.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49e20cf6eed72875ad83b67cfdb446973bae2b038b32fcd38032e716a562e42a
+size 265

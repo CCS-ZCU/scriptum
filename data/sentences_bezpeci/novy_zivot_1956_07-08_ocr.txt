@@ -1,1 +1,3 @@
-bezpečí pravidelný kruh denní starost blízkost domov
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef666dad3777cfba8ff23495bde1042a8cae041cad14cae38c23321159c40ca
+size 58

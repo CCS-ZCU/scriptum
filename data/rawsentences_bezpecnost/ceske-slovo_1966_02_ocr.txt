@@ -1,6 +1,3 @@
- V tisku se již objevil pokřik, že někteří hospodářští pracovníci pod rouškou efektivnosti podniku chtějí omezit různá sociální zařízení a prostředky na bezpečnost práce, atd.
- Sovětům sc nepodařilo vytvořil ve východní Evropě stabilní komunistické impérium, avšak Spojené státy uspěly ve snaze zajistit hospodářskou vitalitu a vojenskou bezpečnost nezávislých evropských státu.
- Brzezinského jen dočasným prostředkem k zajištění bezpečnosti; není tedy cílem.
- Počátkem Šedesátých let se vsak dostala otázka bezpečnosti v západní Evropě na vedlejší kolej.
- V rozděleném Nemecku vidí Moskva prostředek k záruce své bezpečnosti a zároveň překážku k sjednocení Evropy.
- Přesvědčit východní Evropu, hlavně Česko- I slovensko a Polsko, že existence Německé demo- I kratičké republiky omezuje jejich svobodu a ne- , zvyšuje jejich bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f022d8699ad95d778e6fbdc11f7c859d390f1c85d94599a687ea708ac69c4d
+size 931

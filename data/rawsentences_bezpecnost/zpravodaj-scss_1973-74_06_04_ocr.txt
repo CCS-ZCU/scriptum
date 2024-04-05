@@ -1,3 +1,3 @@
- GEORGE ORWELL Podmínky bezpečnosti Československá národní rada americká vydala k připravované konferenci o bezpečnosti a spolupráci v Evropě prohlášení, z něhož vyjímáme: «.
- Jen toto — a nic jiného — zaručí mír a bezpečnost v Evropě.
- 041 55 72 82» (6403) AUTO USA — bezpečnost, jistota, pohodlí — využijte dosud levného dolaru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c9d4defa40456863ce0a423ab43548a8bda8ad131d0c93572a92180e63a4091
+size 370

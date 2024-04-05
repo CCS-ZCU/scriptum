@@ -1,2 +1,3 @@
- Řekl, že už toho má dost, být v poměrném bezpečí (myslil na Londýn za druhé vojny), zatímco se za okupace.
- suře koránu například čteme: »Mariinu synu bylo vykázáno k pobytu vznešené místo, které zajišťuje bezpečí a neustále čerstvé prameny».
+version https://git-lfs.github.com/spec/v1
+oid sha256:d346bd19b8e7e8f4226be8f261c0ffe16dd87cf5504fdeab55ae81c834f248b8
+size 276

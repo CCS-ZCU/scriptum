@@ -1,2 +1,3 @@
- Rozsudky vypracovává bezpečnostní komise strany a výši trestu navrhují referenti Státní bezpečnosti.
- Ale, ale, pane Čechu! Týden bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a065a1581999f1b8d8c80dfe2cee64b0ba2b0a09cac2268b17635b179f04fd5
+size 157

@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
-allegro svědectví starý sukovitý vrb paměť haluzit povodeň velký voda sníh hora odnášet hora ptát vrba haluz hledat voda horský sníh chuť ach vrbo ptát přetěžko míz břeh rovina vyrostlý hora žít návrší břeh suchý dub bezbranný oběť rozkoš blesk věčný znamení bezpečí chtíč blesk znát zábrana vyschlý pahýl kmen rozsochatý větvička vyrůstat zlo věřit táčka Jiří Suchý Ota Ulč
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc389d2c47a2ea1a081aaf2f7be352f091cf80158e258d8713941513c58d8716
+size 529

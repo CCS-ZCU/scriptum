@@ -1,3 +1,3 @@
- svaz a Amerika, ale Malta blokuje podepsání závěrečného dokumentu Situace na madridské konferenci o bezpečnosti a spolupráci v Evropě nepostrádá paradoxních rysů: po téměř třech letech ostrých slovních potyček mezi Východem a Západem jsou nyní země Severoatlantického a Varšavského paktu sjednoceny v opozci proti požadavkům Malty, aby se signatářské státy Helsink zavázaly řešit na zvláštní mezinárodní konferenci o- tázky bezpečnosti Středomoří.
- Zcela se při tom pomíjí fakt, že tato vláda byla zvolena 80% obyvatel země, zatím co síly pokroku a míru šly do voleb s heslem: Kdo dnes volí, zítra zemře! 3) Ohrožení pověsti Spojených států jako záruky bezpečnosti a svobody, jako spolehlivého spojence.
- Dokumenty, jak se vzletně říká, “zakotvovaly” “právo na osobní svobodu a o- sobní bezpečnost, svobodu pobytu a pohybu, zásadu rovnosti, svobodu projevu, svobodu spolčovací a shro- mažďovací a právo každého občana podílet se buď přímo, nebo prostřednictvím svbodoně zvolených zástupců (v pravidelných volbách) na vedení veřejných záležitostí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edccb531f903dd3197b7f55780d47cc4a892a3433b2563a08612c28771cff98d
+size 1159

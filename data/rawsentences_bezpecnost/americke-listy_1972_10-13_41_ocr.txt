@@ -1,2 +1,3 @@
- Ma to své výhody, i pokud se týká bezpečnosti jeho života.
- SVAZU Moskevské vedení se silně přimlouvá za konferenci o evropské bezpečnosti a uzavírá obrovské obchodní transakce s Američany, přitom však vyvíjí stále větší úsilí, aby potlačilo aktivní “disi- děnstvo” v Sovětském svazu samém.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d6b95d561dd31e3896ff539ea054f11e91b1a8fc9be867dc4cff807f47a2ce1
+size 330

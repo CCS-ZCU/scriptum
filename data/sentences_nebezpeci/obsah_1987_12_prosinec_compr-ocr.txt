@@ -1,5 +1,3 @@
-moci vystavit nebezpečí den
-Am^mán králův palác sim ocitnout nebezpečí Husajn přijít udělat moci
-moci vědět balík nebezpečí vystavovat
-cítit nebezpečí člověk stát okamž^ika
-úžít připravit s^^o
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d45334a36f1db33a338e5434c9a7c497b04bc8bb117ca9f48886c748e4cb956
+size 220

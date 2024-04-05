@@ -1,2 +1,3 @@
-ubezpat ojot nebezpečí vystříhat
-napadnout hledět outěk nebezpečí vyváznout poslední bitka zemdlený chtít být boj pustit Rus močál zahnat
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ceafb39c14c8b6130dfc9988d6db6ba69dca739d0196a53d8af339bd2c1f62
+size 153

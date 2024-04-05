@@ -1,1 +1,3 @@
-, pokud jd~ o bezpečnost práce, nábor pracovních sil, školení, povyšování a projednávání sporu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d919c4b895c539835f27ef94226cfd777896d56efe721b4d468fa6822195f5fe
+size 108

@@ -1,1 +1,3 @@
-čas psát Kosík nebezpečí odvrátit
+version https://git-lfs.github.com/spec/v1
+oid sha256:856edd30e112dbcdda3df5707d4afaa85228a01c614c290fb6e937e8fc05f41e
+size 40

@@ -1,1 +1,3 @@
- Negativní stránkou jsou problémy spojené hlavně s kvalitou a bezpečím našeho životního prostředí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dcb930cb7c99a592835e40c816600b44cb5da0ae546b14ca7ec45751b7f3272
+size 111

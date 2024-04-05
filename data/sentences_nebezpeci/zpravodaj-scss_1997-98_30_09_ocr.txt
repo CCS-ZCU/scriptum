@@ -1,2 +1,3 @@
-červený Cadillac přijet jih Čechy červený Cadillac objíždět prázdniny český město posádka informovat nákaza vir HIV nebezpečí droga přijet týden jih Čechy
-den rozdávat ulice leták kondom poskytovat informace nebezpečí AIDS drogový závislost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98231b2269a771366bfc0397d558d6b3a44ef9956cb3dc03ad9c73bbe0e845d
+size 267

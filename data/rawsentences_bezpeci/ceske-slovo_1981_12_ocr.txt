@@ -1,1 +1,3 @@
-: (93) 013389 PLATÍ JEN V NĚMECKU KAZDY HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e0ccd962a8f718eed46a2d4f3c91c9be824cdc488237e1d47b6e0fdb9584ad
+size 70

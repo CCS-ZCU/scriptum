@@ -1,5 +1,3 @@
-Masaryk válka promýšlet různý federace konfederace Polák Jihoslovany uvažovat vytvoření koridor Maaarsko hrozit nebezpečí německo rakouský celní unie ochotný přistoupit federace Rakousko
-vyslovit názor hrozit podobný nebezpečí nutný dát přednost řešení problém každodenní život vytváření dlouhodobý koncepce prognóza
-poukázat nebezpečí současný doba probíhající ekonomický změna důsledek samofinancování podnik narušení dodevatelsko odběrý telský vztah plynulost výroba
-občan stanovisko moci obhajovat mít vystavovat nebezpečí persekuce uchýlit relativní anonymita
-pohyb společnost začínat srážet nehybnost moc růst společenský napětí začínat hrozit nebezpečí otevřený krize
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cc74c6edb845f6ed98e0032bab4983c31adf4b79a54283c4a8423baebfc482
+size 749

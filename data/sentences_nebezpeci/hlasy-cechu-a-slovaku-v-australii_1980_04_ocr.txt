@@ -1,1 +1,3 @@
-moderní technologický revoluce vytvořit nebezpečí lidstvo proplovat dokázat čelit účinný spirituální revoluce
+version https://git-lfs.github.com/spec/v1
+oid sha256:5728634601a7f8f9536715f67905b83dce12c26489fedb829dcbcdf35bb565d1
+size 122

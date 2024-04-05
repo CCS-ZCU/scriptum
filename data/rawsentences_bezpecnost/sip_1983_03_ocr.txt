@@ -1,1 +1,3 @@
- Stojíš sám v bezprostřední blízkosti lesních velikánů a střežíš bezpečnost svých bratří a majetek tábora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89a51167fbf2d3e5a67a8f6ba6d867545248c31970b1b80402abe32aa32bc570
+size 125

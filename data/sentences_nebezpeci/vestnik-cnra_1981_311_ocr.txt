@@ -1,3 +1,3 @@
-rudý car vědět Československo nebezpečí hrozit
-vydaný denní nebezpečí smrt strana slídivý Gestapák podařit dočkat osvobození zdraví
-druhý hrozit nebezpečí komunista nucený opustit Československo
+version https://git-lfs.github.com/spec/v1
+oid sha256:7362af33c1cd2f5cde3669dc8d5c5b7a719c3528e2ba03b2d06db93170a56ac6
+size 217

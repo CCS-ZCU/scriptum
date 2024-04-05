@@ -1,2 +1,3 @@
- A s obavami státní bezpečnosti, že by Charta 77 mohla toto výročí veřejně připomenout.
- Podle oznámení státní bezpečnosti byl Stanislav Devátý zajištěn ve smyslu ustanovení paragrafu 23, zákona o SNB, t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e1369b920d79ddc52934a28a4c06c8ae4d313f22e600e1d424862118a5d7e7
+size 226

@@ -1,2 +1,3 @@
-moĚný spravedlnost uznaný právo vêach zainteresovaný národ atejse právo prvořadý odmyslitelný právo existence bezpečnost země nachování národní identita iden tita jednotlivec
-vyslovit přání dosý spravedlivý vyrašený konflikt použití zbraň forma násilí terorizmus represálie uznaný právo národ právo palestinský národ vlastní území prava izrý elský národ bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:0399289e3ab2014ca94e07284aabcb31a4ee0d76f66908afd0f6820a843e954d
+size 411

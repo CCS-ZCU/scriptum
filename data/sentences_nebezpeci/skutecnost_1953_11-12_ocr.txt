@@ -1,1 +1,3 @@
-trapný vzpomenout mnohý odmítat pohledět tvář skutečný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c6368e3d7d43711c22a01048728c66c7aa0de975be373a55d4e3cc6e9df7840
+size 75

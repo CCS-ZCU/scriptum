@@ -1,1 +1,3 @@
- Úa místo toho se na ni zamhila tátní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d7f84c53e3a600aadb631a6931998c58e2f3b9abac3162bd3349aadb826dd7
+size 55

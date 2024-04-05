@@ -1,10 +1,3 @@
- Dopisy se našly mezi dokumenty, které Státní bezpečnost vedla na druhého manžela Jesenské, architekta Jaromíra Krejcara.
- Restauratér je odnesl na policii, a tak se dostaly do archivu Státní bezpečnosti.
- Za připomínku určitě stojí postava agronoma Ticháčka v Podskalského muzikálové komedii Trhák, světácký kníže Megalrogov v Menzelově komediálně laděném Konci stalých časů nebo příslušník Veřejné bezpečnosti v Hřebejkově muzikálu Šakalí léta.
- Medailí Za zásluhy Zeman ocenil devatenáct lidí, mezi nimi třeba zpěvačku Lucii Bílou, jadernou fyzičku a předsedkyni Státního úřadu pro jadernou bezpečnost Danu Drábovou či in memoriam ruskou disidentku Natalji Gor- baněvskou, která v roce 1968 protestovala proti okupaci Československa.
- České potraviny = slušná kvalita Žebříček Global Food Security Index sestavovaný pravidelně odborníky z The Economist Intelligence Unit ukázal, že v oblasti bezpečnosti, kvality a dostupnosti potravin si Česká republika udržuje slušnou pozici, nejlepší ze všech zemí bývalého východního bloku.
- V samostatném hodnocení bezpečnosti a kvality se Česká republika umístila 24.
- Na nejspodnějších místech v žebříčku zůstávají vesměs africké státy - v oblasti kvality a bezpečnosti potravin jde o Pobřeží slonoviny, Togo a Mozambik, v celkovém žebříčku peloton 109 zemí uzavírá Demokratická republika Kongo.
- Podle nich někteří návštěvníci z arabských států narušují při svých piknicích noční klid, nechávají po sobě v parcích odpadky a ohrožují v autech z půjčovny bezpečnost.
- listopadu Na protest proti brutálnímu zásahu bezpečnosti proti studentům začala stávka herců všech pražských divadel.
- Státní bezpečnost se dostala pod kontrolu vlády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ce27499c7a3ccc8d4f76ca892891da8fff9c7e69ee1925225ba0d1dece16c5
+size 1849

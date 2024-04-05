@@ -1,1 +1,3 @@
-Ikfž se zdá, že, velikost komunistického ne bezpečí je ve světě již více a#lépe pochopena,nebude propagačního úsilí CO BUDE PO1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a41db9ce7fa598d6c8f2476a9ff7ed03a706097fe035444a546c01640c60f2d2
+size 144

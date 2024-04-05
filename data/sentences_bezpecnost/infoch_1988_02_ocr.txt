@@ -1,1 +1,3 @@
-květina odstranit veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:565a5d0df7f02a96737f4c13fe0b359c71fe1cf42cdda95e7e105c62b7c0ff51
+size 41

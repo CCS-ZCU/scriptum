@@ -1,1 +1,3 @@
-Vallainka vyvolat souhlas nesouhlas poukazovat nebezpečí ukvapený zakončení koncil omezování svoboda projev biskup přiznávat nutný všeobecný zasedání opakovat stejný připomínka
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec70b026db67809e73779bc6a0880b787f799143b1f0bab3958c6fb357bb2d78
+size 194

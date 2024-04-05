@@ -1,5 +1,3 @@
-daný status quo zvýhodněný ztotožňovat výhoda socialismus ochotný změna ohrozit privilegium vidět nebezpečí socialismus moc dělnický třída
-uplatnění svoboda právo praxe vidět reformní politika pozitivní fakt určitý směr kritika občan soustřeďovat chtít reformní politika změnit
-kritický pohled hrozit nebezpečí slovo sovět zůstat zaklinadlo připisovaný stejný význam
-ředitel agentura novost Pelin nebezpečí závažný upozornit pravda malý tlak podpora reforma
-prohra znamenat osobní tragedie reformátor stupeň společnost odčinit telný propad sovětský stát zaostalý druhořadý pozice nebezpečí spojený mezinárodní vztah světový situace
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb99a8e2c8343ecf9b61c14f781bb9dbd6b25dbceb619768032b4f0786fe412e
+size 698

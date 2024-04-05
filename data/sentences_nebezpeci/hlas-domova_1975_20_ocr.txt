@@ -1,1 +1,3 @@
-nebezpečí další inflační zdražení nutnost stavět tap odpadnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb45feadd8df15b4b6c5b112c4eb2d77b77b51386f65855eb71ac9de8d05e7be
+size 72

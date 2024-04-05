@@ -1,4 +1,3 @@
-jiný řešení možný hrozit nebezpečí rozpad republika
-prosit lekce
-nebezpečí přicházet univerzální zlo komunismus reprezentovat
-touha svoboda silný touha závislost žít podvědomí národ prohrát
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bc8e5774615602d5487b4cb8762d1372f959366d0ea8fad6c778c4321fc87f9
+size 212

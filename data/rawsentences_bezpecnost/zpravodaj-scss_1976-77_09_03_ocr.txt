@@ -1,1 +1,3 @@
- První zpráva, jejíž další čísla budou vydávaná periodicky, se zabývá postojem komunistických zemí, zejména Československa, k důsledkům Konference o bezpečnosti a spolupráci v Evropě, podepsané v Helsinkách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43cd28bcf37bef31ae6f8bf390e6dd498b979cff721d02a366055f9af38ae2e2
+size 231

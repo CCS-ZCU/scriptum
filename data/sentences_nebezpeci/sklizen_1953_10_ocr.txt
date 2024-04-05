@@ -1,2 +1,3 @@
-možný strana Žid hrozit nebez peč pominout nebezpečí přesný říci hrozit hrozba
-počít prosit kroutit hlava prosit zdát cenný prosit velký nebezpečí zastavit škemrat prominutí vyhrožovat opnout rodič smát všemohoucí držet výkladní skří patník chtít odpustit tahat sukně lehký vléci ujišťování vyprávět pan učitel osmý hodina tlouknout věž kostel svatý Jakub slyšet školní zvonění jiný dítě začít utíkat mít velký strach přijít muset utět kata přemýšlení říci říci říci říci mít možnost říci povdat vzdát
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6e92ebccbeef7bcf327f08aa393370e461481618d25b7448b520a4b4ef32d08
+size 581

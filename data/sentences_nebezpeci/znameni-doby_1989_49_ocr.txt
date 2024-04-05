@@ -1,8 +1,3 @@
-nebezpečí který místo třát losos rybář patrit významný svět
-údaj místní činitel MRV JZD sahat jíl hloubka metr názor nebezpečí kal ohrozit spodní voda
-zástupce svaz rybář zřízení skládka souhlasit nebezpečí kal proniknout spodní voda řeka Kněžna dojít otrava ryba
-podniknout nutný opatření hrozit nadsázka oblast ekologický katastrofa důsledek moci znamenat vážný nebezpečí většina území ČSSR
-zachránit útěk věčnost zrada dějiny vzít důsledek nebezpečí
-učinit chléb zvláštní zkušenost hrozit nebezpečí moci pochopit smysl eucharistie
-důvod dovolený pozorovací metoda pokusný metoda poškozovat vystavovat vážný úměrný nebezpečí zárodek vzniklý umělý způsob
-zmrazování zárodek cíl zachování život buňka vystavovat vážný nebezpečí smrt poškození fyzický celistvost zbavovat vývoj materský lůno uvádět postavení možný další urážlivý proces manipulace
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84b7f52a2e76bc4083253100e20fb150608e525d149ef511cb501f71d8f9549
+size 962

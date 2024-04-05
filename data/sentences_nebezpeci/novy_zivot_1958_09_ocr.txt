@@ -1,1 +1,3 @@
-růst nebezpečí proměnit poběhlík
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1614f587feb8accb3668bd1bafbb0403b3da124791eb65dde32176ef51df93b
+size 39

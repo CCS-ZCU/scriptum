@@ -1,2 +1,3 @@
-mandát mít vypršet mít dojem lidé říci onen dát pokoj pomoci klid
-Seskočila země odtáhnout pilot bezpečí vrátit vytáhnout vrak další lidé
+version https://git-lfs.github.com/spec/v1
+oid sha256:d76d87bcc4c1edd4b97e8722b78bfeaa8593548e247d752321b992792fa9b003
+size 156

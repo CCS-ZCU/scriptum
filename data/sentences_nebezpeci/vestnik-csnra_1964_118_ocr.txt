@@ -1,3 +1,3 @@
-nebezpečí vzrůst Fidél Castro zřídit Kuba filiálka sovětský svaz odrazový můstek komunistický latinský Amerika středisko propaganda podvratnictví teror
-komunistický nebezpečí jít bránit marný rekriminace moci zbavit otázka naléhavý hledisko dlouhodobý vývoj správný rozhodnutí Suez roztříštění Afrika jihovýchodní Asie správný dovolit útočný vyzbrojený komunismus usadit dveře rozplazit celý latinský Amerika
-jistý komunistický nebezpečí zastavit prohlášení rozředit uložit starý papír
+version https://git-lfs.github.com/spec/v1
+oid sha256:a145e1782bd2dc6d1bd0549860ad837eeeb3129a1865c2297ea520bc4e7b835d
+size 542

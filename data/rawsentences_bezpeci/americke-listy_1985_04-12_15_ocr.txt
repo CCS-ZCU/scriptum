@@ -1,1 +1,3 @@
- Naopak, vyvolal otevřené útoky proti americké politice vůči SSSR, mentalitu jakési bezmocnosti a pacifistický ilu-ionismus — Walter Lacquer používá termínu “abulie” a “Hoilanditis” — nikoli však snahu čelit novému ohrožení vlastními silami Evropy samé, což by bývala přiměřenější odpověď než snaha vykoupit si bezpečí stavbou potru bí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0746396ef4295c6306398cfb9da7380d4ad505af588a02813db8e3fafc6006
+size 382

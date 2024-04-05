@@ -1,1 +1,3 @@
-léta úplný regulace hrozit nebezpečí celý assuánský přehradní jezero proměnit den servoár zemědělství potřebný slaný voda
+version https://git-lfs.github.com/spec/v1
+oid sha256:0700e247de65dfcece8b4948207e12211ea890f0e599a330f0ba4603f20e7e80
+size 142

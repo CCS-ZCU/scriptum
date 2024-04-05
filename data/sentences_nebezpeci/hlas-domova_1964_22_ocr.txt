@@ -1,1 +1,3 @@
-připomenout zapomětlivý bída utrpení pocházet štěpení atom strašlivý hrozivý nebezpečí člověk malověrnost slabost geniální neschopnost poučit minulý katastrofa
+version https://git-lfs.github.com/spec/v1
+oid sha256:581c93a737a66dc6212d9fdba9af4ca9d41b140f93e90fd8e3da60bed1643a76
+size 181

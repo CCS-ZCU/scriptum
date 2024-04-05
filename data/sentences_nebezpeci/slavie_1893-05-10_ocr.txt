@@ -1,4 +1,3 @@
-Paulo vystoupnout bod nebezpečí značící obyvatel část město český čtvrť známý jmeno donucený pustit domov
-Bráfův Riegrův Slánek odpovídat jváno klub staročeský velko Btatkářaký dohodnout poctivý obrana pospolitý věc nový nebezpečí punk tačnim zet punktační předloha vláda Taaffův překvapit letošní sněm
-důl horník doba požár vypuknout velký namáhání velký nebezpečí zachránit nešťastník zahynout dým
-Jßtahe WWstraÄ vyobrazený patentovaný přístroj použití obyčejný kerosínový svítilna povoz jízda noční odstranit nebezpečí srážka povoz převrhnutí náraz
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78304f9aa3004e3652cab96c60a9e626c3b1fcf0bdb327f76acdbecf21d38ad
+size 636

@@ -1,2 +1,3 @@
- Souhlasíme, Dalším, který musíme přidat, je naprsstá nedostatečnost informací našich sdělovacích prostředků, V našem zpravodajství se totiž jaksi zapomíná na to, že k vraždě se přiznali tři pracovníci polské státní bezpečnosti a další dva vysocí důstojníci bezpečnosti byli zatčeni dodatečně7 únos byl proveden policejním autem, a že Popie- luszko byl před smrtí brutálně mučen.
- bezpečnosti někomu 'jinému mimo Polsko? ^ebo jde o snahu nahradit Jaruzelského tvrdším mužem? Gi o nějakou zcestnou nenávist bezpečnostních pracovníků? V každém případě je otřesným fakt, že na úkor lidského života, na úkor zcela bezradného člověka si různé ’’skupiny” hrají politický poker.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faaadfb6bb339dcdd9e775e818de5e176574246902d5c3baf5721b2778fbb44a
+size 756

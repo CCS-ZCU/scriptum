@@ -1,1 +1,3 @@
-podnik metr prokázat statečqost bezpečí svobodný západ kdyz uplrat narodum sevretí sovetský soldateska
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef1871ea6d29c1b5c293ebf9142e6144b109dc0d6a9115ec010aa66c390814f8
+size 111

@@ -1,1 +1,3 @@
-snažit zabránit nebezpečí přát poměry změnit
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c09320c672e6b252b93879863dea54eff1200eeb9fb4826c671b6e9e938cbec
+size 53

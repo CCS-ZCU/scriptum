@@ -1,7 +1,3 @@
-první nebezpečí
-církev cítit povinnost soulad evangelium Ježíš rista zachovat ideál výše vystavovat nebezpečí jít běžný mentalita
-vzdalovat bůh vystavovat nebezpečí ztratit poslední pohnutka respektovat život vlastní život druhý
-nebezpečí hrozba vznášet mír lze odstranit lidský růst ctít pravý hodnota vzdávat
-touha čelit nebezpečí ekonomie rozšířit lidský styk vyvolávat nový významný problém vyvolat krize doba
-jistý přednost dávaný citový uspokojení jednotlivec uvádět nebezpečí stabilnost manželský svazek rodina vést ztrácet pravý cíl manželství
-provinční palác prom luvit pracovat pole výchova hájit právo rodič zvolit dítě výchova odpovídat mravní náboženský přesvědčení stát právo porušovat varovat nebezpečí moci užitečný diskuse pedagogický metoda školní předmět vyvolávat nejasnost student rodič bezradnost vychovatel
+version https://git-lfs.github.com/spec/v1
+oid sha256:e34fa30e49e534f694ee5a48ea84c51bed67364e41b3bf64a7e9fc2979fba140
+size 929

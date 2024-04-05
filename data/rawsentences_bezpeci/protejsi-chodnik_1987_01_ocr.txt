@@ -1,1 +1,3 @@
- V situaci ochuzení a otřesu, bez příjemného a užitečného bezpečí, Jake skýtají universitní instituce* možná *ve zde* kde se filosofie nedělá zároveň s kariérou* začíná se ^at* že filosofie Je Nákladní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c96ade5f66cf87b3c6dacc7d1208d0b6162b4bbe4a979d2089d2b6c1bd887b1
+size 229

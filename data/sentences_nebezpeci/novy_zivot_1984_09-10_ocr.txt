@@ -1,3 +1,3 @@
-instrukce chtít upozornit biskup teolog věřící omyl nebezpečí moci ohrozit křesťanský víra křesťanský život forma teologie osvobození obsahovat kritický způsob sahat pojem převzatý různý marxistický myšlenkový proud
-rozdílný formulace jednota přirozenost jediný Kristův osoba
-nauka víra poukazovat mylný výklad nebezpečí obsahovat forma takzvaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb8fe556cd654f87ccc4d2a11034139be696694d6240cd6576d826d492a17fb
+size 382

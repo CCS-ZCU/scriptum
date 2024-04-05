@@ -1,1 +1,3 @@
-udivovat bezpečnost socialistický stát používat metoda pomínat gangsterský film kapitalistický provenience
+version https://git-lfs.github.com/spec/v1
+oid sha256:55db36be00b89295e7b7f3accfa9992c598a906f95295d724abab0a3c5813f50
+size 119

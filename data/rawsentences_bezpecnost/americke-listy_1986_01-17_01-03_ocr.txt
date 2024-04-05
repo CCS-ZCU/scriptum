@@ -1,2 +1,3 @@
- Po několika desítkách domovních prohlídek se sice nepodařilo najít nějaký vážný usvědčující materiál mimo neprávem zabavené náboženské literatury' a psacích strojů, ale Státní bezpečnost konstruuje dále svoje předem připravené případy a vězní již měsíce čtyři občany’.
- Jako v podobných případech bývá zvykem, vyšetřuje nyní státní bezpečnost cely7 okruh lidí, kteří zatknuté znají a zároveň se usiluje zastrašovat jejich rodinné příslušníky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6528b505d07c6f4776aad17f5d4f5b40aa344a13a4fb2bed2889758f06a03ebf
+size 511

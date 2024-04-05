@@ -1,3 +1,3 @@
-dojít vznik zvací dopis vítání internacionální bratr dostavivšet tank zničit existující kontrarevoluční nebezpečí
-dohoda mít zajišťovat společný obrana islámský nebezpečí strana tehdejší osmanský říše dnešní Turecko
-zrušení kontrola hranice příjemný cestování přinášet nebezpečí kriminální živel moci kontrola pohybovat celý území
+version https://git-lfs.github.com/spec/v1
+oid sha256:83857a6482f25456c508b4ba88c828169d6c2b8ec7dfa9f143138ceac678db75
+size 381

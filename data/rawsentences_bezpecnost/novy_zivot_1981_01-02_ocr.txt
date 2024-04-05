@@ -1,4 +1,3 @@
- Zvlášť opakuji své volání ke všem národům světa — v duchu poselství, jež jsem poslal účastníkům konference v Madridu o evropské bezpečnosti a spolupráci, jíž je přítomna také delegace Svatého stolce —, aby respektovaly čestným a konstruktivním způsobem náboženskou svobodu, na niž všichni lidé mají právo; »tato svoboda má svůj základ v samé přirozenosti člověka, jehož charakteristickou známkou je, že je obdařen svobodou«; je ji tedy třeba uchovat jednak jako základ vnitřní osobní důstojnosti jednak jako podmínku spořádaného a spravedlivého občanského soužití, ve kterém každý občan je respektován pro to, co je, a není snížen do druhé či třetí kategorie pro názory, které chce odpovědně a důsledně vyznávat i ve veřejném životě.
- Irsku, madridská konference o evropské bezpečnosti a spolupráci a konečně cesta sv.
- Bezpečnost a svrchovanost naší vlasti nesmí být neuváženě vystaveny nebezpečí, že je opět ztratíme.
- Cartera pro otázky bezpečnosti státu, historička umění, která už pětkrát vystavovala svá vlastní sochařská díla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81bcfd68a45976b2fb43c73834cb71bfefb2aef7691c412da440785b18d927c
+size 1160

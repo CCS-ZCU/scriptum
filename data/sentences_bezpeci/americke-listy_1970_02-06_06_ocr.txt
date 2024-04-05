@@ -1,1 +1,3 @@
-maoismus západ hra buržoasn mládež vyrůst dostatek bezpečí mít maoísmus četný jiný hra hra irracionalismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7cd45d46d4f5461f1f62f5e52cbac11f53d49f5b1a3ab28700b426545196f4
+size 119

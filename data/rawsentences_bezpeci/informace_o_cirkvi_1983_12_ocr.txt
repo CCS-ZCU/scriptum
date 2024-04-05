@@ -1,1 +1,3 @@
- nic namoěnénj, Adv-ent je prese všechnu vážnost'doba bezpečí, protože k.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f066d260a2ce69945b3f69389e35ea30d2012e2294a4dcfc10e944b7b6233a82
+size 82

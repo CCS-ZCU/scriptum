@@ -1,2 +1,3 @@
-osobní potíž snaha získat prestyz zahraniční politika skrývat západ určitý nebezpečí povolný sovětský požadavek zdát nebezpečí veliký moci sjednat Kreml dohoda znamenat převratný událost mezinárodní život strana předpoklad
-Josef Škvorecký sedmiramenný svícen konfrontace Curych Kadiš zapomenutý téma žid druhý světový válka Endlosung židovský otázka hekatomba neárijec koncentráce skrývat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd3cd79eb905ed5e486c10904850c3e634e10fcbda2d2e120ec99ff3b394681
+size 446

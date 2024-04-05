@@ -1,1 +1,3 @@
-! Poggio! (čte) ,Vaše Svatost mi slíbila, že Hus bude zde v bezpečí, i kdyby měla kvůli němu zabít vlastního bratra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1251d47ae90d8015031cda10d423992354900c2d945a7b7f559fd63affa4dd4
+size 119

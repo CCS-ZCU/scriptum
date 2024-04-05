@@ -1,12 +1,3 @@
-vidět dobrovolník jít chtít připojit výprava
-ráž těžký práce nebezpečí
-silný muž
-zemdlený cestující hodina dopravený pevnina nebezpečí nepříjemnost bouře zakusit břeh zotavit
-zanechat milující srdce vzpomínat hoci muset nebezpečí tvář pohlížet
-mít vlasť poskytnout ďábel otroctví muset potřit býti—o pomsta volat prolitý krev bratr hodina hrozící nebezpečí smět zůstat —musel služba země nabídnout
-doba možný patrný požadavek věstý život slušný chráněnec nebezpečí vyváznout silný přirozenost vzbuzovat chuť jídlo těžit moci upokojit ztenčit zásoba
-myšlenka mít jediný milovaný bytost vysadit
-muset rozhodnout druhý dítko nebezpečí vydatý nechat manžel hlad trpět
-dítko zapo mít liocle nebezpečí volat tatínek
-obyvatelstvo město poznat nebezpečí nalézat noc pondělek překročit pla vzít ulice řeka veliký budova jediný šleh vzniknout záhuba celý obchodní část město
-schůze údová dostat strach vědět listina guvernér stát zaslaný člen zaprodaný vydaný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9c5bbeff8b5333b015ff176f959777c2a5b6e1af81ad1b87f0159cf82075651
+size 1085

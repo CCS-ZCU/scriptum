@@ -1,1 +1,3 @@
-Vermont zoufalý varování západ pochopení skutečný nebezpečí komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:daca8b60cdcfc6a66d071e48a90e8050de1ac96d00debfa8b5b39a936322f490
+size 80

@@ -1,4 +1,3 @@
- na svatopetrském náměstí před více než patnácti tisíci nemocných jak na vozíčcích tak na lehátkách, některé dopravilo přes 2500 dobrovolných pořadatelů i na lůžkách; přijížděly celé stovky pro ně upravených autobusů, městská doprava pro ně vyhradila ty nejmodemější vozy, na tři sta policistů hlídalo jejich bezpečnost i celý průběh.
- Merta je i reverendem! A budeme-li ve výčtu profesí pokračovat, dodejme, že je i legislativcem pro obor hloubkového potápění, protože jím vytvořené právní předpisy se staly základem zákonů pro profesionální potápěče v Kanadě a modelem pro podobné zákony na celém severoamerickém kontinentu a jinde, ale že též ovlivnily bezpečnost průmyslového potápění a potápěčů mezinárodně.
- Jeho vědecké práce z oboru fyziologie a psychologie potápění, jeho příspěvky ke konstrukci a bezpečnosti vrtných olejových plošin a věží, jeho anglické patenty v oboru potápěcích přístrojů a zasvěcené práce o technologiích potřebných pro výstavbu olejových a plynových potrubí na dně oceánů, jsou v oboru „světa pod vodou“ světoznámé.
- z hlediska pozdější evropské bezpečnosti obecně a českých dějin specificky) a někdy si společnost ukousla více, než mohla pozřít (zvolení NSDAP a tedy Hitlera v předválečném Německu či nástup ‘komunismu’ v Rusku a ve velké části světa vypálením děla na palubě stařičké Aurory v Petrohradě).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd2903cbb61de2a54a7088963c0db9ef05ed0afbda57b502984a15e1e45a776
+size 1513

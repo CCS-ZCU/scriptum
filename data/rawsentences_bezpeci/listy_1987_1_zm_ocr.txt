@@ -1,2 +1,3 @@
- Zi^mu jejich bůhví kým ohroženého bezpečí musí ustoupit i těžce zraněný odvážený sanitkou do nemocnice.
- Není tohle bezpečí důležitější než svoboda a pravda? Nesu si v tašcepůl láhve vína, je škoda, aby zkyslo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b3a451cb8798a3f76025167ef680d23572bd1a36585253acb6a4bf48b65488
+size 241

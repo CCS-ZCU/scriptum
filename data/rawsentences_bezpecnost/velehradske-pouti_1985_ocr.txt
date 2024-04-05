@@ -1,1 +1,3 @@
- Prekladanie horlivých kňa- zov z jedného miesta na druhé je známým trikom cirkevných tajomní- kov a štátnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a97b8dd8d13fdc5856634620bdd6e313c20455b6e998ef8852a071e968aeef
+size 133

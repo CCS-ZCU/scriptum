@@ -1,2 +1,3 @@
- Izrael dal vědět, že cílem této vojenské akce je zajistit jeho bezpečnost a přivést Palestince, kteří věřili na násilí, k poznání, že spory je nutno řešit jednáním, nikoli sovětskými rachejtlemi.
- Dokazuje to pokračování Lisova článku: “Přes nenávist vůči moci, straně a bezpečnosti si veřejnost uvědomuje, že.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d16b1b7d0906be46d3e802dd4fff7efc04398c13544bb01379f63b9967565dd7
+size 352

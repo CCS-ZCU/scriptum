@@ -1,1 +1,3 @@
- Kdo pak není s to tě piti, celé moře vysušit! , ztrácí všechnu bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1361e94a32caa8fcac16df8152bbe30be91fbf5377c7f3c6971752d277822a4c
+size 85

@@ -1,2 +1,3 @@
-mít smysl
-Anton právo Reportýr Reportýr
+version https://git-lfs.github.com/spec/v1
+oid sha256:f88dd87873c1deb3132c2ffb934a070406949ff5c19a33cdbd724bfb386cc9f8
+size 44

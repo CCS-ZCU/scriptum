@@ -1,4 +1,3 @@
- Je to prý Ankara a ne zemé Varšavského paktu, kdo prý ohrožuje bezpečnost Řecka.
- ÍRÁNSKÁ DELEGACE ODPOVÍDÁ Ve Spojených národech předal vedoucí íránské delegace Charasání ostře formulovanou odpoveď na výzvu Rady Bezpečnosti zastavit válku v Perském zálivu.
- Členové Rady bezpečnosti jsou na rozpacích jak dál.
- A pomáhají zajišťovat bezpečnost tankových lodí, do- pravujícíh ropu z Kuvajtu a dalších zemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:580be02bdfb2cd719b853cba0118885391400f0b07133afb81855e4584c187b8
+size 454

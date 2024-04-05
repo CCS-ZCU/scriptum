@@ -1,1 +1,3 @@
-dohřát Dana houf opeřenec mizet bezpečí rozkřiknout Tim čert střelit
+version https://git-lfs.github.com/spec/v1
+oid sha256:568aa0f0674e31cb21ca39445e4bf09882a27ff4dec8ec9728b8ac8f71bd6d41
+size 77

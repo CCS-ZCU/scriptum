@@ -1,1 +1,3 @@
-pohovět odsouzený neklid nejistota ostražitost nebezpečí nový světový konfbka
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0a3bb26821fe0e6c873fd0772f8ce3dbbff8d91a648fadae960a8e41befe30f
+size 86

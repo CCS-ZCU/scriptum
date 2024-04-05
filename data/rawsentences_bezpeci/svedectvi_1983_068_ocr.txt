@@ -1,1 +1,3 @@
- V Kanadě s veškerým pohodlím, v bezpečí dekadentné antipoliccjní demokracie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:131fac5ed2be538782fb15f3d4bbebde180ddeac2f648894edce35ebbbb79664
+size 86

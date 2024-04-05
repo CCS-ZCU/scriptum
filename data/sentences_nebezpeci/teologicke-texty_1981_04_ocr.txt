@@ -1,4 +1,3 @@
-bok uhýbající člověk partner nebezpečí vyschnout cito žízeň
-asketika morálka pastorace zdůrazňování nebezpečí svět tělo lejít určitý druh negativismus nutný zkoumat danost svět dějiny moci negativní bezpečný stránka pozitivní pomoc spása láska
-kněz řeholník nebezpečí imunní
-epidemie pustošivý horší přírodní katastrofa
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba1ca00e3e64feb748e805d20eaf91cd4c68c55813f87c87ad69a6f9103969b
+size 501

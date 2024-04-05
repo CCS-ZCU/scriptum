@@ -1,2 +1,3 @@
- když pak v Maďarsku byly stavěny šibenice a sověty zabily maďarského ministerského předsedu Nagviho — Dubčeka té doby, ačkoli mu slíbili bezpečnost.
- Známý “ostrý muž" a Gierekův soupeř v zápase o nejvyšší moc Mieczyslaw Mcczar má na starosti armádu, bezpečnost a — tady zřejmě zapůsobil bezděčný vtipálek — zdravotnictví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93914f6a1b6ed5f18126f9fd15eac559cdd183f1472422c66d42052b74aaf9ce
+size 367

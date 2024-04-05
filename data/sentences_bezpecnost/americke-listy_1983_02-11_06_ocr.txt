@@ -1,4 +1,3 @@
-usilovat trvalý stabilní dohoda jednací stůl dohoda zvýšit bezpečnost západ východ zajistit země atlantický společenství moci stát rukojmí nukleární vydíraný ruka sovětský svaz
-ohrožovat mínění japonský vláda bezpečnost země
-solidarita doufat státní bezpečnost ozývat přestat
-prosinec státní bezpečnost zatknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcce364674b7ff2553eae83151c07553438114264e08d6af618b452b6b62edbc
+size 349

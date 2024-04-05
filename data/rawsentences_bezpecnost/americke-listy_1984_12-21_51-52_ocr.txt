@@ -1,4 +1,3 @@
- Ne tedy na konferenci, kde by bylo přítomno kromě přímých ú- častníků sporu ještě všech pět stálých členů Rady bezpečnosti.
- Organisace pro osvobození Palestiny musela odmítnout Husajnovu i- niciativu proto, že cílem e- ventuální mezinárodní konference má být realisace re- soluce číslo 242 Rady bezpečnosti.
- Ministři obrany v něm vyslovili přesvědčeni, že společné tradice a společné sdílené hodnoty jsou nejlepší zárukou bezpečnosti jednotlivých členu.
- 15 9 týkající ve evropské bezpečnosti byla v patek 14.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a5695b8e388badb85951976b5045f91be3cebe1bbc4409e5f1f586508139ed
+size 568

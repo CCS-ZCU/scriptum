@@ -1,2 +1,3 @@
-růst znamenat konjunktura bezvětří znamenat stagnace nezaměstnanost nebezpečí krize
-umístit zimní tábor kilometr okraj Rossův bariéra vhodný místo nebezpečí změna ledovec hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:a419f7e0ad85997b0ca1ea3c9bde9b91d1ba6d59298fabfee8e2d0c5738fc9ae
+size 195

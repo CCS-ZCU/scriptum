@@ -1,2 +1,3 @@
-Hobbesův suveréna depersonalizovaný stát mít občan garantovat vnitřní klid pořádek navenek bezpečnost
-vnitřní klid vnější bezpečnost stát moci muset vzít ruka vzdělávací struktura
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9fa2e5f4f52927ef67570989fd5c15f70bf74cad8b9f1a05274509abe148f36
+size 202

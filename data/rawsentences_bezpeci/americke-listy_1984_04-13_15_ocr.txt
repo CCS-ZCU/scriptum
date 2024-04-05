@@ -1,2 +1,3 @@
- bezpečí a mylná očekávání, které vyvolávají dohody mezi demokratickými stranami a jejich odpůrci.
- Je to právě tento pocit bezpečí, který je obratně pěstován každým agresorem, aby se tak neutralisovala možná oběť.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08ecbf777ef61614417019fa18396647d5c33bd78d48268700778830615e32d8
+size 241

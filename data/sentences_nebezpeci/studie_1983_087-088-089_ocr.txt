@@ -1,12 +1,3 @@
-exegeze úspěch soustředit genetický výklad Havlův dopis ocitnout nebezpečí minout jít pravda poselství zjevený doba
-čtenář bezděky ptát zbytečný okolek
-nebezpečí vyplývající malý porucha mechanismus ustavování starý lidský dějiny hlavní nebezpečí dnešní svět mít lec cos společný aktuální obecný odvrat bytí charakterizující soudobý civilizace různý fanatismus zkratkovitý reakce úrodný půda
-obávat vlak míra vylučující nebezpečí atomý katastrofa dosažený míra velký obnovit vzájemný důvěra důvěra hodnost lidé národ stát
-Rzounka ternacionální pomoc konzolidace socialismus zahájený duben postavit hráz nebezpečí
-hrozit nebezpečí proces uriiverzalizace hodnota vzájemný pochopení Verstehen prostoupení dílčí hodnotový soustava platný mez daný intersubjektivnost stát skutečnost proces vzájemný lučování destruování pohlcování omezený soustava soustava rozvinutý založený konsensus možný masový
-Husserlův epoché skrytý nebezpečí roz vrácení pouhý relativizace hodnota jméno hege lstivý aproximace žádoucí univerzalita vyvrácení objekt hodnota zakotvený
-skrytý nebezpečí další smysluplný existence subjekt
-novověký idealismus čelit nebezpečí zpochybnit nost cena transcendování subjekt odlidštěný Super subjekt
-chápat problematika ohrožení míra úzký souvislost proplétat otázka nebezpečí ekologický katastrofa rostoucí napětí životní úroveň vyspělý sever přetlak bída země rozvý jih třetí svět rozhodný obrat opravdový mírový politika světový velmoc blok lze globání hrozba život planeta odvrátit
-pokládat přední úkol lidé dobrý vůle nebezpečí čelit
-válka Vatikán upozorňovat Evropa existovat hlavní nebezpečí nacismus komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c3a0acdd82cd8d0ac8843d1f096dd6ab7afbf7ec1e28ae9de7d532854f4cc78
+size 1821

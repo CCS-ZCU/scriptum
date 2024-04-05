@@ -1,4 +1,3 @@
- Při domovní prohlídce u ní Bezpečnost našla např.
- Jan Litomiský se po propuštění z vězení opravdu octli v „ochranném dohledu“ Bezpečnosti, o němž jsme psali v březnu.
- Za návštěvy rakouského ministra zahraničí Erwina Lance Bezpečnost přísně sledovala spoluzakladatele Charty 77, bývalého ministra zahraničí dr.
- Podle jejich slov s nimi Bezpečnost zacházela slušně a nepřátelství necítili ani ze strany zaměstnanců teplárny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f309fdb80c2288ec4547f28b34e149300d00492d210b27ae2477734d354ccf1
+size 474

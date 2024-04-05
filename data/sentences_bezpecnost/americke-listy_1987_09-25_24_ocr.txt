@@ -1,2 +1,3 @@
-konec leden letošní rok navrhnout americký komise bezpečnost spolupráce Evropa kandidát cena charta
-hocha advokát muset hájit kvér střílet nakřivo hanba výcvikový důstojník bezpečnost vlast mít správný vlna
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c2fc7f5ff5e37482ef688c43a82b0094e87aaa3309928b5643aa4b70f6cb603
+size 227

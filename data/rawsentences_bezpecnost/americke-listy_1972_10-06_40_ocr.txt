@@ -1,3 +1,3 @@
- Nu a pak, nejspíš v červnu 1973, by prý mohla v Helsinkách začít už ta pravá, ta hlavni konference o evropské bezpečnosti a spolupráci, jak se jí už dlouho říká oficiálně.
- Souběžně — jaksi na dvou různých hladinách, má východ se západem jednat stále o obojím: jak se všeobecně dohodnout o evropské bezpečnosti — jak se podrobně dohodnout o počtu vojáků, kteří ji mají z obou stran zajišťovat.
- Tento skutečný stav je také jistě důležitější než různé rezoluce či teze, výzvy či podněty, které by mohly vzejít z takzvané konference o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35dbb5016458fbc5fe85a386eb6694fabe90854b525f9bf0e9acbbf5aee5c77
+size 638

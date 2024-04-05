@@ -1,1 +1,3 @@
- Omezené americké vojenské vystoupení bylo demonstrací Wilsonova zájmu o československé vojsko, kterému chtěl pomoci k tomu, aby dosáhlo bezpečí, ne k tomu, aby se účastnilo intervenční aktivity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa07d7a5844c8cd4bfff26ac0bc30d3f79a659f1ca7edbfdfd79c49bd7b08ba
+size 213

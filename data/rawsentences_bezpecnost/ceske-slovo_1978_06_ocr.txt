@@ -1,4 +1,3 @@
- červen 1978 ČESKÉ SLOVO Strana 5 Nedávno navštívili členové veřejné bezpečnosti z Horní Lidče diskotéku v malé valašské obci blízko Klobouk a zjistili tam následující: Převážná část návštěvníků diskotéky ve věku od 15 do 20 let byla nevhodně oblečena v ušpiněných a potrhaných riflích.
- Nepochybuji o tom, že oblečení valašské mládeže, nad ním se nadporučík Karel Vrba tak rozhořčuje, je rovněž výrazem protestu proti té části zideologizované a poněkud prudérni společnosti, která by mládež nejraději přizpůsobila k obrazu svému, tedy do jakéhosi šedého průměru, v němž každá dráždivá barva, nápaditost a třeba i zoufalý pokus se pomocí záplatovaných dŽínsů odlišit od představ poručíka esenbé, se v řadách veřejné bezpečnosti okamžitě kvalifikuje jako nepřátelský čin ohrožující stát v samých základech.
- Dvůr v blízkosti vězeňské nemocnice je zaplněn orgány ministerstva vnitra a Státní bezpečnosti.
- Zde text Kohoutova prohlášení, jak je otiskl „Frankfurter Allgemeine Zeitung“: „V posledních týdnech aktivita státní bezpečnosti v mém životním okruhu značně zesílila.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2718b7d66b6990dbb0b709e3f320595a8b4056baafc50ef4b51608d416d60cc
+size 1215

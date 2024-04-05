@@ -1,2 +1,3 @@
-naša národný budúcnosť budúcnosť samostatný slobodný štátu Čechov Slovákov nebezpečí
-lze bránit chtít prostný zopakovat tělocvična kuchyň vlastní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a005b56fb3d19157757f1d3023e89c22e8cff45ee2f1e209de82286b31f21df4
+size 180

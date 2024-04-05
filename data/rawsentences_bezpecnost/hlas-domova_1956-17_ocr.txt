@@ -1,2 +1,3 @@
- Podle amerického plánu by se účastníci konfe- rence zavázali ke spo- lečným hospodářským, finančním i vojenským sankcím v případě ohro- žení bezpečnosti kanálu.
- 6) Závody ve zbrojení pokračují i v "mírovém spolužití" SSSR neustává v přípravách na válku V minulých měsících měli lidé, kteří jsou odpovědni za bezpečnost Spojených států, plné ruce' práce s - urovnáváním sporů mezi veliteli ame- rického námořnictva, letectva a armády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef18d7e2a6e1959f25244cc6f124f8b548a92516b1d298281bc8b831df30096d
+size 495

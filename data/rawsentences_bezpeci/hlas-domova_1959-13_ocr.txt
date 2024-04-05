@@ -1,1 +1,3 @@
- Žádají na nás, abychom svěřili svoji svobodu, své bezpečí a své bytí a nebytí do rukou dámy, jejíž manžel je jedním z organisátorů koncentračních tá- borů, donucovacích táborů, kárných táborů, převý- chovných táborů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df93e4f2e2bccd15526ad78ee64374f29b68515876d8ff23f6b76af9a5f269c
+size 249

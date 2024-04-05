@@ -1,2 +1,3 @@
-dbát nebezpečí odpadlík zrádce
-Praha rýsovat podobný nebezpečí Budějovice
+version https://git-lfs.github.com/spec/v1
+oid sha256:66fce2bce01f4be22ee1ff1be0727f72a37327b831e2be4a02e1b88b952b4ee4
+size 84

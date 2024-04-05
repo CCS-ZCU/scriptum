@@ -1,6 +1,3 @@
- Poprvé v dějinách reálného socialismu nevidí státní politická strana jiné východisko než ve veřejném soudním líčení usvědčit čtyři důstojníky mocné státní bezpečnosti, přinést jejich obličeje na pranýř televize, jejich skrovňoučká přiznání s popisem skutečného pekla tajné státní policie denně půl hodiny přenášet rozhlasem a publikovat na půl stránce cenzurovaného vládního tisku.
- V 1 olsku vydal generál Jaruzelski, který měl u svého proletariátu pověst velmi nevalnou, právě proto plukovníka, kapitána a dva nadporučíky státní bezpečnosti napospas veřejnému opovržení.
- Když se Spiege dotazoval na účast cizinců v tajná službě, reagoval ministr spravedlnosti Kučera pohotově: "Měli jsme ve státní bezpečnosti nějaké poradce, ale ti již byli v Sovětském svazu potrestáni.
- Také otec Grzegorzc Piotrowského jo Vysloužilý plukovník Státní bezpečnosti, ktorý byl zaměstnán v době stalinského teroru v Lodži.
-listopadu - náhle do cesty sněžný pluli, řízený mužem státní bezpečnosti.
- A sdělil, že další vyšetřování bude postoupeno StB v zájmu bezpečnosti státu a občanů: je proto v zájmu příbuzných, aby se o celém případu ze dna Macochy co nejméně šířili - zvláště ve vztahu k vysokoškolákům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67035c7f9b47446dcac52308d799c866afd8364f5a0dbf7eff36c18e718bc0df
+size 1342

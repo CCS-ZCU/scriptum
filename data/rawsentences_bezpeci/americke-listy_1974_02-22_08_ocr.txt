@@ -1,1 +1,3 @@
- Je v bezpečí .
+version https://git-lfs.github.com/spec/v1
+oid sha256:0587f63082c579c07dfc3f2853363f87dae0e2705197b73b68435b2d71cf5661
+size 18

@@ -1,1 +1,3 @@
-Duben ZÁZNAMY Arthur Miller, známy americký dramatický spisovatel, sa vyjádřil v americkom Senáte, že je povinnosťou Spojených štátov zistiť, či sa terajší útlak intelektuálov v Československu neprieči dokumentu vrcholnej konferencie o Európskej bezpečnosti a spolupráci v Helsinkách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf6655a627aa8e2aaa7cd405290f3bd66100025fbde5fdf873edc90c2f4c8d3d
+size 309

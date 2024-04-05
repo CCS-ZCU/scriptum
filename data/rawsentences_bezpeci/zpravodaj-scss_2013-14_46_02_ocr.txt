@@ -1,1 +1,3 @@
- Winton riskoval a organizoval vlakové transporty 669 dětí z území okupovaných nacisty do bezpečí ve Velké Británii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3e2973829d1c944ec32993a46f175f9d3df715ee89471b039105f0e0f34bada
+size 127

@@ -1,2 +1,3 @@
- sebe narazily mocenské zájmy různých skupin (armáda a bezpečnost, civilisté a funkcionáři s povolání, inteligence a konzervativci), v každém případě ale rebelan- té měli své mluvčí v nejvyš- ším politbyru, takže došlo k takovému názorovému konfliktu (nepotvrzené zprávy hovoří o hlasovacím poměru 6:5), že tentokráte byla dogmata odhozena stranou.
- Moskvy Rozhovory v Bělehradě a v Záhřebu umožnily presidentům Nixonovi a Titovi širokou výměnu názorů o problémech Středního východu, Vietnamu, o evropské bezpečnosti, vztazích mezi východem a západem a samozřejmě i o vzájemných ame- ricko-jugoslávských stycích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:986cffadebc1ef3703ac612aeb7b9f38dd85cdb3d190430b2a0b77b16d3a7735
+size 677

@@ -1,1 +1,3 @@
- Prozatím státní bezpečnost zabavuje výtisky při domovních prohlídkách a vyslýchá postižené, aby se dověděla kde je dílna, kdo knížku opisuje, kdo akci Petlice organizuje, atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b91b0bd3482d60ecba1ae7a733773cb29976475940dcca79f6c6ea2972df01
+size 195

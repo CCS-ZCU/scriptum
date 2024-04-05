@@ -1,2 +1,3 @@
-musil vědět pamatovat Lenin pokládat nebezpečí velký lidovost spontánnost komunistický strana kontrolovaný příliv člen theorie ruka laik
-nebezpečí návrat hrůza Stalinův vláda uvědomovat psát
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a47f0c2d5efaf5bfe1af02c570636c0d3dba4436f9bbe0f49ad7fd315dbddd2
+size 211

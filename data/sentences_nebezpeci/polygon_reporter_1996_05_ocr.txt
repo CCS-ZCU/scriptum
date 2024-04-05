@@ -1,7 +1,3 @@
-politický ovzduší český republika poslední den zhoustnout nebezpečí bouřka vzrůst
-americký kongres zahraniční politika říkat USA moci mít president řídit presidentský volba příležitost možný naleznout USA vidět stejný nebezpečí
-nebezpečí zpomalení transformační proces republika rozostření obraz zahraničí vysoký cena
-otázka hrozit nebezpečí léto funkce stranit vlastní etnický skupina
-vyznavač zdravý úsudek vystavený rostoucí nebezpečí různý závažný nařčení bigot rasista antisemita homofil
-nařizovatel nový směrnice dbát nebezpečí pokles odbornost důsledek stejný příležitost zaměstnání menšinový skupina
-uvádět Nečas přestávat upozorňovat president nebezpečí hrozit poválečný Československo strana komunista domácí moskevský
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c72dd6564ec8cae0ee721e088812fb908d0f385faec8c18f14bdcad4181f887
+size 819

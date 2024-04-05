@@ -1,18 +1,3 @@
-vidět vůz ležet bok náspo strana nebezpečí hrozit
-bláznovina muž věk postavení hrát detektiv mladý muž cítit zodpovědný nebezpečí mít zakročení
-mlhavina štěstí týčit šedý přízrak předtucha známý nebezpečí tušený nástraha
-velký nebezpečí minuta svatba
-odvážní dobrodruhe stálý nebezpečí rudoch líbit kraj usadit
-prvorozený manžel syn John zdědit rodič všecka význačný vlastnost otec odvážnost přímost touha dobrodružství matka důvěra vynalézavost chladnokrevnost nebezpečí
-nebezpečí samotný velet chladný
-Spurný povaha flegmatický starý lesák nebezpečí léci prohlédnout
-hrozný nebezpečí muset slyšet výkřik ženský utrpení znát domov matka
-nebezpečí hrozit čekat lékař
-nebezpečí vězet dobrý hůch vůle teta
-věno silný opora krajní nebezpečí celý závod zachránit půjčka čas vrácený
-prozíravý rozvážný obchodník otec celý závod ruka dojít nebezpečí
-uklidnout první chvíle nebezpečí zdát velký
-nemocnice hrozit nebezpečí pře vežení zaplatit život viset nitec
-možný muž cizina hora vědět nebezpečí číhat zima stezka
-zbytečný vyptávání vsednout sedlo koník cítit nebezpečí rozběhnout směr ranch
-věk vyvinutý nebezpečí odvedený vojsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8c06fc0749695caf0a464e2d1cffbeacc3c1fd40172ceabb715454482290fee
+size 1287

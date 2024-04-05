@@ -1,1 +1,3 @@
-situace brda plna smírný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:56616f425092f7bc98557a4c0736ec03cb7ed76360581568eacf3aa48184db0f
+size 39

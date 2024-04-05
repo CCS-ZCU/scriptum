@@ -1,5 +1,3 @@
-rukopis odevzdat rok evangelický nakladatelství kalich nepohotovost církevní pracovník nepře zen církevní pra covník dohlížející práce nakladatelství knížka tisk ne— vyjít
-lid ujímat pracovat nebezpečí vydávat smět očekávat jmenovat oby čejný život vděčnost
-jít přijmout radost všeliký práce chválit hospoda zdraví pite přijít cesta nebezpečí ouraz očekávat pomoci oběť očekávat spoléhat vedení pomoci oběť stra nejinůk divit
-vystavovat nebezpečí trestní stíhání poškozování zájem republika zahraničí koncipovaný historický práce publikovaný Československo publikace dojít vědomí
-možný brát Freuda myslitel
+version https://git-lfs.github.com/spec/v1
+oid sha256:592466fb26f3cb8c05fe85b0b5493546d1dd4b52fa340af097c200e8d430740a
+size 689

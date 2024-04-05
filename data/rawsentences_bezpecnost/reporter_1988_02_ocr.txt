@@ -1,5 +1,3 @@
- Na začátku vídeňského zasedání Konference o bezpečnosti a spolupráci v Evropě byla z naší strany vznesena otázka na State Department, proč tedy americká delegace tuto zásadu neuskutečňuje a proč její úspěchy jsou omezeny na zlepšení osudů jednotlivců a nikoliv na změny, které by potlačování lidských práv v sovětském bloku znemožňovaly nebo aspoň omezily.
- »Jestliže se jakákoli forma vlády pokusí zničit tato práva, je právem lidu ji změnit nebo zrušit a ustanovit novou vládu, založenou na takových principech a organizovanou takovým způsobem, aby byly bezpečnost a štěstí lidu zachovány.
- d) Doporučujeme však, aby občané v zájmu osobní bezpečnosti a uchování tajnosti voleb si tam alespoň spustili kalhoty a tak oklamali tam nastražené videokamery.
- Jenže, jak si vysvětlíme, že režim, který mluví o svobodě, a nemá ji, o humanitě, a neví, co to je, o demokracii a plete si ji s diktaturou, že tentýž režim vykřikuje, že je ateistický a přitom maluje čerta na zed', ví, že kam čert nemůže, nastrčí Státní bezpečnost, a nejraději by v dnešní své hospodářské situaci zvolal: Pomoz nám Pán Bůh, a když Pánbůh nepomohl, řekl dr.
- Když jsme byli z ohledu na veřejný klid a bezpečnost rozděleni, vystoupil jsem jako mluvčí bývalých korunních zemí, z čehož se ovšem stal kabaret.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10b1870c27a485753c79d5a0f1be01c7b42195b6147a94524e945bbd90627029
+size 1407

@@ -1,1 +1,3 @@
-myslit mít smysl národ usilovat demokracie spojený svoboda duch bezpečí tělo slušnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:5890c4b5206a8391b00ed1c7854049e1f7671b30ea555ea824c088081b68f2c9
+size 98

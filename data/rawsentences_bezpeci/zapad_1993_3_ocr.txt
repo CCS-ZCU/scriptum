@@ -1,1 +1,3 @@
- Milióny lidí přecházejí ze země do země a hle- dají tam bezpečí, obživu, svobodu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da8039b6d5b2728c832a30947117068263dc41b3a1159106b7b5d3603c06bc8e
+size 92

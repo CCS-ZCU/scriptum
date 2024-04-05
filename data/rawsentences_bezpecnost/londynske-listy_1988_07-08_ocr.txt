@@ -1,1 +1,3 @@
-fakta o veskrze pokojné bratislavské manifestaci kacolíků a o její brutální "pacifikaci" jednotkami Bezpečnosti, byla široce publikována ve sdělovacích prostředcích celeho světa, dokonce včetně těch našich (tam ovšem v úpravě opravdu speciální).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8efd7568f62e1369c0e34b4e6b595b277c58bf60871202cc3a164f95344fead4
+size 270

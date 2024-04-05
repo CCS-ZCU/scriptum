@@ -1,1 +1,3 @@
-00 hodin zadrženi Státní bezpečností úča- stnici svatodušní poutěz v češtině v okrase Trnava Anton Selecký a čichal LehotákgAnton Selecký byl po třech hodinách převezen několik kilometrů za Šaětín a propuStěn,Michal Lehotský byl zadržován jen chvíli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbe2a8698e7b924ba6404a03c834e422361b53aead4980216a1b506643348e5c
+size 281

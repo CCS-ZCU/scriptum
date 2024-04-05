@@ -1,1 +1,3 @@
-rok ilegální pobyt nebezpečí deportace vyřešit podání žádost politický azyl vjezd areál CIA zastřelit zaměstnanec den země odjet
+version https://git-lfs.github.com/spec/v1
+oid sha256:0338fdccc32470c39473a870e9c36e7cdf452e2686862c6fe50b8404ded05e47
+size 144

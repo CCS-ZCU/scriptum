@@ -1,2 +1,3 @@
- OBOUSTRANNÉ VÝHODY OBCHODU MEZI ČSSR A SSSR, NEBOLI “KDO Z KOHO”? Nová smlouva o vzájemné pomoci zajišťuje bezpečnost Československa a jeho pokrokového vývoje.
- Velmi si vážím Vaší podpory a ujišťuji Vás, že se i nadále všemožně vynasnažím o zajištění bezpečnosti našich vojínů a o dosažení spravedlivého a trvalého míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ce93a7d1f0bc4f70d795fe4fb727739eba2adeaaee02461e125e34f390301de
+size 366

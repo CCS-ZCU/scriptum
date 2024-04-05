@@ -1,21 +1,3 @@
- většinu na seznamech tvoří lidé, kteří se provinili pouze pasivním kontaktem s Bezpečností.
- že nestáli Bezpečnosti ani za povšimnutí.
- Posílily se tím snahy o přijetí do NATO, která je považována za nezbytnou garanci bezpečnosti.
- Z té vyplývá, že dostavby Temelína se zúčastní zahraniční odborníci, což také dává jistou záruku vysoké bezpečnosti.
- Z hlediska ČR se rakouské protesty proti Temelínu zdají přepjaté - bezpečnost rakouského obyvatelstva může zrovna tak ohrozit jak výbuch jaderné elektrárny ve Francii, která produkuje 70 procent elektřiny právě z těchto zdrojů, tak - a ještě mnohem vážněji - eventuální další Černobyl.
- pj 1 0 bezpečnost obou republik a nejen jejich Po zhroucení komunistického systému se zdálo, že se nástupnické státy dřívějších satelitů vymanily z mocenského dosahu Moskvy.
- Podobně je tomu i sc snahou po zajištění bezpečnosti, kterou všechny tyto státy vidí v začlenění do NATO.
- Jelikož politicky byl průběh návštěvy předem dán ohlášením, že Clinton bývalým sovětským satelitům neotevře dveře do NATO, jak by si toužebně přáli, nýbrž už jen formálně nabídne jako předstupeň „Partnerství pro mír“, stala se na necelých 24 hodin omezená návštěva jen velkou show, kterou dirigovala americká bezpečnost.
-" na únor 1948 Zvláštní vlaky byly odvolány, komunisté zmobilizovali milice a bezpečnost.
- podle zprávy bezpečnosti jenom od května do listopadu 1949 ho navštívilo 150 tisíc lidí.
- Dokladem toho je i nejnovější výzkum veřejného mínění: podle názoru občanů by nejlépe otázky bezpečnosti zvládli Sládkovi republikáni.
- Kolik bylo agentů StB? Ústav pro soudobé dějiny Akademie věd ČR vydal knihu Františka Koudelky Státní bezpečnost 1954-68.
- V roce 1960 ministr vnitra ve svém rozkaze dokonce uvedl, že většina zavázaných lajných spolupracovníků podle archivovaných svazků zásadně odmítala spolupracovat a navíc práci bezpečnosti veřejně diskreditovala.
- Je jí podplukovník Státní bezpečnosti ing.
- Kuriózní na rozsudku je, že Zifčák byl odsouzen za falšování úřední listiny, konkrétně maturitního vysvědčení, které mu obstarala Státní bezpečnost, aby se mohl přihlásit na vysokou školu - a začít plnit svůj úkol.
- Aby Bezpečnost potlačila demonstrace, musela by hromadně střílet do lidí.
- Na adresu vlády prohlásil, žc jeho odchod bude znamenat kolaps transformace armády a ohrozí bezpečnost státu.
-" Z přílohy k tomuto dopisu: „Pokud jde o ocenění úrovně jademé bezpečnosti v České republice, nedělali jsme a nebudeme dělat systematické zhodnocení, neboť jde o záležitost suverénního rozhodnutí České republiky".
- Získáním vybavení od firmy Westinghouse se dostane bezpečnost zařízeni na přijatelnou úroveň.
- Tato plně odpovídá zásadám, které pro pomoc v oblasti jaderné bezpečnosti pro střední a východní Evropu přijaly jak americká vláda, tak i skupina G 7".
- Spolek rakouských inženýrů a architektů uspořádal ve spolupráci s Českým jaderným forem a řadou nukleárních společností sousedních zemí konferenci o bezpečnosti jaderných elektráren v zemích sousedících s Rakouskem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0670ad1a16106ddc7b018c538ad52df9fcee2a061899d337efe5a5f1b29416
+size 3340

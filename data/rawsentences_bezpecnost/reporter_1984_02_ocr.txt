@@ -1,1 +1,3 @@
- Když jsem to šel oznámit na Bezpečnost, orgán se mě dvakrát ptal, kde parkuju a jestli mi tam nechali zadní sklo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd2c8566cc389082ecca7134a46cacfe2f867dc99110e89d4b90e7300f14939b
+size 123

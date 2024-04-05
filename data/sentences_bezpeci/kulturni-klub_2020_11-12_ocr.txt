@@ -1,1 +1,3 @@
-československý předseda vláda krok vidět záruka stabilita Evropa bezpečí vzniklý stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc23d3c838a890021504f8fee764e001bab35f324897aaadacae8603726ebd7
+size 96

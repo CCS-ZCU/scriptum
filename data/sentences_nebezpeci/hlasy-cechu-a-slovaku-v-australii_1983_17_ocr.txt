@@ -1,2 +1,3 @@
-pře hlédnout český rcialistický politik šance český demokratický politik přehlédnout hrozící nebezpečí obrátit rozpor globální tendence lokální možnost národní neprospěch
-světový válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a0238cc1d8c9dc2cdd98818947a12a5ea7d2931403b9e30eb9b05f04259ca86
+size 211

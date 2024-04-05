@@ -1,1 +1,3 @@
-svobodný země občan uvědomovat bolševický nebezpečí ohrožovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:daad1dd9238e47239437080df55079b4ccfabcf17a0021af6ac8bfddc5513669
+size 71

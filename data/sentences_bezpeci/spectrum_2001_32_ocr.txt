@@ -1,1 +1,3 @@
-vytržený zteplá domov bezpečí máminý sukní vržený jáma lvový říkat škola obklopený človíček úzkost oko čekat osud potkat
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0502c999fa2bf635b7eca530151031b18298f403d3f21ac5eebd7bcbaac56f0
+size 142

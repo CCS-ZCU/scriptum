@@ -1,2 +1,3 @@
-chtít strašit velikost nebezpečí
-další občan odpíraný svoboda strach preambule první pakt nucený žít trvalý nebezpečí projevit názor ztratit pracovní jiný možnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6b3cf3ae355c23a4cfb73bb2dd904fe1028b8445299ef04df253d929f01b66e
+size 183

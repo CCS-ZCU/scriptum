@@ -1,1 +1,3 @@
-slepý dítě mít různý průlezka moci nebezpečí moci zranit balancovat moci šplhat strmý svah skákat překážka
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c430ac45e694a0b27183bc445119379466a77acd3a25c99fd0938b0fca0cdd3
+size 122

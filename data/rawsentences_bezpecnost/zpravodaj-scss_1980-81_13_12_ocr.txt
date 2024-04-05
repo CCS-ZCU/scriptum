@@ -1,2 +1,3 @@
- Vyskočil z okna své vily v Dejvicích, obklopené samozřejmě strážemi Státní bezpečnosti, a způsobil si těžké zranění na hlavě, zranění, jehož následků už se nikdy nezbavil, hlavně co do pohybových schopností.
- To by reálně zvýšilo bezpečnost obou stran.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ad0edff1d7d7e7bf9a96255857d5cab1ed99b36d90f342cf0fadd4a503bc91
+size 286

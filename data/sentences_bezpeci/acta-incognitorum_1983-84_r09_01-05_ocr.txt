@@ -1,1 +1,3 @@
-Rakousko poddávat nálada vzruch cítit teplo dámácet krb bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6733229577a20903a4241738b7d1a54d12e8f6013d4446c78badc8e27d87a413
+size 71

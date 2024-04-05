@@ -1,1 +1,3 @@
- Z dosavadních 5 ostravských sign-tářů se Čtyři chtějí i s rodimerai vystihovat Krejčí, Leltín ský Biner a ^avín Ostravská bezpečnost jejich snahu celkem podporuje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc5177af478aebedbae8aa754616587d76159c08cc3b578a3bfe903be467f30
+size 181

@@ -1,2 +1,3 @@
-nebezpečí trvat trvat starý podmínka feudální myšlení bída korupce
-soused přijet nevarovaný Jeník člověk první shlédnutí nebezpečí zastřelit
+version https://git-lfs.github.com/spec/v1
+oid sha256:459e99a147ffeb55f45c79c7f84ffccc36a9886819584b837282c0f7c9b420d5
+size 161

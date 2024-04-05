@@ -1,1 +1,3 @@
- vyšetřovatelů vyvinuli tu zvláštní iniciativu tři sovětší poradci (Gromov, Morozov a Černov), kteří přijeli zvlášť proto, aby “udělali” Slánského proces, jakož i šéf poradců na ministerstvu bezpečnosti A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d471991042ec2970f32a8681d7fb88acf9a6817c72b771de0c764efe2bdaa59
+size 235

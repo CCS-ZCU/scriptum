@@ -1,4 +1,3 @@
-zájem studie
-důvod lidský touha zajistit ochrana bezpečí
-jít předstírání snaha získat pocit bys fiktivní kulturní bezpečí
-akcentovat $vat angažovanost svoboda přetvářetík chtít poetismus pole absolutní osvobozování rušení hranice jistota bezpečí věc hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:8771005d2c68ff6ae5a25738b8fc2bb2ec3c5e400af71c3e22dfb430be480a04
+size 287

@@ -1,8 +1,3 @@
-hranice cizí přátelský město tvořit špinavý bašta sut podpírat mísit přerůstat růst výška velký nebezpečí zřícení
-prezident rozhodnout Američan Libyi# vyzvaný návrat nastávající nebezpečí muset čelit zrušit platnost americký pas cesta Libye
-odejít íkát letiště Řím Nvropa rozhovor novinář cítit libyjský hostitel hrozit nebezpečí zůstávat Libye vyvolat rozruch vládní recepce ľripolis říci pozvaný reportér chtít vzdát zaměstnání prospěch Kanaďan Evropan odmítnout odejít
-dítě charakteristický inklinace plynoucí výběr nápadný výrazný zářící pohybující vláček autíčko živý týkat celý situace estetický dojem mimořádný událost výlet návštěva vánoce dárek slavnost pouto ohňostroj zanechávat trvalý stopa
-vXelký břemeno planeta obtížený hlad chudoba ekologický nebezpečí hrozba válka
-myšlení dnešní doba propadnout nebezpečí automatisace
-moderní člověk cesta příprava plný nebezpečí duchovní rovnováha
-USA probritský postoj znepřátelit argentinský veřejný mínění nebezpečí moci přiklonit sovětský blok
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd8b3cd8da1c4ac35f0da0a530134b2b8fe69ffd96abeff7ec97c694a72be27
+size 1141

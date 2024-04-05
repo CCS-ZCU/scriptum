@@ -1,1 +1,3 @@
- Evropský poradní sbor sbírá informace a pražská bezpečnost informátory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4995caacc49753822385b4db62572cf18637b366f42a2d7ac5c8b214eb0bef3b
+size 81

@@ -1,1 +1,3 @@
- zdánlivého bezpečí, které bylo však brzy vystřídáno napjetím a strachem z chycení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60a45391b98af497d9c48b5ab954978d46698a4d2ef2d89c03d339a2df282d41
+size 95

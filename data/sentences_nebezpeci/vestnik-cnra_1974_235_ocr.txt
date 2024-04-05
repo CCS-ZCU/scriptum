@@ -1,1 +1,3 @@
-cesta tvořivý uplatnění relace světový vývoj ukazovat nutnost znamenat pojetí nebezpečí přecenění síla cíl ohrožení osobitost oponovat kritik pochopení nepřízní representant nový orientace otvírání okno setkávat různý úsek
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b354d6763e4f18d8718fe19405b7dc164b6ba681aa2c03f1d22a9a89c403f8
+size 252

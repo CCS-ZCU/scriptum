@@ -1,1 +1,3 @@
- Klid, hrdou přímost a nebojác- nost si odnášejí od mámina bezpečí na celý život.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18855dad77c9dc2698cfbd5b7d674bfe9f3e6b47962f2749871af8e41fee643e
+size 91

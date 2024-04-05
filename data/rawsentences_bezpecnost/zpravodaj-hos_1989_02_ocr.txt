@@ -1,1 +1,3 @@
- Ptá se: kontu to prospívá? A protože se zpravidla nic neděje jen tak, demo od sebe - zvlášt když to je spojeno a určitým rizikem /vždyt prý v té semé budově v Ústí oedvedle ONV a KV KSČ i okrsek Veřejné bezpečnosti/, bývá toto vodítko dost spolehlivé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:642cecb4c232a61d042977f804a9ae7eb87ea30bb9f1c3e779f76c1bb9737d96
+size 278

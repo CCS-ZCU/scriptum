@@ -1,1 +1,3 @@
- Ve válce se neuklidí s ostatními ženami do bezpečí, nýbrž doveze přes celou zemi dobrovolníkům zásoby jídla a léků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9ff28cfca982660dce4a44469c5a4819359ec5ec4ccfa33edb6934a2c8f2502
+size 132

@@ -1,1 +1,3 @@
-přesvědčovat ja^ký trauma NLnichov dozrát bezpečí první republika jaky^
+version https://git-lfs.github.com/spec/v1
+oid sha256:beebd980ce513a66f11f45ffec4f877e26c3f738bea38604d4f83aa4fa57ef38
+size 80

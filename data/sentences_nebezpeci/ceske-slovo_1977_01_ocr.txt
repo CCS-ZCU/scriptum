@@ -1,2 +1,3 @@
-činit nebezpečí zabránit
-krajní nechuť povolit nátlak nebezpečí průtah
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea4abac5ad35587e9d5e88c493a43c7a52e925291388bf83e9999d6a634f30e0
+size 81

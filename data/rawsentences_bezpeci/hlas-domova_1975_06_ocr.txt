@@ -1,1 +1,3 @@
- “ O některých věcech se mluvit nedá,” říká Wechsler váhavě - “jsou určité závazky plynoucí z bývalého postavení, jde někdy o osobní bezpečí a určité ohledy .
+version https://git-lfs.github.com/spec/v1
+oid sha256:0669d56e5a54d51cdc4d56f11571923978de6cf8a11b62661c34f44d06ae662e
+size 187

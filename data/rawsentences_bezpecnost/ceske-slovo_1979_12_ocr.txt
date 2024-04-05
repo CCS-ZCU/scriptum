@@ -1,2 +1,3 @@
- Státní bezpečnost chodila zatýkat v gestapácké hodině, soudci soudili podle partajních direktiv, obhájce, který obhajoval v souladu se stavovskou etikou, už obhajovat nesmí.
- Není pochyby, že cesta Jiřího Ortena je hledáním této poslední bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d12a67b00df4e7e5d6cd42556a96cb15af755850283be46c1aa683f028dde09
+size 273

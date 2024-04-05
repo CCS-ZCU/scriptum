@@ -1,1 +1,3 @@
- D ě t i j s o u tam v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f7817ebb64a6d56d2d772532e7cc45929fa2a8e94a5accf915e3f4f2a820243
+size 35

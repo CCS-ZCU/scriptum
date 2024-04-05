@@ -1,1 +1,3 @@
-situace přičinit dezorientace lidé lid rozpoznat antisocialistický demagý gie kontrarevoluční bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2bf7b41d568f53ec32c4b674ff8568d1ee4c81a26e335600442f84fb520f90e
+size 111

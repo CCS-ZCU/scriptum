@@ -1,9 +1,3 @@
- A NYNÍ HELSINKI? Od počátku loňského roku naléhá Brežněv na rychlé skončení vyjednávání v Ženeve o evropské bezpečnosti a spolupráci a slavnostní vyhlášení dohody v hlavním městě Finska.
- Je nutno zdůraznit, ze nejde jen o připomenuti třicátého výročí tragické jaltské dohody, ale také o to, aby připravovaná konference o Evropské bezpečnosti a spolupráci v Helsinkách nebyla znovu podepsána bez závazných gerancií jejího praktického provádění v zemích střední a východní Evropy.
- Kadur píše například o tom, že arcibiskup Beran si uložil dobrovolné domácí vězení ve své hradčanské rezidenci a pomíjí skutečnost, že ta „dobrovolnost“ spočívala v arcibiskupově neochotě přijmout stálý doprovod Státní bezpečnosti, jakmile by opustil palác.
- Co dnes historicky víme o Čihošti a Josefu Toufarovi? Státní bezpečnost si tuto vesničku na Českomoravské vysočině a toho prostého, zdravého venkovana, který se jako poměrně pozdně povolaný stal knězem hradecké diecéze, vybrala k odporné provokaci.
- Příslušníci státní bezpečnosti podle všech známek předem zamontovali do oltářního kříže v či- hošťském kostele dálkové elektromagnetické řízení.
- Státní bezpečnost ho chtěla donutit jednak k falešnému doznání, že pohyby kříže způsobil on sám nějakým mechanickým zařízením, ovladatelným z kazatelny; jednak i k tomu, aby tento svůj domnělý podvod předvedl v dokumentárním filmu.
- Důstojník Státní bezpečnosti Ladislav Mácha měl Josefa Toufara mučením donutit k falešnému vyznání a rouhavému divadlu.
- Ve východoněmeckém ideologickém časopise „Einheit“ se v lednu objevil článek šéfa východoněmeckého ministerstva pro státní bezpečnost generálplukovníka Miel- keho, kde zdůrazňuje význam a znásobující se budoucí roli boje proti „nepřátelským plánům, záměrům a rejům imperialismu na neviditelné frontě".
- Její zraky se pak vždy obracely tisíce mil za moře ke kontinentu, který je v mírové době vystavován naduté kritice právě těch, kteří svojí bohorovnou ospalostí, neduživou váhavostí a sobeckým přístupem k řešení elementárních otázek své vlastní bezpečnosti, nechávají za sebe s neomalenou samoDOVOLENA V ITÄLII Navštivte RICCIONE, zelenou perlu Adrie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:324f87561f06bfb4e860892cb905b1eb3cee2bd6e0ba51191b1467220e710921
+size 2401

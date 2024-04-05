@@ -1,5 +1,3 @@
- Jak jsme již informovali, podnikla Státní bezpečnost dne 11.
- Veřejnost se má o tomto oddílu, který bude ustaven k zajištění bezpečnosti cestujících, dovídat co možno nejvíc — a má se to stát součástí akce k získávání nových zákazníků: na rozdíl například od podobných jednotek — kterými už dlouho disponuje izraelská letecká společnost EL AL; o jejich výcviku a existenci vědí jen zasvěcení, i když se s nimi už nejeden terorista měl možnost — ke své nelibosti — střetnout.
- To není rozhodně v souladu s údajným přáním těchto vlád zlepšit styky mezi prostými občany — řekl americký delegát, který v závěru svého projevu zdůraznil, že rozšíření kontaktů mezi občany Spojených států a Sovětského svazu přispěje k slabil n ěj Šímu, konstrukt i vn ěj - šínni vztahu obou zemí, jakož i ke zvýšení bezpečnosti a spolupráce mezi všemi signatáři helsinské dohody.
- Jeho žena, šestadvacetiletá Larisa Cukájeva byla neustále sledována státní bezpečností.
- Navíc musíme řadu důležitých systému dublovat či ztrojnašobovat — abychom zajistili alespoň elementární bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae039e1d0c9d920ae87af5cab90284ffcd698f61f568599208ce861755effea
+size 1200

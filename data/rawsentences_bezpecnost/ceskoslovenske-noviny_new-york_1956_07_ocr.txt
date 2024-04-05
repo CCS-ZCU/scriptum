@@ -1,8 +1,3 @@
- 7 REVOLUCE A BEZPEČNOST DR.
- ROZEHNAL Dnes už nebude mnoho těch, kteří by chtěli popírat, že bezpečnost a revoluce se mají k sobě jako oheň a voda.
- Clementisem, ani jejich odpůrci, kteří tehdy bojovali o bezpečnost.
- Slánského prohlásil: O tom, kdo je vinen nebo nevinen, rozhoduje komunistická strana za pomoci orgánů národní bezpečnosti ! Hlavním účelem komunisty ovládané bezpečnosti bylo zbavit lidi právní jistoty a rozvrátit právní řád.
- Všechny tyto teroristické organisace kryly se společným označením bezpečnosti.
- A přece i v této době se našli lidé, kteří věřili v zázrak a vytrvale bojovali o bezpečnost.
- Dnes se lze ptát, zda to byli blázni nebo hrdinové? Odpověď lze hledat v motivech jejich jednání, které prýštilo z přesvědčení, že bezpečnost je slučitelná s probíhající revolucí.
- om NA POLI BEZPEČNOSTI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0d40c0971a94db3fc3732ba776d5848b729fa6c20435a037e175010f9ce932
+size 904

@@ -1,6 +1,3 @@
- Jmenovaná komise US Senátu nabádá k velkým změnám ve vládních institucích, které mají na starosti bezpečnost země a doplnila také novými detaily obvinění, které učinila vládní administrativa, že Sovětský svaz zneuživ:! Spojených národu jako platformu pro svoji špionáž.
- Státní bezpečnost reagovala způsobem sobě vlastním.
- Státní bezpečnost jí však odňala podpisové archy s dvěma tisíci 6-ti sty podpisy, které měla ve chvíli zadržení u sebe.
- Zcela nepochybné však zu- stává skutečnost, že jde o naprosto regulérní využití petičního práva, zaručeného ústavou ČSSR a že jediným nezákonným prvkem v celé záležitosti jsou intervence a represe Státní bezpečnosti.
- linutí Greenpeace dává k dispozici vlastní zprávu o bezpečnosti práce v atomových elektrárnách, ve které dochází k závěru, že nejbezpečnějším reaktorem je takový, který byl vyřazen z provozu.
- Od zavedení mimořádného stavu se rapidně snížil počet případů násilí (o 64%), smrti a zranění (o 56%), útoků na složky bezpečnosti (o 70%) a ničení veřejného a soukromého majetku (o 47%).
+version https://git-lfs.github.com/spec/v1
+oid sha256:94fb4b61efb82d35a2a09705658ec572eee08ea3fb95e0ce937bcc2bd62cf474
+size 1170

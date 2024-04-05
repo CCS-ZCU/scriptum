@@ -1,1 +1,3 @@
-činit bezprostřední vislost rámec černobílý hodnotící schéma přijetí dělení kultura oficiální oficiální moci přispívat vyvstávat nebezpečí evi dentní aspekt ropero eso vsí empirie potlačený
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf051fe151ed861fccbd084ea4d9ba318c02628066e082e42915f9516b90b383
+size 219

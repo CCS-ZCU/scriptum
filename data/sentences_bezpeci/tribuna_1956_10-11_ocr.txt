@@ -1,1 +1,3 @@
-říci člověk zkušenost mládí řečený většina lidé dostat štastný dětství dospívání čerpat pocit jistota bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:768b36401961adaddf5681a9d4cbbbb4bac5f6b84a46a57ef5d9105047bb1970
+size 133

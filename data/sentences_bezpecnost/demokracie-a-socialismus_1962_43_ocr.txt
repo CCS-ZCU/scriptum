@@ -1,1 +1,3 @@
-jd~ bezpečnost práce nábor pracovní síla školení povyšování projednávání spor
+version https://git-lfs.github.com/spec/v1
+oid sha256:41e12f4fc2f664fa280be758a90db14c06e54f31fb8e99e65c6530837b0cfbf1
+size 91

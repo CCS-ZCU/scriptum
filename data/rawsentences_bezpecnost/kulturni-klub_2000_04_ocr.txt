@@ -1,4 +1,3 @@
-1952 obvod Znojmo zvolen v roce 1996 na 6 roků Výbor pro zahraniční věci, obranu a bezpečnost předseda Stálé komise Senátu pro krajany žijící v zahraničí Stálá delegace PCR do meziparla- mentní unie JUDr.
-1941 obvod Ostrava - město zvolen v roce 1996 na 6 roků místopředseda výboru pro zahraniční věci, obranu a bezpečnost Stálá komise Senátu pro krajany žijící v zahraničí Stálá delegace Parlamentu CR do shromáždění Západoevropské Unie 14  Bohumil KULHANEK ODS narozen: 26.
-1947 obvod Praha 4 zvolen v roce 1996 na 4 roky Výbor pro zahraniční věci, obranu a bezpečnost Stálá komise Senátu pro krajany žijící v zahraničí Projev pro čtenáře určený k publikování v krajanském časopise Praha, 6.
- s oblasťou čiernej práce a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d776996bb8aeb5fd48e31c392c6c0942ac7c2d9ef2dc08a8bdbfbcf92d2b331
+size 804

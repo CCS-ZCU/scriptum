@@ -1,3 +1,3 @@
-říci vidět nebezpečí situace odhodlaný ustupovat mrtvola moci udělat puč země
-plavba Hamburk hrozit bezprostřední nebezpečí záplava řeka musit uvolňovat ledový bariéra vzniknout nebezpečí záplava dolní tok řeka Slovensko
-důraz klást kultura vystavovat nebezpečí problém omezovat intelektuální elita
+version https://git-lfs.github.com/spec/v1
+oid sha256:292f7bd00b6c545d83e2dd0132cd1000232631138bcb82346170ab292038858f
+size 329

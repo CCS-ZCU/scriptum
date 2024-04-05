@@ -1,8 +1,3 @@
- Zástupci úřadů sedmi bývalých komunistických zemí, které se věnuji dokumentaci spisů státních bezpečností, podepsali dohodu o mezinárodni spolupráci.
- Účastnické země, jako je Francie, Německo, Anglie, Portugalsko, Spojené království a vlastně i Polsko, by si měly uvědomit, že kupříkladu malé Česko prošlo ve svém dějinném vývoji krutou anabází, po které pro jeho bezpečnost tehdejší prezident Beneš vydal uzákoněné dekrety.
- Obama nazval izraelskou bezpečnost „nonnegotiable“, ale kritizoval židovské osídlení na západním břehu Jordánu (West Bank).
- Příkaz k zatčení prezidenta Omara Hassana Ahmeda Bashira, který vydal nezávislý Mezinárodní trestní soud, může situaci v Dárfúru zhoršit Latinská Amerika Obama mluvil o potřebě posílit bezpečnost na hranici Spojených států s Mexikem, aby se omezil příliv ilegálních imigrantů a mezinárodních gangů.
- Stát totiž už není schopen zajistit svoji bezpečnost v oblasti životně důležitých surovin (ropy, plynu, potravin), neparticipuje na finančních operacích, nevybírá cla, neovlivňuje obchod a nikterak není schopen chránit domácí výrobce.
- Zatímco bezpečnost a zachování samostatnosti, a tím i sociálního prostředí, velí se oddělit, ekonomické úvahy velí se otevírat Kde je hranice těchto dvou protichůdných snah? V době, kdy nejsou problémy s dovozem, dopravní tepny jsou zajištěny pro všechny strategické produkty, určitě by lidé odmítli se uskrovňovat z nějakých bezpečnostních a sociálních důvodů.
- Každá snaha o střední cestu, zajištění alespoň částečné autarkic a bezpečných domácích zdrojů, vždy zanikne v ekonomických rozvahách pragmaticky smýšlejících lidí, kteří vždy hodí za hlavu bezpečnost a rozhodnou se pro současný blahobyt Jen vysoce prozíravý a morální národ by mohl vydávat vysoké náklady na vlastní bezpečnost.
- Otec byl největší sedlák ve vsi a státní bezpečností plánovaný trest smrti za sabotáž měl vyděsit ostatní sedláky bránící se kolektivizaci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9bdab0468ad027c4666a873504393332da2d3b49bda7467d0cd193732b03d2e
+size 2133

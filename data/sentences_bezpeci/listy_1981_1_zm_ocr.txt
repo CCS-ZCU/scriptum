@@ -1,1 +1,3 @@
-stálý připomínka vinoucí celý text dít západ oko západný mysl zaznamenávat rozumět
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccffabf98302a5a6f40e4312bf20eb37e4f3db93cb45c402c6a589a55d8dec54
+size 98

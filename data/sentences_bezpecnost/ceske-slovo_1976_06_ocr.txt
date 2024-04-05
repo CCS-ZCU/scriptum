@@ -1,3 +1,3 @@
-exil mít směr důležitý úkol dodávat západní vláda příslušný parlamentní komise mezinárodní parlamentní organisace vhodný materiál porušování lidský právo CSSR dodržování závazek uvedený článek závěrečný akt konference evropský bezpečnost spolupráce
-velký zájem soustředěný referát debata praktický provádění závěrečný akt konference evropský bezpečnost spolupráce
-státní bezpečnost kriminální oddělení veřejný bezpečnost pátrat arabský student prodávat černý trh pětirijálový mince arabský šejchanát perský záliv obsahující obraz Jan Palach
+version https://git-lfs.github.com/spec/v1
+oid sha256:145bbb4f06a53e7ce02fff7d0b8cd83b5e050e9c8f849622dc014a83229fb313
+size 622

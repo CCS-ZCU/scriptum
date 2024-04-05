@@ -1,1 +1,3 @@
- Většina otázek se týká ubytování a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1976377b545e69e793cefa074fa82b3702130b848fd02b26338dd62b1a9fcca4
+size 57

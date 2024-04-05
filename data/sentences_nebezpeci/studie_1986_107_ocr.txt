@@ -1,4 +1,3 @@
-paměť psát léta prošení přijít počátek rok kýžený dovolení smět odejít misionář zahraničí
-lidé oblíbit váhat sdílet společný nebezpečí
-Paříž hlásat anti fašismus docházet Moskva čistka německý munista léta zastávat podstata upýt zorňovat nacistický nebezpečí Stalinův politika Stalinův generální linie
-moci vzejít veliký nebezpečí blaho veřejný veřejný bezpečnost život stát upadnout lidé zoufalství mít obava moci je&ít ztratit osmělovat důj získat získat provést rozvrácení stát řád
+version https://git-lfs.github.com/spec/v1
+oid sha256:460e64f6f4658796afccc6c1bf3885c4dee137e53eeb673b9de73b159fa5b019
+size 558

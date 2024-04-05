@@ -1,1 +1,3 @@
- Vytrženi zteplá domova a bezpečí máminých sukní, vrženi do jámy lvové, které se říkalo ŠKOLA, obklopeni človíčky s úzkostí v očích, čekali jsme, jaký osud nás potká.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a124e337f6c960008ec9038a34ad218db4f183bf74bcb812ba92f04b643f847a
+size 192

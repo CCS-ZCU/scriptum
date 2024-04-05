@@ -1,1 +1,3 @@
-známý bezpečí hrozit celý kraj uvý žený vykořisťování kontrolovaný znečištění příroda ovzduší
+version https://git-lfs.github.com/spec/v1
+oid sha256:8708629e26d1c71a5c2930c69592908c4ff981e54e28e9b9d8e501a195e4e4f2
+size 115

@@ -1,1 +1,3 @@
-Len jednota zaistit bezpečnost možnost slobodný kultúrne sociálne hospodársko politický vývoja
+version https://git-lfs.github.com/spec/v1
+oid sha256:a889b5592e8c7512c8b5226ab8c18b256a85442aacb179c9c72a5b3d77d70705
+size 103

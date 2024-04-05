@@ -1,1 +1,3 @@
-bezpečnost báhna
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8c253a073c8fee1725190f1d64ab59bb8c7be7d363285e0345de67fd1b0f2ff
+size 19

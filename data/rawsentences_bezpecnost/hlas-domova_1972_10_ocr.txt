@@ -1,1 +1,3 @@
- Diky zásahu Bezpečnosti byli však vypátrání a “když bylo z tribuny na berounském náměstí oznámeno jejich dopadení, ozval se takový potlesk, -že bude jistě dlouho znít 'varovně v uších všem, kteří .
+version https://git-lfs.github.com/spec/v1
+oid sha256:2329b64e773784fbd746dc4c38956794a8f85d441e733e22255b2dcabf173b57
+size 224

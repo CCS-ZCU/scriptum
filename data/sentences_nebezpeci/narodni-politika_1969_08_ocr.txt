@@ -1,6 +1,3 @@
-velký nebezpečí znamenat hrozící inflace
-Rašínův snaha vyvěrající velký oddanost národ vlast anarchista chápaný velký nebezpečí rodící komunismus
-bojácný český člověk muž ocel pracovník oddaný vlast revolucionář budovatel vydechnout
-nebezpečí vliv vojenský člen politbyro rozhodnutý invaze trvalý obsazení Československo
-náznak zvyšovat nebezpečí inflace
-válka hluboký mír hrozit nebezpečí hospodářský utonutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e55952235052bd431c0761724f692566b1de7b3282666cd4e9b492543d2942c
+size 462

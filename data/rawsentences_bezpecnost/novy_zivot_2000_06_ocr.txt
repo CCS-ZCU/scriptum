@@ -1,1 +1,3 @@
- * * * Arcibiskup Jenštejn může v zavraždění světce Jana z Nepomuku vidět osudový stín nad sebou: uprchne z Prahy, ale král mu slíbí bezpečnost - vrátí se tedy, chce veřejně protestovat, ale jeho vlastní kapitula ho zradí, a část kanovníků se po- staví na královu stranu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33df2dc87930c53f1eb9bedbe88f032ecb5e53038f5b0df0dd25237aedd7dffb
+size 298

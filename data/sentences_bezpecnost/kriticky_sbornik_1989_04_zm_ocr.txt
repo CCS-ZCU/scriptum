@@ -1,1 +1,3 @@
-roveň jít rozkrádání společný majetek dostý tečný péče bezpečnost práce nízký mentální úroveň profesionální zdatnost příslušník požární abor
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed8e876afded361fbb4ba49b04625ece0ccc2906b07c3a64fc68d71fd7873e5d
+size 161

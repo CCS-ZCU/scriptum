@@ -1,3 +1,3 @@
-chvíle celek uvědomit nebezpečí
-dnešní světový nebezpečí horší
-mínění přesvědčovat svět nebezpečí hrozit totalitní režim
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c3410ded3ff500633037466da4ce3330afdb9a9b28da3bf4dd149b5131c53f
+size 143

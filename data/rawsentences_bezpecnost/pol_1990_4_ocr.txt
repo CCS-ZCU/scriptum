@@ -1,24 +1,3 @@
- Vyjadřoval pocity té generace, která nastoupila do boje proti komunismu už tenkrát, když ještě Státní bezpečnost nezvala na kafe, nýbrž na kopance.
- žádným skeptikem nenapadnutelně pravdy patři i tato: Tisíce československých občanů spolupracovalo s charitativní organizací zvanou Státní bezpečnost na jejím základním úkolu - terorizováni obyvatel této země.
- uď^ači, ruku v ruce s profesionály Státní bezpečnosti, dostali stovky československých občanů na šibenici, desitky tisíců do vězení (shodou okolnosti asi stejný počet jako je jmen na opatrovaném seznamu), statisícům pokazili život a miliónům jej otrávili.
- Odpadky pokrokové společnosti je nemívají: nebo (na přátelskou domluvu Státní bezpečnosti) se jich manželky a děti včas zřeknou.
- Pravda o záležitosti Československý seznam spolupracovníků Státní bezpečnosti - a co s nim? je prostá.
- Dnes, po jeho osvobození z diktatury komunistické strany a Státní bezpečnosti! Jsou ve státních orgánech, v politických organizacích a stranách, v úřadech, podnicích, kulturních a vědeckých ústavech, ve školách - od nejnižšich složek až k velmi vysokým.
- PAVEL PECH ÁČEK  4 PÓL 4/90 RUDOLF HILF Bezpečnost nejen pro Nemce V Paříži započíná 19.
- listopadu vrcholné setkáni KBSE, Konference pro bezpečnost a spolupráci v Evropé, označované jako Hel- sinki II.
-mostem“ mezi Západem a Východem? Nepovede takový pokus lim spíš k německo-sovětské kooperaá? To vše jsou otázky evropské bezpečnosti, které nejsou zodpovězeny faktem, že se Němci sjednotili a zůstávají v NATO.
- To znamená, že by z hlediska konceptu Středu jako mostu bezpečnosti a rovnováhy moci měla připadnout nová role také Praze jako městu se slavnou evropskou minulosti.
- Také pod tímto aspektem třeba posuzovat připojené Memorandum k otázkám evropské bezpečnosti Bylo před několika týdny předloženo k diskusi v interním bulletinu .
- Memorandum bude na jaře příštího roku projednáno na mezinárodním sympóziu k otázkám bezpečnosti Evropy, které bude svoláno do Prahy.
- Memorandum k otázkám evropské bezpečnosti I.
- Jaká například bude pozice ostatních středoevropských států - Československa, Polska, Madarska a dalších -ve véd evropské bezpečnosti? Mohou se stát rovněž členy NATO? Musejí zůstat ve Varšavském paktu? Jaký bude poměr mezi NATO a Varšavským paktem, případně tím, co z něho zbude? Tyto ajiné otázky nyní vyvstávají.
- To znamená v pozitivním smyslu: Spojení bezpečnosti pro Německo (v NATO) s bezpečnostním řešením pro celou střední Evropu, které poskytne bezpečnost také zemím východní a jihovýchodní části střední Evropy a zahrne také Sovětský svaz do této dohody.
- Jedině tímto způsobem lze ostatně zajistit bezpečnost východní části střední Evropy Je to možné pouze tenkrát, jestliže NATO i Varšavský pakt budou v kontaktní a konfrontační zóně překonány středoevropským bezpečnostním systémem, jenž bude zahrnovat Německo, Polsko.
- masových organizaci, armádě, bezpečnosti Během dvou let se jejich počet pohyboval mezi 200 až 250 tisíci.
- Její předsednictvo, sekretariát, svazové a nižší orgány se ekonomickým záležitostem věnovaly ještě častěji a mnohem konkrétněji Sociální, kulturní oblast, bezpečnost práce a pracovně právní otázky měly zcela podřadné, doplňkové místo v jejich činnosti.
- Přehled o jejich počtu chybí, o jejich existenci se zmiňovaly jen zprávy odborových tajemníků Stávky byly živelné, krátkodobé, s různými výsledky Mnohdy proti "aktivním účastníkům" zakročovala Státní bezpečnost K významnějšímu protestu proti zrušeni vánočních příplatků došlo v roce 1952 v Brně, kde několik tisíc dělníků demonstrovalo ve městě; zasahovala proti nim bezpečnost Největší vlnu stávek a nepokojů vyvolala peněžní reforma v červnu 1953 Peněžní reforma znamenala prudký pokles životni úrovně všech obyvatel, nejvíce postihla rodiny s více dětmi Silná nespokojenost v mnoha závodech přerostla v otevřenou kritiku komunistické politiky a vlády, ve stávky a demonstrace Do pohybu se daly závody, které mocenská skupina dosud považovala za svoji oporu, mnohé podniky těžkého průmyslu a doly Oficiální statistika uvadéla stávky ve 129 závodech s více než 32 tisíci účastníky Počet stávkujících byl ve skutečnosti několikrát vyšší.
- vytáhli obraz prezidenta Masaryka Místní Bezpečnost byla bezmocná a ztratila odvahu k zásahu, politični funkcionáři nebyli schopni situaci zvládnout Podařilo se to až vojenským útvarům a jednotkám lidových milici, speciálně do Plzně vyslaným.
- Poté Bezpečnost zatkla 104 osoby, z nichž 99 určila jako nejaktivnéjši Komunistické vedeni rozhodlo účastníky stávek a nepokojů potrestat Jíž první den (1 června) poslalo krajům příkaz: "V místech, kde došlo k provokacím, je třeba okamžitě pořídit seznamy lidi, kteři se jich zúčastnili, tyto lidi soustředit a izolovat a okamžitě přemístit do pracovních táborů.
-" Celkem Bezpečnost zajistila 472 osoby, ne všechny šly před soud, některé skončily v pracovních táborech Komunistické vedení rozšířilo politickou mstu na další tisíce účastníků stávek, tj.
- Zdroje těchto zpráv byly rozličné: jednalo se o informace od vlastních spolupracovníků, od členů KSČ ve Státní bezpečnosti, ale také např.
- Formálně podléhalo oddělení vedoucímu odboru Mezinárodní politika a bezpečnost, který sám podléhal generálnímu tajemníkovi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c02e9407f6657d353ce1aec6d061c62d2f2e25cdd166d6a8128dfd96bf29667
+size 5766

@@ -1,1 +1,3 @@
- Navrhuje a projektuje systémy pro vyšší bezpečnost obou českých atomových elektráren.
+version https://git-lfs.github.com/spec/v1
+oid sha256:594916e3016ad708844766d28b7cb977f0011f72c1ca1fd93a86cf1783d037d6
+size 96

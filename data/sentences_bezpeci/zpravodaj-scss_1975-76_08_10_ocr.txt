@@ -1,3 +1,3 @@
-zeď pomáhat pravit starý ruský přísloví domov podstata jiný bezpečí
-jmenovat desítka autor uplynulý léta opustit Československo zachránit publikační mož nost lze zachránit přirozený bezpečí domov podmínka tvorba
-konečný cíl setkání Helsinky svět stát obyvatel domov místo bezpečný komunikativní muset jít domov vrácený bezpečí rozvrácený přestat terén tvorba
+version https://git-lfs.github.com/spec/v1
+oid sha256:8daafe8317a3ac7a50d2cbe634b1bcdb71d432a18ed90d100aa0c000d829a4f3
+size 404

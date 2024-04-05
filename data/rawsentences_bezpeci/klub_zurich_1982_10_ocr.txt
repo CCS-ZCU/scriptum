@@ -1,1 +1,3 @@
- usínám hned, sotva lehnu, vždyt ty sám, Pane, poskytuješ mi bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37c202966fc3e5495e276cfba68c2bc5be664a9c93b949fb08a0ad147c94391
+size 77

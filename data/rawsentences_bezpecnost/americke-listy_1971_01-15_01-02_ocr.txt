@@ -1,3 +1,3 @@
- A zároveň hlásí svědci, že se ministr Kaska skutečně odklonil od svého šéfa a přimkl spíše k prosovětským plukovníkům bezpečnosti, že se podobně chová i jiný Husákův “kádr", ředitel rozhlasu Riško, který y vu znháj.
- Šlo o relace, v nichž se probírala minulost tohoto pána, kdysi příslušníka Státní bezpečnosti.
- Včetně Československa, kde jeho exponenti, navzdory demonstrativnim odchodům některých příliš okatých konzervativců, získávají pevnější pozice především v aparátu strany a v bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69ea70aea4c410453027efc48aab7439a70edef0560f25a1ef983cc72c4b0a6b
+size 566

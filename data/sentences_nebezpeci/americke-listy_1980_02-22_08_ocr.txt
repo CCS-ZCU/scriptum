@@ -1,1 +1,3 @@
-poslanec radikální strana terorismus obávat nebezpečí zneužití zákon
+version https://git-lfs.github.com/spec/v1
+oid sha256:434431d57aa5183061080eb78446fda2131945937453c4b7a40251654661b286
+size 77

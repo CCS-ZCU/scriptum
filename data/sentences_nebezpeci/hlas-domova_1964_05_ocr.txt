@@ -1,4 +1,3 @@
-nebezpečí válka Borneu konfrontovaný konfrontace indonéský president zvláštnost
-bod končit veselohra začínat opravdový nebezpečí Sukarnův konfrontace Malasie moci rozrůst velký
-nebezpečí válka
-znát paní Trotterová osoba čestný spolehlivý vědět peníze moci nechat jméno nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:68aa0fa1d4246b279a591771dbd3749bd644c1eb333df60ee47c867a6b392bc5
+size 311

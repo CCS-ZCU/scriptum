@@ -1,3 +1,3 @@
- Zvolila bezpečí a jistotu.
- Česká měna podle domácích analytiků skutečně představuje regionální přístav bezpečí, ale na nic víc nemůže aspirovat.
- století sice působilo ničivě dvěma světovými konflikty a expanzí různých nenávistných ideologií, na druhé straně však zejména v jeho druhé polovině vznikl sociální stát, který zajistil velké části občanů solidní životní úroveň, bezpečí a stabilitu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128c3a44206ac278f641789bcd4c62ef1393f1400369bab173ea5342c8b13b8f
+size 452

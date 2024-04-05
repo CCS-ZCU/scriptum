@@ -1,2 +1,3 @@
- Všetko, čo sme povedali ohľadom niektorých ťažkých situácií, vyžaduje všimnúť si skutočnosť, že každá rodina musí mať záruku Istej bezpečnosti, aj Čo sa týka bývania, aby mohla splniť svoje vlastné poslanie.
- Právo na strechu nad hlavou zahrňuje pojem bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03cd6e5b017016faf464dbb026865f61577bd0cf65fc096e41dcb46aa419c149
+size 296

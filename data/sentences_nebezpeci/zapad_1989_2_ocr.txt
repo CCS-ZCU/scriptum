@@ -1,1 +1,3 @@
-předstat vojet nebezpečí říkat poručík kněz
+version https://git-lfs.github.com/spec/v1
+oid sha256:94047df151b63dc509a4043fd61de219472115cedf34fbcf316896674beb363a
+size 50

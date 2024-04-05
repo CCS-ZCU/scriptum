@@ -1,2 +1,3 @@
-výbor podvratný činnost senátní výbor vnitřní bezpečnost kon gresní výbor americký čin nost McCarthy stálý vyšetřující výbor placený zaměstnanec
-satelit vědět znamenat bezpečnost existence tábor socialismus demokracie vedený sovětský svaz čínský lidový republika
+version https://git-lfs.github.com/spec/v1
+oid sha256:be623ca664b19f428911750710f2fd935f9b2d62b5d8cef586e2e9c18b780bb6
+size 295

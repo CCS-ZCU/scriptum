@@ -1,3 +1,3 @@
-ilo rutina logika každodenní život obr cejíce mikrosvět stěna cítit bezpečí
-charta pochopit smrtelný bezpečí vznikat naprostý rezignace režim zachování základní životní funkce lidský společenství vlastní mýtus mytologie nabídnout režim mož společný hledání východisko
-tendence tlačit výbušný argument starý blokový schéma představovat vážný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef105ebdab308c976d2890909dce54807db020f8deaca0110412ded42850454
+size 85

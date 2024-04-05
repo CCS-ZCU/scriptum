@@ -1,7 +1,3 @@
- 2  MÄSÄSGM INTERNATIONAL HELSINKI ASSOCIATION ASSOCIATION INTERNATIONALE D’HELSINKI INTERNATIONALE HELSINKI VEREINIGUNG MEZINÁRODNÍ HELSINSKÉ SDRUŽENÍ Na právě probíhající madridské evropské konferenci o bezpečnosti a spolupráci v Evropě bylo ustaveno Mezinárodní helsinské sdružení (IIIA), složené ze zástupců všech 35 zúčastněných států.
- Sdružení, které je nezávislé na vládách jednotlivých zemí, podporuje organisace a skupiny obhájců lidských práv ve všech zemích, které podepsa- ly Závěrečný dokument o bezpečnosti a spolupráci v Evropě v Helsinkách, koordinuje jejich spolupráci, chrání je před vládními a policejními zásahy, informuje občany jednotlivých zemí o dodržování Helsinského protokolu, předává stížnosti o porušování Helsinské dohody evropské konferenci a Organisaci spojených národů a dbá o jejich projednání a morálně a materiálně podporuje oběti politického pronásledování ve státech, které Závěrečný akt v Helsinkách podepsaly.
- Členem Mezinárodního helsinského sdružení se může stát každý občan nebo kolektivně každá organisace ze všech 35 států, které podepsaly Závěrečný dokument o bezpečnosti a spolupráci v Evropě.
- Jenže ta — jak známo — je vyhražena pouze vozům Bezpečnosti, i když jsou tam vyhražena tři místa pro auta loutkového filmu.
- Aby měla dušička strážce pořádku pokoj a pan Werich mohl zůstat parkovat v Bartolomějské ulici, poslal jsem produkčního s lístečkem na Hlavní správu Veřejné bezpečnosti.
- Je sám se svými tajemníky, předsedy, státní a veřejnou Bezpečností, s některými armádními důstojníky, prokurátory a soudci, se svými vězeňskými dozorci - je sám především se svými patrony: s okupační sovětskou armádou.
- Tady v Německu se mi jednou něco zdálo o Státní bezpečnosti; to je výjimečné, netrpím vězeňskými či policejními sny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2864d94cb490aaf91dbd5d50ebbc19acfabecd4abd2f1ec0bd266e09dcde58
+size 1986

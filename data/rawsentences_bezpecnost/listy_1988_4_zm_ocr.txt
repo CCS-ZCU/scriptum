@@ -1,14 +1,3 @@
- Teprve později se dozvěděl, že do jeho bytu ve vile ve Střešovicích, přišlo ráno několik mužů, aby prý zajistili Smrkovského ochranu, že je poslal šéf státní bezpečnosti Šalgovič.
- Preto ani naša armáda, bezpečnost' a L'udové milicie nedostali roz- kaz na obranu krajiny.
- Akce bezpečnosti, které v průběhu několika dnů přivedly vniveč Husákovo dlouholeté úsilí, aby Československo ztratilo punc země soustav- ně porušující helsinská ujednání, nejdou na vrub jejího neobratného počínáni.
- Na manifestáciu veriacich a ich priatefov sa očividné připravovali aj strážcovi a veřejného poriadku, zaplnili chodníky i širšiepriestranstvá medzi nimi: a nielen oni!Kol dokola parku krúžili neustále v hustom zoradení ťažké nákladné vozidlá Dopravných podnikov města, Technických služieb, Verejnej bezpečnosti aj iných podnikov, zapínali vozovku na všetky štyri strana tak, že ledva pomedzi ne tu i tam dakto ešteprebehol, aby prešiel ta, kde zástup veriacich hustol v dav.
- Chytil ma příslušník Verejnej bezpečnosti za rameno, právě keď som zabočiacz námestia do Stra kovej ulice chcela vyjsťdo prvého domu ho re k rodině, že odtiaF z ba lkána všetko najlepšie uvidím.
- AP se hlásil k politice mírového soužití s rozvi- nutými kapitalistickými zeměmi a zdůrazňoval, že „naše zeměpisná poloha, jakož i potřeby a možnosti průmyslové země vyžaduji, abychom prováděli aktiv- nější evropskou politiku, směřující k rozvíjeni vzá- jemně výhodných styků se všemi státy a mezinárod- ními organizacemi a k zajištění kolektivní bezpečnosti evropského kontinentu".
- V Moskvě nás čekali zástupci Sovětského výboru pro evropskou bezpečnost a spolupráci.
- Blechta,jenž získal prostřednictvím ministrů Vajnara a Václavíka podporu bezpečnosti a armády.
- — Jsme projednání na všech úrovních, které posílí bezpečnost a důvěru mezi národy.
- 729 o represivních akcíchStátni bezpečnosti mj.
- 734 informuje o obvinění mluvčího Charty 77 Stanislava Devátého, při němž major Státní bezpečnosti Vlastimil Daněk vyhrožoval Devátému zlikvidováním.
- 1988 vtrhla do bytu manželů Vodráž- kových v Praze na Starém Městě Státní a Veřejná bezpečnost.
- Státní bezpečnosti je přitom dobře známo, že 601etý Jaroslav Šabata je kardiak, který prodělal dva infarkty a je po více než sedmiletém žalářováni v 70.
-Způsob, jakým s nim bylo naloženo, naznačuje možnost návratu k teroristickým tendencím, které se v nezákonné činnosti Státní bezpečnosti projevovaly zejména v letech 1978-82.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e5fabc19c5787c5a9211a6151c81e4a170f17f38f1b0110bd24063411f337f
+size 2693

@@ -1,1 +1,3 @@
- Krize je překonána, Bohuška se cítí v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b342f66cc5d50744b32d988c85e384735ca9310541bffd52a86934bf1e5a58e
+size 55

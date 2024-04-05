@@ -1,1 +1,3 @@
-záření vidět cítit hmatatelný nebezpečí přítomný
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf3c08f330b5a604fc048b2ff6bf33dab5b4d091c5cabd21f7f1e6b9820a10d6
+size 60

@@ -1,1 +1,3 @@
- "Naše bezpečnost má více než 70.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa27a5ceb7dc09a812e6ff9b92d2f39ce071066ec78ca94dd0696261932a4131
+size 39

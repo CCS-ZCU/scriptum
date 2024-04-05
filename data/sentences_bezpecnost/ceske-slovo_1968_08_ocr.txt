@@ -1,1 +1,3 @@
-zaručovat lidé samostatnost bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c88e84ee1f07268810c3591bfe6ba334f2cda337943fbe0ca67ced350d4c9c9
+size 42

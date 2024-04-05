@@ -1,2 +1,3 @@
-zklamání nebezpečí zažít země vládnout podlé marxismus
-hlava stát znamenat okupant velký nebezpečí jmenovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:d034355bbbe4965d23f8954e8511d36457cdc8ddd16af6206198ddc6c30d6f63
+size 123

@@ -1,7 +1,3 @@
- V ujařmených částech světa riskují lidé osobní bezpečnost v zápase za svobodu, ve svobodných pracují jak mravenci, aby jí zakroutili krkem.
- Vilém Hejl Stížnosti Kdo čte a navzájem srovnává tak oficiální prameny, jako je Rudé právo a Tribuna, musí nevyhnutelně dospět к závěru, že jediné, co u nás skutečně dokonale a bez chyby funguje, je bezpečnost a justice.
- 0 to, že někdo je pár kroků od budovy Státní bezpečnosti vtažen do auta, spoután, zmlácen, v bezvědomí pohozen v lese padesát kilometrů za Prahou.
- Bezpečnost a prokuratura se nestarají o zločin, ale vyšetřují a obviní toho, kdo splnil zákonem uloženou povinnost.
- Jak se potom lze divit, že stále existuji ty už citované "projevy zvůle"? Přitom se ale po dlouhá léta v oficiálním tisku a projevech nevyskytla jedna jediná zmínka o zvůli tam, kde se s ní občané setkávají v její nejzávažnější podobě, v bezpečnosti a justici.
- Neexistuje jediný obor lidské činnosti, o kterém by_se napsalo tolik oslavných článků a rádoby literárních prací, jako jich vychází o bezpečnosti a justici.
- Za to vsak máme Den dělostřelectva, Den sovětské armády a sovětských námořníků, Den Sboru národni bezpečnosti, Den letectva, Den Pohraníčni stráže, Den čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99af7aac1911f3132b182423776e45b17b4e009b35153811ac901c35808f1608
+size 1324

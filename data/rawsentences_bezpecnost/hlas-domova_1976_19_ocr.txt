@@ -1,4 +1,3 @@
- — V Praze měli vzácnou oficiální návštěvu: delegaci Výboru státní bezpečnosti při radě ministrů SSSR, vedenou členem politbyra ÚY KSSS a předsedou Výboru státní bezpečností Andropovem.
- Státní bezpečnost .
- září byl slavnostně zahájen první školní rok na nově zřízené důstojnické škole Sboru národní bezpečnosti v Bratislavě s celostátní působností.
- bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5125f92d9bbbb73e878756abfcc8d8d91cda1af3bfa82f01baeddffa76bde114
+size 416

@@ -1,1 +1,3 @@
- hlavní slovo měl přitom Mirek ae svým minlreferátexu o bezpečnosti aešieh výtahů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0610490c3a96753e9cff182f634399682cb9f1fa85aa6f7fee9f868de345c9af
+size 92

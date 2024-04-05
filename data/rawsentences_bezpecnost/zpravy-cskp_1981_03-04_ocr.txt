@@ -1,1 +1,3 @@
- MADRIDSKÁ KONFERENCE o Bezpečnosti a spolupráci v Evropě přerušila na velikonoční svátky zasedání.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b2fdafa16476b4b6fe6718c898a37d125cd43602887bb68e7e9dd5b6881d5f
+size 111

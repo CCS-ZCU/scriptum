@@ -1,3 +1,3 @@
-Karlův Vary úsilí evropský bezpečnost podmíněný uznání NDR ochrana suverénní právo
-světový trh číhat konkurence prosincový zasedání shromáždění západoevropský unie Paříž složený parlamnetmí zástupce stát společný trh Belgie Francie Holandsko Itálie Lucembursko německý spolkový republika hovořený politický jednota Evropa spolupráce Evropa spojený stát diskutovat téma spojený stát evropský bezpečnost
-odvezený léčení Kroměříž prohlašovat najblý příležitost zabít stát moci žít
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f4517d13e32f512c22fe501781c4a966f054fac36e0da58ce22e77ddf9ae83
+size 546

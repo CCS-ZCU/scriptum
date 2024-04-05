@@ -1,4 +1,3 @@
-odsuzovat čínský hegemonismus pokládat projev odvěký krutý mentalita Cíňan podivovat liberální postoj velký evropský stát žlutý nebezpečí
-dějem prosakovat pocit odvratný nebezpečí spojený les
-dávat nepřítel osvět pozor podezřívavý
-jít lákavý cíl vyloučený nebezpečí hybridní dílo čtenář chápaný druh fantastický traktát filosofický dialog duch Synovec Rámo psát latinka
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c533164e9439cb954eeeb2035c577fe18a4925912b5af5c5165d81ab0670339
+size 420

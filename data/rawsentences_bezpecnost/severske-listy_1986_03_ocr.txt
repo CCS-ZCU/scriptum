@@ -1,2 +1,3 @@
- My nemůžeme brát ohled na USA či jiné, pokud se týče obrany naší národní bezpečnosti.
- Bezpečnost bílých záleží na tom, jestli se černí ztotožní s vládou a se vším.
+version https://git-lfs.github.com/spec/v1
+oid sha256:989748c903dd4beb9c25d30c228f6677164ebfaf117eff0f7354fc6ae6e52ebc
+size 191

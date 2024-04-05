@@ -1,1 +1,3 @@
- Členové komise se nemálo podivil: tomu, že zlato bylo uloženo jen v obycejnycb zásuvkách, bez tresoru a ani jinak nebylo náležitě postaráno o bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cf7a5587bbcac3aac00016c081d3624341457e560dfd64c0334a0d683f48fc2
+size 165

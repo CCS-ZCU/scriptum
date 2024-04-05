@@ -1,1 +1,3 @@
-březen dostat výzva dostavit bezpečnost podat vysvčtlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe15e750758d887555a8954379053031e8922f467dd599352645c4276e7b2459
+size 62

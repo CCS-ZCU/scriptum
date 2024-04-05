@@ -1,2 +1,3 @@
-jiný tvr dít návštěva Amerika ukázat Chruščov Američan stát otázka Berlín prese dento muž odvrátit nebezpečí kre získaný čas zhojit
-středověký pogrom pozdější útlak druh vychovat velký část Žid vlastnost předvídat vývoj událost rozeznat nebezpečí snažit vyhnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:0da043d77e1b6c3ab528127f6b5bf4aae13c52bb21d14c10b1f39bacc1b00986
+size 297

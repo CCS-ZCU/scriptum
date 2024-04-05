@@ -1,1 +1,3 @@
- Javor, jehož úcta k českému slovu je v jeho verších až rafinovaně vybíravá, ve svém spěchu chytat děj, si v ní dovoluje obraty zprofanované v próze špatné, jako když třeba píše, že jeho hrdina Pavel Radvan „myslil spise na vlahé Květiny rty“, žc „psal kouzelně křehké verše“ nebo žc Praha v květnu 1945 „ssála prvé doušky svobody, bezpečí a míru“ a podobně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65e53e0ce4c54b1865313a929f6d138cd05ee039a836f0f74c2fb10767f3c4b5
+size 410

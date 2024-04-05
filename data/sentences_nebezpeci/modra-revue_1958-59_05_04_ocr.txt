@@ -1,4 +1,3 @@
-sovětský Ofensiva hospodářský fronta naivní myslit sovětský svaz blok Evropa Asie představovat vojenský nebezpečí
-nebezpečí stadium studený válka
-nebezpečí aktuelní přímý válka zbraň
-zdát socialista nebezpečí následovat příklad socialista rakouský německý postavit komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3b74022b265dec6183a579fa8ab7b33dc1bf84be773ea5cdd01c6a38e3ccea
+size 309

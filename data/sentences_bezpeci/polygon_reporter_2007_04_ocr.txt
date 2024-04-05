@@ -1,1 +1,3 @@
-pamatovat řada zdejší domácí reakce mít mluvit žít celý léta západ pohodk bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:57229d421326c67b19225f0809cd1d20c7dfd55eaa491ad37752d24a66b491d4
+size 95

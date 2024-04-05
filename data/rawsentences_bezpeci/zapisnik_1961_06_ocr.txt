@@ -1,1 +1,3 @@
- dovolí, aby žila v bezpečí a bez strachu, je v očích stalinistň stejně tak málo užitečný jako hráz s trhli- Máme se skrývat s názorem, že uvažování tak zvaných dogmatiků je daleko věcnější a logičtější než Ohruš- čovovo přesvědčení o zbytečnosti a škodlivosti teroru? Nebezpečí destalinizaČních experimentů však bije ještě více do oŠ v satelitních zemích, kde se komunistická menšina drží pouze zastrašovacími prostředky proti vysloveně nepřátelské menšině, čekající na vhodnou příležitost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf572936394610007aa7ad8db7f2786beb1413571c42e36d7586c79d224a8a5c
+size 558

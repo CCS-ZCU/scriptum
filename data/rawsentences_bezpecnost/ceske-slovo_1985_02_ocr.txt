@@ -1,6 +1,3 @@
- Pro zvláštní zasedání Konference o bezpečnosti a spolupráci v Evropě, jež se bude konat na jaře v Ottawě a bude se zabývat otázkou lidských práv, poskytne Rada Československému národnímu sdružení v Kanadě dokumentaci o porušování lidských práv a základních svobod v Československu.
- V posledních letech jsme byly svědky silné touhy po svobodných odborech, po hospodářské reformě, po politické a náboženské svobodě, po opravdovém míru a bezpečnosti, po lidských právech, jak je slíbily helsinské dohody.
- Doufáme, že se dožijeme dne, kdy Sovětský svaz bude uvažovat jinak o své bezpečnosti, způsobem slučitelným se svobodou, bezpečností a nezávislostí svých sousedů.
- Počátkem ledna přišel na řadu bratr Milana Vlka , byl dvakrát zatčen a v budově státní bezpečnosti v Děčíně dvakrát při výslechu zbit.
- Ota Rambousek, publicista, prozaik, spoluzakladatel K-231, USA Je tomu pravé nčco málo přes třicetpčt let, co mi pečovatelé o bezpečnost státu v Plzni kladli na srdce: „Nekecej nám tu žádný fakta! Chceme slyšet pravdu!" A je nejen smutným faktem, ale i holou pravdou, že se čtením jsem opožděn.
- skokanů rozhořčení nad tím, že jury anulovala po nejdelším skoku Miroslava Poláka (90 m) výsledky prvních třiceti skokanů, prý v domnění, že „když Miroslav Polák skočil 90 m, dosáhli by nejlepší světoví skokani skoků, které by mohly ohrozit jejich bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b46c1112814ff7f3c89bea38d939ee928be7d822a1bef624294dce62f44fe48
+size 1498

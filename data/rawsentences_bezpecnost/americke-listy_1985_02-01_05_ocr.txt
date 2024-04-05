@@ -1,1 +1,3 @@
- Výpovědi z toruňského soud úího sálu dosvědčují, že Tajná bezpečnost byla zklamaná “slabosti vlády”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ac5569c8e9223fe22e3bc206ec9b5d240672680f84311b27de48acbfb15944
+size 121

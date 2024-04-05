@@ -1,4 +1,3 @@
-občan dát podnik souhlas společnost rok litr podnik armáda varšavský smlouva
-Miroslav Hegenbart vedoucí odda lení administrativní orgán KSČ řídit bezpečnost justice prokuratura
-stát početný armáda bezpečnost celý represivní sbor prostý člověk dovědět
-květen litr bezpečnost StB společnost člen VONS hodina litr číslo výbor znemožnit
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b1cbf2d0a00791d05c500702514ec64e72e94b99fef546fa5b41d58b062da2
+size 370

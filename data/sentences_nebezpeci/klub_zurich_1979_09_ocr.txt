@@ -1,7 +1,3 @@
-normanský katedrála Monreale Sicílie nebezpečí zhroucení
-řeka voda člun octnout nebezpečí rozbít dno kaněný
-perla růžence soba řadit nebezpečí nesčetný apoštolský cesta
-spočítat noc strávený nula širý nebe
-imou bůh vysvobodit nebezpečí
-smět nebezpečí ztratit víru>
-víra živý silný spolehnout slib služba moci strach šlapat hada štír podlehnout bázeň nebezpečí potkávat krok
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1997a26725d8421ab30b9da2c4dc59aa26251d5536966a1bd4d3e4a6fbaaee5
+size 422

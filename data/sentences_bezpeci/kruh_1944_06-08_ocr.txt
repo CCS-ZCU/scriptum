@@ -1,2 +1,3 @@
-dostat bezpečí získat klid čas moci připravit druhý světový válka
-smrt veliký privilegium vyřídit řádka noviny úhrnný vzdání pocta bezpečí politik promluvit popsat celý stránka noviny
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c4543b2c0fded2944d5d2af13c44fca5132cd4a13d33ff5d2448c88b7a92d8
+size 206

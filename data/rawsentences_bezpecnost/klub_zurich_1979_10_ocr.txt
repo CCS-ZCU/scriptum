@@ -1,1 +1,3 @@
- Cestovat Ae tam nesmělo pod záminkou, Že Ae nedá ručit za jejích bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e76495f0cbe1d09dd6401987f0ea0d287f3dc90c7fe6b2eb38d96ca88836f3cc
+size 85

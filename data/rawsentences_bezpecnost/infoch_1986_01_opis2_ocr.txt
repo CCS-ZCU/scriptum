@@ -1,5 +1,3 @@
- Je nám rovněž zřejmé, že existence Státní bezpečnosti a její .
-bezpečnosti v Gottwaldově.
- /Kromě Práva, lidu se nad tímto přirovnáním pozastavil s rozhořčením t<f é ”můj" sledovatel ze Státní bezpečnosti při jednom z výslechů.
- V poslední době byl různě šikanován Státní bezpečností a od září 1985 byl ve vazbě.
- V letech 1982 - 1984 byla tato shromáždění vždy rozehnána příslušníky Veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79f16bd7d7ddcb38b0b05fb991d4a22bafc22b9ec04f5e5a7c40ddce438e55b
+size 464

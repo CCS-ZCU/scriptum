@@ -1,1 +1,3 @@
- Maji například tendenci („romanticky" a „nerealisticky") dávat přednost svobodě před hospodářskou výkonnosti nebo bezpečím.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2d3c44f225d991717a9e411f94fb71dce953fd9516c58ca38092b74a9ceeaf
+size 140

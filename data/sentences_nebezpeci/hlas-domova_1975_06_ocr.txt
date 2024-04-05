@@ -1,3 +1,3 @@
-činnost muset vyvolávat napětí poznaný metoda přivolávat pocit osobní nebezpečí
-utajování ostražitost pocit nebezpečí
-nebezpečí organizovaný nehoda publicita zmenšovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec3e984c2f7ec60b331e9233172bf0e5a11bfb9e3405314e94355140ef588ff4
+size 187

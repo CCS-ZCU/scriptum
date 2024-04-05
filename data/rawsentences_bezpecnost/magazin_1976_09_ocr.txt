@@ -1,1 +1,3 @@
- Náčelník: (podpis) (razítko: Správa pasů a víz FMV) 681-75 Českoslovenští představitelé se podpisem Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě mimo jiné zavázali, že na úseku lidských práv a základních svobod budou "jednat v souladu s cíli a zásadami Charty OSN a s Všeobecnou deklarací lidských práv".
+version https://git-lfs.github.com/spec/v1
+oid sha256:72cf3ad791485da1317c34cec1593866b2d95c4442ab28b1cc710d1eec394be8
+size 358

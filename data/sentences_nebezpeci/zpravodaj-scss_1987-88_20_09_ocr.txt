@@ -1,5 +1,3 @@
-uvědomovat hrozící nebezpečí bít poplach
-status opravňovat volný pobyt Švýcarsko skrývat různý nebezpečí
-uprchlík vrátit hrozit nebezpečí postih
-Cincer dát otázka chtít protest dělat chtít neštěstí národ upozornit trajan Švýcar
-nebezpečí nákaza dobrý nálada pověstný mejdan mladý Čech slováký
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc7d187fb21b914099a49a8af50e9a0d6e46b44147886b90cf87762721b4363a
+size 334

@@ -1,1 +1,3 @@
-Štátek bezpečnost polica dentě ikuj preverium ohlásium
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcfe0c203b55a14fbb5c3ba48e12207d6faf66fcf75741fd2c5097e1eeb714d9
+size 60

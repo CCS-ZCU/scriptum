@@ -1,1 +1,3 @@
-Z OBSAHU Sedlák: Pozdravují vás všichni věřící a všichni svatí § želivan: Potřeba světla 9 Komenský: Žalm 9 jh: Skončily stranické prověrky 9 Vrána: Vertikální počet 9 Reynek: Dušiček 9 O.: Země, které navštíví Pavel 9 Hons: In memoriam 9 Památce kanovníka Kulače 9 Z dopisů 9 Stalo se ve Vatikáně, v Československu, v exilu a v katolickém světě 9 Naše povídka: Goepfertová, Zlatá neděle ROČNÍK XXII. ŘÍM. LISTOPAD 1970 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:84381caa60ea75f62947db2d199cd2b4ac976eb1bf3fa3914c1af0319c352263
+size 479

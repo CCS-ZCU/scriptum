@@ -1,3 +1,3 @@
-uvést úryvek těžký chvíle dějiny lidstvo plný nebezpečí plný naděje velký část úkol budovat spravedlnost zajistit mír
-znamenat ocitat nebezpečí sdružení dětský mládežnický organizace vzniklý místo SČM zastoupený
-katolický církev rasový odlučování ocitat nebezpečí škola přijímat žák student ohled barva pleť
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e61162d27e2e2b55b8733cfe912a2675c68d96d9c194d82a1953e497765c6a
+size 352

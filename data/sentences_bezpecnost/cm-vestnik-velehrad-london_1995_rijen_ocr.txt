@@ -1,1 +1,3 @@
-patera Středa přinášet nebe síla ochrana bezpečnost obležený
+version https://git-lfs.github.com/spec/v1
+oid sha256:05da99b8db4d2bd9c2cda9a642ce91781858b31fa966da81e68d0693ab2547dd
+size 69

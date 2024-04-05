@@ -1,1 +1,3 @@
- z á žit k y t a t r a n s k ý c h b a d a t e l ů Drid v bezpečí Hrobky se svěřuje s etnografickými poznatky i "Oni vyrábějí spoustu věcí pro národ} je to mladý národ* to se ml líbí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdcf914ae3c32fb85eea1c259e26f3a48ab5b3d9831d661ee59e763fe7b2bd87
+size 203

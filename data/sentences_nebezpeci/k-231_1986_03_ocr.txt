@@ -1,2 +1,3 @@
-podceňovat nebezpečí komunismus rozlézat celý svět
-nebezpečí perzekuce nutný brát
+version https://git-lfs.github.com/spec/v1
+oid sha256:5514336bf8b048d168752847e04b09be49fe3c6521e2076c981ff30b737230d2
+size 92

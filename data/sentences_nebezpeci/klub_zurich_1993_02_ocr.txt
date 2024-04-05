@@ -1,1 +1,3 @@
-pasivní účast dovolená nebezpečí pad budit pohoršení
+version https://git-lfs.github.com/spec/v1
+oid sha256:b183871e0cb2bad1d826adb2b866c4290f304864aa5ec3e2287843c4da9593dc
+size 61

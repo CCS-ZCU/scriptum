@@ -1,2 +1,3 @@
- Po šest let se komunistickým - vojskům nepodařilo to, co se jim nyní podařilo prakticky v méně Světovým tiskem proběhla zpráva o Brežněvově iniciativě svolat vrcholnou konferenci státníků 35 států v rámci konference o bezpečnosti a spolupráci v Evropě.
- Byli obviněni — a při výslechu již se prý přiznali k tomu —, že od roku 1959 pracovali pro československou státní bezpečnost, kterou informovali o zaměstnancích a návštěvnících francouzského velvyslanectví v československém hlavním městě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4a936ec366f51021a73d18ef88843220c9ded387cdf77bddaa641af1a633854
+size 548

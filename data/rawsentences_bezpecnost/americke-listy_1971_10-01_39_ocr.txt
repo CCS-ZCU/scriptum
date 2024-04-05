@@ -1,2 +1,3 @@
- povězení diplomaté se zabývali špionáží a že jejich činnost ohrožovala vážným způsobem bezpečnost Velké Bri.
- celoevropské konference — jejímž smyslem by bylo posílit prý bezpečnost evropských států, dohodnout se o postup.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ab0465a4a842fdeae6e92a219eb51ce4831a507ad5aec82a452f5754fb4054
+size 252

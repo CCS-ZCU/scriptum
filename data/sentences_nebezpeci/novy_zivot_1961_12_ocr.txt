@@ -1,6 +1,3 @@
-velký nebezpečí
-snažit nabýt vláda věc změnit vnější vzhled upadat nebezpečí zanedbávat zeslabovat tělesný duševní síla
-případ příslušný biskup kněz dosažení bud snoubenec hrozit nebezpečí smrt dát předvídat kněz čekat měsíc moci snoubenec uzavřít platný církevní sňatek kněz svědek
-tehdější všeěvropský hnutí sledovat cíl mít semknutí evropský národ usmíření francouzsko německý zabránit nový válka
-prospěch Panevropa působit rostoucí německý nebezpečí Anglie
-smysl přednáška podaný Evropa muset spojit mít odolat dnešní nebezpečí vnější vnitřní spojení posta čitelný tvar spolek stát muset zřízený rozlučný spolkový stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:8db1ca4b890dee3815247a7ad6f5fd7314221cde9511e36e81e01cfdf7470a77
+size 720

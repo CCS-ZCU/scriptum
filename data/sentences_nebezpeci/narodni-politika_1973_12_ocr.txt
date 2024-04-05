@@ -1,1 +1,3 @@
-přihlásit hodina náboženství vystavovat nebezpečí přijatý vysoký škola
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1f5e4c981407064e67aea0a0fd6073885c39dca8471579d88fc4dcfdfec3e89
+size 82

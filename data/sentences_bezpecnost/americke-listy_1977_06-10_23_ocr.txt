@@ -1,3 +1,3 @@
-pojatý článek zahraniční politika sovětský svaz tvrdit sovětský svaz zasazovat mezinárodní bezpečnost široký mezinárodní spolupráce
-tomuhla uvěřit zlý podezření působit <UNK>dyž existovat zatvr zelost žádost Stanislav Pyjas sbírat podpis polský sejm prostřednictví zvláštní výbor vyšetřit míra oprávněný výtka policie státní bezpečnost zatčený červnový nepokoj výsleš týrat
-obava Afrika Súdán Egypt vyjádřit obava cizí infiltrace africký kontinent přihlásit povinnost bránit africký zájem bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:431cb09ffc6cb495970a4d8478bc50ea5f307ef67ef98ef9ca07a831d4bb7ee1
+size 562

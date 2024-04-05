@@ -1,5 +1,3 @@
-cha vidět nebezpečí uvědcmovat
-zajímavý novinka animovaný film patřit Jiránkův olympijský OHER označený hořký moralita balada Lenám Dreva Josef Bárta využív animace dřevo kombinace reálen film tvůrčí trojice Macourek doubrava Bom servis pranýřující nebezpečí manipulace člověkna
-vůle zabít cena cena druhý strana chycený vydávat nebezpečí
-autorka líčit permanentní kulturní teror výjimka léta vystavený rockový skupina Československo nebezpečí nést příslušnost skupina touha poslechnout
-srpen předat oficiální místo petice politický kulturní činitel poukazovat nebezpečí normalizační politika zbavený poslanecký imunita
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebceaf31523e3a252f43e907fbbf03b69f056e47407976bc7bc7c1864ff46687
+size 696

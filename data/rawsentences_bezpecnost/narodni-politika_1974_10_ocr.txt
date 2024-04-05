@@ -1,1 +1,3 @@
- Úvodem poukazuje, že takové řešení je positivní cesta ke skutečné evropské bezpečnosti a opravdové spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb4489ecf4bb9e771c33569c207dcd6af1828c3e2b5c54fe667a77b78521d8a2
+size 125

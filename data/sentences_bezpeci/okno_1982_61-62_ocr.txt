@@ -1,2 +1,3 @@
-mít nacistický okupace literární vědomost zažít přežít sucho teplo bezpečí londýnský exil
-Štěrba válka přežít teplo bezpečí londýnský exil
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff259ff7093a6bb0d2782fe87345b2b11966cea0676795586f80924323b13fae
+size 163

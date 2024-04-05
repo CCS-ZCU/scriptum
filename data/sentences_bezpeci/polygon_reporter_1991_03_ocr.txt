@@ -1,2 +1,3 @@
-Verte mnohý nie ahko myslit problém týkat lebo žít bezpečí krajina blahobytnej stabilnej Západnej spoločnost
-znát výhoda třetí sloupec jistota chtít vědět nutný nutný otázka pojišťování vyřizovat náhrada škoda pojišťovna Švýcarsko Německo Československo Pius velký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:613fdf23543758c20a762304d7bc33353dbe1cfb6da719c7acabb239b6f9d1db
+size 303

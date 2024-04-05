@@ -1,7 +1,3 @@
-nošení autorizovaný baret znak trojský kůň vystavený nebezpečí možný kázeňský postih
-sehnat nájemní vrah Amerika problém stát peníze strana služba objednat riskovat nebezpečí případný vydírání
-příčina
-existovat reálný nebezpečí Evropa Amerika další mutace typ vytvořit přenést rozvojový země
-dělat léčba známý nebezpečí zvyšovat
-lidé nebezpečí
-uschovaný tajný místo nebezpečí nahrazený jiný ztratit
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aba061f711ac7dcac396dc5ccb25c161833f855c1427c8d5a91031e3084f6b2
+size 459

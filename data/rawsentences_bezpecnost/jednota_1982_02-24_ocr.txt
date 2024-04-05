@@ -1,4 +1,3 @@
- PENNSYLVANIA, STREDA, 24- FEBRUÁRA 1982 Öislo 4S25 Nepokoje pre pokojný štrajk v bratislavskom seminári Bratislavsky katolícky seminár v železnom objatí štátnej bezpečnosti.
- Ďalej sa v správe píše, že tento nový poriadok v seminári vraj schválili ej ordinári, hoci všetky zákazy n príkazy nesledujú ciele vychovy budúcich kňazov, ale slúžia výlučne štátnej bezpečnosti na dôkladné sledovanie a manipulovanie študentov teológie.
- ,_j»Po prevedení recitácii básni boli odovzdané kvety nášmu spolupracovníkovi, básnikovi n novinárovi a dnes redaktorovi Bulletinu Sveto- aluvský seminár od začiatku ak ad o mického roku 1981-82 vďaka Krejčího novému domovému poriadku a vďaka spolupráci niektorých predstavených seminára, profesorov fakulty a niekoľkých študentov na- chádza v železnom objatí Štátnej bezpečnosti KNA konči správu touto otázkou.
- Uds by potom po zavedení Krajčiho režimu a následkom silného vplyvu štátnej bezpečnosti v seminári bolo treba pomaly myslieť no vyvesenie tabule nad vstupom do seminára s nápi som Teologický pracovný tábor".
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a84958e659bb3245ae2ce84806f18c31a7b582af27173f8796c73aa58c68218
+size 1141

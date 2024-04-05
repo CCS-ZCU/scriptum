@@ -1,1 +1,3 @@
- Přece se dá snadno zařídit, aby místo překážení na schodech střežili národní bezpečnost v potemnělých ulicích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8115726b96586decff54c19b4f085c095eeece8a09d67c050ef08160b4e0b2c
+size 129

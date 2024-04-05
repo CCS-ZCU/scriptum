@@ -1,1 +1,3 @@
-dalajláma bezpečí právo asyl opatrný indický předseda Pándit Néhrú odvážit zakázat míra aktivita moci vykonávat duchovní správa buddhistický stoupenec
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9033118751d0d62f1ffdf7c57396920833faca2ed06059611859a463c135e85
+size 169

@@ -1,3 +1,3 @@
-hrozit nebezpečí zavřít
-vojenský zájem sovětský svaz nebezpečí válka západ přítomný sovětský voják udržet conakerský letiště doba rychlý letadlo dopravit výsadkový jednotka úplný obsazení důležitý strategický posice země
-obraz vyznačovat poměr lid dějinný chvíle láska rodný země vědomí osudový nebezpečí víra pevnost tvrdý odhodlanost bít
+version https://git-lfs.github.com/spec/v1
+oid sha256:79068bfd441e57f3e338bb6aeab02c9984f4f6a9ef42daddbdd16318a71b6924
+size 389

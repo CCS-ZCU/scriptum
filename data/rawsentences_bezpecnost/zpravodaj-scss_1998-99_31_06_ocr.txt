@@ -1,4 +1,3 @@
- Členství v NATO je zárukou bezpečnosti, je třeba budovat moderní armádu pro 21.
- Unie svobody: Uvádíme názvy kapitol, které charakterizují ducha programu: Odpovědný občan ve svobodné společnosti, Řád a spravedlnost pro pocit bezpečí, Hospodářství ve službách společnosti, Vzdělání pro třetí tisíciletí, Důstojné podmínky pro odpovědné občany, Naše země (Venkov a zemědělství, Péče o životní prostředí, Energetika) , My a svět (Zahraniční politika, Vnější bezpečnost).
- Jaký mají vztah k její bezpečnosti, k samotné naší státnosti.
- Jaký je vztah k bezpečnosti státu, k jeho svobodě, k jeho nezávislosti, k hodnotám, na nichž je založen, k lidským právům? Je velmi chladný.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2836e5c63151195fe5bda2daf45295390f72cb1229bce32b12a96e88476650f2
+size 752

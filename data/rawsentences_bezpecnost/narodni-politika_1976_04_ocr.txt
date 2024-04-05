@@ -1,5 +1,3 @@
- Státní bezpečnost je pověřena, aby získávala některé významné opozičníky z kruhů intelektuálů.
- Státní bezpečnost v rozhovorech s opozičními intelektuály, které získává, tvrdí, že již napsali lidé jako Císař a Černík.
- Jenomže státní bezpečnost není schopna nikoho z intelektuálů přesvědčit, že jde o věc perspektivní, že by tato věc pomohla jim a společnosti, že by aspoň vyvedla z vězení politické vězně, že by umožnila studium dětí pronásledovaných občanů.
- Státní bezpečnost jim vlastně může zajistit jen to, že když takové prohlášení udělají, tak budou mít ostudu.
- srpna byla v Helsinkách podepsána dohoda 35 evropských zemí a USA a Kanady, ve které bylo prohlášeno, že budou spolupracovat v zájmu evropské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36beca3169c475a815161eb28c1811f09ecae79b27ed4841c14b93a448c6325
+size 818

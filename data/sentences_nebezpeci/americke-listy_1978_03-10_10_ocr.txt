@@ -1,2 +1,3 @@
-velvyslanec delegát spojený národ verejne prehlásit národ strednout Európa sednout nebezpečí sednout jednat loď strednej neprelieva krv treba dynamický politika záujme týchtý štátov
-led rozestoupit smrtelný nebezpečí pominout
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ae4957737e58bc018595206f228037c9eb6ee9460f2938754f264b372d7ad62
+size 244

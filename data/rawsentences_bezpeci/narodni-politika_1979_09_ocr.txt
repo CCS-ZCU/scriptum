@@ -1,1 +1,3 @@
- Tato krutá počínání vůči nim posléze vyúsťují v jejich duševní chaosy a pro absenci zkušeného instruktora, který by jim v těchto kritických chvilkách podal chlácholivou ruku útěchy a ukázal správný směr k bezpečí, propadají komplexům méněcennosti, viny a věčnému strachu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d37c8105d98c38d3a07bf9f643ae1f347f7b9d44a257c048f3f7e0ec003e0841
+size 308

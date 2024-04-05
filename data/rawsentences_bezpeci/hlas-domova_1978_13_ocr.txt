@@ -1,1 +1,3 @@
- Každá další obava nebo nejistota či opatrnost je zbytečná, protože celý dokumentační materiál je v bezpečí a nebude za žádných okolností ponechán v nepovolaných rukách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6740b137b1cddc19f14582d076662c80e7b2813c8ebd853b88d8371ba62b7b72
+size 191

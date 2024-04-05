@@ -1,2 +1,3 @@
-vyvinutý země svět nebezpečí stát země industriální negramota
-místo dát vlastní nebezpečí přespat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8208c5abce2284f2f085932e660a09adf3aedb32ad54160804c6f0e022c6275
+size 113

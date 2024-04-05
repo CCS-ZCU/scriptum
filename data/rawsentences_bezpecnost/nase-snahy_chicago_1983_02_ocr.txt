@@ -1,5 +1,3 @@
- Najvyšší politickí a vojenskí predstavitelia Západu viděli v Stalinovi hlavně “realistu alebo nacionalistu" ktorý nechce nič, iba “bezpečnost- pře svoju krajinu”.
- Malo sa už len dohodnůť o konečnom texte re- zolúcie a o doporučeniach o tom, ako ďalej budovat’ spoluprácu a bezpečnost’ v Europe, lebo řečí o tom, kto ako zachovává ustáno- venia Helsinskej deklarácie bolo už naozaj dost’.
- V jeho dvojdielnej 1118-stránkovej knihe “Thè Origins of thè Cold War” sa čitatelia mohli dozvedieť, žc medzinárodná situáciu nezostril Stalin a sovietsky imperializmus, ale necitlivá politika Ameriky voči Sovietom, ignorujáca najma legitímny sovietsky nárok na vlast nú bezpečnost’.
- Agresívna boia naopak politika Zápa- du, ktorá pod zámienkou obrany slobody a národnej nezávislosti iba “zabezpe- covala rozvoj a bezpečnost’ kapitalizmu”.
- Danielsa, “nie je nič,čo by mohlo zabránit’ vývinu, zhodnému s našou základnou tážbou po mieri, bezpečnosti a slobodě”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a80ebcf7dde09e8900b5db9ce941157838c2354a5b8d2781802dff626ad93fc8
+size 1046

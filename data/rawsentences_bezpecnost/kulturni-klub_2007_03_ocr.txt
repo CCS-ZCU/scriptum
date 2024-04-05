@@ -1,6 +1,3 @@
- Se Státní bezpečností měl střety dlouhá léta, v roce 1975 na něho byl veden vyšetřovací spis kvůli hanobení rasy národa a přesvědčení.
- Dokonce kvůli tomu Státní bezpečnost vypracovala rozsáhlou analýzu Hutkových vystoupení, která rozhodně stojí za pozornost.
- Ve stejné době ho ale kvůli dvojsmyslným textům, které prý hanobily představitele států socialistické soustavy, vyšetřovala Státní bezpečnost.
- Jindřich Lion 18  Otevírání a zpřístupňování archivů ministerstva vnitra Nahlédnout do svazků bývalé komunistické Státní bezpečnosti by mělo být v budoucnosti jednodušší.
- Stačil ještě napsat úvahu 0 povinnosdbránit se prodbezpráví, pak však již byl zatčen Státní bezpečností a podroben vyčerpávajícím výslechům.
- Příslušníci Státní i Veřejné bezpečnosti obklopili břevnovský hřbitov, kde byl prof.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cc205b2c3bc55a495f38090958a6e90a02c785ba9028e38966b7016f146cdd7
+size 906

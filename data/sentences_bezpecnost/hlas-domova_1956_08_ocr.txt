@@ -1,1 +1,3 @@
-Vyňati imunita uprchlík ohrožovat bezpečnost země pobyt usvědčený těžký zločin bezpečnout obyvatelstvo země žít
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d2ce4a041495b3fc1d627c6ee64369ef3aae41fb668ab2e5e446e43cf2902f4
+size 128

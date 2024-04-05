@@ -1,5 +1,3 @@
-hodina velký nebezpečí chtít opakovat válka moci vhodný prostřed kilow plný vyřešení rozpor existovat néirod
-důvod hluboký hořkost zpráva přicházet osud válečný zajatec nebezpečí zahájený teroristický akce
-předvečer válka oblast záliv srpen stav obležení konstatovat stát porušit zcikladní zásada mezinárodní právo ceíé soužití národ nebezpečí
-věrný dědictví vědomý nebezpečí říci tragický dobro družství znamenat válka záliv pravit přítel míra vědět nadejít chvíle dialog jednávání dát přednost mezinárodní právo
-prosit řídit mysl milimetr svědomí nebezpečí uzavřít pravda dovést poznat dobro činit člověk šťastný
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7dfd1a2cd25431c7b86751d987d1eb0f8158931cb65c74c135acfd2c3ff338e
+size 703

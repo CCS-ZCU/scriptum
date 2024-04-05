@@ -1,4 +1,3 @@
-doba vzrůst nebezpečí mít základna ochránit uvést Schwarzenberg
-silniční zákon vejít platnost polovina loňský rok umožňovat kácet strom znamenat nebezpečí řidič vysoký náklad údržba silnice
-nový trend skrývat nebezpečí kontrolovatelný růst výdaj lék nasvědčovat číslo spotřeba lék počátek letošní rok přesnost vést představitel ministerstvo velký boj český lékařský komora
-zdát nebezpečí prozatímjihomoravinšmomor bát muset doporučit evropský parlament
+version https://git-lfs.github.com/spec/v1
+oid sha256:a75e53b0048e7a7944976f45d200b9474b4d442db2ad1c326b0a3c1c134ddb14
+size 512

@@ -1,6 +1,3 @@
-vědět přání československý lid vláda spojený stát americký organizace spojený národ informovaný hrozící nebezpečí vtělení část celý československý území sovětský svaz
-věstník
-věrohodný zpráva stávat skutečný nebezpečí Moskva chtít zapojit celý Československo Slovensko sovětský svaz samotný
-nutný svět uvědomit naléhavost nebezpečí
-Kuzněcov dosáhnout povolení cesta cizina léta marný pokus šťastný zatuchlý zamořený Rusko dostat svěží volný vzduch vědět bolet vice
-pomyšlení nebezpečí děsit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1e64f063894e64031b530e89fc9c54f6e9944c1c2e7882d3ef500fd4f9af165
+size 564

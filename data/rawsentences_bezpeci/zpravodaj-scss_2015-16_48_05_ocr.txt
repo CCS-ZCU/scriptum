@@ -1,2 +1,3 @@
- Z bezpečí ostrova svobody sledovali exulanti dění v zemi, spoutané totalitním režimem.
----------------------—----—----------------------------------------- —------------ 57--- --------------------------------------------- --------------------------------------------------------------------------------—------------------- Nepodceňuje ten index štěstí fenomén bezpečí? Člověk sice chápe, že se Mexičané umějí radovat ze života, ale když tam zahynou každý rok desetitisíce lidí ve válkách drogových gangů, přece jen člověk nechápe, že se považují za šťastnější než Američané.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa87961063ef1efd4633a3c1baec0e57c987006e89d1a451ff26be670e489fd7
+size 631

@@ -1,1 +1,3 @@
- Mateřské lůno, místo míru a bezpečí, se proměňuje v místo promyšlené vraždy ve jménu matčiny svobody a sobě- stačnosti, jez jsou jen opisem zotročení dítěte, jeho proměny v pouliý likvi- dovatelný objekt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f36446245a958d3f2fc34d4e90f14943cb153ccff3b6a198f01b4c75251ecc3
+size 226

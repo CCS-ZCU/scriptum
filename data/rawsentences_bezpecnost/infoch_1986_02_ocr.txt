@@ -1,4 +1,3 @@
- Sdělení č^ 497 /Trestní stíhání Bystríka Janíka/ FranťiáĚáňský řád se v posledních letech stává terčem růz- ných zásahů Státní bezpečnosti, která se snaží čelit vzrůsta- jícímu vlivu františkánské spirituality mezi mladými lidmi v Československu.
- Vyšetřovatel Státní bezpečnosti npor.
- Zadržení Josefa Průši na Kladně mělo dramatický průběh: v době, kdy byl pod pohrůžkou oředvedení vyslýchán na prokuratuře, rozbil mu neznámý muž kladivem přední sklo auta, přičemž podle svědků v bezprostřední blízkosti tohoto vandala parkovalo dvě auta veřejné bezpečnosti.
-/ x Rumunská liga pro lidská práva, která sídlí v Paříži, po- žádala rumunskou vládu, aby byla vyšetřena smrt básníka, publicisty a inženýra Gheorghe Ursu, který zemřel na pod- zim 19^5 ve vězení při vyšetřování Státní bezpečností /viz Info o Ch 77 č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:899f0ab440fbcf3cab87b822fd2643a2d35c6fade683b2ca48bf7870f0b2b2ef
+size 925

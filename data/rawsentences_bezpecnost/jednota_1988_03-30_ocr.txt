@@ -1,1 +1,3 @@
- Bačkis, podtajomník Rady pre ve-ejné záležitosti Cirkvi, na Kc?fs-en- cii o bezpečnosti a spolupráci vo Viedni 26.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edccbf26287d5fef6482eeb1bfdfc6a541e976a4adbdc65f66caf2495cdd27e7
+size 123

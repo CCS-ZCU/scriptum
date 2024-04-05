@@ -1,1 +1,3 @@
-‘Bili Rhodésa myslit vpád Mozambik zajistit velký bezpečí uvažovat Jihoafri čan svalovat vina vlna násilí černošský město mezinárodní komunismus domnívat mít reagovat tvrdý útlak psát
+version https://git-lfs.github.com/spec/v1
+oid sha256:714f2268e8b01715f978c78a610d4d7b63562599c334ea6c8689f99303a4a77e
+size 206

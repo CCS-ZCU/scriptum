@@ -1,2 +1,3 @@
-chvíle Čína pokládat Rusko velký nebezpečí představovat Amerika
-agent komunistický čin vytvářet Honkong pátý kolona představovat vážný nebezpečí britský koloniální správa
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca94dab57601f0282db731d8f65953f174c758106ec6fcc8be3cc93658bcca6c
+size 195

@@ -1,4 +1,3 @@
-souhlasit ripkový koncepce stejný souhlasit domyšlený írásein výhoda národní komunismus bolet československý litoismus lila ztracený nalezený plán chovat smrtelný nebezpečí
-velký nebezpečí plán vězet chtít řešit příčina světový napětí scinda řešený vyhýbat
-západ připravený válka velký nebezpečí hrozit úžasný mírový linut Sovět rozpoutat
-různý nebezpečí hrozba horší kronikářův drace Španělsko moci potkat cestovatel vyspělý věk mluvit zakázaný střežený místo železný Opony
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b6ed872680f44f3513e96c26021e27e67639ca90737866780db594fb53362ca
+size 546

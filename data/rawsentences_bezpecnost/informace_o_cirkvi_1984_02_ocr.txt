@@ -1,2 +1,3 @@
- Biukup Ján Korec bol za poaledrých 14 rokov v narůstajícej miere pod kontro lou Státněj bezpečnosti a jej Špiclov.
- Ha moje prekvapenie zjavxl au príělušník zo Štátnej Bezpečnosti na Februárke, ktorý bol už niekolko rázy přítomný pri mojich výaluchoch na StB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2e2bc9aa054b80da25ed90615aa226ab39868d03bf2fbd5dfbe4864c5bec52
+size 284

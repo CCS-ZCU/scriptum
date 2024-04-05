@@ -1,2 +1,3 @@
- Neřekl nic nového, ČSR je pro systém kolek- tivní bezpečnosti a proto proti Severoatlantickému obrannému společenství, pro zákaz výroby atomo- vých zbraní a pro nejšir- ší kulturní spolupráci.
- So- cialismus znamená sociální bezpečnost, znárodně- né hospodářství a svobodu jednotlivce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b03d4433dc5d9b61f5925939957e108e798a67af31a90c222c3547c3db72d984
+size 316

@@ -1,3 +1,3 @@
- Státní bezpečnost 33j ^očala stivar.
- ~yli odvezeni spolu s mnoha desitkáni jiných na státní bezpečnost a zatčeni jako nespolehliví, kteří ještě nepocho- pili dobu* Fřos sto třicet našich ka~arádů se probouzelo příštího jitra na tvídyc1' vězeňsky?*- íírkinP7 v Burtolomějské ulici.
-, '•'ylo p-oti jejím za„ um, bezpečnosti a celist- vosti, idu jak 9' ■ ! ■ v : a ■*•-.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b8d9b34ca20bbce0e9310f7aa94cbcd5ce92782c1faa8f6142617456d69648c
+size 415

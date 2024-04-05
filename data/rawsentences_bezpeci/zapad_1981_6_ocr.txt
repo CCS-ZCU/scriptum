@@ -1,1 +1,3 @@
- letech? Jak bojoval pan Sláma v té době? Podepsal jednou do roka nějakou výzvu a seděl v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:979cdd0a1505570744a4ea446756273cb6dfb50265358a9a508ce05bff57cf00
+size 63

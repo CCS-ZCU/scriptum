@@ -1,3 +1,3 @@
- V poměru k počtu obyvatel je to skoro 1,3 procenta populace, což je zhruba stejný stav, jakého československá armáda dosáhla v roce 1938, tedý v pohnutých dobách akutního ohrožení bezpečnosti státu.
- Příslušníci veřejné bezpečnosti pomáhají maminkám s dětmi a sami podávají zavazadla přes -zátarasy kolem propouštěcího průchodu, ve kterém se kontrolují doklady.
- Po skoro dvouletém váhání, které už začínalo vypadat jako mlčenlivý souhlas, sáhla Státní bezpečnost k represivním akcím proti nezávislým "Lidovým novinám".
+version https://git-lfs.github.com/spec/v1
+oid sha256:e268882de7e874018813d040dbce85499d13cbb946a1f6a219fbfb41e2f622ca
+size 579

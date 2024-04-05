@@ -1,6 +1,3 @@
- Rada bezpečnosti OSN ji ustavičně napadá pro její proniknutí na území Angoly.
- Západ nemůže akceptovat právo Sovětského svazu prosazovat bolševický systém kdekoliv, s odvoláním na vlastní bezpečnost.
- Otázka jejich vojenské bezpečnosti se dá oddělit od otázky jejich politické nadvlády .
- ÚNORA 1982 Mezinárodní přehled PO NÁVŠTĚVĚ EGYPTSKÉHO PREZIDENTA Americký a egyptský prezident společně prostudovali na svých poradách ve Washingtonu sovětskou hrozbu bezpečnosti Blízkého východu spolu s ostatními otázkami na pořadu jednání a dospěli k jednotě názorů ohledně strategické situace a sovětské nepřímé hrozby prostřednictvím Libye, Kuby a Východního Německa.
- Mubarak zdůraznil, že řešeni palestinské otázky v rámci jejich práva na sebeurčení je nejlepší zárukou bezpečnosti Izraele.
- Ve výzkumném institutu japonské Tohoku university v Sendai byla zhotovena bistabilní laserová dioda, která právě ty logické řídící operace provádí s velkou přesností a bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b22f74dfbf4ccd1b15ff3c347c72d6daa7098bfab60f51f7516ab210e0a7c3c
+size 1072

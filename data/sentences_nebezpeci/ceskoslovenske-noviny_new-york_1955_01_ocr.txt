@@ -1,4 +1,3 @@
-mluvit uvádět nebezpečí podezření připravovat půda odpovědnost nezdar moci přesunutý protistrana
-záměr spojený stát ohled pochybnost určitý kruh britský prohlášení president Eisen hower rozptýlit nebezpečí moci vynořit
-jednání mít vnuknutý přesvědčení krutost bezohlednost komunistický otrokář vyhynout Stalin běžet nový kurs politika hospodářství
-nebezpečí tušit přijít léta čekat
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb095f93a5cd461cd3facc32463a24f3c380f0b120723cdb2e3d978e794acff2
+size 430

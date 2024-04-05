@@ -1,1 +1,3 @@
-kovárna ncjstatečný cítit nový nebezpečí odhodlaný čelit celý oso celý život
+version https://git-lfs.github.com/spec/v1
+oid sha256:907ceafab951ca5a6316f31827f12a69dbbe7e39671d6fc937767165651aa4f6
+size 91

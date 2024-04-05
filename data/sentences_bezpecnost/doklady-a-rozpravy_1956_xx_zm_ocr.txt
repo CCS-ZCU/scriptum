@@ -1,3 +1,3 @@
-společnost bezpečnost prvek přestat nástroj realistický politika zátek sada pakt stát mrtvý litera
-učinit Francie bezpečnost napadený zachovat lokarnský garant francouzský pečnost Anglie
-sázka bezpečnost Francie postavený přímý hrozba účinnost celý francouzský spojenecký obranný systém stát padat demilitarisace Porýní
+version https://git-lfs.github.com/spec/v1
+oid sha256:342bdd59b8699acc3a7e29277b667b9b94dc5ef6f5034089701357c07e3bbb32
+size 243

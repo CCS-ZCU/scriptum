@@ -1,1 +1,3 @@
-moskevský porada označený hlavní nebezpečí mezinárodní revoluční hnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d98f6330d65d340b15923f9edc602c2acdea636aace35775150c044b92691d
+size 82

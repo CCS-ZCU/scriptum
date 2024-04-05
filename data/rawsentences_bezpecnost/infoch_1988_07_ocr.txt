@@ -1,4 +1,3 @@
- Orgány veřejné a Státní bezpečnosti - jeden z nich se představil jako Kmoch - ho podrobily osobní prohlídce, při níž mu zabavily pouze film o chovu psu,  - $ - na nějž měl vývozní povolení.
-března 1988 provedla Bezpečnost rozsáhlá opatření v souvislosti s národní poutí v Praze a s pietním aktem u hrobu prvního prezidenta stá[:u T.
-1988 na Konferenci o bezpečnosti a spolupráci v Evropě s poselstvím, v němž formuluje obecnější úvahy k právní problematice.
-Wonka záruku a předpoklad pro dodržování mezinárodních umluv a vytváření atmosféry důvěry v otázkách bezpečnosti a odzbrojení i v otázkách humanitárních.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dac0e02557af66d6c4f6615d86723fff08c8e2a41b1fa3e3ce8174cc478d6da
+size 676

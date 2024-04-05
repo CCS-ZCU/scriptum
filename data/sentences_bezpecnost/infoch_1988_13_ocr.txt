@@ -1,4 +1,3 @@
-hodina vpadnout bezpečnost byt Dana Němc probíhat jednání další sekce
-hodina vtrhnout byt bezpečnost
-státní bezpečnost podrobit většina signatář kraj výslech varovat účast setkání
-Růžička byt navštívit zjištěný pachatel počátek březen zahájený trestní stíhání průběh další den měsíc činit státní bezpečnost přípustný nátlak svědek
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0ce53eacbd0db69851ca52767b7849eca33c6b46f680017d5a370d2d9b820c0
+size 383

@@ -1,1 +1,3 @@
- — Jsou to přede- ' vším sportovci z Prahy, Brna a Bratislavy, kteří I se za „doprovodu" členů státní bezpečnosti propůjčují k této hanebné a nedůstojné úloze.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a86b11c0ac89841b2344bfd2f7408bb95bf1953abefe483f2b1fcdad19dfe0b6
+size 182

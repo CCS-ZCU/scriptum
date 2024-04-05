@@ -1,3 +1,3 @@
-přesvědčený klimatický změna představovat riziko nebezpečí další vývoj planeta
-dítě vyvíjet život ohrožený moci poznat nebezpečí hrozit
-palčivý bolest nouzový situace ukázat zvíře člověk mít nebezpečí reagovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3462ba71497a42b21e044dd12f88eba9989374f038a578d65b3459fd967cd9
+size 241

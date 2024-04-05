@@ -1,3 +1,3 @@
-španělský úřad zakázat křesťanský shromáždění Madrida diskuse záštita madridský arcibiskup nebezpečí rušení veřejný pořádek
-zarytý nepřítel církev řídit Moskva boj křesťanský kultura ustálý útok slovo skutek vydávat svědectví papežství den věrný strážce svatyně křesťanský náboženství vyzývat bdělost komunistický nebezpečí jiný veřejný autorita pozemský
-opětovný otcovský výzva ctihodní bratr velký potěš věřící tlumočit výklad nový pastýřský list společný zhoršovat nebezpečí tlak obratný agitátor den den
+version https://git-lfs.github.com/spec/v1
+oid sha256:721f4d1450259c59be7eefff232a3a8e5f39117b1442be3e11d3191ef9031ee2
+size 594

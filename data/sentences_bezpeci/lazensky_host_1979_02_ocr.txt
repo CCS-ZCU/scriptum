@@ -1,1 +1,3 @@
-yuiaiíx betan váak bezpečí létat pře©
+version https://git-lfs.github.com/spec/v1
+oid sha256:956e44aa39b945f5bf4338258238294639df79d24b55bb3d17ef6aa43ca9aa5f
+size 47

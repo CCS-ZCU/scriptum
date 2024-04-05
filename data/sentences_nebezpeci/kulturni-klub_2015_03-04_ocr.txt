@@ -1,2 +1,3 @@
-strana druhý otázka islamista diferencovat vnímat Evropan muslim jednolitý nebezpečí milost zničit
-spočívat nebezpečí franšízový obchod místní podnikatel řada případ dokázat udržet kvalita původní originál
+version https://git-lfs.github.com/spec/v1
+oid sha256:684c240c7b9fd6b62a04434b7ee1d579889b27b6ccf9cc685dfa80681b0f7402
+size 230

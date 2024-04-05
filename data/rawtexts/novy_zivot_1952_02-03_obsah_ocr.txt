@@ -1,1 +1,3 @@
-NOV? ŽIVOT MĚSÍČNÍK CYRILOMETODĚJSKÉ LIGY Roé. IV. (II.) ÚiNOR — BŘEZEN 1952. Číslo 2-3. OBSAH Svět může vzplanouti co chvíle 1 Základní problém lidstva - Or. 2 Jaké pomoci potřebují emigranti 2 Náboženská atmosféra u nás - P. Josef 6 Rozbouřený svět - Zdeněk Petr 11 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3caafb013fabf1ab58ada8053d9393e0919f711a1b5d41a8c217f1d73737e9e
+size 311

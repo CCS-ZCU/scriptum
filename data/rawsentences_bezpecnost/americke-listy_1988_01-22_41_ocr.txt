@@ -1,3 +1,3 @@
- Státní bezpečnost jim v tom dramatickou akcí na pražské ulici zabránila.
- Před válkou se totiž nepohodl s jedním mužem, který se stal po vypuknutí války mocným šéfem bezpečnosti.
- Naše řádná dovolená musí být zaměstnavatelem hlášena státní bezpečnosti a ta o ni de facto rozhoduje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8fbfeec77d54a38be4822f3718ca3586ef6335a7497d59d90017dae1bd65d9d
+size 315

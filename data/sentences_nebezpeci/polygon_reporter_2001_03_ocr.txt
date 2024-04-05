@@ -1,1 +1,3 @@
-Grebe níčka Štěpán nutný hlídat nebezpečí slovo komunismus spojovat rozleznout svět obchod
+version https://git-lfs.github.com/spec/v1
+oid sha256:06248cf5f67e9964849c762096b874ca0c3738fcface2551f6d8de57b57753ef
+size 100

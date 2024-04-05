@@ -1,1 +1,3 @@
- Diskuse též ukázala, že účastníci jednomyslně pokládají jednotnou politiku za nezbytnou, nejen z hlediska vojenské bezpečnosti, ale v zájmu zajištění úspěšných jednání o kontrole zbrojení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e4f753e03194740c9033b3ec333d98ce8b6c47b3d911062515a6192e4eebb5
+size 213

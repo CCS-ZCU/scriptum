@@ -1,1 +1,3 @@
-kolej zabezpečovat jistota stabilita bezpečnost cesta
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece85a17b004dcc674734fce468f2734ae50d240d151cee4721d6b4c7322ee63
+size 56

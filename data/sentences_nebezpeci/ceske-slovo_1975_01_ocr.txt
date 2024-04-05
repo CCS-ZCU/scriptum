@@ -1,1 +1,3 @@
-zásilka vera vánoční
+version https://git-lfs.github.com/spec/v1
+oid sha256:b17ca7e936b819ce701bd59706581ee1e309f35e192f14e5666fb082f660a965
+size 25

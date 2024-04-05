@@ -1,1 +1,3 @@
-malý část lidé podporovat vládnoucí aparát solidarita jít většina dosavadní zkušenost uzavírat chtít angažovat vystavovat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e490858610e13c15f592c96b135ca52c1ec64f3b2273bb3ffedb0f0aaf662a65
+size 149

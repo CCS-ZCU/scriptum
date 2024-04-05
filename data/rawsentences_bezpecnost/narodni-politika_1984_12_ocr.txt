@@ -1,2 +1,3 @@
- Dnes, po patnácti letech, je z těchto osmi lidí jeden u Bezpečnosti, jeden vstoupil do strany a stal se vedoucím skladu, jeden do ní nevstoupil a staví si rodinný domek, jeden je po několika letech vězení natěračem, dva se vystěhovali do Švédska - z toho jeden koketuje s komunismem jeden je v New Yorku a zakládá tam vizuální banku pro české a slovenské výtvarníky a já sedím tu.
- Jinak řečeno: v době, kdy Beatles hrají na anglickém královském dvoře a anglická společnost tak prostřednictvím své vrcholné instituce uznává přirozený projev své mladé generace, v Československu se pořádají hony na "mánič- ky", jimž samozřejmě s pochopitelnou sympatií uniformované skupiny sekunduje Veřejná bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb888475a07e0fc06f1c28e0c2394148b8381982a1f9fdff933d48cdafa4a369
+size 765

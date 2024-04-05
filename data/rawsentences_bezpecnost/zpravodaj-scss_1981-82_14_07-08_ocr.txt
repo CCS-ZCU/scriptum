@@ -1,10 +1,3 @@
- Od prvých dnů osvobození usilovali vybudovat monopolní pozici v bezpečnosti.
- Ve svém úsilí ovládnout bezpečnost se soustředili na její mocensky nejvýznamnější složky, které se zabývaly politickým zpravodajstvím.
- Šlo o Státní bezpečnost, zpravodajské útvary bezpečnosti a armády, zemská oddělení bezpečnosti a VII.
- Komunisté v bezpečnosti se stali politickou silou, která disponovala velkou mocí.
- Evidenčnímu odboru předávali svoje poznatky komunisté z bezpečnosti a obranného zpravodajství.
- Nejen to, Štzáb měl vlastní agenturu v nekomunistických stranách a zasahoval též do práce bezpečnosti přímo.
- Tak před Únorem 1948 zřídil v rámci bezpečnosti tzv.
- Státní bezpečnosti vyšetřuje mladé katolíky.
- XXX SPRÁVA AMERICKÉHO prezidenta Reagana, ktorú adresoval Komísii Spojených štátov pre otázky bezpečnosti a spolupráce v Európe, obsahuje dlh- šiu kapitolu o otázke zachovávania základných íudských práv v ČSSR, o Chartě 77 a o veíkom tlaku vlády na rímsko-katolickú cirkev.
- Roman Urbaniak totiž nebyl, jak se ukázalo, pro bezpečnost nepopsaný list: v minulosti byl několikrát trestán pro krádež a podvod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:020a64b6246eaaddf85614268c4f1373aeecf123758e398b4e790109fd5608d8
+size 1217

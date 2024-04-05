@@ -1,1 +1,3 @@
-místopředseda ODS Petr Nečas nebezpečí strana uvědomovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:27df9bf763e9440f64ad41e790b07f0ffbe9b54350e3d87172027c8697a720b9
+size 63

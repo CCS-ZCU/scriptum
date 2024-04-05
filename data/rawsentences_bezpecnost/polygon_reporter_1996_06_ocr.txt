@@ -1,1 +1,3 @@
- V souvislosti s rozvojem výroby na straně jedné a důrazem na problematiku životního prostředí a jeho ochrany v EU na straně druhé chybí v kapitole „Vnitřní bezpečnost" aspoň zmínka o zesílení policejních aktivit při stíhání a vyšetřování trestné činnosti v této oblasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ea485a35cbd9fc87a3dc9c4281539fb23feca7f6909653ef480eb0f9a6b511
+size 304

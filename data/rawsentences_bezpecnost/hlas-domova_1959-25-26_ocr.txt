@@ -1,2 +1,3 @@
- Turecko, Pákistán a Persié měly pravděpo- dobně jednu společnou starost, jaké bude jejich postavení, spolkne-li Wa- shington úplně koexis- tenční vnadidlo Mosk- vy? Jejich i naše bolesti, byly vyjádřeni nápisem, který vítal presidenta Eisenhowera v Ankaře: "Mír bez bezpečností ne- ní mír.
- —Náčelník hlavní správy veřejné bezpečnosti generálmajor Janulík diskutoval o krádežích ve Spojených ocelárnách na Kladné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d77d0b15c39eb7cd822c92eece09e14bf93e83f29495b1e4e54a7d0a980787b
+size 459

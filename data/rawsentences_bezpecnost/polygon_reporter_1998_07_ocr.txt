@@ -1,6 +1,3 @@
- Pavel Kolář měl smůlu, neboť byl šéfem orgánu, který podle norem NATO vede registr utajovaných skutečností, potvrzuje styk s cizími rozvědkami a z příkazu vlády kontroluje personální obsazení vládních funkcí z hlediska bezpečnosti pro stát.
- Po protestech obou velvyslanců se pochybovačně o bezpečnosti občanů vyjádřili jak Grulich, tak i bývalý spolupracovník RFE Lánský.
- Novela by měla obnovit důvěru k peněžním ústavům a zvýšit bezpečnost úspor vkladatelů.
- Nu, moc se tím nelišíme od zbytku Evropy, která sice díky Americe dnes nemluví celá německy, anebo rusky, nemluvě o akcích jako UNRRA a Marshallův plán a vůbec příklon k americkému způsobu života, který jí zajistil nejen bezpečnost, ale i prosperitu.
- Stejně se veřejnost baví konfliktem dvou ministrů „expertů“ na bezpečnost Bašty a Grulicha.
- Chtěli vyhodit do povětří budovu ÚV KSČ i se všemi zaměstnanci a budovu Bezpečnosti v Bartolomějské ulici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f08214fc45dc92e8d696eb763fbf74aa311c0c6a27ad636b9fdad777a45de74a
+size 1009

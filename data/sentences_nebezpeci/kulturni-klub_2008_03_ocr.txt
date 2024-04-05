@@ -1,1 +1,3 @@
-výročí pochod student mít upozornit nebezpečí demokracie vzpomínkový akt příležitost šedesátý výročí pochod student pražský hrad mít upozornit přetrvávající nebezpečí demokracie ohrožovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e328e2a6d37ebf378be28790dfe97f22433f285e5aa90667b12574d85e62b1b7
+size 215

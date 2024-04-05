@@ -1,3 +1,3 @@
-nebezpečí stát fráze krásný věc opakovat ukazovat starý zkušenost
-výbuch zničený nákladní osobní automobil nebezpečí ozáření
-noviná řeč Jaruzelský chvála poslední léta vykonat léta tušit situace Polsko nazvat stabilní pozitivní hranice dotknutelný spojenec mírový politika usilující odstranění nebezpečí atomový zbraň
+version https://git-lfs.github.com/spec/v1
+oid sha256:6431113ffc0c8b961c7940bed826d7bdb9e76b540dfa7e5ef05e84e154f4449d
+size 362

@@ -1,2 +1,3 @@
-odloučit láska Kristův
-bible zkoumat vydávat nebezpečí varovat Ježíš mýlit znát písmo moc boží
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b240374f958fb7ab3a132e9df22a58a06160bd94c4a5a0f03431090caafa5a4
+size 109

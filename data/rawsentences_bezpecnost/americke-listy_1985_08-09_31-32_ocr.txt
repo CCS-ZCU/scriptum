@@ -1,5 +1,3 @@
- i bývalý komunistický poslanec a důstojník bezpečnosti Miroslav Pich-Tůma, usvědčený z úkladné vraždy dvou lidí; tentýž Pich-Tůma — mimochodem řečeno — nedávno vyprávěl pionýrům na Pardubicku o tzv.
- Tady by se komunista asi chabě hájil tvrzením, že československá bezpečnost nanejvýš vyškolí nějakého toho národně osvobozovacího bojovníka, a že nemůže za to, když se tu a tam některý odchovanec zvrhne v teroristu.
- Státní bezpečnosti.
- Pak může zaručit svoji vlastni bezpečnost předáním této o- branné technologie do rukou SSSR a tak Evropu “odepsat”.
- výročí konference o bezpečnosti a spolupráci v Evropě vydala maďarská pošta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fae522014aef2944623ef267ede9158c927a34f3fc236c80c653cff240fb0c8
+size 709

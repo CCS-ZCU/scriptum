@@ -1,1 +1,3 @@
-krátký porada odstavit
+version https://git-lfs.github.com/spec/v1
+oid sha256:13cf341122ec7b4be9d872fc0b02640f7024d7ee50514555519981e074b2111a
+size 25

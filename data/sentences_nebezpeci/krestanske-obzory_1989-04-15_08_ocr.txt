@@ -1,1 +1,3 @@
-stálý nebezpečí tvůrčí přetvářivý energie vlastní liknavost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4d9cbca1d8ce7093972aac04858397972f65532d2d438e2da9748dd5185d814
+size 72

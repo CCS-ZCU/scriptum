@@ -1,2 +1,3 @@
- „Snad mi přece nebudeš věšet bulíka na nos, že jsi k vůli mně jel do Ameriky? Jel jsi sem ze samého ohledu na svou ženu, aby se nedověděla o tom, že za mnou chodíš, a kdyby přece, abys byl už zatím v bezpečnosti.
- září a neopustil zámek dříve, pokud nebyl úplně přesvědčen, že v celém dalekém vůkolí není nikoho, jenž ohrožo- vati by mohl bezpečnost zámku a jeho obyvatelů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eddd10c310b5682ed7558b9c1b8dd0dad154e8b098c13cc038f61c8005c127c
+size 418

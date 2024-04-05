@@ -1,1 +1,3 @@
- Lidé jsou krutí buá proto, že jsou sadisté a nalézají v krutosti siryslnou rozkoš, nebo jdou za nějakým cí- lem-penězi, mocí, bezpečností, které jsou samy o so bě dobré.
+version https://git-lfs.github.com/spec/v1
+oid sha256:364a91ac9466aa101ec57d996806369072fea41e69f18fe0266720a892ba1ffb
+size 189

@@ -1,1 +1,3 @@
- Krátká porada a je jasno “ Odstavit ! Bezpečnost především S jadernou energií nejsou žerty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acac11bd7f0b38d371355aa8447f325504099352a1a48248fc4cb5682ad25ec3
+size 103

@@ -1,2 +1,3 @@
-rozhodující kriterium zůstat bezpečnost podoba záruka osobní bezpečí násilný smrt Hobbes svoboda strach podmínka svoboda bezpečnost život společnost celek
-odvaha vyžadovat vystoupení ochranný bezpečí vlastní zeď jednotlivý nebezpečí čekat vstoupit oblast starost život ztratit plstnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb2e19f61690f8ab70c0128d39ea2e8bdcdcf82064203ce31f954dafa813c63
+size 311

@@ -1,2 +1,3 @@
-možnost čekat využít vysídlenec podařit ukrýt zbylý majetek bezpečí
-domnívat bezpečí druhý nastat klid nos rozletět vrať vběhnout šťára náruč
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c8569f9566caf64709aca5a23a009c2aa7307b931cb105fba508f0b250f942c
+size 164

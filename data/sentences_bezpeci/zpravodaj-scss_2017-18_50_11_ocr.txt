@@ -1,1 +1,3 @@
-místo působení zdůrazňovat Chicago azyl útočiště bezpečí Chicago
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c916e8681c474e709cd2e07517c936ae1b60218e11bcd02b94991cec975e177
+size 76

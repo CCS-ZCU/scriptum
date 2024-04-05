@@ -1,4 +1,3 @@
-směr nést jasný vědomit bezpečnost převzít Noska Kopřiva
-první gestapo státní bezpečnost
-demokretický země moci doVolit čekat možný reforma budoucnost moci spokojit kolektivní bezpečnost retický ^než skutečný prohlásit ministr uvést oblastní organisace moci mír zaručit Evrop skát rada severoatlantický pakt plánovaný uni uhelný ocelářský západní Evropa
-vysoký komisař Prancois Poncet prohlásit ukončení válečný stav Německo považovaný nepřítel okupační vojsko kie zvýšený zůstat země zajistit bezpečnost západní zóna zdůraznit útok západní Německo záp
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f4e8697bfdebe6b071cc768eab042b300a9b68c57f4bceec15a21dcd4dc7471
+size 621

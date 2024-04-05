@@ -1,32 +1,3 @@
-T T F C L W Managing Editor J W telefon Vol no
-CS S R EC opennout
-Nova Ostrava
-lidový demokracie
-ER S
-
-mineworker opennout
-
-i e hra
-
-
-
-lcft FCl
-ing
-
-
-
-
-
-
-
-
-
-
-
-
-
-impasse
-
-Dr Josef Plojhar CS S R
-
-KP mon R
+version https://git-lfs.github.com/spec/v1
+oid sha256:71a7d5bbd844ff376fd71e279596cbbf277c007b9642679277a28c70005b57ce
+size 205

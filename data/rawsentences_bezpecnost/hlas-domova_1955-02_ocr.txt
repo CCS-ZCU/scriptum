@@ -1,1 +1,3 @@
-Učitelé a ředitelé škol se příliš obávají o svou vlastní bezpečnost,než aby se pokusi- li žáky trestat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d9cbb0ec12e35bbb3f0887f0187ac9c4486c9cf7f3c1b1afe3ecbb473e3ddcc
+size 119

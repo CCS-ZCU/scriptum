@@ -1,2 +1,3 @@
- Paládium bylo odneseno do bezpečí na Pražský hrad, avšak švédský generál Königsmark Pra- hu dobyl a při rabování se jeho vojáci opět zmocnili Paládia.
- Ačkoliv věřící nesta- čili ukrýt milostnou sošku do bezpečí, nikdo z těch žoldnéřů sejí ani netkl, přestože protestantští vojáci si se zálibou zchlazovali žáhu na mariánských obrazech či sochách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bdfcdaef6ca0209daee926bb255f06fba096d536bdcb94b0beafe3f49a220a1
+size 390

@@ -1,5 +1,3 @@
-oblaka přivátý západ považovaný ideologický nebezpečí
-hrozit nebezpečí
-druhý hrozit nebezpečí odtržení domov exil prohlubovat náznak objevit myšlení řeč domov exil stát antipoda rozumějící sledující rozdílný cíl
-velký nebezpečí exil spatřovat vlastní přeceňování důležitost
-vysvětlovat svaz nebezpečí isolovaný západní mocnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91e83b07b7a454d6c45b5e0dd2f3f3881568b401c745f16c60ffc8dc5953f50
+size 374

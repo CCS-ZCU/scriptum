@@ -1,6 +1,3 @@
- Vytasil celulojdový kolt na nebohou stařenku a zvolal: „Pětadvacetník nebo život!", paní běžela na Veřejnou bezpečnost a vznikl z toho ochranný dohled Národního výboru nad výchovou prvorozeného.
- Vyšetřování se ujala Bezpečnost, hrozila polepšovňa.
- Spolu jsme se plížili Pres dvory do domu, před kterým hlídkovala Bezpečnost a v němž jsme večer měli / nám před očima procházela lady Makbeth strmou cestou od zločinu k šílenství Mslkolmova kytara rozdrtila její poslední sten.
- Mým přečinem bylo, že jsem šla na soukromou filozofickou přednášku, kde nás přepadla Bezpečnost.
- Hned po mně tam dorážejí příslušníci Státní bezpečnosti.
- Jste zařazen do evidence "Gruppe gefährlich" strana dvě  MĚSTSKÁ SPRÁVA SBORU NÁRODNÍ BEZPEČNOSTI BRNO 602 00 Obvodní oddělení VB Brno 3 ČSV: VB-692/43-89 V Brně dne 22.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4450e41e4bb2af788bb6ad811aea3733a4ab78a29146f3697e4b4a3ba0fa76e3
+size 886

@@ -1,7 +1,3 @@
- Vypracovalo aj Národný plán na zvýšenie bezpečnosti na cestách, v ktorom navrhuje napríklad častejšiu kontrolu rýchlosti áut na kritických úsekoch, prerábanie križovatiek na kruhové objazdy, systémy na odhaľovanie jazdy na červenú, budovanie nadjazdov ponad železničné trate a podobne.
- Na druhém konci žebříčku co do kvality života i bezpečnosti figurují vesměs africká města jako Lagos, Bangui a Abidžan a poslední je s pěti body irácký Bagdád.
- To je případ Atén, Říma a Londýna, které patří mezi města s nižší bezpečností.
- Pokud jde o osobní bezpečnost, nejvýš se vyšplhala slovinská Lublaň, která obsadila se 105 body 4L místo.
- Například Londýn je z hlediska bezpečnosti až na 69.
- Zapadaly do politického a názorového ovzduší demokratického státu, který se musel ve třicátých letech minulého století zvýšeně starat o svou vnější bezpečnost.
- Byl pod stálým dozorem Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b18b4c6d65299dbf6b5aef3e762f86955453dcdd17bab27202a00d6eb397f2
+size 989

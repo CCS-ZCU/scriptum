@@ -1,2 +1,3 @@
-voják mít Kypr stačit řecko kyperský národní garda obávat bezpečnost krajan roztroušený ostrov
-odsouzený komicmní informista poskytovat bezpečnost jugoslávský liberál taktika jugoslávský vedený patřit tah krajní proud střídat tah proud druhý
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c7dc8dafec105435873ff239c6a6fa0354247eebee6618cca09e3952dc50ed8
+size 260

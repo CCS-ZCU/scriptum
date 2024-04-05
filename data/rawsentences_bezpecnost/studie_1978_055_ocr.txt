@@ -1,3 +1,3 @@
- bdíti nad veřejným - pořádkem, klidemy bezpečností a veřejnou mravností a odvraceli v tomto směru všeliká nebezpečenství i odstraňovati nastalé poruchy.
- 85, které ve svém devátém paragrafu dokonce přesně cituje: - Policejní opatření proti Židům (1) Ministerstvo vnitra a politické úřady jemu podřízené jsou povinny bdíti nad tím, aby veřejný pořádek, klid a bezpečnost, jakož i veřejná mravnost nebyly ohrožovány stykem Židů s ostatním obyvatelstvem.
- Co s vámi bude, jestliže někdo jednou stanoví, že pro tentokrát třeba právě svým vzděláním a uměním porušujete veřejný pořádek, bezpečnost a mravnost! Náhle jsem měl pocit, že musím zatřást spící dívkou a křiknout na ostatní: teď je přece ze všeho nej důležitější, abychom společně zjistili, jestli na těchto stránkách nejsou také jeho otisky prstů, jestli tady v nich přede mnou nelistoval oni Nepřítel presidenta se ušklíbl a opakoval spokojeně: » Vaše žena nebude nikdy zpívat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:690713e04e493e72f5281c58908dfaf879464dbcb670b0a1048151a01e506157
+size 1040

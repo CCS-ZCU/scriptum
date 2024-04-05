@@ -1,7 +1,3 @@
- Rázná akce presidenta Eisenhowera, který si vyžádal od kongresu povolení k užití amerických branných sil v případě útoku na Formosu nebo na strategicky důležité okolní ostrovy postačí okamžité bezpečnosti.
- Před srto lety byla bezpečnost Austrálie zaručena námořní převahou Velké Britanie, která byla s to uskutečnit Pax Britanica v Indickém a Tichém oceánu a která celkem snadno zabrániia zakotvit na tichomořských ostrovech kterékoliv potenciálně nepřátelské mocnosti.
- Hlavně z důvodu své bezpečnosti se Austrálie začala zabývat bezprostředními otázkami západního Pacifiku.
- Když se Spojené státy chystaly znovu vyzbrojit Japonsko, kterému Austrálie po zkušenosti z minulé války nedůvěřuje, australská politika docílila toho, že Spojené státy nabídly a uzavřely tak zvanou pacifickou smlouvu (Ansus) v roce 1951 s Austrálií a Novým Zélandem, aby tak rozptýlily jejich obavy a dodaly jim pocitu bezpečnosti a jistoty.
- V roce 1954 se Spojené státy rozhodly vybudovat v Asii obdobu organisace protikomunistických národů v Evropě, jakou je NATO (Severo-atlantický obranný pakt), za účelem bezpečnosti a míru v Tichém oceánu, tedy hlavně proti komunistickému náporu na asijském kontinentě: bylo vytvořeno t.
- A tak se australský kontinent, který ještě nedávno byl vězeňskou kolonií, vynořuje jako důležitý článek, ne-li jako klíč k jakýmkoliv novým řešením kolektivní bezpečnosti v Západním Pacifiku.
- O západních velmocech víme, že chtějí vyjednávat, aby zajistily svou bezpečnost, rozšířily svobodnou oblast v Evropě a dosáhly takového narovnání se Sovětským svazem, které by zmírnilo současné napětí a postavilo vratký mír na pevnější základy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:febdac204b34358fe731ff718823f0d625362d1b5c64f128def5ae3be3466cd1
+size 1805

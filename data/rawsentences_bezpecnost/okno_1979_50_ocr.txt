@@ -1,1 +1,3 @@
- K definitivnímu rozhodnutí utéci přispěl slib Američanů, učiněny v rozhlase, že každému špiónu, který uteče do USA “bude zaručena osobní a finanční bezpečnost, přihlásí-li  OKNO 44 se v kterékoli době”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e87b6d3a33f4e6e066f4a51cd617632eb6868b434d1b13a73b85f4a17f81bb2
+size 234

@@ -1,7 +1,3 @@
-vymřít generace zažít solidní vyučování řádný bohoslužba
-víra velký nebezpečí
-chlapec reagovat představa ukázat krev strádání nebezpečí smrt
-vidět lidé život viset vláska vidět drahý nebezpečí lovit nepřítel
-lidé umírat nemocnice ukolébaní leže lékař sestra přítel podporovat mínění jednat pacient nebezpečí smrt zatajit
-misionář upozornit nebezpečí vesnice prožít léta
-vědět nebezpečí mít strach překvapit jiný Indián historie začít
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcb72ff4c0aac1c7223011145e002b1fd94a05f24d1e62237ec0091206efc19
+size 498

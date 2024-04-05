@@ -1,1 +1,3 @@
-ohlášený změna metr isterstvo itro bezpečnost Barák spravedlnost rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8d63a6852f792aedc5a01ed233346012215103575a81cbbb57f88d70d568eb4
+size 75

@@ -1,1 +1,3 @@
- Hebyl to kapitál, to ne, ale byla to pojistka pro všechny případy, Ü védomí tohoto finanžního bezpečí jsem pookřál a rozkvetl ténéř jako Viktoria královská.
+version https://git-lfs.github.com/spec/v1
+oid sha256:893cc2d6872614da6777df02d47d60e83c97e2df0e242aaa3e441afc1568a60e
+size 176

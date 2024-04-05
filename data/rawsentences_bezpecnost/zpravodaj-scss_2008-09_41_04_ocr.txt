@@ -1,1 +1,3 @@
- Viceprezident a šéf bezpečnosti vložili kľúče do zámkov a naraz nimi otočili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f30d6680be42a5f448c4556842f1eaebd5dc977f8f569286c07af070c70254
+size 88

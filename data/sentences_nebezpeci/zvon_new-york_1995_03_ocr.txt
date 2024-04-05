@@ -1,2 +1,3 @@
-používat válka vědecký zbra druh nebezpečí krutý povaha dovést válčící strana velký barbarství minulost složitost dnešní situace spleť tost mezinárodní vztah dovolovat nový metoda úskočný podvratný pokračovat zastřený válka
-nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6011f0a0d6f03de502a48b7f62a81e3328c747a3ca15915329289274f704a6
+size 266

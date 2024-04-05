@@ -1,1 +1,3 @@
-O B S A H : Dějiny jako dra na — Dr. B. Chudoba. Oievzdanosr do Božích ruko J —• P. Jarret O.P. De i vojáků —- Fred Marnau Básník F. Halas ve své závěti svobodnému světu. Veritas — Zprávy z domova. [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf74be8263908da181eb5478b768b61b89774dc4e6800000947696042c68dad1
+size 231

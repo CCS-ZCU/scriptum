@@ -1,6 +1,3 @@
-jiný statistika zatknout státní bezpečnost léta
-mystifikujicí jazyk zabírat široký pole deformace hluboký široký dobový konjunktura floskulo bezpečnost postavit strana Stalinův kult osobnost politováníhodný přehma mít společný ideál moci zatemnit pozitivní bilance období smírný negativní vliv Stalinův teorie zostřovaný třídní boj období úspěch socialistický výstavba absolútno koncentrace moc ruka Klement Gottwald systém osobně moc autoritářský koncepce vedoucí úloha strana
-dějiny bezpečnost ohrožený vina zrádce skrývat vlastní řada
-Nixon Sovět rád připomínat notorický antikomunista ochotný přiznat sovětský svaz status globální velmoc respektovat sovětský zájem vlastni bezpečnost
-Američan myslit zajistit vlastní bezpečnost účet
-první bod zahraniční politika bezpečnost říci rald Hinterreger generální sekretář ministerstvo zahraniční věc
+version https://git-lfs.github.com/spec/v1
+oid sha256:963e23fb49cd56d908c5ce6c5e32c52dce3fe24e345e8077e3ccc5efa044178b
+size 937

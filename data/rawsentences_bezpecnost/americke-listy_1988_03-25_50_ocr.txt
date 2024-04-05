@@ -1,16 +1,3 @@
- Měli zbraně a ohrozili letecky provoz a bezpečnost cestujících, - chtěli na výlet a nemožnost dosáhnout Anglie jinak, jim vnutila toto jednání.
- V souvislosti s touto poutí provedla Státní bezpečnost řadu nezákonných opatření.
- března střežen ve svém bytě Veřejnou bezpečností, která kontroluje příchozí.
- Státní Bezpečnost mu nezákonně uložila, že nesmí opustit Brno.
- Je proto možné očekávat, že v době konání pouti a mše provede Státní Bezpečnost další nezákonné akce vůči nezávislým aktivistům.
- Celá akce proti signatářům Charty 77, katolíkům i nekatolíkům, byla spojena s jinou nezákonnou akcí Státní Bezpečnosti.
- Do rezidence se podařilo proniknout jen Stanislavu Devátému a Petru Uhloví, kteří museli překonávat hrubé násilí příslušníků státní Bezpečnosti.
- Diplomatické vozy byly sledovány od rezidence až k tomuto domu autem státní Bezpečnosti, která zadržela Stanislava Devátého v o- kamžiku, kdy z vozu vystoupil.
- Státní Bezpečnost v minulosti často bránila nezávislým aktivistům v setkání se zahraničními návštěvníky, diplomaty, poslanci, ministerskými úředníky, členy vlád a novináři.
- Paní That- cherová ve svém projevu varovala, že má-li být Amerika nadále pilířem západoevropské obrany, musí i jednotlivé země západní Evropy více přispívat ke kolektivní bezpečnosti.
- Tato skupina, oblečená do dlouhých baloňáků a v černých brýlích uvedla v jednom sálu v centru města parodii na polskou státní bezpečnost, živě a nadšené aklamovanou několika sty diváků.
- Při vystupování byl Stanislav Devátý zadržen příslušníky Stárni bezpečnosti, kteří vůz britských diplomatů sledovali.
- Po propuštění byl ihned, asi po minutě, co byl na svobodě, zajištěn přivolanou gottwaldovskou Státní bezpečností, která čekala s vozem před východem z ruzyňské věznice.
- Ráno k němu přišel náčelník Státní bezpečnosti inženýr major Vlastimil Daněk, který na Stanislava Devátého křičel, že ho zlikviduje a nejrůznějším způsobem mu nadával, a vyhrožoval.
- Stanislav Devátý držel od chvíle, kdy byl uvězněn ve věznici v Ruzyni a kdy na něm dělali příslušníci Státní, bezpečnosti své pokusy se psem, hladovku.
- Na to byl odvezen do Kroměříře, kde je spádová prokuratura, na které je zaměstnán vyšetřovatel, který má na starosti konflikty mezi občany a Bezpečností v Kroměříži a v Gottwaldově.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f4b81b4fc05a52325ec0df5bb594b1d22be7af308366f43ffc0723daa28d99
+size 2553

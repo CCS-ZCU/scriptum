@@ -1,1 +1,3 @@
-nebezpečí sever dnešní situace Indie Néhrú zodpovědný obětavý ministr národní obrana Menon vzbuzovat obava Indie pokračování strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:21c61c919c383cc15953224070b5e36dc0db72c0fc016e6e2fe3bcd68b000228
+size 147

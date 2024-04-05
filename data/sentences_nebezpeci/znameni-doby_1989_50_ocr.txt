@@ -1,6 +1,3 @@
-známý operace srdce provádět zchlazení tkáň snižovat nebezpečí pooperační komplikace poznání mechanismus zimní spánek sibiřský pa&lok otevírat cesta fantastický projekt
-jasnozřivý Karel Čapek varovat třicátý léta jvět vfetě nebezpečí moderní civilizace postátnění život vytlačení občanský spontunelt život společnost
-sxistovat nebezpečí obohacování rez vědět Jičín obchod krajina vyhnutelný přísný kontrola stát skrývat zárodek vykoříštování
-nutný véáét nebezpečí negativní výsledek technik Joj
-mez pohorit odaítánív jog cesta plný skrytý nebezpečí
-robouzit a^žný nastávat porucha věčený druh
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac276c55a7157cd3192f1519bd08ebbbd406880e602c92190e5c13595ec05118
+size 663

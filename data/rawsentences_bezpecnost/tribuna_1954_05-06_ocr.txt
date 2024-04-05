@@ -1,6 +1,3 @@
- TRIBUNA HROZNY ZLOBY Podvýbor senátu Spojených států pro vnitřní bezpečnost oznámil na začátku letošního roku, že se bude také zabývat činností některých československých exulantů, nyní usazených na území Spojených států.
- Třetí povinností politického exilu je osvobozenému domovu nabídnout v základních rysech takový řád který by v něm zajištoval osobní svobodu, sociální spravedlnost a národní bezpečnost.
- Pro Spojené státy je politická, vojenská a hospodářská integrace západní Evropy zárukou vlastní bezpečnosti, a proto tlačí na západoevropské politiky všemi možnými prostředky.
- Je pravda, že Francie má stále ještě právo veta pokud jde o znovu vyzbrojení západního Německa; že je stálým členem Rady bezpečnosti a zasedá na konferencích velmocí; a že Francouzská unie co do rozlohy i co do počtu obyvatelstva daleko předčí svého evropského souseda.
- Podnik je rozdělen na tyto »organisační útvary«: výroba, plánování, technické vedení, podnikové hospodaření, obchod a administrativa, kádry, technická kontrola a bezpečnost.
- Úkol bezpečnostního referenta stanoví statut takto: »bezpečnost podniku a jeho výroby a provedení účinných opatření na ochranu majetku a výrobních tajemnství, týkajících se zejména rozsahu, způsobu a druhu výroby«.
+version https://git-lfs.github.com/spec/v1
+oid sha256:394c478bbf6b7e669677c6517fa9f782ba66f80121d1d3abf42a9e2c7dcfb7a8
+size 1385

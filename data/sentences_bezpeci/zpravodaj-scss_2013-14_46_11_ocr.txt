@@ -1,4 +1,3 @@
-Němec bránit zloděj Česko Václav Janouš šéf MUS bezpečí Tomáš Syrovátko Jan Klímová Švýcarsko Beobachter Vitajte Koruptistane Schmid starý ľude azylový centra
-Václav Janouš
-český občan bezpečí
-příští měsíc bezpečí Česko
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e86ee70b2abf00bde6b38e2acbf2f49785a90be1a17d974eb395233430e75a9
+size 256

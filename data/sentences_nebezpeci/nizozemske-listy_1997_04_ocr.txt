@@ -1,4 +1,3 @@
-Vídeň vzdálený turecký nebezpečí
-odmítnout politický integrace moci vzniknout nebezpečí stát začít pochybovat právo existence druhý stát vzniknout stát bezpečný napětí
-nebezpečí malý země usnesení mít moc vliv
-zčeský písničkář nový doba nebezpečí hora dotazovat jméno fena psí noční podnik
+version https://git-lfs.github.com/spec/v1
+oid sha256:263bca643e9530a2c6653859d2a757eef12469fad0458cb208b33eae06d6c37f
+size 331

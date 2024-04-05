@@ -1,2 +1,3 @@
-František faktor mrtevý pohraničník bezpečí kasárna dostat možný odměna připnout hodinky značka prim poklepat záda vyfotografovat zástava útvar foto viset nástěnec
-anonymní střelec bezpečí člověk mrtevý Rakušan žádat vysvětlení československý pohraničník mít příkaz překračovat státní hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef814716eb8b918d4373e8d27e27bedd22aefbb8c3654807769f18587bd964f7
+size 333

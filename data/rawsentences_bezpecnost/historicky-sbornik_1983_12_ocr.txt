@@ -1,1 +1,3 @@
- Benešova zahraniční politika opustila lehkomyslně starou dobrou diplomatickou zásadu o zájmovém seskupování jako o relativně nejjistější záruce bezpečnosti a vsadila všechno na vzdušné zámky Společnosti národů, odzbrojovacích konferencí, Benešova ženevského protokolu o arbitráži (který jsme nakonec, k všeobecnému posměchu, ratifikovali jen my jediní!), Briand-Kellogova paktu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ae5f20d37bb9f28954f7c6c81f34cab749d6dbe5f1070272cb56f658d89724
+size 414

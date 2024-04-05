@@ -1,1 +1,3 @@
- Slovom, podniky pod komunistickou správou nemajú dosť bezpečnosti  JEDNOTA, STREDA, 14.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec49e2e2d726a7f195c58c9a517a388452b264705ca1fa672311299f75b5391b
+size 93

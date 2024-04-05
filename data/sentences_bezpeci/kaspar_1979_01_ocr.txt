@@ -1,1 +1,3 @@
-sklenice víno smiřovat měsíční světlo pocit bezpečí vzbuzovat bublání pstruhový potok chladící láhev rnoselský zbavovat úzkost působení zlý síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde7ffff08fe11b867590c9e0d903ebbea4b553449982869f78f9ae7a77343dc
+size 166

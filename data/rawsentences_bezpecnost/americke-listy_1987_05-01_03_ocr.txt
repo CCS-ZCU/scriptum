@@ -1,2 +1,3 @@
- litopadu 1986 byla odevzdána sekretariátu Konference o bezpečnosti a spolupráci v Evropě ve Vídni a velvyslanci W.
- Protože petice je adresována Konferenci o bezpečnosti a spolupráci v Evropě, která zkoumá dodržování, resp.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7550d0bcdd7ceccf58aaa2106caecdb0c513b35b7809161cc19a68628342acc
+size 241

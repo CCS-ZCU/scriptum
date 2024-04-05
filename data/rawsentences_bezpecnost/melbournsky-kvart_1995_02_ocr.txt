@@ -1,2 +1,3 @@
- Kritéria byla dost přísná a města získávala body za podnebí, kvalitu bydlení, dokonalost služeb, bezpečnost a další hodnoty nutné k spokojenému životu.
- Prezidentova návštěva je koordinována s Victoria Police, která má na starost bezpečnost jak prezidenta, tak návštěvníků z řad krajanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26c9993fe852c40476f5f7b30eb8de5101d963fc4210bed084fe19f84ad8a1aa
+size 319

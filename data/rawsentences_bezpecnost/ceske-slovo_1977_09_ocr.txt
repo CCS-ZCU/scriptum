@@ -1,12 +1,3 @@
- poradní sbor v západní Evropě vydaly provolání, ve kterém žádají, aby otázka následků okupace byla dána na pořad podzimního zasedání bělehradské konference o bezpečnosti a spolupráci v Evropě.
- — Komise pro bezpečnost a spolupráci v Evropě, utvořená Kongresem Spojených států vydala začátkem srpna třicetistránkovou zprávu o porušování lidských práv a nedodržování helsinských závazku komunistickými režimy.
- Za přímo dramatickou, ne-li hlavní událost v Československu pokládá americká komise pro bezpečnost a spolupráci v Evropě Chartu 77 a její lednový manifest, který vyzval českosfoven- skou vládu, aby — kromě jiného — začala konečné plnit závazky, které na sebe vzala podpisem na závěrečném dokumentu helsinské konference.
- Zpráva americké komise pro bezpečnost a spolupráci v Evropě pak uvádí konkrétní doklady o porušování lidských práv v Československu a dovolává se při tom výpovědí svědků.
- Vyhlíží to tak, že západní spojenci, při všech starostech o hospodářské problémy, jakoby si byli uvědomili potřebu zajistit si především bezpečnost.
- U příležitosti devátého výročí přepadu Československa požaduji proto Češi a Slováci žijící ve svobodném světe, aby otázka následků okupace byla dána na pořad podzimního zasedání bělehradské Konference o bezpečnosti a spolupráci v Evropě.
- Státní bezpečnost ji povolala k výslechu.
- exilu v západní Evropě před ženevskou, helsinskou a nyní bělehradskou konferencí o evropské bezpečnosti a spolupráci v Evropě.
- Přítomní členové švýcarské delegace na konferenci o evropské bezpečnosti a spolupráci v Evropě ujistili zástupce exilových organizací, že budou na bělehradské konferenci naléhat, aby komunistické vlády ve střední a východní Evropě plnily helsinské ujednání.
- Dum číslo 138 byl hermeticky obklíčen příslušníky Veřejné bezpečnosti, kteří si do příbytku vynutili přístup.
- V pondělí jedenáctého července byla v jeho rychlovském domku provedena další prohlídka, při níž však příslušníci bezpečnosti nenalezli a tudíž nemohli ani zabavit žádný takzvaný zatěžující materiál.
- pojistné doby ani po nabyti německého občanství (a ti starší jen výjimečně), pochopit, že osobní a majetková bezpečnost se nedá získat dodatečné, když je již pozdě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ab5ec82f6243a83318acfc2875abe494b970143690e554af0c18906e551636
+size 2465

@@ -1,2 +1,3 @@
-krátký doba ministerstvo zahraniční věc řídit týdeník obzory vývoj snažit čelit komunistický nebezpečí
-odboj různý část jižní polovina Francie riziko stálý nebezpečí zatčení Gestap
+version https://git-lfs.github.com/spec/v1
+oid sha256:c00251beeb965c1ece39854335f908da4e169927c8787c6339aa46b939f400f2
+size 208

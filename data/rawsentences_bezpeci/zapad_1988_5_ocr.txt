@@ -1,1 +1,3 @@
- Jenom stará paní setr- vá v relativním bezpečí pohovky, byť v posezu dámy jejího věku i váhy ne- důstojném, s nohama přes opěradlo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd9ea12adeae3cbbf0eb185ad9c6554fe4449ae19837de2c387aa716cde811c
+size 144

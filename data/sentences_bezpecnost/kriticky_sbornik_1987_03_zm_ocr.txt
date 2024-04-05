@@ -1,1 +1,3 @@
-maaarský zahraniční politika pres riziko možný vát podporovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:b87baecd042c00be033e38055b6fcd38a7b9097905f8d3e386c762c560f0f099
+size 70

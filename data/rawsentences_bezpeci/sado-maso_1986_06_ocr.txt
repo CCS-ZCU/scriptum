@@ -1,4 +1,3 @@
-A my se pak cítíme vytrženi z našeho výhodného pocitu bezpečí jeho šíleným duchem,jenž nás pronásleduje svými nesmyslnými vizemi a hlasy.
-Jeho kult- turní a sociálně-ekonomické souvislosti se dnes zdají banální už jenom antropologům a marxistům, a dále,se svým mimoyolným a inter- personálním povzbuzením,jaké nám nabízí,dává nám onen pocit ontologického bezpečí,jehož oprávněnost pociťujeme jako sebeodůvodnění, ačkoliv z metafyzického,historického,ontologického,sociálne-ekonomického i kulturního úhlu pohledu vidíme,že jeho zdánlivě absolutní.
-Není naše vlastní,naopak,my jsme vždycky v pořádku a v bezpečí,v závětří domova -samozřejmě jen dotud,dokud zůstáváme doma v klidu před obrazovkou!Když pozorujeme neštěstí druhých lidí,ta naše vlastní nas nemohou znepokojovat,jednoduše a prostě k nim dojít prostě nemůže.
-? roce 194? napsal malíř Hark Pothko:"Osvobozen od falešného pocitu bezpečí a komunity,může umělec obětovat i svou plastickou bankovní knížku právě tak,^ajo se vzdal jiných falešných forem bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f13082730efe79fbfab7c0d9964fd8698d2858614fd163e2ba73fe2c30bf288
+size 1116

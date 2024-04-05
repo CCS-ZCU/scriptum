@@ -1,1 +1,3 @@
-Haig den odchod místo velitel vojsko atlantický společenství zdařený atentát život červen přičíst sovětský svaz odpovědnost teror násilí podvratnictví infiltrace neklid celý svět označit sovětský svaz nebezpečí ohrožovat svoboda země světový mir
+version https://git-lfs.github.com/spec/v1
+oid sha256:61713231059c78aeacfbb0fd3bd0f1138890f6388ca757330afd284e0482b3ab
+size 275

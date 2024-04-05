@@ -1,2 +1,3 @@
- Bezpečnost se držela v povzdálí, filmovala shromáždění a kontrolovala totožnost.
- USA patent Pro Vaěi bezpečnost na cestách I doma: - MIKROVLNY -přístroj varuje (rakovina, leuk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed46d0c5657333364d475e09b12cac7d887db3d209fe7c1a63e12c55bec5a153
+size 193

@@ -1,1 +1,3 @@
- Mužští s polooholenou tváří vyběhli z holírny, majíce druhou tvář namydlenou, z lázní vyběhly ženské majíce jenom prostěradlo na těle — vůbec v podobném okamžiku spásy málo dbá se esthe- tiky a pravidel života, jen když se dojde bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcae74c48238d35173bd77d681fcec045e795d9c27a4c6172da75bf8cc8a0cc1
+size 268

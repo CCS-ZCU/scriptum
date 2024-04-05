@@ -1,2 +1,3 @@
-Paládium odnesený bezpečí pražský hrad švédský generál Königsmark Pra dobýt rabování voják zmocnit Paládia
-věřící nesto ukrýt milostný soška bezpečí žoldnéř sejet tknout protestantský voják záliba zchlazovat žáh mariánský obraz socha
+version https://git-lfs.github.com/spec/v1
+oid sha256:016edfc60921461cbe51f49131c0a5695a1b813a130efcd8817d1e663adce98d
+size 273

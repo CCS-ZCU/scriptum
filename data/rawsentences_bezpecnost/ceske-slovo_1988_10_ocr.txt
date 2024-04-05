@@ -1,5 +1,3 @@
- Tím byla utvořena habsburská monarchie jako sdružení tří samostatných království, jejímž hlavním posláním bylo vybudovat a vytvořit hráz proti pronikání Turků do střední Evropy, a tím upevnit společnou bezpečnost.
- úřady se rozhodly provést „určitou úpravu v systému odběru tuzexových poukázek“, oznámil kapitán Bezpečnosti, dr.
- Vyslovil podiv nad tím, že osoba — údajně trpící mentální chorobou — má dovoleno vykonávat odpovědnou práci, která se týká bezpečnosti vlakové dopravy a cestujících.
- V době líčení s Popelkou byl záměrně vyzván k vyšetřování na Bezpečnost Petr Cibulka, Jana Sabatu ohrožovala skupina civilistů a vyhrožovala mu násilím, jestliže se zúčastní soudu.
- Korejská bezpečnost však byla ostražitá a vše dopadlo podle přání pořadatelů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b37add9a8b9ce1c51f5dd8440da5a765b5546418df83c046d2b3cf336e620269
+size 855

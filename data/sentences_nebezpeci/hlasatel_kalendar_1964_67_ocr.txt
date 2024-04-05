@@ -1,17 +1,3 @@
-mít husa Martina nebezpečí
-člověk spaní octnout nebezpečí život
-ospalý poznat nebezpečí příbytek hledat voda moci chvat postihnout pokoj připadnout nádoba dceruščiný okno
-stávat pán mít přístup říkat ‘lepší lidé starý zapřít Čech hrozit nebezpečí hloupost malicherný ješitnost
-nebezpečí čekat musit ohánět národnost uhájit napadnout
-učitel zastrčený český vísko poznat nebezpečí germanisace napadnout žák přijít svět mít nebezpečí vyzbrojit
-poznat hrozit nebezpečí naježit
-
-Sokol posílat žena nebezpečí milující vnucovat okamžik srdce musit překypět snaha sebezapírání
-mladý paní vytušivše hrozící nebezpečí poslechnout instinkta sebezáchova pokyn zmizet zahalený šedý krepový přehoz zadní východ průchodní besídka lesík nej blízký cesta vrátit host naznačit mladý švakrový
-bojovný vzezření Josefovno
-Ivan Semenovič vypitý celý proud čaj vdychat zápach dým voskovice Vláďa obraz příčina nebezpečí rozžehnout poslouchat
-otrušík rada lékařský užívat Kateřina Cyrillovna Jelisaveta chovat zanechat dům Kateřina znamenat veliký nebezpečí
-odejet seznat dívka hrozit nebezpečí
-moucha hrozící nebezpečí uniknout
-Moucha čílka odlítnout
-tesklivost vodit ruka těžkomyslnost večerní horečka ovíjet hrůzný vidina teta Katy svědčovat člověk pohodlí boží spokojenost najít nový lékař doktor Festin přivodit zázrak šťastný obrat muset nebezpečí odehnat pravit přesvědčující sebevědomí přinést nový lék
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2a1bf36f7a3214a59a2c2759ecceff153c9dedcff9cf4e4f3d5f01b7218192d
+size 1572

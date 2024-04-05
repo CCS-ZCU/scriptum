@@ -1,10 +1,3 @@
-poslat okamžitý svérn návrat funkcionář přítel bylet nebezpečí spěšný
-Paříš Praha bludný kruh
-litr nahrazovat Svitákův dokončení věta chtít zničený svižný přijmout riziko válka
-město vystavený nebezpečí lidský rozměr říci vpád přátelský soused občan bývat srazit šik bývat obětovat život dělat mučedník vlastenec
-smrt čas zničit živný pocit růst účel život pohyb
-případ člověk chtít přežít uvržený koncentrační tábor vydávat velký nebezpečí smrt přetrvat přetrvat narušit nevina
-krajní situace člověk rozhodnuvšit zůstat člověk muset vzít nebezpečí utrpení hodlat přežít
-myslit nebezpečí tábor přežít metr hrozit první rok vyvinout jiný životní tempo cpát chtít udělat trefa bát práce lágr ráno alo porozum ěnit hlubina život vykročit apel vatovaný kabát zašpiněný sádra motorový olej přetrvat vlekoucí dvanáctihodinový pracovní den celý léta metr zbývat konec trest
-sestup znamenat prožívat ztráta podstupovat nebezpečí utrpení konec proces soustředění sebepoznávání ústící přetrvat umocněný duchovní naplnění pravý jáství hodlat přežít bolest přítomný tělo srdce duše
-Kostoglůtův řešení žít vojensko vědomý nebezpečí připravený smrt bránit nik moci
+version https://git-lfs.github.com/spec/v1
+oid sha256:d904082506e8e4ec1ef037726c2a1256c32a3703618c6fbe1e2fdb3b1e4ec7b9
+size 1324

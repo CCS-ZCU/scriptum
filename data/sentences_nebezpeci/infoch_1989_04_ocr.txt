@@ -1,3 +1,3 @@
-další občan odpíraný svoboda strach preambule první pakt nucený žít trvalý nebezpečí projevit názor ztratit pracovní jiný možnost
-cítit vědět vývoj velký nebezpečí důvěra spolupráce ohrožený
-vznikat nebezpečí praxe smlouva podepisovat dodržovat změnit
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8fefe125d5c9059dce72ba238a5dab2f1de8bd40cb202984d51a9cca57943bd
+size 284

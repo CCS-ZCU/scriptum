@@ -1,15 +1,3 @@
-
-nacházet veliký nebezpečí pravit hlas povýšený hodina jistý život majetek
-kluk posaváda bránit otec odvrátit mnohý nebezpečí
-Lidunka stálý nebezpečí chtít vžitý
-špatný nálada mnohý předtuch blízký nebezpečí jet jezdec vysoký
-Jeník připadnout mysl hrozit nebezpečí otázat právo moci nutít vstoupit vojsko
-vlast nebezpečí svát povinnost občan hájit statek hrdlo
-dojíždět podhajský přesvědnout hrozit nebezpečí
-činit případ opáčný
-div zoufat myšlénka hrozit nebezpečí
-účinek zjevný
-nebezpečí
-pěstovat pšenice jiný druh obilí zavodňování nebezpečí neúroda případ nedostatek déšť
-hrozit zlatachtivý nebezpečí indiánský kmen pláň americký západ rok příroda zdát spiknout bohatství nechat zaplatit
-elektrický světlo město muset nebezpečí přerušený město osvětlovaný požár noc hrůza dodávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7cbe9f9405c00146cdb94445db8675405f9d0fe87721117551102b4a4417b30
+size 894

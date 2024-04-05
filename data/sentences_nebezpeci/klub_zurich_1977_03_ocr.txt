@@ -1,5 +1,3 @@
-přestat hlásat křesťanský láska nebezpečí moderní svět dostat období člověk člověk vlk
-říci seminarista nebezpečí smět odradit misijní práce
-vyhrát dckázat projít soutěský dospívání změnit
-ŠTVI nebezpečí léta
-zvedat rkotva jistota nabizet rodič ziskat jiný zakotvit osoba rodina kariéra kamarád
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b1fc97c1af41f86fa35013da73a0b9ea0c3a98802cc9b3e315b65a6b6d756f4
+size 362

@@ -1,14 +1,3 @@
-týden pozvaný H&ydrichovit obdržet Eichmann memorandum příslý níka sloužící Wartega sdělovat zima vznikat nebezpečí uživit Žid možný
-kouřit smět vědět Ziemowit nebezpečí plyn
-přijít propagační oddělení aerolinka slůvko vyvolávat žádoucí asociace tvrzení bezpečný přistání vzbudit představa odvrácený nebezpečí
-smrtelný nebezpečí hrozit zba hům organizace jso známý vymyslit
-bezpečný dětství asexuální číhat četný nebezpečí
-období dospívání nebezpečí zvět šojit
-udržovat pravý střídmý míra nemírný pohlavní život představovat velký možný nebezpečí působit
-kniha prodávat zákazník vysoký spo lečenský kruh zasílat posta nebezpečí hrozit ustý
-muset čelit nebezpečí dobrý spisovatel samizdat publikovat strach ohrozit literární pozice
-mít dobrý pocit dělat třebný užitečný moci žít vlastní život snášet těžkost nebezpečí
-člen strana jovat vzdorovat nebezpečí umírat první linie
-odrazit fašistický nebezpečí podařit tečit dostávat odplata
-neustálý připomínání strašlivý utr pení vyvolaný léta nacisticko invaze dělat každodenní mrzvtost malý ^zlo dvas vsadit pocit zavázanost rád poznout strádání nebezpečí válka
-pocit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad8f1e9b154829b683d9ec2bf5bf3f7839d60cf4ffeae1d0e8032d1687dbdd46
+size 1316

@@ -1,1 +1,3 @@
-nebezpečí mravní nejistota věřící bod upozorňovat známý fakt diskriminace věřící škola zaměstnání
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e216d6bd5dede6af4100eaa0a2ac515ce96a1340451e80e4f6fc0968dd7b65
+size 116

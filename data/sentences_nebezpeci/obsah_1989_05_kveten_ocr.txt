@@ -1,2 +1,3 @@
-podařený státek ylo Sovět etovaný smysl možný zavést •ez nebezpečí yÝjimečný stav
-poznat bezpečnostní orgán muset anonymní falešný výstraha jednat ^ba rií kus nebezpečí veřejnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ad3e7d534a55f8fa76a0318574ad58bb237b35c629ad0ca3fe6065ce7414c0
+size 205

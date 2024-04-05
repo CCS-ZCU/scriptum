@@ -1,1 +1,3 @@
-ukazovat názorný znamý nala jezuitský redukce období kolenizaění zotroeování jihý americký Indián bezpečí plod práce kultura zpěv divadlo
+version https://git-lfs.github.com/spec/v1
+oid sha256:335f3dc17ec4cf1271371abbb49e8b2a248e191f341d216a1614a3824b1c0b90
+size 149

@@ -1,1 +1,3 @@
-nebezpečí svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:d12a0fb885266a1284200e9f8fd8023766c4a059dac9c246a7a03eeeda3c8caf
+size 20

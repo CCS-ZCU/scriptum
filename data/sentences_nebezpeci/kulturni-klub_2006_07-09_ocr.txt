@@ -1,2 +1,3 @@
-rozezlený ochránce příroda namítat zjistit konkrétní nebezpečí rakouský strana hrozit
-výstavba obytný dům skrývat vysoký vstupní náklad nebezpečí současný doba developer Karlův Vary dařit postavený objekt prodat pronajmout
+version https://git-lfs.github.com/spec/v1
+oid sha256:54b8b143ff792179886a61595196c4ebc164f586bf7fc3082c4abbdb84ed1670
+size 247

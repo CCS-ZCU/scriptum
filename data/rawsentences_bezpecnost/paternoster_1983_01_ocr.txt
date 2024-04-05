@@ -1,1 +1,3 @@
- Otec Števicha, pracovník Státní bezpečnosti, přišel jednou domů a našel tam svého nezletilého syna s jeho nezletilým kamarádem Mejlou v manželské posteli s dvěma děvčaty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f54289936c31a4cb99009f48cdea3f2fca1d7f0559cf4298d0e2ba9492c5854
+size 190

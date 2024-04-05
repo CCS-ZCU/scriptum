@@ -1,2 +1,3 @@
-nutný vyklidit misijní stanice okolí
-personál stanice Belgičan ano muset uchýlit bezpečí komunistický bojůvkář působit nepokoj
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eafff83fc7162a388d7cbb5a53b6ac2f827655a426a9dab134d0b40e7710529
+size 140

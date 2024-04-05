@@ -1,1 +1,3 @@
- Po druhé světové válce byl členem Národního shromáždění, kde na sebe upoutal pozornost jako člen bezpečnostního výboru a účastník parlamentních rozprav o nedemokratickém a spikleneckém postupu KSČ zejména v národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68b2c397f2135c2667620db8eaebf5e51f7d59238bff589322bc3bc999152bed
+size 255

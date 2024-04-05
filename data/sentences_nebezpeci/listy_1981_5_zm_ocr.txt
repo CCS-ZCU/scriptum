@@ -1,5 +1,3 @@
-nebezpečí hrozit váhat korigovat původní rozhodnutí
-moc rozeznout nebezpečí tkvící federace lokomotivní četa samostatný závislý dělnický organizace nebez peč existence totalitní režim
-dělat vystavovat nebezpečí lidé důvěřovat
-boj odvaha čas rozvaha smět vystavovat nebezpečí ust povat kombinovat
-udržet totalitarismus SSSR velký nebezpečí návratný demo ralizace alkoholický degenerace většina dělník
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6765c6af7cfa53367025e2443d6b4afd68a163881710d85707b208ca01b4072
+size 609

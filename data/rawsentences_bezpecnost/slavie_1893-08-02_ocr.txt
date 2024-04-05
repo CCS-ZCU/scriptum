@@ -1,1 +1,3 @@
- Žádné zákonodárství nepřekáží jeho rozmarům a nechrání bezpečnost života neb majetku jeho poddaných.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35922aec12c3217e9fd556b7eb83a2628bc9a96fe5589e61a5b50259b9d85e6
+size 118

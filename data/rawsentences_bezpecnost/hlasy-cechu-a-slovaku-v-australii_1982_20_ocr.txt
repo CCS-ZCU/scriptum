@@ -1,1 +1,3 @@
- Vždyť se ještě vždy mohli obrátit, podepsat prohlášení o bratrské pomoci 1968, obnovit své členství ve straně a případně spolupracovat s bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c657f4e6734ff2859657455ce57a54e3cf9fd56c18d5c831c16e3e9ffa3e16
+size 170

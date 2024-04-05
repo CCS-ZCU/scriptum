@@ -1,1 +1,3 @@
-klidit dosbek klást mravný návrh bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff6146e907a3d8c3da015b12cdf6bd4f6258bc16aab874eeeb6e3ce633a74885
+size 46

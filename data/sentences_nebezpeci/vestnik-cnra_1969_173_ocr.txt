@@ -1,1 +1,3 @@
-cítit žádoucí cíl mít sledovaný cena mít mít přehlížený následující okolnost plodný spolupráce otázka světový míra zmírnění napětí zájem vyvarování nebezpečí atomový střetnutí velmoc široký hospodářský jiný vzájemný styk spojený stát sovětský svaz malý zájem sovětský svaz zájem
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b300e5308b8faca4a6f9eeacfa8e7bc6adf8bca58cf3e0518acd6817978f9e2
+size 331

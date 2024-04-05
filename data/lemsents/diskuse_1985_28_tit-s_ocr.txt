@@ -1,13 +1,3 @@
-diskuse číslo říjen
-obsah číslo diskuse Laureát J Šabata T A kritický poznámka polemika J Šabata Laureat Kohout Tesařová jiný Luboš Kohout T A diskuse Laureát J Šabata
-teoreticko politický občasník diskuse číslo květen zveřejněný stát chtít chtít Laureat pseudonym bývalý stranický funkcionář soudit obsah článek významný postavení
-stať rozebírat názor Strouhal sympatizovat Fojtík kritizovat vyjadřovat celý řada postoj metr j hodnotit pražský výzva vytýkat dotknout německý otázka
-Leurcatus vytýkat charta zahraniční styk zaměřený agresivní element západ upřesňovat mít mysl
-ftormovanost charta zahraniční styk lze vysvětlit autorový izolovanost signatář charta
-Cím vysvětlit Laureátův požadavek těsný přátelský spojenecký vztah velký sovětský svaz zprostředkovaný lidé mít důvěra autorita
-autorův myšlení založený ©ptice absence elementární demokratický postoj petrifikace údajný socialismus stát quo myslitelný rovina výjimka zkážsaggí výměna vládnoucí gamitura muž důvěra autorita lehký liberalizace politický systém technokratizace národní hospodářství
-autor názor označovat komunistický zajímavý ukázka stalinismus přežívající osmdesátý léta ©pozici oficiální moskevský orientace
-dialog Laureát pokusit Jaroslav Sabata článek demokratický revoluční identita levice den hentira okraj pražský výzva červen slovo vycházet diskuse číslo červenec
-autor polemizovat Laureát jít © pražský výzva
-zdůrazňovat podstata výzva vidět orientace demokratický samosprávný Evropa
-tétní souvislost poznamenaný většina překlad němčina angličtina dostat mít přeložený slovo znít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ccfce7172f8318fa8d19dc769a0e1ae0a8d53b005eee12f536a44ed86a067d
+size 1747

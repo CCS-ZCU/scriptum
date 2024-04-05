@@ -1,6 +1,3 @@
- Jsou však celé obory a profese, ve kterých se tito lidé vůbec nemohou ucházet o zaměstnání, kde platí pro mnohé lidi fakticky zákaz činnosti nebo zákaz zaměstnání, ačkoliv nejde o profese spojené s bezpečností státu a jejím zajišťováním.
- úřady označeno za činnost ohrožující bezpečnost státu, jeho socialistického zřízení.
- úřadů a odborů je vydávat za právně přípustný a oprávněný postup v zájmu bezpečnosti státu.
- orgány se však nikdy nepokusily seriozně odpovědět, jak a v čem může požadavek po důsledném zachovávání ústavy ohrožovat bezpečnost státu.
- Lze si snadno představit, co to znamenalo v podmínkách intenzivního dohledu ve vazbě Státní bezpečnosti: do každé cely nahlížel dozorce v intervalu jen o málo delším než minutovém.
- Jak je Vám známo z jiných informací, jsou od počátku sedmdesátých let v naší zemi protiústavně a protizákonně vylučovány z přístupu na vyšší stupně vzdělání děti občanů a občané, kteří tím či oním způsobem, vždy však v plném souladu s právním řádem, projevili či projevuji rozdílné názory na politický systém zavedený u nás po cizí vojenské intervenci v srpnu roku 1968, jež — jak známo — byla i předmětem jednání Rady bezpečnosti OSN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16235e0fb683ecd44534925f010a51273f4f1b34f4ae48520b7bf07da0fb5841
+size 1332

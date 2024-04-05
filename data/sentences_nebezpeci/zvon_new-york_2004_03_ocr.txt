@@ -1,1 +1,3 @@
-ruský zóna nebezpečí číhat krok
+version https://git-lfs.github.com/spec/v1
+oid sha256:c81bcf2df2b5443984c3e66409fbd37140be0c778ade191ef47522ddc6b4cfea
+size 38

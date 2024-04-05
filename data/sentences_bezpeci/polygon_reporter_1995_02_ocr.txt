@@ -1,1 +1,3 @@
-platit vysoký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0a45e736292d87853f44a325ae6f956160b7477810130203d59631bf35171a4
+size 20

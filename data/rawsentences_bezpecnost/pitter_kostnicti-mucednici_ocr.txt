@@ -1,1 +1,3 @@
-Císař Zikmund slíbil Husovi vydat "glejt", to jest záruku osobní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11308cf6e0981dca079e018077afa141abee128853da8610aa7897d9d9cffe2d
+size 84

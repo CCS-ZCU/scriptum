@@ -1,4 +1,3 @@
- Znamená převedení dalších kompetencí na republiky, a to v oblastech zahraniční politiky, financí (zřízení emisních bank), železnice, pošt, telekomunikací, životního prostředí a bezpečnosti.
- června 1990, na konferenci o bezpečnosti a spolupráci v Evropě, která jednala o lidských právech.
- Že je tam kdekdo? Státní bezpečnost pronikla do všech oblastí veřejného života.
- Mnozí z nich se stali podnikateli, jiní pronikli do státního aparátu, zejména na zastupitelských úřadech, avšak také ve státní administrativě, bezpečnosti a v úřadech vojenských.
+version https://git-lfs.github.com/spec/v1
+oid sha256:790eb2dca1392e0081c07082bc4d60db61985300bff8f7ee3edf5c91b48d14c3
+size 606

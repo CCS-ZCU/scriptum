@@ -1,3 +1,3 @@
-projev politováníhodný měkkost nedisciplinovanost člen ohrožení bezpečí SIE ztracení stanov případ rozerový
-pozitivní důsledek technický přístup realita mnohostranný růst materiální bohatství pohodlí bezpečí
-zřejmý zneužití připomenout prostý cíl zvyšování bohatství bezpečí pohodlí vést negativní důsledek vyčerpání přírodní zdroj zamořování prostředí odpad narušování přírodní rovnováha
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c07ab02408aa6e9a7d3dfbbae3a8e74276c66d88b925a45827d60e144cc4389
+size 450

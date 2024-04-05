@@ -1,4 +1,3 @@
-svatý oboda
-tušit blížící nebezpečí
-síť známý nebezpečí vznášet padělaný shromáždění
-vznikat nebezpečí proklamovaný racionalita zvládnutí celostný smyslový konkrétní svět kvalita hodnota vystrkovat růžek přestrojený starý iracionalita
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0779ed769036f0314ececb6544930fd9239852d874ae055c05a8c83503111f0
+size 272

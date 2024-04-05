@@ -1,1 +1,3 @@
-říci krásný řeč děcko slyšet prvý doba nebezpečí bránit krev
+version https://git-lfs.github.com/spec/v1
+oid sha256:076ee4020a08b9da40b6d01db04e27fafd30d7bd75d063bca8c00e91f27eb937
+size 73

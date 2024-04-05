@@ -1,1 +1,3 @@
-silnice dávný dát nebezpečí přejet trakař mít nový pěkný povlak vesnice prosvítat novota omítka střecha město léta vypadat stát oběť zemětřesení vzpamatovávat socialistický šeď rmut předměstí vyrůstat celý shluka novostaveba starý pošmourný panelák hezký rodinný domeček vidět plno nový prostorný obchod uprášený zchátralý dederácký fabrika ustupovat čistý moderní závod
+version https://git-lfs.github.com/spec/v1
+oid sha256:743a34434f46444a9b81937b92fe57b869044866f31b178e6e01f0e3bc295f99
+size 423

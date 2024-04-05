@@ -1,2 +1,3 @@
- Je potřebí hledat jiné prostředky, jež by přinesly lidu blaho a bezpečí a zachovaly zdatnost a výkonnost hospodářského 76  života, protože jenom země, jež je bohatá dík výkonnosti všeho svého průmyslového,obchodního i zemědělského podnikání může provádět důslednou a uěinnou sociální politiku, jejíž studium je ovšem pro naše socialisty něčím na co dosud nepomysleli.
- Vždyr protikomunistická většina národa doma nemá důvodu toužit po jakémkoli druhu komunismu, a jistě má ještě méně chuti — obzvláště po tom, jak se zachovaly Spojené státy když povstalo proti Kremlu Maďarsko — nosit svou kůži na trh jenom proto, aby pomáhala několika ambiciosním a dolarů za to lačným propagátorům “národního“ komunismu,kteří sedí pěkně v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e170550b2d278af99ecda1dd10078b5afd03599680e07d3951dbf6f18943ab
+size 828

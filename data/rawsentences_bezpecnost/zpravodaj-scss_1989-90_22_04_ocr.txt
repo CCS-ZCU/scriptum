@@ -1,2 +1,3 @@
- Bezpečnost je dnes zcela zajištěna celostátní pohotovostí při tak nebezpečných akcích, jako byla Anežská pout v Praze a v menším měřítku, ale s větší brutalitou o velkých poutích.
- Akční pole bylo pozoruhodně široké: zdraví, školství, tajné služby, vnitřní bezpečnost a obrana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3364492960be23119243e0b606ecad94930de696d575314e60cf77ebefb2e909
+size 314

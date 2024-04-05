@@ -1,6 +1,3 @@
-nebezpečí katolický názor moci tolerantní pluralistický společnost akceptovaný čelný kuriozita
-druhý strana vzrastat nebezpečí vznik mikrobiálnice kmeň rezistentní vuče antibiotikum možnost péstovat zvláštn lidský rasa
-nemocný zápal plio nebezpečí smrt
-rozšírení táto praxe nést další velký mravní nebezpečí moci byvvést snaha pestovat lidský zárodek účel bud implentace pŕespočetný zárodek fertiliza
-osud sveta nebezpečí vstat skutečnč moudŕí lidé
-nebezpečí bezmezný
+version https://git-lfs.github.com/spec/v1
+oid sha256:775e6227117e16a9de32d334423a58c5887a0c32d8d700e12079e49e99375faf
+size 526

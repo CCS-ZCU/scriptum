@@ -1,1 +1,3 @@
- prerokovaly otázky spolupráce iudu so složkami verejnej bezpečnosti, náčelník ES ŠTB pripomenul, že "například v Pieštanskcm okrese traja záškodníci zapríčinili tohto roku až 28 požiarov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1aec9c23951a93c2d9e72e0735a77fb205741f5e2dff75be0580788580e0e2f
+size 208

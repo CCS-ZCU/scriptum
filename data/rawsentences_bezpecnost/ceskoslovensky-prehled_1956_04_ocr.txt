@@ -1,7 +1,3 @@
- Co se děje asi v hlavě místního agitátora, když si v Rudém právu přečte, že “mnohé názory, vyřčené jednotlivými osobami, či tlumočené články v tisku — i v Rudém právu •— se často považovaly za definitivní soudy a hodnocení a někdy z nich pak různí horlivci vyvozovali nesprávné závěry” ? Nepřejde ho horlivost? S jakou chutí si navléká uniformu policajt po přečtení anonymního fejetonu v Rudém právu, kde se výslovně praví, že “Slánský dokonce žádal, aby se pracovníci bezpečnosti učili ze zkušeností .
- ‘‘Odrazem toho bylo, že se vyvolávaly u některých pracovníků bezpečnosti i justice nesprávné názory, že oni jsou hlavní silou třídního boje .
- Nejvíce pozornosti u- poutaly pochopitelně otázky vnitřní bezpečnosti, negalantní pád Stalinův a Gottwaldův a slib zvýšení životní úrovně.
-, kterým bylo zřízeno ministerstvo národní bezpečnosti.
- května 1948) též věci národní bezpečnosti.
- Mezi jinými zanikla samostatná ministerstva národní bezpečnosti a železnic sloučením s ministerstvem vnitra a s ministerstvem dopravy.
- Podle dnešního stavu neexistují pověřenectva odpovídající ministerstvu národní obrany ” státní kontroly vnitra v oboru národní bezpečnosti těžkého strojírenství ” zahraničních věcí zahraničního obchodu ” paliv přesného strojírenství dopravy v oboru železnk ’’ chemického průmyslu hutního průmyslu a rudných dolů ” energetiky automobilového průmyslu a zemědělských strojů Pokud jde o pověřenectvo spojů, poukazujeme na jeho omezenou působnost podle vládního nařízení č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07896a566fdfe8acac2c7b74f0e00cb3884449141b0f39d0911e4a4f17f4967
+size 1685

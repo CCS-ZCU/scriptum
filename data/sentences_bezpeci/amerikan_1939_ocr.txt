@@ -1,3 +1,3 @@
-otec muset fronta
-bezpečí otravný ovzduší dílna prosáklý chemikálie prach kov
-matka psát strach lid nový válka zdát Evropa hnaný útočný set národ ovládaný diktátor vyjádřit uspokojení Jindřich bezpečí válka povinnost jit pole
+version https://git-lfs.github.com/spec/v1
+oid sha256:744b930527f84fd04a793b1e1b884329c3d8de08c3db85fce95b9a21741d6b91
+size 251

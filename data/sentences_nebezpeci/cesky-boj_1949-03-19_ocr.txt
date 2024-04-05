@@ -1,2 +1,3 @@
-vedení republikánský agrární strana učinit vhodný opatření možný nebezpečí
-Karel Havlíček Borovský vytušit strašný nebezpečí komunismus bouzejice národ Slovanstvo lidstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc7980f2b22393984e4188f224f4d003ee89d1ae916dd8b205d39668c1a01535
+size 197

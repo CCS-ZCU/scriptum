@@ -1,9 +1,3 @@
-osvobození
-snadný probudit intenzivní fyzický vášeň hrozit nebezpečí chaos rodinný vztah ztráta vědomý kontrola
-Watts vyvozovat nebezpečí ztráta smysl ego osobní identita záplava přirozený fyzický tlak společný kultura stav dětství vysvětlovat značný míra selhání středověký církev učení morálka věrný princip vtělení
-moderní lidé nebezpečí hrozit vnášet morální problém totální zmatek hovořit
-starý primitivní doba člověk nebezpečí ohrožující duše uvědomovat vytvořit náboženský magický obřad chránit ohrožení léčit utrpěný duševní zranění
-bázlivý myšlení přibližovat
-poutník připomínat nebezpečí číhat unikat celek zdálek detail moci změnit
-Pavel Hlavatý výtvarný umění čtvrtý rozměr český klasický moderna rezignovat věda osvědčený nástroj poznání vystavovat nebezpečí uniknout
-nebezpečí přitažlivost pravý mystika národ třída svádět předstírat uspokojit vědomý hluboký duševní potřeba
+version https://git-lfs.github.com/spec/v1
+oid sha256:264e4115d7163260217ee73ef34c0fa4d310967edeba6ace3d27bc0239d108de
+size 1024

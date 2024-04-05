@@ -1,3 +1,3 @@
- A NÁBOŽENSKÝCH SPOLEČENSTVÍ Představitelé 35 účastnických zemí Konference o evropské bezpečnosti a spolupráci zakončili 20.
- Někteří faráři Je odmítají Jako fana- tiky a pracovníci státní bezpečnosti např.
-února 1989 500 36 Hradec Králové Doporučené - 0 - 0 * 0 - 0 - 0 - 0 - Z vysílání vatikánského rozhlasu: fcJSR: Ministryně pro vnitroněmecké záležitosti,paní Dorota Vilusová ozná- mila, že v NDR bylo rozšířeno falešné znění Závěrečného dokumentu víděn- $ké konference evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83fa933255c4ba4fe936548cbf48ad9220a1cd239efbb9081619d269914f442e
+size 572

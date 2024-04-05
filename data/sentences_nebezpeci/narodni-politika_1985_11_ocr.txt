@@ -1,4 +1,3 @@
-pritom dostat nebezpečí ohrožení život
-mnohý kulturní podnik možný privátní poloveřqný půda vystavený nebezpečí úřední policejní zásah
-spojený národ hlasovat Jan Masaryk sovětský svaz vědomý nebezpečí nový kurs politický komplikace přinášet problematický rozhodnutí prezident Beneš
-lahodit slovo znát znít slyšet uklidňovat slovo moci skrývat zašifrovaný nebezpečí zlomyslný poťouchlost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6db4d0a0da3644b5439dd0e83e254fae8d007c9c7fc5fcda89f6144f2d316f2
+size 436

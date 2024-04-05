@@ -1,2 +1,3 @@
- Tyto kontakty s obhájci lidských práv však znamenaly pro Scheura ohrožení jeho vlastního bezpečí.
- Všichni doufali, že po dobách kdy nebylo domova, bude jednota v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:751c9ea99868c21c5b29b436ae404c8c9af5c9d539fc6ed1edb784f57b3699f9
+size 187

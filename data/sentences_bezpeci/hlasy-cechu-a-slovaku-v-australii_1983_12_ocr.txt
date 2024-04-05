@@ -1,2 +1,3 @@
-považovat manifestační akt paní Tomín plivanec tvář země stát těžkost poskytnout ochrana domov pozbýt zajištovat bezpečí nový domov
-Pankrác znát fotografie uvádět kolínský moci střežit Fučíkův bezpečí chodba dveře cela Fučík psát
+version https://git-lfs.github.com/spec/v1
+oid sha256:f181a0bd7a3698ac36e29c81b955dc16e4c23af794de575da6f4191205d512a5
+size 263

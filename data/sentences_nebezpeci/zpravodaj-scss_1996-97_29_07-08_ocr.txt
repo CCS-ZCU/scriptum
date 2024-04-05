@@ -1,1 +1,3 @@
-Vaček nebezpečí číslo
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c125847aca1baacc6b5e9bf68d5011b0c61b35b920a49e1acbc50896b09a57
+size 27

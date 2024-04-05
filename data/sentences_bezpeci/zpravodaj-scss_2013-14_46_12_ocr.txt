@@ -1,1 +1,3 @@
-ohrozit provoz stroj bezpečí řidič
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad87526215402a11e3cfd0b54e1017d0f7547650643b014ba19bd256f977488a
+size 39

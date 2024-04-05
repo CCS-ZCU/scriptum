@@ -1,2 +1,3 @@
-první svobodný umírněný cítit bezpečí druhý svévolný jediný hnací síla strach
-autobusákum znamenající kříž skončit pole hejna kráva pan farář odmítnout dát křižovatka přednost jízda hnítnout pokulhávající motocyklista sbírající strniště pan farář hodlat vyzkoušet terénní překážkový jízda originální předjíždění zatáčka řidič dodávka pan farář vykázat vozovka polní cesta Chronos Kairos bůhví fígl bud manévrování blinkr šofér spatření šedý oktávka vzdát říci jistý přečkat hodina bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:75e33997ab7eee478885b68b2acf37a4e48801099698fc06d3fb029861b203dc
+size 575

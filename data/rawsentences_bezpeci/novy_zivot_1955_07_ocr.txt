@@ -1,1 +1,3 @@
- Ale povězte mi tohle : Kdyby se byl kdokoliv z vás tak snížil, kdo z vás by po letech, až byste byli staří a bohatí a v bezpečí, byl puzen svědomím anebo pohnut zpovědníkem,, aby na sebe něco takového pověděli Vy pravíte, že byste nebyli s to, abyste se dopustili tak nízkého zločinu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c697abd01669b29d5b7233921305a76a106bc88b467ceb8b9eab63a6917ef1d
+size 310

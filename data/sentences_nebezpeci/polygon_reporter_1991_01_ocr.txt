@@ -1,2 +1,3 @@
-vzniknout nebezpečí federativně stát rozpadnout
-nebezpečí představovat hospodářský vývoj
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab2b67410f2508f73002eb10782b934a820d025887937b0d63dd78a39a9c186
+size 100

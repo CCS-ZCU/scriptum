@@ -1,2 +1,3 @@
-upozorňovat nebezpečí moci stárnoucí tatíček Ceausesec dostat strach
-dom pevný morálka hrozit podobný nebezpečí učitel nmhat pobírat újma vztah práce plat vysoký
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b03f03521916a2a078b36db47f9afd5fafaffdf5ef3aefb8c50cb172d57c9e5
+size 179

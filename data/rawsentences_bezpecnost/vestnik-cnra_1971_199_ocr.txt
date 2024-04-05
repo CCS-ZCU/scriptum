@@ -1,2 +1,3 @@
-” Přitom pan Nixon citoval na podporu svého tvrzení výroky různých asijských státníků a dokonce také Churchillovu výstrahu o Československu z doby po Mnichově, že je osudný omyl, domnívá-li se některá velmoc, že si zajistí bezpečnost, když malou zemi hodí vlkům.
- Kdo žádá ještě víc důkazů komunistické dobyvačnosti ? Kdo věří v cenu dohody s komunisty o “bezpečnosti” evropského nebo Světového míru? “PŘED OHNIVÝM DRAKOM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10be541895cebb5fde212920a0affd6f5a402c8061f3f7d6e3d3bd5f1ab7e9d4
+size 477

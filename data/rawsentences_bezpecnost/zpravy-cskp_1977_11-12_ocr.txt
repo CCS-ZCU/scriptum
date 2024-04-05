@@ -1,2 +1,3 @@
- Je to lež,že vedete politiku míru a že bojujete za upevnění bezpečnosti národů.
- republiky/§91-§104/, proti bezpečnosti rspub ti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b833bc8dae5bf62bacc6492b7200cb9ddd60b5071afe5cfad16f553c8a7417c
+size 143

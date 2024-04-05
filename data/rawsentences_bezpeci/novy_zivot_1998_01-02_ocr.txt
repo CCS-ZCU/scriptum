@@ -1,3 +1,3 @@
- Koláček z Vatikánského rozhlasu jistotě, ale někde v bezpečí.
- Spravedlnost vytvoří pokoj, spravedlnost zajistí klid a bezpečí navěky.
- Bezpečí naše- ho dětského dávného domova je stále v nás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a27d8fddfe595aa540f8daa025cc6ea3a0e8d69535f97773c6d4c003865a3a6a
+size 215

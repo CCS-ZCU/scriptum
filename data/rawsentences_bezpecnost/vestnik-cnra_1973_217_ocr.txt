@@ -1,7 +1,3 @@
- Spatřoval v těchto opravách hospodářských a sociálních řádů jednu z hlavních záruk domácího pokoje a tím i bezpečnosti Spojených států.
- Na tomto stanovisku budou sovětšti delegáti trvat na projednávání plánů na bezpečnost Evropy.
- Musí to dokázat také tím, že zvedne železnou oponu a dovolí svobodnou výměnu informací a myšlenek, jakož i tím, že sdruží své síly se Spojenými národy ke zřízení účinné soustavy kolektivní bezpečnosti, tak aby atomová puma byla vyloučena jako zbraň a aby bylo pronikavě zmenšeno ostatní zbrojení.
-” V tomto roce a patrně ještě v roce příštím budou probíhat jednání “konference o evropské bezpečnosti a kooperaci” a jednání “o vzájemném vyrovnání vojenských sil.
- 202 (t) amerického zákona o sociální bezpečnosti.
- Toto bude též argumentem na zasedání konference o evropské bezpečnosti, kde se Sovětský svaz nepochybně bude bránit požadavku Západu v otázce výměny tiskovin, připuštění západních novin a knih do Sovětského svazu a v otázce výměny vědeckých a kulturních pracovníků (které Sovětský svaz rád prohlašuje za osoby nepřátelské komunistickému zřízení) i kupř.
-” Zabýval prý se psaním o létání a o bezpečnosti pilotů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d9c72da0f83bab0f0013f4dd90cf6b9534bc9b0856574c9d3f8d30752a9b18
+size 1308

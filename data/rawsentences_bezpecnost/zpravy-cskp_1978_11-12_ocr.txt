@@ -1,7 +1,3 @@
-bezpečnosti konstruovat proti signatářům Charty 77 a dalším nepohodlným osobám obvinění z různých kriminálních deliktů a pod takovou záminkou je obvykle uvěznit.
-se dějí s vědomím některých složek státní bezpečnosti.
-/,mnozí jsou neustále sledováni bezpečností,nad jinými/Jiří Hájek,Václav Havel,Ladislav Hejdá- nek,František Kriegel,Jaroslav Šabata,Petr Uhl/byl.
-Předmětem trvalé pozornosti bezpečnosti jsou i strojopisné edice děl nepublikovaných autorů.
-Téhož dne,kdy sc postižená rodina /Jan Princ/z domu stehovala,byl dům vyhozen demonštratívne do po- v ětří o Ze skryté a mnohdy dokonce otevřené iniciativy bezpečnosti jsou stoupenci lidských práv stále propouštěni z práce,je jim znemožňováno přijmout dokonce jakékoliv zaměstnání,jsou zbavování důchodů, vystěhování z bytů,jejich dětem je upíráno právo na vzdělání a dokonce i přijetí do jeslí/Pavel Landovský/.
-Mladé národní hospodářství Izraele se musí potýkat s mnoha problémy-pocínagjíc začleněním přistěhovalců z celého světa do občanského života i do pracovního procesu až po zajištění bezpečnosti státu,a to především vůči jeho arabským sousedům.
-A tato bezpečnost je nejdůležitějším,ba jediným předpokladem intenzivního rozvoje všech odvětví izraelského národního hospodářství.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e305f9aba361d3eb386a3081faedb62df601bb1d091c4940781c7fc0c0f6a3
+size 1393

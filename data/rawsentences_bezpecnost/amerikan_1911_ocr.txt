@@ -1,2 +1,3 @@
- Sam se nepouštíval do podniků, při nichž běželo o krk nebo o dlouholetý žalář, a šel-li někdy tak daleko, byl jistě obklopen vší jistotou, že mu nepřijdou orgány bezpečnosti na kobylku.
- 1862 přistály válečné lodi Francie, Španělska i Anglie ve Veracruz, aby v Mexiku zaveden byl opět mír a zajištěna bezpečnost majetku usazených tam občanů řečených tří zemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:349eb1dafd18125d2693ebbaec492940ebfde0de277850bd65e318ad53d6cad1
+size 402

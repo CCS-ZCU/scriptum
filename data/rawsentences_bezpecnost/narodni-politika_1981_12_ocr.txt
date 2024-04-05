@@ -1,7 +1,3 @@
- V souladu s četnými dokumenty OSN a zejména Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě trváme na vzájemné závislosti politiky mezinárodního uvolňování a respektování občanských práv a lidské důstojnosti ve všech zemích.
- Právě ve chvíli, kdy svět ohrožuje nová eska- lace zbrojení, stává se stále zřejmější, že úcta k základním lidským právům a svobodám je předpokladem mezinárodní bezpečnosti a základem perspektivních odzbrojovacích programů.
- Z řady jiných uvádíme příklad člena kolektivu mluvčích Charty 77 KARLA SOUKUPA, který byl na úřadovně Bezpečnosti čtyřhodinovým kopáním, bitím, zalamováním prstů a pod.
- O dva dny později, když byl doma sám se svými malými dětmi, přepadli jej pracovníci Bezpečnosti přímo v jeho bytě.
- Dostane- li se Státní bezpečnost na stopu tajně vysvěcenému knězi, postupuje velmi brutálně a užívá teroristických metod.
- října zahájeno v Madridu další kolo Konference o bezpečnosti a spolupráci v Evropě (KBSE) za účasti delegací 35 státu.
- Velmi mne udivuje, že bezpečnost v socialistickém státě používá metod, které silně připomínají gangsterské filmy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:354490e0132c5a3105d45d23157f4f57178b35b701c8e1ab59df1e672017a033
+size 1243

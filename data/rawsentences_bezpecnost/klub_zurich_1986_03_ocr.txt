@@ -1,1 +1,3 @@
- Měla jsem smysl pro odpovědnost a náhle jsem cítila, že už nemám dlouhou bezpečnost svého dětství.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8dc4879fa0304b2637523c4b4236508c5227a1a6901f02b5869926150fb3fa9
+size 111

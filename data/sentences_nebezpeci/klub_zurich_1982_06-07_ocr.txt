@@ -1,3 +1,3 @@
-jiný David vzdor nebezpečí zastat okupant Francouz zahynout hlad
-manželství spojovat vhodný lidé svátat vysvětlitelný síla
-modlit pan vidět bratr nebezpečí udělat zachránit
+version https://git-lfs.github.com/spec/v1
+oid sha256:45ffb2c6408677273b4b600bc26607e23782a9df55be09684df0c064ce5b4498
+size 189

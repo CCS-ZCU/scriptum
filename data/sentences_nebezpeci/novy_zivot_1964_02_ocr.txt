@@ -1,1 +1,3 @@
-chata udělaný bus sloní tráva člověk chodit bambusový podlaha duch nebezpečí metr noha bam bus projet zlát
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c45cd7ebf59786244a4790066b958d84ed987ade88404c20a560475c1a98afb
+size 117

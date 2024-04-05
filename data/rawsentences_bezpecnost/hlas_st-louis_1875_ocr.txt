@@ -1,1 +1,3 @@
- On bál se toho; nicméně k radě Puchníka a Jana z Pomuka jakož i svého hofmistra Něpra z Roupova odebral se spolu s nimi do jistého místa jen míli cesty od Prahy vzdáleného; byly to snad Kyje, náležející k arcibiskupství Tam přijeli k němu dva z důvěrníků královských, bratr Mikuláš, zpovědník králův, zvolený od nedávna za biskupa lavantského, a Jan čúch ze Zásady, podmaršalcí, a přimlouvali mu'velmi, aby se o- debral do' Prahy k jednání s králem o smíření, slibujíce mu při tom osobní bezpečnost jak ve jménu svém tak také nejvyššího hofmistra královského Jindřicha Škopka z Dubě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8780c9376bb277e9e6d39e3f8e8d793c2f6fc9b7c9ce596707c8c643d725b58b
+size 647

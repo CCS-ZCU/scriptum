@@ -1,2 +1,3 @@
- Je o- tázka bezpečnosti.
- A během samotných her byla izraelská výprava pod záminkou bezpečnosti neustále sledována.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc8d0e856387cfdcf543d21cb269aebb4aa4efd7d865d72a3b4dc8d330928eb
+size 127

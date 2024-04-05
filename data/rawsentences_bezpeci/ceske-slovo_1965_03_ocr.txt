@@ -1,1 +1,3 @@
- Chápete?" I pokoušel jsem se Lady Clementině vyložit, že veliký voják, státník a diplomat štít bezpečí nad národem sklene, ale člověku do srdce se zapíše spíše tím, čím jeho obrazenost do budoucna zanítí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3e0b0e0d653c9e2333e55240e87461cc5cc5781e794f5a7d539b885aa4cdb8
+size 221

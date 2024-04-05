@@ -1,5 +1,3 @@
-ohled hrozit nebezpečí projekt konkurenční kancelá řích prodražit vyvíjet stroj systém dát použít případ
-Kohák UVODU jiný priviiej návrh nebezpečí opatřit komisař Gali muž tajný služba český odbojet Böhm služba rok poprava odstranit viz svědectví reportáž
-protimluv možnost jediný východisko kolínský nebezpečí potřebovat bát opírat vysoký blahovůle jednat povolení
-chytrý člověk bát uvědomit nebezpečí odhalení
-nebezpečí dobrý vývoj hrozit strana zastánce starý pořádek zakotvený léta formovaný zdeformo vaný lidský mysl
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1beaf982460febb8a3e3ffc40d0c2867a18c20fcc86ac4f8c32bafe502803f6
+size 583

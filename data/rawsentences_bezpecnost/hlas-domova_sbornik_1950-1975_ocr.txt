@@ -1,8 +1,3 @@
- Ve Vašem časopise se dočítáme, že se většina navrátilců bojí o svoji osobní bezpečnost, dokud nepřekročí hranice republiky a nepřesvědčí se na vlastní kůži, že jim není zkřiven ani vlas.
- Celá obžaloba byla uměle vykonstruována z rafinovaně sestavených protokolů Státní bezpečnosti!" Inž.
- Neúčast hokejového národního mužstva, jehož členy už měla státní bezpečnost v úmyslu zatknout, jen co se nevole mezi lidem utiší, byla národu oficiálně odůvodněna verzí: Britové nedali hlasatelům víza, aby nepřátelské stanice ze zahraničí mohly samy vysílat přímé přenosy, proto prý se všichni rozhodli zkazit plány imperialistů; do Londýna se titul mistra světa obhajovat nepojede.
- tisku: '■'Jsem dalek toho, abych někoho podezíral z něčeho, nač nemám nejmenší fakta, ale myslím, že Bezpečnost měla svého člověka, svého informátora přímo v řadách hokejistů nebo mezi lidmi jim velmi blízkými.
- Vtipnou akcí proti komunistické divoké kampani o bakteriologické válce na Koreji byl americký návrh v Radě bezpečnosti SN, aby věc vyšetřila nestranná mezinárodní komise.
- Nesměli jsme se blíže zajímat o majetkové a rodinné poměry vedoucích stranických funkcionářů, o metody práce Veřejné bezpečnosti, o hospodaření státu s uranem a dalším nerostným bohatstvím, o metody získávání mládeže do zemědělství a rolníků do družstev, prostě o žádnou z otázek, jejíž poznání by nutně ve veřejnosti vyvolalo pochyby o správnosti komunistické politiky.
- Jaksi nám v té chvíli nezáleželo na osobní bezpečnosti.
- Nenapadlo Vás však, že severovietnamské jednotky nemají co dělat v Jižním Vietnamu? Nikdo však asi nebude popírat, že se ve všech armádách, tedy také v americké, nacházeli a nacházejí lidé, kteří se v návalu lítosti nad zabitím přítele, ve strachu o vlastní bezpečnost nebo zcela surového sadismu do pouštějí brutálních činů na skutečném nebo domnělém nepříteli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d9e7ae7e1125b89fa762b1bf481cabbeead28e625f44e09f998b1ca90e40c68
+size 2067

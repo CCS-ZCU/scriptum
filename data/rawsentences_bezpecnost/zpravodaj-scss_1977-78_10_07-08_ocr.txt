@@ -1,8 +1,3 @@
- XXX AMERICKÝ PREZIDENT Carter podal písemně a- merické komisi pro otázky bezpečnosti a spolupráce v Evropě zprávu.
- Vzhledem k ternu, že pouze respektování občanských práv v Sovětském svazu a v zemích východní Evropy může vytvořit stav, ve kterén se de- tente může přetvořit ve skutečné sblí-■ žení lidí a tak se zabezpečí evropská spolupráce a bezpečnost, vyzýváme všechny lidi dobré vůle, aby vyjádřili svou solidaritu s těmi, kteří brání svobodu v Sovětském svazu a ve východní Evropě.
-s systematicky aktivizuje a rozvíja len to najhoršie - sobectvo, pretvárka, ľahostajnost, zbabělost, strach, rezignácia a úsilie osobne sa vyhnút všetkým problémom bez ohľadu na všeobecné dôsledky" - že teda tento Havel, ktorý myslí na všeobecné dôsledky, predsa sa len vzdal svojej funkcie tlmočníka Charty? Manipulátorov treba hľadat v radoch štátnej bezpečnosti, v moci ktorej zatknutý Havel strávil štyri mesiace.
- Kříž Hans Weigel SMLOUVA 0 ODMÍTNUTÍ POUŽÍVAT NÁSILÍ Shodujíce se ve snaze odstranit napití v Evropi- -ve snaze zachovávat zásady Spojených národů- -v horoucí touze po bezpečnosti a míru- 14  uzavírají mírimilovné armády mírumilovných národu mírumilovného Sovětského svazu na strane jedné a mírumilovné armády mírumilovných lidových republik spojených s mírumilovnou Rudou armádou mírumilovným Varšavským paktem tuto dohodu: § 1.
- První zákon reálpolitiky: lidská práva, s jedinou výjimkou — těch našich, jsou eminentně zadatelná v zájmu vlastní (krátkozraké) bezpečnosti.
- “Jakmile tam přijedou, poručík bude hlásit na vojenském velitelství, že nás viděl a to uvede v pohyb celou bezpečnost.
- * VEŘEJNÁ BEZPEČNOST - NAŠE CHLOUBA Já níuím, p/LOC.
- Jedním z těchto důvodů, který stojí na seznamu hodně vysoko, je Závěrečný akt konference o spolupráci a bezpečnosti v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f671b26b605b0361eada33d7205da943457f233bf52523b433e75ebfc1751bdf
+size 1968

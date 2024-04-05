@@ -1,3 +1,3 @@
- Zrušením legalizovaného odborového svazu Solidarita byly opět oddáleny naděje na vytvoření rozumných a všeobecně přijatelných sociálně politických podmínek nejen v Polsku samotném, ale i v celé Evropě, neboť tento čin neprospěl konstruktivnímu dialogu Konference o bezpečnosti a spolupráci v Evropě, obnovované v těchto dnech v Madridu.
- Ovšem ne vždy a ne všude Bratislavská státní bezpečnost provedla začátkem srpna domovní prohlídku u 321eté technické zaměstnankyně telefonní ústředny Heleny Gondové pod záminkou, že obchoduje s pornografickou literaturou a drahými kovy.
- Jeho žádosti o studium úřady doposavad systematicky odmítaly — očividné proto, že Novajovský nebyl ochotný spolupracovat se Státní bezpečností, jak mu bylo diskrétně nabídnuto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1314b0748f7b044366e368a1e35d3715e10412f8c3bcd8f486e5ccd9acf124b1
+size 825

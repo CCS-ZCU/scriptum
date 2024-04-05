@@ -1,3 +1,3 @@
- Ve řejné bezpečnosti a požárníkům několika košických podniku podařilo zachránit.
- A důležitý faktor, který by mohl přispěl k tomu, aby nadcházející dialog skutečně zvýšil vratkou meziná rodní bezpečnost.
- Státní bezpečnost a ostatní úřady v Československu se zřejmě všemožně snaží přesvědčit obyvatelstvo, že činnost VONSu je opravdu nezbytné nutná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f048dfc56e2957cdc121b3a10103b04c13e3eb16a91756a3dde4c88e69d73043
+size 400

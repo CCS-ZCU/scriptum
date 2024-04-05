@@ -1,7 +1,3 @@
- PAMÁTNÍK OBÉTEM komunismu v Československu, všem těm, kteří byli popraveni, "zastřelení na útěku", umučeni Státní bezpečnosti, utlučeni ba- chaři v korekcích, zavaleni v uranových a uhelných šachtách, má být postaven v prostorách Masaryktownu vTorontu.
- Naopak, Státní bezpečnost vyvinula značné úsilí, aby této pokojné manifestaci všemi prostředky zabránila.
- říjen, a Veřejná bezpečnost byla místními občany upozorněna na některé podivné okolnosti týkající se fary.
- Na sklonku minulého roku zatkla komunistická Bezpečnost skupinu gym- nazistů ze sofijské školy číslo 31 Mladiství byli obviněni z "protistátní činnosti", protože je přistihli při kladeni kytic ke Zdi Johna Lennona.
- Začátkem roku 1948 nastoupila komunistická strana novou cestu: Zostřila útoky proti demokratickým stranám, inscenovala celou řadu akci a provokací vůči významným jedincům, stupňovala lživou propagandu o “buržoazní kontrarevoluci" a co horšího, její ministři odmítli provádět usnesení vlády, týkající se Bezpečnosti.
- Na své si přišli ne/en pracovnici ministerstva, ale i straničtí funkcionáři, novináři, básnici a konečně pracovníci Bezpečnosti — všichni se výtečně živili ze zlatého sibiřského koryta.
- Porovnajme túto doktrínu s analytickým postrehom velkého ruského filozofa minulého storočia Petera Jakovleviča Čadajeva: Prisiel čías, kde nepoznanie Ruska ohrožuje našu bezpečnost Je najvyšši čas poznaťprF činy, ktoré vedú k tomu, že toto obrovské impérium neustále překračuje svoje hranice a ohrožuje ostatný svět Keď sa hovoří o Rusku, panuje představa, že je to štát ako každý iný — skutočnosť je ale iná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33c5dd5a9e0d0c09fe946f4a994b1eae56a0769b786b994435ea862e3b22eb8
+size 1771

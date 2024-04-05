@@ -1,1 +1,3 @@
- Je samozrejmé, že škodí to našej americkej ekonómii a bezpečnosti našej obrany oproti komunizmu a všetkej jeho ideológii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3949e7eead60161c8228c140d17b82622f7229b4bc8c861667bc5a479aac319e
+size 133

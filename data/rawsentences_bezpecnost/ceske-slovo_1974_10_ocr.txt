@@ -1,8 +1,3 @@
- Teď musel jako hlavni hrdina nastoupil Bezpečnosti zmáčknutý Ervín Marák z Brna, bývalý politický vězeň, aby jako „Marek“ zahrál roli dlouholetého spolupracovníka špionáže, zasvěceného do všech tajů exilového života.
- Něco se mu prý povedlo, ale rozhodně méně, než kamarádovi „Jendovi Mrázovi“, který se během několika let „vypracoval“ z tramvajákana majora Bezpečnosti.
- Svědci o tom zdlouhavý průběh konference o evropské bezpečnosti a spolupráci, dohadování mezi americkými diplomaty a Pentagonem, do jaké míry je možno Sovětům vyjít vstříc při jednání SALT, a ostatně i nové pesimistické hlasy, jež přicházejí z vědeckých kruhů.
- □ Za čtvrté — jiným náznakem skutečného zájmu o upřímnou détente by bylo rozhodnutí Moskvy přistoupit na konferenci o evropské bezpečnosti a spolupráci na západní požadavek, aby státní hranice a vlády nestály v cestě volnému proudění lidi a myšlenek.
- Jakmile se začaly šířit zprávy o svoláni Evropské konference pro bezpečnost a spolupráci, správně pochopil, že se naskýtá nová, vhodná příležitost k propagaci myšlenky na neutralisaci dříve svobodných států mezi západní Evropou a SSSR.
- Úvodem poukazuje, že takové řešení je positivní cesta ke skutečné evropské bezpečnosti a opravdové spolupráci.
- Současně, pracovnici Státní bezpečnosti provedli rozsáhlé vyšetřováni mnoha členů ústavu a já sám jsem byl vystaven opětovným výslechům.
- Poté, co mně je po čtyři roky znemožňována vědecká a odborná činnost, publikování a vyučováni v oblasti lékařství a bioelektroniky, poté, co jsem byl nezákonně propuštěn ze zaměstnání, co jsem byl opětovně vyslýchán Státní bezpečnosti, ztratil jsem pocit právní a osobní jistoty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f55d76a903477843f7141fa7f87e631c4b785fc1364b89c44f930e89320f745d
+size 1860

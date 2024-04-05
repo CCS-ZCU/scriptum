@@ -1,1 +1,3 @@
-prosinec slavný rozhlasový řeč podlehnout Anglie evropský asijský váleční štváč ovládnout svět souš moře Amerika žít namířený přátelský revolver nebezpečí vojenský hospodářský puma
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb67192a06dbebde348aab5fbad508ce20ef171de5253a386fe48129f3fd613
+size 211

@@ -1,5 +1,3 @@
-obsah KARD
-Beran radostný svátek vánoční Patriarcha Athenagoras Papež usnesení sjezd laický apoštolát středa reformá Kratochvil historický dramatický Diletantismus Rolfa Hochhutha Zahradníček píseň domov
-léta svaz český katolík USA kultur Nímu vření ČSSR J kubistický umění Československo
-Ryšá NEK soumrak československý demokracie povídka Dostál vánoční pout československý
-vojska Rusi ročník prosinec
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9cf2c99c15375ccee13e6a0eb5073d0bd58345683c1fb084b4ff4dabe042f51
+size 446

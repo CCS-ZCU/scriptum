@@ -1,1 +1,3 @@
- Závěrem doporučil bývalý disident reformu OSN, rozšíření Rady bezpečnosti, odbyrokratizování, aby se OSN neprojevovala jako klub vlád, ale jako nástroj lidí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a4be032c77a129d7126a0737f90347276df86e0dec4e88fb0eeba23bc8ff904
+size 174

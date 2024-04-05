@@ -1,1 +1,3 @@
- státní bezpečnosti se tak dostaly ně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:794149a39ee2100837ffc51585b36bd3eb73a1dc656bb5951d7fd998801b2873
+size 43

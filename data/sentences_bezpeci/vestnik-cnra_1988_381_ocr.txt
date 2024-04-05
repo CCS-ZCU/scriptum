@@ -1,1 +1,3 @@
-lež úklad násilí
+version https://git-lfs.github.com/spec/v1
+oid sha256:68be800d490dd8d5295494578014333e51977892186aa88231d8b064d1f4bbf7
+size 21

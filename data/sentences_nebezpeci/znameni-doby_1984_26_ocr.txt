@@ -1,5 +1,3 @@
-psát agentura weuter odvolání údaj výrobce mít vyrobený umělý krev rada výhoda odstraňovat nebezpečí prenos infekce nsfúh
-víra veselí veselí být nebezpečí
-souhlasit vidět nebezpečí hrozit pží pada opustit Vatikán
-hektar cesta papež vystavený nutnost odpovídat příprava obtížný otázka problém vydávat nebezpečí šíření bludný nauka
-ňoviny rozhlas televize posilovat neklid spokojenost strach budoucnost přinášet hlášení úprava vnucovat pocit žít akutní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7be5f3f2f1fdd05ee1a80b439315c19c43c85aff0732fa1db0a1d9744bc9853c
+size 516

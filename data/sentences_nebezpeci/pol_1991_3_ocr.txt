@@ -1,2 +1,3 @@
-vztah mít vystřihat nebezpečí zůstat budoucno zajetý Hitler Stalin
-Udé slo nebezpečí uvědomovat ustavit červen Brno dělnický klub člen příznivec sociální demokracie
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb41f82e86643a064ef6bc36db818c7c1c65488c71528ad60d16c8b942e3c0d
+size 183

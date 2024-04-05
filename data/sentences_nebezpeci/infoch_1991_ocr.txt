@@ -1,6 +1,3 @@
-nebezpečí hromadný chudoba jev moci chodit špička
-nebezpečí minout mít smysl přijímat další lidé třídit
-čekat povit rozhodnout povědět dem nebezpečí obětovat denní provoz charta brát radost nora mální práce nebezpečí
-Jiří Hassa Semila toužit charta žito nebezpečí přežívání degenerův
-nebezpečí doba ekonomický reforma lidé mít moh navštěvovat kulturní akce moci kupovat kniha
-populační vývoj Československo zvažovaný rasový rozlišení nebezpečí přelidnění vykazovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:939c59254e9ae770c75896a86efeab0ce7608cd915b316ced4533be2048358df
+size 531

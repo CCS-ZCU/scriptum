@@ -1,6 +1,3 @@
-stačit dát odpověď otázka mít mezinárodní komunismus velký naděje zmocnit evropský kontinent mít tucet malý státeček omezený politický vojenský hospodářský přehrada budet stát Evropan spojený celek podporovat bránit
-jet Evropa potencionální nebezpečí moci komunismus dostat moc Francie Itálie komunistický strana organisovaný hnutí rozhodující vliv dělnický odbory popiratelný úspěch široký kruh bezradný neutralistický intelektuál
-soudruh Dudo velký nebezpečí
-podstata muset snažit zlepšování mít pomýšlet další rozšíření činnost přestávat doufat svobodný svět uvědomit nebezpečí komunistický pronikání kulturní pole
-protiklad lze odstranit nebezpečí nový třída
-uznání národní forma komunismus moskevský vláda přitakat zaťatý zub mít obrovský význam skrývat vážný nebezpečí sovětský imperialismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7ba7ba1754573d48d62679af8c4536bf695db3fdd035fed59bea24cc3dc7c0d
+size 896

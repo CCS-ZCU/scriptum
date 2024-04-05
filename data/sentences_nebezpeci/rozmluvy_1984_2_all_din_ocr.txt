@@ -1,10 +1,3 @@
-vatikánský koncil stát možný zaujmout střízlivý vztah otázka vázanost katolík papež
-udělat nebezpečí škola skončit žít kontrarevolucionář obviněný
-doba čínský lid vedení komunistický strana odvrátit vlastní úsilí hrozný nebezpečí
-někdejší poutník rudý náměstí brát vědomí hrozit nebezpečí
-
-Jansenisti učit odevzdání cit mluvit nebezpečí zvrácenost srdce
-nový terminologie řečený uvědomit nebezpečí integrální racionalismus kontrolovaný intuice cit srdce velký nebezpečí integrální iracionalismus kotrolovaný rozum
-moderní umění poezie nebezpečí latentní
-metoda kontrolovatelný rozpoutání řeč nést nebezpečí síla řeč ochabnout původnost literární dílo proces psaní vsunout úmysl program proud řeč proměnit mnohomluvnost
-pastýř povolávat ostříhat pochybnost vlastní příklad vyvracet poukaz běda nebezpečí služba
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d0bf1f8152d9693520c37cbf447854c6b098f80fd3b35345c0174f10f0ec05
+size 918

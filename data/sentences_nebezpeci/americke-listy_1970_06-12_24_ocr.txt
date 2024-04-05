@@ -1,2 +1,3 @@
-nebezpečí lze tušit výměna člen vysoký soud znásobit poslankyně Dohnalová schůze parlament žádat zasloužený trest prečina takzvaný pravicový živel
-slavní demokrat vědomý určitý nebezpečí demokracie
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8d9d342b6bcc8ea6d979b7667305ffd659b511e665125996bac8662f7d861d
+size 224

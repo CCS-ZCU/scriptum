@@ -1,1 +1,3 @@
-začít oko Otočprst přibližovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e7f1eb12a126dbebe3b78dd097cca060d79fba93f6136374a68715b115e977
+size 36

@@ -1,1 +1,3 @@
- Slovy jednoho senátora: “Je to strašně skličující vést národ do bezpečí, když se člověku často zdá, že se lid ani nezajímá, zda se toho docílí, když strašlivá netečnost probíhá celou strukturou amerického života.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b56e82e44aa11a79a1c7d6956257a97433062ac6190adbe86d636a2bd68235d
+size 244

@@ -1,1 +1,3 @@
-pusta vystěhovány všecky domy, pro větší bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e18179f67a17f83e67cc297c4f6664e593fc159c9166c5c520977952a95b086
+size 58

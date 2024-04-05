@@ -1,2 +1,3 @@
-dosavadní vysoký hodovost železnice oslabovat bezpečnost doprava ovlivňovat kvalita práce způsobovat nedozírný škoda ekonomický zdraví život lidé
-dočíst železnice bezpečnost práce pečovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ba64310d8174f5c8269a773306d6b6fab01cfa8ec5e733c4e7e6d7076818f81
+size 208

@@ -1,1 +1,3 @@
-otevřít vidět hrozit nebezpečí zmeškání důležitý úřední jednání
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c33787d7fa21e66ef0fad5aefa24a0905b8079014a2806cbf0ae426f633f49b
+size 80

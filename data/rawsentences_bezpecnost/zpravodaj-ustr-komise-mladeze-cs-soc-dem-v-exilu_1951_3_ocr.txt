@@ -1,2 +1,3 @@
- lektivni bezpečnosti, representovaný Organisaci Národu, a podporuje vyzbrojeni demokratických zemi v zajmu vojenské .
- Miř muže bytí zaručen pouze systémem kolektivní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d714050e1d3f7dc1aaaef7a4c85946aeaa3e2a7bfaff2cd81054dec240f447b8
+size 193

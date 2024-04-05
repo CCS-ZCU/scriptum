@@ -1,2 +1,3 @@
-ray riziko pohodlí bezpečí
-dítě mít právo vyrůstat pevný svátek bezpečí rodina
+version https://git-lfs.github.com/spec/v1
+oid sha256:b966894cbba48f830530cd52ebe8fab9eeae4994273a5442ddc5c4c0676e7348
+size 91

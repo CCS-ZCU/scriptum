@@ -1,8 +1,3 @@
- Zvláště se měli zaméřit na odsouzení "protistátních akcí" v lednu na Václavském náměstí a pochválit Bezpečnost a Lidové milice za razantní eákrok proti "nepřátelům socialismu".
-" Podivné to sice je, ale faktem zůstává, že Krbuškův dopis převzala k vyřízení Státní bezpečnost.
- Já jsem to poslouchat nehodlal; zvedl jsem se a ani nevím, jak jsem se celou úřa- dovnou Státní bezpečnosti, kde se člověk nemůže pohybovat bez doprovodu bachaře, dostal ke katru.
- Závěrem zbývá dosti pochmurná otázka: jaké záruky na poli jaderné bezpečnosti může poskytovat režim s tak paranoidními reak- cemi, jako je současná bukureštská vláda? Zbyněk Petracek t e n p r o s t o r t u JG (rozhovor s Gyórgy Vargou) Gyórgy Varga je překladatel a žije v Budapešti.
- Takhle nějak by měly vypadat knihovny i u nás, v tom mezidobí, kdy je nebudeme schovávat u známých, po sklepích, zakopávat na zahradě, kdy je státní bezpečnost nebude krást při domovních prohlídkách.
- Byli to kluci a holky většinou ve stejném věku jako my, s jasnou životní představou a zároveň i se spoustou neradostných zážitků s polskou Bezpečností.
- Stanislava Kostky, místa, kde drive kásal a nyní je pochovaný kněz Jerzy Pcpiclucko» unučený v roce 1934 příslušní- ky Bezpečnosti.
-" Kdo přežil Osvětim a pochod smrti tak jako Erich Kulka, ten se musí Rudému právu a bratrským listům ospravedlnit za to, že žije, a čelit obvinením, vykonstruovaným podle stejného receptu jako obvinění, vznášená, proti odbojářům, vyšetřovaným Státní bezpečností v letech po únoru 1948 a pomlouvaným v krvelačných článcích v RP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1def7abb9fb8f6b167cd62fe6c0ee0a026a9a14e455c6d18058e54b1b0778b2
+size 1716

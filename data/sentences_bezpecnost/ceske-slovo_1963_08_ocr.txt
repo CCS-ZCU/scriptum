@@ -1,2 +1,3 @@
-přirozený Československo přimít snaha zajistit bezpečnost spojenecký mocnost mít životní zájem udržet politický územní faktum vytvořený mírový smlouva
-Hitler zničit léta většina základ opírat francouzský britský bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2372e0d59e18244c053faf48ff30b419d64d70a8744d023d4ee69b798cd9e2d7
+size 251

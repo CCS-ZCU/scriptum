@@ -1,1 +1,3 @@
-novoroční projev mluvit Giscard Estaing existence válečný nebezpečí světový mír záviset schopnost státník zachovat chladný hlava
+version https://git-lfs.github.com/spec/v1
+oid sha256:b853796ef1e39a27a11590f91122218fd5e45bef8179e6c4ab1df7c9b21ea155
+size 143

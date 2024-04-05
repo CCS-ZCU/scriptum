@@ -1,1 +1,3 @@
- Bus- hem Dr Condoleezza Rice, poradkyně pro národní bezpečnost, je po Madeleine Albrig- htové další přítelkyně českého národa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61bd81c652e59e121392056e171331a2cca16f919dd47c09ea5365f9d4c80ac0
+size 141

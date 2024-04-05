@@ -1,2 +1,3 @@
-Kej vský nebezpečí hrozit strana Jihoamerican mužstvo mít naděje titul
-rok ochotný postavit boj nebezpečí hrozit civilisace kruh blízký dozrát doba
+version https://git-lfs.github.com/spec/v1
+oid sha256:924a1dc324c4bcac541dc54ae2b8a3a0d8654001bfcf36fe97afcf3e8e74acd9
+size 163

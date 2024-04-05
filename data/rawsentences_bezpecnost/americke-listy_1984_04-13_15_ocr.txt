@@ -1,6 +1,3 @@
- Veřejná bezpečnost ve Velké Mani prováděla výslechy zadržených.
- března Státní bezpečnost zabavila 40ti Jetému dělníkovi Martinu Stierankovi z Ruština, okr.
- března ho vyšetřovala Státní bezpečnost v Dolním Kubíně až do nočních hodin, přičemž ho jeden z vysli- chajících policistů surově bil obuškem do chodidel.
- I přes veškerá tato bezpráví a surovosti Státní bezpečnosti, podpisové archy s pozváním papeže Jana Pavla II.
- Ostatně o labilnosti režimu svědčí i zákrok státní bezpečnosti z 19.
- Je zřejmé, že desinformační oddělní státní bezpečnosti by mohlo o dokumentu říci více.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfbb2e0ae6a812e39bab8430b4c364a093a442ae892bb4af6b7c0443cccd69a3
+size 654

@@ -1,1 +1,3 @@
- Protože Sovětský svaz a jeho spojenci jsou velice uzavřenou společností, do dnešního dne se mnoho neví o bezpečnosti sovětských elektráren.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b004a61343ce17468d4994591aeeafec00542c5cdeff4b36b08de88292e8df
+size 154

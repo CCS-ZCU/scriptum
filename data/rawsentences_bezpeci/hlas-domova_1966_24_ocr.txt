@@ -1,2 +1,3 @@
- Po druhé světové válce, kdy hrozilo ne- bezpečí, že komunisté vy- hrají volby a vnutí Itálii stalinský režim, italský tisk v USA organizoval kampaň protikomunistic- kých dopisů, které posí- lali svým příbuzným a přátelům v Itálii Ameri- čané italského původu.
- Když však Jefferson odešel na odpočinek, na- psal tato památná slova: "Tam, kde je svobod- ný tisk a každý občan schopen číst, tam je vše v bezpečí .
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ffb884c37ae4e6b42f79db8bee623c10920cbeed5917dbe1082122b1c1b1b03
+size 162

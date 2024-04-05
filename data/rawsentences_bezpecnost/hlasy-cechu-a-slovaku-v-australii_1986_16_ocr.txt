@@ -1,1 +1,3 @@
- Vojenští odborníci zdůrazňují především zvýšenou bezpečnost pilotů bez nutného omezení konečného výsledku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4498bd06c46159cdcb637c3143a7cc7ec9f40cf156bed7c13377936a8fcf8234
+size 126

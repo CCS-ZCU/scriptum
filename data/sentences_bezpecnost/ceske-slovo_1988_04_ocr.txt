@@ -1,6 +1,3 @@
-přijet muž násilí nasadit Devátý okova vsadit auto odvézt okresní veřejný bezpečnost
-veřejný bezpečnost chovat rodina Stanislav Devátý
-sobota vrátit nákup sestra zatelefonovat veřejný bezpečnost tázat vědět osud Devátý
-neděle volat bezpečnost matka Devátý mluvit kapitán StB major Daňk vymluvit vědět
-březen vyzvaný dostavit bezpečnost podat vysvětlení
-veřejný bezpečnost říci Debilio
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d6e213902494f86d5636f5c43c9573e5d8cd22cb84c24a2729f654d66329d0
+size 429

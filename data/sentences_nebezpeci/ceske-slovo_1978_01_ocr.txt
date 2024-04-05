@@ -1,2 +1,3 @@
-výstražný tabule cesta varovat řidič úsek kilometr zastavovat nebezpečí záření
-záchrana alpinista octnout nebezpečí ležet hora zranění závod čas
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fd5251400eff9c59f32008faefefe0e3ae01e34df0781aa9c7f32bf6fce1aa1
+size 164

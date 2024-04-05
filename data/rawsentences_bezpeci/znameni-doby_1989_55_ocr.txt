@@ -1,1 +1,3 @@
-Posledním cílem státu není ovládat člověka nebo jej pomocí strachu držet pod kontrolou, ale jeho cílem by mělo být spíše osvobození každého člověka od strachu, aby každý mohl jednat v plném bezpečí a aby nemusel činit příkoří sobě, ani svému bližnímu, Opakuji, stát nemá činit z rozumných bytostí tupá zvířata a stroje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b84ecd2c37194c177c79c3c4bd675c0648b4f395f4a256c6fb1067389ff593
+size 361

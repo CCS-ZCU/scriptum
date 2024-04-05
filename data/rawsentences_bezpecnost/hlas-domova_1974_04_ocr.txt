@@ -1,1 +1,3 @@
-) hlásí, že se po zveřejnění tohoto prohlášení v západoněmecké televizi dostavili ke Kohoutovi dva členové Stát- ;ní bezpečnosti, ale Kohout prý se odmítl podrobit jejich výslechu, protože k tomu neměli policejní oprávnění.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b77c43c65f32d2ccd1484e25562351bb310a6870de5e1044c15c7a35e4a4e5
+size 250

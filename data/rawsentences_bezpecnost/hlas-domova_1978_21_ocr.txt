@@ -1,1 +1,3 @@
- Cosi mi připomíná diplomatický výrok, že bezpečnost Evropy je upev- něna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da7dd6bdf1a31481fbb21e48db1cb5f8991b9b09771fe3217f70712f26743bdd
+size 83

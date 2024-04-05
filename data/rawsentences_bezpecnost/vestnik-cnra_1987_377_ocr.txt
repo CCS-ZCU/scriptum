@@ -1,4 +1,3 @@
-VĚSTNÍK SOVĚTSKÁ PŘESTAVBA — PŘÍLEŽITOST I NEBEZPEČÍ Společné prohlášení československých organisací ve svobodném světě Každý pokrok ve věci mezinárodní bezpečnosti, ke kterému by došlo v důsledku nedávných jednání sovětského ministra zahraničí Ševerdnadze ve Washingtonu, je vítán.
- Úspěch petice, adresované loni na podzim osmnáct československými demokratickými organisacemi vídeňské mu zasedání Konference o bezpečnosti a spolupráci a Evropě, nás povzbudil, abychom Vám navrhli, aby našť organisace zaujaly stanovisko к současnému vývoji л Sovětském svazu а к jeho dopadu v Československu.
- Československý občan v něm nebyl nástrojem vlády ani žádné strany, nýbrž stát byl nástrojem ve službách jeho bezpečnosti a blaha.
- světová válka se svými důsledky dávají nejednou příležitost některým lidem zpochybňovat — i když ne právní existenci — tedy účelnost, praktičnost, bezpečnost i rentabilitu územně malých států — národnostně jasně determinovaných — jako je Československo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e4bec1f5ae7798f9955944c7882cbfd125ca6052e9832ebcc6bb079cbdb1891
+size 1106

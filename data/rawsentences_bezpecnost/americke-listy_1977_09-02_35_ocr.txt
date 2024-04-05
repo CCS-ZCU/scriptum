@@ -1,5 +1,3 @@
- Dílo dnes v exilu žijícího českého politologa a historika má název “Československo při hledání bezpečnosti’’ a vydalo je jedno západoberlínské nakladatelství.
- Slovenská doprava Tradiční Pražské víno Zvuková knihovna Za miliony do světa JAROSLAV DRESLER HUMÁNNÍ HRANICE FIN Český monopol Hledání bezpečnosti  PÁJEK 2.
-” “Jsem velmi znepokojen faktem, že guvernér Carey projevil tak obrovskou necitlivost vůči osobní bezpečnosti starších obyvatel našeho města .
- Guvernér se otočil zády ke starším obyvatelům města New Yorku a dal najevo těm, kteří olupují starší lidi, že nepovažuje osobní bezpečnost starších o- sob za svůj prvořadý zájem.
- Americká kongresová komise pro bezpečnost a spolupráci v Evropě, dohlížející na to, jak se uplatňují helsinské závazky v praxi jednotlivých zemí, došla, co se týče lidských kontaktů, slučování rodin a cestování do zahraničí, k závěrůim, z nichž vyjímáme: Často pod tlakem ostatních zemí, které Závěrečný akt podepsaly, a domácího veřejného mínění, se státy Varšavského paktu pokoušely řešit alespoň některé případy lidských styků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39983bf6a9fdbd122ab9c4935ed85f5dfcb4a0a43ef0019776d65e890cae2387
+size 1211

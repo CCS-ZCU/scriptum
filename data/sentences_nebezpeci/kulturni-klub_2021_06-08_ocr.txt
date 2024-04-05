@@ -1,2 +1,3 @@
-perpetuum mobile lidé celý společenský státní skupina získávat svoboda změna společenský uspořádání revoluční jiný skok pradávno docházet hrozit nebezpečí ztráta svoboda společnost nabýt
-jiný pomoci vyjednat kapitulace německý oddíl představovat vážný nebezpečí povstalec daleký budova československý rozhlas
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c0dc3a922c3e106ae840f35eada41dc35575452a333ae85a5c3f6064bd23d9e
+size 347

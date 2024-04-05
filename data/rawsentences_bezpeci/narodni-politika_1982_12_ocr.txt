@@ -1,1 +1,3 @@
- Generace, která všechno „vařila" a byla u toho, když se rozhodovalo o budoucnosti státu, se sama uklidí do bezpečí a po těch, co zůstali, chce, aby raději zemřeli, než aby jim dali při „volbách“ hlas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd15d33efe86b2183a9a64206e768e390dd72145ddecb13e37c2b1e3b2a339c
+size 223

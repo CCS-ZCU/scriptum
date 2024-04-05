@@ -1,1 +1,3 @@
- Státní bezpečnosti zavčas nezasáhly (5) a nezabrzdily rozvoj kulturního re- visionismu, který ovšem nebyl ničím jiným než pokusem "o otevření o- ken západní vědě a umění" a pokusem o liberalisační proces - dočkali bychom se i dalších ohlášených děl uměleckých i vědeckých.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dca21b95634ea8824c02dbe45610702cc294309fb85a4873f559a382cc4bd96
+size 307

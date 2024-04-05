@@ -1,2 +1,3 @@
-zlodějský džungle současný start ekonomický politický přeměna existence právní stát vyvolat nebezpečí dojít prolnutí sféra
-leden muset nemocnice vzniknout Hradčany trapný problém president pozvání vyvázat lékař oponovat vystavovat nebezpečí nový nákaza starý chorý bývalý politický vězeň
+version https://git-lfs.github.com/spec/v1
+oid sha256:389e600c2f8e4dbf0689b30bf9e5440f2b1a6a6c773b244577e2d3787c17a2b3
+size 324

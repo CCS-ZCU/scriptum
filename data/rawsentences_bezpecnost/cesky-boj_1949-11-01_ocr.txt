@@ -1,1 +1,3 @@
- Ohromně se jím zvyšuje potenciál jeho vojenské a politické bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b06d0b99cb5725d92c47e8fb45f408e506622fc990e226d36d7239e5f793e445
+size 80

@@ -1,3 +1,3 @@
- Organizace tohoto fenoménu se ujala Státní bezpečnost, která zde získávala zdroje pro činnosti nekontrolované stranickým aparátem.
- Někteří jsme u rakve stáli i vícekrát Viděl jsem nekonečné množství věnců, bzučely (opravdu tehdy bzučely) kamery, mnohé z nich patřily Státní bezpečnosti.
- Pochopil jsem, že myslí Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a40498cd59942738c9dda6d87f2f530cc93a4b9a29c69a37728a3c0e3fcf3f2
+size 369

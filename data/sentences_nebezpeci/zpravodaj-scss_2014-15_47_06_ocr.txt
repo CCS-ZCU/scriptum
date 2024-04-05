@@ -1,2 +1,3 @@
-červen zpravodaj spravodaj spojenecký velení vědomý nebezpečí německý dělostřelecký baterie umístěný moře plošina omaha
-hrozit nebezpečí Němec využít zaútočit tank Angličan bok
+version https://git-lfs.github.com/spec/v1
+oid sha256:1913a95aa3350fd4e320c1476ce87c44da738712ec126ec79813e8273426e9c8
+size 202

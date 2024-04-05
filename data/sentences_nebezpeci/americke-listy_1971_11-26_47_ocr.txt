@@ -1,3 +1,3 @@
-licejní úředník příslušník FBI vystavovat nebezpečí odsouzený trest vězení peněžitý pokuta
-dokončit hrozit nebezpečí
-hrozit svoboda Amerika vážný nebezpečí nebezpečí strana americký společnost americký politický systém strana hlásat nenávist násilí takzvaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:4af5b854c432866cda0e4408f3648069aea6a11eba43e5fe11c5ff7324dcec67
+size 294

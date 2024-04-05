@@ -1,1 +1,3 @@
-  šestá strana NÁRODNÍ po l it ik a Říjen 1987 Čtyr-až šestinásobné zvětšení kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? Švýcarské bankovnict ví a pojišiovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218aab73390f35696f59438c68a70ca9f308fc70fb753385c540b1d943576d3f
+size 108

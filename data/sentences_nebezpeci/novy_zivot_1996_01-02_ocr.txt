@@ -1,2 +1,3 @@
-
-krajní případ moci společnost roztrhnout mít vyspělý země začínat hlásit zavedenuý řada mecho nisme nebezpečí mít čelit objevit
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac2ddb4d83ba33976303a1e7884ee6fc1d18ff594d278a2df2d6e18815b8a60
+size 146

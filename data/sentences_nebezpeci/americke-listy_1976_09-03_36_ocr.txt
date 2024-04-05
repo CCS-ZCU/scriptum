@@ -1,1 +1,3 @@
-bílí černý černý černý
+version https://git-lfs.github.com/spec/v1
+oid sha256:a127602ac54f9a5d31d5b727a0b33b92face131b38f71ddeb57aa8563aab93f0
+size 31

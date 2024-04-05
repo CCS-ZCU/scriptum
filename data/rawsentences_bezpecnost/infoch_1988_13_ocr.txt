@@ -1,12 +1,3 @@
-Již v pátek v 15 hčdin-vnikli příslušníci,Státní a Veřejné bezpečnosti dp;.
- Před 18,hodinou vpadla Bezpečnost do bytů Dany Němcové, kde ' probíhala jednání další sekce.
- Asi v jedenáct hodin vtrhla do bytu Bezpečnost:.
- Předpokládaný program semináře byl narušován opakovanými zásahy Státní bezpečností po celé tři dny„ Značná část jeho československých účastníků byla zadržena na několik hodin ještě před jeho zahájením^ Přesto se podařilo začít práci ve dvou sekcích.
- Druhý den byl poznamenán dalekosáhlými zákroky Státní bezpečnosti zvláště proti zahraničním účastníkům* Větší část z nich (33 osob) bylí< zadržena a přinucena odcestovat.
- Referát: Jiřího Hájka nazvaný bidská práva v kontextu problematiky míru obsahuje výklad o vývoji vztahu otázek míru a mezinárodní bezpečnosti k lidským právům od 40.
- David Mallor sám hovořil o Jiřím Volfovi, jehož případ je projednáván na následné Konferenci o bezpečnosti a spolupráci v Evropě, konané ve Vídni.
-Bezpečností, která je vyslýchala a zadrxovala dalších 28 hodin.
- Státní bezpečnost podrobila většinu signatářů kraje výslechům, při nichž je varovala před účastí na setkání.
- v i legovaných vrstev, a to podle jejich významu v současné mocenské hierarchii tunkcionár" KSC, vlády, ROH, zastupitelských sborů, organizací Národní fronty, armády, Bezpečnosti.
-777) Poukazuje na absurdnost a neudržítelnost celého případu z hlediska oficiálně deklarovaných Československých závazků a zákonů, které jsou vsak popřeny zjednodušenými formulacemi čs„trestního zákoníků, umocňujícími orgánům Státní bezpečnosti a posléze soudnictví označovat a odsuzovat toho či onoho člověka jako nepřítele socialismu.
-Růžičku v jeho bytě navštívily a proti zjištěným pachatelům bylo počátkem března zahájeno trestní stíhání, v průběhu dalších dnů tohoto měsíce činila Státní bezpečnost nepřípustný nátlak na svědka P.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74bddd6b3cb467c1eb1102293ac58ee4dd5c31ac3f7ae04b173dfe72d2372953
+size 2086

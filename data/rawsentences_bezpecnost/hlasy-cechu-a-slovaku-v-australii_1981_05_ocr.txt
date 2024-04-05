@@ -1,4 +1,3 @@
- ledna byla v Madridě zahájena druhá část konference o bezpečnosti a spolupráci v Evropě za předsednictví vedoucího rumunské delegace.
- Rozšíření kontroly po Ural by podle sovětského názoru "porušilo rovnováhu sil v Evropě a ohrozilo bezpečnost Varšavského paktu" .
-a taky k tomu přibalil knížku, svý dílo, jmenuje se Bezpečnost v socialismu, nebo nějak tak .
- Je pravděpodobné, že bezpečnostní úřady shledají takovou vyhlášku jako diversní a tudíž ohrožující australskou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d5968f2407eff4676a436c36fea4b419649f670c59d50b6ed2a884b8b5d322
+size 533

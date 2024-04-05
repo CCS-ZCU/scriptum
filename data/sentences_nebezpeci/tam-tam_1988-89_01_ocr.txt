@@ -1,1 +1,3 @@
-anglický skauting mor kopaná
+version https://git-lfs.github.com/spec/v1
+oid sha256:24c06067ac4444b1a18942b66563566a8f49fde39c7004a3193f1528dbdb67b9
+size 33

@@ -1,1 +1,3 @@
-stanovisko charta hnutí ohrožující bezpečnost stát vnitřní pořádek MOP uznat prohlášení charta projev uplatnění politický právo svoboda československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaea50b088129041d2e5bf7ec63d780fde53a36d38f395f1c2dbd76a4b9ae419
+size 170

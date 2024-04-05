@@ -1,2 +1,3 @@
-okázalý přehlížení materiální faktor okolnost naivní bezpečný pokládat nutný informovat státní bezpečnost život pokládat počestný gální případ vydávat milcast adlost protivníko akceptovat jet falešný uzurpovaný mravní nárok
-Děčín
+version https://git-lfs.github.com/spec/v1
+oid sha256:47212ff5e501c29ba2a68007072f70dbc1aa006fa9512afa1340126f84e2adc0
+size 265

@@ -1,6 +1,3 @@
- Uvedené události uvedly do pohotovosti nejen bezpečnost, ale také bratry Kořínky.
- Státní bezpečnosti a dlouho preparován pro divadelní proces, ve kterém byl v červnu 1952 odsouzen na 13 let tuhého vězení.
- “Také důstojníci Bezpečnosti.
- Podle dostupných informací a zkušeností jsme do ní zakreslili všechny hlavní koncentrační tábory, hlavní vyšetřovny Státní bezpečnosti a pevné věznice.
- Dole byla skupina důstojníků bezpečnosti, jeden zlatém oprýmkovaný k nám přistoupil a řekl: “Á, soudruzi Mráz a Brodský.
- Tůma byl jediný z mých známých, mohl-li jsem ho vůbec po tolika letech za známého pokládat, o němž Státní bezpečnost nevěděla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8195269a6401ef8f8f862676964be062200ec8c32cceaae4012c79cd0a55fa89
+size 712

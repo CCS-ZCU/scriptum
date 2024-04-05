@@ -1,1 +1,3 @@
- Ve smyslu mezinárodní konvence o uprchlících jim po roce bude pobyt prodloužen, nedopustí-li se nějakých závažných trestních činů, které by ohrožovaly bezpečnost švýcarského státu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8c1f756e7ff115856e4e0860ad41a4f6eeec42c8ca9fd06a89dd52942b3e79
+size 203

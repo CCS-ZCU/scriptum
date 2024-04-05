@@ -1,1 +1,3 @@
-nebezpečí prostředí stávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1dd1ca7023bb2286354e74a334ce582944bcf576b4664bf5569fdaef83d69d
+size 32

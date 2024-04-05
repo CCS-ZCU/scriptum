@@ -1,1 +1,3 @@
-Husák předseda komunistický strana Slovensko slovenský národní rada vědomí nebezpečí hrozící strana Sovět chlá prohlásit ujednání zlý Praha pohlížet
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e56abf3848aedd3b22f20590c10b1289cd52695b72cf3324721cd6011877cd3
+size 163

@@ -1,1 +1,3 @@
- Na sjezdu padlo vážné slovo spolkového presidenta Lúbkeho, který vyslovil přesvědčení, že »německý národ by neváhal vzdát se blahobytu a hmotné bezpečnosti a začít znovu, kdyby se tím obnovila jednota a svoboda Německa*.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60cb4a2c19a36a565a8cd4b584e1f114333a2112ae89185d531c18dc2d1662f
+size 245

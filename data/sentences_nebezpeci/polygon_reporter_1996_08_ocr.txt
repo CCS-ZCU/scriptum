@@ -1,5 +1,3 @@
-určitý napětí zůstávat nebezpečí konkrétní otázka dělení federální majetek národní památka vlastnický problém podnik určitý okolnost budoucnost vrátit vyvolat zhoršení vzájemný vztah
-první kolo považovat potřebný odvrátit nebezpečí zásadní změna dosavadní zaměření celkový politika odmítnout konfrontační přístup sociální demokrat volba poslanecký sněmovna
-francouzský pravice rozeznat podobný nebezpečí stranický špička volba dohodnout volební obvod mít lepší šance kandidát RPR UDF designovat společný kampaň podporovat
-nepřítel vznikající koalice opozice demokratický tržní vlast ocitat nebezpečí
-nebezpečí moci čelit silný pravicový strana ODS rozumný volič podpořit
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad4ce1628ff6cd503e04e3057deb1b00ca89462170813bfc379cb8405e1884d
+size 755

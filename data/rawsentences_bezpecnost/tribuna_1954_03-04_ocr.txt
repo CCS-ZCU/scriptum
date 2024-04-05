@@ -1,4 +1,3 @@
- Nebylo pak těžké posílit autoritou shora (at už autoritou Kominformy, sovětského ministerstva bezpečnosti, či »Gottwalda«) orgán nižší vůči orgánu vyššímu či naopak, a provést tak změnu v souhlasu s dialektickými zákony.
- Rais, později i Nepomucký, který kdysi vytlačil »Slánského muže« Duriše, odchází ministři Pokorný, Havelka a ministr financí Kabeš (který je nahrazen Durišem!) konec konců odchází i ministr státní bezpečnosti (dočasně náměstek ministerského předsedy) K.
-) Je příznačné, že se ruší zcela Bacílkův resort, ministerstvo Státní bezpečnosti a bezpečnostní aparáty se stěhují (jako již vícekrát v minulosti) na pověstné ministerstvo vnitra, z něhož byl vyhozen Nosek novým mužem Barákem.
- Chalupy v tomto čísle se však mnohé ujasní: rušení ministerstva informací po čistkách ve Východním Německu, rušení ministerstva Státní bezpečnosti po čistce Berii v SSSR, protichůdné reorganisace vlády, i jiné změny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57738b5c4e9d99d005f7f658771c7f8ae732647b45544161409ad8e57a96da85
+size 1030

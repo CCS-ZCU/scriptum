@@ -1,1 +1,3 @@
-šachový velmistr poslední den prostřednictví agentura obrátit kulturní pracovník celý svět zájem obrana Emil Zátopek zbavený místo vychovatel mládež chodit státní bezpečnost výslech
+version https://git-lfs.github.com/spec/v1
+oid sha256:a655feb8c5838970a1daaa480a204dcee21d3132ec7c5aa856e6ae6aedf9cc8a
+size 202

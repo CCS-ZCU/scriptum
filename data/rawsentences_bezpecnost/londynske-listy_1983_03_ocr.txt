@@ -1,1 +1,3 @@
-Vládnoucí klika,která rozhoduje,je od myšlení a přání obyčejných lidí oddělena ostnatým drátem a radary svých vil a neustálým doprovodem státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:615791c6fe22e354f0070319d2d10dc7e33d0a30125f746395292dd45991ea0d
+size 177

@@ -1,3 +1,3 @@
- Jiri Gruša 42  Čeští řidiči jsou vzorní Podle vídeňského Kuratoria pro dopravní bezpečnost čeští řidiči rozhodně nedělají v Rakousku ostudu.
- Ostatní: Ve zdravotnictví, školství, oblasti bezpečnosti nebo zahraniční politiky neobsahuje programové prohlášeni téměř žádné rozdíly oproti dokumentu Špidlovy vlády.
- 52  V síti policejní akce Kryštof uvízl stejnojmenný arcibiskup V rámci české policejní akce, zaměřené na zlepšení bezpečnosti dopravního provozu a nazývané již tradičné Kryštof, zastavili policisté shodou okolností i stejnojmenného pravoslavného arcibiskupa pražského a českých zemi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e44dbb34cfb4c1b7ca6b9afaaa8ed5a9309c6b42ba87eea3d19391831f0b515
+size 666

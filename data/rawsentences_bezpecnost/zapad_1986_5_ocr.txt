@@ -1,2 +1,3 @@
- Letecký oddíl ministerstva vnit- ra slouží pro přepravu politických a vládních představitelů a příslušníků státní bezpečnosti.
- Karel Trinkewitz, Německo  Myslete na bezpečnost svých dětí! Každý rok je v Kanadě při automobilových nehodách zabito asi 70 malých dětí a 4000 je jich zraněno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:121d4dd47713a34d68bb1d7cb5b8c6d3faf6b0fd001fa3fc47074f65a6ffa7ba
+size 323

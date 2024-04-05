@@ -1,1 +1,3 @@
- Z DUCHOVNÍCH písn í Ö hříšníku, jenž ve vší bezpečnosti si v hříchu hovíš, zpit svou konečností! Již vzbuď se, povstaň! Čas je nejvyšší, teď ještě Bůh tč vlídně vyslyší.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f76cbcff7c91cdeba403a92825137ac4932b01db87a6d39578b1f3bd4d03585
+size 205

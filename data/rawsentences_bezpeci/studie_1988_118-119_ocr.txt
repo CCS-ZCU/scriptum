@@ -1,1 +1,3 @@
- Myslím, že aspoň v naší do- bě mají smysl jen ty národy, které usilují o demokracii a vše, co je s ní ideálně spojené: o svobodu ducha, bezpečí těla, slušnost atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7126b136cb0008cc0b0340e94d76fd195204acc019382a6d0d6fdb72b464f78c
+size 182

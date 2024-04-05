@@ -1,1 +1,3 @@
- POTŘEBUJÍ POCIT BEZPEČÍ Dobře si vždycky uvědomme, co chceme.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34758c4860c57cb31f7725eeea70ec8ab4ea45a765ab961cceb460319f8ddaf2
+size 70

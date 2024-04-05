@@ -1,1 +1,3 @@
-nebezpečí Hary světový rekord přicházet jižní Afrika
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f2edf0622dbdda7dcdda66fd99dcd61bc148113b4f56610a6fa71388900c1b
+size 61

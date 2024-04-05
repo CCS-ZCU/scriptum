@@ -1,1 +1,3 @@
-smlouva podepsaný Riga pronajmout státní letecký správa letadlo technický zařízení firmí inženýr zodpovědný letecký bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:8998964285434a0dd41b1581249876b75847ae64e434fa0007572051fc416733
+size 143

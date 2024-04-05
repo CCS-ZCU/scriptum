@@ -1,1 +1,3 @@
- Hovořil v tom smyslu, že nám nezbývá než vzít na vědomí, že v kterékoliv době žijí kolem nás lidé, kteří hovoří stejnou řečí, ale mohou nás připravit o klid, o bezpečnost, i o život.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa015865f8cae9cdd8d6f3aeeeeef06fcc5100e6e46c88a8e05bb8a74f9d7eef
+size 211

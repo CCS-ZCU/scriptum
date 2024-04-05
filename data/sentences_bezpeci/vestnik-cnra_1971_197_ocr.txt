@@ -1,1 +1,3 @@
-vyložit Masaryk presidentský projev tvář tvář československý dobrovolec první válka bezpečí zajatecký tábor odcházet fronta nový boj svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:66757630ffb6c6ae4fa21cef11245899f1e8886ee4dcd07f5f422a9a97a75f93
+size 157

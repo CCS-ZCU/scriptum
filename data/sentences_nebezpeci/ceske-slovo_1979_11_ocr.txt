@@ -1,1 +1,3 @@
-nebezpečí útisk individuum kolektiv stát reálný jev tragický následek nutící přemýšlení kořen zlo zlo vyhnutelný
+version https://git-lfs.github.com/spec/v1
+oid sha256:42662764f4d338a908dac4eb67e5565207aebeee5f05831c5e36542a8d34836d
+size 129

@@ -1,1 +1,3 @@
-muset platit bezpečí pouodlit ničený přístřešek cnraněué život svobouda závislost myulenka čin
+version https://git-lfs.github.com/spec/v1
+oid sha256:55d5d03e3d0b9b44f0361247151dd8709963f187f72f75d1ac0ada425a6ab25b
+size 108

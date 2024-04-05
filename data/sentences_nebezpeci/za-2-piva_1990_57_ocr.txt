@@ -1,2 +1,3 @@
-nebezpečí pravicový extremismus moci stát živný půda demagogie komunista pozor
-Laibach šokovat strašit snažit přesvědčit velký nebezpečí vzdát individualita stát narkoman závislý dostatečný dávka masový kultura
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea704ee8c569204ace382f7a9771c76a6b493e21d15a9ee17c6ddbcbb8bb063
+size 235

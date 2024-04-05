@@ -1,1 +1,3 @@
- Ze se sejdou — v klidu a bezpečí - sympatizanti tam či onde po světě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3000904cd6d1145b6e15039a034ff275b2567ef9185fed4748f49bc4c17cb053
+size 78

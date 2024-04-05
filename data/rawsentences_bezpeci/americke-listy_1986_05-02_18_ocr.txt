@@ -1,1 +1,3 @@
- Co tím dokázal — naprostý nezájem o bezpečí svých vlastních občanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e341431fe02d32b5db1602c596a9d98c27c75587f76d3a89c482cb88ec8dd40f
+size 81

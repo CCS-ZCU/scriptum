@@ -1,1 +1,3 @@
- Nedůvěra, uzavřenost, strach charakterizu í převážně vztahy mezi lidmi v takto postižené společnosti, ve které každý jednotlivec nosí svou samovazbu ve své duši, f nejintimnější lidská skupina-— rodina — je často touto nedůvěrou podrývána a rozkládána; rodiče se bojí mluvit otevřeně před dětmi z obavy o bezpečnost jejich nebo vlastní; manažerská centrála zbavuje autonomie i tuto přirozenou lidskou jednotku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b08dbf725032fa6f3ecb7156bd2f4825eb9abd18a317c68eacd3d351d506099
+size 456

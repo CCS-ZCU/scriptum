@@ -1,2 +1,3 @@
-přijatý integrovaný nesený kruh moci cmoci nechat unášet blahý bezpečí hlodat dno srdce záhadný neklid formulovat otázka mít smysl generace předávat druhý pochodeň život plynout řeka následující okamžik táž táž
-obraz dokonalost bezpečí kruh dávat úplný klid
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec4d0f75761d03b9d5e9673166fa5ec032ade92cba93e8b715880d73ea044200
+size 284

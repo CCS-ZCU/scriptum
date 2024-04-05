@@ -1,5 +1,3 @@
-západ asijský methoda vedení studený válka bezbranný snažit čelit hrozící nebezpečí totální zotročení zdrženlivý zbrojní úsilí snaha dokonalý dorozumění národ podporování stávající vznikající mezinárodní organisace oblast svobodný svět zaniknout jiný stát propagační tribuna různý interpretace marxismus
-sílící nebezpečí mocenský vydírání Moskva důsledek obrovský vojenský potenciál stát katalysátor přirozený integrační proces svobodný evropský národ
-nebezpečí nabádat akce návrat obyvatel historický země koruna český společenství svobodný evropský národ
-veřejnost katastrofa Černobyl hovořit nebezpečí jód
-ministr vnitro Zimmermann tvrdit obyvatelstvo hrozit akutní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b846f5cd0eb10b115d4fdf9762680c440d70dde0916318eeb6f135919bfe9878
+size 765

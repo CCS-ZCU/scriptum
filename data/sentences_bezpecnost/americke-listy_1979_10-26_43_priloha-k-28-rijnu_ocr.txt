@@ -1,1 +1,3 @@
-starost bezpečnost přev slední den nadvláda Němec Taschkův starostování
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c189768717b817854edc0aa5d4f82f3f32ed5bbaca241d38145dac85acc08e2
+size 79

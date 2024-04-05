@@ -1,1 +1,3 @@
-rychlý pltí znamenat nebezpečí první druhý sklenice pivo sklenka víno stopka lihovina počkat hodina druhý třetí hodina
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd77f97ba23161418da9e35b2d2dcdd3f8f043ae4708674aef49b39a309ccaef
+size 130

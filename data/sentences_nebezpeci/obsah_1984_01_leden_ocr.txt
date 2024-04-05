@@ -1,2 +1,3 @@
-existence vydávaný pod^vratný bezpečný existence tvor bezpečný život ustavičný nebezpečí
-nebezpečí charakter jednotlivý intelektuálao
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac223f9ed1ba43d8747954dd3ef674fe57da23e2c947e77d50aa72e8f1e6fc7e
+size 150

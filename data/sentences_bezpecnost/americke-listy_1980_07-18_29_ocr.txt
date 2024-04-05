@@ -1,5 +1,3 @@
-Francie týkat bezpečnost sousední evropský země
-zdůraznit Francie mít přímý zájem bezpečnost soused
-tiskový zpráva konference jednání prezident Carter posílat bílý dům vyjímat zají macéjší informace strana pololetní zpráva americký komise bezpečnost spolupráce Evropa dodržování závěrečný AKTU Helsinek svoboda disident zatčený předchozí policejní akce
-úřad propustit prezident Carter poslat kongres pololetní zpráva americký komise bezpečnost spolupráce Evropa dodržování závěrečný akt Helsink dobí prosinec květen
-pravit převažující zájem převyšující ostatní muset národní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e969c6ecd817398725b364f4d26bfef8f8b1861b107c7027cc6b7578cd4de3b
+size 653

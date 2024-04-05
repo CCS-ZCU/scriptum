@@ -1,2 +1,3 @@
-první mobilisace československý armáda květen krajanský Amerika ozřejmit smrtelný nebezpečí starý vlast ocitnout organisovaný celý Amerika místní krajanský obranný výbor podniknout sbírka fond obrana republika
-Jan Hilgert informace americký veřejnost nebezpečí demokracie hrozit výboj Hitlerův
+version https://git-lfs.github.com/spec/v1
+oid sha256:c08331af7ca66b9a51cad2d889aac34a991d36f09948db344dba2330395aa144
+size 319

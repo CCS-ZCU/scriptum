@@ -1,3 +1,3 @@
- Nejvyšší církevní hie- rarchie je složena dílem z takovýchto lidi, dílem z těch, kdo se - do- brovolně nebo pod nátlakem - stali loutkami nebo přímými spolu- pracovníky Bezpečnosti: přirozeným důsledkem je její naprostá ser- vilita vůči státní moci.
- Většina se klonila k tomu, že naděje v demokracii je falešná, n oddávat se této naději a pokoušet seji uskutečnit by znamenalo ohrozit jak nás rela- tivní blahobyt, tak i bezpečnost.
- Následující weekend se celá akce Bezpečnosti v menším měřítku opakovala, Petr Pospíchal byl 12.
+version https://git-lfs.github.com/spec/v1
+oid sha256:effb085eef33d09a046cb9bb8c4b1dc586a702b8b77ca6827d1313a86aba6de5
+size 583

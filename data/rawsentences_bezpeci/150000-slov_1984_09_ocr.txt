@@ -1,1 +1,3 @@
- “ Ve snaze o radikální reformu veřejné správy vypracoval systém místních zastupitelských orgánů vytvářených zdola; jako publicista bojoval za to, aby rovno13  váha koalice poskytovala bezpečí všem, kteří se chtějí podílet na procesu demokratizace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:300a8332919e561b347bae3512af779b3172634a1cfb6382fbd4c82aa2324adb
+size 274

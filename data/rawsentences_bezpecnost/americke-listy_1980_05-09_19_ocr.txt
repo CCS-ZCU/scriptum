@@ -1,2 +1,3 @@
- A klidu bude Jugoslávii myslíme dopřáno také proto, že dostala co se její bezpečnosti týče — oficielní záruky od Spojených států.
- Kanadský vědec doktor Robert Morrison, který bude hromadné pokusy provádět pro Společnost pro nukleární medicínu v Albuquerque v Novém Mexicu, prohlásil, že dosavadní pokusy byly velice povzbuzující — jak co do účinnosti, tak co do bezpečnosti nové metody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3995d358c395be4c0ee68c181eaf92d0ca0eb314e93f622a00fba5cf72836ba9
+size 428

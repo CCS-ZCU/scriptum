@@ -1,2 +1,3 @@
-úřad vidět nebezpečí
-diplomat vidět hlavní důvod agresivní reakce polský událost psychologický strach pražský vedení nebezpečí ideologický nákaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:52395ff097f722a399c8d226c12c11d01d7f4a410e8ebf8ab67a796d431a9778
+size 165

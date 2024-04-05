@@ -1,1 +1,3 @@
-nesený blízký lékárna rána zavuzat tada ležet nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b16a4c7341df7469dd6f6a5368fb5160291689a52d17512ae3dff8653fb867f
+size 72

@@ -1,1 +1,3 @@
- Ľahko sa kvetnato hovorí o ľudských právach človeku bývajúcemu niekde v bezpečí, ďaleko od konfliktných oblastí, ktorý nepozná každodennú krutú realitu života.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d09e60766b1998bfaa695c8d4d52ef921a41155ca2817bd5cd7ffefe091e06d6
+size 180

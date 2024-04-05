@@ -1,4 +1,3 @@
-bezpečí ukázat sklo cedule informace číslo
-vychutnat vát společnost bezpečí náměstí střílet škrtíajet krmit dítě starouš bavit
-tatínkov blízkost zárý kao bezpečí
-dlouhý doba cítit šťastný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:72cbe4c60174c3959948103e91e2b71ad7fd9822a09a57d29f5826e775be01df
+size 270

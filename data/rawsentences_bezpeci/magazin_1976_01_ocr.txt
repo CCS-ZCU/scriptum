@@ -1,1 +1,3 @@
- "Teďka maj plno vodvahy, dyž sou v bezpečí! Doma kolaborovali, dyž my sme se snažili s tím hnout!" "Ty ses tak snažil, až si dostal státní cenu," pravil plešatec.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b785e3d5f655ea61d681b11574cb99dc1df1795c97dccd895e4a17e1bc6ae0
+size 176

@@ -1,7 +1,3 @@
-záře prezident CSSR Gustáv Husák dopis v^němz popisovat zásah Jazzov sekce hodnotit činnost závěr uvádět případ vážný situace oblast lidský pravo Československo příznačný státní bezpečnost souhlas státní stranický orgán potírat kulturní organizace vystupovat mít široký základna člen sympatiza jící organizace legalita odvozený helsinský dohoda
-lonsk metr prosinec skupina mladý lidé spontánní manifestace den pát výročí smrt John Lennon pokusit založit organizace mlad umění mír získat myšlenka stovka zájemce státní bezpečnost ustavení organizace zabránit
-chystaný masový gongový koncert kulturní dům Praha Chodov Opatov zakázat státní bezpečnost konkr kapitán
-Petr Cibulka hájit zaklad myln informace přesvědčený porušovat zákon ochranný dohled starat čekat předvolaný veřejný bezpečnost poučení konkr tním plnění podmínka ochrann dohled
-uvést Petr Cibulka veřejný bezpečnost předvolaný shánět
-titulek vládní teror dokumentovat porušovaný právo život zpráva zavrazděny druhý zářijový týden prava osobně svoboda osobně bezpečnost potlačování svoboda shromaždovací svoboda slovo porušování právo náboženský svoboda
-bezpečnost využívat současn trestní stihání člen vykonn výbor rámec vyšetřování vykonávat mimopražsk člen nátlak podepsat prohlášení budoucno účastnit protistátní činnost vztah
+version https://git-lfs.github.com/spec/v1
+oid sha256:e260e9cfe9fefe4868a651a4da5bcf342a44705320c046551abf34f474f7a2fe
+size 1596

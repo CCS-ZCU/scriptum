@@ -1,3 +1,3 @@
- Československý poradní sbor společně s Polskou exilovou vládou v Londýně, maďarskými a albánskými organizacemi poslal memorandum ke konferenci o bezpečnosti a spolupráci v Evropě Evropské radě do Strassburgu.
- exilových organizací poslal dopisy vládám — účastníkům konference o evropské bezpečnosti v Helsinkách.
- Všude přítomná sovětská bezpečnost zjistila, že rozsudky mají být provedeny v noci z 21.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebaa1c46126d32604f34174bf679e6627927031814a0d25c66c31acd8f6cb1a3
+size 444

@@ -1,7 +1,3 @@
-hrubka promluvit nebezpečí mezinárodní komunismus část řeč otištěný den
-choť pani Hrušková Papánek promluvililznout manifestační schůze vktera následovat důležitý problém nebezpečí komunismus vyplývající starost uprchlí vvodpolední zasedání
-dovolovat užít slovo Edgara Hoowerg ředitel úřad zdůraznit ^chtout národ budoucno žit svobodný muset $lný chápat zbytný cena svoboda stálý bdélost
-vsichn^ přítomný schůze obnovovat vzpomínka národ československý nebezpečí spojení stát duch slibovat ochabnout velký chuť pracovat úplný vítězstvík ZDAR litr Emilie Welclův zpráva organisační tiskový služba CSNRA přednesený den
-omezený počet strana dnešní noviny možný umístit článek velký pocta oznámený drobný zpráva uveřejňovaný krajanský £isku® Cláxjka možný časový upozorňovat udalost CSR nebezpečí komunismus sledovat pevný linie rada
-nebezpečí komunismus velký skrývat nový moskevský koexistenČní politika
-spojenec dnešní zápas doba nebezpečí mezinárodní komunismus sílit
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f540915a4bbceb4aa18f56a9c1dc2905b94dc24a5e09d70be2b8307285914f4
+size 1063

@@ -1,2 +1,3 @@
-odzbrojený mírový spolupráce uvolnění jediný rozumný odpověď nebezpečí lidstvo vystavený
-plynout velký nebezpečí ztráta solidarita
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb9cdf9e05dac5ffa60b4e54759c7318ce2fd92532f5911aa1589d77dac1b636
+size 148

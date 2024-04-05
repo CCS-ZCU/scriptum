@@ -1,1 +1,3 @@
-dopis generální tajemník sovětský komunistický strana vyjádřit obava kolega život nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ebf0c396dcc27de143f543ee45061ba198eedda45383344391d3590ae42f430
+size 103

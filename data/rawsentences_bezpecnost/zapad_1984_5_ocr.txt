@@ -1,5 +1,3 @@
- Pět permanentních členů Rady bezpečnosti — USA, SSSR, Velká Británie, Francie, Čína — mělo zastat roli privilegovaných globálních hasičů.
- Rada bezpečnosti OSN zatratila roli Izraele sedmkrát,roli Sýrie nul- krát.
- Rada bezpečnosti se v r.
- 1974 se delegace členského státu Republic of South Africa nesmí zú- častnit zasedáni, neboť tak hlasovala a stále hlasuje většina Valného shro- máždění — ač k vyloučení či suspen- dování člena je třeba souhlasu Rady bezpečnosti, souhlasu nikdy neudě- leného.
- Noc je plná zvuků, sa- rančata a cvrčci vyhrávají ve fortissi- mu dechovky národní bezpečnosti, moskyti a bodalky tse-tse obtěžují zrovna tak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd0713ea03b8248e436de1ca297bcf30bde43cf7a7d1aa876d011c708353102e
+size 710

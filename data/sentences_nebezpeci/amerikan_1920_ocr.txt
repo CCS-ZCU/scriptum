@@ -1,15 +1,3 @@
-majetek hrozit nebezpečí rok rozvedený
-zrychnout zpeněžit peníze uklidit nebezpečí
-
-dbát nebezpečí vlastní muset pečovat zmařený čin
-doba zdát probudit starý duch husitský doba velký nebezpečí dovést spojitý všecka strana proud společný hnutí obrana vlast
-svoboda život nebezpečí pravit Lacina komický vážnost vytáhnout vesta úlomek knoflík strčit Karásek nos dodat znát
-první muž dělat chápají celý dosah nebezpečí František odhodlaný boj svést pytlák
-nadlesní Řeřich přesvědčit Špoulík nebezpečí vydat hledání druhý pytlák Špoulík oznámit muset les postřelený zhynout pomoc
-protáhnout zbavit kštika krátký doba mít hrozit nebezpečí ozdoba senný vlákno vylézt vůz zeptat člověk první padnout ruka mít Julesburg
-štěstí veverka sviště strana vystrkovat hlavička tušit nebezpečí hrozit stát nemoc Pasteur vynaleznout léčení zůstat kraj známý
-Burkett tajný policie podařit zručný manévr polapit Kateřina Liebmannův povedený špehounek Německo mít
-nebezpečí
-cesta tuhý krutý zima plný svízel strast nebezpečí strádání utrpení přestát duševní síla zlomit zpráva Griffin potopit ztroskotat loď vezoucí Francie zboží veliký cena celý posádka pevnůstka muž vzbouřit pevnůstka zásoba zničit uprchnout
-Tonta zraněný nebezpečí podstoupit zažít běda utrpení konec květen rok
-dávný velký nebezpečí obyvatelstvo vzrůstat produkce potravina
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b686f13c260a4816133b51edcfadd01cf439b00b52f83e0a9cee312491ea025
+size 1484

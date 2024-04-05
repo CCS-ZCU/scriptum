@@ -1,1 +1,3 @@
-zmýlit mít síla velký moci zvítězit ukázat moci dojít nebezpečí posílit vědět bdát
+version https://git-lfs.github.com/spec/v1
+oid sha256:66c555a4f3a82a06aceaf7b9fb3cab18ac7057d08a397a5d082a0e4cdf3ad3d9
+size 97

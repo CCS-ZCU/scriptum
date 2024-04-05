@@ -1,1 +1,3 @@
-hrozit bezpečí pochopit
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6dc60748a16352368da76e996c94ec374b9eee17278aade6bdfab6c3e57ff58
+size 26

@@ -1,1 +1,3 @@
-vědět strach vzrůstat nebezpečí stateěnoahí ubývat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d51f0cfd30acc9d94aa90abceaf2e76d2d4854590d6a04b8f19aa87b71d2253
+size 59

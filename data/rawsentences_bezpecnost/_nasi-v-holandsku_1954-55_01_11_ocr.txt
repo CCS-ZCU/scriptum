@@ -1,1 +1,3 @@
- A zajisté že to byly vraždy,když na příklad čtyři členové uniformované stráže ’’bezpečnosti" v Plzni několik týdnů po "osvobození*' si po službě došli do trestnice na Borech za Plzní,vzali si na strážnici klíč od vězeňské cely a v ní к smrti utloukli a ukopali policejního kapitána Bureše,jehož nevina byla později prokázána.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64e3299e18521d42bc68646d81e0d2a0762d6ea9d9cc70ae2df2b4f2bf448a5e
+size 369

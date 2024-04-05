@@ -1,2 +1,3 @@
- Medzi nábožnými pútnikmi nechýbali, samozrejme, ani príslušníci bezpečnosti v diskrétnom civile — medzi nimi väade- bol nadporučík Kysucký.
- Nech aj tí, čo slúžia vlasti pri vojsku — hovorí koncil — pokladajú sa za služobníkov bezpečnosti a slobody národov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eee86c9ce71695e4831ca49307a0d19e126cfe5ba3c0d9f2f6b81ba97b07388
+size 289

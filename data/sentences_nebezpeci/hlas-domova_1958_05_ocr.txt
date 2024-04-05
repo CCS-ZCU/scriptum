@@ -1,1 +1,3 @@
-myšlenka trampování příroda romantický zvyklost vyčtený dobrodružný knížka zen menat vážný nebezpečí umírající svaz česko slovenský mládež
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab2cffc7adbed2a75f89778eab57b17d67a8fd34fb471ca0cd61617bf4fb1f7e
+size 161

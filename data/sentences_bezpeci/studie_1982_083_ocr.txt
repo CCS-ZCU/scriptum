@@ -1,2 +1,3 @@
-Petr dokládat apoštol zákaz bezpečí pronásledování moci přestat vyznávat ukřižovaný zmrtvýchvsalý Ježíš Kristus
-podceňovat první bezpečí osobní organizovaný snášenlivost
+version https://git-lfs.github.com/spec/v1
+oid sha256:45ecf215b54184c621b7f904e1c7ae689f118ad0ad06343c25bc24215d9c54b7
+size 196

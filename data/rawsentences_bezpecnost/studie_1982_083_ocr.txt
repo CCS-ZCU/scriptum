@@ -1,10 +1,3 @@
- Její zásluhy jsou po- sléze zřejmé, když sledujeme denní vytrvalou práci funkcionářů Mezi- národní organizace práce a orgánů, které zesilují její činnost, jako je »Mezinárodní ústav pro sociální studie«, »Mezinárodní asociace pro sociální bezpečnost« a » Mezinárodní ústředí pro odborné a technické zdokonalování«.
- Od té doby začaly Mariiny potíže se státní bezpečností.
- Jednoho dne, když výslechy prováděné v Bartoloměj ské nebo v Ruzyni nepřinášely nic nového, nápaditý major, mající ve státní bezpečnosti na sta- rosti intelektuály, se rozhodl, že půjde na Marii jinak.
- Tento rozšířený výklad zákona potom zahrnuje naozaj všetko a dáva Bezpečnosti dostatočne široký rámec na trestné stlhanie.
- 18 odsek 1 rušilo alter- nativně veřejný poriadok, bezpečností, zdravie alebo morálku alebo základné práva a slobody iných.
- Paragraf 178 však v trestnom zákone zostá- va, Bezpečnost! podia neho stíhá a súdy odsudzujú.
- T y t o interpretace, veřejně nepřístupné, zneklidňují nejen kněze a věřící, jichž se bezprostředně dotýkají, nýbrž i orgány bezpečnosti, prokuratury a soudů, které jsou v aplikaci zákona stejně nejisté.
- Ivan Jirous navíc žádal předvolání příslušníka bezpečnosti, který při prohlídce 11a chodbě vybral z většího množství sáčků koření dva papírové sáčky a přinesl je do místnosti s tvrzením: » T o je marihuana.
- Karbanovi, členu Státní bezpečnosti, Bartoloniějská ulice 9, Praha 1 Pane doktore, nedávno jsem se s Vámi opět nedobrovolně setkal při výslechu.
-) Řekl jste mi, že Státní bezpečnosti je známo, že existují jakési »živly«, před kterými si nejsem jist vydíráním, event, zdravím či životem - ani mí příbuzní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09334471818e9c019c9745a71cb658880a739515a96caf6d23e73581935503b7
+size 1841

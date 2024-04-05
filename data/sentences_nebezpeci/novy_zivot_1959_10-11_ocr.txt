@@ -1,8 +1,3 @@
-nacionalismus vyvolávat veliký nebezpečí zvenku překročit zdravý míra
-lidé intelektuál vystavený nebezpečí upadnout věc krajnost
-strana nebezpečí stát ostrý nacionalista druhý strana nebezpečí škoda zmoudřit zavrhnout národní hodnota
-různý nesnáz nedorozumění praxe spojený skutečný nebezpečí mnohý dávat křtít peníze dát zaplatit křest odepřít
-naléhavý úmysl znít ruka velký část ležet osud národ uvážit velký úkol doba nebezpečí
-nebezpečí vzrůst Aka cius Cařihrad přijmout takzv
-vystavovat druhý nebezpečí duchovní nákaza
-obviňovat náboženský fanatismus očerňování režim pedagogický metoda falešný informování věřící
+version https://git-lfs.github.com/spec/v1
+oid sha256:963ac1c2dfb02c43c1f8f1a0ffa7b27b5a0cf2ad7de8acb7cd24453cb8c6ed7a
+size 705

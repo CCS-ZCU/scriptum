@@ -1,4 +1,3 @@
-rozeznávat bno nebezpečí zrada zploštění zpovrchnění hrozit dokázat vyrovnat sláva úspěch pochlebo vání stát lep snaživec toužící ohřát polévka ohníček sláva
-stát proběhnout pravidelný monitorování jednotlivý složka životní prostředí hledisko koncentrace radioaktivní látka vláda zdravotnický orgán mít informace přijetí opatření snižující nebezpečí zdravotní následek radioaktivní spad
-vyplývat zmiňovat nebezpečí hrozit dítě
-hodnota vSek případ znamenat dospělý člověk nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88bac692498f377c1b8bbd6957a4d00fcdcdb733000493075dba3d636f332bf
+size 549

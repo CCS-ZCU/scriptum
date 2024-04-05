@@ -1,1 +1,3 @@
- Obklopí své dítě láskou a útulným bezpečím tak dlouho, jak je to potřebné a přiměřené, protože onen trubec a šovén přece jen přinese na prvního dost peněz, aby z něho mohla být rodina slušně živa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b068a25c2767179c86a226f3fb54d0792eb22fb67e422a28a7c6d4999d30101
+size 225

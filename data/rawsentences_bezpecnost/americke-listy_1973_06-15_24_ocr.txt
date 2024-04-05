@@ -1,1 +1,3 @@
- O poschodí níž bydlí v tomtéž domě, ve čtvrtém poschodí ministr vnitra Sčelokov, v šestém další přítel, šéf bezpečnosti Andropov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92d8076d73030ec52ddcbb125ac2838cd320f4913256adad3a09a055e600a40
+size 151

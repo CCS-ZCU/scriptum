@@ -1,7 +1,3 @@
-poliš svět civitas terren znát svoboda autokratie stát dozírající žádoucí balanec zákon svoboda ustavičný nebezpečí přesmyk tyranie libovůla stávat zákon zákon impuls konečný sebeinterpretace
-skutečný změna svět
-nebezpečí orgiastický pád
-vrážet podrobný popis lidé fauna flóra daleký končina mapa atlas zakrcslený oblast líčený poměry končina noha Evro Zdeněk Katista panova vkročit podat zpráva zachycovaný nesnáze nebezpečí muset výprava zápasit rozumový reálný poznání lidský obohacovaný míra úctyhodný
-hrozba nebezpečí
-děnék Kališ pochopit nebezpečí skrývat hrůzný poznání víra zahájit polemika Einstein
-podařit mravní úhon dostat postel pomodlit usnout rovnat vítězství ranní cesta kostel pobožný Jarka hentira nykýř nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:15bd24e3f9f954669235296c2cebf37f79aedb1ddc6f1bfe2132ec267b430e2e
+size 822

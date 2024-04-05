@@ -1,2 +1,3 @@
-nebezpečí bezprostřední vpád zairský území hrozit
-zpovídat člověk realizovat klukovský sen bitva nebezpečí zaběhaný pochod pacifistický mysl zalitovat vystřízlivět zprotivit pubertální iluze hrdinství tvář tvář skutečnost smrt kamarád hlad žízeň horka vlastní zranění ostrý disciplina cizinecký legie
+version https://git-lfs.github.com/spec/v1
+oid sha256:f693b99f8ef098a2ade2afb9f445392e9368f501eeb5f9f7dc3079c5f7b97b3e
+size 322

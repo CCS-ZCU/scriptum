@@ -1,1 +1,3 @@
-Polsko bezprostřední podporovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ee38a1e1be61f03d4f7fc7999f8a7b5a8c500e287eb4c527e8b6af7ca40ec2
+size 37

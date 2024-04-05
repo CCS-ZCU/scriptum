@@ -1,2 +1,3 @@
- Tento úkon má význam symbolický — je morální podporou pro činnost agentury a uznáním zásad mezinárodní bezpečnosti, odzbrojení a míru, zásad to, které Sv.
- mírové politiky a do tažení za svolání celoevropské bezpečnosti a spolupráce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:414d1128b3e1d968fe2b44453e2d1ebb03c43de15fcea12e8e99f1d1918dd686
+size 263

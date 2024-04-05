@@ -1,5 +1,3 @@
- Man ZPKT K HLUBINĚ BEZPEČNOST) Justus BRATRSTVÍ VĚŘÍCÍCH Otakar Březina Nová literatura Dopisy Ziny a politika  ČTENÁŘŮM „SKUTEČNOSTI! Obracíme se na čtenáře nezávislé revue ,,Skutečnost" s prosbou o zaplacení předplatného.
- Spatřoval-li však Pa- lacký v národní bezpečnosti a rovnoprávnosti rakouských kmenů samu ideu státu rakou- ského, viděl s nemenší jistotou, že se monar- chie této idei nezadržitelně odcizuje.
- Churchill rozpo- znává správně, že žádný ze středoevropských národů neměl sám dosti síly, aby čelil tlaku Německa nebo Ruska, ale Churchill zapo- míná, že ani habsburský svazek této síly ne- měl, proto přece první světová válka vy- pukla, a vypuknutí války samo bylo tedy dů- kaz, že monarchistický svazek rakouským národům žádné bezpečnosti neposkytoval a nejméně už proti Německu, jehož přívěskem se monarchie stala.
-  skutečnost ZPĚT K HLUBINĚ BEZPEČNOSTI JUSTUS.
- Nové československo musí se vrátit do hlu- biny bezpečnosti, musí pěstovat smysl pro věčné lidské hodnoty a musí b ý t : ' 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc097b7ed49feb0ea2e674733bdf0d1baae4407a898cceea7672974a0325b319
+size 1123

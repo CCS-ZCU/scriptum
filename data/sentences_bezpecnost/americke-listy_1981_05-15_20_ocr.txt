@@ -1,1 +1,3 @@
-odchod sovětský jednotka daný situace vyloučený odhadovaný muž okupační armáda poát dout zajistit bezpečnost velký město taktika spálený země čekaný přepad kombinovaný síla vrtulník stíhací letadlo tank zvláštní oddíl cvičený boj partyzán vést očekávaný výsledek
+version https://git-lfs.github.com/spec/v1
+oid sha256:a08d4d2640e8cb913b8576d0eff2cade540efc718478f8c579130df9b9636b35
+size 296

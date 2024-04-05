@@ -1,8 +1,3 @@
-tichoučko nasvědčovat blízek hrozit nebezpečí
-nebezpečí tázat
-prohlášení odborník odstranit nebezpečí velký epidemie
-seznámený životopis obyčejný muž shledat zásluha záchrana unie blízek zásluha Washingtono Lincolnův doba porevoluční nový republika vést těžký zápas bytí zvaný aristokracie nést moci vvhřívat výslunní vládní anglický hodnostář osnovaný piknout mající účel odtržení stát nový republika politik filosof Jefferson prozíravost rozvážnost hrozící nebezpečí odvrátit dovést
-varovaný jezdit vydávat nebezpečí povodeň zastihnout
-požár den noc velký nebezpečí nový oheň jiný část město
-zbýt stožár lodník nebezpečí ztráta život osekávat
-evydávat nebezpečí otrava krev řezání kuří oko
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c4446a86a29de86dbdfa80bce1feb5b130c3a4f60e5573d68d73e3e3cf11340
+size 793

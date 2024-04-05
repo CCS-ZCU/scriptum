@@ -1,1 +1,3 @@
- Dále je poukazováno na to, že nejlepší záruka pro bezpečnost Evropy spočí- vá na rovnováze vojen- ských sil a na trvání Se- veroatlantické aliance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d9c0cfa99ce7f956fb10adbf68e433c09ad293d76b3563e2bb5fee908c1eeb
+size 164

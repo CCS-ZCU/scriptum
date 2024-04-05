@@ -1,1 +1,3 @@
-hovorit ľudský právach človek bývajúce niekde bezpečí ďaleko konfliktný oblast ktorý poznat každodenný krutý realita život
+version https://git-lfs.github.com/spec/v1
+oid sha256:51353afce2ae101715a42b97e0ea7469b4e5a789308a7053089f7e317ff1ea92
+size 138

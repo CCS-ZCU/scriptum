@@ -1,2 +1,3 @@
- Oba už vedla veřejná bezpečnost v evidenci.
- A veřejná bezpečnost s nimi hned zúčtovala i vykradené knihy ze Zeyerova muzea a vyloupené králíkárny zahrádkářů v Břevnově.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de910df5f0023c2ac06fb961a855ed5338e5d891bd0cbd6fdb7762d6956de511
+size 191

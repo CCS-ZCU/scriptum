@@ -1,1 +1,3 @@
-překonání mrtvý bod jednání NSR nebezpečí zažehnat pokrok následující měsíc Brežněv umožnit sjezd strana březen upevnit posice
+version https://git-lfs.github.com/spec/v1
+oid sha256:323009417791644c8f84c4aac8e192c90ef86c6c8ffa655d0a2dcd2d8c4e7acc
+size 145

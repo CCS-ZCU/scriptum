@@ -1,3 +1,3 @@
-Gustav Husák podat zpráva vývoj strana stát uplynulý měsíc hodnotit projevit vážný nebezpečí strana pravicový antisocialistický síla vyvrcholit srpen
-vrátit cestování druhý půle příští rok vydaný nový zákon cestovní doklad
-Scherzer ohled nebezpečí vystavovat jezdit přisluhovat svátost slovo boží
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9dd1413ab265ad869d3c7d817383661172b4d094ba9c6bf20c5a9bbc4904bd0
+size 331

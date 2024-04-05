@@ -1,2 +1,3 @@
-čínský nebezpečí zažehnaný spojený stát moci jediný moc moci dělit soupeřící komunistický velmoc
-nebezpečí Brežněv dostat Washington příslib hospodářský pomoc ujištění plný respektování sovětský moc stát železný opona reálný
+version https://git-lfs.github.com/spec/v1
+oid sha256:344a743b07ccd5ceed73f3e0b38e5f3181b1b41fac0047b1ce0e270b53e8cacd
+size 262

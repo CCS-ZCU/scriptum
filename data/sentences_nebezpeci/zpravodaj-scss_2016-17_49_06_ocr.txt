@@ -1,2 +1,3 @@
-moment vlakový soustava začít hořet záměr dojet nouzový stanice zastavit možný pasažér evakuovat místo dostatek čerstvý vzduch hrozit nebezpečí přiblížit
-pomoc možný vyprostit ČSSR hrozící nebezpečí kontrarevoluce
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b8d3e48e3fbbc6d60e02c21e90d4c8551bf7ea2390be303dff0616db768eca
+size 240

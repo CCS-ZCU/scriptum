@@ -1,1 +1,3 @@
- To samo o sobě stačí anebo by mělo stačit (dekodérům bezpečnosti), aby se 90  určí směr, nedá se zadržet; ono to ostatně ani nejde, taková je zákonitost davového pohybu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21f7ea0e4bde6ef498dc3bda4d6e0711e23f5e7df7b6b22d909d69844a52dadc
+size 188

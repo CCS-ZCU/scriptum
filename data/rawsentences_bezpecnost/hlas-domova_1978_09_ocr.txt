@@ -1,3 +1,3 @@
- Bylo zdůrazněno, že jména a adresy pode- psaných nebudou zveřej- něny a důvěrnost je v zájmu bezpečnosti příbuz- ných a přátel ve vlasti za- ručena.
- LIST SVATÉ STOLICI RSČ, vrcholná politická organizace Čechů a Slová- ků v exilu, děkuje za pev- né a prozíravé stanovisko, které zaujal delegát Svaté stolice na bělehradské konferenci o bezpečnosti a spolupráci v Evropě ve věci lidských a nábožen- ských práv.
- duben Dnem Sboru národ- ní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfc47362c5355b989594fd9dbb62c1087f60ec075185f0b33f26e0bfda2e1232
+size 498

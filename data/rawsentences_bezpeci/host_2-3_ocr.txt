@@ -1,3 +1,3 @@
- Všechno hodí přes palubu, čest,- hrdost, slušnost, bezpečí, Štěstí, všechno, jen ab;y dopsal svou knihu.
-onoho pocitu bezpečí, jenž poskytuje jen nepřetržitá kontinuita důvěrně známého světa/, se záslužně podílí na produkci symbolů a mýtů a je přímo funkčně včleněna do společenského procesu a spoluvytváří tu neprostupnou splet překrývající skutečnost.
- Každé ráno, kdy s kočičím uspokojením pro taliu je své údy a pak se do sebe choulí, opět vytahuje alespoň drápky a posléze Jo zase vtáhne dovnitř, vždy po té, co zjistí, že loží v bezpečí své postele« Mechanicky provádí své kočičí pohyby, avšak bolest je nesnesitelná, a ke všemu zjiňíujo, že se pohybuje ve velice omezeném prostoru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:810cdde5ad7606c659ea80a1cd525b730cc2f9be8ff0f6b077c80a96fae59aa3
+size 1026

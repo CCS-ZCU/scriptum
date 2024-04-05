@@ -1,4 +1,3 @@
-předstih vybudovaný kanalizace hrozit nebezpečí podmáčení objekt pochyba několikaletý působení počasí voda sně zima vykonávat dílo
-nebezpečí eritrejský student Praha
-zbývající ukončit studium ocitnout velký nebezpečí
-kampaň charta podstata velký nebezpečí hrozit kampaň únor letošní rok jít vážný věc konflikt Čína Vietnam
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4152a84e4289ccddd0c50fb0ff9d17bc6d011399212f791a03a641ae30dd1c
+size 365

@@ -1,4 +1,3 @@
-agónie začít čtrnácký den odejít sovětský armáda skončit dočasný polevení nebezpečí vojenský útok
-říci pluralita politický strana bojující moc sázka podstata socialismus odporovat potřeba zájem lid otvírat cesta možný zvrat kapitalismus vytvářet nebezpečí násilný střetnutí vyvolávat potřen násilný obrana socialismus
-přicházet beriovský poradce nastávat změna důkaz hrát role technologie zákrok bezpečnost opírat vymyšlený konstrukce obvinění vykonstruovaný nebezpečí moci zůstat ■venku trestný protistátní úklad republika
-číhat nebezpečí velký bratr chybět pevný záruka trvalost rostoucí svoboda záležet libovůle strana okamžik benevolentní
+version https://git-lfs.github.com/spec/v1
+oid sha256:10d1a5d9bffecdfbecbe8d5a49f9045534e26f9990dd2258ea271b1dea537c1c
+size 722

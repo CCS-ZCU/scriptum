@@ -1,3 +1,3 @@
-členství Čechy Morava západoevropský federace platit zásada volný pohyb kapitál volný pohyb pracovní síla vystavit velký nebezpečí
-zajímavý doba zvýšený turecký nebezpečí
-společný nebezpečí narušit skupinový bariéra východ západ
+version https://git-lfs.github.com/spec/v1
+oid sha256:59cd80328eec730bba09f2cbbd84b1fe4c7b1260b3d9f2a6878d8b4ee80fedb6
+size 260

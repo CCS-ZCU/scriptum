@@ -1,4 +1,3 @@
- Starost o bezpečnost přev- sledním dnem nadvlády Němců a Taschkova starostování.
- že právě toto všichni tři zatčení členové Výboru na obranu nespravedlivě stíhaných — osvědčí i při svých setkáních s vyšetřovateli Státní bezpečnosti v Praze.
- Zejména, když se v procesech po roce 1948 metody státní bezpečnosti ukázaly být tak podobné metodám gestapa, že mnozí z těch válečných udavačů mohli s klidným svědomím v StB vidět pokračovatele těch, kterým své dopisy a telefony adresovali několik let předtím.
- Čtenářů, kteří nejen znají skutečnosti z jiných zdroju informací, ale jsou schopni samostatně uvažovat a nutně se tedy ptají, jak se s problémem potrestání válečných zločinu vyrovnala třeba NDR, kde, jak je dnes už i v Československu obecně známo, zastávají význační hitlerovští důstojníci důležitá místa v armádě a zejména v bezpečnosti, jejíž vybudování by bez spolupráce bývalých příslušníku NSDAP a pravděpodobně i gestapa nebylo vůbec možné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4404dd05e31d2ea52c4b07c852cf2c258a4c8c6201649299b55a7118a17e736f
+size 1074

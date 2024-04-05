@@ -1,2 +1,3 @@
- V ze- mi, kde vládl Slovák prezident, který byl zárovéň generálním tajemníkem KSČ, kde hlavním ideologem byl vý- chodňár Biľak a StB ovládal Slovák šalgovič, existoval po léta protislo- venský nátlak, který zmátl mladé i sta- ré? V zemi, kde se Sověti pokoušeli roz- bit jednotu dvou národu tím, že všude prosazovali Slováky - nejen do fede- rálních pozic, ale i do pozic ředitelů továren, velitelů pluků a okresních velitelů bezpečnosti v Čechách, byl protislovenský nátlak? O čem to ten člověk mluví? "Len jedno se mi žiada dodať: Väč- šina Slovákov v zahraničí, a ak nebolo v čase júnových volieb, nebude dlho trvať, že i väščina národa doma bude presvedčená, že mnohé problémy by sa ľahšie riešili a mnohé ťažkosti, pre- kážky ľahšie prekonávali, keby Slo- vensko čím skôr prestalo byťakoľko- vek viazané na Prahu a jej politiku.
- Česko- slovensko má životní zájem na zacho- vání míru a posilování bezpečnosti na evropském kontinentě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6bfbb7c4434a1e33fd273051391ad501faead1094b14a4ed308ff68878532ef
+size 1043

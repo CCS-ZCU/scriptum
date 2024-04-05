@@ -1,2 +1,3 @@
- Zato u pomníku národního světce na ac av8kém náměstí se to hemžilo policajty a městem občas projelo několik tanků, bíle pomalovaných, prý sbor národní bezpečnosti.
- šachový velmistr, který se právě v posledních dnech prostřednictvím agentury “Agence France Press” obrátil na kulturní pracovníky celého světa v zájmu obrany Emila Zátopka, který byl zbaven i svého místa vychovatele mládeže, chodí pravidelně na státní bezpečnost k výslechům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52152a29cad314778782a96376d896da9817f392cc1c555fca41dc302c1be945
+size 492

@@ -1,1 +1,3 @@
-pronášený ohnivý řeč dědeček vedlejší pokojík opouštět stolek uklidit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0872d31e8c68e7d964a1f15b4f6c2537fce3c0c1181842251f4990ce0ecbf1e
+size 93

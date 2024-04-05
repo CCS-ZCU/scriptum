@@ -1,3 +1,3 @@
- A vůbec, i jiné švýcarské noviny a časopisy rozebírají podobně současnou situaci evropské bezpečnosti.
- Těchto sedmnáct milionů emigrantů z Polska, Československa, Východního Německa, Maďarska, Rumunska a samozřejmě ze Sovětského svazu ovlivňují politiku západních zemí a bylo by nezodpovědné, píše Die Welt- woche, kdyby trpké zkušenosti těchto sedmnácti milionů našich spoluobčanů, nebylo bráno v úvahu na konferenci o evroppké bezpečnosti a spolupráci, ve které, po několika, přerušeních, má být v listopadu opět pokračováno.
- Spojenci byli slabí vojensky i hospodářsky — aby mohli zaručit svoji vlastní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:443c9d8416cfa451184ab79078b6d49bb5a3831fa3c34f508e17a57de0acd582
+size 685

@@ -1,7 +1,3 @@
-nebezpe nový kurz clo budout nost hrozit nebezpečí kontrarevý luka nebezpečí návrat starý litický mocenský praktika
-brutální zákrok policie armáda cho vala místo voják odmítat střílet dělník docházet sbratřování Gomulkův vedení schopný trnutí zastavit hrozit nebezpečí přeměnit všelidový povsta
-theza přijatý vzniknout otázka zdravý síla pozvat sovětský vojsko
-opravdový internacionalista potřebovat dokázat pochopit nebezpečí kontrarevoluce pozvat sovětský vojsko
-nebezpečí nový politický proces zažehnaný
-strašidlo komunistický nebezpečí
-strašidlo imperialistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f16b197f31aa437b24d9c107c419d925fd6b2a891b52eb41f565d752effc0a3b
+size 641

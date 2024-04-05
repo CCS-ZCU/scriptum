@@ -1,2 +1,3 @@
- fakulty Vysoké školy Sboru národní bezpečnosti“ — veřejnost to prý přijala „s určitými rozpaky“ — kde se ti budoucí velitelé strážců hranic po čtyři roky tvrdě cvičí, jak že je mají hlídat.
- Pell je významným členem Výboru pro spolupráci a bezpečnost v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca34ef35548efc88005cee9def9a3e683c7ef7c193038ea3c2506c58d65ad5e
+size 302

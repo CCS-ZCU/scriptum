@@ -1,3 +1,3 @@
- otrátil se na pana Romana: "Ta palička na maso je na stanici bezpečnosti uložená jakožto předmět doličný.
- Bol som neraz svedkom, ako mladí muži zo Štátnej bezpečnosti vzali na ulici Dominikn Tot3rku a odviedli ho na výsluch n oni jediní to bolí, kto mal zéujem o jeho texty.
- Pretože dozor prostredníctvom Štátnej bezpečnosti stále funguje, len Tatarku už nemôžu zobrať na ulici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63c303875d89dbdc7557311414d0799f1454e3c7c092cb621aeebc6905ffa51f
+size 411

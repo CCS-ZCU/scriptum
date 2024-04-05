@@ -1,2 +1,3 @@
-roh lásit nebezpečí válka chtít USA Evropa stáhnout rok Evropa Železná pona doutnat velký ohnisko nebezpečí
-podnik řijít Jan zůstat metr ísta podporovat Beneš pomoci zachránit teře nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba20b523f6d4313d9f70b31a94494394edcb5c91ad3ce1685dd4fb9f6c84178a
+size 211

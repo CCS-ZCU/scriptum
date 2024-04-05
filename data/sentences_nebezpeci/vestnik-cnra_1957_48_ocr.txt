@@ -1,1 +1,3 @@
-americký lid probouzet letargie uvědomovat ^muse posbírat soustředit svo síla hrozící nebezpečí dovést celit
+version https://git-lfs.github.com/spec/v1
+oid sha256:79acce081f126e1dbd07a617a72f0c699bd16ed3a39e33dabc1472d24b34b56d
+size 119

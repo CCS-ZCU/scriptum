@@ -1,3 +1,3 @@
-muž žena dělník vzdělanec zaměstnaný osoba víra uvádět nebezpečí budoucnost pracovní místo odpovídající schopnost studie
-září manželství rodina nebezpečí lidé trpět manžel dítě celý společnost
-rodina manželství nebezpečí uhasnout víra náboženský cítění manžel dítě stát lhostejný bůh
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdca5862e3be50f9b4f0f3adef1335d81f947dae92622a5e45aa05f8673e82bb
+size 332

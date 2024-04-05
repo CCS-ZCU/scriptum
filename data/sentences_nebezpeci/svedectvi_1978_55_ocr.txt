@@ -1,12 +1,3 @@
-hrozit nebezpečí pokládat prvořadý cíl
-daný souvislost jistý národ převládat mentalita restaurace flek drobný český skutečnost odpovídat děsivý obrys vykreslovat Zdena Tominová převažovat ochotný redukce život přežívání cena přežití Příbram hlavní nebezpečí prodlení spěch
-hrozit nebezpečí ztratit
-soustředit boj nebezpečí nastolení policejní stát
-střední východ trvat válečný nebezpečí vyplývající izraelský agrese zdůvodňovaný argumentace historický postupovat vydávaný podobný titul maximální rozvaha
-dětství mít přednost kvést písnička hra sen touha rozjitřc smysl pulsovat nebezpečí zmenšovaný nevědomí tajemný dobrodružství strach veliký strach pochopitelný skrývat velký dospělý patřit odpovědnost dát sprcha téci voda
-hrdinství parašutista desítka stovka další český vlastenec muž žena útočník Heydrich poskytnout možný pomoc nebezpečí hrozit mít svět odezva velký událost válka
-Barghoorn nahlížet détent zatížený vyléčitelný handikap sovětský represivní politika podepisovat Sacharovův teze režim zbavovat občan základní lidský právo svoboda představovat nebezpečí lid celý svět
-kniha končit záznam událost léta základní analýza mít trvalý hodnota připadat dořečený spadat vrub autor čas vypočitatelný postup nebezpečí iako naděje
-nebezpečí indiskrece
-nebezpečí bezpečnostní stránka operace přicházet jiný strana politický vedení pracovat znamenat president Beneš vyhradit spojený okupovaný země nebe
-zasvěcený svědek malý intenzita skromný výsledek protinacistický činnost velký závod odboj válka růst čtverec vzdalující scinda čas válka nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa5c0979a6141d79982cd60e418beb05ca16f41b0daabc41da55de3d0543ed4
+size 1754

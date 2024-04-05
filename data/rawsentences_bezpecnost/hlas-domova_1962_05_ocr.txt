@@ -1,1 +1,3 @@
- Zbývající část připadá na správní výdaje a na obranu a bezpečnost státu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aacb30b15c0dea71599d0641eeb0a95c9d8b45f0dbf8d90a1b49219e0692a9b6
+size 86

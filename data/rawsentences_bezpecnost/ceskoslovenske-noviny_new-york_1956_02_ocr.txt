@@ -1,4 +1,3 @@
-” Štátnikom, ktorí by sa chceli v mene západu dohodnúť s diktatúrou na kompromise, Franklinov odkaz znie: “Tí, čo sú ochotní vzdať sa podstatnej časti slobody za to, aby si vykúpili dočasnú bezpečnosť, nezaslúžia si ani slobody, ani bezpečnosti.
- Orgány štátnej bezpečnosti hľadajú tu záškodníka — kulaka.
- A proto českoslovenští komunisté souhlasí s jejím vytvořením “neboť je to i v zájmu naší bezpečnosti” - píší.
- Armáda Západního Německa - to je něco docela jiného; to jsou podle nich bývalí nacisté, kdežto Němci z východu jsou poslové humanity, bojovníci míru a ručitelé československé bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0111fef6d1bb530e447a04cfc266000bb36e697af4982d97355dc12c80170154
+size 682

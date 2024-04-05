@@ -1,5 +1,3 @@
-srpen obsadit vesnice Doubravička mít pouhý obyvatel den noc reflektor projíždět policejní auto signální světlo domek stát rozsvícený auto vesnice pouštět dát legitimovat nebezpečí navštívit žena dovolit vstup vesnice
-hrubý nátlak rodina existovat reálný nebezpečí rodina rozbít dcera malý věk užít trpět odejít Československo
-diktovaný celkový strategický plán snaha neutralizovat americký vliv vzrůstat nebezpečí supervel moci moci zavlečený místní konflikt
-muset sovětský vedení připustit odmítat nebezpečí polský nákaza ostatní země sovětský blok
-lze vyloučit končit Zdeněk Mlynář článek nebezpečí konec konec moci zdát Sovět vážný horší následek vojenský zásah
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa17711d06abb9dcc210633c39ffd5fdc0b2dd92f2564ac34993985c72a1812
+size 743

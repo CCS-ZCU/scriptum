@@ -1,1 +1,3 @@
-vydávat nebezpečí těžký hřích
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eca9c899316860eddb76d6029def02b5328892dc4caaa02274ac4b112dc1b9c
+size 38

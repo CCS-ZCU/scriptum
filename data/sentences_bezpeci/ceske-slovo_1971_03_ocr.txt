@@ -1,1 +1,3 @@
-Pavel Zenklová vytvářet Petr Zenkl bezpečí domov
+version https://git-lfs.github.com/spec/v1
+oid sha256:77ad7ebff753c654c9ca2fc87a99e1cfac6187b3c2936284b4a9eac865c71b6f
+size 54

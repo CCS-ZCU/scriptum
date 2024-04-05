@@ -1,1 +1,3 @@
- Pracovní úrazy Prověrka bezpečnosti práce v závodech dopravy a silničního kraje ukázala na mnohé závady.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1094a7d8d0dcfa37e4b826371c4deff12195bf8ac4bdb83559c873fd831fafd1
+size 117

@@ -1,2 +1,3 @@
-hodina rudý právo kytička vonný napsat dik pleticha CIA Kolumbie demokracie nebezpečí
-narkotika představovat společ nský nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f5bb63ac9f6b9b6cff7d85ad4d124e0d6fe3d8cf218d7c07cabd07abeec400
+size 142

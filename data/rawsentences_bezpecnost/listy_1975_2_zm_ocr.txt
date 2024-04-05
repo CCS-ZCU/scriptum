@@ -1,1 +1,3 @@
- Přesto zůstává dopis dokumentem, který dokresluje Smrkov- ského jako politika, který skutečně chápal po- litiku jako <t umění možného » a hledal až do konce svého života pozitivní východiska z tra- gické situace, jejíž katastrofální důsledky pro naše národy, pro socialismus a pro bezpečnost a klidný vývoj v Evropě si plně uvědomoval 2  a nepřestal na ně upozorňovat, jak dosvěd- čuje jeho dopis prvnímu tajemníkovi KS Itá- lie E.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1529ceff74fbebcb5186484d9bb70c08ce507ba2b9941ff5343d4f70f0a710d
+size 475

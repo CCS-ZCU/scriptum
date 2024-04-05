@@ -1,2 +1,3 @@
-dobrý mluvit vzniknout nebezpečí zamotat tisk vyjádření interpretovat
-Tabery text kultura mít podtitul český cesta Masaryk Babiš pořadatel známý český novinář pokusit popsat nebezpečí tuzemský demokracie ocitnout nalití populismus žít současný politický aktér
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b429b090595c695f4c068ab3024cafa95b12ff29966cdec9c22575c2de2f43a
+size 287

@@ -1,1 +1,3 @@
-státní bezpečnost mít konkrétní důkaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:77faa9ae54c795cec832273225b7d54da023a14ffc96b48c5cfc1776619bf923
+size 45

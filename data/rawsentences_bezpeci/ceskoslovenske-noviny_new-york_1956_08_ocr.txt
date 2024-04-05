@@ -1,1 +1,3 @@
- Při tom si náš demokratický novinář neuvědomuje, že se každá taková dohoda stává v rukou komunistické propagandy bojovým nástrojem a že sovětská politika se v tomto údobí zápasu snaží hlavně o to, aby bylo vytvořeno falešné ovzduší mezinárodního bezpečí a falešný pocit, že koexistence je míněna vážně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22e56a24fe632392a6f2a7629fbc3fb03e9e05ced34b205458da569fd7fb04f8
+size 346

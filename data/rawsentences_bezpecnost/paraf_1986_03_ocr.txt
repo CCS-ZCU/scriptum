@@ -1,1 +1,3 @@
- president Reagan, který svůj plán "hvězdných válek", založený na projektu "vševědoucích" protiraketových raket nabízí jako lepší variantu zajištění světového míru: "Jestliže se Ameri ka stane nezránite lnou pevností, nebude už muset zejišíovat svou bezpečnost t in, že bude ohrožovat civilní obyvatelstvo nepřítele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3ec558b6d588ab7615e226f98b4be6aa496b2b72383434728c0bac1a32a2da
+size 351

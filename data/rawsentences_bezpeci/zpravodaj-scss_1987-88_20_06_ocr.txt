@@ -1,1 +1,3 @@
- Budou na ní mluvit lidé, samozřejmě o Chartě, přestože signatáři Charty nejsou, nebyli a to, co o ní vědí, si přečtli v bezpečí exilu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68db9af47823ddafb22cbdfb40da1b00fce8353e8262eb5e4f9989d0d53356f3
+size 152

@@ -1,2 +1,3 @@
- Žádná země si prý nemůže dovolit, aby zrada zůstala nepotrestána: tady se nelze dát unést emocemi a pocity, čímž se Albánie věrna Číně Albánský šéf státu Enver Hodža prohlásil opět, že jeho země staví svou bezpečnost na přátelství s rudou Čínou.
- Potřebu určité právní jistoty bylo možno “nahoře” pozorovat od doby, kdy byla omezena role orgánů štátni bezpečnosti a kdy docházelo k početným rehabilitacím.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1875a341c6e4d67629101966e5f65df137e69b4fdea7ca3138bb14185afb37e8
+size 463

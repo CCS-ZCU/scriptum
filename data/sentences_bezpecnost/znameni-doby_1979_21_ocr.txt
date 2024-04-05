@@ -1,2 +1,3 @@
-podívat Tatínek říkat chodit dívat sklep jst volat bezpečnost
-ZLOM ENÝ viceprezident americký národní uřad bezpečnost letecký doprava EoDriver ukazovat zlomený šroub zavinit letecký katastrofa Chicago zahynout lidé muset zastavený léta stroj typ text obrázek rodina číslo
+version https://git-lfs.github.com/spec/v1
+oid sha256:358583b5477a7e20ff397208bcc07c1f2cceb027a8e388632bb4ffcb4f70b6b7
+size 294

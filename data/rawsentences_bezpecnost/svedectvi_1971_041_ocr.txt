@@ -1,11 +1,3 @@
-) Ale poslužme ještě jiným citátem : "N ěkteří pracovníci bezpečnosti začali kombinovat, že.
- Dnláia změna v prospěch federálnej moci a na úkor národných republik sa dotýká štátnej bezpečnosti.
- Jej správa, právě tak ako správa verejnej bezpečnosti, sa teraz úplné prenáša na federálne ministerstvo vnútra, ktoré súčasne dostává ústřednu právomoc a kontrolu i nad vydáváním cestovných povolení.
- systém sovětské bezpečnosti v Evropě, který byl odsouhlasen západními mocnostmi.
- Dole byla skupina důstojníků bezpečnosti, jeden zlatém oprýmkovaný k nám přistoupil a řekl: ,,Á, soudruzi Mráz a Brodský.
- Za osm týdnů dobýval opět rudu, A dnes už se smířil s bratrem, který ho do všeho dostal, když sloužil u bezpečnosti.
- 1968 řekl bez obulu, že v únorové krizi „Dem okratická strana na Slovensku bylu úderem bezpečnosti vůči svému vedeni značně dezorientovaná".
- Předpokládalo jejich automatický souhlas, nehol vycházelo z prosté úvahy : hlavním důvodem demise se staly poměry v bezpečnosti, a proto se k demisi připoj! všichni, kdo hlasovali 13.
- V lastní ano, jde o bezpečnost Beneše a my jsm e povinni-ano, ale bez nábojů.
- N eztratit hlavu, klid,, jen klid, nezdiskreditovat Bezpečnost za kterou člověk ručí, protože příslušnici nejsou četnlci ani policajti u nesměji střílet do lidí.
- Když sestál později — po roce 1956— jedním z úředníku Svazu spisovatelů, navštívili ho dva muži ze Státní bezpečnosti, připomenuli mu jeho trockistickou minulost a nutili ho, aby se stal jejich konfidentem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0e7640123c8f6828592b2472f49ff064939602c9c4e6cd44579848e894a3fd
+size 1641

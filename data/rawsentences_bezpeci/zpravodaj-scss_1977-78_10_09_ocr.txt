@@ -1,1 +1,3 @@
- Opustíme-li bezpečí vlaku a vydáme se na výlet bez mapy a kompasu, můžeme se i beznadějně ztratit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6c445f2879353d2a71ee286feb7b14519065fc9549c434ed6b646f137691de
+size 109

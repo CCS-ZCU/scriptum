@@ -1,8 +1,3 @@
-důvěřovat zkouška nebezpečí vzejít krásný trvanlivý spravedlivý mír
-nebezpečí prodlení naděje mohoucný spojený národ moci zasáhnout
-řasný Moskva zastřít zločin Maďarsko zvýšit pošramocený prestiž vlastní komunistický prostředí usilovat velký diplomatický úspěch věc egyptský cena nebezpečí rozpoutat obecný srážka
-Nechf myslit strašný nebezpečí válka malý jiskry moci rozrůst strašný požár
-pronést rozhlasový poselství celý svět vládce národ vybízet zažehnat nebezpečí válka pracovat pravý trvalý spravedlivý mír
-dožít muset poslouchat číst farizejský řeč vlastenecký správce královéhradecký biskupství poslední léta vysoký stáří naprostý odloučenost věrný kněz moci řídit jistý projev vydaný jméno opatřený podpis známý list doba první volba osvobozený Československo biskup upozornit nebezpečí komunismus varovat
-kritický situace hlad nebezpečí epidemie úplný zastavení doprava práce týden donutit Kádár Sovět činit ústupek povstalec hledat styk Nagy utéci jugoslávský velvyslanectví
-zmizet nebezpečí válka odporující zájem záležitost národ naleznout šťastný řešení
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee5c28e776d96a3fdd170290286b37ff9c7298c219737cf6dbad2c8522b74c3
+size 1220

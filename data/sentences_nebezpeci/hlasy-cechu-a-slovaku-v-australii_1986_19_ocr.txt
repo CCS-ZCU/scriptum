@@ -1,4 +1,3 @@
-pis nebezpečí demokracie článek prohlášení tragedie vláda politický strana hlas číslo
-příznačný lidé typ John Halfpenný představovat skutečný nebezpečí Austrálie celý demokratický svět kritika ujít
-žlutý nebezpečí
-Vrtielka Rus spasit chránit Evropa žlutý nebezpečí jít říkat Angličan kůže
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f3f456b3688884b2d49ad190f59cc867844d619fa08d66f91c2a9c68c7c2fa
+size 331

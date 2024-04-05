@@ -1,2 +1,3 @@
- Například kvůli své bezpečnosti, ochraně rodiny či proto, že na jejich anonymitě má republika mimořádný zájem.
- Gula potvrdil, že ministerstvo má už popravené paragrafové znenie zákona, ktorý by umožnil občanom nahliadnuť do zväzkov Štátnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b108f1da32f7081246a16e46774eb50efe9167db299cc0dbaf3578ddd2b64c3
+size 283

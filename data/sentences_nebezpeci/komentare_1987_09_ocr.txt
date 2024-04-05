@@ -1,2 +1,3 @@
-jednotlivý případ obhajovat moskevský dojem vyplynout sávěrs změna uskutečněný nástup Gorbečův zajít dalek® návrat výchozí stav možný
-psát zdejší noviny násilný ukončení demokratizační proces země hluboký spoluúčast soucítění lidé spoluobčan moci zůstat cizina mít strach vrátit okupovaný Československa®
+version https://git-lfs.github.com/spec/v1
+oid sha256:150ba4125538ca39985ac66d4d0c3c0323c2f50617b70f25f91e1dd4d81bdd5d
+size 349

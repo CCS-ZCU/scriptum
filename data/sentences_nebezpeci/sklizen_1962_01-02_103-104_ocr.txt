@@ -1,1 +1,3 @@
-krátký doba přesunout sever výměna pěchotný dít střelecký pozdrav čilejší noční procházka zátek kopa skrývat velký nebezpečí smrt zranění
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6bcbf2de06c7521758d3ed7ff4387a77b04ca1a5642cc40c3828df1a5cbdc47
+size 156

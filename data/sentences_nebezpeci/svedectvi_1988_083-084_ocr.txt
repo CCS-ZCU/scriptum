@@ -1,16 +1,3 @@
-řada země snížit podpora komunistický strana zúžit sociální základna jednotlivý strana docházet rozkol slábnout internacionální vztah nebezpečí pokles vliv mezinárodní proces
-naděje
-král počátek sedmdesátý léta hlavní nebezpečí muset zlikvidovaný
-způsob Jan Fojtík traktovat starý terna pravice podcenit aktuální nebezpečí vážný politický lehkomyslnost
-bestie váhat nastavit křivý zrcadlo hrozit nebezpečí pompéznosl propadnout
-situace skrývat postup čas zřetelný nebezpečí strana profesionál mít možnost vzdělání metodický odborný práce smět překročit daný ideologický rámec druhý strana amatér odborný práce tvorba poslání scinda moci věnovat volný čas
-moravský Ostrava rozhlas radit obyvatelstvo dělat evakuovat město případ nebezpečí
-Ivan Herben Brno upozorňovat nebezpečí představovat národní obec fašistický
-Čcchofrancouz jméno Spáč gnražislo Cognac dát úschova archív národní výbor uložit nedostatek čas zabránit vzít chvíle nebezpečí zničit vyčkat rozkaz scinda dovědět kohose ulice Němec kilometr Cognac obsah několik beden spálit
-povolit evakuace klasifikovat československý vlastenec krajný nebezpečí scinda dostat ruka
-dovídat kapitán Monamicq muset udělat rozhodnutí čekat ostatní kotvící loď doprovod válečný loď vystavit scinda nebezpečí německý nálet vyplout riskovat torpedování
-Ripka kapitán československý civilista nebezpečí život scinda loď dostat
-spojenectví scinda sovětský svaz vytvořit květen příznivý podmínka československý lid moci zvolit vlastní politický cesta nebezpečí ozbrojený imperialistický intervence občanský válka
-nebezpečí spatřovat režim podávat extrakt český duchovní vývoj
-plynout důsledek socialistický stát představovat ideologický boj vážný nebezpečí lze podceňovat
-pravděpodobnost družice nebezpečí kolize malý
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c7317a7a8765edd135384e45af636f25e39dd087735eda2c86e5493ebe5568
+size 1952

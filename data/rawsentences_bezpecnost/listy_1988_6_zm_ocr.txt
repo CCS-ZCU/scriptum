@@ -1,9 +1,3 @@
- Bezpečnost by měla podléhat kontrole zastupitelských sborů i veřejnosti.
- Státní bezpečnost, tento mohutný, obávaný, všudypřítomný a všemocný nástroj mocenské manipulace občanů, jehož faktické působení mnohonásobně přesahuje i rámec všech jeho současných pravomocí, by měla být proměněna v nezbytnou protišpionážní a protiteroristickou službu a v důsledku toho by měl být radikálně snížen počet jejích příslušníků.
- Státní bezpečnost však tento první pokus zmařila.
- Václavovi — rozestavění policistů po ulicích se ne- změnilo, kolotoč aut bezpečnosti snad ani nepřestal.
- Předsedou příprav- ného výboru se stal Václav Havel a příprava sym- pózia byla oznámena předsedovi vlády, vládnímu vý- boru pro evropskou bezpečnost a spolupráci a ústřed- nímu výboru Národní fronty.
- Říkají: nejdřív chceme, aby se vyřešila otázka velké úrazovostí, bezpečnosti práce.
- Jakými lidmi byl Brežněv obklopen, odhalil čás- tečně proces proti manželovi jeho dcery Galiny, Členovi ÚV KSSS a bývalému vysokému funkcio- náři Bezpečnosti, Juriji Čurbanovovi, který byl v Moskvě zahájen v záh 1988.
- Ti lidé jsou v hrozném postavení! Hájí než svou existenci! Kdyby hájili něco jiného, třeba hospodářství, přírodu, zdraví lidu, kulturu a vzdělanost či dokonce bezpečnost státu, vzali by si k tomu přece jiné lidil — A kdo se takto proti absolutní přesile musí bát, toho trochu pochopme.
- V ostat- ních krajích nedošlo k narušeni klidu a veřejného pořádku, které by si vyžádalo nasazeni bezpečnost- ních sil a prostředků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d42208c3bbea9b36a7f9e1e8947518c0cc506c052a66383c6cd3e708ae56b96
+size 1673

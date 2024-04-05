@@ -1,1 +1,3 @@
-Z OBSAHU K A R D I N Á L U B E R A N O V I K O S M D E S Á T I N Á M <#> KARD. B E R A N : V Á N O Č N Í DOBA RA1TNER : Z B O Ž N O S T D N E S A Z Í T R A # S T Ř E D A : Z Á K L A D N Í C T N O S T I V D N E Š N Í M S V Ě T Ě S T A T E Č N O S T <$> H . : Č E S K O S L O V E N S K O F E D E R A - T I V N Í M S T Á T E M <#> E L I S E J : K R O N I K A R U S K É P R A V O S L A V N É C Í R K V E V R O C E 1 9 6 7 <$> R E N Č : T I C H Á N O C #> S O U Č K O V Á : Ž A L M P R O NOVOU L T T U R G T I <#> O S L A V Y 5 0 . V Ý R O Č Í Č S R <#> P R A Ž S K É G L O S Y <#> P S Á N O V M E X I K U <#> Z D O P T S Ů # N A Š E P O V Í D K A : G O E P E E R T O V Á , V I N E N J E M I K U L Á Š ROČNÍK XX . ŘÍM = PROSINEC 1968 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab277e7861262054876f063904a9368bb4c7af901678f2cd72b71fa11f145884
+size 783

@@ -1,1 +1,3 @@
-svět existovat velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ded061c5ded8f5c913db00b97ded2265045430716d0c1116885635f7587076
+size 35

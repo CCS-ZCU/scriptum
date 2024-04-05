@@ -1,2 +1,3 @@
-jednota hrozit ůzný nebezpečí
-říci mus volet jednota církev speciální ocitat nebezpečí zákon lacen činitel církst tv#ří
+version https://git-lfs.github.com/spec/v1
+oid sha256:b02f480e1aec7f7499aa2626c97664b0d3afdc2cc9858132e24fef5d18740b88
+size 135

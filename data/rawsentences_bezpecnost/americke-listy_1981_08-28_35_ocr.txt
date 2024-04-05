@@ -1,1 +1,3 @@
- la technického stavu strojů se provádí s nesmírnou pečlivostí a přesností: nezapře se, že Swissair se zrodil v zemi hodinek! Bezpečnost letecké dopravy je zákonem číslo jedna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2477023d4db47b10e12446e962df18cc17704d320a08674e96cc6473d341ae46
+size 193

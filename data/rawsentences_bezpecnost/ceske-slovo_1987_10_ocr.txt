@@ -1,18 +1,3 @@
- Příslušníci Veřejné bezpečnosti a jejich pomocníci obcházeli členy občanských výborů a zakladatele společnosti pomlouvali, vydávali je za- kri-minálníky, varovali před nimi a zároveň žádali, aby se informace o zakladatelích rozšiřovaly ve veřejnosti.
- Ta však přivolala posilu a do hlediště vnikli příslušníci Veřejné bezpečnosti i s policejními psy a představení násilně přerušili.
- Ovšem policie, vychovávaná k přezíravosti lidí a k útočné neurvalosti toho není chodu příslušníci Státní bezpečnosti fotografovali a filmovali videokamerou.
- Později navštívila Československo delegace americké komise pro bezpečnost a spolupráci v Evropě (jednala o lidských právech).
- PERZEKUCE Příslušníci Státní bezpečnosti 6.
- Hájkovi byli dopraveni do budovy Veřejné bezpečnosti na Vinohradech a po výslechu o půl jedenácté večer propuštěni.
- Většinu míst v malé soudní síni obsadili příslušníci Veřejné bezpečnosti.
- Veřejná bezpečnost vyzvedla v bytech a podrobila dvouhodinového výslechu na stanici Vladimíra Liberdu, Karla Biňovce a signatáře Charty 77 Jaromíra Glace z Ostravy.
- Nejhoršímu zachgázení byl podroben Jan Kiš, signatář Charty 77 z Gottwaldova, kterého příslušníci Veřejné bezpečnosti zbili obušky přímo v soudní budově, se zkroucenýma rukama vyvedli na ulici, dovezli na autobusové nádraží a donutili odcestovat z Ostravy.
- září večer, kapitán Dvořák a nadporučík Kadlec, příslušníci Státní bezpečnosti, ho zadrželi, předvedli do služebny a podrobili hodinovému výslechu, takže mu ujel vlak.
- Příslušníci Veřejné bezpečnosti v neděli 20.
- Karel Veselý, kapitán Státní bezpečnosti, Pukalíka krátce vyslechl a předvolal k dalšímu výslechu na 25.
- října konstatovali zástupci NejvyŠšího soudu, Veřejné bezpečnosti a střediska drogových záležitostí, že počet drogomanů je asi desetkrát vyšší, než se podařilo zachytit; postižena je především mladá generace.
- Dva podnapilí důstojníci Sboru národní bezpečnosti vyvolali v restauraci spor s několika hosty a s výčepním.
- Na nedostatek informací poukázala Charta 77 a zároveň upozornila na nadřazenost, s níž se mnohdy občané setkávají při styku s orgány Bezpečnosti, které dávají najevo pocit vŠemocnosti.
- Konstatovaly jen, že na lavici obžalovaných byli „bývalí příslušníci Sboru národní bezpečnosti Rudolf Herzlík a Jiří Gráf z Prahy.
- Ve zprávě o rozsudku se ještě uvádělo, že vražda vyvolala, „rozhodné odsouzení neospra- veditelného počínání obou pachatelů celým Sborem národní bezpečnosti, jakož i oprávněné pohoršení mnohých občanů.
- Orgány Bezpečnosti v Československu si počínají, jako by byly stát ve státě, bez nejmenšího smyslu pro morální odpovědnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09088154b0afa29b61ae4aab670bcc6180fecc75e5340433c5d1122230bbbc9
+size 2915

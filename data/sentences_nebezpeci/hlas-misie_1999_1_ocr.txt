@@ -1,1 +1,3 @@
-selhávající opevnení kultura nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ffda51def71153ee90f905b75a233d0f9bc42ff59318076ebe432d5bbba47c5
+size 45

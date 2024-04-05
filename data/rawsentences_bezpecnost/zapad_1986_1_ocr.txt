@@ -1,1 +1,3 @@
- Nechce se vyrovnat s politickými realitami sou- časného světa, ignoruje vůli národů, ohrožuje jejich bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:116c641092c69ca143589795be32dc685a6836fd5594991e5a169cb1e69ef85e
+size 123

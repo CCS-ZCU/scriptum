@@ -1,1 +1,3 @@
- Oba důstojníci se soudružským nadšením spolupracovali se sovětskou státní bezpečnosti NKVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2ef7c9816f8dfb98a6b7063bc4764c6ee8fe24a33901037e61c7c9c8416437
+size 103

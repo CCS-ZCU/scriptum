@@ -1,5 +1,3 @@
- Jakmile se stala zá- padní Evropa sama hospodářskou velmocí, jejíž národní produkt předčil poprvé v roce 1979 hrubý národní produkt USA, pak už není důvod ani k tomu, aby Spojené státy podporovaly dříve slabé ekonomie poválečné Evropy, ale není důvod ani k tomu, aby nesly neúměrný podíl břemene zbrojeni 9) Přichází doba, kdy Evropané si bu- dou muset sami rozhodnout v čem tkví jejich bezpečnost a nebudou už moci přenechávat vojenské otázky Spojeným státům a atomovému dešt- níku strýčka Sama.
- Nepřál bych si ničeho víc, než aby se tento plán uskutečnil během osmdesátých let, aby tedy NATO i Varšavský pakt byly překo- nány novým systémem bezpečnosti v Evropě, ale zároveň se přiznám, že si nedovedu představit nebezpečnější situaci nežli Evropu v roli mostu mezi Západem a Východem.
- za státní bezpečnost) Odpověď kanadskému ministru zahraničí Allanu MacĚachenovi Vážený pane ministře, děkují Vám za Váš dopis z 22.
- 58/1977 je výrazem lidského zájmu společ- nosti o své občany, kteří pobývají v zahraničí bez kontaktu s jejich vlasti a bez bližšího styku s jejich příbuzný- mi, stejně jako o plnění principů za- kotvených v Závěrečné části Konfe- rence o bezpečnosti a spolupráci v Evropě, konané v Helsinkách v roce 1975.
- Opět posílám kopii to- hoto dopisu Vašim kolegům, panu ministerskému předsedovi, ministru pro multikulturalismus, státnímu ta- jemníkovi, ministru imigrace, mini- stru spravedlnosti a ministru odpo- vědnému za státní bezpečnost (Soli- citor General).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b285e1b54c7d6e2038043265c12b7111ba57b3e9090b3f49cde778472157433
+size 1634

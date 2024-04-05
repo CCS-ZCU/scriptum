@@ -1,1 +1,3 @@
- Koncom júna 1950 obsadili Členovia štátnej bezpečnosti biskupskú rezidenciu a biskup Vojtaššák sa stal v nej skutočným väzňom.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad152bca7e7450c0aede59e1f61dc8213d05ad1214f4815f747dd2c6b5e94399
+size 141

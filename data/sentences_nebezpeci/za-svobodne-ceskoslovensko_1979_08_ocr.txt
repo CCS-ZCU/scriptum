@@ -1,1 +1,3 @@
-lidé okolí přesvědčit smrtelný nebezpečí ohrožovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae7ed05c9cc4cfb112730e0bd8a6b0d455993002930c498cdeb05a6c7bccb273
+size 60

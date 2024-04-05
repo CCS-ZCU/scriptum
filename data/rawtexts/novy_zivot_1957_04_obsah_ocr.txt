@@ -1,1 +1,3 @@
-O B S A H D V O R N Í K : Č E Š T Í B E N E D I K T I N I A P O K Ř E S Ť A N Ě N Í R U S K A • D R Á P E L A : M A D E I N U . S . A . • Š V É D A : O B Ř A D Y S V A T É H O T Ý D N E • B Ř Í M R Š T Í K O V É V Z K Ř Í Š E N Í • V Í T O V S K Ý : P O T Ř E B U J E M E F A R Á Ř E A B I S K U P A ? • Š A L D A : C H V Á L A S T O L U • D E M L : L O U Č E N Í SV. V O J T Ě C H A • P E T R : Z K O U Š K A S T Á T N Í K Ů • K.-S. : S T A L I N S K Á » R E N E S A N C E « V Č S R • E K : J O S E F P E K A Ř • N O V É P Ř E D P I S Y O P O S T U P Ř E D SV. P Ř I J Í M Á N Í M • Ž I V O T Z V Í R Y • R O Z H L E D Y • P O Z N Á M K Y • S T A L O S E DOMA, V E X I L U A J I N D E V E S V Ě T Ě • D O P I S Y • D O T A Z Y • O D P O V Ě D I ROČNÍK rx. • Řím • nuniyN 1957 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:680ead041a7fe3b117e67aee16a5a5003418a4677cc70fab6b74313d78b1fdbe
+size 884

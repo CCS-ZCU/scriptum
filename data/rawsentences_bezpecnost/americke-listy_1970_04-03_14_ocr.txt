@@ -1,3 +1,3 @@
- bezpečnosti Vých.
- armády v Evropě je rozhodnutí anglické vlády, že vzhledem k nebezpečné politice sovětů v Evropě, vrátí, aby byla zaručena její bezpečnost, do Záp.
- činitelů, obrany Evropy se týkajících, a také ovšem se budeme snažit upozornit i americké vládni činitele na nebezpečí, které by právě v této době mohlo věci příští bezpečnosti Evropy tak uškodit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:737b1f23118fa1814b9ba5fe356b1a54c941a06bec0a59112c9b3548fb274947
+size 409

@@ -1,1 +1,3 @@
-prudký déšť odnést plán replika základní kámen bezpečí foyer historický budova
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3fce00f0a5c423925bbf47bbb865c13a561d0f578db861726b0f843b7c1f0aa
+size 91

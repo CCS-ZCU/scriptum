@@ -1,2 +1,3 @@
-objevit nebezpečí mladý mít začít zajímat věc pálit rád jít hasit přispěchat organizace orazítkovat spontánnost opatřit evidenční číslo počít hlídat
-nebezpečí radioaktivní záření poukázat mezinárodní organizace ochrana životní prostředí Greenpeace žádat vylovení vrak plavidlo
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e5b12f5e445aaf9ca82f033f9928b67f1ce6429660d6d4fd81bdc349756e09
+size 316

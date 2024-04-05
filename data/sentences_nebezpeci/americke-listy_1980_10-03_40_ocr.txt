@@ -1,2 +1,3 @@
-čas Helmut Schmidt upozornit nebezpečí plynoucí západní Evropa sovětský raketa střední dolet
-moře velký nebezpečí středozemní moře další moře omývající břeh vyspělý stát ohrožený
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb07df7459d756552a41c6818a8013e65502d9ed10cae8cefbfdffed3cc4476
+size 208

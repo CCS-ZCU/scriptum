@@ -1,1 +1,3 @@
- S t ř e l e c k á a f é r a Při střelecké aféře, která následovala, nebyl nikdo zastřelen, neboť australské právo (nejlepší právo na světě) bdí nad bezpečím občanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e760790f372ac6f15d5fb51d742500849155a2ba39aab90b3b379be8159839dc
+size 190

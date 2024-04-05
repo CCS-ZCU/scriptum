@@ -1,4 +1,3 @@
- Vážíme si, že soudruh Brežněv patří k signatářům jednoho z nejvýznamnějších dokumentů naší novodobé historie — Smlouvy o přátelství, spolupráci a vzájemné pomoci mezi ČSSR a Sovětským svazem, zajišťující bezpečnost a šťastnou budoucnost naší socialistické vlasti.
- Stráž bezpečnosti provedla v Brně (podobně jako v jiných městech) razii, při níž zatkla mj.
- Veřejná bezpečnost po nich pátrá.
- — V Lidieích se konala slavnostní přísaha nového pohotovostního pluku Veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b13dbe89fbba145a9bcb90ee03b4fff6abebe2769f81678d3c85bb1677cc9458
+size 551

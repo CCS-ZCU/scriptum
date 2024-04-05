@@ -1,1 +1,3 @@
-nést čtvrtý horší nebezpečí svévolný pravda ztratit smysl schopný dobrý vytvořit stát obtížný břemeno moci vyrůst skutečný přesvědčení hodnota stát konec konec součet hodnota jedinec tvořit
+version https://git-lfs.github.com/spec/v1
+oid sha256:d394e13f0317677a0a28a9013b9b27aa3e2866bedba5b111be4bca00070365e8
+size 217

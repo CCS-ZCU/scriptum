@@ -1,1 +1,3 @@
-strana strana občan nízký sociální třída artikulovaný krvavý srážka touha podílet politický život
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ef5045b7460df69217d581e4450352bf5c4360e977c22b714c518b90921621f
+size 112

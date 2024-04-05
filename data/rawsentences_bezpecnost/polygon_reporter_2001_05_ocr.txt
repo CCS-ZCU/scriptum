@@ -1,6 +1,3 @@
- Temelín do dalšího kola Česká vláda nemá podle Zemana důvod pochybovat o jaderné ani ekologické bezpečnosti atomové elektrárny Temelín, proto nebude reagovat na žádost německého kabinetu zařízení nespustit.
- V dokumentu německý kabinet uznává právo ČR rozhodovat o využívání jaderné energie, ale zároveň vyzval pro bezpečnost svých občanů k zastavení Temelína.
- Ján Murček měl totiž přímo v popisu své práce povinnost spolupracovat s StB, protože VB (Veřejná bezpečnost) tvořila s druhou složkou StB (Státní bezpečností) společnou organizaci SNB (Sbor národní bezpečnosti).
- Když se Chruščov dověděl, že biskup Romža je jenom se zlomeninami v nemocnici, začal propadat panice a ihned žádal na Stalinovi pomoc, píše ve svých pamětech generál Sudoplatov, šéf oddělení Ministerstva státní bezpečnosti.
- Na Zakarpatsko se dostavují ukrajinský ministr Státní bezpečnosti Savčenko a šéf toxikologické laboratoře NKVD Grigorij Marjanovskij s příkazem likvidovat Romžu.
- Pojednává o utrpení faráře Josefa Toufara v rukách všeho schopných pochopů komunistické státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5d47706e3f79d9b0b3852f4c12f1fc434443b034131b2994882a0ee5bfceda
+size 1182

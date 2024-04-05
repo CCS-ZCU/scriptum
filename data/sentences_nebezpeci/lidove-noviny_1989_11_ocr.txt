@@ -1,1 +1,3 @@
-vidět velký nebezpečí zamlžo váně situace snaha vidět vítězství dít zrovo svinstvo pochyba néma úsilí sjednocení nesjednot tclný vytvářející pouhý zdání normálnost konstituovaný zdání moci umrtvit politický kulturní sféra hybri svoboda nesvoboda polo pravda horši lež
+version https://git-lfs.github.com/spec/v1
+oid sha256:595add31ce31ba07ce0776313c545e9a158b98da0ab50fde913ca72b915929ff
+size 288

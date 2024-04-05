@@ -1,8 +1,3 @@
- Ze toto „mírové hnutí“ ohrožuje naši bezpečnost a také světový mír stejně, jako někdejší pacifistické hnutí v západních demokraciích v letech 1937-1939, mělo by už být každému soudnému člověku jasné.
- Mé výpovědi: Podle mého názoru by oblast kultury neměla být předmětem zájmu státní bezpečnosti.
- ZA NÁBOŽENSKOU SVOBODU Mluvčí Charty 77 se obrátili na vládu ČSSR s požadavkem, aby na schůzi účastnických států Konference o bezpečnosti a spolupráci v Madridu předložila československá delegace následujících jedenáct bodů jako příspěvek občanů ČSSR, určený k začlenění do závěrečného dokumentu madridské schůzky.
- Zodpovědní pracovníci v resortu ministerstva hutnictví a těžkého strojírenství pociťovali už dlouhou dobu nedostatek exempláru platných předpisů, podle nichž se mimo jiné dělají zkoušky z bezpečnosti práce.
- V roce 1979 bylo přistoupeno k činu: FMHTS spolu s Ústředním výborem odborového svazu pracovníků kovoprůmyslu vydalo trojdílný soubor nejzávažnějších platných předpisů na úseku bezpečnosti práce a ochrany zdraví.
- Český úřad bezpečnosti práce tuto akci vřele uvítal, neboť konečně se platné předpisy dostaly všude tam, kde byly dlouhou dobu postrádány.
- Uvádíme několik citátů ze Souboru platných předpisu na úseku bezpečnosti a ochrany zdraví při práci v resortu ministerstva hutnictví a těžkého strojírenství ČSSR, vydaném v r.
- Státní odborný dozor nad bezpečností práce už několik let připravuje nový předpis a dá se čekat, že nahradí dosud platné vládní nařízení Č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b60d03b2b71b8ff4e8e741fdce950e913bf44a949a0ff90bc94e74311c8ef5
+size 1685

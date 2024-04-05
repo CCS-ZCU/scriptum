@@ -1,4 +1,3 @@
- Koncem dubna tohoto roku přišla ke mně skupina příslušníků státní bezpečnosti, aby se souhlasem generálního prokurátora provedla prohlídku mého bytu, neboť prý je podezření, že ukrývám písemnosti prokazující trestní čin podvracení republiky.
- Týká se to mimo jiné i porozumění dosavadních výsledků Závěrečného aktu z dohody uzavřené v Helsinkách o Evropské bezpečnosti a spolupráci a dalšího postupu v tomto směru.
- Po únorovém puči vstoupil do služeb národní bezpečnosti a byl přidělen do Pohraniční stráže.
- Asi před 25 lety byl jsem jako mladý nezkušený strážce bezpečnosti (oddělení Žižkov) s četnými kolegy určen o dušičkách na hřbitov olšanský, abychom hlídali hroby našich vynikajících mužů: Havlíčka, Tyrše, Fůgnera, Baráka a j.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a3ca926f47c449f81caea51b9a15a93a5c86569bfecc928cc4d1db35c54e6ec
+size 832

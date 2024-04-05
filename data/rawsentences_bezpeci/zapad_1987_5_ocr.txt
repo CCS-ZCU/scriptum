@@ -1,2 +1,3 @@
- Před několi- 2  ka málo lety se ještě nesmělo, už se smí, ale jsou s tím dva problémy — jednak peníze (inu, to je problém všude), jednak parkování — na ulicích je sice dost místa, ale ne dost bezpečí.
- Také na boj s teroristy má pan Ro- han, ze svého bezpečí v Kanadě, vel- mi nemilosrdný pohled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87edaf4ad53c19b840db23cb4165fa97e21ee7ac22b257f130a6f899de5283d5
+size 322

@@ -1,1 +1,3 @@
-Maršál Montgomera návštěva Ottawa prohlásit rok vojenský služba evropský obyvatel zrušený pominout nebezpečí svo bod evropský národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac4edef8d3ffbbb1dfafdbbebfbf72eab168cd24e65bf9f998de79ba0de85ca8
+size 147

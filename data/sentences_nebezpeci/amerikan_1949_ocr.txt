@@ -1,4 +1,3 @@
-poznat nebezpečí ocitnout poddat bránit umínit
-láska mít nebezpečí
-mladý racek hledat láska nebezpečí hrozit
-napomínaný velitel vydávat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:98ff995c72aecc8ae5f227fa995a86e0cf9c1d703556d3c9c6c65f0161217c2f
+size 163

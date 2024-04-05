@@ -1,1 +1,3 @@
-obec let Píseček odhalovat památník místo bývalý romský koncentrační tábor doba protektorát prezident republika připomenout nebezpečí rasismus Ždar Sázava alkohol posilnit dvacetiletý skin rozhodnout postrašit cikán
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d4827f7ab4f6a36542c6a543fa5c746ca6d82abff6fc2aa62457eecf95d4a82
+size 236

@@ -1,1 +1,3 @@
-tichý zahnat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:bef810bdcb6b6056be3a3bb1cbc5110f986e2b0deda9e6b38141259dece428d9
+size 24

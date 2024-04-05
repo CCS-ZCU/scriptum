@@ -1,2 +1,3 @@
- (Moje tehdy francouzská žena byla v bezpečí u rodiny v Provence).
- Šlo o potravu, o střechu nad hlavou, o bezpečí proti dravé zvěři a divochům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b974f7a61f17c5e446b337a5e084a243c18fa23eedbc7b1cdb6cd8761a89c0
+size 157

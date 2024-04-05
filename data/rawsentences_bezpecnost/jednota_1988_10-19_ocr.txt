@@ -1,3 +1,3 @@
- Odviezli ho na Februárku, kde ho vypočúval kapitán Homáček zo Štátnej bezpečnosti.
- Zrazu ich obkolesili tri civilné autá, vy- A stúpili z nich príslušníci bezpečnosti, legitimovali ich a vyzvali biskupa Korca, aby šiel s nimi.
- Inú štruktúru mali alternatívne programy pred bazilikou, i keď jeh sčasti rušilo silné ozvučenie priestorov okolo nej Všadeprítomní príslušníci bezpečnosti sa sčasti maskovali aj tým, že sa zúčastňovali na modlitbách, speve a držali sa s ostatnými za ruky pri rytmických piesňach.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd1fab632bd0cd56825eb2728827053a01d72b3bb2054baa0a6165f362c96b46
+size 555

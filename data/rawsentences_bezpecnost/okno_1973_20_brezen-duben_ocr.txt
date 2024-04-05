@@ -1,1 +1,3 @@
- Bezpečnost teto relativně lidnatě značně bohaté, ale malé země, závisela do velké míry na rovnováze sil v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db61dcb8bd52db297376cf51227875c1e7b71d8af7aaf8a2519b3ff1b34fac5
+size 128

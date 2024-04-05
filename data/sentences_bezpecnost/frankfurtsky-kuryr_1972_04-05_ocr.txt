@@ -1,2 +1,3 @@
-převzít vedení strana vlastní bezpečnost založit GPU šéf udělat zloděj Jagoda
-spoléhat svítit
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1ca5ebbfff0e7855412ee4966beaddd1b075e1e1391eae7d678a05264ed954f
+size 106

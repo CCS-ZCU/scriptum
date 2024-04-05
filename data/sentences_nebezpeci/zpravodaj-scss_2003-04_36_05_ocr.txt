@@ -1,2 +1,3 @@
-správný
-ostatní občan nebezpečí čelit podporovat podnikat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc2b157623cd2157ad7934c9304594ba194d70c18c76f38244926710e098661
+size 65

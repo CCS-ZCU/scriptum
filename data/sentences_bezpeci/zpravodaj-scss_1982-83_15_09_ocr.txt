@@ -1,1 +1,3 @@
-Přesel můstek první volat bezpečí ustát houpání potrestat
+version https://git-lfs.github.com/spec/v1
+oid sha256:699fe17a87359bdd1537758791abd9bbd719496196edf10f08f36a5a10b0dd6e
+size 66

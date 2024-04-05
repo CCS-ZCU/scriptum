@@ -1,1 +1,3 @@
- Arafatův rival v boji o moc uvnitř PLO, bývalý šéf teroristické organisace Černé září a Arafa- tem degradovaný šéf oddělení bezpečnosti v PLO Abú Ijjád, má oporu syr- Změny v rakouské vládě Rozšířené předsednictvo vládní Socialistické strany Rakouska rozhodlo provést změny ve vládě v důsledku řady afér, s nimiž je spojován dosavadní vicekanc- léř a ministr financí Hannes Androsch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e842ed1418d068d183d8a341610952ed487c9c748c061676c53a3230e804135
+size 431

@@ -1,1 +1,3 @@
- Zraněné je nutno přemístit do bezpečí mimo dálnici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67ad31c8d8717e2eeba0caacb2f0de9690c108b51f8c1411a2444b1083d2c3ad
+size 60

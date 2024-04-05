@@ -1,5 +1,3 @@
-zachránit životní prostředí krajina zdraví hrozit vážný nebezpečí
-lidé Walesa cítit nastávat velký generační problém mladý rezignovat odcházet Polsko zůstávat Polsko radikalizovat způsob nastávat nebezpečí vybuchnout
-SSSR mít přímý zkušenost kontrarevolucijako Maďar Polák varovat vše vážnost velký nebezpečí
-plyn stoupat geologický zlom útroba zemský bublat pořvávat člověk stát hlídaný svíčka rozestavený parapeta viditelný nebezpečí
-Československo kontrarevoluční nebezpečí stát akutní reakční síla podpord váný západ přá telský postoj vůdčí představitel socialistický stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:468ce0fd7f26072b2f824a0cef1468261f5f240ad4dc9880f94812b874244d75
+size 651

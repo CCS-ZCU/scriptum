@@ -1,1 +1,3 @@
-věřit tat® katecheze pomoci nebezpečí zažehnat
+version https://git-lfs.github.com/spec/v1
+oid sha256:f508d70728ab43bf4896f80d4e5279bac22790e6641a3ee9b1b933b01fac1a0c
+size 53

@@ -1,1 +1,3 @@
-září připomenout státní bezpečnost snaha oživit případ den pokoušet předvést výslech člen výbor účel střežit byt pracoviště
+version https://git-lfs.github.com/spec/v1
+oid sha256:86f737e03aa6424e52bce7738a225d46cc77ce0feb10b27df5b7ddad852d000b
+size 146

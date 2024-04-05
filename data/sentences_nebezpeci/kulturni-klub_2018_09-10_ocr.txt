@@ -1,1 +1,3 @@
-Česko hrozit nebezpečí totalitarismus elitář skůho fašismus prostřednictví ziskový organizace podporovaný zahraničí uvést Okamura
+version https://git-lfs.github.com/spec/v1
+oid sha256:a86ddb4265e15eef686c31e41afb4fec16f4ee8beb1998a53050e9f47d22dc1c
+size 141

@@ -1,2 +1,3 @@
-Masaryk Salda muset mít lůno habsburský monarchie devadesátý léta pocit malý politický jistota otřesitelný bezpečí
-pocit politický bezpečí jistota zabezpečení vydávat názorný svědectví manifest český moderna
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfeb30c045497b2bd02969430b60e59a2431a58db487e9a21904629a3d5c15c5
+size 232

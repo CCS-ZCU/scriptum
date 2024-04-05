@@ -1,2 +1,3 @@
-útok podařit zbytek americký armáda Vietnam vydaný velký nebezpečí
-nebezpečí veliký strana svět styk stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:9887c29dfdcd1b42b658b4f805f1037c1c752f80aa1d45ec7532d4edabcc4b71
+size 121

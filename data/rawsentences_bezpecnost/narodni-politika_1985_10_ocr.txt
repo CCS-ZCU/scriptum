@@ -1,8 +1,3 @@
- Konečně, neznáme ty záměny pojmů také od nás? Zalistujte v časopisech a novinách z roku 1968, pročtěte si znovu články o perzekuci v padesátých létech, a všimněte si, kolikrát se tam místo věcného označení „sovětští poradci“ — rozumí se v bezpečnosti — užívá emotivního výrazu „berijovské gorily*’.
- Když teď nemáme velké české socialistické a komunistické spisovatele, kteří z rychlokurzů nevyšli, strana se je pokouší jaksi nahradit a mají je možná suplovat autoři Bezpečnosti a Pohraniční stráže, kteří měli nedávno dokonce svou literární soutěž.
-0 Čtenář se má zajisté na co těšit, neboť Rudé právo uzavřelo svou zprávu takto: „Soutěži se tak podařilo splnit úkol mnohem podstatnější — aktivizovat okruh tvůrců, pro které je bezpečnostní tématika prostředkem zobrazování některých jevů, provázejících naši výstavbu společnosti" Zaujala nás také zprávička Večerní Prahy, podle níž osmnáctiletý člen rockové kapely STB neboli státní bezpečnosti překonal koncem července vlastní rekord v délce hry na bicí nástroje.
- Celostátní bicí soutěž státní bezpečnosti by měla pikantní charakter.
- Státní bezpečnost se okamžitě postarala o rozptýlení takových iluzí.
- Před možnými kontakty s těmito lidmi byl Bezpečností důrazně varován i Ladislav Lis , signatář Charty 77, člen VONS a místopředseda Mezinárodní federace pro lidská práva; patrně především proto, že má trvalé bydliště v Severočeském kraji.
- Státní bezpečnost v dané záležitosti dokonale uspěla: mnozí lidé byli zastrašeni a v příštích letech se patrně neopováží cokoli kritizovat.
- Skutečné úsilí o bezpečnost státu si dnes vyžaduje věnovat větší pozornost komínům a odpadovým stokám než nekon- formním občanům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec2aace1d701c9a31939a16971bea2a4cfcfeded5bd3a00f53c91e4c3b56ccc0
+size 1897

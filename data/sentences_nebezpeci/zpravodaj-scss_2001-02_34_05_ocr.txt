@@ -1,1 +1,3 @@
-nebezpečí machinace pan Železný republika nucený platit miliardový odškodné americký společník
+version https://git-lfs.github.com/spec/v1
+oid sha256:28aa1a9100dd8f6afa85b6435f02fde328001275cfb2b53415bc9148d773aa35
+size 106

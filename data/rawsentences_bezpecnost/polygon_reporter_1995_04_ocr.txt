@@ -1,1 +1,3 @@
- Pyšný nosánek české zahraniční politiky je špatným garantem naší budoucí bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a11b759a80ce9c25f68dd12a6fdb3d9999425343061586d4d33f00bea3afaf9
+size 100

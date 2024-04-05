@@ -1,1 +1,3 @@
- Diskutovalo se o něm též na besedě veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:923024707c2fbc77316cadcf241a563027f60d2908e3fd5c1e40105a16878dd5
+size 64

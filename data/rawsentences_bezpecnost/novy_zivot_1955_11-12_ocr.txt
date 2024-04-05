@@ -1,1 +1,3 @@
- Kniha je rozdělena podle hlavních oborů práva do čtyř kapitol: A) - Právo veřejné jedná o porušení základních lidských práv, o svobodných volbách a bezpečnosti osoby a bytu, o zákazu pobytu a deportacích, o udavačích a tajné policii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbdf09f2ba90d7c66f77c31c00958263a0d1539d16ec7824a5ee72d7b13c1b59
+size 259

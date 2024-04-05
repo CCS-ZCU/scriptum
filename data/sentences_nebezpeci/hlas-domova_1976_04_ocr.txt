@@ -1,2 +1,3 @@
-střežený kritický rozum vnést směr společnost nebezpečí vrozený stálost pohyb
-nechat pár měsíc západ malý nebezpečí doba kynout muset zůstat
+version https://git-lfs.github.com/spec/v1
+oid sha256:b641b8e698a1c3f7f381ea9db9c3e904b61b7498480a9595392139476b10e649
+size 160

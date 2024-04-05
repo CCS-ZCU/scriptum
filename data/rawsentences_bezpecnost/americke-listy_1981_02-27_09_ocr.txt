@@ -1,2 +1,3 @@
- 2) zvýšená musí být nejen bezpečnost cestujících v autě, ale i ostatních účastníků dopravy.
- Na dodržování předpisů o bezpečnosti osobního vozidla se v každém z 9 členských států Evropského společenství již delší dobu klade velký důraz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8096297ca75a2acf81439a8f223ab9adddf2c77043bf2cc53277524738db428b
+size 273

@@ -1,1 +1,3 @@
- Průvod natáčela rakouská televize a rovněž otátní bezpečnost,která zasáhla nž v závěru,kdy^odcizila jeden arch s podpisy pod peticí,kterou manifentující cávali podepiso- vat kolemjdoucím.
+version https://git-lfs.github.com/spec/v1
+oid sha256:450e618f9a7ccb31f712f343e71153f3aa4f2152f42149923583b350c89d46e3
+size 208

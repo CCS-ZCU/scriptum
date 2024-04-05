@@ -1,4 +1,3 @@
-Kolumba vědět kapitán Martina Alonz Pinzo novi
-Kncží dovolovat nosit svatý olej moci věřící octnout nebezpečí smrt náhlý úraz posloužit svátost pomazání nemocný
-ukazovat titul pocházet Danta druhý slovo
-bolet jistý vidět chátrat
+version https://git-lfs.github.com/spec/v1
+oid sha256:7117ddd264eafded01168783f38bcc63e35dc13602c041a9d943cdf14953abc8
+size 250

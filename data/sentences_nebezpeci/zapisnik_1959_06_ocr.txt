@@ -1,2 +1,3 @@
-nebezpečí demokracie veřejnost označit kritika kazimír
-báseň Anna Vrbovská Saitta ostatní chrat ona epidemie nutit člověk den pozorovat ostatní nemoc dělit vlna vlna tvořit jednota zelenavý moře člověk mušle skořápka uzavřený oko metr ěkký chapadlo cítit nebezpečí blížit orosený list šťavnatý tíže
+version https://git-lfs.github.com/spec/v1
+oid sha256:21786ffd9f2e31c77dba127a964116b8a5edeb4d4df81e7e659c24e0cefe6648
+size 335

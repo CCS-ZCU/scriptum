@@ -1,1 +1,3 @@
-mnohý myslicí lidé domnívat nebezpečí válka maloučko zmenšit
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e378dd139efeb955308363cbebfad7259742829ae575f7213fb3601e275e2ff
+size 70

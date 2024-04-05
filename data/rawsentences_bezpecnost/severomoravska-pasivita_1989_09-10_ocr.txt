@@ -1,7 +1,3 @@
- Hradílek opouštěl obstoupený dům a chtěl jít na místní hřbitov, kde se slavnost konala, byl zadržen a odvezen Veřejnou bezpečností.
- V pozdních večerních hodinách mladí lidé v počtu 40 u kulturního domu zapálili větší množství svíček až k jezírku v parku a tiše vzpomínali až do půlnoci, kdy se dostavili příslušníci Veřejné bezpečností, kterých bylo desét, přítomné ligitimovali a svíčky rozkopali.
- Případná omezení těchto práv z důvodů ohrožení národní bezpečnosti nebo veřejného pořádku musí být v ústavě v příslušných zákonech definována tak, aby nemohla být zneužita proti duhhu těchto práv a svobod.
- Všechny ulice směrem k němu byly uzavřeny kordóny příslušníků bezpečnosti.
- Tak se najednou vytvořila větší skupina sledujících, Poláci s transparenty se  - 40 - 30 zastavili po 16^ u přechodu a začali skandovat různá hesla proti naší bezpečnosti (milicja do grobu) a proti stonavské koksovntn Krom transparentů Solidarity, se hlavně objevovaly nápisy v duchu: "Koksovu ano, ale pouze vPraze".
- vo ulďo'z't jak funguje Bezpečnost proti zhruba 4 000 rozhořčeným.
- Ve srovnání s akcemi Bezpečnosti v Praze, zde byli příslušníci velice mírní a kupodivu nezvali do akce Pohotovostní jednotky MV z nedalekého Frýdku — Místím.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e5b4656429d311e9d3c0447af6392c3465ba7a627c322b010d783c8e0a71caf
+size 1362

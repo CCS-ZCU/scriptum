@@ -1,2 +1,3 @@
-září poledne dostat Beneš druh socialista fašistický kravál kontrola zažehnaný bezprostřední nebezpečí zdát důsledek jasný silný koaliční strana trčet krk velezrádný spiknutí ležet dlaň demize kapi tulantský vláda ráno den Beran Preiss kumpán zatčený
-moci pochyba nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:3190967519891b2038fd717eff7d7e6017b231320884fd278dd46c270bd2c08b
+size 313

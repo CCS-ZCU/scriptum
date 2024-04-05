@@ -1,2 +1,3 @@
-řeholník mendikant boj císař Fridrich papež muset překonávat obtíž nebezpečí velký
-jiný důvod nebezpečí západonamum ecký vojsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:127ba37baa8d5602f95fd9043efaecd2ff6fec11fe9b2b241b0006274579a261
+size 146

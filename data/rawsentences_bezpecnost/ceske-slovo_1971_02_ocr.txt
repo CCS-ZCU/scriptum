@@ -1,2 +1,3 @@
- Touto zbraní byl státní aparát a v něm především orgány bezpečnosti a armáda.
- Zato velmi aktivní byl Sbor národní bezpečnosti, dirigovaný komunistickým ministrem vnitra • tehdy Václavem Noskem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae4134b3c13dafa9c845377d1cffb0f538c3e2d4e5fc3c243a89eaada1586de
+size 216

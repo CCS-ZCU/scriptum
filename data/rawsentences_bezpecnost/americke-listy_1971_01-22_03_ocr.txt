@@ -1,3 +1,3 @@
- A naopak: lo, jak jsou američtí občané v Moskvě obtěžováni výtržníky, školenými si větskou bezpečnosti, musi být pokládáno za ubohý a sebezničující akt pomsty.
- Druhý a tretí ciel sa dosiahol na základe Gold- stückerova udania orgánom štátnej bezpečnosti.
- Těmito tvrzeními se Jevgenij Jevsejev a Jaromír Lang ve skutečnosti pokoušejí zastřít úlohu orgánů státní bezpečnosti, tehdejšího vedení KSČ a sovětských poradců v procesech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:012718cee5ca53e4b8a0b55e9a297fe7f38c7e066936ad5e77e80c0c728c2687
+size 484

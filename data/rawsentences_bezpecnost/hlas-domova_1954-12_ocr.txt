@@ -1,4 +1,3 @@
-— KSČ a vláda vydaly usnesen-' c opatřeních ke zvýšení bezpečnosti dopravy.
-/ KORESPONDENCE S DOMOVEM V ČSR je v zásadě censura všech, dopisů ,které tam docházejí z ciziny nebe jsou do ciziny odesílány,Při psaní z OSR je prakse taková,že po kontrole v místním poštovním úřadě je dopis nebe lístek poslán nejprve na poštovní úřad ’PRAHA 7-CIZINA” ,kde , se teprve třídí do jednotlivých skupin pro skutečné odeslání, Praha 7 'je úřadem cen š u m í m kde všechna pošta,určená pro cizinu, prochází kontrolou pod dozorem orgánm Státní bezpečnosti.
-Stfl ní bezpečnost totiž oznamuje přednostům jednotlivých poštovních úřadu, c které lidi má zájem.
-Jejich pošta se pak zadržuje a posílá na zvláštní schránku okresnímu poštovnímu úřadu, který uvědomí Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83b73e039b7c646c644339fc9563b8c5ba08c2d69ff4cc2bb97aa520f44cfc36
+size 857

@@ -1,7 +1,3 @@
-nebezpečí komunismus první republika poukazovat národní sociální demokrat
-encyklika duben označit fašismus nacismus komunismus hlavní nebezpečí hrozit celý svět lidstvo
-činit doléhat fakt papež hlaveň nebezpečí
-nebezpečí fašismus zničený mocenský základna rok zminimalizovaný
-druhý nebezpečí Vatikán upozornit duben mlčet
-válka Vatikán druhý nebezpečí upozorňovat
-moci nastat východní země nebezpečí volný průchod explozivní materiál
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ef817f3d46ec5c5c66114cfe9138ee128d7f094949c373a4332a21fcd29728d
+size 482

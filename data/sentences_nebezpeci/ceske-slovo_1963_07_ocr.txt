@@ -1,1 +1,3 @@
-projev hovořit činit opatření nebezpečí recidiv
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3f0d000c60313e9653b6498a9d66ffd63d4b502ad5c7f72b94063ffa6451cfa
+size 54

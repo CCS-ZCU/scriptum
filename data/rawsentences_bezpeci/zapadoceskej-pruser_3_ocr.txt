@@ -1,1 +1,3 @@
- Každý ti hochu dosvědčí tu pravdu z dávných dob že dokonalé bezpečí ti poskytne až hrob.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e9e5421d8aac6c3d0e68866fca452d01023eab98d01631958b2034f0bbc1474
+size 102

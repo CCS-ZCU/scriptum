@@ -1,6 +1,3 @@
- MQRMAUSACE V ČESKOSLOVENSKU PROBHíK MÍLOVÝMI KROKY tohto roku výslovne zdôraznila, že tento dôvod okupácie /'zaručenia bezpečnosti krajin socialistického spoločenstva pred silnejúcimi revan- šistickými snahami zápa- donemeckých militaristických síl," už dávno pominul.
-  obidvomi nemeckými štátmi z roku 1972 a zmluvou o vzájomných vzťahoch medzi Československom a NSR z roku 1972, ako aj účasťou všetkých krajín Varšavskej zmluvy i Nemeckej spolkovej republiky na Konferencii o bezpečnosti a spolupráci v Európe.
- Úvěry ze Západu se zvyšuje životní úroveň, ale rostou korupce a černý trh, jehož zásobovatelé jsou v případě potřeby snadnou kořistí bezpečnosti.
- /Podle odhadů bezpečnosti z května je jich pouze dvacet v celkovém nákladu dvaceti tisíc exemplářů/.
- Hlavními příčinami roztržek dosud jsou: sebeurčení, vlastní vláda, větší práva než ostatní autonomní celky v oblasti hospodářství, jazyka,vzděláni, ale i v otázce bezpečnosti, nemalým problémem je i monarchie, nebot Baskové byli a jsou od roku 1833 většinou "CARLISTÉ".
- Československá i polská bezpečnost zadržela představitele Charty 77: Jiřího Němce, Tomáše Petřinu, dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33bb8f4b8e68c450b31bb06881ff19a434d65fbf0f80bc8b85e3d46d9d90204b
+size 1248

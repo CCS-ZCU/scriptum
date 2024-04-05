@@ -1,1 +1,3 @@
-smluvený kašlání dělat potíž čas dosáhnout cvik otec hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ee6137fae830d417b6ba8d72cace25e6b653f7034b7a64a3cfc00ee20145cf
+size 81

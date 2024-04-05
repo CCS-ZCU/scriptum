@@ -1,1 +1,3 @@
-první snadný proměnit znalost vyučovací předmět nést reálný nebezpečí přílišný zdůrazňování znalost úkor svízelný úsilí víra bůh
+version https://git-lfs.github.com/spec/v1
+oid sha256:aebc56ae79c847fb38400adab9b4fe4a7fca047ec6cd5c877ebde017444dd9bb
+size 209

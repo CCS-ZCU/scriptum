@@ -1,11 +1,3 @@
-div sovětský vláda zaslat prostřednictví ministr zahraničí Gromyk návrh OSN moci televizní družice používaný přímý vysílání signál souhlas vláda příslušný země občan signál moci přijímat
-odmítnout vědět nebezpečí trest velký
-jediný argument moci intervence ospravedlnit nebezpečí obsazení Československo jednota kame atlantický pakt existence silný organizovaný vyzbrojený vycvičený kontrarevolučni spiknutí cliys stát uchopit
-podnik rok hodina všeobecný fráze tvrzení socialismus nebezpečí
-nedo kazovat vážný okamžitý nebezpečí kontra revoluce srpen ukazovat nedostatek fakt dukaz podporovat tvrzení
-důvod možný ideologie zrovnopráv něný utlačovaný masa mít určitý metr náboj pravdivost zahrnovat nebezpečí kanonizace
-ohled návrat stalinismus logický mezinárodní komunistický linutí uvádět místo poučení slyšet hlas volat vyše uve dené negace vědomý nebezpečí vyplývat
-svoboda diskuse možný govat nebezpečí úsek mít zaznamenaný nej velký pokrok nový revisionisnm marxistice kýmaný myšlení jít cesta kanonisace přeměna apologetický ospravedlňující ideologie
-sjezd synonymum probuzení rální intelektuální obroda socialismus nepořádek anarchie nebezpečí
-závažný problém přežít tvář tvář nebezpečí nový válka vzrůstající náklad zbrojení
-litr vidět Fischer obraný reakce pochopení nebezpečí starý cesta rozdíl jiný komunista nacháza jící pozice jít opatrnost ústupek založený zkušenost empirismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:3beb9d09d678341aed2e5b4c471c80d1cc8f063f2f9abe6f90c1f6cb1129607b
+size 1676

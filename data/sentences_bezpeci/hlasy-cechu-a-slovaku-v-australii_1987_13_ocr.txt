@@ -1,1 +1,3 @@
-červen obsadit město přístav poměrný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d322fe9c44c8e298fc978c5c0437ed204ed8afa6ebc1a05ef94568f61bee6985
+size 53

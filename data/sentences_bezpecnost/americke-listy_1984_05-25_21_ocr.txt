@@ -1,1 +1,3 @@
-humanistický státní bezpečnost humanistický socialistický Československo učinit další rozhodný krok dovršení dovršení
+version https://git-lfs.github.com/spec/v1
+oid sha256:2151f4ab72a3944b86f1ce4d322ab49484a3e82bd7ebfca93c90b253e33d092c
+size 133

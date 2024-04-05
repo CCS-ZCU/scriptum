@@ -1,1 +1,3 @@
- Zimním olympijským lirám detaily dvou běžců v závodu v běžich mužů na lyžích; s potrétem francouzského spisovatele a filosofa Vollaira (1694- 1778) a německého lékaře a přírodovědec Georgia Agrieoly (1494-1555), k výročí jejich narození; k Mezinárodnímu roku ro- diny, vyhlášenému OSN zobrazuje rodinu jako kmen živola a symbol lásky, soudržnosti a bezpečí; známku s portrétem Jana Kuhelíka (1880-1940), otce skladatele a dirigenta Rafaela Kube- líka, v seriálu Tradice české hudby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6502855dd5c054c3177d10ad3776ef93c03e5dad515d6ed57d5b0576f16bbdad
+size 521

@@ -1,1 +1,3 @@
- Zmatené saranče by se bez nesnází mohlo jediným skokem dostat do bezpečí, ale kdež! Není schopno zbavit se ohromení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5aeaef3c56dc02d0bbe29842c600c6eb6b450fb4caede66e7436143f08f576b
+size 128

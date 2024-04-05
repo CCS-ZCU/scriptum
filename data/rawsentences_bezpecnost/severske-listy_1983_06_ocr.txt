@@ -1,2 +1,3 @@
- Mají v rukou armádu, bezpečnost, ministerstva, cenzuru a milici.
- Bavorská vláda spojuje tuto otázku přímo s bezpečností státu, protože si je vědoma, že legalizovaní jsou nucenými zpravodaji komu- nistů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9358076433a8721c2f6973e4e7659e0f7991746fa1c6bb0bce3835aa2178d2dd
+size 222

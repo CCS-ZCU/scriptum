@@ -1,1 +1,3 @@
-dokument říkat zakotvovat právo osobní svoboda sobní bezpečnost svoboda pobyt pohyb zásada rovnost svoboda projev svoboda spolčovací shro mažďovací právo občan podílet prostřednictví svbodon zvolený zástupce pravidelný volba vedení veřejný záležitost
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e19fd041178f339c264ae620b5ae2e2f223d353df806f24feaa0fb35b7480c
+size 276

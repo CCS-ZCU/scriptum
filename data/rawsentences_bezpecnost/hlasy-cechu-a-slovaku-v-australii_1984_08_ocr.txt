@@ -1,2 +1,3 @@
-i" podriadil Štátnu bezpečnost /STB/ a Národnú bezpečnost /SNB/ priamo tzv.
- Hlav- nému úřadu národnej bezpečnosti u Ministerstva vnútra v Prahe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eafa40ba829bf973ad9d75db3a8fa9f9571975a9e7bb8b2e7faa98dd4a25f8e
+size 158

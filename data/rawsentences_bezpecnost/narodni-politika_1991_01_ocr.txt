@@ -1,3 +1,3 @@
- Karel Rujbr, původně důstojník Státní bezpečnosti, jenž musel ještě před listopadem její řady opustit pro alkoholismus.
- Podstatou sdělení bylo, že listopadový převrat byla záležitost Státní bezpečnosti, která na základě jednání KGB a CIA realizovala převzetí moci prominenty Charty 77.
- bezpečné ukládání odpadů, sledování čistoty podzemních vod, zajišťování bezpečnosti jaderných elektráren při jejich výstavbě i provozu, přenos dopravy a tovární výroby pod zem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d305e03068e52da9903481ddbf758790a11322f1707121dcb1df03f06c9554c
+size 520

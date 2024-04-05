@@ -1,15 +1,3 @@
- Lebo z a tia l' čo v Žen eve d ip lo m a ti 35 n áro dov z á p a s ili s časom , a b y vyh o věli B re žn e v o v i, k to rý chcel m a ť ta k zv a n á d e k la rá c iii o eu ró p skej bezpečnosti do konca jú la pod střech o u , v S pojených štátoch sa p ozdvihla vlna odporu proti v ý sle d ku 22 m esačn ej p rác e d ip lo m a c ie .
- 2) leme, tak nás napadli šlová, ktoré sme dali do žáhla via tejto úvahy: Helsinky - ilúzia a realita, čo je teda na postoji Západu a najma Spojených štátov k Helsinkám ilú- ziou a čo je realitou? Třeba hádám ešte podotknut’, že odpor proti tomu, čo sa teraz nazýva deklará- cia o európskej bezpečnosti a spolupráci, bol všade - aj v Západnej Euró- Prezident Ford prišiel s vysvětlením, že Helsinky neznamenajú nejakú závažnú konferenciu, že deklarácia, ktorú tam predstavitelia všetkých európskych národov okrem Albánská podpisu, nie je nijakou zmluvou, ale lén vyjádřením určitých prianí a snáh; a že pr.
- Prohlášení končí takto: “Předsednictvo ÚV KSČ a vláda ČSSR prohlašují, žé Československá socialistická republika jako pevná součást socialistického společenství, věrna zásadám leninské mírové zahraniční politiky, bude důsledně plnit závěry konference o bezpečnosti a (Pokračování na str.
- západní Evropě poslal presidentovi Spojených států amerických Geraldu Fordovi do finského hlavního města Hel- sink k zahájení závěrečné části konference o evropské bezpečnosti a spolupráci telegram tohoto znění: í'U p říle žito sti vrc h o ln é ko n feren c e v H els in kách chcem e V á m p řipom eno ut slo va , k te rá js te pronesl v roce 1972 ve Sněm ovně rep re ze n tan tů ke č tv rté m u v ý ro č í sovětské in v aze a okupace Č eskoslovenska: 'V š ic h n i so u h lasím e, že in vaze a nynější okupace Československa p řím o p o ru šu jí z á sad y m ezin áro d n íh o p rá v a a p ráv a sv rc h o v a ného stá tu .
- Jaký vliv mohou mít podpisy deklarace z konference o evropské bezpečnosti a spolupráci především na život lidí, kteří sami nemohou mít žádný vliv na řízení věcí své země? Přijatá zásada o nevměšování do vnitřních záležitostí druhých zemí zní slibně, zvláště když ji Leo- nid Brežněv komentoval ve svém projevu ■ v Helsinkách takto: “Nikdo, ať vychází z těch či oněch zahraničně politických úvah, si nesmí dovolit diktovat jiným národům, jak si mají uspořádat své vnitřní záležitosti.
- Taký, nie iný je zmysel deklarácie o európskej bezpečnosti podka Brežneva.
- Zajištění míru a ■ bezpečnosti vyžaduje, aby toty metody byly ve vztazích mezi státy v Evropě odmítnuty a vyloučeny .
- odpor proti Brežnevovej európskej bezpečnosti podminovat’ sovietskou propagandou.
- Nedošlo by ani v budúc- riosti • pokial’ by Západ dbal, o zaistenie svojej bezpečnosti! Medzi tým, čo.
- Nebo do Mongolská ,s ' návštěvou lamaistického chrámu, z nějž lámové bylí pro větší bezpečnost našince vystěhováni.
-387 člen ů , ve 495 V ý - boréch lid ové ko n tro ly m ěstských a m ístn ích ná- — Podle zprávý Listů předala Státní bezpečnost Národní bance, oddělení pro povolování devizových příslibů, seznam občanů, kteří se nemají dostat do zahraničí.
- I státní tajná bezpečnost dala nahlédnout — po kolikáté: už — do svých akt.
-bezpečnosti, a se sítí udavačů .
- A pak tu byli ti, kteří se štítili práce a takzvaně zajišťovali jako závodní stráž bezpečnost podniků, a kteří byli základem lidových milic; jejichž pušky ■ a svéřepé : obličeje vzaly chuť demokratické většině něco .
- ostražitého novináře Jacka Andersona, který odhalil, že CIA zatkla dva sovětské špióny, čímž ohrozila zdárné výsledky Konference o bezpečnosti a spoluprácí v Evropě, nebyli by ho přijali useš s.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f4067511045831ca685b106d70d1d1e25760bf20aa8f4665c3eb62cfe8b330e
+size 4020

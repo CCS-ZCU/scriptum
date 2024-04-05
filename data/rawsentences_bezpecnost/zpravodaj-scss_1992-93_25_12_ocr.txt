@@ -1,1 +1,3 @@
- Těch slabých bodů není málo: po zlepšení volají pořádek a čistota na ulicích, bezpečnost hostí a jejich majetku, slušné zacházení na úřadech i v podnicích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8617a1fdaeb5c17726efdd3f5aafdfbf3d4a2742cc79258131164a37ed89df72
+size 178

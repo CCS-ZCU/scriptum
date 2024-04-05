@@ -1,3 +1,3 @@
- Tiché protesty položením květin či svíček na místa, kde tehdy padli naši lidé či na místa, kde se •— jako největší protest proti okupaci — podpálil nebo kde je pochován Jan Palach, byly pod stálou kontrolou uniformovaných i civilních strážců bezpečnosti.
- příslušníkem Veřejné bezpečnosti, že ji nesmí zapálit “pro nebezpečí ohně".
- Vtedy s návrhom na deklaráciu princípov pre u- pevnenie medzinárodnej bezpečnosti prišiel Sovietsky zväz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff34579bb36d27220ed7bc3677159190f6d283daf8a536e86f8ab1d1f5fc67e
+size 492

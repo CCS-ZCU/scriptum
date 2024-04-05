@@ -1,1 +1,3 @@
-sebeokouzlení velký nebezpečí pád civilizace
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd24db7545b2ddc36e8f27c9eb6b9aca61de25e6d9c0c35fa86a303c746223d3
+size 50

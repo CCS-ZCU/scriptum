@@ -1,1 +1,3 @@
-600 nových členů Pomocné stráže Veřejné bezpečnosti, takže nyní spolupracuje s orgány VB v tomto kraji přes 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e822f3b671552bed0c2b0809c593a230da8f07fe98c4f36bed85294869eb08ae
+size 124

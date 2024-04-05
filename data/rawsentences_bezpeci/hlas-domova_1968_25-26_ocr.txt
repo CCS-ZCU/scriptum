@@ -1,1 +1,3 @@
- To nej menší, co můžeme udělat, je umožnit jim pocit bezpečí a jistoty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3587be6473bc025d8010e356bc7ee9ae179e1f6b2864a389d9bf7a05b8ee5930
+size 81

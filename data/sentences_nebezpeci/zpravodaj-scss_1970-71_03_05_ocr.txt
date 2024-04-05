@@ -1,1 +1,3 @@
-myslit moci komunistický nebezpečí Kanada ignorovat omyl
+version https://git-lfs.github.com/spec/v1
+oid sha256:566686ace9634ff94dbd13f82a47bf0610c44e82d5b8c254500baeef8bcdd23a
+size 60

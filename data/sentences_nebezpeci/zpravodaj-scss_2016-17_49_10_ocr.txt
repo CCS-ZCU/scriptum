@@ -1,2 +1,3 @@
-doba sílící nebezpečí ČSR strana hitlerovský Německo zaslat časopis blok
-dostat vysvětlení dlouhý pobyt místo vzrůstat znalost lokální podmínka vzrůstat nebezpečí pravděpodobnost diplomat začít přejímat absorbovat zájem místo působení vlastní stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d2d64128dcd9750a55321fc150d630f9fbf9269a01780f18b5713f5d347465f
+size 280

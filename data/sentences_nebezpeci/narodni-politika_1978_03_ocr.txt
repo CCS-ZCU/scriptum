@@ -1,1 +1,3 @@
-hrozit zřítit muset doznat politika dokázat uniknout nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0f0bd6e369c4ba1d42eb0ea46cf005ed8ff043263dba2321cb89dbbb87f1b92
+size 68

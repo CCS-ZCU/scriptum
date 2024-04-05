@@ -1,3 +1,3 @@
-člen senátní podvýbor vnitřní bezpečnost součást senátní výbor právní
-žádat zájem spojený stát americký odpovědný činitel zahraniční politika možný účinný prostředek podporovat znovunastolení svoboda země osvobození stanovit přední úkol dnešní nesvoboda národ střední východní Evropa ohrožovat mír bezpečnost Evropa
-současný osvobození národ rozřešení ostatní problém střední východní Evropa nastolení demokratický vláda celý prostor moci přinést trvalý mír celý Evropa bezpečnost evropský národ národ ruský přestávat rozlišovat dnešní diktátorský komunistický vláda
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2b097110a74fa8e97a55482efda67e626cebf9c654353e427d796cd53a41209
+size 650

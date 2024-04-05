@@ -1,8 +1,3 @@
- bezpečnosti.
- JP Bývalý estébák dostal pět let Bývalý vyšetřovatel Stárni bezpečnosti, pětasedmdesáti letý Ladislav Mácha, který v padesátých letech v souvislosti s takzvaným žihošťským zázrakem umučil faráře Josefa Toufara, byl odsouzen k pěti letům vězeni.
- kterému prezident Václav Havel odmítl v řijnu minulého roku udělit štátni vyznamenáni kvůli podezřeni ze spolupráce s bývalou Státní bezpečností, věnoval hlavě českého státu šest láhvi vína.
- FL 10  kultura Rukopisy Dominika Tatarky Poprvé v České republice vychází trilogie Dominika Tatarky Písačky, která je zpovědi o časech normalizace, praktikách Statni bezpečnosti i svědectvím o vnitřních prožitcích tohoto významného slovenského disidenta a prozaika.
- Kavan na ní připomněl i Masarykův rozhlasový projev pro Ameriku v roce 1943, v němž Masaryk hovořil o potřebě "kolektivní bezpečnosti".
- který mandát ke zprostředkováni jednání získal za svého působení u Úřadu pro bezpečnost a spolupráci v Evropě v roce 1992.
- Ačkoliv jejich vztah byl vic než rodinný, napsal Honzovi dopis, ze je buď blázen, nebo hochštapler, a pokud se neotevřou archívy české státní bezpečnosti, nechce s ním mil nic společného.
- pod jehož tíhou i příslušníci Státní bezpečnosti otupěli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edf3f299b662682442e4ee7a3cf7281d4a1b285e5093877d3db7dbb8b9567f01
+size 1358

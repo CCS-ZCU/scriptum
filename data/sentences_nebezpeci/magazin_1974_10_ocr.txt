@@ -1,3 +1,3 @@
-případ nebezpečí nemoc dovést přivolat pomoc mnohakilometrový vzdálenost
-rozsah nebezpečí začít nabývat konkrétní obrys podařit odhalit machinace pozměňování program elektronický počítací stroj
-vážný nebezpečí nastupovat cifrař provádět průmyslový špionáž
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9bd56bd68bf65daf64ddbaa9fb9f079c0089905e9e3232e57efa543ec148b25
+size 293

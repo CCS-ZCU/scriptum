@@ -1,2 +1,3 @@
-uvědomit nebezpečí hrozit
-využít Peroutka umělec počínat nebezpečí vlastní zpodobování vyloučit
+version https://git-lfs.github.com/spec/v1
+oid sha256:31592403ba3d5e6b056fe0606995b9c4c378f0668e4cc9c5cb41bf63180a91ca
+size 110

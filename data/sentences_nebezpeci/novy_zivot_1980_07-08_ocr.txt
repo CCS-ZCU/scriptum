@@ -1,8 +1,3 @@
-vyjít dotknout základní problém denní život práce rodina problém mezinárodní mít dopad světový mír válka nebezpečí sebezničení lidský právo porušovaný místo různý způsob říci OSN UNESCO
-pozvání oficiální významný myslit pozvání organizace UNESCO poskytovat nový příležitost mluvit velký nebezpečí světový mír opakovat provolání vědecký pracovník
-Slovan vysvobozený Avar hrozit nový nebezpečí křesťanský říše francký německý zůstat pohan
-
-upozornit nebezpečí hrozící člověk věda užívat jiný dovolený cíl
-náznak vážný nebezpečí
-universita Jan Patočka
-zajímavý Kägi tvrzení současný doba existovat východní blok někdejší monolitický forma upevňovat solidarita východoevropský země západní svět oblast lidský právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5774b025ad377a7740e62aa1b984ec20e929c532a2d6634fd4aabcc00a879d7
+size 817

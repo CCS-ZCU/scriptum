@@ -1,2 +1,3 @@
-líbivý pokus ospravedlnit Stalinův činnost skrývat nebezpečí opakování velký tragédie strana lid celý komunistický hnutí
-společnost centimetr rok sblížení socialistický kapitalistický systém doprovázený protichůdný pluralistický proces konomice sociální sféra kultura ideologie cesta radikální odstranění nebezpečí zánik lidstvo následek jaderný ekologický katastrofa
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e083bb717b6faef43228943debf5d706eacdcfba80d37e8c1a3e4faf05d45a
+size 407

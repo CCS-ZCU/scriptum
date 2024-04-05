@@ -1,3 +1,3 @@
-mluvit nebezpečí vznik bankovní manažérský socialismus
-nebezpečí systémový problém dnešní trh vyřešit základ netržní konkurenční
-duben řešení vážný nebezpečí nový Černobyl hřbitov ruský atomový ponorka odpad murmanský znečišťování ovzduší voda štěpný látka
+version https://git-lfs.github.com/spec/v1
+oid sha256:9954bc799c05a2c57eed14fff97294a9b41886b6de25745b18314682b1ffb2ce
+size 302

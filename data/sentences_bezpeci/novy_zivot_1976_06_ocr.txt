@@ -1,1 +1,3 @@
-cizina kolovat zpráva dostatečný zajištění bezpečí poutník dostačující zdravotní opatření svatý rok odložit
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc404527c0ef16a03f423de157f518960caeaee4a8dd9748a2b792cd557d64aa
+size 125

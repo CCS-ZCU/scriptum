@@ -1,2 +1,3 @@
-nebezpečí spočívat vojenský moc Praha vládnoucí maďarský německý pluk
-mladý oceňovat moderní technologie usnadňovat život uvědomovat nebezpečí masový manipulace vidět možnost bránit
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f3ee317f0f4e9ae1b029ce603627efe6300f536b8da7581fedff42d027ad678
+size 205

@@ -1,3 +1,3 @@
- Devigny pustil revolver, podíval se zajatci do očí, chytl ho za ramena a zatáhl do bezpečí za zeď polorozbořeného domu.
- 0- patrně vedl zajatce za bojovou čáru do bezpečí.
- — Technický pokrok přináší dnešním lidem velké požehnání, ale také v sobě skrývá mnoho nc bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d82df4ec5d2243d3f5cef497ecfc0597d4f45c565764a20bace992eaedb939e
+size 304

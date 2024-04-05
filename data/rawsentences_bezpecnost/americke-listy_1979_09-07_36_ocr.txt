@@ -1,4 +1,3 @@
- který vykonávala státní bezpečnost nad kritiky společnosti v Československu, což je ilustrováno zejména unikátními záběry policejního hlídání a obtěžování Václava Havla.
- Například tichomořská flotila Sovětu byla posílena natolik, že už takřka vyvažuje americkou námořní přítomnost v této oblasti a představuje pro Japonsko, významné bezpečností risiko.
- Sandinovské síly se urychleně přebudují v armádu, počítá se se zavedením o- becné branné povinnosti; ustaví se revoluční policie, také státní bezpečnost — zkonsoliduji se lidové milice; občané jsou vyzýváni k účasti ve Výborech pro občanskou obranu, v nichž mohou prokázat svůj kladný poměr k revoluci, stře- doamerický vývoj nabývá tedy na intensitě i dimensi.
- Před postranním vchodem stál pro všechny případy hlídkový vůz Veřejné bezpečnosti — tak řečení “mli- kaři”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18d80e4858ab882f7251b065da09ce92ae95c7605fdb2142a9f1b891ba21f8cf
+size 934

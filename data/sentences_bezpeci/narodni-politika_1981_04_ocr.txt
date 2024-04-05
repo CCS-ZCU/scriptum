@@ -1,1 +1,3 @@
-plát Nemecko hledat jistota bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4991479d35649dfa0a947c870a94cd39fab32520f8549c9f415224acb599293a
+size 39

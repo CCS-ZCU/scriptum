@@ -1,2 +1,3 @@
- Útočila na ně otázkou, kolik z těch účastných by v sobě našlo odvahu vzdát čest její památce v dobách, kdy nebyla manželkou hlavy státu, nýbrž „jenom“ věrnou družkou prvního nepřítele socialismu, který - nebyl-li právě za mřížemi - rozvracel republiku pod pečlivým dohledem Státní bezpečnosti.
- Na rozdíl od ostatních politických procesů všichni obžalovaní odvolávali své výpovědi vynucené Státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0185a952f26efe464dabc1925072165c84590b1d30d2fcd038225bcd0f633a2
+size 466

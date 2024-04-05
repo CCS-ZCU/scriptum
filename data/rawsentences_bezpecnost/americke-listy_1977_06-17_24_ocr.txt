@@ -1,4 +1,3 @@
- V závěrečném aktu Konference o bezpečnosti a spolupráci, který Československo po- depsaio, je v příslušných odstavcích zdůrazněn význam turismu, kontaktu mezi lidmi, který je jistě právem —- jal: lam také čteme — považován za důležitý prvek, v upevňováni přátelských vztahů a důvěry mezi národy.
-) BRZEZINSKI "VYZNAMENÁN" PRAHOU Jedním z velkých trnu v oku je Východu poradce amerického presidenta Cariera ve věcech národní bezpečnosti profesur Zbygniov Brzezinski, polského původu, jehož manželka je neteř presidenta Edvarda Beneše.
- roky poté, co byla v Helsinkách podepsána 35-ti státy deklarace týkající se evropské bezpečnosti a spolupráce, byly nyní v Bělehradu zahájeny přípravy na konferenci, která se má konat v podzimních měsících tohoto roku.
- U- plynulo téměř čtvrt století a zdá se, že otázka stále ještě trvá: Byl to proces zkonstruovaný politickou atmosférou, anebo legitimní akt a trest za čin, který nenapravitelně ohrozil bezpečnost západního světa? Tuto otázku tedy nechtěně oživil i český historik Karel Kaplan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c87633051371e0eb0962cf274a22a351e336d12817138f3a8899548431c9d81
+size 1136

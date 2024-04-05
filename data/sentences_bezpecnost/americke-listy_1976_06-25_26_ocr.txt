@@ -1,1 +1,3 @@
-vyjít Hradec Králové chňapnout státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:dab907a9b9349c9349a1ba7ca32b772c207ae8d5c160b189ea4264f95ccf358c
+size 56

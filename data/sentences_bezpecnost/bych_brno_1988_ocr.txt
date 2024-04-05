@@ -1,1 +1,3 @@
-Procjba jít
+version https://git-lfs.github.com/spec/v1
+oid sha256:1887949d55708a7088314d1b4e9942a6df2862290710854dc0fe256b816bfc70
+size 13

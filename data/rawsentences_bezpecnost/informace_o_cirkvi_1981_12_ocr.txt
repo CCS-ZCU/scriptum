@@ -1,2 +1,3 @@
-října 1981 vyšel v časopise Bezpečnost článek dr.
- Článek je pravděpodobně referát z politického školení příslušníků bezpečnosti a milice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b509558c628aa97a9c3f7a6b97a6b8c75a46691cefbefa55315be3fe914e8ca
+size 160

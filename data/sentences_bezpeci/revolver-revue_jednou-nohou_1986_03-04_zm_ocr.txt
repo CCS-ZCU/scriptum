@@ -1,3 +1,3 @@
-odpočinek kázat zanomenout otřesený zdraví ochotý obětovat vlastní bezpečí
-odjet stát bezpečí hodina
-Milena půjčit zdát bul lep ším bezpečí válka hranice litr Praha nechat úschova
+version https://git-lfs.github.com/spec/v1
+oid sha256:db586eca51270696e33e2422e887d94a30fe7eea84d6c0e5179b0c9a732c0b3a
+size 203

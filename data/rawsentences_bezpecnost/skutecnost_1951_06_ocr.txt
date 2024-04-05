@@ -1,4 +1,3 @@
- * Jenom v mezinárodním společenství s pev- ným základem obecně platných norem jo potom zajištěna spravedlnost a bezpečnost pro všechny jeho členy.
- Otázka dílčích federací není pak otázkou větší bezpečnosti členů, ale otázkou hos- podářské a kulturní účelnosti.
- Konkrétně: bu- de-li instiUiován takový právní řád jaký jsme nastínili není třeba uvažovat o postavpní česko- slovenska v dunajské federaci s hlediska ohro- žení Německem, Opačně, nebude-li takový právní řád uskutečněn, je bezpečnost Česko- slovenska jako součásti podunajské federace stejné ilusorní, jako byla bezpečnost Českoslo- venska tak zvaně suverénního, protože stav me- zinárodní anarchie by trval dál.
- Pro komunisty je pak důkazem, že studená válka přešla do dalšího zostřeného sta- dia a že je nyní nutno počítat s velkým nepří- telem, který je stále a všude přítomný, který odhaluje komunistické plány a triky, který tak- řka okamžitě reaguje na všechno, co se v CSR děje, říká a píše, který má své zpravodajství zorganisováno uvnitř země, který pranýřuje komunistické ideology, který jmenuje agenty státní bezpečnosti, nelidské dozorce ve vězni- cích, který nahlodává i tu poslední důvěru, kte- rou režim ještě mají někteří řadoví komu- nisté, 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0c7403e3c29767ae280386bf02a990f8163aa1a53f59fd6b34f7e37c436a43a
+size 1374

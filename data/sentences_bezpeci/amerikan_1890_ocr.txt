@@ -1,2 +1,3 @@
-Desperadi cítíc úplný bezpečí oddat rozkoš volný život
-objmout líbat úplný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7084c4f4b93e58dd6ecdcd52202bb362a55860014237bc4261c3225c09c377c0
+size 97

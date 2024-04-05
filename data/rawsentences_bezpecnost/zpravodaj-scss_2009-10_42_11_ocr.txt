@@ -1,2 +1,3 @@
- Nadto se ukázalo, že ani v Iráku zatím vládní moc nekontroluje ve městech bezpečnost, protože zrovna teď v Baghdádu došlo k nej krvavěj Šímu teroristickému útoku za poslední dva roky (25.
- státní moc na zajištění vnitřní i vnější bezpečnosti, spravedlnosti, sociálního a zdravotního zabezpečení, vzdělání, blahobytu, kulturních a mnohých jiných potřeb, jako finanční a daňový systém, dopravní infrastruktura a ochrana přírody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cac4af24965322551720010d724729e8642ead80cc7443ce05a4e765d53db56
+size 477

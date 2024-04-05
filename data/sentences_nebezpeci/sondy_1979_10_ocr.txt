@@ -1,1 +1,3 @@
-pinah hlas slévat hymnus hlaholící Mvota smrt prázdno hlásit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a475a5719f8c86f8f7edbb5487faaa8d2c97e4e805a0d99de88ee506fe6637c
+size 78

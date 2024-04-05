@@ -1,1 +1,3 @@
- Jedinou dovolenou výjimkou z použití takového pravidla je z důvodů veřejné bezpečnosti v souvislosti se zjišťováním jiných výbušnin a dosud nezjištěných spolupachatelů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:787d4a82dea573f6b503d68c5e6dba9aa57b60c2fd3f47d8547b6d5facfa9814
+size 190

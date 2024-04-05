@@ -1,1 +1,3 @@
-prodělat nacistický okupace skončit shledaný rozřešený podobný nebezpečí jiný barva povstávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:c524d4d2674c565b269c27aa647ad140d56de84f5d5f945e3d311a2cddcff660
+size 106

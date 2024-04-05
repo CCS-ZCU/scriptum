@@ -1,1 +1,3 @@
-<tální bezpečnosti“ nedostane plán města.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43cd8a476128ecabc80599d0e681ce5e19df76d712707f13976d7e6db83f35d4
+size 49

@@ -1,1 +1,3 @@
- Největší ne 9 ŽIVOT CÍRKVE bezpečí je to, když se taková skupina uzavře a stane se určitým druhem "sekty”, která už není otevřená vůči celku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3b979b215eb2d3a3b4c861a619d13e54707b74cdfb139a6580904cc5c372841
+size 164

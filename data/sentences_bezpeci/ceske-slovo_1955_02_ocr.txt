@@ -1,1 +1,3 @@
-sir John ceylonský ministerský předseda konference Bandung bezpečí válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:a991144412c194de8aafa8bbe640ea4b1b08d6ac9026aba64ee6f0e5259de256
+size 79

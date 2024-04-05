@@ -1,3 +1,3 @@
- Jednania vo veciach politických, mieru, bezpečnosti, odzbrojenia a ochrany práv a slobod človeka neboli najúspešnejšie i keď bol schválený rad papierových rezolúcií, deklarácií a konvencií.
- července 1967, píše: Orgány bezpečnosti v Hradci Králové vyhostily včera z území ČSSR amerického státního příslušníka Jamese Tru- nečka.
- Na chování a jednání Jamese Trunečka bylo podáno oznámení pracovníkům bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33ce037d89ae709e8f84eee081415ef807b9683f5828cd6aa0b23f952ad5e033
+size 459

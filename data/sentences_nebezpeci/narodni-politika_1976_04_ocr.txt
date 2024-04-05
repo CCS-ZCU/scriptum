@@ -1,2 +1,3 @@
-velký nebezpečí známý trvalý následek počasí podnebí ozónový vrstva bezpečný možnost použití zbraň jiný země srazit koleno vyhlášený válka rozeznat napadený nepřítel postižený přírodní pohroma
-velký nebezpečí svět představovat zvětšující vývoz zbraň nukleární reaktor zařízení
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd64541aa90a76a619c331b1b4aea5cedb2a57b3030a312f189f1d6ff81f4389
+size 325

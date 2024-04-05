@@ -1,1 +1,3 @@
- Prekladanie horlivých kňazov z jedného miesta na druhé je známym trikom cirkevných tajomníkov a štátnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80e9354b31bf83598b7893f519197c1fd1799867a99d607409314b9f2b11cfe5
+size 128

@@ -1,8 +1,3 @@
- Svaz' byl sovětskou bezpečností likvidován, mezitím se však vynořily nové skupiny.
- Skupina byla opět vypátrána sovětskou bezpečností.
- Není pochyby, že jde o další provokaci Státní bezpečnosti.
- • Návod, jak korektně cestovat do Československa a nemít potíže na hranicích i s bezpečností přinesly Sud-.
- nádraží, který býval nejen dostaveníčkem pro přespolní homosexuály, ale také pod dobrým dozorem Bezpečnosti stejně jako veřejné lázně Koruna.
- proti bezpečnosti republiky, proti opuštění republiky nebo nezákonného zdržování se na území cizího státu bez povolení, jak se můžeme dočíst v čs.
- Možná, že jde o výplod chorého mozku, ale možná také, že jde o jednu z dalších nejapných provokací pražské Bezpečnosti.
- Kdo chce mít nějaké soukromí a také pocit mravní a společenské bezpečnosti, jde do jinak již opuštěných baráků, obsadí si některou místnost a zařídí si ji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a09866a301144fe37940a1257e96d0cb52d712e758e74459e009151a24a1accb
+size 981

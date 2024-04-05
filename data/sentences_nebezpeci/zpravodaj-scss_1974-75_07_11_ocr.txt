@@ -1,1 +1,3 @@
-přijmout říci léta emigrace občanství Londýn nebezpečí stát anglický dirigent
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a6652dd8b2976f0786825d403b7c37dc81f125b16722c97bd4c60a80c5f46e
+size 89

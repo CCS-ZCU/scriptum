@@ -1,1 +1,3 @@
-svérázný sovětský bezpečnost předvolávat jednotlivý disident postavit volba zažádat možnost vycestování možnost návrat smířit určitý doba pobyt pracovní tábor Sibiř
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd40afe4de309b5ba4433b506434467f104a6a543977763351ef91a3a30a85f8
+size 188

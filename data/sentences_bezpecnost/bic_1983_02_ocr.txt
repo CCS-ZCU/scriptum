@@ -1,1 +1,3 @@
-Soudružka Andula Plecitá učitelka Slaný zlohit dostat přidaný nový rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:bafef2054da56b65b6b532de0f637bc4384d1cb94c8fbbb8014a22873a019824
+size 78

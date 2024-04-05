@@ -1,2 +1,3 @@
-Jan Masaryk chtít akt osobní sebeoběť varovat západ názor pochopit smrtelný nebezpečí hrozit sovětský imperialismus
-mít věřit Goringův výpověď Norimberk poslat Hitler počátek březen dopis maršál léčení Itálie oznámit rozhodnout vymýtit Československo zdroj nebezpečí středa Německo
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3a4a82d9f7b29b6463a2a5f510fae23ec50ce3affd83f016bc6e5021c32b73
+size 316

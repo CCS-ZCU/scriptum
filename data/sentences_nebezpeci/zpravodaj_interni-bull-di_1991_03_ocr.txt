@@ -1,1 +1,3 @@
-mít jít stát trojčlenný vyhnout soustavný nebezpečí ústavní krize zažívat
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcec00aa0e0a30da38ac66b0e6d3ce70606f63586d25eeca27093e447f3e8cde
+size 86

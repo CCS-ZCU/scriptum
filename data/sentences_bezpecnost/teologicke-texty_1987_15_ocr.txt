@@ -1,1 +1,3 @@
-zkrácený člověk mít právo život svoboda bezpečnost osoba
+version https://git-lfs.github.com/spec/v1
+oid sha256:13afec3756c14297aa39743fb1cf7247e5753a7f3700fc9d8f2081b2eb932e0b
+size 65

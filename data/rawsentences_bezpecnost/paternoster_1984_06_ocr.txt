@@ -1,1 +1,3 @@
- Vezou mě po třídě Sboru Národní Bezpečnosti a pak mně říkají, když stojíme, běžte napřed Kochu! Běžte, césar! Kdo ošidil lásku? O Láv! Jsem zamilován do života a za okamžik mě strčí do vaz- by.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ba0457378b40e6f129efb215b8d0a9f6422631ea4f3d5408bc35f482eb847ec
+size 223

@@ -1,2 +1,3 @@
- června delegaci do Washingtonu, aby tam v Úřadu pro národní bezpečnost při Bílém domě, v sekci pro sovětské a východoevropské záležitosti ministerstva zahraničí v úřadě předsedy zahraničně-polirického výboru senátu podala zprávu o současné situaci ve středovýchodní Evropě.
- června od Národní bezpečnosti jedenáct obrazů, jedenáct plastik a dva kusy mešního souboru, které byly v lednu odcizeny z kostela v Doksanech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd84a137d28759cf616b3f9261fa3ceb7bcc4ce9d6eec5c8cc670fed8f0caca
+size 463

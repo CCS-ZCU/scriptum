@@ -1,2 +1,3 @@
-" x Příslušník Veřejné bezpečnosti zastavil redaktora Hvězdý, soudruha Guláše.
- Jde Franta Vopička, takto člen Veřejné bezpečnosti, po u- lici, v jedné ruce drží bochník chleba, ve druhé láhev piva a na zádech táhne dvířka od auta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee3e11fbba2315517565352d09b04acc9c7299e802e123a8a96f07f19368cf6d
+size 258

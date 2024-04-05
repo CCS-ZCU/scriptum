@@ -1,1 +1,3 @@
-státní bezpečnost chodit zatýkat gestapácký hodina soudce soudit partajní direktivum obhájce obhajovat soulad stavovský etika obhajovat smět
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ba5b2bd43ce31b9bedce245e64133c9bf3a83e38a853d765dbfd25c90d62919
+size 151

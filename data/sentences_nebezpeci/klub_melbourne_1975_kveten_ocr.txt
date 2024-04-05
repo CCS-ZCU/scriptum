@@ -1,3 +1,3 @@
-široký australský vrstva jádro komunismus nakloněný odmítat mávnutí ruka zmínka hrozící komunistický nebezpečí rostoucí dělnický odborový hnutí
-Snedden vůdce liberální strana upozornit nebezpečí skrývat fakt unie Austrálie ruka komunista komunista využít síla unie nastolení komunistický režim Československo únor
-připomenout varovný slovo Ciceronův římský senát nebezpečí impérium hrozit senátor podceňovaný přeložený občan bdát stát stihnout pohroma
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5a262987e38cfcc3acc31ea5587e7597e0f02237f03f52150ec5ee585aee27d
+size 506

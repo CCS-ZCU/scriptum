@@ -1,2 +1,3 @@
-snad vládce vedoucí světový velmoc muset zabývat usilovný přemýšlení nebezpečí znemožnit
-vatikánský koncil konat zasedání neustálý nebezpečí vpád Garibaldi vojsko papežský stát Řím přerušený
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fbd84c4dab43286dd742b3ba0a4dff5cf682b84f5c208915c47d47e6927aa52
+size 221

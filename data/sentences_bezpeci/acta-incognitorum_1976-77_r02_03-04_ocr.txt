@@ -1,1 +1,3 @@
-jít život vddávat něhot zvyklý bezpečí jednat život proklínat dovátaost věda vydávat život všano Trd hon díl vteřina
+version https://git-lfs.github.com/spec/v1
+oid sha256:8debef732516432bcb8f4b1440ccfd9b0884e35f8ccd7a57c8b374c19625edcb
+size 138

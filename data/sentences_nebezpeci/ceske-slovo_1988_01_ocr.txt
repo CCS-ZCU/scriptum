@@ -1,2 +1,3 @@
-přednášet univerzita burcovat západní veřejnost komunistický nebezpečí
-novinářský zpráva končit ujištění dítě zpráva nemocnice nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbcff188880b1b0996407350df804867763fa4e347bd4dece5c274e4793563d1
+size 166

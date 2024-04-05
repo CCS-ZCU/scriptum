@@ -1,1 +1,3 @@
- Protože byly obavy, že by průběh této mírumilovné konference mohl být narušen, případně ohrožena bezpečnost delegátů, střežila areál policie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ab013b26e3263ecf3c8a75ad99691297416f415e93c23e5bd6f63dfa46ea48
+size 162

@@ -1,3 +1,3 @@
- Při prohlídce na hranicích zapomněl šéf STB /Státní bezpečnost/ v mém autě přístroj na „prosvětlování" věcí.
- Ani paní Jílková nemohla nevědět a nevidět o co se jedná! Velmi omezený prostor dostal Petr Cibulka, vydavatel seznamů spolupracovníků Státní bezpečnosti.
- Ale kde? Chtě nechtě se to dozvěděl prostřednictvím svého švagra, člena klausovského fan-klubu v Praze, jeden švýcarský krajan, který kdysi podepsal doma chartu, načež mu bylo jedním členem Státní bezpečnosti důrazně doporučeno, aby v zájmu své vlastní bezpečnosti opustil republiku, jinak ho zavřou až zmodrá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47efa53c76f8a532b031c1da68416e99637013c5df3ceec687be0ab424507efe
+size 643

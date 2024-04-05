@@ -1,7 +1,3 @@
- sovětský svaz v budoucnosti nedbá* •• dostatečné silný a jestliže nová dohoda politická přinese také sovětům výhody, především po stránce bezpečnosti.
- Budoucí osvobození Československa leží v průsečíku snah o světové odzbrojeni, evropské politické vyrovnáni, evropskou bezpečnost, sjednocení Německa, Titova úsilí o vyměnění satelitů z područí Moskvy a voláni po ncutrali- saci Evropy od Skandinávie až po Balkán.
- vyhlášení sankci proti Itálii v době habvšské ■ války, při tomto prvním velkém poXr-u e usku- 1 lečnění mvšlenky kolektivní bezpečnosti; bwhu- 1 žel bvl to pokus nezdařený a teprv^ po mnoha letech za korejské války so podařil.
- tom, aby kolektivní bezpečnost se stala skutečně uznávaným principem mezinárodních vztahů.
- že místo ideálu liberalistického a individualistického se stále více tlačil do popředí ideál sociální, v němž otázka sociální bezpečnosti není již jen problémem individua, ale celé společnosti.
- Komunistický ministr vnitra Karol Ba- cilek to vyjádřil větou: O tom, kdo je vinen a kdo je nevinen, rozhodne komunistická strana za pomoci orgánů Národní bezpečnosti.
- * V roce 1952 oznámil podvýbor amerického senátu pro vnitřní bezpečnost při vyšetřování podvratné činnosti v USA, že československé velvyslanectví a jeho konsuláty v New York City a Pittsburku jsou maskovanými středisky zvedá se, abv šel někam dál, někam, kde by byl sám a nemusil poslouchat, co si kdo myslí a přeje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f2b70f872425279c4e8c5925276a5833f19eb500e049b8bda34ac32708ef85
+size 1567

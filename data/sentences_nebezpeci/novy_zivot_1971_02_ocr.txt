@@ -1,4 +1,3 @@
-okamžik hrozit země nej vysoký nebezpečí tajný vyslovený úzkost jasný pocit smrtelnost strach boží soud
-myšlenka provedený důsledek muset změnit mnohý organizace východní sjednocený církev dostat nebezpečí existence Amerika východní křesťan stěhovat mnohý pozorovatel obávat přestěhovat
-závažný otázka život církev považovat věc západní křesťan uvědomovat očekávat ostatní bratr víra pomoc sociální hospodářský všestranný rozvoj
-mše svatý posvětit velký sgrafito hlavní oltář znázorněný nebezpečí ohrožující lidstvo plášť Marie vidět židovský dítě umučený Terezín dítě hladovějící Biafry desítileti Marie Dominici zmizet duben najít stopa
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a46a9030c954fcc4d077d8619e6b8be894c44af9be5358e24351387e19434b1
+size 727

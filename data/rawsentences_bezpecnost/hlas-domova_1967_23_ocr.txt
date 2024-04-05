@@ -1,3 +1,3 @@
- Takovýto vývoj, jak ukázala mezinárodní : konference bezpečnosti a hygieny práce'v íesnictví, , právě probíhající ve Vysokých Tatrách, je typický zejména pro Československo.
- Jak je Vám známo, měli jsme úspěchy v roli hlídačů v senátě, ale mohli bychom udě- lat víc pro bezpečnost Austrálie a pro lepší VE VIKTORII VOLTE TAKTO : parlamentních zástupců.
- Cíl nebyl tentokrát na žižkovské Ohradě, ale z rozhod- nutí "Veřejné bezpečnosti" v.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab32a3f8d5844a91f66f9936d23d4cafba01e3fb06277fe0354009405f7fc3bf
+size 488

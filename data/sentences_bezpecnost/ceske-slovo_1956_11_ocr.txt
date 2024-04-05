@@ -1,2 +1,3 @@
-den říci Zápotocký projev přenášený rozhlas CSR objevit zahraniční podvratný živel agent potvrdit zatčený řada osoba zaručený bezpečnost
-varování zájezd slovenský hora vláda moci zaručit bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:45809849aa9c5b1498df103c0cfdbf9bab4338be3f884ba165f17a44d475b9c8
+size 223

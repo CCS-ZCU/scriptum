@@ -1,1 +1,3 @@
-výročí dukelský boj výročí den znárodnění odvrácení nebezpečí válka počest sovět ské deklarace odzbroj ení počest mírový cesta soudruh Chruščov USA oslava vypálení sovětský raketa měsíc opakovaný krát oslava spuštění atomický ledoborce Lenin den horník den železničář počest slovenský národní povstání čest
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f76ef15b1629451849e3fee7e4c618e657899a3016dc08065eac020dc654cc
+size 350

@@ -1,6 +1,3 @@
-jít obrana Írán Praha tvrdit bývat ministryně zahraničí USA Condolees Riceová ministr Swar zenberg myslit nebezpečí ruský
-globální hráč lze zvítězit řešení parametr posilovat veřejný činitel nebezpečí muset říci posílit domnívat státní úředník vyzkoušený prověřený splňovat morální požadavek funkce dostat takzvaný
-nebezpečí skončení druhý světový válka Itálie hrozit vyjádřit známý italský spisovatel Ignazio Silone vlastní kůže poznat druh moderní totalitarismus fašismus komunismus
-Itálie léta potlačovaný svoboda lidský důstojnost hrozit nebezpečí stihnout stejný osud rudý diktatura
-vděčný krátký doba velký osobní nebezpečí dokázat sepsat mnohý jméno adresa blízký příbuzný dítě malý vědět
-proměnění vyjít kostel podstoupit riziko nebezpečí strach vystavit působení boží duch proměna
+version https://git-lfs.github.com/spec/v1
+oid sha256:5086a9bc77790abe7cb1296c9537a9e52f7d95eaa1e8c5b31d6e5c421bc87812
+size 893

@@ -1,3 +1,3 @@
-ministr Rusk konstatovat spojený stát mít mezinárodní komunismus cíl prvý zabránit rozšiřovat panství druhý dosíc dohoda zmenšit nebezpečí ničivý válka
-nebezpečí chřipkový nákaz Československo československý rozhlas mít
-hrozit nebezpečí vláda převzít český fašista generál Gablonz navázat úzký styk Rudolf Gajda
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb498a3469d819edb8e06cce5024b579f791f38217f4cdb24ff82a3e6966a96d
+size 352

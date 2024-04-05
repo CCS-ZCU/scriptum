@@ -1,4 +1,3 @@
-nebezpečí úraz padající zářivka kancelář namontovaný žárovka
-žito babička uvést mívat čas dítě zabývat rodič čas mít
-světový válka nebezpečí atomový zkáza uvádět pochybnost podstata samotný lidský existence
-James Irwin léta pilot měsíční modul Apolla cítit měsíc dojít duševní setkání bůh
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e885edf103d196d5fb4d56b52cef29aa771e7311769d3d7e323c7a24355bb29
+size 337

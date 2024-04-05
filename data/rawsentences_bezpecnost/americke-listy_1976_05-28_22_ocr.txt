@@ -1,1 +1,3 @@
- Závěrečné komuniké schůze- pak prohlašuje, že všech těchto patnáct zúčastněných zemí vyvodí ze situace všechny důsledky — které bude zapotřebí vyvodit, aby byla nejenom zachována, ale ještě zesílena síla jejich armád z důvodů nejenom bezpečnosti jejich zemí, ale i proti možnosti a- je prý důležité hlavně proto, že začáteční nadšení, které řeckou iniciativu v duchu Helsinek provázelo, v posledních měsících poněkud opadlo, a bylo tedy zapotřebí nové vzpruhy, aby se zájem o- živil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f10d6aae9f40b2457ae966956d5add8afb87a088c4c6f758c528bc7dcee8bd45
+size 545

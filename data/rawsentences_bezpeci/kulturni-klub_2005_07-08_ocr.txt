@@ -1,1 +1,3 @@
- Ten glejt byl formulován tak, že Husovi zaručoval bezpečí na cestu tam, na cestu zpět a v místě pobytu, ale pozor: Zikmund byl světský panovník a Husův případ spadal do sféry církevního práva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7157b974676ed0ca6c514395b6ff7752020896ed8ab3bea636d883d780776d93
+size 212

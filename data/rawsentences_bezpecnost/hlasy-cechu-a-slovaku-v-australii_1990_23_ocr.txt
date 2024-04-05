@@ -1,8 +1,3 @@
- Po týdenním pátrání okresní správy Veřejné bezpečnosti České Budějovice ve spolupráci s plzeňskými kolegy se podařilo zajistit šestici pachatelů, z nichž dva jsou přímo z Hluboké nad Vltavou a Čtyři z Plzně.
- Nejhorší je, že nevole občanů se neobrací proti představitelům ministerstva vnitra, které mají otázky bezpečnosti a pořádku ve své pracovní náplni.
- Napsal jsem ředitelům všech hotelů tvrdý dopis, ve kterém jsem žádal, aby se o bezpečnost ve svých podnicích postarali.
- Bezpečnost života je přece to první, co občan požaduje.
- Co smysluplnějších věcí jsme mohli zatím udělat! Urbanistická koncepce, řešení ekologických problémů, infrastruktura - doprava, voda, elektrika, plyn - konečně pořádek a bezpečnost, to všechno musí být řízeno z jed noho místa.
- Jistě se soustředí na činnost Městské politické školy a na spolupráci pražských funkcionářů KSČ s bezpečností.
- Mroze, prezidenta ' I ns ti iuTu pro' stud i u m bezpečnosti í Východ - Západ, půjde pravděpodobně o největší přesun osob od druhé světové ; války.
- - Proč jste z Československa odešli? František Vaněček: Důvodů bylo několik, ale u všech byli v pozadí aktéry příslušníci Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f69af0e7f3b37c6091112a9e2db970df488fa187d896260975e5ff4d648933ed
+size 1304

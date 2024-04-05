@@ -1,1 +1,3 @@
-zákon zavlečený osoba rok zákon pomoc uprchlík rok představovat mimořádný humanitní čin Kongress umožnit velký počet oběť komunismus najčt bezpečí nový domov země
+version https://git-lfs.github.com/spec/v1
+oid sha256:a67bdc2fae7835bd066f8c0b6b2a50d66d1086dc4448f872289909f28252a524
+size 184

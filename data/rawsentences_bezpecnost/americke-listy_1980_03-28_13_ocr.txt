@@ -1,2 +1,3 @@
-” Jedním z podvrhů, jmenovaných ve studii CIA, byl falsifikát americké armádní příručky, v níž se mluvilo o používání levicových a teroristických organizací Spojenými státy- k vyděšení spojeneckých zemí a k tomu, aby- prý tyto země byly nuceny zpřísnit vnitřní bezpečnost.
- To proto, aby si státní tajná bezpečnost ušetřila zbytečný úkol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60809dbd622b0a4f1a5ea4e8409d463f3f6af50baf3bc7d39614a2505702025
+size 383

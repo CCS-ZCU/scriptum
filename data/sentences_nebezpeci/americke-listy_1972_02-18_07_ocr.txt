@@ -1,1 +1,3 @@
-odůvrdněný nebezpečí obviněný moci vzdálit dosah soudní pravomoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa76dd0c7b4ade76a418bfb43707e4b30c670d16159348b5af5fdd99959118c
+size 74

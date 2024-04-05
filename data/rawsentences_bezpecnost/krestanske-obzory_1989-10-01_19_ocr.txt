@@ -1,4 +1,3 @@
- o ponechal tak tajemníkům pro věci církevní,orgánům bezpečnosti a soudům,aby aplikovali ustanovení par.
- bezpečnosti.
- bezpečnost sa predsa len nevyhla zásahu ' a to v nedelu,po sv.
- Stálo by za úvahu,čo vie— dle slovenskú bezpečnost k tomu,aby pútnlkom odňali národné symboly, kt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e79fe9b3a588c07fce709f6f8121254f8ce8b0a3708df4e07fd50b95d7bb9e8
+size 307

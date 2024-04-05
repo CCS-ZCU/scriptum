@@ -1,2 +1,3 @@
-velký nebezpečí kritický přejímání klišé
-kádrovat zbývající alternativa mání
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd84948560b30cfae67b4a3879015318a57f54a7985e6a7b2f0789817d9ec76
+size 93

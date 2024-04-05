@@ -1,3 +1,3 @@
-” Toto prohlášení bylo rozesláno poté, co někteří signatáři Charty byli víckrát vyslýchaní státní bezpečností v souvislosti s jakýmisi teroristickými záměry blíže nejmenovaných skupin.
- Ceausescu — jako Tito — vychází ze zásady, “čím víc přátel pro svou zemi získám, tím víc posílím její nezávislost a bezpečnost.
- V Polsku bude mít na programu jednání o otázkách americko-polských hospodářských vztahů, středoevropské bezpečnosti a vztahu Západ-Východ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40762f7213309ffc83736df125cc3e8e79a9d5c770f1bc2b47058ec6d89cb53
+size 519

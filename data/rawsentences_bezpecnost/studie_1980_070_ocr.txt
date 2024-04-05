@@ -1,1 +1,3 @@
- Maršálu Zacharovovi se podařilo prosadit v politickém vedení rozšíření pravomocí generálního štábu o úkoly, které do té doby plnily různé státní komise a specielní služby státní bezpečnosti, a tím významně posílit jeho vliv a váhu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95baebfffa168a97154ab43fc119d503c7a1f5a3b198539334a3c6af8452e0ef
+size 264

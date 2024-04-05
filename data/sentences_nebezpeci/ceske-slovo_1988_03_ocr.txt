@@ -1,1 +1,3 @@
-dodávat západ pochopit smrtelný nebezpečí hrozit komunismus chtít dobrovolný smrt vyburcovat plný poznání
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4409f4b98f204e4471ec509d34763d3ccfed9684ac320172a52d80f4681a8ec
+size 116

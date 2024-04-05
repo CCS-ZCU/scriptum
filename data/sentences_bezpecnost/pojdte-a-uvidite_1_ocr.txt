@@ -1,2 +1,3 @@
-důvod křesťan zakládat bezpečnost bůh svoboda křehký ztrácet pokusit pra získat považovat ztupeň zdroj
-povolání církev lidé poutník hledat bezpečnost zjevný snadnost nabízet materiální zdroj zůstávat svobodný edem moce svět svoboda případ znamenat nedostatek solidarita hledání zranitelnost lidský bytost
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1316f499ad2770be841604f3419b25bb171b50d5317a61f4d2b014a52262e67
+size 336

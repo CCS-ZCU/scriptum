@@ -1,1 +1,3 @@
-obraz mluvit úzkost kaž dodenní ohrožení iluze klid bezpečí kuklo bolest zranění kouzelný štěstí dětství vysněný bezpečí chvíle zrození
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c884e5581d37ae42e6f0422e1601f9781616695dc52856359b5356e9a3d2574
+size 157

@@ -1,1 +1,3 @@
-civilista opouštět domov snaha dostat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd72c43c5c1da75eec059e272c23282d55b447920acc92ac5e41cbcca059deb8
+size 50

@@ -1,2 +1,3 @@
-KSČ existovat nebezpečí nový literární časopis sklouznout stát platforma názor ortodoxní případ většina literární kulturní časopis únor
-NASA věnovat rok výzkumný zkušební práce nebezpečí vyhnout vnitřní zařízení kabina Apollo základ změněný
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d30087fddead2a650623112e9ffc371781a149e11c00bb6a9db6fac1f8b992a
+size 277

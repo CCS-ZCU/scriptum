@@ -1,1 +1,3 @@
-podstata znamenat národ lid občan obyvatelstvo většina mít mluvit státní záležitost věc týkat spokojenost blahobyt bezpečí rozum
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa672af496e2e198660c4e0b6ba501107d3bfe3640242adf9f62af3a8ea8bca4
+size 142

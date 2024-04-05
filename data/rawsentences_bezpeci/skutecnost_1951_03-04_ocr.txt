@@ -1,1 +1,3 @@
- Co bylo vo- jáckému a uniformou deformovanému Ně- mecku nástrojem nadvlády a výboje, může se Německu demokratickému, německy a ne prusky sjednocenému, to jest federalisova- nému, Německu smířenému se svým země- pisným údělem a uvolněnému pro svoje ob- rovské kulturní a hospodářské úkoly, proká- zat jako záruka vlastního bezpečí a zdroj iíspěšné součinnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:577c2bdc1021814ed4388f6d74922102935d746a649fad9d696820136698e463
+size 390

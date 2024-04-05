@@ -1,1 +1,3 @@
-afa věstník
+version https://git-lfs.github.com/spec/v1
+oid sha256:1816c6c373072982039b26b6efc6f7a514fa50d8e2b6da0af8bdaed37161eb12
+size 13

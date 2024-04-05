@@ -1,1 +1,3 @@
-úkol jít ovce vybírat cesta ukazovat směr poskytovat pocit ochrana bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:52605088fe77a41e5220a0f6e32246d05d6147cfef17240425d8ae0a4c4ba903
+size 81

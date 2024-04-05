@@ -1,1 +1,3 @@
- Podporujte integraci Evropy v rámci širšího uspořádání severní polokoule, které bude založeno na vynutitelném dodržování lidských práv a které dnes zárodečně představuje Konference o bezpečnosti a spolupráci v Evropě, a jeho prostřednictvím posiluje mír a svobodu ve světě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:557eaa69ffb078bd0819cc371b19964617526eeee4788f7717475a864376fa9f
+size 305

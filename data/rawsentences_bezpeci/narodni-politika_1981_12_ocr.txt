@@ -1,2 +1,3 @@
- Takovéto události a jim podobné nás nenaplňuji pocitem klidu a bezpečí.
- V pondelok zatvorené! Platí jen v nemeckú KAŽDÝ HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79df11cd82596aaf471a9f7cdfa60b0d6d69c667e85e149ad167ad11153c2444
+size 139

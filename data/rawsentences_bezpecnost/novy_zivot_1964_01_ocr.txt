@@ -1,1 +1,3 @@
- CSSR je na rok 1961 členem Rady bezpečnosti OSN, v roce 1965 jím bude Malajsko.
+version https://git-lfs.github.com/spec/v1
+oid sha256:124ee72d2af9fb07be4f5d82c4ebc6dc775de33719422934e4c0b2dd19497a21
+size 84

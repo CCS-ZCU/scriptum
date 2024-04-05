@@ -1,6 +1,3 @@
- Gor- dona Skillinga československými bezpečnost.
- Žádosti a protesty skončily v aktech státní bezpečnosti jako kompromitující materiál proti jejich pisatelům a namísto odpovědi následovaly další nezákonnosti.
- Za tři hodiny jsme ve Světu — pijíce dvanáctou plzeň — viděli, jak ze dveří bezpečnosti vyšel Vladimír a Rotbauer.
- Protestujeme proti tomuto protiprávnímu jednání polské a československé bezpečnosti a žádáme, abyste se zasadili o nápravu jeho následků.
- Státní bezpečnost se již delší dobu soustřeďuje na lidi, jejichž jména nejsou ve veřejnosti obecně známá, nepíše se o nich v mezinárodním tisku, nejsou zkrátka populární.
- prezident Spojených států, Jimmy Carter, jeho poradce pro otázky národní bezpečnosti, dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7131518d3973a6b35cc2590d46dc8b8455e64f828a2a5a0a97c7e0a712ca5f31
+size 804

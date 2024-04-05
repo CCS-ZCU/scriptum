@@ -1,1 +1,3 @@
-moci obava nebezpečí jet muset dávat pozor vyblejskn radar
+version https://git-lfs.github.com/spec/v1
+oid sha256:503a59eb9b6084382241176545f73f78c75a33d79f872cfa9d5c2278398964a0
+size 62

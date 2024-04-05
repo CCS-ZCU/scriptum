@@ -1,8 +1,3 @@
-využití mentální energie možný určit mapa místo dojít zemský povrch výbuch minulost trvat nebezpečí současnost budoucnost
-první naděje druhý nebezpečí
-existovat nebezpečí lidé vzbuzený naděje způsob naplněný
-řtoč vážit život
-vysvětlovat zájem integralismus potřeba bránit víra nebezpečí zleva progresista
-Hodwigs dolehnout názor lidé plenout horlivost svatý náboženství dívat dostatečný pochopení rozumný úsudek dnešní doba vidět opovážlivost nebezpečí
-člověk opírat vyš šího přesahovat ocitat nebezpečí vydávat pospas bezmezný uvážený moc pseudo&bsolutismus ničit
-považovat povinnost zdůraznit náboženský křestanský základ světadíl mít vyloučený funkce inspirovat etika sociální úkol popřít celý dědictví minout octnout nebezpečí budoucnost obyvatel Evropa mluvit obyvatel Ivropi věřící věřící
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b41b664ee999f05ae67fe07de9960eaf1e4ba8d3f5b957641ab144039860b92
+size 745

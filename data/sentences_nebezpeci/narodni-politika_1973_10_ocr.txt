@@ -1,1 +1,3 @@
-měnit způsob provádění tkvět velký nebezpečí lidstvo koza
+version https://git-lfs.github.com/spec/v1
+oid sha256:73ab4857cad763621fc575e60135d371855357fd3a028ed4a180b1798abd0c6d
+size 67

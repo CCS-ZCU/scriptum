@@ -1,4 +1,3 @@
-lidé emigrant utečenec jezdit Československo vystavovat značný nebezpečí zneužitý zájem
-nebezpečí
-velký nebezpečí hrozit měsic fešácký kriminál zločin zákon obrana republika oběd večeře ulice
-člověk vstoupit nový vztah policie uvést život prvek nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a105c5c3292599e50672c2e00186856bb007386ae4de70066b7ac5c0b66c0b80
+size 287

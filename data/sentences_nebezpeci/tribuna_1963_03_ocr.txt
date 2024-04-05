@@ -1,1 +1,3 @@
-třetí argument Čína vyplývat předchozí ztratit revoluční elán boj buržoasie imperialismus spojovat činit egoistický zájem zájem mezinárodní proletářský hnutí sovětský argument nebezpečí atomický válka realistický upřímný západ válka odhodlý
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a01b7c9116104efbb19e254ca80a9ea411bd7f163895495f68619c2bbaa596b
+size 275

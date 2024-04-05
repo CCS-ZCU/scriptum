@@ -1,2 +1,3 @@
-národ zůstávat obsazený cizí armáda nebezpečí ohro ženost velký bezprostřední sousedství armáda západ východ pomezní čára stát blok těsný sousedství rok
-normalizace pobyt cizina způsobovat země osoba zbavovaný výhoda exulant dostat odebíraný pozměněný cestovní pas osobní identifikační doklad nebezpečí zbavovaný nabytý státní občanství
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d1c9f2f23403b09015da486977ed77fad1cb541897cdc0f7e28f73b80aed0ba
+size 380

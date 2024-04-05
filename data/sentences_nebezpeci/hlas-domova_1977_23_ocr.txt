@@ -1,4 +1,3 @@
-velký vybčít jakostní MASA uzenina druh mapa nebezpečí Ferdinand Peroutka
-otázický Palestina založený odhad nebezpečí třeba vojenský
-velký nebezpečí Israel řečený trvalý okupace arabský území
-mapa nebezpečí pokračování strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a89270f281cc7e5ededa245f50923b67088759453d59c03c7de7665cf8aec8
+size 260

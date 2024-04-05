@@ -1,4 +1,3 @@
- O zpřístupnění svazků bývalé Státní bezpečnosti Zákon byl přijat parlamentem ČR 26.
- Svazkem se rozumí samostatný dokumentační soubor, založený a vedený Státní bezpečností o fyzické osobě zařazené StB v období od 25.
- Nesrovnalosti a rozpory během procesu svědčí o tom, že celý případ vyprovokovala bezpečnost.
- Politická nezávislosť Československa, člena Spojených národov, bola teda narušená hrozbou použitia násilia zo strany iného člena Spojených národov, čo je priame porušenie § 4, články 2 Charty- Ako zástupca zvrchovaného Československého štátu oznamujem Rade bezpečnosti túto situáciu, zodpovedajúcu článku 34 Charty a prosím o jej vyšetrenie ako prípadu, ktorý potláča slobodu a nezávislosť Československa a môže ohroziť zachovanie medzinárodného mieru a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f60764d933030234a939b6854903408607140dca5d73b95a315fa383f2c5e13c
+size 865

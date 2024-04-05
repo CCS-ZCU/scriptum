@@ -1,1 +1,3 @@
- Lustrujeme agenty státní bezpečnosti, ale nezveřejňujeme příslušníky StB, jak se stalo v Německu, nezveřejňujeme příslušníky Lidových milicí, jména nelidských vězeňských dozorců, soudců, prokurátorů, soudících podle příkazů KSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b9e75fa58b123fa3d4bfb3dbc5e6a01363e1cebb5bf0e574bcb3311c5a2553d
+size 263

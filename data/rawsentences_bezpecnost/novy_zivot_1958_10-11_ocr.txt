@@ -1,2 +1,3 @@
- Petra a přál tehdy všem přítomným, aby » blízká mezinárodní rozhodnutí přinesla naší zemi zevnější bezpečnost a vnitřní mír, m ír zakládající se na rovnosti práv pro všechny.
- Zavedl přísahu nových biskupů před nastoupením úřadu, že budou dbáti blaha, bezpečnosti a celistvosti republiky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3d56d1619831c5a0be8a71deb27b4a98090dc8cd7f3c5c17e13a539f68795f
+size 329

@@ -1,1 +1,3 @@
-dopis Jugoslávie
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfaee8b002334bedc583aa2dcf8aced4c361d44135909b33ede69948551e549f
+size 18

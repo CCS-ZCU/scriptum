@@ -1,1 +1,3 @@
-moskevský propaganda producírovat téma Stockholm mít mluvit technický kontrolní opatření snížit nebezpečí konflikt Evropa vést vytváření důvěra blok
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f665811bb2b02a17a9eba3327e8b4ad725f6f9cbd8bc27dd918c807b078ad89
+size 167

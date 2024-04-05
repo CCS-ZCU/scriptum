@@ -1,2 +1,3 @@
-Maďarsko stavěný šibenice sovět zabít maďarský ministerský předseda Nagvi Dubček doba slíbit bezpečnost
-známý ostrý muž Gierekův soupeř zápas vysoký moc Mieczyslaw Mcczar mít starost armáda bezpečnost zapůsobit bezděčný vtipálka zdravotnictví
+version https://git-lfs.github.com/spec/v1
+oid sha256:4899273df096433007fb1ae90e65014455c3a01891140007d534c1326f3c93e9
+size 273

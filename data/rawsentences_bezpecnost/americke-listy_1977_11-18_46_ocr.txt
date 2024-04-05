@@ -1,2 +1,3 @@
- Joshua Eilberg teď zveřejnil své poznámky z tohoto rozhovoru; jak sám řekl, poté, co ho Hanzelka ujistil, že publikace výroků •neohrozí jeho bezpečnost v Československu.
- II stanov: Účelem RSČS je usilovat o obnovu svobodné, nezávislé a demokratické Československé republiky a účastnit se úsilí o vytvoření svobodné sjednocené Evropy a světového řádu, založeného na spolupráci, míru a bezpečnosti, právu a spravedlnosti, o- chraně lidských práv a státní svrchovanosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b0213d42b86731f63044bd11c0293b7171183e54179901db77c2ccac84744f9
+size 517

@@ -1,5 +1,3 @@
-bot vin sovětský invase Československo napsat moskevský pravda článek nebezpečí reformistický tendence Ukrajina
-situace ovso zkomplikovat změna vláda Indie Indir Gándhiová vracet důsledek osobní protizápadní komplex politika kolaborace Moskva čínský pakistanský nebezpečí
-krajan exulant zamýšlet tisk žít okolnost vydávat nebezpečí vystavený
-vyvolávat nebezpečí hospodářský recese nezaměstnanost sociální neklid
-Mnichov připomínat nebezpečí skrývat důsledný řešení problém vyhýbat řešit úkor jiný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc7d88c3c48563eddeec7c20083c7715cdce7dc2008f4674bf903209fc7db2b
+size 552

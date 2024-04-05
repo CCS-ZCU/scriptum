@@ -1,2 +1,3 @@
- Týdeník Weltwoche referoval rozsáhlým článkem o útěku kapitána bezpečnosti Alexeje Žáka, bývalého vyšetřovatele machinací v družstvu DAK Slušovice, pod ochranná křídla švýcarské federace, protože se ve své vlasti cítil ohrožován na životě.
- - bezpečnost v anonymním bloku je pro seniory vždy problémem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfcb78a60bd62102268ec6a6d545e4b4331a43d2f3d6dcae0f8d39a39fdf6c82
+size 340

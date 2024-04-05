@@ -1,1 +1,3 @@
- Celkem vhod mi přišla nabídka, abych se zapojil do práce občanské komise, která měla za úkol zmapovat práci Státní (bezpečnosti na našem okrese.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a8f205c921aa2814f628080950f9f8ee5e5139d32b470b82c07e60e7c848b0c
+size 160

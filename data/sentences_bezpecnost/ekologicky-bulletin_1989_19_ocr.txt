@@ -1,6 +1,3 @@
-bezpečnost kěc dosažený sněný
-Jsne ton směna záviset bezpečnost blahobyt vytrvání život země
-zvýšený produkce potravina nést založený zdravý strategie mít ohrožovat výhled pre potravinový bezpečnost
-wvas území zajímavý sledovat fungovat bezpečnost rozhořčený tvrdit zlsaba zvyklý pracující bratrský Poleká
-ekologický bezpečnost náležet lidský právo ležet oblast maěe zajem
-mezinárodní úmluva mezinárodní ekologický bezpečnost zajlitěný ekologický bezpečnost jednotlivý stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:2768df514d7fef3dab15bdbafd8321314bce1ae8ffa105fc3d02fdbd12d5b76f
+size 533

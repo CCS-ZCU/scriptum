@@ -1,1 +1,3 @@
-Otce a jeho bezpečnost plně určeno, prosíme upusťte od psaní dobře míněných rad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:002fc261650b4d4979b5ef5e11f71869cb6fb1fddf9c630c5e1121b28f100613
+size 91

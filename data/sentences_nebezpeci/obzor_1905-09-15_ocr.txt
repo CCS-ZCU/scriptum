@@ -1,3 +1,3 @@
-udržet cena přiměřený výše lidstvo vydaný nebezpečí hlad
-nebezpečí
-prostředek první nebezpečí odstranit tuka nabýt čas opatřený další lék
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a375c3ad1fb2c2fccbcb427dee37eb507167ad166306338eecd65261f3d43d6
+size 161

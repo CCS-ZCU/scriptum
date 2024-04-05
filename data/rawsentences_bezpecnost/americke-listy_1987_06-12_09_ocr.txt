@@ -1,4 +1,3 @@
- Pro Washington však dnes otázka zní: může sama americká vlajka zaručit kuvajtským lodím bezpečnost? Pravděpodobně nikoliv, rozhodnutí se proto odložilo o několik týdnů a o věci se diskutuje v Kongresu.
- Bezpečnost obchodní námořní Francouzská akademie krásných umění, která má víc nežli třistaletou tradici a k jejímž zahraničním členům patří takové osobnosti jako Salvátore Dali nebo Federico Fellini, jmenovala za svého nového zahraničního člena bývalého amerického prezidenta RICHARDA NIXONA.
- Sovětský delegát Morozov tento týden řekl, že jeho delegace bude západní návrhy o lidských právech tak dlouho blokovat, dokud Západ neprojeví zájem o východní návrhy na poli vojenské bezpečnosti.
- Průběh soudu byl skandální, počet příslušníků státní bezpečnosti, kteří předváděli oba obžalované v poutech do soudní síně byl zvýšen na sedm osob proti dvěma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7993676669a0a247435e48e347032993255c948208936031438b55eaeda3ba50
+size 951

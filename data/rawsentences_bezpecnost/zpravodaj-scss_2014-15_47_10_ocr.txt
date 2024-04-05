@@ -1,1 +1,3 @@
- Šéf české diplomacie však ocenil jednotlivce, kteří v Praze uprchlíkům pomáhali, ačkoli jim to mohlo přinést řadu problémů s agenty Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65be998fb1e9f0780de486f888534293d1776b89fd855647e2d6771eae89423d
+size 172

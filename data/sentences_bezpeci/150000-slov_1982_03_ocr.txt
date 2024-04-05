@@ -1,1 +1,3 @@
-moci lepší cítit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c44ea4e6031ec3cda632799d77bd1a9078da6e7d4aa50152eac9cc95940e67a
+size 30

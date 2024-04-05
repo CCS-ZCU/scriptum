@@ -1,8 +1,3 @@
- Podobně bude hledat' Wilsono- va vláda příležitost budovat bezpečnější a produktivnější vztahy se Sovětským svazem a použije svého vlivu, aby celoevropská konference o bezpečnosti a spolupráci byla přivedena k úspěšnému konci.
- ÚTOK NA ČÍNU Sovětský armádni orgán “Krasnaja zvězda” zaútočil znovu na Peking jako nepřítele normalizace v jihový- chodní Asii a odpůrce plánu na vytvoření asijského systému kolektivní] bezpečnosti.
- Krasnaja zvězda počítá ke stoupencům systému kolektivní bezpečnosti v Asii Indii, Bangla Déš, Irán, Irák, Sýrii, Malajsii a Srí Lanku.
- Podle člán- ku, který vyšel v hlavním čínském tiskovém orgánu Žen Min Ži Pao s nadpisem “Expansivní snahy sovětských revisionistů a sociál- imperialistů v jihovýchodní Asii”, je myšlenka systému kolektivní bezpečnosti příliš průhledným trikem, jímž chce Moskva rozšířit sféru svého vlivu, než aby měla skutečně širokou a příznivou odezvu.
- Podle tohoto článku je bezpečnost v Asii ohrožena především tím, že v Indickém oceáně! je teď přítomno sovětské válečné loďstvo a že obě světové su- pervelmoci zápasí o vliv v jihovýchodní Asii.
- čínskou tézí je, že předpokladem míru a bezpečnosti v Asii je vyřazeni obou supervelmocí z této oblasti.
- Že bezpečnost západní Evropy závisí na Spojených státech, uznávají všichni — ba i Francie.
- V očích Bonnu se například Blízký východ dotýká bezpečnosti a životaschopnosti západní Evropy nepoměrně víc než Spo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f14e3aa989e5bd04104d33ff1f87d0a78e36ec50db09f1ddf73f5969eed313bb
+size 1598

@@ -1,4 +1,3 @@
- Až po roce 1989 jsme se dozvěděli, že jeden člověk, který bydlel nedaleko nás a ode mne přebíral opisy písemností Charty, samizdatu a který nás přesvědčoval k odchodu, byl agentem Stb /Státní bezpečnost/.
- jp 28  Estébáci vyvázli s podmínkou Za šikanování disidentů půjde do vězení - na tři roky - pouze jediný důstojník bývalé Státní bezpečnosti.
- Určitý problém ovšem představuje zajištění bezpečnosti stanice, které ještě není dořešeno.
- ♦ ♦ ♦ Češi mi připadali hrozně zlí _______ Nikola Brabencová Osudy dvou chartistických dětí, jejichž rodiny zažily zastrašováni komunistickou Státní bezpečnosti V minulých týdnech probíhal další soud kvůli akci Asanace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:978d87a0c7cf13c17d02cdcebd0b971a878bd7aa1ed0aeaa615d245d173ff8d6
+size 745

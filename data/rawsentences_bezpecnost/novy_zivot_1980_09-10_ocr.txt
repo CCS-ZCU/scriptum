@@ -1,12 +1,3 @@
- V době poúnorové pohár trpělivosti ovšem přetekl, ač Miroslav po nějakou dobu ještě zůstal na svém místě ředitele národní bezpečnosti.
- Komunistická správa, zdůrazňujíc oddanost vůči lidu, pohotovost Národní bezpečnosti, neúplatnost a jiné vlastnosti, snažila se udržet zdání, že únor značí všestranné zlepšení.
- Jeden ze stovek oběžníků hlavního velitelství Sboru národní bezpečnosti nabádal podřízené: »Ve službě a zvláště ve styku se stranami buďme přívětiví! Úsměv a vtip usnadňují obtížný úřední výkon a pomáhají překonávat předsudky NSR.
- Americká návštěvnice poúnorového Československa, posluchačka sociologie, českého původu a znalá češtiny, se dostaví na úřad Národní bezpečnosti, aby se ve shodě s předpisy o evidenci cizinců přihlásila k několikadennímu pobytu v městě.
-« Druhá Miroslavova epizoda byla neméně charakteristická a želbohu neméně pravdivá s tím rozdílem, že na ní byla účastna nikoli Národní bezpečnost, ale správa cizineckého ruchu.
- A tak jedna stanice Národní bezpečnosti, dříve stanice četnická, kdesi na Českomoravské vysočině, byla obsazena dvěma nově přijatými mladíky pod velením strážmistra ze staré školy.
- Převedli ho z místa ředitele Národní bezpečnosti do funkce méně nebezpečné, byť sociálně důležité, ba odpověd- 168  rozhledy OD HELSINKI K MADRIDU 1.
- Jestliže však uvážíme, že před pouhými pěti lety ti, kdo podepsali dokument, se všemi těmito zásadami souhlasili a dnes naopak se zdá, že se na ně již zapomnělo, můžeme ještě mluvit o velkých nadějích? Je pravda, že údobí po Helsinské konferenci se nevyznačovalo skvělými úspěchy na poli vzájemné spolupráce a ani pokud jde o bezpečnost, přece jen její výsledky se znatelně projevovaly, především tím, že na tento dokument se lidé často odvolávali.
- Budete přece i v továrně pečovat o veřejnou bezpečnost.
- Mezitím se konference pro evropskou bezpečnost a spolupráci znovu sešla r.
- Alena Benešová, poté promluvil romanopisec Vilém Hejl o faktografii doby, o stalinské justici padesátých let a o funkci Státní bezpečnosti vedené a dirigované sovětskými poradci.
- Horáková v roce 1949 a v procesu inscenovaném státní bezpečností byla odsouzena k trestu smrti a popravena v Praze v červnu 1950.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f945529a4627cc5152f02dc485e1d3e41e4b529ac4ef44c67dc96c4d78cca71e
+size 2438

@@ -1,1 +1,3 @@
-úkryt Mexiko poukázat hanba básník jeunat odboj vinný stát obránce čast moci vzpomenout clít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f833a1ce9c998ec3880fc4d4e385fe196a109b7e48653156bababdfa34e16f3a
+size 102

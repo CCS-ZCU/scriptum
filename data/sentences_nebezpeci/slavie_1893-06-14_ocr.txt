@@ -1,7 +1,3 @@
-dotýkat jednota
-účinek politický mít šílení
-okolnost moci Německo hodina nebezpečí spole hnout
-rozmýšlet učinit malý pokus známý upozornit hrozící nebezpečí zbývat čas Booth předstoupit chopivit muž vyzvednout platforma
-zachráněný možený seznat nebezpečí uniknout moci zátek chranec poděkovat úklona podání ruka
-připomínat revue scientifique doba první výprava Bvět nebezpečí mutít překonat ohrožený cestovatel století šestnáctý
-VtSM llikiiil lisMll vyobrazený přístroj použití obyčejný keroBinový kékol jídě°nočna odstranit nebezpečí srážka povoz převrhnutý náraz
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb53fb1f91185176415e694515b3263a40e0b8177a339f3da7c2e942681f502
+size 644

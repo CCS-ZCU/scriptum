@@ -1,1 +1,3 @@
- Profesor Hýsek od odpovědnosti neutekl! Ti, kdož na něho tehdy z bezpečí exilu útočili, bili bezbranného člověka a — skoro se bojím užít toho zprofanovaného jména — vlastence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc409305201584d4ad6aaba38f42fe44fe76e025f25a7d8eb4be71dd0b7ae348
+size 155

@@ -1,18 +1,3 @@
- - Akceptování neplatnosti smlouvy z roku 1945 by podle některých názorů ovšem znamenalo zpochybnění současných hranic a rozpor se závěrečným aktem Helsinských dohod o bezpečnosti a spolupráci v Evropě.
- Druhá otázka je bezpečnost lidí, klid, soustředěná práce.
- Tratě jsou v havarijním stavu a nejsou pemze ani na jejich prostou reprodukci, a proto bude nutno zajistit bezpečnost provozu dalším snižováním rychlosti.
- Mikloška: "Kto bol prvý človek, ktorý ma pozval a povedal, že našiel na stole tri materiály štátnej bezpečnosti: Budajov, ministra Koštu a I.
- Klo bol ten, kto za mnou prišiel a priniesol mi zoznam kňazov, ktorí boli na zozname Štátnej bezpečnosti? Bol to pán Mcčiar.
- Kto bol ten, ktorý v branno-bezpečnosl- nom výbore menoval jedného vysokého cirkevného hodnostára, že je agentom Štátnej bezpečnosti? Bol lo pán Mečiar.
- Kto bol ten, ktorý oznámil pánu Pitharto- vi, že má zoznamy štátnej bezpečnosti? A ked sa ho pán Pilhart opýtal, či to týmto ľudom hovorí, povedal, že áno, samozrejme.
- Zakázali jsme brutální postup Bezpečnosti, ale situace sc jí vymkla z ruky.
- Byl zejména v poslední době ostře kritizován pravicovými stranami, že generální prokuratura ČSFR nemá koncepci vyšetřování porušování lidských práv v minulosti a neřeší případy vyšetřovatelů bezpečnosti, zejména StB, kteří se dopustili trestných činů.
- Byl také krátce na to zatčen a Bezpečnost do Slánského výpovědi vsunula pasus, že jako nepřítel záměrně špatně Gottwalda léčil, aby lak zkrátil jeho život.
- Wonka poskytoval informace Státní bezpečnosti o vlivných osobách ve Vrchlabí a v Trutnově, dále některé jakoby zpravodajské údaje ze zahraničí a též informace o svých kontaktech s nezávislými iniciativami.
- hospodářství a posílilo by to stabilitu i bezpečnost státu.
- Onedlho po tomto rozhovore Imrich Karvaš dohodol s nič netušiacim šéfom Ústrednej štátnej bezpečnosti tajný a bezpečný sprievod budúcich zásielok slovenského zlata do Viedne.
- Vrátili sa do Slupavy, na stanicu Národnej bezpečnosti.
- Obávám se, že jediným efektem pokusů o takový postup by mohl být právní chaos ohrožující bezpečnost obou republik, trhající rozsáhlou a pracně spředenou síť mezinárodních smluv a vazeb dnešního Československa, rozbíjející jeho mezinárodní postavení a nesmírně komplikující celou jeho probíhající společenskou a hospodářskou transformaci.
- Já jsem se tehdy domníval, že ty peníze poslala Státní bezpečnost.
- prednosta Ústredný štátnej bezpečnosti JUDr.
- Jde o vztahy k Německu i vůči spojeneckým zemím z tehdejší doby, které zajišťovaly stabilitu a bezpečnost Československa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ac02ff49291eff3863f25546ee901530ceb8e235c1fe43eab2ea64ed8d89d4
+size 2825

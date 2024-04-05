@@ -1,2 +1,3 @@
-" Z Husákových úst sa dověděli, že vo zmluve je "vyjadrená pevná vSía našich krajín k tomu, aby boli podniknuté všetky potrebné opatrenia pre obranu socialistických vymožeností sovietskeho a československého fudu, pre upevnenie bezpečnosti oboch krajín.
- A CO ZÍTRA 1 /Dokončení se str,2/ i bezpečnost svého nejspolehlivějšího, vojensky i hospodářsky nejschopnějšího spojence v Asii - Čínskou národní vládu v Taiwanu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef06db6b068754ba71ffc8291d7ed29e1a9ab678d6bb622549fabf71f5a02ff7
+size 457

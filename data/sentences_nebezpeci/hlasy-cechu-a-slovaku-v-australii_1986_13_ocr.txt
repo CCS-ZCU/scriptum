@@ -1,1 +1,3 @@
-nebezpečí mezinárodní kapitalista vidět vidět chtít
+version https://git-lfs.github.com/spec/v1
+oid sha256:7080a43fb802ed48c5c452b4ea6f729466b44691b46ed435ddbed02d55d2bff8
+size 59

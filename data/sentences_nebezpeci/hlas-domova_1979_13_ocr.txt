@@ -1,1 +1,3 @@
-okamžik smrtelný nebezpečí literatura obrátit podstata západní totožnost prosazovat osobní dobrodružství pochybovat ztuhlý obraz svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1ab0a618f59359885e4fc2c505bee27fd57fa6d023dc9fdbcfb9f69771a4b5b
+size 147

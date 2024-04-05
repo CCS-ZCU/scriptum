@@ -1,1 +1,3 @@
- • V Brně byla otevřena výstava o trestné činnosti v ČSSR a proti CSSR » Za bezpečnost socialistické republiky « — o zneužívání cestovních dokumentů k emigraci, o vysílání zahraničních vysílačů, o ideologické diverzi proti ČSSR — k tomu účelu prý se v zahraničí vydává tři miliony tiskovin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6ce7185f11fe5be3fcb4d531d8b2fa7ce3cf254b9e9d0a191d215ec02508f3f
+size 331

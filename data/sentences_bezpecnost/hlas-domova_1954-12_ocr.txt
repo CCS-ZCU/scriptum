@@ -1,2 +1,3 @@
-bezpečnost oznamovat přednosta jednotlivý poštovní úřad lidé mít zájem
-pošta zadržovat posílat zvláštní schránka okresní poštovní úřad uvědomit státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a080ee776d904de08340e28d88b0c349f8f3d02cb5b38fac77eb55c4c56195
+size 188

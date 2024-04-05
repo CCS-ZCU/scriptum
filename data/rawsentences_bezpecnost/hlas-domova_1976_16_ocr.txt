@@ -1,2 +1,3 @@
-signatářů helsinského Závěrečného aktu, ujišťování, že ‘‘pokud jde o otázky upevnění evropské bezpečnosti, mnohá fakta hovoří o tom, že to je pouze Sovětský sraz a další socialistické státy, které ji neustále prósažůjf’ ; pou''dosavadních ; ■ zkušenostech (Pokračování na str.
- Kuratoriu pro výchovu mládeže, o redaktoru Rudého práva Janu Li- pavském, který přispíval za války do fašistického listu Vlajka, Dobroslavu Kopeckém; který vystudoval doktorát theologie, kompromitoval se za nacistické okupace a po válce se dal do služeb Státní bezpečnosti a který pracuje v zahraniční sekci Čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d01990a5fc4073f44f4ffbc7c598431dba880f1448cabff2811fa379defdad9b
+size 661

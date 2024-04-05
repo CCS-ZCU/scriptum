@@ -1,6 +1,3 @@
-vytoužený zátiší obal měkkost bezpečí pocit ztratit bezelstnost dětství
-untungův marxistický pučista vyjít komunismus ted indonéský západní Irián nový Guinea sahat krk xulant utéci bezpečný bezpečí
-vratký základ existence klika generál přežít komunistický puč záviset bezpečí útulek komunismus druhý konec svět
-Timor jediný představitelný hrozba fiktivní bezpečí
-malý změna politický nazírání vůdce rudý Cína sblížení ideologický bratranec sovětský svaz dát věk vyloučit bezpečí australský kontinent
-hledat bezpečí svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8481ea32e54776908b284535bc2ce46f75c06419f811ea19f7912c548530e7a
+size 590

@@ -1,1 +1,3 @@
-nebezpečí zamoření SSSR zvyšovat tamní nukleární redaktor
+version https://git-lfs.github.com/spec/v1
+oid sha256:336ae49b7f56455d6dbd99c8f8c4aa0ec9cd1904dbf3724deae39b0458dcdd3a
+size 66

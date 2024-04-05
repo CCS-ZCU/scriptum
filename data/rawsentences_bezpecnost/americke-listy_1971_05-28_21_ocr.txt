@@ -1,7 +1,3 @@
- 21 — Price 10<- Listy Agent STB varuje Husáka Západoněmecký časopis Spiegel uveřejňuje výtah z dopisu zaslaného nejmenovaným československým agentem státní bezpečnosti G.
-li agenti státní bezpečnosti a úzká, asi sedmičlenná skupina hlavních komunistických vůdců, Gottwaldem počínajíc.
- Karel Šváb, šéf státní bezpečnosti a náměstek minisira vnitra, klerý pak zahynul v Ferdinand Peroutka procesu spolu se Slánským, prohlásil: "Osvojil jsem si, že to, co provádíme — úzká skupina představující vedení strany — je správné, i kdyby to tisíckrát bylo v rozporu se zákonem a mělo i zločinný charakter.
- "Ladislav Kopřiva, bývalý ministr národní bezpečnosti; "Ano, to zatýkání odporovalo zákonům, ale tenkrát se na to nebral zřetel.
- Exiloví Chorváti už ohlásili, že atentátníky je nutné hledat ve státní bezpečnosti jugoslávské republiky.
- A komise doporučila, aby ti političtí funkcionáři a ti pracovníci bezpečnosti, kteří měli podíl na procesech,, už nikdy nezastávali vysoké stranické státní funkce a nepracovali v oblasti policejní a justiční.
- Sověty, které se nazývají internacionálou, drží se podmínek jako Shylock se držel přiřčené mu libry masa z czího těla, a trestají nyní československou komunistickou stranu, jak kdysi trestaly polskou a maďarskou Už jsme psali o případu kubánského básníka Padilly — který by] v roce 1968 vyznamenán státní cenou a v březnu 1971 zatčen, 37 dni vyslýchán státní bezpečnosti a jí přinucen k sebeobviněnim, obsaženým v přiznáni o 4000 slovech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e95f03bad79ffcc574a37c24f8123c17999bcd3e5e17872d21d03e1eea61f0fc
+size 1642

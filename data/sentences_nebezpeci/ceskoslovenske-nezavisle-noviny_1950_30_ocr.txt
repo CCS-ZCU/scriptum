@@ -1,3 +1,3 @@
-tázka znovuvyzbro jeňit Německo
-předseda výzbrojní úřad Symington zástupce dělnický odbory shrnout znatek komunistický nebezpečí bodůil uplynulý léta vzrůst počet obyvatel svět
-profesionál
+version https://git-lfs.github.com/spec/v1
+oid sha256:e68b7fb7672de45c89420f73290f8a7d674c92a5d70b2cf7903ccf825e844240
+size 210

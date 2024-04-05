@@ -1,1 +1,3 @@
-bezpečí existenční zajištění veřejný pořádek život potřeba starý jiný národ zůstat vyspělý
+version https://git-lfs.github.com/spec/v1
+oid sha256:9966d9c5ef118028d77eb354e1faf3a96d5249647609b370f341c1aae8f81ed6
+size 110

@@ -1,5 +1,3 @@
-irský protestant myslit papež nepřítel představovat nebezpečí hrozba
-spravedlivý rozdělení první pramen nebezpečí ohrožovat lidský právo vázaný rozdělení materiální dober rozdělení spravedlivý jednotlivý společenství celý svět
-spravedlnost duchovní pole existovat druhý zdroj ohrožující člověk dotknutelný právo tvořit první zdroj nebezpečí mír
-přehlížit účast příslušný orgán vystavovat nebezpečí pole vnitřní člověk ukládat norma omezení odporující náboženský potřeba
-autor článek šířit neúspěch poslední vyjednávání svatý stolec Praha zesílení ateistický propaganda růst nebezpečí odkřesťanění osud řeholní řád společnost hrozit pozvolný vymření
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fca3d7e71d47c31da26ce5cba3768c0bafc07df82f549de2eada5811eebc98f
+size 747

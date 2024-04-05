@@ -1,1 +1,3 @@
-vojenský odborník považovat syrský okupace Libanon skutečný nebezpečí vycházet předpoklad Sýrie chtít riskovat nový válečný kon flikt jednotka Golan schopný zvládnout izraelský protiútok
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29b61e9bb55ef62d56f04f838326d42c2a0c7cdd58331788d356c6c607809d2
+size 207

@@ -1,6 +1,3 @@
-Mosek pochopit úlevný bezpečí rozkaz
-viset rozdrobit poslední zbytek malo mocný bezpečí
-sát část bezpečí idyla venkovský život praset venkovský život chlívka jaro bílý prase polidštěný slyšet jméno projevovat radost příchod budoucí poživatel přinášet zbytek oběda požít požít požít
-milý dětský pocit bezpečí prasečí koutek připravit varhanní koncert vymyslit první věta dopis vymyslit druhý strana říkat koncert slyšet
-spout názitat složka paralelismus lze spoutat spisovatel přestat publikovat bezpečí dorozumění dílo šířit svět nedorozumění
-divák přihlížet křeslo lóže zvaný svobodný svět moci hra připadat zajímavý přitažlivý
+version https://git-lfs.github.com/spec/v1
+oid sha256:380bd6c9b3b0581168edbd36abc1a0cf3086acd6bdcd43cb986ba339729df4a0
+size 572

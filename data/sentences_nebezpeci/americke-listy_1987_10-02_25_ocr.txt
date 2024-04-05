@@ -1,1 +1,3 @@
-pekingský ulice vládnout názor západní korespondent naprostý anarchie chodce lidé jízdní kolo umět odhadovat nebezpečí hrozit jedoucí automobil mnohý majitel nový vůz taxikář mít jmensit ponětí pravidlo silniční provoz
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ccbb4417519bc8249b203a166e0de044a0f7192612ae371669972c8caaae355
+size 242

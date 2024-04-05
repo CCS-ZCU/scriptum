@@ -1,2 +1,3 @@
- MADRIDSKÁ KONFERENCE BUDE LIMITOVÁNA? O lidských právech se v minulých dnech hovořilo rovněž na madridské konferenci o bezpečnosti a spolupráci v Evropě.
- A nakonec pravou situaci při tomto jednání o bezpečnosti a spolupráci v Evropě dokazuje nejlépe návrh švýcarského delegáta Brun- nera, aby jednání konference bylo limitováno do 25.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf76ac8ba053e0a187751f971f41a95455e0f0aa618ffc15e0d728fd20ff790
+size 364

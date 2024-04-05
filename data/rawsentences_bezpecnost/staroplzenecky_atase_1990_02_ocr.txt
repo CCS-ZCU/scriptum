@@ -1,3 +1,3 @@
- Křížek, příslušník Veřejné bezpečnosti-, který získal několik spolupracovníků, mezi nimi i svoji manželku Bronislavu, rozenou Voldánovou.
-října protoko1 výpovědi uvádě1: "Na předes- třenou otázku, zda jsem s někým mluvil o IS, nebo někomu o této slu- žbě psal, nebo někdo mně, prohlašuji, že mimo velitele STB v Brně jsem s nikým o IS nemluvil, nikomu nepsal, ani od nikoho dopis o IS neobdržel," Poté následovaly porady u ministra národní bezpečnosti o dalším postupu ve vyšetřování případu 0.
- Proti němu stály útvary bezpečnosti, politické orgány, velká část veřejnosti, a on tyl vlastně sám, osamělý, dokonale izolovaný oc! sv^ta, fyzicky značně trpěl a unavený pod silným psichyckýr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:212b28ee9e8b66636957269377a2fe81242eb127d8e1eb51488d1a25b10a32a1
+size 763

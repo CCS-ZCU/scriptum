@@ -1,6 +1,3 @@
- V padesátých letech se také etabloval jako úspěšný představitel soudobé filmové kriminalistiky coby kapitán - detektiv Sboru národní bezpečnosti po boku Josefa Beka.
- Füle se stane českým kandidátem na místo šéfa OBSE Diplomat Štefan Füle bude kandidátem České republiky na místo generálního tajemníka Organizace pro bezpečnost a spolupráci v Evropě (OBSE) pro nadcházející tříleté funkční období.
- Před 75 lety byl proveden atentát na Reinharda Heydricha Reinhard Tristan Eugen Heydrich byl prominentní nacista, blízký spolupracovník Heinricha Himmlera a druhý nejvyšší představitel SS (Obergruppenführer SS) a generál policie, šéf Hlavního úřadu říšské bezpečnosti (RSHA) a Bezpečnostní služby (SD), v letech 1941-1942 zastupující říšský protektor protektorátu Čechy a Morava.
- Důvod k jakýmkoliv obavám o lidské zdraví neexistuje ani podle předsedkyŽIVOTNÍ PROSTŘEDÍ ně Státního úřadu pro jadernou bezpečnost Dany Drábo- vé.
- Ivan Chvatík, ktorý Patočku poznal osobne, si zaspomínal na pokusy štátnej bezpečnosti znemožniť vystúpenia rečníkom hlukom helikoptér a motocyklov a taktiež na duchaplnú záchrannú akciu, vďaka ktorej sa včas evakuovali Pa- točkove písomnosti.
- Všechny prostory současně odpovídají požadavkům na bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e58ca0480c0cd6d84b69eea7d0310a0dc1512afc9ea7fd24c20809cd7dc2c72
+size 1361

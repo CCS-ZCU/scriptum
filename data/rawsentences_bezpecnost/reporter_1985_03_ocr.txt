@@ -1,12 +1,3 @@
- Ani o ještě věhlasnější Státní bezpečnosti nebo dokonce o KGB.
- Mnozí z nich se v minulosti dopustili trestných činů, jsou to opilci a karbaníci, zloději a pasáci, o kterých to režim a jeho Bezpečnost ví, ale je jim to tolerováno za jejich činnost proti svým spoluobčanům.
- Špiclují své spoluobčany a píší o nich hlášení na národní výbory a Bezpečnost, jsou ochotni k instalování odposlouchávacího zařízení a televizní kamery ve svých bytech pro sledování svých spoluobčanů.
- Jsou to ti, kteří se angažují v KSČ a SČSP a v ROH, aby dosáhli lepšího postavení v zaměstnání na úkor druhých, když už na ně nestačí svým rozumem ani vzděláním, jsou to ti, kteří za odměnu jezdí pak do zahraničí, západního - samozřejmě, aby se vtírali do přízně příbuzných a známých, vyžírali je a žili na jejich úkor, aby pak o nich sepisovali pro Státní bezpečnost hlášení, pomlouvali je a psali o nich vymyšlené zprávy.
- Byli ochotni učinit pro režim cokoliv, protože se režimu báli, protože režim prostřednictvím své Bezpečnosti o nich ví své a dovede toho v případě potřeby správně využít.
- Jiní kvůli tomu přestanou poslouchat Svobodnou Evropu a Hlas Ameriky a přeorientují se na Hvězdu nebo Interprogram, aby si poslechli zprávy, vyrobené dezinformačním oddělením Státní bezpečnosti.
- Nejhorší však snad jsou ti, kteří chodí na školení přímo na Bezpečnost a tam dostávají konkrétní pokyny pro svou práci, doma pak zapínají odposlouchávací zařízení nebo televizní kamery a dokonce si kvůli tomu koupí klec s ptáky, aby to nebylo vidět, jako můj soused v Mikulovické ulici v Pardubicích, toho jména Oldřich Hampl, a jeho aktivní matka-důchodkyně, která byla ochotna si sledováním našeho domu uhnat i zápal plic, aby o něco nepřišla.
- výtržnictví (ale již předtím mě téměř čtyři měsíce věznil v Ostrově nad Ohří), sehnala si chomutovská Bezpečnost proti mně tři vydařené svědky, všechny bytem v Jirkově u Chomutova.
- Krátce před inkriminovanou dobou takto Černý ukradl na stavbě kompletní svářecí aparaturu i s lahvemi, což bylo oceněno na 1 5 000 Kčs, a Bezpečnost se o tom dozvěděla.
- A tihleti dva podaření kumpáni se dali dohromady s podařenou matkou tří dětí, o které se však nestarala pro četné poskytování tělesné blaženosti jirkovským příslušníkům Veřejné bezpečnosti.
- Opět přispěchali oddaní svědkové Státní bezpečnosti v Hradci Králové, t.
- Šíp KNIHA O SOVĚTSKÝCH INTRIKÁCH Jiří Hochman vydal v nákladu deset tisíc exemplářů ve vydavatelství Cornell Studies in Security Affairs obsáhlou knihu o Sovětském svazu a selhání bezpečnosti ’The Soviet Union and the Failure of Collective Security 1934 - 1938”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81888d79d619a3fa31332720f4a4832b3a8fdec5ec3a54400bbbd04001306d7a
+size 2888

@@ -1,2 +1,3 @@
-jednat uprchlík kte mít důvod vrátit koslovenska stihaný politický nábožený ský národnostní raso důvod spadat hlava nčít aktivní disident
-smutný nuta Mlynář zdát chápat Kotasův poukaz nebezpečí věřit cích komunista nositel litický program
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f629661fe1080473771f7169a7df85df8d1336b3fc354bce0f409e8cb525a73
+size 874

@@ -1,1 +1,3 @@
-americký státník pochopit vlastní bezpečnost spojený stát prosperita ohrožený Evropa propadnout vliv sovětský
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a4c6d7a40a37626104dc4d43360fefff0fa17f48ac3fc3ad5741ce52bf72883
+size 121

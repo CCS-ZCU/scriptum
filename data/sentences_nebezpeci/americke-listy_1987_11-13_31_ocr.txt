@@ -1,3 +1,3 @@
-infikovaný osoba znamenat normální styk nebezpečí
-nebezpečí ohrožený zdraví
-nebezpečí ohrožený zdraví
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69ec4aeeb86dc168b1a40991eca0b694992d90617eee4c185505ebcef8d4219
+size 117

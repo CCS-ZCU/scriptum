@@ -1,13 +1,3 @@
- Spolupráci s bezpečností se ani nesnaží moc zastírat.
- Co tomu předchá- zelo je dost poučné, a nejenom pro mne: Před krátkým časem mi jeden ze zaměstnánců správy hotelu sdělil, že se už na mne dvakrát vyptávali páno- vé z bezpečnosti.
- Návrh základní orga- nizace KSČ jednoho okrsku Veřejné bezpečnosti změnit výše uvedené jméno - - "Alej českých exulantů kerýsi upravili poměr" byl zamítnut s odůvodněním, na že jiní exulanti nemají tak jako tak příležitost se do Ruzyně podívat.
- května 1984 (tedy 5 dní po uveřejnění prvého člán- ku v The Globe and Mail) před parla- mentním Stálým výborem zahranič- ních věcí a národní obrany u příleži- tosti diskuse zákona C-32 (založení kanadského Institutu pro meziná- rodní mír a bezpečnost), který byl schválen za pět minut dvanáct jako jedna z posledních akcí odstupující- ho ministerského předsedy P.
- Druhý mírotvůrce Lewis Leach po- dal kritiku špatné interpretace pojmů lidská práva, mír, bezpečnost, svo- b o d n á s p o l e č n o s t , d e m o k r a c i e , marxismus-leninismus atd.
- O bezpečnost spor- tovců bylo postaráno výborně, vý- mluva Sovětů stran jejich bojkotu se prokazatelně ukázala být skutečně jen pouhou výmluvou.
- Sovětský svaz při květnovém vyhlá- šení svého bojkotu uvedl jako důvod porušování olympijské Charty Spoje- nými státy, jmenovitě údajnou snahu vyvolat na olympiádě protisovětskou kampaň, a nedostatečně zajištěnou bezpečnost účastníků her.
- Americ- ké ministerstvo zahraničí odmítlo z důvodů americké bezpečnosti vstup na americké území jen sovětskému funkcionáři Olegu Jermiškinovi, a to z důvodného podezření, že Jermiškin ve skutečnosti pracuje pro sovětskou zpravodajskou službu KGB.
-" Kdyby měl Sovětský svaz skutečně obavy o bezpečnost svých sportovců, neposlal by na olympijské hry své sportovní funkcionáře a rozhodčí.
- srpna 1984 Alma mater Bezpečnosti Signál č.
- dubna 1984 V resortech ministerstev vnitra vznikla pro ucelenou přípravu kvalifikovaných kádrů Sboru národní bezpečnosti a vojsk ministerstva vnitra jednotná školská soustava.
- záři 1973 se zřídila Vysoká škola Sbo- ru národni bezpečnosti.
- Sídlem Vysoké školy SNB je Praha, kde je kromě rektorátu dislokována fa- kulta Veřejné bezpečnosti a fakulta Státní bez- pečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1504d4c490eba5ae6f4f9d8db5cacdb142663a778de35acd0c7acc542b0694f
+size 2452

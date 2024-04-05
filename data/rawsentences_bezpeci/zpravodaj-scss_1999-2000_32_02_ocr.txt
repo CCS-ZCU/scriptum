@@ -1,2 +1,3 @@
- Švýcarské, bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Jen divoké slepice před námi rychle utíkají do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae738de87885d298e37a310db88361e779f4100137ce5a59eb09b27e0f2c14a3
+size 172

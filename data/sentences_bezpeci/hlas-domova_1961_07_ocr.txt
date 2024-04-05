@@ -1,1 +1,3 @@
-druhý pře pad nést bezpečí rozšíření kon flikt třetí svě tový válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:856dc379d5e34ccb7db65e90ced57c0bc3a88e9a2fd9a636479ce89b12c77c86
+size 82

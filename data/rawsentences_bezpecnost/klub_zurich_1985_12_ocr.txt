@@ -1,1 +1,3 @@
- SNAHA 0 BEZPEČNOST není zbabělost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94dceada6134cd2286a6d6069bf9544bb0e408c9b378ef7d018161faab3402e9
+size 39

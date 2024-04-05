@@ -1,2 +1,3 @@
-StejnÊ chápat problematik© ohrožení míra úzký souvis litr proplétat otázkaa nebezpečí ekologický katastrofa ros toucí napětí životní úroveň vyspělý sever přetlak bída země rozvojový jih třetí svět rozhodný obrátení opravdový mírový podnik litr světový velmoc hodina blok litr globální hrozba život planeta rok
-přijít čas rok začít účtovat tece dít sovětský všrchuška přiznat činit Šept vyměnit strážce poklad upozorňovat vydaný nebezpečí trestní stíhání pobuřování
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2b63e9f27a26c12bcc4146501709f63eeca8345d5c000f6fb299dfd5d4abc8
+size 529

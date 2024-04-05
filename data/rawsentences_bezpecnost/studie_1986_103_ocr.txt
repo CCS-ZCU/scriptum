@@ -1,8 +1,3 @@
- Prekladanie horlivých kňa- zov z jedného miesta na druhé je známým tri kom církevných tajomnf- kov a štátnej bezpečnosti.
- 1 (pokus o ohrožení bezpečnosti vzdušného do- pravního prostředku).
- Nařízení o domovní prohlídce Razítko: Krajská správa SNB Odbor vyšetřováni státní bezpečnosti Brno VS - CVS 345/16-85-06 Podle § 85, odst.
- Následujícího dne Bezpečnost navštívila též jeho pracoviště, Závody potravinář- ských strojů Gottwaldov, a zabavila řadu materiálů podobného charakteru ve skříňce a stole jmenovaného.
- V případě inž, Du dra nechávala Bezpečnost bez povšimnutí náboženskou, i v cizině vydávanou literaturu.
- Vyšetřovatel Státní bezpečnosti nadporučík JUDr.
- V poslední době předvolaly orgány státní bezpečnosti jednoho z těchto kytaristů k výslechu.
- Dále Vás, pane presidente, uctivě žádáme, aby Vaším vlivem bylo zamezeno našemu v současné době trvajícímu persekvování tak, aby byla zajištěna naše osobní bezpečnost před místními činitel^ zvláště v době, kdy se naším případem zabývají ústřední revizní or- gány.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e99b2093f488f6e7de8feb77854711e5767d6c52d5613e15b1f1bcf00de3bfce
+size 1155

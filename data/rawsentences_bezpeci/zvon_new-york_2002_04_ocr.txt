@@ -1,1 +1,3 @@
- Teď už je v bezpečí v domě Našeho Otce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9801e6d25605686aadc1365ddf17d292762b05fb0859e9f056f48d72bd9a5379
+size 47

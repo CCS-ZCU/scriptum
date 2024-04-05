@@ -1,3 +1,3 @@
-cech osvobozený nebezpečí mačLarský porážka MaSlar Lech rok
-nýněj stalinský režim mimořádný význam styk zahraničí znamenat tamní rudý režim potenciální nebezpečí
-proudit voda nebezpečí bávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd75b3ca1f742bb9fb97dbee81e62f405218f1b254822e7e8269c30fd03acbb1
+size 222

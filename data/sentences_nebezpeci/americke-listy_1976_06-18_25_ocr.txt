@@ -1,1 +1,3 @@
-mýlit pocit žid nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a069e56868d2ce0da55006aaaa59b455b2574a83dd522329624c5a1a5e6ec052
+size 30

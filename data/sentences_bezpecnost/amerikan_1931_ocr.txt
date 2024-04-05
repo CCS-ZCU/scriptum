@@ -1,1 +1,3 @@
-peníze uložený rozhodovat bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:12a8e74e73ee576b27b5062a1d2f4dfa343e0ff53f67e02e61c55a31ba3ae604
+size 41

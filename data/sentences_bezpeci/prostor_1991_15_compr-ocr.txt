@@ -1,2 +1,3 @@
-být realistický lidé usilovat mír domov bezpečí
-moci vyprodukovat požadovat podporovat dosažení cíl směna působit shromažďování majetek skýtající bezpečí přinášející moc
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed3ea5d48392b5c635172beb413376aa479e845fc8caca4e91f93cab253048bf
+size 196

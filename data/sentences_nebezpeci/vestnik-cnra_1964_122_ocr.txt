@@ -1,5 +1,3 @@
-nebezpečí velký americký státník propadnout falešný představa
-patrit klamaný dívat růžový sklo prohlašovat strach nebezpečí světový komunismus mít velký oko
-přítomnost Castrův režim dívat nutný zlo snesitelný nebezpečí
-senátor tvrdit spojený stát Castro bezpečný uznávat kubánský komunismus představovat nebezpečí latinský Amerika
-odbočka organisační pomoc předsednictvo vyžádat odeslání zásilka duben pokračovat snaha podpořit vyjadřovaný uvědomělý postoj komunistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b644613d092d650b4663d986850d7c18ffb84c6dcb5fa3806ed1435d60f0cc34
+size 541

@@ -1,3 +1,3 @@
- V pra- vém slova smyslu to byla pravda, ale Státní bezpečnosti to na delší dobu ztížilo zjišťo- vání, o koho jde.
- Dávno již byla překročena únosná mez kontroly bezpečností, milice a různých špehů, kteří za icaždým roliem čmuchají ohrožení státního zřízení a tím neposáuji ani tak třídní zájmy jako své vlastní pozice.
- Toto potlačování dosáhlo zatím vrcholu roz- sáhlou akcí Státní bezpečnosti, jež se stala bezprostředním podnětem k tomuto dopisu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b989209737dabc543dfa70d0bd740213ddaac55e4aed40efd9cde4085a998ab
+size 510

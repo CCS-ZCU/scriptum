@@ -1,5 +1,3 @@
-mít výstraha Austrálie existovat nebezpečí zneužití státní moc politický oponent
-mohamedánský nebezpečí Moskva
-nebezpečí rozklad Jugoslávie situace nastalý Jugoslávie smrt Titův přinášet nebezpečí
-nebezpečí radikalismus střední východ zhroutit Irák válka Irán následovat řetězový reakce celý střední východ Šít dnešní doba revoluční element
-Evropa žít malý stát naděje rozdělit ovládnout druhý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9fdac0a2abd41745e7e54aa1479d0ccabda0a6f9c90c7dc17987377acb16989
+size 461

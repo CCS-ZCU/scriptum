@@ -1,2 +1,3 @@
- K definitivnímu rozhodnutí utéci přispěl slib Američanů, učiněný v rozhlase, že každému špiónu, který uteče do USA “ bude zaručena osobní a finanční bezpečnost, přihlásí-li se v kterékoli době” .
- — Veřejná bezpečnost za- kročuje nyní důrazněji proti motoristům, kteří překračují nejvyšší povolenou rychlost (90 km u aut a 80 km u motocyklů).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b6408d74f2d5f6850bc5cebba55a29187ae325c9d327d3e2e3a51464729830f
+size 394

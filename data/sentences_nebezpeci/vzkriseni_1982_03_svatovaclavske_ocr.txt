@@ -1,1 +1,3 @@
-upozornit smírný nebezpečí hrozící ozbrojený konflikt Vždyí konflikt stíící začátek
+version https://git-lfs.github.com/spec/v1
+oid sha256:10927ab46451140b92e7f29d83b6f2b0b9f36c66dedfabceaff0e273f63d326d
+size 98

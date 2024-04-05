@@ -1,1 +1,3 @@
- STRANA 7 příslušníků bezpečnosti, kteří je chránili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bef945957de423606c0132b150a549a578394059f44ff5663afd6cb3cbcc3a51
+size 63

@@ -1,1 +1,3 @@
- Sebekritický přístup k problematice například policie by odporoval jeho obvyklému usilování o vytváření jejího obrazu jako sboru skvělých hochů v uniformách, kteří obětavě, za nedostatečnou odměnu, obětujíce své soukromí a někdy i zdraví a životy pod velením nikdy nechybujících „starých osvědčených soudruhů“ háji naše bezpečí a majetky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d90996863e59caf08fdef398c22b0486ec63bc4c5b682a3eaf63abda9ccea821
+size 385

@@ -1,2 +1,3 @@
-nebezpečí
-nebezpečí křehký zranitelný demokracie hrozit řada Grebníčkův přežívající partaj zbylý důchodce
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd2b2007a86ef31281159056927903470aa12540239f23957a7ccd6531decdb6
+size 124

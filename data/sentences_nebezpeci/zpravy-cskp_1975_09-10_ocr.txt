@@ -1,6 +1,3 @@
-Salis podařit zastavit závod Zbrojem
-velký nebezpečí známý trvalý následek jít počasí podnebí ozonový vrstva bezpečný možnost použití zbraň srazit jiný země koleno vyhlášený válka rozeznat napadený nepřítel postižený přírodní pohroma
-velký nebezpečí svět představovat zvětšující vývoz zbraň nukleární reaktor zařízení
-nutnost vypracování nový zahraniční politika mít vztahovat spojený stát pelý svět smysl zastavení šílený závod zbrojení ^zmírňování velký protiklad přátelský světový táborygyl lepší prostředek odstranění nebezpečí vznik nový světový katastrofa
-nebezpečí sovětský totalitarismus hrozit západ pochopit presto opatrný stoupenec détent přinést určitý zlepšení život sovětský lidé
-dohoda Washington Moskva odzbrojení nebezpečí vznik nukleární válka snížit hlavní vina nést SSSR odmítat korektní kontrola odzbrojovací proces
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c2c67ad249c04fd5c8b731856f62d8031fcfe3044ee6638d9921afcbc2778c
+size 954

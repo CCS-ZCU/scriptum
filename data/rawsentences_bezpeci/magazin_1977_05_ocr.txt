@@ -1,1 +1,3 @@
-“ "Takže jsi tu v naprostém bezpečí," ujistil se Jan špaček, "V naprostém," potvrdil muž zvaný Vladimír a Jan špaček obrátil jeho sebejistotu ve svůj prospěch: "Tak to mi naval tu tisícovku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9b0d4c64974555e258b2447cfc77b4eb00daeb22f2415a24d3fe4413f1defe
+size 209

@@ -1,1 +1,3 @@
- P ři poslechu desky js te v bezpečí před tak hrubým probuzením ; můžete se v zn ášet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef479119835e67aaf2a630a0eed3a03c675e4de21369144bddc0a3cb3f0ef9b1
+size 97

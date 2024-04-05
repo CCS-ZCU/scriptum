@@ -1,4 +1,3 @@
-centimetr konkrétní průběh ohled bezpečnost turista doporučit pracovnice gopr jednaný den
-shledat bezpečnost vlastní provoz jaderný elektrárna lze přijatelný míra zaručit technický řečení účinný kontrola stav zařízení pracovní proces obnovovaný kvalifikace obsluhující personál
-pan Enno Hicken odborník bezpečnost reaktor problém spojený rozebrání malý reaktor uvažovat možný nehoda veliký
-fakt zveřejněný dojít roztržka EdF francouzský agentura jaderný bezpečnost scsin problém spojený filtrace voda reaktor
+version https://git-lfs.github.com/spec/v1
+oid sha256:d114c8f42c365dd927c5c10390addc7c9ac9a0530c321bfce7ab232080921969
+size 560

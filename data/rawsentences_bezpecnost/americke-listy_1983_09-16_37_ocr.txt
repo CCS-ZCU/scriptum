@@ -1,6 +1,3 @@
- Madridská konference o bezpečnosti a spolupráci v Evropě končí v ovzduší, v němž před třemi lety začala: západní země obviňují Sovětský svaz z flagrantní- ho porušování Helsinských dohod, a vehementně žádají, aby Moskva změnila svůj arogantní postoj, a zachránila tak alespoň poslední zbytky vzájemné důvěry, která je pro další vývoj mezinárodních vztahů nezbytná.
- Madridská konference o bezpečnosti a spolupráci v Evropě byla, po celou dobu svého trvání, jejím citlivým barometrem.
- současných emocí téměř zaniká skutečnost, že se diplomatům v Madridu nakonec podařilo zdolat i poslední překážku, stojící v cestě plánovanému slavnostnímu podepsání závěrečného dokumentu: Malta, která přes sedm týdnů upírala svůj souhlas, a žádala zvláštní konferenci o bezpečnosti středomoří, přistoupila na kompromisní formulaci.
- Podle ní vyjadřují signatářské státy pouze svou ochotu podporovat, pokud to bude možné, iniciativy, směřující ke zvýšení bezpečnosti tamní oblasti.
- Signatářské státy slibují, že se budou snažit o větší porozumění, spolupráci a bezpečnost v Evropě.
- A exilový PEN klub, středisko autorů z německy mluvících zemí, připojuje k tomu protest proti rozpuštění výboru polského PEN klubu, připojuje se k protestům Charty 77, žádá propuštění vězněných českých spisovatelů a vrácení rukopisů, zabavených státní bezpečností, a v další své rezoluci upozorňuje na věznění spisovatelů a věřících v Lotyšsku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7521589cf0f3ccd7665d20211044ba28e84bd0f08aa7d1515dd75979066e68e4
+size 1595

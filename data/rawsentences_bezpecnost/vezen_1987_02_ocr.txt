@@ -1,2 +1,3 @@
- V Praze působí celá armáda příslušníků Státní bezpečnosti se všemi kamerami, vysílačkami a silnými vyleštěnými vozy jako karikatura.
-  Na strakaté kobyle Ze soudních síní a předsíní Některá hlášení pologramotných “příslušníků” stráže bezpečnosti či lidiček, kteří se dostali do štíru se zákonem, jsou vskutku k zasmání.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36223eac1d54d4a597cf47925809130f6ab736140a70cd0034aa31e6be9db88a
+size 374

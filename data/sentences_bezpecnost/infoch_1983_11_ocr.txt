@@ -1,2 +1,3 @@
-bezpečnost první listopadový den désítka signatář charta mluvčí mnohahodinový výslech
-Evropa umístění zbraň zvyšovat bezpečnost země ¿©jichž území rozestavěný vydávat nebezpečí atomový útok odvetný úder mít znamenat znič celý území vôeho život
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3f78b5d89714a8452c4060df3cf54b059eaaa2740e59c87e132b0798ebae2ad
+size 287

@@ -1,2 +1,3 @@
-režim pochopit nebezpečí požadavek skrývat
-nový zavádět plán vyrobený ohled předchozí poptávka nebezpečí moci zůstat sklad veřejnost zvyklý typický příklad atoma hotový šlehačka bomba novinka dům potravina získat obliba čest etc
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb11e7e366deb4463127eca8b34a771306a4ae8b1f4fd8b6a39e5e38ea077d78
+size 256

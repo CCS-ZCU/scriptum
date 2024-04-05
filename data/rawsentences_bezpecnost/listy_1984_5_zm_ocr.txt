@@ -1,7 +1,3 @@
- O to důklad- něji se jím však začal zabývat rozsáhlý aparát stát- ní bezpečnosti, zvláště když se ukázalo, že Jablo- nický nepřestal na dějinách odboje a povstání pra- covat a že si nedá mluvit do toho, jak o tomto tématu bude psát.
- Po válce se zajisté nabízela řada možností, jak zajistit bezpečnost SSSR a nevytvořit pňtom gordický uzel, jímž se stala oblast mezi vlastními hranicemi SSSR a západní Evropou.
- Pokud pak jde o bezpečnost a klid na západ od sovětských hranic, slouží sovětským zájmům v tomto ohledu neutrální Finsko, Rakousko či nean- gažovaná Jugoslávie daleko lépe než tzv.
- Třeba o tom, že bezpečnost v Los Angeles byla zajištěna per- fektně, že nedošlo k nejmenšímu incidentu, a že i v tomto ohledu hry předčily většinu svých předchůdců.
- Lidová policie, Státní bezpečnost či desítky divizi sovětské i místní provenience.
- Na rozdíl od pavědy bez objekju autorů zmíněného slovníku má sociologie KSČ reálný předmět zkoumání, jež lze ovšem provádět jen z dálky, mimo dosah svět- ského ramene této «strany», Státní bezpečnosti.
- Pracoviště dávají prý doporučení obvykle na bě- žícím pásu, ani bezpečnost nedělá, na rozdíl od situace před několika lety, zvláštní obtíže.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ef0a999b7329fc69e550f207d3de4c886059fc84ce674302e4d9b1b5e6ca3e1
+size 1330

@@ -1,2 +1,3 @@
-ústředního výboru KSČ nebylo ponecháno náhodě a aby nedošlo' k ohlašovaným demonstracím studentů a dělníků, bylo zase třeba služeb ministerstva a jemu podřízené Veřejné bezpečnosti.
-000 kusů jim orgány Bezpečnosti zabavily.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e49268a01cecd0345a89ea3ea63095587f8d3013e9d80619d6a102c4a290163
+size 251

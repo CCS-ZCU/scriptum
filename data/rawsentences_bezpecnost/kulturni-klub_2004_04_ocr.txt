@@ -1,4 +1,3 @@
- Dostávalo to takové "balení" vznešeného cíle - ekologie, úspěšné jaderné bezpečnosti atd.
- Musíme najít rovnováhu mezi snadností a bezpečnosti při volbách ze zahraničí.
- Podle odborníků to může být vážné riziko pro bezpečnost republiky.
- | JP ' 47  u d álo sti Rekové chtějí při ochraně olympiády i jednotku s českou účastí Rozhodování Severoatlantické aliance, nakolik vypomůže Řecku při zajištěni bezpečnosti letní olympiády, zjevně ještě potrvá jistý čas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd2812faa9894f87efbcc4043a745a672834ec7250fb16bdbede948ba8ca943
+size 519

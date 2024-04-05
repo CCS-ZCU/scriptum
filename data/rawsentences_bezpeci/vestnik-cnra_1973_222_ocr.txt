@@ -1,1 +1,3 @@
- To nikdy nesmíme připustit! V Helsinkách je konference o spolupráci a bezpečí — Conference on European Security and Cooperation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf2c2296303622196c86f859692692b454378e8deb472377b8e43725092e89e4
+size 108

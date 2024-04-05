@@ -1,3 +1,3 @@
-poznání nebezpečí nový cesta přicházet doba překročit Rubikon
-druhý pololetí trvat nebezpečí vzniknout schodek
-představovat současný politický garnitura reálný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7a86b15b903df6e062944c7326a0404481f6148977c9933b28e420c446fecf
+size 191

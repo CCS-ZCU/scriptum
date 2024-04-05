@@ -1,1 +1,3 @@
-lidé hkšní hrozit nebezpečí válka hrozit Kristův pHchod
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ab5f805da333b0a7e708e8a00f5530c46bc9a28aafe413d4d1e080be7127e71
+size 63

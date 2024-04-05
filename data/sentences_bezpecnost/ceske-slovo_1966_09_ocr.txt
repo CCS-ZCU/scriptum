@@ -1,2 +1,3 @@
-letecký havarie podkopat důvěra bezpečnost letadlo cizinec československý
-veřejný bezpečnost vyšetřovat činnost násilnícký skupina mladý vést 171etý Petr
+version https://git-lfs.github.com/spec/v1
+oid sha256:b931984060829593888b0a600357aa83ceca1f41141be9bc2828ba9d1da5ffa5
+size 172

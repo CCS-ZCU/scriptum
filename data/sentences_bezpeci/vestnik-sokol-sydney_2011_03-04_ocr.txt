@@ -1,1 +1,3 @@
-krásný mladý královna odmítnout zbabélý manžel odjet bezpečí exil
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a52bd47a657e34be00fdd9374ca4a3da1ba6ced83c28f3123136523bcd53bc9
+size 76

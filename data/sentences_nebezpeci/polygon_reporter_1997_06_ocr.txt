@@ -1,3 +1,3 @@
-návrat vnitropšlitický normál
-den obracet český biskupský konference věřící výzva chvíle nouze nebezpečí prokázat životní křesťanský postoj naplnit Kristův příkaz nasadit život bratr sestra
-žít západ vidět nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3141f01e62b42545c94b18a4f51b18121d9ef58c655e691297e0866217b0ff9f
+size 247

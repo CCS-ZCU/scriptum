@@ -1,1 +1,3 @@
- To vyznanie patrilo mne, túžba sa tiež týkala toho, aby mohla byť teraz so březen 25 marec  zpravodaj 3/2010 spravodaj mnou, kde sa cíti byť v bezpečí a kde by sme sa týmto filozofickým otázkam pozreli spolu na zúbok.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80576238ed54148548c0878109676bc6479fac1ca8ffe09ac61ec55441dd73d3
+size 233

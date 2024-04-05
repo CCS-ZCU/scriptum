@@ -1,2 +1,3 @@
-kontrola zákaz provoz automobil zabezpečovat veřejný bezpečnost využití změna dopravní značení
-správný určit okruh dopravní služba omezovaný zásobování potravina zdravotnický materiál lék městský hromadný doprava lékařský záchranný služba bezpečnost požární sbor pohotovostní vozidlo plynárna elektrorozvodný závod vodárna dlouhý zbytný případ určit jednotlivý případ moci povolení jízda zvláší naléhavý důvod povolit příslušný orgán
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a02e204547950489edcca9b8d520c1a7ad617f545df5c74967140bb366b4fd
+size 496

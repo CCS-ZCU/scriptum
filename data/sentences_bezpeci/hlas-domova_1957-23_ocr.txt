@@ -1,2 +1,3 @@
-probudit spánek falešný bezpečí pořádek
-falešný bezpečí lečný útěcha
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8d7d2d97c49abcaa583d619d1eacae17ea352603912f78d7364707935f538d
+size 86

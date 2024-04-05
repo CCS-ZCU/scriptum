@@ -1,1 +1,3 @@
-západ moci odzbrojovat kontrola inspekce
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89fe564c7cc117da19600b3cd436aaf89b6c0607e16ab2e1144872fdff19ad4
+size 42

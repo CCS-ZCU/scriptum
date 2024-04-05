@@ -1,4 +1,3 @@
- Ochotně podpisuje protokoly Stárni bezpečnosti, které jeho kamarády posílají na smrt.
- Svojí servilní výpovědí před soudem zachraňuje se doživotním žalářem, když slíbil a podepsal další spolupráci s orgány ministerstva vnitra a Státní bezpečnosti.
- Z á jmy -míru a evropské bezpečnosti vyžadují ráznou protiakci všech mírumilovných národů proti zločínným záměrům Bonnu.
- Jak Bezpečnost zjistila, šlo o sebevraždu .
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fedd71dcaec2f4650152e99a811c573a07f5fd10bfa358edf261db83ca6f419
+size 465

@@ -1,2 +1,3 @@
-chápat moci vidět duchovní nebezpečí vystavený
-cítit malý loďka stálý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf244d40c6f686d250493315cb022e97d4926d905982a03fd256c8e6ecca6827
+size 93

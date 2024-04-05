@@ -1,3 +1,3 @@
-katolický církev osvobození Československo vystavený jiný nebezpečí
-přítomnost národ těžký nebezpečí veliký dějiny
-vydávat nebezpečí infekce vyžádat oběť řada
+version https://git-lfs.github.com/spec/v1
+oid sha256:348921363e1c0c9f5ce0d463cc196fc0a38e64d74418c13bb29e9b5581c7492e
+size 185

@@ -1,8 +1,3 @@
- Předseda Mojmír Povolné podal zprávu o Činnosti Rady svobodného Československa za období od zasedání zastupitelstva v prosinci 1986, zejména o zásazích RSC ve věci lidských práv na vídeňské Konferenci o bezpečnosti a spolupráci v Evropě a proti perzekuci Jazzové sekce, faráře Jana Duse a katolického aktivisty Petra Pospíchala.
- U Hradílka byla provedena domovní prohlídka, provedená nejen příslušníky Sboru národní bezpečnosti, nýbrž i Státní bezpečností, a to nejen z Olomouce, ale i z Ostravy.
-  Číslo 5, kveten 1987 ČESKÉ SLOVO Strana 3 O bezpečnosti čs.
- ministr energetiky Vlastimil Ehrenberger v interview s estranickým týdeníkem Tribuna prohlásil, že odchylky, zjištěné sovětskými experty, jsou součástí zlepšovacího programu, jimiž má sovětský projekt získat na bezpečnosti.
- senátora (později poslance) Vojty Beneše, byl v druhé polovině sedmdesátých let hlavním poradcem prezidenta Cartera pro otázky bezpečnosti státu.
- A téměř všechny ieho knihy se zabývají otázkami strategie a bezpečnosti Západu, zejména Spojených států.
- Profesor Brzezinski doporučuje představitelům Spojených států, aby si vybudovali globální pružnost v konvenčních zbraních, aby však zároveň jednali se Sovětským svazem o vzájemné, jak píše doslova, strategické bezpečnosti.
- Otomanská říše od svého začátku usilovala o větší bezpečnost impéria a sebedůvěru svých vládců územními výboji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4958fb415890a43249b532bfc46e2b4c6dfbcaa31ae9e7722bca8b6ab80f412
+size 1514

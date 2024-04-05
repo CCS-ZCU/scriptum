@@ -1,1 +1,3 @@
-demokratickému režimu a v některých případech se dopouštějí zločinu proti bezpečnosti státu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:070ec41e7e8ecd3517cfcc6625240f8e8afa54a157d2369bdced0c7c48dcc8fa
+size 105

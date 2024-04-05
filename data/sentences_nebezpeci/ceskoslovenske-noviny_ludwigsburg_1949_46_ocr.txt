@@ -1,2 +1,3 @@
-obávat počin zvýšit napětí východ západ zvětšit nebezpečí sovětský mtok
-velmoc vzchopit rozhodný čin měsíc ukázat Sovět skutečnost obávat vojenský srážka Západera
+version https://git-lfs.github.com/spec/v1
+oid sha256:5437ae722b4a9ae84954ac38c59e8f0e5cf491b45d0c7dbaf40ec814429ce69f
+size 189

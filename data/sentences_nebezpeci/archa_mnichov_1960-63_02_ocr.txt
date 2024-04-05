@@ -1,1 +1,3 @@
-Teodorescu správa poukázat nebezpečí exil spisovatel přinášet moci způsobit spisovatelův izolace cizojazyčný prostředí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc3d8d1e64ab02c54eb40f580bdfd236a4d3d8437acec3ef6a2664e393e2662b
+size 124

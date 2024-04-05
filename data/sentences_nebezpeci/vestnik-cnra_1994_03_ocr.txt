@@ -1,1 +1,3 @@
-září vyjít společný prohlášení československý organizace svobodný svět sovětský přestavba příležitost nebezpečí doporučit opatření stupňování nátlak sovětský svaz končit soustavný uplatňování vypočtený doporučení možný proměnit sovětský pokus překonání dnešní krize kontrolovaný reforma rozšíření upevnění občanský lidský právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:911244d364cc52987f4518be9530691ed5c3e9075db6aa615b944f491136a687
+size 388

@@ -1,1 +1,3 @@
- Helsinský výbor se také obrátil na prezidenta repu- bliky, jehož upozornil na to, že Státní bezpečnost obešla jeho amnes- tii z 27.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad672a98edcbe6e03549172ab2ad4e7686ceda876c349f261ef2a189f00b4a49
+size 143

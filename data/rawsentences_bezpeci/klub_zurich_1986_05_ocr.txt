@@ -1,1 +1,3 @@
- "To je Gustin Chambonniere, vyrábí dřeváky, "řekl Guy"zde jsme v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a1111447a9388208dd16c5d82896b67e85a525d64d48d53d3ebbf1e3443dddd
+size 82

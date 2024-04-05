@@ -1,1 +1,3 @@
-veřejný bezpečnost spolupráce televize vyzvat účastník silniční provoz vzájemný respektování zvýšený ohleduplnost opatrnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:82970f41097f8bb7749a7131c03977697ae17a5afa46fb34ccce040a3594a0c3
+size 140

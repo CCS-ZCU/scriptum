@@ -1,5 +1,3 @@
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
-moci mít pochybnost
-listopad shromáždění přijmout znění navržený kongres potvrzovat zásada vyhlášený deklarace základní zásada spravedlnost oběť zločin zneužití moc oběť mít zacházet soucit úcta důstojnost právo spravedlnost úplný náprava mít respektovat mít podpořit zřízení posílení rozšíření domácí zdroj odškodnění oběť účinný rozvoj příslušný právo odškodnění oběť poznamenávajíc římský stanovy mezinárodní trestní soud vyžadovat ustavení zásada odškodnění oběť restituce náprava rehabilitace žádat shromáždění signatářský stát ustavení fond oběť trestný čin pravomoc soud rodina oběť ukládat soud chránit bezpečí fyzický duševní zdraví důstojnost soukromí oběť dovolit účast oběť stupeň proces soud uznat vhodný potvrzovat základní zásada směrnice obsažený určený hrubý porušení mezinárodní zákon lidský právo vážný porušení mezinárodní humanitární zákon závažný povaha urážka lidský důstojnost nový Polygon
-oběť mít zacházet lidskost úcta důstojnost lidský právo nový polygon zajistit bezpečí fyzický psychický pohoda soukromí rodina
-účel stát mít rozhlásit veřejný soukromý prostředek informace možnost náprava hrubý porušení mezinárodní lidský právo vážný porušení mezinárodní humanitární právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45c949a0b52fbeca28bc06a8c9097bde31c49e6f9fed9c21fb7ca60921996df
+size 1493

@@ -1,1 +1,3 @@
-mít připomenout zájem objektivita lidé opouštět rodný země cizina hledat ochrana nový domov vlast špatný
+version https://git-lfs.github.com/spec/v1
+oid sha256:f969d727dac5575f961041ebe8a176a1a6ccb6edc1d23c06f7ca7626b65095d4
+size 116

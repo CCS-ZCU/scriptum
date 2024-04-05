@@ -1,2 +1,3 @@
-stěhovat
-ČTK únor február
+version https://git-lfs.github.com/spec/v1
+oid sha256:e69096d10d41ef0f44c41504521e2608f55a5714c75af8da0c6f4623f7f478ce
+size 30

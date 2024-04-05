@@ -1,4 +1,3 @@
-nebezpečí komunismus velký plynout fašismus nacismus konec konec totalitarismus národní vybíjející ideologie omezený teritoriální okruh
-vánoční posrlttví Pius mluvit jméno oběť plát hrob blizka dál strachovat otevřít nový bydlnout zřícenina vide blíž chvíle nový ničený
-nebezpečí duch technika dalše zdravý vývoj lidský společnost nutnost sjednocení Evropa stěžejní otázka pojednávat Pius obvyklý hloubka takt nebojácný otevřenost
-známka stoupat intensita skrývat smírný nebezpečí rozhodný výsledek nynější studený válka znamenat rozdvojení komunistieký svět volající aplikace klasický inethod strana Moskva
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a3c9a1830a05e9d0d0e398757398342ca00dd37b7292641614f6693dc358752
+size 676

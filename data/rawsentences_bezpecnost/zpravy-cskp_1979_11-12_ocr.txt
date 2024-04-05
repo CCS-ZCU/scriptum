@@ -1,1 +1,3 @@
-Západoevropská Devítka vyslovila přesvědčení,že jedině plný respekt k výsledkům Konference o bezpečnosti a spolupráci v Evropě může přispět k tomu,aby též jednání v Madridě bylo v r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24398ffc2894e4792eb32ce7a9bf333dd16de01601b1d6faabf336701ef687c
+size 207

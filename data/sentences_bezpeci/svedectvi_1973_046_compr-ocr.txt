@@ -1,2 +1,3 @@
-druhý koncepce vyplývat podařit vytvořit oblast spolupráce blahobyt zapomenout starý nešvár velký pocit bezpečí vzbudit stabilita země východní Evropa vábit západní prosperita lákat spolupráce
-politický praksa Rakousko Uhersko totální restrikce vnitřní záležitost izolace zahraniční politika měřítko mezinárodní život klamný bezpečí závětří vídeňský ochrana vnější svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4bfca53aba8f148a84c59f48bdde83e11ad127af1ad6451d95fa74e4d6c8bd1
+size 418

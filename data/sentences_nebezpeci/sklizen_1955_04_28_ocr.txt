@@ -1,2 +1,3 @@
-den myslící člověk uvědomovat smrtelný nebezpečí hrozit nasí staletý kultura nový barbar
-štípení atom nebezpečí rozštěpený duše člověk odhodit kult pravý bůh duchovní hodnota stát modloslužebník nový bůh pohanský bůh kts prolévat krev krev druhý vykoupení zkáza poddaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:0367c87b355581d6c18b2b782cf2c7a0fc771d6733df3fd30cd95f03c6d6b56a
+size 307

@@ -1,2 +1,3 @@
-hrůza
-třídní konflikt muset vyrobit skutečný nebezpečí muset vymyslit bubák
+version https://git-lfs.github.com/spec/v1
+oid sha256:4475433766f9fcf973969c001802221c7984884aceb642a0bb7baebb4eebf807
+size 85

@@ -1,1 +1,3 @@
- Nyní pražský soud všechny plně rehabilitoval a v posudku se praví, že obžaloba byla vykonstruována bývalým ministrem státní bezpečnosti Kopřivou, který tímto způsobem chtěl zlikvidovat pražskou kancelář Associated Press, což se mu ovšem podařilo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edb58753524c97fd57095f8c4767cc13a0dc78ec879dd2e4c7741d7f5859533f
+size 273

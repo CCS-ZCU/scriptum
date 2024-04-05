@@ -1,1 +1,3 @@
- července 1936 žil v poměrném bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5db149857976771f2d5a662b7635fe17aa6b0e8e06019a9f2df4eb9ede4afc
+size 45

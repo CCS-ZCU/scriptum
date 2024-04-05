@@ -1,6 +1,3 @@
- Federace strojvůdců varuje před narušením bezpečnosti železničního provozu.
- Bratislava tak potvrdila nezájem o globální bezpečnost a vydává se cestou dobrodružství, do jakého by se neodvážila vydat ani mocnost střední velikosti.
- Jejich cílem je záruka bezpečnosti, založená na politické, hospodářské a vojenské spolupráci a vzájemné podpoře.
- Poprvé v dějinách je česká samostatnost a bezpečnost, tedy Cechy určovaná a na jejich odpovědnosti závislá možnost vlastní svobody, nezvratně garantovaná mimoevropskou silou, světovou supervelmocí USA.
- Poté, co se USA během pouhého čtvrtstoletí cítily dvakrát povolány zachraňovat hořící Evropu, vnutily západní části kontinentu svou ideu politické morálky, mezinárodní solidarity, vzájemné odpovědnosti a společné bezpečnosti.
-^ Česko si svou vlažnost a naivní bohorovnost v otázce vlastní bezpečnosti může naštěstí dovolit bez větších negativních následků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4829b13547ad0899f5817d8bc7ccfefd666541976d8a04319de166e95ed326de
+size 1002

@@ -1,1 +1,3 @@
- Na ženy myslím (na těla, křehké křivky a žhavé plochy, pád ženy za pád anděla) ženy krásnější nežli sochy; na ženy myslím (na těla) — té bezpečnosti a těch pochyb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7003c676092dd201723cfc50e549b63054cf48ac10183aec815cfcb9c5d3636
+size 191

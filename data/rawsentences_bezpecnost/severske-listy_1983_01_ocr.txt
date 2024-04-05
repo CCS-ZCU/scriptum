@@ -1,1 +1,3 @@
- Husákem, prosí ho o milost, slibují, že budou hodní a že budou věrně sloužit Státní bezpečnosti, kdykoliv o to budou požádáni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac1b9665561aa2e448c924db108b3d4fad03f2ac53a6df5c2dda50916750ca85
+size 143

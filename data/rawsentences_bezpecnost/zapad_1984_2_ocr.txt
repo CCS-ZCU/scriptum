@@ -1,2 +1,3 @@
-, může soud uložit, že se taková věc zabírá, vyžaduje-li to bezpečnost lidí nebo majetku, popřípadě jiný obecný zá- jem.
- Nicméně musíme být hrdi na naše dědictví a být na po- zoru proti tlakům a vlivům, které mo- hou podkopat bezpečnost lidi, kteří jsou ovlivňováni spojením k jejich pů- vodní vlasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a5b9cf92115f8e9f5c4d0194b2aeaee009a785a92928db2d24dd00aee943c7a
+size 339

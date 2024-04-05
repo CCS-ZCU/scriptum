@@ -1,1 +1,3 @@
-chtít napravit říkat stejný hřbitov
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8473faad594bfc797f3c0b400d8008b6bebfa65b4236a68d4de133166bc1525
+size 41

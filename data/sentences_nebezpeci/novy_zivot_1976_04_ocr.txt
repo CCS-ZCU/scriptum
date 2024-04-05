@@ -1,1 +1,3 @@
-popis jednostranný odhalovat nebezpečí zpovědní praksa vystavený celý zájem soustředit vyznání hřích rozhřešení uklidňovat svědomí centrální smysl cíl pokání smíření bůh návrat bůh zůstat pozadí
+version https://git-lfs.github.com/spec/v1
+oid sha256:157ce4705349d31c6bb5321bc1e3e67daac9470e4f8a96ea0c045ba1fbb70b21
+size 227

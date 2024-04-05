@@ -1,1 +1,3 @@
-dělení kořist
+version https://git-lfs.github.com/spec/v1
+oid sha256:38484d575c856bbcec7ac05d09b7dce3b1d8e54d1c5178838ec91b0d71f768fb
+size 17

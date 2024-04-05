@@ -1,5 +1,3 @@
-podsvětí tribuna Karel Chudárek studený válce
-návštěva zavřít oko myslící křestan komunistický nebezpečí
-druhý světový válka skutečnost potvrdit bezprostřední nebezpečí japonský okupace probudit Austrálie vědomí chvíle muset zabývat záležitost Pacifik vzdálený přátelský pomoc spojený stát mateřský země Anglie
-Australan moci zapomenout zapomenout bezprostřední nebezpečí japonský invase minulý válka dovést představit následek podařit
-válka přivést útok Japonsko spojený stát válka Asie skončit odstranění japonský nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17f59c05885f6b530b6349e772b3619e92045396f1af6259827aa311f02dbde
+size 593

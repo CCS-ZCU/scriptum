@@ -1,4 +1,3 @@
-vytasit celulojdový kolt bohý stařenek zvolat pětadvacetník život paní běžet veřejný bezpečnost vzniknout ochranný dohled národní výbor výchova prvorozený
-vyšetřování ujmout bezpečnost hrozit polepšovňa
-plížit dvůr dům hlídkovat bezpečnost mít oko procházet lady Makbeth strmý cesta zločin šílenství Mslkolmův kytara rozdrtit poslední sten
-přečin jít soukromý filozofický přednáška přepadnout bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:d71e04c281d38b7c087aa16c5bd6803465479cff0a9f3ff56756859689beeff2
+size 454

@@ -1,1 +1,3 @@
- T o by stálo přibližně 1 bilion dolarů ročně, které Ei- senhowerova vláda není ochotna platit -ani v záj- mu bezpečnosti Ameriky a svobodného světa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:233b8466f591e63fd3a97fb5b7afe410d6ed122d5d58e901efd5f4494a88100c
+size 164

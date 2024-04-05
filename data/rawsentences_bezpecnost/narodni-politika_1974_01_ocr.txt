@@ -1,12 +1,3 @@
- Vybíráme z ní úryvky z předmluvy a z kapitol Ve jménu socialismu a dělnické třídy a TABU — Státní bezpečnost.
- Tak obžalovaný Bedřich Reicin, jeden z hlavnních osno- vatelů komunistického teroru po úno ■ ru 1948, byl zatčen na pokyn Rudolfa Slánského, pod jehož pravomoc jako generálního tajemníka KSČ spadly záležitosti státní bezpečnosti.
- * TABU — STÁTNÍ BEZPEČNOST V posledních letech se stala i policie předmětem širšího kulturního zájmu, píší se o ní studie a její metody se podrobují vědeckým analýzám.
- Státní bezpečnost, která má na svědomí zločiny padesátých a pozdějších let, byla ve své vlastní formě vybudována po únoru 1948 a byla jedním z hlavních nástrojů komunistického teroru od kolektivizace venkova až po věznění inteligence či náboženskou persekuci.
- Státní bezpečnost používala v padesátých letech i později jako Gestapo bestiálních vyšetřovacích metod.
- bezpečnosti mělo 83 tisíc zaměstnanců a přímých placených agentů.
- Státní bezpečnost jako lučavka rozleptávala celý veřejný život, její agenti a konfidenti byli stejně v akademiích jako na unicersitách, v lékařských ordinacích či redakcích listů, v továrnách, na venkově, i na nejvyšších státních úřadech.
- Např nejen většina vysokých československých důstojníků Státní bezpečnosti o invazi jednotek Varšavské smlouvy věděla a namnoze spolupracovala při jejích přípravách i realizaci, ale i vysocí agenti ostatních socialistických států, kteří v Praze operovali, o invazi byli informováni.
- Určití představitelé československé Státní bezpečnosti, na kterých Sovětům zvláště záleželo, a kteří nemohli být do konspiracc proti Dubčekově Československu použiti, byli v závěrečné fázi před invazí od ■ klizeni do bezpečí do Sovětského svazu.
- * Pokud se týče určitých pracovních metod Státní bezpečnosti, tak při analýze některých dostupných materiálů vychází najevo, že např.
- Řehák podal podrobný rozbor o současném stavu mezinárodni politické situace nejen v západní Evropě, ale i o konfliktu na Blízkém Východě, o Evropské konferenci pro bezpečnost a spolupráci a propagoval myšlenku neutralisace Střední Evropy.
- * Několik znalců moderních československých dějin se domnívá, že to byla mezi jiným i Státní bezpečnost, která svými metodami znemožnila komunistické straně, aby se stala opravdu stranou lidu, aby se stala stranou, ke které byr měl prostý občan vždy plnou důvěru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01b3cecc101b7d058c77558292a5b7e43bcbaaa714b40d8b2be0827656b26d44
+size 2628

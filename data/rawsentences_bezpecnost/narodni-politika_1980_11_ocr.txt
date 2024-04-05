@@ -1,13 +1,3 @@
- Cena DM 2,— Hlavní město Finska KAREL JEZDINSKV Před pěti lety — v srpnu 1975 — byl okázale podepsán v Helsinkách Závěrečný akt Mezinárodní konference o bezpečnosti a spolupráci v Evropě, který mnoho sliboval.
- Kurtem HUBEREM byli popraveni v mnichovské věznici Součást helsinských dohod V srpnu 1975 podcpsali v Helsinkách představitelé vlád evropských zemí a USA Dohodu o bezpečnosti a spolupráci v Evropě.
- Sacharovem vážným nebezpečím pro politiku uvolňování, pro mír a světovou bezpečnost.
- Právě pokud jde o bezpečnost a otázky vyzbroj ování, vypadá to v posledním roce hůř, než dlouhá léta předtím — vinou sovětské snahy, mít ve zbrojení předstih.
- Takové akce podlamují totiž nejen vzájemnou důvěru v Evropě, ale především také samu evropskou bezpečnost.
- A v Madridu je třeba východoevropským vládám zase znovu připomenout, že bez dodržování práv všech lidských bytostí, bez individuálního podílu všech evropských občanů, nemůže žádná evropská bezpečnost a spolupráce stát na pevných nohou.
- Podrápského — „zpívání písni s obsahem protisocialistickým, zesměšňujících socialistické hospodářství, Sbor národní bezpečnosti, hlavně StB a používání vulgárních výrazů“.
- Přece se dá snadno zařídit, aby místo překážení na schodech střežili národní bezpečnost v potemnělých ulicích.
-  19S0 ZVON listopad Policejní akce proti mladým lidem v Československu Množící se zásahy bezpečnosti proti mladým lidem mají Čím dál víc preventivní charakter.
- Bezpečnost disponuje nejmodernější technikou, získanou většinou za devizy ze zahraničí.
- O tom, co je trestné, rozhoduje Státní bezpečnost sama.
- Tento záznam přinášíme bez vědomí Petra Pospíchala jako autentické svědectví o metodách Státní bezpečnosti v Československu.
- Kromě toho vydal VONS zprávy o mimosoudních represivních akcích Státní a Veřejné bezpečnosti, jako jsou krátkodobá zadržení, bití, osobní a domovní prohlídky, pracovní postihy atp.
+version https://git-lfs.github.com/spec/v1
+oid sha256:626055c447403359e8d201242d0986d9ab9bd21a414a4d5b05e4c809fbde6250
+size 2128

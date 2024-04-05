@@ -1,1 +1,3 @@
-chovat zajatec jiný
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3e2dd1b503ddb929709e98df0885c79024c354cc0113c6855af1e942cd6067
+size 21

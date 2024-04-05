@@ -1,1 +1,3 @@
-chak Samir jordánský návrh odmítat skrývat arabský protiizraelský zájem mít donutit Izrael územní ústupek oslabit bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:074db1d39cb3fc6826dc077fbcf498b58addd8388601e6e8258295a5f55500bc
+size 141

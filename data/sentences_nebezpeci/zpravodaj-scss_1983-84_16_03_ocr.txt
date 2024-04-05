@@ -1,1 +1,3 @@
-exulant signatář charta žijící Vídeň obrátit rakouský veřejnost umělec novinář vysoký představitel rakouský politický život kancléř Bruno Kreiský prezident Rudolf Kirchschlägr dopis psát vědět nacházet český spisovatel nositel rakouský státní cena Václav Havel těžký zápal plíce nebezpečí život vězeňský nemocnice Praha Pankrác
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc4afd26b1bd239f0b2f3c415509ee1246fccefb9300418bc84728e3af57445
+size 372

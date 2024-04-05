@@ -1,1 +1,3 @@
-Ceausesec vycházet zásada přítel země získat posílit závislost bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:39c211b273fef95bb086ad4c6f004dd025808c9202690f11f31b98adef8b0a24
+size 83

@@ -1,2 +1,3 @@
- Obě letecké havarie podkopaly důvěru v bezpečnost letadel 11-18 nejen u cizinců, ale zejména u čs.
- Veřejná bezpečnost vyšetřuje činnost násilnícke skupiny mladých, kterou vedl 171etý Petr B.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11b91009ddd3b4c0ef60a83fb57f057c649858cddebc86f887351c18ceccd8a9
+size 211

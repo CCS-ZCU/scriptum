@@ -1,1 +1,3 @@
- Ve světě, v němž ztroskotalo tolik snů, houževnatě se udržuje sen malého israelského národa: zařídit se na malém území po svém, rozvinout zde svou individualitu, být tu v bezpečí před pogromy pouličními i vládními, které byly vtěleny do dějin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46220b7f539afb9a457a7987fa015098285b1afcd054836b630323661f1595fd
+size 273

@@ -1,2 +1,3 @@
- "O naší armádě hovořil jako o darmo- žroutech, o Bezpečnosti jako o sboru gaunerů, šířil fámy o připravovaném zneužití armády a Lidových milicí na o- chranu A.
- Opravdoví přívrženci marxismu-leninismu byli označováni za dogmatické levičáky a nepřátele strany, moc Bezpečnosti, armády a Lidových milic byla omezena cestou rozkladu zevnitř — rozkladem komunistické jednoty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f352c6c76382a608804c5e3d3389f69618b7b7d06299fea3ff890f623b8030
+size 410

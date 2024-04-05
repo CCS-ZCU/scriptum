@@ -1,1 +1,3 @@
- Trať se trochu zatáčí, vidíme kus bašty, několik cypřišů a potom ještě dlou- hou zeď, která zvyšovala pocit bezpečnosti, dokud byla země rozdrobená a pořád zmítaná řevnivostmi a zápasy jedněch s druhými.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9d0a231775f1609d55ff6004cf753d601a4605ca3ce4baa76d0d43422ca6c9d
+size 231

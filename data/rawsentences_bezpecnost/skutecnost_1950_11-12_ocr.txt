@@ -1,1 +1,3 @@
- Ale bezpečnost státu, záchrana života a svobod jejich spoluobčanů, kterým děkuji za svou posici, jim ukládají povin- nost nesáhnout k ozbrojené síle leč v kraj- ním připadě, kdy došli k naprostému pře-  svědčení, že není jiné východisko.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe0dc055ddcbf3c24608715e5a5d91200c5321cdd8f23af9b46a47fca350456d
+size 266

@@ -1,2 +1,3 @@
-poznámka světový událost amnestie Praha
-rychlý americký zákrok otevřený vměšování zátek ležitost cizí stát moci mít Američan zlý zkušenost reagovat nebezpečí usadit další komunistický vláda bezprostřední blízkost vlastní země
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c745b88ea374ff00b4f90fd49ab9ed33db85845e1a1648d4f45e760065163f7
+size 254

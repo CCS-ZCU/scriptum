@@ -1,2 +1,3 @@
- Je jim přirozeným ontickým živlem, v němž se ke stále větší dokonalosti rozvíjí nadání vycítit v každém jsoucnu puls univerzálního života, spatřovat hrající si dítě času v bezpečí náruče věčnosti, nalézat smysluplnost lidské existence ve světě chráněnu zárukou přítomnosti Boha.
- Toto hledání mnohým připomíná počínání toho, kdo opustil bezpečí rodné zátoky pozemské konečnosti a vydal se sám na malé lodi všanc neznámému oceánu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a008d1f4b5430854154518e63137d8229efe704a058a8cd57fa326958044fcdb
+size 494

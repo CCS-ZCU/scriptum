@@ -1,7 +1,3 @@
- 2) Už před viac ako dvorná mesiacmi skončila konferencia o európskej bezpečnosti a spolupráci v Helsinkách.
- Dohoda o tomto pred- mete mala byť druhým stťpom európskej bezpečnosti a celej politiky dé- tente.
- by z hradiska bezpečností Západu bolo únosné, keby Washington vystel v úsírety Maskve v tom.
- Za jaké ‘zásluhy’ byl Sacharov vyznamenán Nobelovou cenou míru?” — Uskutečnění závěrečné konference d evropské bezpečnosti a spolupráci ukončilo důležitost, kterou Praha dávala diplomatickému zastoupení ve Finsku.
- “ Vzájemné rozhovory se zaměřily, především na další postup při plnění závěrů konference o evropské bezpečnosti a spolupráci” , hlásila ČTK.
- 1975 O výsledku konferencie o európskej bezpečnosti a spolupráci,, ktorá sa konala v Helsinkách a o tom, ako sa jej uznesenie začínajú plniť v rázných oblastiach spoločenského a medzinárodného života, sa teraz píše a diskutuje mnoho.
- A tak podťa ríaditeťa výboru pre medzínárodné záležitosti pri Světověj radě církví Leopolda Niilusa prvým krokom na ceste realizácie ustanovení o európskej bezpečnosti a spolupráci má byť povinnost’ zoznámiť občanov všetkých štátov s obsahom deklarácie a s právami, ktoré deklarácie vyměňovala.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e027496885695e219f12e42219cce469dacd8c637159dd6b5ad95358db57811
+size 1320

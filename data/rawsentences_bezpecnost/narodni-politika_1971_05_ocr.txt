@@ -1,2 +1,3 @@
- Nejen doma, ale i ve svobodném světě jsou dobře známy vyšetřovací metody komunistické státní bezpečnosti, převzaté z mnohaletých zkušeností Gestapa a sovětské GPU a NKVD.
- V Československu komunistická bezpečnost zase znovu vyslýchá bývalé politické vězně a vedoucí čin- novníky Klubu — 231.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808a1b70894e26731e44cd309c43a1ad2e3db756c2890c466c87374707d70572
+size 327

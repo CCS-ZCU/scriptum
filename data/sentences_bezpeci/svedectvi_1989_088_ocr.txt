@@ -1,2 +1,3 @@
-scinda Kafkův zvíře uložit doupěť spánek užít bezpečí slyšet vzdálený šramota vědět přicházet děsit pohánět horečný přestavba doupě
-vzít blázinec lak jediný místo mít člověk takés bezpečí jistota
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b61910de6a11d747db491bc78a1daee6d3fdec2f449f6ee8e4218c371dc1e1e
+size 232

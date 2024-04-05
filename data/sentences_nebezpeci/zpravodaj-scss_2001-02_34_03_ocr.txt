@@ -1,4 +1,3 @@
-nebezpečí komunismus velký nebezpečí nacistický dospět pečlivý úvaha závěr zjevný nepřátelství krvavý lepší Jidáš předstírat bojovat uniforma demokracie střelit zezadu
-nebezpečí zmizet svět
-století vidět František Palacký nebezpečí skrytý komunismus prohlásit učit myšlenka bůh ctnost právo pouhý pověra člověk zvíře mít mravní povolání jiný povinnost
-nutný obrození národ uskutečnit hrozit nebezpečí Evropa zůstat skupina lidé hovořící český jazyk český národ přestat existovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:32507afdea42d15e583bf588b5d14d8c5194c8245d7ab6604e249b73a64020c3
+size 546

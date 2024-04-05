@@ -1,7 +1,3 @@
-pokoušet integrovat vězeňský exilový literatura široký kontext kultura nebezpečí chápat rarita episoda skončit
-President Havel další rozhovor připouštět nebezpečí hrozit Rusko komunista mít dlouhý zkušenost politika disponovat finanční prostředek struktura moci spolehnout zvyklý autoritativní kolek tivismus prostřednictví snahý vládnout
-nebezpečí existovat latentný země střední Evropa
-poslední slovo vyšetřovatel sejít zapôsobit moc
-jít přecenění všelék kriminalita nebezpečí precedent absolutizace norma trestní právo
-tkvět velký nebezpečí znovuzavedení trest smrt eventualita justiční vražda
-barbař
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0aa166a91e6334f542dc9e3f486ce58f8070284b4d8fdab39900972fadedc7e
+size 663

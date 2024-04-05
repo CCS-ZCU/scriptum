@@ -1,16 +1,3 @@
- Za ztvárnění postavy příslušníka Veřejné bezpečnosti v muzikálu Šakalí léta obdržel Josef Abrhám Českého lva 1993 v kategorii nejlepší mužský herecký výkon v hlavní roli.
- Bývalý agent StB Ludvík Zifčák tvrdí, že podniká z donucení Jedna z nejkontroverznějších postav sametové revoluce - bývalý agent Státní bezpečnosti (StB) Ludvík Zifčák - se třicet let od převratu stále považuje za komunistu.
- Po následné oslavě v lednu 1976 řadu účastníků pozatýkala komunistická Státní bezpečnost (StB).
- Dokumentární část expozice, v níž jsou i snímky disidentů pořízené Státní bezpečností nebo kopie zápisů o sledování, doplňuje část umělecká a fotografická, která se snaží o zachycení dobové atmosféry bytových seminářů, undergroundových koncertů nebo schůzek k přípravám Charty 77.
- Čihošťský zázrak byl zinscenovaný československou tajnou policií - Státní bezpečností.
- na protest proti brutálnímu zásahu bezpečnosti proti studentům začala stávka herců všech pražských divadel.
- Státní bezpečnost se dostala pod kontrolu vlády.
- Proslulejším značkám koncernu VW i dalších renomovaných výrobců dokázal konkurovat jak kvalitou, důrazem na bezpečnost a řadou moderních řešení, tak, zvláště na západoevropských trzích, cenou.
- Tématem diskusí bylo také, za jakých politických podmínek je realistické takto silný laser postavit a nenarušit stabilitu mezinárodní bezpečnosti.
- V rozhovoru s ČTK to řekla předsedkyně Státního úřadu pro jadernou bezpečnost (SÚJB) Dana Drábová.
- Většina přejezdů se nahradí mimoúrovňovými kříženími, což výrazně přispěje ke zvýšení bezpečnosti železničního provozu.
- Zabýváte se kontrolou stavebních konstrukcí, co si o takovém způsobu kontroly práce stavitelů myslíte? Kvalita díla je důležitá nejen z hlediska bezpečnosti, ale zejména z hlediska nákladů na dobu její životnosti.
- Důležitým impulsem, který nastartoval pozdější vývoj, bylo podle něj utvoření neformální československé občanské iniciativy práv Charta 77 (ta se začala formovat při soudním procesu s hudebníky kolem kapely The Plastic People of the Universe), která kritizovala vládu kvůli nedodržování lidských a občanských práv, i když se k tomu ČSSR zavázala při podpisu Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě (KBSE) v Helsinkách.
- Vangeli uvedl, že jeho úřad o třinácti lidech se zabývá hrozbami jen z hlediska vnitřní bezpečnosti státu.
- Desítky zájemců si prohlédly archivní záznamy StB o Havlovi Dokumenty vztahující se k osobnosti Václava Havla a jeho perzekuci ze strany komunistické Státní bezpečnosti (StB), ale i další archiválie mimo jiné o Chartě 77 si veřejnost může prohlédnout v Archivu bezpečnostních složek (ABS).
- Šéf slovenskej diplomacie sa v nej zameral na súčasný stav vo svete, kedy si globalizácia a jej sprievodné javy v oblasti hospodárstva, bezpečnosti a ochrany klímy vyžadujú multilaterálne riešenia, avšak napriek tomu je v niektorých krajinách a regiónoch na vzostupe politický nacionalizmus, čo dokazuje napríklad brexit v Spojenom kráľovstve alebo obchodná vojna medzi Spojenými štátmi a Čínou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62b3095cdee63fb7808cf8a64fc854f8f0815aa557977ea29ee71eb171dfef6
+size 3372

@@ -1,1 +1,3 @@
-odeznění potíž plavat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:193d81a94d82730c1ae37318d7697571a1036e8454ccd9b91851bbbc0f99d20a
+size 36

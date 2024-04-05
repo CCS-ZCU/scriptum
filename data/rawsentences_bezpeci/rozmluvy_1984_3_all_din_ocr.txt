@@ -1,2 +1,3 @@
- Ty první jsou svobodné, umírněné, každý se v nich cítí v bezpečí, ty druhé jsou svévolné, jejich jedinou hnací silou je strach.
- Hned na autobusáka, znamenajícího se křížem, který skončil hluboko v polích mezi hejny krav, protože mu pan farář odmítl dát na křižovatce přednost v jízdě, hnětl na pokulhávajícího motocyklistu, sbírajícího se ze strniště, kterého pan farář asi hodlal vyzkoušet z terénní překážkové jízdy svým originálním předjížděním těsně před zatáčkou, hned na řidiče jakési dodávky, kterého pan farář vykázal z vozovky na polní cestu  Chronos a Kairos Í31 bůhví jakým fíglem, bud manévrováním s blinkry, anebo to šofér prostě při spatření šedé oktávky rovnou vzdal a řekl si, že bude jistější přečkat hodinu H v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ae55e18c2672f66d8c636223dedc22f4214ba6715b9e00f5e40ca1f59111ac
+size 842

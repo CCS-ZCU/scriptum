@@ -1,2 +1,3 @@
-Gorbačov si to může dovolit, protože na Západě není nikdo, kdo ohrožuje bezpečnost Sovětského svazu.
- Jan Fojtík vyrazil do Maďarska, stranická delegace do východního Berlína, náměstek předsedy vlády zatím prodléval ve Francii, kde navštěvoval průmyslové závody - a zajímal se - doufejme, že opravdové - o bezpečnost atomových elektráren.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75f484855709a77fd92351166a57b8427ec2d343f6f3f9f020122f4bd6625a38
+size 373

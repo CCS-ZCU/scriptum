@@ -1,8 +1,3 @@
- Premiér Spidla v Hrzánském paláci ujišťoval presidenta Bushe, že nesplní-li irácký režim resoluce Rady bezpečnosti OSN, podpoří ČR spojenecký útok na Irák.
- Motejl v roce 1978 přejel v Táboře starého muže: „Nikým ze státní bezpečnosti jsem přímo kontaktován nebyl, ale bylo to samozřejmě velmi nepříjemné.
- President Václav Havel v pražském Café Louvre představil sborník svých projevů s názvem NATO, Evropa a bezpečnost demokracie: „Jsem rád, že velmi brzy skončí jedna éra mého života, která měla nesmírně mnoho zajímavých aspektů, přinesla mi nesmírně mnoho zajímavých, dobrých i trpkých zkušeností.
- a na bezpečnost se vydá téměř 100 mid.
- Bezpečnost občanů a připravená armáda.
- „Vedeme válku proti al Kajdě,“ píše ředitel CIA George Tenet v interním oběžníku, „Usáma bin Ládin ajeho globální síť zůstává bezprostředním ohrožením bezpečnosti USA.
- Někteří se nechali školit na piloty, jiní studovali stavbu letadel nebo bezpečnost mezinárodního leteckého provozu.
- Tehdy česká politika určila jednoznačně ideu nového státu: rozvíjet jednotný československý národ tak, aby mohl zajistit existenci a bezpečnost státu proti „nestá- totvomému“ německému etniku i proti dalším menšinám, a to z vnitřní i zahraničněpolitické stránky Proti vzniku ČSR se teď často argumentuje mimo jiné tím, že česká politika použila násilí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0b938bd45fa3e2762b93dbe86c9547807abe83e9d84b16f470b32a4b71dcbd5
+size 1488

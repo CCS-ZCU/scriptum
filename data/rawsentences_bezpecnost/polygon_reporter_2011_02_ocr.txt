@@ -1,2 +1,3 @@
- Po výslechu bývalého šéfa vojenského zpravodajství Krejčíka vyzval Sněmovní výbor pro obranu a bezpečnost bývalou ministryni obrany Parkánovou, aby odstoupila ze všech veřejných funkcí.
- A v Radě bezpečnosti OSN má dobré přátele v podobě Ruska a Číny, kteří jsou spíše klienti Íránu, s nímž mají čilý obchod, včetně válečných dodávek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ecc747a5efe699fcc0e496f8c9879a544f6375970ffb21285d4840ababacfa
+size 381

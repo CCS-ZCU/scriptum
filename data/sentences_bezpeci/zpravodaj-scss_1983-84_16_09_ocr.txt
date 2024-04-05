@@ -1,2 +1,3 @@
-číst noviny
-český student zgruntu zdát propadnout jiný zhoubný okolnost bezpečí blahobyt prázdnota povrchnost trend mládí
+version https://git-lfs.github.com/spec/v1
+oid sha256:abee6110d7db629ba2340ecee9137fb0ff2ea98c68fa6f97977930cb62ab5c30
+size 134

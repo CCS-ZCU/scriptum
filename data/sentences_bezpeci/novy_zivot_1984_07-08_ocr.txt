@@ -1,2 +1,3 @@
-OTCE svatý OTCE Čech nutnost zajištění lidský bezpečí dlouhý krutý léta osobní pronásledování důsledek mravní zásada náboženský přesvědčení najít útočiště Švýcarsko upřímný radost vítat půda země stát dočasný domov
-život hledání očekávání cíl dojít odpočinek bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c7784e00b4ff2b5672a72f2415638522a05d08ea0a731cac43c7fc42b385a3
+size 320

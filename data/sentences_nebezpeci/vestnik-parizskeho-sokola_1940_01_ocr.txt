@@ -1,1 +1,3 @@
-doba zabránit Rakousko mnohý říkat ulejvák oddávat radovánky pařížský Sokol vědomý nebezpečí dolehnout stát zahájit plný verva vážnost odboj
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed8fd255a1c9e35dd4f5f9ea92e609099a6b9b639e918280af9da61f06a6efb
+size 161

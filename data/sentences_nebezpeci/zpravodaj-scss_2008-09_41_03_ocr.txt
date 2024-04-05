@@ -1,1 +1,3 @@
-skončení válka mít vzniklý stát vybudovaný armáda hrozit nový nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dbaeea50aba2d760642f834ba09ce7eb05d46d9fb911e42877b7c424eaf29fd
+size 83

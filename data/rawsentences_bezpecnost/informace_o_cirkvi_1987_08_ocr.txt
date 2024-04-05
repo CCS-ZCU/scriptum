@@ -1,3 +1,3 @@
- Krátce před- tím se objevili čtyři -uniformovaní členové Bezpečnosti a jeden v civilu, který s- legitimoval e prohlásil: " ,'riminální služba.
- 3 Paktu sloboda- prejevová? náboženstvo alebo vieru se moze podrobil len takým obmed zenlam,aké předpisuje zákon a ktoré sá nevyhnutná ne ochranu verejnej bezpečnosti »poriatku,zdravia elebo morál- ky aleoo základných práv a slobod inýeh.
- Predováetkým vyžaduje komoletivne a nezávisle ns sebe splnenie dvoch podmienok: existeneiu zákon»,který práva podia Paktu o tenedzuje a po- žiadavku ocbr»ny verejnej bezpečnosti,poriadku,zdravie elebo morálky alebo základných slobod inýeh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08412803b52567dfb55cd78a82dc02383be1b838bb209812a875cfd190d4165d
+size 671

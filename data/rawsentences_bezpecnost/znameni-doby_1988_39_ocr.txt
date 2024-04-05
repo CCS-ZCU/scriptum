@@ -1,3 +1,3 @@
- A to je z hlediska bezpečnosti naprosto nepřípustné.
- Uschopni nás, Pane, abychom žili a rostli v aktivní spolupráci s Tebou a navzájem © tak společně usilovali o vytvoření civilizace bez násilí, světového společenství, které svěří svou bezpečnost ne vytváření zbraní stále více ničivých, ale vzájemné důvěře a práci za lepší zítřek pro všechny tvé syny a dcery, za světovou civilizaci, budovanou na lásce, pravdě a míru.
- V poslední době předvolaly orgány státní bezpečnosti jednoho z těchto kytaristů k výslechu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88e3c52c0c5de487580be36462a86f160771d79b787a6509d6c4aba3c1a7d7c
+size 575

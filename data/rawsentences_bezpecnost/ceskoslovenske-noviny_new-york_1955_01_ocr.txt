@@ -1,4 +1,3 @@
- Prohlásil, že nadvláda nad podmaněnými zeměmi nemůže již být ospravedlňována tvrzením, že je potřebná k účelům bezpečnosti, a potvrdil, že “mír, který chceme — výsledek dorozumění a dohody a práva mezi národy — je trvalé mezinárodní ovzduší, založené na spravedlnosti a bez- V / M peci.
- Pro svoji bezpečnost si udělejte opis proce, su a dobře schovejte.
- Neboť v kartotéce ministerstvo pro národní bezpečnost je zaznamenáno, že paní Polanská, manželka dr.
- Na konferenci ženevské v červenci Spojené státy opět zdůraznily své přesvědčení , že lidu východní Evropy odpírání práva na vlastní vládu je vážnou překážkou míru a bezpečnosti v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a8d17ceecdc18fea3add080413155b0c3e01192eec17a4efc7e678b5796860
+size 729

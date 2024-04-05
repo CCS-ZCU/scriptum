@@ -1,3 +1,3 @@
-bezpečí hraniční čára vyčítat
-Zít diktatura jednoduchý bezpečí demokratický svoboda hrdinství kritizovat anšlus Rakousko strach snažit projevit leyální postoj režim
-riskovat vlastní bezpečí pohodlí známý oseba vyžadující pomoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:80e8871bb4733380d00fa2562410527929897d850597d528e7638bc0a1af1ca7
+size 255

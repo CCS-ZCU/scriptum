@@ -1,1 +1,3 @@
-vyzývat odpovědný národ mezinárodní organizace hledět zavést dialog metr nebezpečí kompromitovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e9bb8f5f1d2603bfcc020f125706cd1108e7d494b9adaf39f676266b7e4927
+size 109

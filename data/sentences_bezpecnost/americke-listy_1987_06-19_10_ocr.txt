@@ -1,1 +1,3 @@
-oba strana zavázat posilovat mír bezpečnost Asie Tichomoří
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f581f7396bfa6c99aa708f1f1655281b8dfff7310415de3204566d54133062
+size 64

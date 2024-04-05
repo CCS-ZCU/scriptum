@@ -1,1 +1,3 @@
-obrana bezpečnost mít vydat
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eeddd148c009866444a44a80efdd0a24d3f286b5a3ac368a239202584b3089e
+size 30

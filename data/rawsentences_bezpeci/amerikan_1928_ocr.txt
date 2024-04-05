@@ -1,2 +1,3 @@
- Ale neviděl jsem ničeho; udělala se tam tma a já poznal, že mám nevyšší čas utéci do bezpečí.
- Majitel strávního domu nemá zadržovacího práva na strávníkův majetek, leč po zvláštní úmluvě, a rovněž není zodpovědným za jeho bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4855509ca1d45d542928ab9c08e699142fb2fdafe98b34874a08b4b08686ba7c
+size 268

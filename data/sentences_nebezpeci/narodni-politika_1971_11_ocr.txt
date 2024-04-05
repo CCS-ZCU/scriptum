@@ -1,3 +1,3 @@
-Frank dát popravit funkcionář studentský pravice vidět srno národ nebezpečí
-celý svět listopad pochopit nebezpečí postavit boj nacismus
-vůdce režim vidět nebezpečí vycházející Německo Japonsko souvislost čínský konflikt vyvinout horečnatý snaha zhlížený
+version https://git-lfs.github.com/spec/v1
+oid sha256:b68a1dcec816dfeca1555e26f7250547216b63bb2671b523adb9230cc4f44d88
+size 283

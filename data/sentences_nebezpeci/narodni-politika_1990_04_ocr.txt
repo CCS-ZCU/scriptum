@@ -1,1 +1,3 @@
-prezidentský pozice silný prezidentský pozice západní demokracie udržovaný mez parlament
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa9670c53584a35680052913855d6c966b18789846691987ef6c9e6b997a9fa0
+size 96

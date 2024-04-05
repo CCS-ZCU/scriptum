@@ -1,1 +1,3 @@
-žádný okolnost jet větoký rychlost možný zastavit vozidlo dosah viditelnost jízda kolona dodržovat dostatečný vzdálenost počítat předchozí vozidlo moci narazit překážka muset zastavit předjíždět
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fbc75cd23a344c8a228eb7bd23aa90089e06e24196097d02165dd075ea20d1a
+size 218

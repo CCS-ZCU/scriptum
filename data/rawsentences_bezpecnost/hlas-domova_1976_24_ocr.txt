@@ -1,4 +1,3 @@
- "Zdá se, že mají zase volné ruce", říká jedna informace o členech Státní bezpečnosti.
- Má k tomu zvláštní kvalifikaci: původním povoláním kněz českobratrské církve, kompromitoval se kolaborací za nacistické okupace a - jako mnozí jiní - po válce se zachránil tím, že nabídl své služby Státní bezpečnosti, pro kterou pilně pracuje.
-" Střední východ, bezpečnost Israele a bezpečnost Evropy byly v hovoru zmíněny a opět bylo řečeno nebo naznačeno, že je to věc Ameriky.
- Opět se vynořila otázka osobní bezpečnosti téch, kdo by sé aspoň na chvíli chtěli vrátit do staré' vlasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5123b638dfeac52ff59ea22e3bad95cecea275f292c88db9d496a1d3bde8a9e
+size 639

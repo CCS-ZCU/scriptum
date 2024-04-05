@@ -1,2 +1,3 @@
-černošský studentka urazit jemnoeit ostatní posluchač pouhý přítomnost nebezpečí lynčovaný akademický půda bílý civ lisace
-Paříž Molletův vláda totální neúspěch Alžír nehro bezprostřední nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7557a48ffeddb6aa9393c11dbdcdf5b9df7285e90346dc0beab7de5539f492
+size 229

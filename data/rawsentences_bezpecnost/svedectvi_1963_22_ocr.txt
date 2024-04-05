@@ -1,6 +1,3 @@
- Ani v údobí 1945-46, ani později v padesátých letech Sovětský svaz se neodhodlal zajistit si větší bezpečnost státu za cenu účinné mezinárodní kontroly; a rovněž se neodhodlal přijmout řešení, které by podstatné zmírnilo nebezpečné napětí ve střední Evropě za cenu i jen pozvolného a postupného oslabování neoblíbeného režimu ve východním Německu.
- V této chvíli není možno s jistotou odhadnout, zda Sovětský svaz bude usilovat o konečné vyřešení stěžejního problému odzbrojení (jež je nemyslitelné bez vzájemné inspekce), nebo spíše o vytvoření systému vzájemné bezpečnosti, uznávajícího právo sebeurčení ve střední Evropě.
-4 Ú střední výbor zřejmě nechtěl připom enout, že Bacílek byl v údobí politických procesů m inistrem národní bezpečnosti a K ôhler tehdy vedl kádrové oddělení sekretariátu ÚV.
- N ebot to byl Barák, jenž osobně znal řadu závažných okolností, které ukazovaly na nesprávný postup bezpečnosti ve vyšetřování i v operativní prácí, což mělo za následek nezákonné rozsudky v některých případech.
-" 1“1 Právníci přiznali, že se u nás „podporovalo licoměrné pojetí zákonnosti“ , a že v soudnictví, v prokuratuře, v bezpečnosti a v orgánech státní správy vůbec vládla „libovůle, kterou určitý kádr veřejných činitelů považoval při tom za politicky oprávněnou, která se kryla za pojem ,diktatury proletariátu*,“ 15 A straničtí historikové doznávali jeden po druhém, že v čs.
- Jeden z důvodů— tehdy bylo vynalezeno mnoho důvodů, proč jsem byl podezříván, že bych mohl ohrozit bezpečnost Spojených států — jeden z nich byl, že jsem vedl v Paříži toto podezřelé divadlo, levé\ To si představte, jak levý to bylo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71a6a783a2effa832a4d8dfd2b3d39f014860a2d4e3f446f22791dcb3ac7543
+size 1833

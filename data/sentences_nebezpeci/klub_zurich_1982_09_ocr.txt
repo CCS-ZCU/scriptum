@@ -1,1 +1,3 @@
-zábrana ohled nebezpečí přiznat Ježíš
+version https://git-lfs.github.com/spec/v1
+oid sha256:617bd1f3c2ee1423eabc970104e309603bec8981005dfd5ce36a781ac9dd6f82
+size 45

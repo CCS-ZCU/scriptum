@@ -1,3 +1,3 @@
- října, protože převzal zodpovědnost za své domácí věci a za svou mezinárodní bezpečnost.
- Předal mě do vozu, ve kterém seděl mladý muž- civilista, který si vzal moji občanskou legitimaci a ihned telefonicky volal velitelství státní bezpečnosti do Bartolomějské ulice.
- Načež tento muž se začal velice se zájmem vyptávat na moje osudy a za tohoto jakoby nevázaného rozhovoru mě odvezli až do Bartolomějské ulice, což je sídlo velitelství státní bezpečnosti pro střed Prahy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a74937acd5dd6b30119e5043aaca112d691827194876c59140496f284b6fb2
+size 519

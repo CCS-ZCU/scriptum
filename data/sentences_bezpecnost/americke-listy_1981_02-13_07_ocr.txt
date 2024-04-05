@@ -1,1 +1,3 @@
-leden chválit americký delegace konference bezpečnost spolupráce Evropa zasedání plnění helsinský dohoď Madrida hlas Amerika rozšíření vysílání sovětský svaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bb8288f56d367e24588f574648f8016448267998a3974185076257885979d9a
+size 177

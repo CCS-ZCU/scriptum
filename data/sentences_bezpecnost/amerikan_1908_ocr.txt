@@ -1,5 +1,3 @@
-ohrožený činnost povstalec okolí příčina četný přední hlídka americký město jistý vzdálenost rozestavený noc zdvojnásobený dávaný přísný pokyn velký ostražitost bezpečnost život celý spící americký posádka věrný bdělost záviset
-rušený ticho vojín stráž úplný bezpečnost ukolébat
-div
-vyhražený vyšetřující lékař vystavit vysvědčení zdraví bezpečnost pomatený přistěhovalec připouštět odkladný vyvežení moci přistěhovalec výloha immigrační fond vydržovaný ošetřovaný doba mclo bezpečnost vyvezený
-doba míra osobní bezpečnost lepší
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d7a86e7322c2f3fab1d69bdd8d234a246b9504775e00c2c52b35fb99da4c9bd
+size 614

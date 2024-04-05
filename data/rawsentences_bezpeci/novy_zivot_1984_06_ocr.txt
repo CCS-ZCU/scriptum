@@ -1,1 +1,3 @@
- tisk rozhodnutí římského státního prokurátora předvolat před soud Antonova, další dva bulharské občany, kteří jsou v Sofii, a Turka Čelenka, rovněž v bezpečí v Bulharsku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dddaaba1e1b42aeed6842447a1e69137cb09ffe8dc49a79ed51c4bce711a617
+size 192

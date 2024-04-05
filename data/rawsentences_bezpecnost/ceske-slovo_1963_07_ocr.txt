@@ -1,1 +1,3 @@
- dubna 1963 se mimo jiné praví: „Nepovažujeme bezpečnost Kanady a její svobodu za něco samozřejmého.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32135e371a4ac66e7dab888a51c31d811f56653f1baf23e6b5e8f8d8b920a6db
+size 111

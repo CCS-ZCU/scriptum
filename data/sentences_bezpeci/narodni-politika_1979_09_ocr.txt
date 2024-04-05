@@ -1,1 +1,3 @@
-krutý počínání vyúsťovat duševní chaos absence zkušený instruktor kritický chvilka podat chlácholivý ruka útěcha ukázat správný směr bezpečí propadat komplex méněcennost vina věčný strach
+version https://git-lfs.github.com/spec/v1
+oid sha256:926ce0600b40e7e803b79f844293dd59aae6d83baddd20dbce9957ad41dc5c4e
+size 215

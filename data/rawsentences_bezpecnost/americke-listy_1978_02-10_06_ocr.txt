@@ -1,5 +1,3 @@
- straně Carter může tvrdit, že tím, že zvýšil výdaje na obranu o tři procenta ve srovnání se dvouprocent- ním zvýšením pro celý rozpočet, činí jen to, čeho je třeba к zajištění bezpečnosti Ameriky a spojenců.
- Kancelář rozvojového programu je přesvědčena, že široká škála technických projektů, oficiálně přijatých i Československem — může dobře sloužit cílům helsinské konference o evropské bezpečnosti a spolupráci.
- Zdůraznila také, že bez nezávislé a stabilní Jugoslávie bylo by ilusorní doufat v upevnění celoevropské spolupráce a bezpečnosti.
- I když otázky národní bezpečnosti a národního hospodářství jsou ovšem někdy přednostní, v Bílém domě i na ministerstvu zahraničí se nyní dostává lidským právům mnohem větší pozornosti než kdy předtím .
- Proč prý tenhle problém komplikovat podřadnými o- tázkami jako jsou lidská práva, bezpečnost Evropy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60a2f94f8cce3865b9e42c3d22b552efec8334c411b5cfd2ddf2e4c4afb2e0e2
+size 964

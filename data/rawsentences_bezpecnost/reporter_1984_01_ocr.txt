@@ -1,21 +1,3 @@
- Státní bezpečnost, její desinformační oddělení, je v tomto směru taky značně aktivní.
- Část hráčů chtěla číšníka na místě lyn- chovat, jakýsi soudruh, prý předseda uliční organizace ze Štěpánské ulice, už řval po Bezpečnosti, ale byl umlčen.
- Arpád Kikéty, občan a člověk se smyslem pro spravedlnost, čest a poctivost, přičemž nesmím opomenout, že i Arpád se na denním obratu dobře utajené herny podílel pěti procenty, situaci okamžitě pochopil, přistoupil k falešnému hráči z Alcronu, kterého už asi pět podvedených chtělo (Dokončení na straně 17) 12  JOSEF FROLIK KDO LIKVIDOVAL BERIJOVY GORILY? V minulých dnech si mohli čtenáři sovětských Izvestií přečíst nekrolog, oznamující smrt posledního šéfa sovětské státní bezpečnosti Stalinovy éry, Semjona D.
- Všichni tři byli také šéfy sovětské státní bezpečnosti.
- Všichni, kdo měli přístup k mašinérii moci, státní bezpečnosti a kádrovým otázkám ÚV, měli být odstraněni.
- V roce 1940, když Simone odjíždí do Spojených států, dostává zprávu, že šéf sovětské státní bezpečnosti, jeho verbíř, ho povyšuje na plukovníka.
- V březnu 1946 SSSR rozděluje ministerstvo vnitra na vnitro-MVD, jehož mi13  nistrem se stává generál Kruglov, a ministerstvo státní bezpečnosti, jehož ministrem se stává generál Merkúrov.
- Be- rija je kompletně zbaven dohledu nad bezpečnostními ministerstvy, z rozvědky státní bezpečnosti je vyjmuta správa vě- decko-technické rozvědky.
- Stejně tak je ze správy ministerstva státní bezpečnosti vyjmut úsek zodpovědný za výzkum a výrobu atomové zbraně.
- Ano, sovětská státní bezpečnost byla monopolním správcem všeho nukleárního výzkumu a průmyslové základny, budované pro výrobu atomové zbraně.
- Známý odborník pro otázky moci, procesů a teroru v SSSR, Robert Conquest, říká ve své knize »Power and policy in the USSR«, že kontrola přes policejní aparát, státní bezpečnost, GRU přešla na dalšího tajemníka ÚV, kterým musel být Malenkov, Chruščov nebo Stalin.
- Naopak! Když se stal ministrem státní bezpečnosti Ignatěv, stala se jeho situace problematickou až zoufalou.
- Byl nepříjemným svědkem s dlouhou pamětí a s mnoha přáteli na vysokých místech ve státní bezpečnosti, byl Stalinovým krajanem z Gruzie a daleko nejchytřejší ze všech, kteří snili o jeho pádu.
- Ščerbakov byl členem politbyra, a to v době, kdy Berija byl zodpovědný za bezpečnost stranických činitelů.
- Stejně fak nechal Berija rehabilitovat desítky svých přátel a nohsledů z gruzín- ské státní bezpečnosti, které nechal Ignatěv pozavírat v průběhu tzv.
- světové války rozvědný aparát této největší zpravodajské organizace na světě byl převzat do řízení rozvědkou sovětské státní bezpečnosti, odstranění těchto lidí se stalo otázkou dne.
- Uvnitř aparátu rozvědky státní bezpečnosti Sovětského svazu existoval a stále ještě existuje úsek, zvaný »odbor poradců« (někdy také oddělení, jindy správa).
- 1951 Výbor pro informace zrušen a rozvědka StB se opět vrátila k ministerstvu státní bezpečnosti, byl to Semjon Ignatěv, řízený buď Malenkovem, Chruščovem nebo Stalinem.
- Většina z nich pochopitelně byla přijata k sovětské státní bezpečnosti v době Berijova šéfování, většina z nich dosáhla svých vysokých hodností za Beriji, ale v Československu neprováděli Berijovu politiku, ale politiku přípravy Berijovy likvidace.
- V roce 1951 Berija ztratil svou »atomovou rozvědku«, která se vrátila do svých původních organizací ministerstva státní bezpečnosti a Hlavní správy rozvědky ministerstva obrany SSSR.
- Pokud se zdálo lidem nelogické, že na popud SSSR a jeho poradců pozatýkala československá státní bezpečnost, odsoudila a v mnoha případech popravila lidi, kteří byli spjati s bývalou komunistickou internacionálou nebo s výzvědnými službami SSSR, ona nelogičnost vyplývala z přesvědčení, že popud přišel od Beriji a jeho poradců.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b29bb9d935beded204d32eceea1208ab982a3d4951bdd0235fda722aebeae8a
+size 4178

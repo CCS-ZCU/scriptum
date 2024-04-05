@@ -1,2 +1,3 @@
- 1933 bylo pět z těchto desek ukradeno, zbývající byly deponovány do bezpečí do trezoru zemské banky.
- Obyvatelé ohrožených území by věděli, že v nouzi se nemusí plahočit Evropou, žebrat o pomoc a snad i prchat znovu z hořícího útulku, ale urazit pár desítek kilometrů, aby se octli v bezpečí a mezi svými! Tím by jim byl umožněn i okamžitý návrat, jakmile se k němu rozhodnou, zatímco v cizině jsou odsouzeni čekat léta, neboť vzácný azyl kvete pro každého jen jednou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9af82212ea36837b55c00043a2b5395a27a8966d2c9e627451c31b90ba573c8
+size 757

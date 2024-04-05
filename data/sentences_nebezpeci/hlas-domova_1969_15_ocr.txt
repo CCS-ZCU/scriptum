@@ -1,2 +1,3 @@
-začátek konference Brežněv Gomulka promluvit nebezpečí mezinárodní komunismus hrozit Čína
-doba mluvit nebezpečí komunismus hrozit Československo
+version https://git-lfs.github.com/spec/v1
+oid sha256:045ff2fc65ee6b819fc1e3c5623c7231f95d5fd3b40ad01e864e9017d4eeca86
+size 158

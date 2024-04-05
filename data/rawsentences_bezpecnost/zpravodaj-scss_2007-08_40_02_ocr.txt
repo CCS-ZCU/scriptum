@@ -1,1 +1,3 @@
- Doteraz zverejnil napríklad registračné protokoly bývalej komunistickej Štátnej bezpečnosti a zoznam likvidátorov židovského majetku z vojnového obdobia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6c2188c91cbce05c2dc6d384847521dd1c788d13921cd39f6505583b6bff10f
+size 166

@@ -1,1 +1,3 @@
-kanadský úředník hrozit Rom Čechy nebezpečí perzekuce násilí
+version https://git-lfs.github.com/spec/v1
+oid sha256:610e560a67226d7dbcf159d85c3f58dc0793a11ce73aa9763f39087d39be906b
+size 70

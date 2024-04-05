@@ -1,1 +1,3 @@
- Lišáka štěkot koupil si nás všechny; Svou vlastní káži máme v bezpečí Na pár žebráckých hodin; Zatím co Petr ohřívá si ruce v paláci mezi sluhy Kohout kokrhá a.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a42f5651014129874a07939f382dfb6cdc4587d70e890913473030f0fbe4bae6
+size 184

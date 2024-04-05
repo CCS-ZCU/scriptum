@@ -1,4 +1,3 @@
- Vzdyí jeho hodnost šéfa Státní Bezpečnosti snese srovnání i s největšími esy tohoto ministerstva.
- Šéf státní bezpečnosti chtěl právě dát rozkaz k současnému propuštění Skalníka, ale v poslední minutě si to patřičně rozmyslel,"Ba ne, tomuhle chlapíkovi se musím pořádně podívat na zuby.
-‘Dále, nejsem u vás žádnjí komisař, nýbrž' šéf Státní Bezpečnosti, což je, můj milý příteli, noc veliký rozdíl.
-" Dříve jsme se báli gestapaj ted nás stihla nová etapa: nadějí všech můžeš býti prost: dneska řádí Státní Bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba9f560e2dc5bbadce21f491d4ce63b34b7793fd6e46bd29b4d689de520c9c52
+size 596

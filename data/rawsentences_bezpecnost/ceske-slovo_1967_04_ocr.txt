@@ -1,3 +1,3 @@
- Samozřejmě všechno, co se týká obrany a bezpečnosti státu ’— ale také např.
- — Chicagský komorní orchestr předvedl skladbu exulanta Jeronýma Zajíčka; Doba posledních lei prvé republiky se zvyšujícím se důrazem na branné síly, na brannou výchovu a na vnější bezpečnost státu postavila plukovníka Kudláčka tam, kde se za nacistického tlaku mohl uplatnit nejlépe: zprvu do vedoucí funkce v brané výchově, později, za dnů Mnichova, do agendy operační, když byl náčelníkem štábu 1.
- Podle zjištění veřejné bezpečnosti zavinili požár svářeči při opravě zařízení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24d34856eb61e1abad5981c940951a1edb60c5438fe7ac227a3ccf54665c360a
+size 628

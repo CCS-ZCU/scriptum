@@ -1,2 +1,3 @@
-velký nebezpečí tkvět starý zkušenost připisovat velký význam zkušenost nový zkušenost zkušenost včerejší dnešní
-vystavený stálý nebezpečí nra míra vymknout ruka
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dd028f98a6239ca6b0825ce79fa3d2c43ff2f8665c3285dab9d880e334a82fc
+size 186

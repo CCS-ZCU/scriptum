@@ -1,2 +1,3 @@
-čit Jiří Gruntorád osobní bezpečnost
-vědět americký armáda osvobodit zaručovat bezpečnost západní Německo léta
+version https://git-lfs.github.com/spec/v1
+oid sha256:321a750af26057b5535c24517c470ecb67b430657f557acdc1ff3a6e787c87f3
+size 128

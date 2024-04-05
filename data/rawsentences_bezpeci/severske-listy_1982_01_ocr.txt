@@ -1,1 +1,3 @@
- Svéds- ká byrokracie jim natolik leze krkem, že bude-li Sven v 60ti pensionován, odstéhují se do ČSSR, kde jak Sven prohlásil, cíti bezpečí!!! -- Sovetský velvyslanec ve Švédsku Michail Jakoviev je bývalý generál KGB, vypovézený začátkem 60.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac95de0534228dddcd97ad015bf59195ad079f12b2b4cab77bf1a7276089588
+size 262

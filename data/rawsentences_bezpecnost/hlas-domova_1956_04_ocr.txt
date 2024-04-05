@@ -1,2 +1,3 @@
- OBenhane-, zdá se, konečné přišel na to, jak nerozlučně je německá bezpečnost spojena s přárelsr.
- Kdejaký satelitní stát v Evropě i v Asii přišel na to, že Američané ohrožují jeho suverenitu a bezpečnost letecké dopravy vzdušnými balónky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5125cf489039a091ba0da112451daa5931c948e10c882a600ba839ab5627d2fe
+size 269

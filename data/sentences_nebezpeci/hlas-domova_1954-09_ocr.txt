@@ -1,2 +1,3 @@
-příklad cesta vést nemocnice případe nebezpečí pokrývaný spadaný list povrch cesta hledat
-McCarthy nej lepší odpověď hrozící nistický nebezpečí USA
+version https://git-lfs.github.com/spec/v1
+oid sha256:489a5e3a5000f67536d6f805c91b89a88b91c747b39be1bac4e0e90b7d355a0f
+size 171

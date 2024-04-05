@@ -1,1 +1,3 @@
- Antonín Himl, kterého delegovala státní bezpečnost do funkce předsedy přes sport, začal s přípravou sám u sebe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2caf20fa69e8163b276e52975bc1efe90ca922e8a86159860bcab5da954238f
+size 124

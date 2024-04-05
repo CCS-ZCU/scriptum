@@ -1,1 +1,3 @@
-člověk dovést představit mít pražský stranický špička stažený příslušný zadní část tělo uvědomit strašný nebezpečí strana vyzařovat Polsko pekelný spřežení svobodný odbory cír kev síla jednotný lid opřený pevný uvědomění náboženský
+version https://git-lfs.github.com/spec/v1
+oid sha256:27725f7c5598e9c7be18453296ef50f79bcf19c5d3a35afceaaa12613746fbae
+size 274

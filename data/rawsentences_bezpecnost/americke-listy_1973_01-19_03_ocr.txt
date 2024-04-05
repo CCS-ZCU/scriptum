@@ -1,10 +1,3 @@
-" Má tedy evropská bezpečnost být spolehlivě založena na rozdílném mínění, jež dva tábory mají o svobodě člověka.
- Proti jednotlivcům nebo různým skupinám se jistě nemusí celý národ volat do vojenské pohotovosti, jak to právě dělá nový rumunský zákon na ochranu národní bezpečnosti.
- Pokud jde o otázku neplatnosti mnichovské dohody, také GUARDIAN zaznaNa přípravných poradách v Helsinkách o svolání konference o evropské bezpečnosti a spolupráci se projevila neshoda mezi Východem a Západem v názorech na tři o- tázky.
- Předně, sovětský blok chce, aby vlastní konference vyvrcholila zasedáním na nej- vyšši úrovni; za druhé, týž blok také chce, aby konference zřídila trvalý orgán nebo orgány, které by dohlížely na evropskou bezpečnost; a za třetí, západní spojenci žádají, aby předmětem jednáni byl rovněž volný pohyb myšlenek a lidí.
- Sovětský návrh na vytvořeni stálého orgánu, který by dozíral na bezpečnost v Evropě, pokládají západní spojenci za propagandistické heslo; soudí že by takový orgán nemohl plnit užitečnou funkci, a obávaji se, že by ho Sověty a jiné východní země mohly zneužívat k obviňová.
- ni západních států, že ohrožují evropskou bezpečnost.
- (212) 994-6600 evropské bezpečnosti a spolupráci budou probíhat vyjednáváni o vzájemném a vyváženém sníženi ozbrojených sil a výzbroje.
- Je tedy jasné, že by se bezpečnost v Evropě nezvýšila, kdyby obě vojenské aliance snížily své ozbrojené síly a výzbroj rovnoměrně, ať v absolutních číslicích či v procentech.
- Tam — připomeňme — Rumunsko, kterému zvláště záleží na uznáni principů svrchovanosti, nezávislosti a rovnoprávnosti, prosadilo požadavek, aby rozhovory o evropské bezpečnosti probíhaly “mimo rámec vojenských a- liancí”.
- Máme své zvyky, pravila v podstatě Pravda; jestliže vy máte své zvyky, nechte si je pro sebe; mimochodem, zastavte činnost některých svých rozhlasových stanic, které porušují náč informační monopol; tak teprve bude v Evropě klid a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3335319d0183ed4c071bd4a68aee96cf9fbebb7d418a7799566692e1336dfc06
+size 2164

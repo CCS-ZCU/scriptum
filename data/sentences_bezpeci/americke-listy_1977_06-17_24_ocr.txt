@@ -1,1 +1,3 @@
-narušený dosavadní americký monopol pocit bezpečí Američan přesvědčený monopol zajišťovat mír
+version https://git-lfs.github.com/spec/v1
+oid sha256:43446a60f9ba75f07f3efdb50427a78e6ad8f6254585b2d79e3b37a3dd3c7138
+size 108

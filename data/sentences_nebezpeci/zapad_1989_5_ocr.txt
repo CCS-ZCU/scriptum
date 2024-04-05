@@ -1,2 +1,3 @@
-smrtelný nebezpečí nacismus film zastoupený dvojice chlapík oko vypadnout bídák špatný italský veselohra
-plyn zmizet nebezpečí otrava pokračý valo další sekání otvor mít rakev vyjmutý
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a31aa99116a1c5705f580e27cf0a47ee6a6025c3077bf66d896a6d01922b8e
+size 322

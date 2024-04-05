@@ -1,9 +1,3 @@
- Kyperská krize ovsem zároveň ohrozila a dosud ohrožuje bezpečnost jižního křídla NATO, ba i jeho existenci.
- Biľak vyslovil silnou nespokojenost i s průběhem jednání na ženevské části konference o bezpečnosti a spolupráci v Evropě.
- I s jejich pomocí naléhá Kreml, aby v jednání v Ženevě o evropské bezpečnosti a spolupráce byla rychle skončena.
- Je pochopitelné, že široká, ne však dostatečně informovaná veřejnost v evropských podmaněných zemích, uvítala svolání Evropské konference pro bezpečnost a spolupráci s určitou nadějí a sympatiemi.
- O Sovětský svaz navrhl svolat mezinárodní konferenci o Kypru za účasti 15 členských států Rady bezpečnosti OSN, Řecka, Turecka, Kypru a několika dalších zemí.
- Konečně podepsání „dohody o evropské bezpečnosti a spolupráci“ — ve smyslu sovětského pojetí — má Kremlu zajistit kolonialistickou dominaci nad celou řadou dříve svobodných a nezávislých států ve střední a východní Evropě.
- „třech košících“ (bezpečnost, spolupráce a humánní otázky).
- Prokůpek i další obžalovaní se o existenci Zelené internacionály, organizace, vymyšlené Státní bezpečností, dověděli až při výsleších.
- Porada se konala z podnětu východo- bcrlínského ministra státní bezpečnosti Midkeho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e1343c3834f2d00846062695cc9aafd5954bae32a3aaa24a676be708f6bb31
+size 1354

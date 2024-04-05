@@ -1,1 +1,3 @@
-Spolků) zaslal všem delegacím Konference o bezpečnosti anglické(v překladu Jarmily Veltruské) proh_lášení: v 10 bodech podávají své požadavky, založené na chartě lidských práv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8897028b00e9e76ee6de6db4a1ebb7a4ab2fc89d4f20c874a0776085e29f2f2
+size 196

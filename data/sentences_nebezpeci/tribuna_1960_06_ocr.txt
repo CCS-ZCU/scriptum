@@ -1,2 +1,3 @@
-Lumumba tvář tvář nebezpečí apelovat OSN poslat pomoc neutrální ozbrojený sbor udržet Kongo dohlédnout evakuace belgický voják Kong základ smluvní právo
-komunista rozpoznat nebezpečí hrozit :ána míra
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dc3d2581eb9e5632c12dbe142b833e3f3813ba0b14dbd2ea179fb46884c237b
+size 215

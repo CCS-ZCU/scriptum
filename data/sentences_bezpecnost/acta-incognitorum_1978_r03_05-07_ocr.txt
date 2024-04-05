@@ -1,1 +1,3 @@
-samozvaný mluvčí cestující Daniel Cooper ikartin Balsam strachovat bezpečnost pasažér tíoesův uklidňování rukojmí dozvídat mít zabitý daný lhůta čtvrtek propuštěný svoboda terorista uvězněný stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:4054374ae66afcec5336d233994b93730e32e25360192e429849d73d3079d99d
+size 223

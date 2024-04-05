@@ -1,9 +1,3 @@
- V roce 1966 už prošlo rukama příslušníků tajné bezpečnosti neuvěřitelných devětadevadesát milionů zásilek.
- V roce 1968 se však veřejnost dozvěděla o řadě pracovišť tajné bezpečnosti na poštách, a tak v období normalizace je musela StB znovu pokoutně vybudovat.
- Tajná bezpečnost si potom nechala objednat pěl set speciálních nožů na řezání tapet.
- duben roku 1950 provedla Státní bezpečnost (StB) ve spolupráci se Státním úřadem církevním (SúC) první etapu pečlivě připravované a plánované brutální likvidace mužských klášterů v tehdejším Československu.
- duben uskutečnila bezpečnost a Státní úřad církevní první etapu akce K.
- V květnu 1951 dohodl SúC a ministr národní bezpečnosti reorganizaci mužských řádů a z pěti centralizačních klášterů zůstaly dva v českých zemích a stejně lak na Slovensku.
- Jako vstřícnou reakci proto prodlužuje firmě Westinghouse ultimátum na předáni dokumentů o bezpečnosti Temelína na dalších třicet dni.
- Fagan tvrdí, že dokumenty o bezpečnosti elektrárny musí investor i dodavatel řídícího systému předložit podle mezinárodních úmluv.
- (MaFr) 38  Temelín zvyšuje výkon Státní úřad pro jadernou bezpečnost povolil jaderné elektrárně Temelín zvyšovat výkon reaktoru prvního bloku až do 55 procent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:530f677622b9badec5c2f2633c5c9006cbe2ea046f760be5adf4b00b7aeaab1c
+size 1374

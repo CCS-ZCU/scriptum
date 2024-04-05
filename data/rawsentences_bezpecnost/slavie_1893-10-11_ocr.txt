@@ -1,1 +1,3 @@
- 8 kupeckou ibitoatí prohlašuje trojspolek za sdružení vzájemně sebe pojišťující, které by Anglii mohlo poskytnouti ještě větší bezpečnosti, než zdvojnásobení její loďstva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8692373eb7f4ac2d2fcce91016f8adfef9d26d576e93b56197d0d9ce7fb423
+size 195

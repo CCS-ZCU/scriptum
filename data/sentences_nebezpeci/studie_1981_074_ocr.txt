@@ -1,4 +1,3 @@
-spojení nebezpečí zvenku občanský mír stát nový uspo řádání společnost soulad funkce kompetence majetek
-Glucksmannův kniha vynikat francouzský clarta německý důkladnost psaný hluboký patos člověk uvědomit nebezpečí státní despotismus ideologický tota litarismus
-kniha dílo universitní profesor vypracovávat prohlubovat filosofický systém
-volební úspěch naci stický strana Henleinův veliký překvapení agrární strana jistý stupeň vítězství malý počítat výpočet připravovat volba spolupracovat strana pra vicový uvědomovat národní nebezpečí spolupráce vláda zřeknout plán musit odkládat čekat další vývoj nacistický strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d4cfe253548c991b049aa59b93103d9cca3df096ee6070060ee675504925e9c
+size 686

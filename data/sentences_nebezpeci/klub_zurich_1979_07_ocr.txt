@@ -1,4 +1,3 @@
-dělat jet nebezpečí nový kardinál církev země pronásledovaný
-považovat nutný naléhavý všimnout pravda bůh žádat víra mít chránit odstranit nebezpečí moci ohrozit víra srdce věřící
-muset chápat hluboký smysl podlehnout nebezpečí oslabovat vyprchat skutečnost obraz naznačený
-Stefan odhazovat kamení zavalený dbát nebezpečí zapomenout dostat
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe35a50275aa16726c427f5c88266efd8c58d8372cd67a42a4624b5e38a8c50a
+size 379

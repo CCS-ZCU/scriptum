@@ -1,1 +1,3 @@
-Ipei zocpovecní bezpečí čistota xko
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdc8038e92190e894369aa7ecbb22af3f4262b817494c81353c54fb1270ed9e7
+size 43

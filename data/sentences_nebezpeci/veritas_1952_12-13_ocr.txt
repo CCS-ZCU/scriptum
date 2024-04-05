@@ -1,1 +1,3 @@
-nebezpečí mfízat svobodný západní člověk uchvácený podmaněný lidé země železný opona
+version https://git-lfs.github.com/spec/v1
+oid sha256:9286bba11c354f4328cf3aeee9273cad3ae20f9fcc9fa585e8fce6aa90bb9740
+size 101

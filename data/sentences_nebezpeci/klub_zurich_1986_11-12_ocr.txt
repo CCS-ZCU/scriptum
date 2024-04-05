@@ -1,4 +1,3 @@
-vyprávět hrob pán odcházet darovat ikona říci Lisjanko hrozit nebezpečí stačit svatý
-dýchat nebezpečí uškodit
-psychologie vidět nebezpečí člověk ztratit dav
-nebezpečí následek nedozírný
+version https://git-lfs.github.com/spec/v1
+oid sha256:78d2fec62200b91eb16a04907708fe45d08c979609963d84203cc2acda92ac3f
+size 210

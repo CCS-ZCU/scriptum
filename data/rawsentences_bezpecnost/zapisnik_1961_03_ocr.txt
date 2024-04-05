@@ -1,3 +1,3 @@
- Kolárova “chandra” je arci moderní, rytino- váná, skoro bychom řekli hotovaná (viz hot-jazz); ale pod týmto břeskným koloritem se skrývá palčivé hledání; hledání ztraceného času? hledání hlubiny bezpečnosti? — Nešel byoh snad tak daleko.
- Kolárova “chandra” je arci moderní, rytmo- vaná, skoro bychom řekli hotovaná (viz hot-jazz); ale pod týmto břeskným koloritem se skrývá palčivé hledání; hledání ztraceného času? hledání hlubiny bezpečnosti? — Nešel byoh snad tak daleko.
- Minister štátnej bezpečnosti Kopřiva v súvislosti s túmito čistkami před Sborom štátnej bezpečnosti v Bratislavě povedal, že “výstavba socializmu v Československu podlieha rovnakej zákonitostí ako výstavba socializmu v Sovietskom svaze” .
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2e62e4df1993b031af2bdda11d0326052af305f77423c551ac8b24f9c86714
+size 796

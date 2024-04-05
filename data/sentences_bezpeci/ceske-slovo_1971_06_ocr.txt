@@ -1,1 +1,3 @@
-československý uprchlík drtivý většina najít vřelý přijetý klid bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:da4e0cecf3eb137903c26b5d15dfdea5f4236c0af578dbbd923c493cbe7bd2f9
+size 85

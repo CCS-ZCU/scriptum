@@ -1,1 +1,3 @@
- Naše vztahy k Sovětskému svazu jsou základem naší bezpečnosti, zdrojem našich jistot, výrazem skutečnosti, že jedině země, jež spojují shodné třídní zájmy, mohou vytvořit nový, kvalitativně vyšší charakter spojenectví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b9da7de37da07e2f5ab0cebca731ef683003706eaef7411e1c79b4bfdb74e8
+size 247

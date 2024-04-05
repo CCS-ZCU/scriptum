@@ -1,1 +1,3 @@
- Bylo na čase zase se obávat o svoji bezpečnost! Protože jsem dost dlouho patřil do malého kroužku anti-komunistických studentů v gymnáziu, věděl jsem, že mi už začíná hořet půda pod nohama! Přišel už čas na útěk! Během velikonočních prázdnin 1948 jsem si rychle sbalil do kufru svých pár švestek a po bolestném rozloučení s tátou jsem odjel vlakem do Mariánských lázní, odkud jsem si to v noci namířil přes lesy a hranice do té Američany okupované zóny západního Německa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad62a599c0909fd3647cb6eb88ababb037d94ffd5f7c1589252fa8518c606c4b
+size 523

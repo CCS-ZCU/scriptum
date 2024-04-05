@@ -1,1 +1,3 @@
- O skutečném stavu biaferského obyvatelstva a o osudu misionářů máme zprávy protichůdné: vláda mluví o klidu a pořádku, i když na některých místech prý došlo k násilnostem, které byly okamžitě potrestány a napraveny, na druhé straně se mluví o tom, že misionáři byli internováni a že zvláště řeholní sestry si nejsou jisty osobní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d18fccf70b36b4c48bc648af39f2cd1465c20520a96f35c3ae6a4fe1f729460
+size 384

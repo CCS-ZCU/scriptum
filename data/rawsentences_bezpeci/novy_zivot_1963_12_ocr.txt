@@ -1,1 +1,3 @@
- Takový rokokový lantkrabě se cítil v bezpečí; nemusel svého předchůdce zavraždit, nastoupil dědičně; měl věrné poddané, jeho granátníci stáli před zámkem pro parádu, ne proto, že by čekal vrahy; on měl pokdy na pomilování.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48f918fd5b409e7901d89a62369d192d9c24c766ad3feceeff04ed7add4fbb0c
+size 252

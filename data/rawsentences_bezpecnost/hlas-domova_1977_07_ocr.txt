@@ -1,3 +1,3 @@
- Prezidentovu žádost provází zpráva, která označu- je zahraníční vysílání o otázkách americké politiky, amerických ideálech a tradici svobodné výměny in- formací za životně důležité pro bezpečnost Spojených států.
- 77 byli státní bezpečností nezákonně za- držení občané, kteří: jeli předat uvedený dokument 3 průvodními dopisy vrcholným státním orgá- nům ČSSR.
- Havel se 'vzdal bezpečnosti' a byl zadržen z jiného důvodu, než je Ch77.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e0e00b7d797ae4fb3236a8c06bafc76799309179ce9feffe9d50badc1fdad90
+size 493

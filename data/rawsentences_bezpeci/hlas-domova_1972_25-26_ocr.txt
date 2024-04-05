@@ -1,2 +1,3 @@
- Diktátor najde vždycky letadlo, které ho v případě nebezpečí dopraví do bezpečí.
- Krysy vylézají z domů a proudí, jako při každé správné potopě, do bezpečí, jenomže v tomto případě opačným směrem, na archu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e885a338ea0404f1b6777e79e66b1d8f94d840941a6a45f65bf53737698d630
+size 238

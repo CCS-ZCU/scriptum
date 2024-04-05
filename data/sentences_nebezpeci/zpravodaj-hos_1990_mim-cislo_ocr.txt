@@ -1,1 +1,3 @@
-lidé uvědomovat skutečný dosah nebezpečí len centimetr
+version https://git-lfs.github.com/spec/v1
+oid sha256:95315cc211e62cc21086b143d83cec0cd5b26c7ed0e89493f2920d31fa702145
+size 61

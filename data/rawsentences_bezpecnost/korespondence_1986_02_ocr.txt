@@ -1,24 +1,3 @@
- 4 MEZINÁRODNÍ POLITIKA BEZPEČNOST EVROPY - porada socialistických stran zemí NATO AFGHÁNISTÁN - poslední interview Olofa Palmeho MAĎARSKO-RAKOUSKÝ ROZHOVOR str.
- Nemohu a nechci sovětským úřadům ušetřit výtku, že hned po nehodě reaktoru nedaly k dispozici všechny informace, potřebné v zájmu bezpečnosti.
-“ Jakkoli je správné, že v atomových elektrárnách Spolkové republiky je děláno mnoho pro jejich bezpečnost, „nemůže přece žádný vědec a žádný politik s dobrým svědomím vyloučit, že i u nás nedojde k poruchám nebo dokonce k velké nukleární nehodě.
-“ Pro stávající atomové elektrárny žádal Rau strategii dodatečného zvýšení bezpečnosti.
- Dodatečné zvýšení bezpečnosti u existujících jaderných elektráren nestačí, musí být řečeno zřetelné ne.
- Odpovídající rozhodnutí je podle ministerského předsedy Ingvara Carlssona závislé na posudku švédské rady pro atomovou energii, která má znovu posoudit bezpečnost atomových elektráren.
- Požaduje (kancléř Kohl) vysvětlení a informace, dohodu, mezinárodní dozor nad bezpečností jaderných elektráren.
- Společná bezpečnost je možná jen partnerstvím v domě Evropa.
- Atomový věk vyžaduje partnerství bezpečnosti, vojenské i civilní.
- MEZINÁRODNÍ POLITIKA BEZPEČNOST EVROPY JE MOŽNÁ JEN S USA A KANADOU Vedoucí zástupci socialistických a sociálnědemokratických stran z členských zemí NA TO projednávali na své dvoudenní konferenci koncem listopadu minulého roku otázky společné bezpečnosti; jednání se mj.
- praví: - Kolektivní bezpečnost západoevropských členských zemí Atlantického společenství může být i nadále nejúčinněji zajištěna ve spolupráci se Spojenými státy americkými a Kanadou v rámci Atlantického paktu.
- Pro posílení bezpečnosti Paktu je nezbytné neúnavné usilování o uskutečnění uvolnění a kontroly zbrojení a o odzbrojení cestou jednáni a dohod na základě přiměřené schopnosti obrany.
- - Západoevropské země musí jednotlivě i společně poznat svoji zvláštní odpovědnost za zajištění a vývoj bezpečnosti na evropském kontinentě a odpovídajícím způsobem jednat.
- Západoevropské země nemohou jako členové paktu suverénních států delegovat odpovědnost za svoji bezpečnost na jiné státy.
- Musí se proto aktivně podílet na všech jednáních, týkajících se evropské bezpečnosti.
- Zavedení nových zbrojních systémů ohrožuje stabilitu a přináší s sebou stále nové a stále větší problémy pro bezpečnost mezi Západem a Východem.
- Musí být zabráněno rozšíření závodů ve zbrojení do kosmu na základě SDI a podobných konceptů, protože to vytváří jen iluzi větší bezpečnosti a ve skutečnosti ohrožuje strategickou stabilitu a uvnitř spojeneckých zón vytváří nestejnou bezpečnost.
- - Zkušenost s vývojem pochybné stability, které bylo dosaženo doktrínou o jistém vzájemném zničeni ukazuje, že žádná strana nemůže dosáhnout svou bezpečnost stále větším hromaděním zbraní hromadného ničení.
- Cílem proto musí být dosažení vzájemně garantované bezpečnosti nejen pro obě supervelmoci, 5  ale také pro Evropu.
- Naším bezprostředním cílem musí být vytvoření přibližné vojenské rovnováhy a tím zajištění vzájemné bezpečnosti a stability na nejnižší možné úrovni.
- -Shoda mezi panem Reaganem a panem Gorbačovem v tom, že atomovou válku nelze vyhrát, jejich přesvědčení, že žádná strana by neměla usilovat o vojenskou převahu a jejich vyhlášení o zabránění závodů ve zbrojení v kosmu a zastavení závodů ve zbrojeni na zemi mají základní význam pro bezpečnost světa.
- Životně důležité zájmy Evropy v oblasti bezpečnosti a odzbrojení naléhavě vyžaduji, aby vlády použily všechen svůj vliv k tomu, aby probíhající jednání byla produktivní a ab/se zabránilo vzniku nových závodů ve zbrojení v neprospěch evropské bezpečnosti.
- Myslím si, že Rusové jsou právě tak posedli svým problémem bezpečnosti.
- Právě tak jako jsem si nikdy nemyslel, že Američané se drží ve Vietnamu proto, aby mohli pokračovat nahoru směrem k Čině, tak si nemyslím, že účelem sovětské invaze v Afghánistánu je jít dál, pokračovat dolů k teplým mořím, nýbrž že rozhodující je problém jejich vlastni bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc0715ffd1e0b8583d161446b15ad63b823eb841b41096102dcd53d1a3303e92
+size 4481

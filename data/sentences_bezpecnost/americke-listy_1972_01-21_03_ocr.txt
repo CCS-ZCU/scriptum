@@ -1,2 +1,3 @@
-dobrý anděl strážní státní bezpečnost vydávat vyrobit protistátní činnost podnik
-bezpečnost vidět alegorie československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a29a204a4f6823c7eb8170e54eb3817646cba7ae7253414180e2fa16e73319
+size 138

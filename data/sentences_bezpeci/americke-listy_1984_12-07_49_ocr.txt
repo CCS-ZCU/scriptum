@@ -1,1 +1,3 @@
-index cenzorship dávat slovo bezpečí uvozovka Seifert rok dělený tina Nobelův cena literát
+version https://git-lfs.github.com/spec/v1
+oid sha256:65a13fbf2f1f54ee5e3ed068c633fd65eb8d02dbe636c8e5fe2499cd0d4b49f3
+size 102

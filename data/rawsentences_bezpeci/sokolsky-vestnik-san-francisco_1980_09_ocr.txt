@@ -1,1 +1,3 @@
- Ty dodnes existují, ale ono je to trochu moc Špacírovat se v bezpečí po ulici s plakátem v ruce, občas se přidat ke skandování hesel a vůbec nějakým způsobem projevit nesouhlas s tím co se děje s naší vlastí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f082c31dc7ad58fd0c379b6c66349165e8c08cc9d834820b12b8ad155b5771
+size 229

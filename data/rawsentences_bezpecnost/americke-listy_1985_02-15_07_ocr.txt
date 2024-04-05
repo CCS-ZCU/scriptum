@@ -1,5 +1,3 @@
- Je jenom jedna hranice, kterou Jalta symbolizuje, a která nemůže být nikdy uznána za legitimní: je to hranice meMLUVČÍ POLSKÉ VLADY ÚTOČÍ Když státní žalobce v toruňském procesu žádal trest smrti pro kapitána státní bezpečnosti Gregor- ze Piotiwvského a pětadvacet let vězeni pro jeho dva komplice a také nadřízeného, plukovníka Adama Pie- truszku, vystoupil na své pravidelné tiskové konferenci mluvčí polské vlády Jerzy Urban.
- Každý národ má právo na to zajistit si bezpečnost.
- který by Evropě zajistil bezpečnost, spočívá ve větší míře její svobody, A to je cil.
- před 20 000 věřících na- padl státní bezpečnost jako celek a nikoli pouze čtyři důstojníky, kteří se zodpovídají před soudem v Toruni.
- Ritter, který je také členem americké komise pro helsinskou konferenci o bezpečnosti a spolupráci v Evropě, oznámil, že tato komise právě navrhuje sovětské helsinské výbory, vězněné nebo v exilu, na Nobelovu ceny míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e37e9e074e47a800f8097be56b6abefae4fbb868a4b49f9e3da8e91e63f3f72
+size 1018

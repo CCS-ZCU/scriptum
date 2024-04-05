@@ -1,1 +1,3 @@
-NATO vzniknout nástroj obrana západoevropský demokracie nebezpečí expanze stalinský sovětský svaz varšavský pakt vzniknout odnož sovětský armáda nástroj sovětský politika
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f39a7e1e43b5a10277cf116aad5709e21400821eaaca9f88731f9172bea669
+size 188

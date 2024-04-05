@@ -1,6 +1,3 @@
- Toto nové trestní stíhání jasně ukasuje^ že státní moc nejen nehodlá přehodnotit brutální a ostudný zákrok Bezpečnosti proti pokojné bratislavské manifestaci a potrestat jeho iniciátory, nýbrž že má í nadále v úmysle pronásledovat -naprosto účelově vybrané účastníky manifestace.
-1980 sadržen hlídkou Veřejné bezpečnosti na nádraží v Pardubicích, když cestoval z předchozího výkonu trestu odnětí svobody.
- Nejvýrazněji je to ovsem řečeno v Závěrečném aktu konference o evropské bezpečnosti a spolupráci z Helsink roku 1975.
- Zde je respektování lidských práv a svobod vyhlášeno sa jeden, se základních principů soustavy bezpečnosti a spolupráce v Evropě (a Severní ámerice) -* v oblasti, reprezentující 75 % ekonomického potenciálu a přes §0 % vojenského potenciálu světa.
- Ty se ocitly ve svláštním postavenís Konference o bezpečnosti a spolupráci v Evropě byla do značné míry výsledkem jejich dlouholetého úsilí, směřujícího především k uznání státu qoo vzniklého z výgledků 11.
-31j88) Při sovětském výboru pro bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:026341fc743ac1d8ab500e805bd8771898e997a9de1cd94ac68a63b9ed7f7e42
+size 1141

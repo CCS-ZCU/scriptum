@@ -1,7 +1,3 @@
-Diodor Tarsa pojímat Kristův lidský přirozenost ocitat nebezpečí uvolnit jednota božský přirozenost přiznávat považovat jednota morální fyzický
-Aino dozvědět stav věc velký míra známý nebezpečí hrozit
-snažit hovor vyhnout hrozící nebezpečí dostávat nesnáz tlouci srdce krev stoupat hlava
-Jiří Berek rozhled vyhlídka evropský hnutí idokončení úplný obrat situace přivodit Churchillův historický curyšský řeč žádat Francie Německo smířit Evropa sjednotit obrana sovětský nebezpečí
-jiný větřit nebezpečí francouzský nadvláda plán vycházet generál Gaulle
-nebezpečí neutralismus německý souviset dnešní stav otázka sjednocení část Německo
-spisovatel François Mauriac ztotožňovat vládní směr Gaull jiný mocný president vidět nebezpečí demokracie jiný alžírský politika považovat zrádce francouzský národní zájem
+version https://git-lfs.github.com/spec/v1
+oid sha256:7314a439f7059c62b35167815996a7f586cc14682f1ebaa40e6f3dbce85866f3
+size 904

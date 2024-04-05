@@ -1,1 +1,3 @@
-řídit auto záplava automobil přiznávat zapomenout manželčin bezpečnost moci slyšet říkat hovořit sokolský zkušenost CSR
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a60ec96482fc34245ff977555a70ae2c6ad55b59de427bb9896661d010f20c
+size 134

@@ -1,3 +1,3 @@
- Zapojil jsem do pátrání Veřejnou bezpečnost, akci Z, akci Reflektor, partu brusiče Karbana, i.
- “ Rozumieme” , povedal Tanaka, “ že Amerika je príliš zamestnaná rôznymi domácimi i medzinárodnými problémami a že z toho ’ dôvodu sa stáva, že Washington venuje menej pozornosti ázijskému vývoju, ale zároveň sme presvedčení, že Amerika musí zostať v tomto priestore a musí zohrať vážnu úlohu nielen v záujme svojej vlastnej bezpečnosti, ale aj v záujme bezpečnosti Ázie a celého sveta.
-” Tanaka zdôraznil, že americko-japonská zmluva a americká siedma flotila v Juhoázijskom mori sú zárukou' bezpečnosti a stability pre všetky ázijské krajiny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7a3c892f1643aaa9a2ce1a11d670af95dbf73f5368e6d65fa9088c39d0e395
+size 703

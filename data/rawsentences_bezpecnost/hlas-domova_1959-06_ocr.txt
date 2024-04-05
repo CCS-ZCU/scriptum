@@ -1,1 +1,3 @@
- Je to psychouš, natočený k poctě Týd- ne bezpečnosti v dopra- vě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9996e265e4a69d69a8334a6225ae832cf7592eabafd71ccab11cd31d22b7938
+size 74

@@ -1,2 +1,3 @@
-trvat okupace Československo nebezpečí zažehnaný
-přijít nový vlna emigrant pomoci
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba5067b883d2b914340b05acdc73a826f8f321dec8e713f2a0d9fcd6b380b13
+size 90

@@ -1,1 +1,3 @@
- V tom smyslu probíhaly diskuze o bytové výstavbě, o bezpečnosti práce, o nových JZD-stano- vách a tč.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb22bf0c120f847150539344277bef65a9b27fef097aaaadab53a7f32c06b36c
+size 112

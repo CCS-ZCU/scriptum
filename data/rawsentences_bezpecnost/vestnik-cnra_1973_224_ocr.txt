@@ -1,5 +1,3 @@
- septembra sa v Ženeve zahájilo pokračovanie helsinských jednání o európskej spolupráci a bezpečnosti.
- Chcú si zaistiť spoluprácu a pomoc slobodnej Európy, ako aj u- znanie všetkých výbojov od druhej svetovej vojny a zaistenie bezpečnosti v prípade ich útoku proti Číne.
- ČESKOSLOVENSKÉ NÁRODNÍ RADY AMERICKÉ čísio 224 Září 1973 KONFERENCE V ŽENEVÉ Po přípravné schůzi ministrů v Helsinkách v červenci, bylo v září zahájeno zasedáni konference pro zabezpečení evropské bezpečnosti a míru v Ženevě.
- Referovala výstižným způsobem o Konferenci o evropské bezpečnosti, která se konala v Helsinkách a konferenci v Ženevě, které se zúčastní 35 národů a která měla být zahájena včera.
- Předsednictvo ČSNRA, referovala dále ses Vrázová, se rozhodlo v zájmu československé věci vyslat na Konferenci o evropské bezpečnosti jako svého pozorovatele dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e643b106339c82ded7f9ebdbd56af91628853f329036200863b1945c5cf4da5
+size 928

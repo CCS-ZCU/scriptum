@@ -1,2 +1,3 @@
- Trochu se propojovali s panem Holým, Theosofem, který zemřel v roce 1961 a kteremu bezpečnost na sklonku života zabavila jeho Spisy a psací 3troj.
- Jejich hlavmm propagátorem byl pan flabek z Hrubé Skaly v severních Cechách, byl obtěžován Bezpečnosti .
+version https://git-lfs.github.com/spec/v1
+oid sha256:20354a5268a73f86db13c24f998403fd4efb0b5b72d50bdf4f35e53526738ded
+size 268

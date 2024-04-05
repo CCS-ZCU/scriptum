@@ -1,1 +1,3 @@
-březen zakrýt nebezpečí volební lekce
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e6c3a774187dfc8fbde1a6800d314aae981a39c3578143c65a6993389ddf265
+size 181

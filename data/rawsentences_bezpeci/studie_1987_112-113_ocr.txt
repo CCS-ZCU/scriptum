@@ -1,4 +1,3 @@
- Mohou být pokrokem ve službách člověku, ale přinášejí s sebou i vážná ne- bezpečí.
- Kromě toho se má vždycky dbát mravního požadavku nikterak nespolupracovat s úmyslným potratem a neumožňovat ne- bezpečí pohoršení.
- Život tohoto světa, obývaného Švejkem, se scvrkává na bezprostřední, pudově teplé pohodlí, na ne- problematické, příjemné bezpečí najedeného a napitého žaludku.
- Ne nadarmo se však říká: »Žádná odpověď, také odpověď!« Tedy pomozte v pátráni! Ale ne po manželích Karlu a Jindřišce Kořínkových, pro- tože tito bezúhonní občané jsou toho času asi v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:011295fd4bb918c6a35825b54a7136895b728e60ea02c0ebd4816e5867e66f8d
+size 308

@@ -1,5 +1,3 @@
- Milan Rastislav Štefánik světa, že “hospodářské u- volnovanie na Západe (Detente) a vojenské dobro- družstvá Sovietov nemdžu kráčat’ ruka v ruke”, ako na to len nedávno upozorňoval profesor harvardskej univerzity, Samuel Huntington, ktorý před pár týždňanň odišiel z úřadu Národnej bezpečnosti v Bielom Dome.
- Už teraz sa musí zdórazňovať, že helsinský dokument je nutné pokládat’ za celok vo všetkých jeho častiach a že využívanie výhod v hospodářských, vědeckých j bezpečnost ných častiach sa ne- smie připustit’ bez plnenia závázkov vo veciach ochrany ]’udskýhc práv, slobody informácií, volnosti pohybu a vo věci sníženia so- vietských vojsk v Strednej Europe.
- Bohužial’, ani tu nentóžeme povedať, že by tieto inštitúcie slúžili nestranné v záujmu medzi- národného mieru, bezpečnosti a ochraně občian- ských, 1’udských a politických práv a slobod, ako im to předpisuje Charta Spojených národov, Deklarácia l’udských práv a Kovenan- ty o občianských a politických i hospodářských, so- ciálnych a kultúrnych právach.
- Z týchto dóvcdov důležité medzinárodné jednania — najma politické, týkajúce sa mieru a bezpečnosti a omedzenia zbrojenia sú vedené mimo rámec Spojených národov.
- Bez něho niet mieru a bezpečnosti v Europe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84895e9d4a7853695f24552a9bff31ea61d0edc6ff415becde00cf03dff3be27
+size 1364

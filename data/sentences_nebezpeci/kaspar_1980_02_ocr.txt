@@ -1,1 +1,3 @@
-převalit záda kanárka zamořený důl robustní typ uvědomit něja=o kýt nebezpečí existovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:4836698a6c375aada5cf9d5df9fb2d227017186b395349bc3b155c0f1400cc3e
+size 100

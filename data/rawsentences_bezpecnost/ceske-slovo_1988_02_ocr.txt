@@ -1,5 +1,3 @@
- Výbor amerického kongresu pro bezpečnost a spolupráci v Evropě, který sleduje dodržování helsinských závazků ve všech signatářských zemích, vydal oficiální publikaci Lidská práva v Československu.
- V letech 1945 -1948 byl národ svědkem mnoha krutostí, zvěrstev a zločinů komunistů, kterým však zkomunizovaná Bezpečnost nejen nečelila, naopak, v řadě případů zahlazovala stopy po pachatelích zločinů.
- Přes veškeré úsilí nekomunistických stran a jejich ministrů ve vládě nepodařilo se zabránit další komunizaci Sboru národní bezpečnosti.
- To byl osudný zásah komunistického ministra vnitra do struktury Bezpečnosti, zásah, který pak vedl ke krizi ve vládě a posléze k demisi dvanácti nekomunistických ministrů.
- ♦ V únoru 1948 se ukázalo, že komunisté (odjakživa) stáli vysoko nad tímto státem, nad jeho národem, bezpečností, a toto povýšené postavení po únoru 1948 ovšem petrifikovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48cd4530a7a4dfed60857cf6c899845311cefa676f94ce094e17f6db173f903e
+size 976

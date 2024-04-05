@@ -1,1 +1,3 @@
- 2) Po 40-tém roce bezpodmínečně vyhledejte gynekologa pro své bezpečí i klid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:737fdeddd27ce080e2f1b27367b05b14e423057fbbfe23c50f97fc35392ebfd0
+size 86

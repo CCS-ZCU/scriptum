@@ -1,1 +1,3 @@
-stín pohlcený
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ead375614a747ab7c754a3015bde163e515293e419d3d7099954022d6d7c228
+size 16

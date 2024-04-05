@@ -1,1 +1,3 @@
-slovenský hora podnik rok moci zaručit bezpečnost slovenský lid obyčejný rozhořčený britsko francouzský útok Egypt
+version https://git-lfs.github.com/spec/v1
+oid sha256:4277624a8e394f2fd32f6ebb4480b7ed52fac0a8834d75768c1f0641b9ad0837
+size 126

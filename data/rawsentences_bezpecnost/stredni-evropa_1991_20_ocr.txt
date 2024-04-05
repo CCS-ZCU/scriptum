@@ -1,6 +1,3 @@
- Československá republika, až dosud přítel a spojenec dvou západních velmocí, s nimiž sdílela demokratické ideály a principy bezpečnosti, a o níž se stále ještě předpokládalo, že je svobodnou a nezávislou zemí, zjistila, že se jako první stala obětí direktoria čtyř mocností, vydávajícího zákazy a nařízení.
- Memorandum ukončilo své obecné úvahy poznámkou, že československá většina "spoléhá na skutečnost, že jakákoliv politika zaměřená na trvalou bezpečnost Československé republiky se musí snažit o vytvoření přijatelných podmínek i pro existenci a rozvoj ostatních národností".
-Hodža dodal ve svém proslovu "že není možné nečinně seděl a přemýšlel o dokonalé bezpečnosti".
- Sudetští Němci formulují svou představu "základních práv národů a národnostních skupin" ve čtyřech bodech: a/ svobodu a bezpečnost pro všechny národy a národnostní skupiny, aby mohly autonomně určovat možnosti svého vývoje na základě rovnosti práv, úspěšnosti, sil a kapacit; b/ úměrný podíl každého národa a národnostní skupiny na vedení, organizaci a činnosti státu; c/ ochrana proti deprivaci národností; d/ záruky práva na neomezené projevy národnosti a právo pěstovat národní jednotu.
- Autonomní správa se bude zabývat záležitostmi, které zájmy jednoty a bezpečnosti státu nevyhrazují "bezpodmínečně" pro stát.
- Například lord Dacre (Hugh Trevor-Roper) tvrdí, že impéria zaručují jistou světovou bezpečnost a že bychom je měli z nedostatku lepší alternativy podporovat, dokud je to možné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:178b1f488470c7a7423cf94bfcedacedae9965bd28e599ce6199fc9f92de3f16
+size 1635

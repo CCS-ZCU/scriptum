@@ -1,5 +1,3 @@
- Izolace předtím vzpomínaná byla snad vymyšlena v Leopoldově a „posvěcena“ možná i na tehdejším Ministerstvu národní bezpečnosti.
- Z toho nejméně 2 byli konfidenti Státní bezpečnosti.
-“ Miloslav výborný, ministr obrany: „Severoatlantická aliance a bezpečnost? - To zní sakra povědomě.
- A proč jsem ministr? - A proč se mě vůbec ptáte? Josef Zeleniec, šéf diplomacie: „Proše pana, já si myslím, že naše bezpečnost je bezproblémová.
- A také se s bezpečností Evropy nic nestalo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fed06895afe6ccc7d136f52d26edd899c9b276386af49e27d220c170cbe35ab
+size 530

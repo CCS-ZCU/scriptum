@@ -1,6 +1,3 @@
-poradit ozdravění dnešní stav základ pracovní zkušenost
-myslit velký nebezpečí starý totalitní režim nahrazený lidé domnívat veslo rozkazovat nechat uplatnit jiný mínění
-říci parlament vláda moci problém diskutovat velký nebezpečí demokracie zaručený
-skupina začít myslit muset určovat vidět velký nebezpečí
-mít začít napravovat mít vidět nebezpečí myslit prospěšný přistupovat otevřený oko ucho
-myslit mít velký úcta lidé vidět nebezpečí postavit
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e932d1c8a1d0a98b36ce6973043713a166188fe6bce64042758238b0e5a162
+size 504

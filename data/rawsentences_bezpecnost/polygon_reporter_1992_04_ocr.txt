@@ -1,6 +1,3 @@
- rozvědkám), odkud na vlastní žádost odešel k útvaru VB (veřejné bezpečnosti) a byl rozkazem ministra vnitra ČSR jmenován do funkce vyšetřovatele VB.
- Někomu by se mohla zdát situace paradoxní, že právě já - státní bezpečností tolik postižený - se zastávám bývalého příslušníka StB.
- té státní bezpečnosti, které oni sami věrně a bez uzardění sloužili a plnili horlivě všechny jejich příkazy a přání, což naopak, zcela prokazatelně, odmítl právě kpt.
- U nás ve Zlíně se nám to na úseku bezpečnosti podařilo díky jmenování civilisty do funkce ředitele Okresního ředitelství Policie ČR ing.
- Avšak mezi vámi jsou i nepřátelé, dokonce přímí, placení agenti angloamerických imperialistů! Těm říkám: Přijďte ke mně, svěřte se mně! Já vás pak okamžitě odevzdám bezpečnosti, a ta už ví, jak s vámi nakládat!“ Pro své debilni šprochy si Vlka oblíbil i leckterý reakcionář, o přímých, placených agentech ani nemluvě.
- Radí se s příslušníky armády a Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16e5ae010d379e19d063cf16c8edd32196cb1dd0bccb3fa96934e5d7636617e2
+size 1076

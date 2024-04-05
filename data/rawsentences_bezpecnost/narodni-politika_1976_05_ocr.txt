@@ -1,3 +1,3 @@
- Spojené státy ustaví v Kongresu komisi, jež se věnuje monitorování všech závazků, které na sebe převzaly evropské komunistické státy na konferenci o bezpečnosti a spolupráci v Evropě, jak již byla navržena v prvém zasedání 94.
- A- by to mělo větší váhu, některé známé osobnosti byly pozvány do Bar- tolomějské ulice na Bezpečnost.
- Turista, vědom si své povinnosti, šel na Veřejnou bezpečnost a hlásil službukonajícímu orgánu: „Byl jsem, prosím, na Václavském náměstí přepaden třemi Švýcary, kteří mi uloupili moje ruské hodinky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:536d780dfe836aaf9fd5bff2448478c536750421b6f41cf7a2ea370104e61fc2
+size 592

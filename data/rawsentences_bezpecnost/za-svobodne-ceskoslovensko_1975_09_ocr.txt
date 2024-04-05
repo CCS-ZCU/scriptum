@@ -1,1 +1,3 @@
- Před odletem na Konferenci o evropské bezpečnosti a spolupráci do Helsinek, pozval americký president zástupce etnických skupin z východní a střední Evropy do Bílého domu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b07bc45c41f312bb52f9d1c48e111503d4330537cffafd7f13c7644c51801bb0
+size 186

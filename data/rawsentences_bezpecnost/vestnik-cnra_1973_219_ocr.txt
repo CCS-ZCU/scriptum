@@ -1,2 +1,3 @@
- Nebylo tedy divu, že toho středečního poledne chicagské ulice jako by ztrnuly — národu, který v tak krátké době dvakrát bojoval v daleké cizině za bezpečnost a svobodu světa, zjevila se znovu hrozivá představa války.
- Dalším bodem jejího projevu byla připravovaná konference o evropské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99dc5dd49ffc10685389f74e1b1a5221cc19ec089c9a73e03172056e6d055e73
+size 327

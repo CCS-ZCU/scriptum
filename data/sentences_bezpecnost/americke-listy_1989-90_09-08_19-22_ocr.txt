@@ -1,1 +1,3 @@
-druh pomluva zapůsobit požádat strana bratrský pomoc běžný kontinuita státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:0512f88f6e057bfc603c669dc29b200a2aeae26fc684f2c2d5a545d080c699db
+size 98

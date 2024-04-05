@@ -1,4 +1,3 @@
-ČESKOSLOVENSKÉ NÁRODNÍ RADY AMERICKÉ Číslo 226 Listopad 1973 KONFERENCE V ŽENEVE Konference pro zabezpečení evropské bezpečnosti a míru, po předběžném zasedání v Helsinkách, pokračuje v Ženevě.
- vyslanec ve Spojených národech za svobodné Československo, který po svém návratu podal Československé národní radě americké zajímavé informace: “Druhá — technická, ale veľmi dôležitá fáza jednaní о spolupráci a bezpečnosti v Európe bola zahájená v Ženeve dňa 18.
- Prvý výbor jedná o bezpečnosti v Európe.
- Rozhodně nebezpečná situace nepřeje našim zájmům “pro zabezpečení evropské bezpečnosti a míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:118d1eb74a02661dbfd53e8f55acd9e8723badc1c1ed7e5b668cbdb07b01db75
+size 673

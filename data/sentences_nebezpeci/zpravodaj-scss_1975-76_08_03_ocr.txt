@@ -1,3 +1,3 @@
-Masaryk poukázat zesurovění německý kultura ponižování neněmecký národ Rakousko nebezpečí hrozit monarchie spojenectví hohený zollernský Německo
-zdát bezprostřední nebezpečí komunistický převrat Portugalsko hrozit
-nebezpečí dirigentský pult vrátit
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f58783a0d4987683b2b49d8b5d1f0f7a7a072a4df8ec5b3ce519c705292fa81
+size 273

@@ -1,20 +1,3 @@
- Do akcie zapojili pohotovostný pluk Zboru národnej bezpečnosti z Pezinku.
- Samotné Hviezdoslavovo námestie zaplnili v piatok celý deň príslušníci, Bezpečnosti v civile a v uniformách.
- Zároveň vyskočili z aut príslušníci Bezpečnosti a začali ľudí, ticho stojacich so sviečkami v ruke, surovo mlátiť.
- Vidím jo, všechny ty vůdce, kteří se vzájemně dávají sledovat Bezpečností, jak debatují do rána, bez sebe dychtivostí a očekáváním, komu vynese historická chvíle větší žvanec moci.
- Tyto hostitele, sovětský Výbor pro evropskou bezpečnost a spolupráci, reprezentuje nevlídný obrýlený muž, jehož jméno mi uniklo.
- Ráno jsme absolvovali první řádnou schůzku sc svými hostiteli, se sovětským Výborem pro evropskou bezpečnost a spolupráci.
- Signatářské státy Helsinské konference o evropské bezpečnosti a spolupráci zvažovaly v té době sovětský návrh uspořádat v Moskvě oficiální mezinárodní konferenci o humanitárních otázkách.
-" Že by se mohlo konečně něco povést ? Devátého večer ale začíná být jasné, že i přes nátlak úřadů a represe bezpečnosti se řada delegátů do Moskvy dostala.
- Celou dobu, kterou jsem potom proseděl v letadle, jsem se snažil vymyslet způsob, jak: udělat to, co bylo potřeba udělat a co by ale nemělo za následek nepříjemnosti se Státní bezpečností.
- V situaci, kdy venku pod okny stála auta bezpečnosti, byla jeho klidná režie "jako by se nic nedělo' velice působivá.
- ledna 1988 bylo Státní bezpečností násilně přerušeno.
- Součástí těchto závažných změn je stále sc rozšiřující a prohlubující kritičnost pohledu na 619  vlastní bezpečnost a její nedávné dějiny.
- Velká většina účastníků fóra proseděla v úřadovnách Bezpečnosti několik hodin, ne-li celý den.
- Jinak působila dojmem dobromyslné, leč důvtipné osoby, neschopné jakéhokoli fanatismu, a já si kladl otázku, jak to mohla vydržet s mužem, který byl podle všeho zabiják vc službách Státní tajné bezpečnosti.
-své péče Státní bezpečnost.
- Ale to už ten,, co mi dával cigarety, mi říká: "No, abychom sc dlouho nezdržovali, jsem od Státní bezpečnosti, budu prosil vaši legitimaci,, abych sc přesvědčil, žc jste mluvil pravdu.
- propagandistické intoxikaci Ferdinand Durčanský, když pokládal agenta Státní bezpečnosti Rudolfa Komanderu za příslušníka autentického 1’utfáckého podzemí na Slovensku.
- 1972, a i jinde by se o teto 'univerzální svědkyni Státní bezpečnosti", původně komunistické novinářce, dočetl mnoho zajímavého.
- Mezinárodní reakce v čele s vládami USA, Velké Británie a Francie sc pokusila dokonce zneužít i Radu bezpečnosti OSN a prostřednictvím chilského delegáta a Jana Pa- pánka, bývalého československého zástupce v OSN, který zradil svou vlast, požadovala prošetření údajného sovětského zasahování do vnitrních věcí Československa, které prý vytvořilo situaci ohrožující mezinárodní mír a bezpečnost.
- československé otázce se jednalo na deseti schůzích Rady bezpečnosti, které sc uskutečnily v období od 17.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a959e45f269d71f3f6744f4f8f9f58743bef2d1e0856815bccc69ee26402b916
+size 3220

@@ -1,1 +1,3 @@
- Ne, ničeho hmatatelného jsme tím nedocílili, jak bychom také mohli, Jardu vyhnali ze země a mě si posléze povolali do úřadoven pardubické státní bezpečnosti, kde dopis pro ministra kultury skončil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ec0ed7a5fe73fe4accce80286df9f88890739f4ca2e534332fe4fd3747c7b03
+size 214

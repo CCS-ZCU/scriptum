@@ -1,3 +1,3 @@
- večer demonstrovalo proti tomuto postupu v Paříži několik tisíc lidí, především stoupenců levicových organizací; nejenomže se proti rozsudku ohradilo několik francouzských odborových ústředen; znovu se s rozhodným dosudkem ozvalo i vedení francouzské komunistické strany, které označilo rozsudky za neoprávněné a žádá okamžité propuš- 3  skutečně bezpečnost státu, pak je nutno se ptát po legitimitě vládnoucího režimu.
- "Je otvoreným ta- jomstvom," konštatuje Charty 77 závěrem, "že orgány štátnej bezpečnosti nedávno presvedčovali niektorých ľudí, predovšetkým signatárov Charty 77, aby odišli z krajiny, zatiaľ čo väznice sú plné ľudí, ktorí dostali prísne tresty za takzvané pokusy opustiť ilegálne krajinu.
- rady se nejen od obou článků distancovalo, nýbrž prohlásilo,že považují odsun za definitivní řešení česko-německého vztahu v zájmu bezpečnosti a území celistvosti čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f1c9a3b433cdeda189c61c8f9117bba11eda4b2557b5b27be433d5df550abf
+size 975

@@ -1,1 +1,3 @@
- Sotva byl však program hotov, počalo v odbojových skupinách docházet ke katastrofálním úderům Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:978abc931af2af39d0396d26ecb256264d3cef1136b1198a2ad76f9406f7ed3c
+size 127

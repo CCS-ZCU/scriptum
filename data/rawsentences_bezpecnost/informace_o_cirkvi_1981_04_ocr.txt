@@ -1,1 +1,3 @@
- před presidentem~Tferkosem p r o h l á s i l , že p o r u š o - v á n í l i d s k ý c h práv nemůže být ospravedlněno a n i výjimečnými o k o l - n o s t m i : "Oprávněné obavy o bezpečnost národa vyžadovanou obecn;v'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbb358d1ac8d929db4c22016ac80a15badb42a2fd5a46f55ddd12cbd227d4d60
+size 241

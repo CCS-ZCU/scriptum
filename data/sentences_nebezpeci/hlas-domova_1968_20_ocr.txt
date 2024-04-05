@@ -1,2 +1,3 @@
-stavět nový problém uvažovat vítr hrozit nebezpečí rozštěpit oddělit lidé
-podceňovat hloubka nový problém přehlížit rozkladný nebezpečí skrývat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b7ccddadb3a51ebab5ed5e964b33ff37ab747c764a193d737fe3a2ed0e49c5c
+size 165

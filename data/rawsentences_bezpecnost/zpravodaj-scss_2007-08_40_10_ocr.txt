@@ -1,1 +1,3 @@
- A není ani ohrožena kandidatura na nestálého člena Rady bezpečnosti při OSN! Paroubek tají jméno Antiklause na post prezidenta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc774bda4e49c551945fe6785275ea5a7fe9ea06caef7904e9058c9da416de60
+size 138

@@ -1,2 +1,3 @@
- bezpečnosti na besedu s novináři.
- Ma- lý byl odsouzen k 2 * půl rokům žaláře- O rozsahu prohlídek, zatčení a procesů svědčí tvrzení komunistických novin, že "jen za posled- ního půl roku zabavila naše bezpečnost u býva- lých kapitalistů zatajené zlato, brilanty a valuty za čtyři miliony osm set tisíc korun".
+version https://git-lfs.github.com/spec/v1
+oid sha256:b700d4caf051c2b8b93556561936858a2157582d18b6929d3e4c4bd90cc53e32
+size 342

@@ -1,2 +1,3 @@
- A nemyslím si, že by to nějak zvýšilo naše bezpečí.
- Oceňuje hlavně bezpečí a pozici/důležitost, plynoucí mu logicky ze všedního dne.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2131aaa4ba74e04f6fab8e8b6d2232ec2e0cb8477161e47f5cac85651ab8d793
+size 152

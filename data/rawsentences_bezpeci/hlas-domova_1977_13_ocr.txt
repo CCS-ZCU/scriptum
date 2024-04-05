@@ -1,1 +1,3 @@
- Staré tvrze — hostelý, kde karavany ztrávily noc v bezpečí před lupiči.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a679d51eaf1d00f02b665ed752bd14f5ce93f7f6d067b3d0989f8fe5c13cbfcc
+size 82

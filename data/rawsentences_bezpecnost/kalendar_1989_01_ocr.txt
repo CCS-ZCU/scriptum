@@ -1,1 +1,3 @@
- S normami vyrovnanými a změštáčtělými od doby, kdy ve Svaté říši římské zavládl kolem poloviny století mír a zaručil českým a německým Židům relativní bezpečnost, zatímco Židé v Polsku se od počátku 16.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdae16655f7023e4338837236c90352e67f44d7927d9221621a3845eec76068c
+size 235

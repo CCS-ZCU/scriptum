@@ -1,1 +1,3 @@
- Podržuje si svou vnitřní rovnováhu, takže se již nenechává strhnout stálým spěchem velkoměstského života,nýbrž zachovává si vůči němu svůj klid a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f667b69b93d26fe7e5b4ae0eb5b7e33320ef43d72d51bcbd03441d96c3cd3777
+size 180

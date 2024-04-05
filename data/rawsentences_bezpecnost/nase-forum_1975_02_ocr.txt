@@ -1,1 +1,3 @@
- Kadur píše například o tom, že arcibiskup Beran si uložil dobrovolné domácí vězení ve své hradčanské residenci a pomíjí skutečnost, že ta"dobro- volnost" spočívala v arcibiskupově neochotě přijmout stálý doprovod Státní bezpečnosti, jakmile by opustil palác.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7765d935ada4e6526818b3f4f95636f09b0fe0e62c3fcc3da2648e215225841
+size 289

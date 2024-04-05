@@ -1,2 +1,3 @@
- V tomto ’'poliebajú sa na veľkú tradíciu amerického ľudu, ktorý c záruke slobôd a práv malých národov nemôže nevidieť záruku vlastnej bezpečnosti a nezávislosti.
- zatiaľ jeho majetok je v bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa22380e1be2514c0552d46c25b9fb017d759bd580de4e96b65d307fd68d2a46
+size 224

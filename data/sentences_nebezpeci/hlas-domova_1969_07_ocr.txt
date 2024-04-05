@@ -1,2 +1,3 @@
-sovětský teze zamířený východní Evropa nebezpečí západ hrozba žlutý nebezpečí
-nebezpečí začít uznávat mír lze upevňovat zvyšování vojenský potenciál svoboda stštnout cenzura internacionalismus znamenat podrobit zájem velmoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8890e4a7456834cff1a0b96d7bc0ec069692530e1e7faafd295b15475971490
+size 254

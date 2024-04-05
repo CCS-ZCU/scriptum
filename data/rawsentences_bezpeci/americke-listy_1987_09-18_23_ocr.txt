@@ -1,1 +1,3 @@
- Po dlouhé době se cítil zase šťastný a v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5113575251b815fb741e9a414fa404f685cdbd1cdacf7e9104dc4982cc820cb6
+size 59

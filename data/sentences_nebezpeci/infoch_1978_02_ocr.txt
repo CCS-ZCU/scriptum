@@ -1,1 +1,3 @@
-svuj fejeton uzavírat slovo mluvit charta mít morální hodnota vykoupený ochota tisícd lidé trpět vystavit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:05407d7f832b3a6c0654c932878857a8223900721de054254daec2d310b564e2
+size 126

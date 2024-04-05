@@ -1,2 +1,3 @@
- Abba E- ban, bývalý izraelský ministr zahraničních věcí — který je nyní předsedou izraelského parlament ního výboru pro styky se zahraničím a pro otázky bezpečnosti, přivítal tento krok Sovětů.
-” — K tomu bych dodal: Zatím se u nás spory o pravdu končívají obvykle interrupcí za asistence Bezpečnosti, jak jednoznačné vyznělo z diskusního příspěvku ministra vnitra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3760467f436329fbcc0bbe647a9d3cd9e946bd6c7fe093fc37b69d49d40a5e88
+size 408

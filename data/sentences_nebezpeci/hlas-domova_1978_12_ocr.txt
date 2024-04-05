@@ -1,1 +1,3 @@
-uvědomovat riziko nebezpečí odbojový činnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d04cf8c5a827c7a54d1a579bcc96e5d30206c6b880fd43f1166487b62cace8f
+size 50

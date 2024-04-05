@@ -1,1 +1,3 @@
-představit ukazovat měsíc říkat měsíc podívat prst říci měsíc
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd49f30914cb621291daf00a4fffb2a8b8bf04e3d1009a5cfdae24f84eb199b2
+size 74

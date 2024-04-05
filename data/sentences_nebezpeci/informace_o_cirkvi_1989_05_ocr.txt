@@ -1,2 +1,3 @@
-nebezpečí
-tiskový referent hěmecký biskupský konference říci mínění mít právo svobodný vyjádření názor forma veřejný projev názor mít soba nebezpečí zej dnodušení polarizace platit
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ff1e135129a8dac168cec46db8c295856aca5bc0cb3ee30d3c14bd3776b3124
+size 346

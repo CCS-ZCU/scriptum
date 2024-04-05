@@ -1,12 +1,3 @@
-lze tvrdit země reálný socialismus hrozit nebezpečí
-nebezpečí moc průběh léta miliónkrát znásobený
-Wron zkratka Jaruzelský vojenský rada národní záchrana hlavní nebezpečí budoucnost vědomý
-druhý nebezpečí druhý moci užitečný
-ekonomický dogmatik Praha zaznamenat nebezpečí rostoucí cena ropa další surovina reagovat patřičný způsob
-poukazovat nebezpečí výstřelek kontrolovaný konzum moci příčina těžký nemoc tvrdit průměrný každodenní spotřeba kalorie činit kcal osoba muset rok snížený kcal
-přijet přesvědčení sovětský impérium ohrožovat svět ohrožovat svět svět všimnout obrana zneškodnění zákeřný nebezpečí podniknout moci vysvětlitelný nebezpečí upozornit moci vysvětlitelný Anatolij Antonov Řím přesvědčení pokládat aktuální zpráva očitý svědek
-skřit zaúpět tahat špendlík tříska dlaň dělat ten velký malý tříska nechávat bát nechat tělo starost mít den kůže čas obalit Červený bolák zhnisat tříska vylézt nebezpečí tetan povolání
-zmenšování svět fenomén zadrat pokračovat
-odvolávat scinda nebezpečí krveprolití skutečnost projevit strach odpovědnost scinda bát místo
-první oběť autor bod HRM první zastrašení zamezení veřejný kritický hlas druhý nebezpečí totalitní režim vytušit
-srovnání západní proud radikální levice československý zastánce směr odpoutaný dogma sdílejípřílišný optimismus revoluční změna vědomý možnost nový byrokratizace další nebezpečí přemýšlet proli byrokratický mechanismus společenský vztah popírat teorie nutnost revoluční avantgarda mít kritický názor současný Čína odmítat různý názor kladný rys byrokraticko centralistický režim
+version https://git-lfs.github.com/spec/v1
+oid sha256:291c8c7903f6f4d0d8e923359c18b1b59f29d3e55f559146be722bb38e439b0a
+size 1777

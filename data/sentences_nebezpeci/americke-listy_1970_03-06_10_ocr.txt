@@ -1,1 +1,3 @@
-naslouchat sovětský hrozba znát hloubka nebezpečí smět veřejnost informovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:05ed698e94799d6092a12eeacdc6a5c7efc3a264f62a970029160c67112b804b
+size 83

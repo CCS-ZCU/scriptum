@@ -1,6 +1,3 @@
- Přes nátlaky, šťáry a výslechy Státní bezpečnosti text pozvání podepsalo 17.
- »A příslušníci Bezpečnosti bili.
- 474  Duchovní obnovu k jeho miléniu zastrčil i anonym v časopise Bezpečnost: varuje bez- pečnost před nebezpečím duchovní obnovy.
- Ne, bezpečnost v ten- to den nezasáhla.
- Ne- cháme-li ideologii stranou, svědčí o tom represe skrytá i otevřeně zjevná: vyhrožování a policejní šikanování náboženských aktivistů, útoky oficiálních sdělovacích medií proti představitelům církve, Svatého otce nevyjímaje, neustálá provokativní přítom- nost Státní bezpečnosti na poutích a církevních slavnostech, brutální potlačení pokoj- né manifestace věřících v Bratislavě apod.
- Při do- movních prohlídkách jevila Státní bezpečnost zájem o jeho texty z poslední doby, jimiž komentoval současný politický vývoj na Slovensku a v Československu a které měly být vysílány rozhlasovou stanicí Svobodná Evropa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b67ac0333a661bf36dde01441a35a68c14ae71928ee5c5925b4bf306f1a8a5
+size 1002

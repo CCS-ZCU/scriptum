@@ -1,3 +1,3 @@
-11 Takže podle Smithe lze udržet bezpečnost našich ulic a úroveň lidských vztahů, aniž bychom se příliš spoléhali na strach, jak soudili druzí.
- Jestliže se zcela zanedbává, vystaví to zemi hrubým nepokojům a šokujícím zločinům, kdežto jestliže se přehání, může to být na škodu svobodě, bezpečnosti a spravedlnosti.
- Pořadatelé semináře - vedeni obavou o bezpečnost moji i svou vlastní - na mém - jinak čisté ekonomickém příspěvku - zcenzurovali vstupní motto, část z Písně o bratru Slunci, toho chvalozpěvu Františka z Assisi na vše stvořené.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65397ff4689c266a3f675b5fc4316c29fdb13197a1964879898010609a476a06
+size 603

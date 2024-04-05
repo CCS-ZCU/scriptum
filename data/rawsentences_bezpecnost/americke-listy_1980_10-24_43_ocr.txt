@@ -1,2 +1,3 @@
- listopadu, aby bylo více času ověřit si výsledky ujednání podepsané helsinské dohody z roku 1975, týkající se evropské bezpečnosti a spolupráce.
- Allen je mnoha republikány považován za nástupce Zbigniewa Brzezinského ve funkci poradce pro národní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c9a59470f9a04aa7f3320171f181d5910c1eb96092840ad998e117c47dd0240
+size 284

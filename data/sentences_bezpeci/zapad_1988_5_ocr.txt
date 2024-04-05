@@ -1,1 +1,3 @@
-starý paní setr relativní bezpečí pohovka posez dáma věk váha důstojný noha opěradlo
+version https://git-lfs.github.com/spec/v1
+oid sha256:fef7c3525644d442d3797a7436645b6d6134c6eef150d465419702bce82fa4b3
+size 99

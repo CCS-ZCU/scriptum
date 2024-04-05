@@ -1,5 +1,3 @@
-Economist vystihnout nebezpečí hrozit celý demokratický svět
-nebezpečí skrytý nebezpečí senátor Goldwater hrozit otevřít stavidlo
-hlavní nebezpečí spočívat bota president pravděpodobnost napáchat spočívat reálný možnost zvolení probudit dřímající celý svět vidět existence falešný ospravedlnění existence vlastní
-myslit jediný nebezpečí divadlo hrozit zřízený hýčkání kulturní instituce
-léta komunistický propaganda veřejný život škola zanechat určitý vliv jít věc německý revanšismus nebezpečí neofašismus neon cism
+version https://git-lfs.github.com/spec/v1
+oid sha256:89144e6e36cd6c75e9c1f18e7f271a0e2ac7523ffee9a27b7f0031a7b2091606
+size 594

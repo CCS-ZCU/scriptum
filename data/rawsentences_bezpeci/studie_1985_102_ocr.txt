@@ -1,1 +1,3 @@
- Po období relativního pocitu jistoty a bezpečí jako by byla valná část západní církve v moderní době zachvácena ostychem a nejistotami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7531604c01152d604a5cd34fa32e4548fe21c06e310de1490a23b4d2fc05df5
+size 150

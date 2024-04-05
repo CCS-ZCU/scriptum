@@ -1,1 +1,3 @@
-Derwinski pravit rezoluce mít rezoluce vyzývat prezident zpravit delegace spojený stát konference bezpečnost spolupráce Evropa zasedání rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a61b35da1f72d0e85978564d7040e5fda4fd150f609a33d216fe349ffcfad74
+size 148

@@ -1,1 +1,3 @@
-hrozit domácnost nebezpečí trpět nedostatek uhlí znamenat hrozit jiný nebezpečí dávný rozhlasový beseda představitel federální ministerstvo palivo energetika spotřebitel připomínat cena palivo dotovaný stát maloobchodní cena nízký výrobní náklad velkoobchodní cena
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e032123e5ee298ea1026a7a65080a14733075b658aaf5f732cbd3b9dcfae3b8
+size 291

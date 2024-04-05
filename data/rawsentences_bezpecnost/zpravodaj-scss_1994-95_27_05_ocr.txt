@@ -1,2 +1,3 @@
- Františka, které zde žily do svého vystěhováni od roku 1856 do roku 1948, kdy budovy zabrala Státní bezpečnost.
- Konečně - jak známo byla celá Bartolomějská v rukou Státní bezpečnosti, která odtud vystěhovala všechny obyvatele ulice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f08a6f468959407477729b39bb1777d80b1c44667508f006d96194b85aa754c
+size 256

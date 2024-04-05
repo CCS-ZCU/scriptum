@@ -1,5 +1,3 @@
-značný část dům obydlený nedostatek nájemní nebezpečí hrozit důlní labyrint podzemí dolní část údolí zmizet celý benzínový pumpa
-nebezpečí vidět telný rekreant vracet rušený odpo lední procházka
-začít myslit umět rozbít atomý vát jádro dokonalý hrozit nebezpečí ato mový zbrojní soupeření atomový válka
-vnímat chápání jiný dialogický empatie rušit logika snižovat nebezpečí rozhodování horší případukter vycházet horší vlastnost čin protivník poznání nepřítel jednat smrtelný nepřítel
-uvedený námitka politik dialog protivník vnímaný úhel nebezpečí aspekt žití spolužití
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8dc7cf1f1b4da3426df804c4c32c10f95b72750016e84692012656aaf83405f
+size 903

@@ -1,1 +1,3 @@
- Dokument vydala Okresná správa Zboru národnej bezpečnosti v Poprade 12.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5d4f5592ab0ce32d349ceb1c88489e7c0f1fdf5b2813d4492d33d18cba3f6ac
+size 77

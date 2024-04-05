@@ -1,2 +1,3 @@
-dostat výpověď nastat vedro nebezpečí lesní požár
-vydávat dlouhý konečný cesta plný nebezpečí nástraha
+version https://git-lfs.github.com/spec/v1
+oid sha256:33b4530efdc75746e184b6d4114b41a26ec68f3fc359b30423bc18386aa74d8e
+size 119

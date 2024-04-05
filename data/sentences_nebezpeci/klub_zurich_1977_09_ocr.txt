@@ -1,1 +1,3 @@
-arcibiskup Worlock Liverpool prohlásit lhostejnost agnosticisnus nevěra západ imoho záludný nebezpečí víra mladý marxistický filosofie východ
+version https://git-lfs.github.com/spec/v1
+oid sha256:a90c520324a0d3c7e1749a15c078953261e07fd3a6808c9be4a9cfc30b41de59
+size 153

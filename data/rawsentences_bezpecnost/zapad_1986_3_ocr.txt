@@ -1,3 +1,3 @@
- Celá stavba byla pod kontrolou Státní bezpečnosti, jejíž důstojnici nás prostřednictvím svých fízlů neustále sledovali, pokud nebyli totálně opilí.
- Když tato významně důležitá stav- ba pokročila z východu na západ a my se přestěhovali do Přimdy, abychom dokončili stavbu od Stříbra pro pře- dávací stanici Rozvadov na česko- slovensko-německých hranicích, nastal další problém naší starostlivé Státní bezpečnosti a zpravodajských důstojníků Pohraniční stráže.
- Snad bych měl ještě jako perlu dodat (čímž nemohu již bývalému řediteli ublížit, protože je mrtev), že při skončení stavby naložili západní Němci tři prominentní před- stavitele závodu, mezi nimiž byl jako na výsměch i důstojník tachovského oddělení Státní bezpečnosti a odvezli je tajně na výlet do Norimberku, kde je pohostili a obdarovali mnohými cennými dary, čímž se později náš pan ředitel chlubil, zatímco náš esté- bák měl značné starosti, jak to zare- tušovat, aby se to "načálstvo" nedo- zvědělo a neměli z toho malér.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c68a51fedc6c856046cdfc7e87c7c980132e666aa9e33227fc17651d10bdc92
+size 1110

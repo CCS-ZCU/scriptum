@@ -1,15 +1,3 @@
-množství zbraň variabilita technický parametr zvyšovat nejistota úmysl možnost potenciální protivník nebezpečí vypuknutí válka smrtelný katastrofa lid stvo
-okolnost učinit nebezpečí zmírnit vést obnova důvěra spolupráce stát národ
-dokument varšavský lidarita kritizovat jiný podléhání mýtus nepo třebnost spolupráce komunista mýtus velký úder iluze rychlý snadný změna mýtus nebezpečí vstup systém
-hrozit nebezpečí nový vyzkoušený struktura zatíž počátek fungovat struktura starý řešitelný počáteční obtíž zkompromitovat oko zradikat zovaný veřejnost rozvinout přednost
-vstup systém obsahovat nebezpečí vedení solidarita ztratit porozum podpora část zradikalizovaný veřejnost spoluúčast národní dorozumění režim zneužitý
-alternativa nebezpečí konfrontace spo luúčast nebezpečí malý
-Husákův vedení krok vidět nebezpečí
-důvod politic kilometr nebezpečí jistý relativní mnohý popíraný závislost sovětský ener getický zdroj existovat
-jedny říkat sovětský svaz mír atomový puma mir ohrožovat druhý považovat sovětský ato mový zbraň nebezpečí mír samotný
-povinnost zdej šít vláda pomoci snížit existující nebezpečí
-pravda existovat rozdíl značný lze přehlížet
-lidé užitečný dovést existovat krajina vlastní nebezpečí
-věřit vidět nebezpečí nový hra moci vmísit starý hňup kaštýl
-rozvádět nebezpečí dítě zdraví život vystavený
-pisatel potvrdit vějíř názor emigrace široký rozdíl cizina sovětský blok názor moci projevit znemožněný ztížený mocenský praxe státní orgán
+version https://git-lfs.github.com/spec/v1
+oid sha256:32920c22d3a2687281a930f1a0aa95fffcaa6eb67369680909bf837d2d0104f4
+size 1643

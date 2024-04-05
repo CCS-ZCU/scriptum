@@ -1,1 +1,3 @@
-zraněný nutný přemístit bezpečí dálnice
+version https://git-lfs.github.com/spec/v1
+oid sha256:147539db2173d8bc73d11b897074c143f8d588957c17434968f107b1c682c04d
+size 48

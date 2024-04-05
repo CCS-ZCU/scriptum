@@ -1,2 +1,3 @@
- ^nežky se bezpečnostní aparát připravoval velice dobře, fromě jiných opatření, byli vybráni pracovníci bezpečnosti z celých Čech, kteří se zúčastnili školení, kde se učili náboženským úkonům při mži svaté, od dělání kříže počínaje & po závěrečné požehnání konče.
- Jistý vysoký důstojník bezpečnosti, ateista, byl zařazen do skupiny, kter půjde i k sv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ef1d23aa116cf898bee8ef808cbdcfdd6c587ca2eca64112fca977cebb5caf
+size 406

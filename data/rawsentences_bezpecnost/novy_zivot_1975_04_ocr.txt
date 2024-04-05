@@ -1,2 +1,3 @@
- strany vždy zdůrazňovali, že se v rozhovorech jednalo skoro výhradně o problémech světového míru a o Konferenci o bezpečnosti a spolupráci v Evropě — kde prý byla konstatována značná blízkost, ne-li úplná shoda názorů, z Vatikánu poznamenali, že nebylo zcela zapomenuto na otázky vztahů mezi čs.
- Můžeme to usoudit z podčarníku, který už v její předvečer uveřejnila LD a ve kterém mluví o »pozitivním a realistickém« postoji Vatikánu při jednáních Konference o bezpečnosti v Evropě; zprávy o návštěvě přinášelo i RP na první stránce, a to i 25.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff826f7b7b84b73e792fc09aa64c85d1be832c108086fee9ae6475aac2c9c7b7
+size 607

@@ -1,1 +1,3 @@
-smět podceňovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc1bc165a90d52d28ba4102abbe1229b11c5dfb04d475a3cb23f01678d6ef568
+size 18

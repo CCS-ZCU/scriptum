@@ -1,16 +1,3 @@
- Horc v pánskom sídle bolí úřadovně bezpečnosti, dolu pod zemou v dávných pívmciach na zemiaky boli ím~ 2 4 1  Ale přes všechny hrůzy, které ve vyšetřovací vazbě a žaláři prodělal, Husák zůstal věrným synem strany.
- Spojenecké svazky se Sovětským svazem a se socialistickými státy varšavské smlouvy jsou základem bezpečností našeho státu.
- » Musíme přijmout kádrová opatření! Podpoříme orgány státní bezpečnosti.
- Satání (sorry překlep) Státní bezpečnost měla na schodech fotografa.
- 279  JAROSLAV HUTKA CESTOU ZA QUIJOTEM (*) (Zdeňkovi Urbánkovi) Opominu možnost, že by mě za ním nepustili, protože bych ohrozil vnitřní bezpečnost, jak mi nedávno napsalo ministerstvo vnitřností.
- Nejenže se zapomínalo, že užívání omamných látek je starší než podobně jedovatý alkohol, že se nerozlišoval stupeň ne- bezpečnosti těchto drog, ale ani se nedělalo rozdílu mezi hippiem a narko- 286  manem.
- Jc pravda, že poměry nás všechny už naučily zkoumat své přirozené jednání i z absurdního pohledu, proto si umíme představit i přátelsky míněnou otázku: » A proč jste museli jít na ples společně?« Odmítajíce absurditu odpovídáme přirozeně: » A proč bychom nešli? « Obrazem nenormálních poměrů j e právě to, co z plesu udělaly organy Státní i Veřejné bezpečnosti.
- Václav Havel dokonce požádal, aby směl jít s Pavlem Lan- dovským a svědčit mu, a teprve v prostorách Bezpečnosti se ze svědka změnil v zadr- ženého a pak v obviněného.
- Proto nevyhledáváme srážky s Bezpečností.
- Ale můžeme také, jen abychom vyhověli zvláštním přáním Bezpečnosti, sami SL vstřícně zapovídat i tak prosté přání, jakým bylo přání zatančit si na veřejně oznámeném plese? Signatáři Charty 77 se neřídí žádnými organizačními pravidly či pokyny,, Mohou jako jednotlivci nebo ve skupinách zaujímat vlastní a velice rozličné postoje ke své životní situaci a reagovat různě 11a události.
- Alešem Macháčkem a Jiřím Laštůvkou, pro mne do práce 29Ó  přijela Státní bezpečnost: »Tak zase pojedeme, vsak už to znáte, pane Hejdánek.
- Vyšetřo- vatel mne pak požádal o vysvětlení, proč jsem odmítl na výzvu orgánů Bezpečnosti s nimi jít, takže mne museli odnést.
- Lubomír Štrougal předseda vlády Č S S R P r a h a Pane předsedo vlády! Již po delší dobu jsem předmětem mimořádně zvýšeného zájmu cs, státní bez- pečnosti, přičemž tento zájem o mou osobu nabyl takového charakteru, že jsem nucen zvolit tuto cestu, abych si zajistil alespoň minimální osobní bezpečnost a základní předpoklady k životu v ČSSR.
- V souvislosti s uvedeným považuji za nutné zdůraznit, že státní bezpečnost nemá a nemůže mít k dispozici žádná fakta nebo konkrétní materiál, který by dával dosta- tečný podklad pro činnosti tohoto druhu vůči mojí osobě.
- Využívám tedy tuto příležitost, abych prohlásil, žc nemám osobních nepřátel a že, dojde-li k něčemu podobnému, neznám nikoho mimo československou státní bezpečnost, kdo by na tom mold mít zájem.
- V souvislosti s uvedenými skutečnostmi si Vás dovoluji požádat, pane předsedo vlády, abyste podnikl příslušná opatření k tomu, aby bylo skončeno nezákonné terori- zování mojí osoby (jinak to nemohu nazvat) ze strany československé státní bezpeč- 3 0 1  nos ti, aby byla zajištěna osobní bezpečnost moje a mých příbuzných a aby mi byly dány alespoň ty nejzákladnější předpoklady k normálnímu životu v Československu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed92cbf8fc3868cce78726a030b6310b6cff53a595828af387d333c26e84a67
+size 3667

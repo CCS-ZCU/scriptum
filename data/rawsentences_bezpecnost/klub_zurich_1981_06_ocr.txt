@@ -1,1 +1,3 @@
- Biskup z Goias-střední Brazilie-tvrdí, že brazilská vláda připravuje reformu statutu Indiána a tím ruší pozitivní aspekty tohoto ochranného zákona; Indián je od nynějška považován za hrozbu pro národní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe881974f47cfc9028e9420478cc331c9218a382023bdcd5cdffe187b88ed382
+size 237

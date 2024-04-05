@@ -1,2 +1,3 @@
- Bezpečnost Sovětského svazu ohrožovali Banderovci a Československo šlo slovanskému bratru na pomoc, rychle potřít Banderu a Mělníka a Burlaka, Burlaka ovšem taky.
- Dnešní bejrútská vláda chce Haddada postavit před vojenský soud a izraelské řešení, jakož i jiné jeho návrhy na udržení bezpečnosti odmítá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5e760d767f76b3ce2549a761ae2b170d30f4a41f7871cc695f09d788d1f61a3
+size 336

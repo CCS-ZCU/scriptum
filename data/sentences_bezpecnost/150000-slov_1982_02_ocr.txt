@@ -1,4 +1,3 @@
-obrana právo pracující skutečný vztah nadřízený podřízený pracovní podmínka zdraví bezpečnost pracující spravedlivý mzda hlavní oblastj činnost svaz
-svazový inspekce práce podnik prověřovat pracovní podmínka vybavení zajišťující bezpečnost práce
-usilovat rozšíření výroba zařízení bezpečnost práce
-zdát Pipes přinášet nebezpečí bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:30fb20af841004dd159baf6279ed37972bbc45b999bb457825c2c1fa41afc32a
+size 389

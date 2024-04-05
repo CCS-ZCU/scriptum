@@ -1,1 +1,3 @@
- Komise pro bezpečnost a spolupráci v Evropě Otázka sjednocení rodin Komise, kterou známe též pod jménem “watchdog committee” a která vyšetřuje, zda signatáři závěrečného dokumentu Helsinské dohody dodržují ustanovení, zasedá v místnostech poslanecké budovy Sam Rayburn ve Wash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bde611ea11fbdc784b77250ebb6bf2e31983a80c39ce30d9b2dd7f4ee97f74e
+size 308

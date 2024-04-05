@@ -1,1 +1,3 @@
-hrozit nebezpečí opakovat najít společný jmenovatel
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7b6a1c8739149943ed71ecc0f06220b381c33ac6348a15d7bc87de3f9ac0626
+size 57

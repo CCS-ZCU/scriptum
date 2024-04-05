@@ -1,2 +1,3 @@
- Svoboda a sociální bezpečnost, tendence k svobodě a tendence k disciplině (str.
- Zde přicházíme k dalšímu velkému rozporu Peroutkovy nauky: Tvrdí-li Peroutka, že vynalézavý tvůrčí lidský rozum nespadá pod zákonitost dialektiky, jak může dělat ze svobody a sociální bezpečnosti these a antithese a jak může mluvit o materiální a duchovní stránce dialektického procesu? Vždyť to přece jsou, podle téhož Peroutky, oay výtvory tvůrčího lidského rozumu, kterých se dialektika netýká.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b76db35366dc8586f4f023121fdf5fd5dd091f386c58c7281cca3e1266681a18
+size 527

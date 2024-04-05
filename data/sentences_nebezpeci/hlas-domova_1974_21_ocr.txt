@@ -1,1 +1,3 @@
-sku tečnost chovat nebezpečí svůdný okolnost nástraha politický úvaha moci svést dějepisko správný chápání minulý událost
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fcb61d1e8d69aa510a5e56475f53cbeaa72ca816582e5fc23c6b34a42aff490
+size 139

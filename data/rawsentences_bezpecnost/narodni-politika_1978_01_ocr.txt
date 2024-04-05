@@ -1,5 +1,3 @@
- Prodchnuti jsouce přáním posi- liti mír v Evropě a zaručiti jeho dobrodiní svým státům tím, že dokonaleji zabezpečí, aby byla přesně prováděna ustanovení Paktu Společnosti národů o zajištění státní bezpečnosti, územní celistvosti a politické nezávislosti států.
- této smlouvy, která byla sjednána ve snaze, přispěti k tomu, aby ve východní Evropě byl vybudován regionální systém bezpečnosti, jehož počátek byl učiněn francouzsko- sovětskou smlouvou z 2.
- Obě vlády pokládají za žádoucí sjednati regionální dohodu, která by směřovala k organisaci bezpečnosti mezi smluvními státy a která by mohla obsahovati závazky vzájemné pomoci nebo býti provázena takovými závazky, a vyhrazují si proto možnost účastniti se případně, ve vzájemném souhlasu, podobných dohod přímo nebo nepřímo ve formě, jež by se jim jevila vhodnou.
- v restauraci STADELMAYER v GABLITZ Platí jen v BRD NUDÍM VÁS, když zase jednou zdůrazním slovo „Bezpečnost“? Tento pojem je určité zakotven ve Vašem podvědomí, i když myšlenku na něj potlačujete.
- přezkoušela závady tratě mezinárodní komise, která navrhla pořadatelům nutné změny ve vedení tratě, zkrácení tratě a zajištění bezpečnosti jezdců a diváků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bcbe957f4a25d4511a91c65b51b945d2b4bf183387a97e971a25fa96026bc2e
+size 1309

@@ -1,1 +1,3 @@
-známý sovětský vedení mít jistý vnitřní situace vlastní satelit velký zájem zklidnění napětí pomáhat zneužívat nafukovaný nebezpečí upevňování byrokratický diktatura
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b4196d33ea1ae1063977ac3e9336915c2415c5b033178d4ebf2b3da733f003b
+size 192

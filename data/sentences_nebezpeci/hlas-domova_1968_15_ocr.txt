@@ -1,2 +1,3 @@
-tkvět velký nebezpečí Dubčeko podnikání
-další nebezpečí vidět
+version https://git-lfs.github.com/spec/v1
+oid sha256:826c97ffa55adf2c1df803beeaadba7b35b80b85e09f37a32d8b968aacfb4138
+size 76

@@ -1,1 +1,3 @@
-velmoc vidio záujem rozdielnout štát bezprostredno nebezpečí súc hrozovaný útočník
+version https://git-lfs.github.com/spec/v1
+oid sha256:2247db8bd4627721b407427d21853300232e9b8a97f54e7aa546fc9fabd41d68
+size 94

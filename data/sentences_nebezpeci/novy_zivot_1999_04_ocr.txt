@@ -1,1 +1,3 @@
-druhý bod intolerance snášenlivost církev vážný nebezpečí doba náboženský indi ference žít bůh bloudění pole technika etika povinnost mít starost učitelský úřad církev zod povědní upozorňovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf91258ab1c2798ae4d382320fb33d06248c03797e7d1cf5e830697d24815c12
+size 358

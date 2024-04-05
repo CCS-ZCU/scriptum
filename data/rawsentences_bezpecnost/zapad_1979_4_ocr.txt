@@ -1,2 +1,3 @@
- (Což víme a ví to rovněž Múllerovo oddělení a Statni bezpečnost, ale ti teď potřebovali jeho podpis.
- V Míillerově oddělení a na Stát- ní bezpečnosti na rozdíl od zmíněné- ho sochaře věděli, že každý podpis pod "antichartu" jim bude tuze užitečný.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28ea418a2ff80069f55a675202d0eb0de77e77fd65217ea706dea71ede4f3a3
+size 280

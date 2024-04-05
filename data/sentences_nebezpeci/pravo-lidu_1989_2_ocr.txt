@@ -1,1 +1,3 @@
-namítat tajný sledovaný nebezpečí zneužití
+version https://git-lfs.github.com/spec/v1
+oid sha256:eafde80e1c6e719cfdc463610dc04c667386b91e43c3d6d161f6b8c1c9e678ad
+size 50

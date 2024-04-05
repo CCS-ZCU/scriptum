@@ -1,1 +1,3 @@
- To by znamenalo ohroženi posice a bezpečí 6.
+version https://git-lfs.github.com/spec/v1
+oid sha256:990a239fb8277ae48c0e9ee735b4694a1febb91fffeba9b210b3b92533131dc3
+size 49

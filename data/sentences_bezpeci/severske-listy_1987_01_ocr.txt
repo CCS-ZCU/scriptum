@@ -1,1 +1,3 @@
-systém tvorit dvát malý raketa mít prípadý nehoda dostat kabín posádka bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f61da1610c7323b9a96198e177199088d2759eca769b9e325ed30be8bfeb59c2
+size 89

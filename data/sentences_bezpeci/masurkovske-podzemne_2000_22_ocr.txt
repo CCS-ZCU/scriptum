@@ -1,2 +1,3 @@
-muset jet oklika kilometr dlouhý zjistit srub bezpečí metr bouřlivý řeka
-vědět určování houba velký bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe0c385e5860e25de1b1071d751cd6025fc92afe7b530f4a6a8b26ae5b17e69e
+size 122

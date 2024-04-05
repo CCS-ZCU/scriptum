@@ -1,2 +1,3 @@
- pokračování) (Co dělat na kluzišti?) Prvním požadavkem při vstupu na led je bezpečnost.
- Už v této fázi výcviku dbáme o bezpečnost, ale zcela zvláštním způsobem: nevodíme děti za ruku, necháme je šlapat, a zpočátku jsme připraveni s s rukou za jejich zády, kdyby padaly na znak, tedy na hlavu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39c9bda9dd11bfb8ee500ebef3d2bf7b68d568e4336e766c41bb30a72db2b947
+size 322

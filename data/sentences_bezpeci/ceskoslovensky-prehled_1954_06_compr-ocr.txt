@@ -1,1 +1,3 @@
-případ mít dobrý naděje potrvat dnešní režim žít poměrný bezpečí oblíbený rohový dům královský Vinohrady
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e6eae72509009dbf839ac1ed6312d0d1e64544d817027ba9af5d93b58709b2
+size 125

@@ -1,4 +1,3 @@
-myslenka_míro_koncilo_l
-počátek názor nebezpečí mluvit existovat
-nebezpečí mluvit
-chtít situace naivní abstinent maso nebezpečí upozornit strhnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e835af2ec6c319b381369cb6d237397fadec67651ac5b242f4ff31afff06ca5
+size 159

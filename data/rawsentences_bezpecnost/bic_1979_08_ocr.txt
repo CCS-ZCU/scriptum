@@ -1,2 +1,3 @@
- "Halo, zde Weis,séf státní bezpečnosti.
- “Byl váš otec nebo matka někdy trestáni?" ptali se kandidáta Veřejné Bezpečnosti po.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed48ee2460776af4038fbff298b99b512552ca15a276c5c6cc1c2bcc62d0148
+size 141

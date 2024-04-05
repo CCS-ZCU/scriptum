@@ -1,1 +1,3 @@
-řečník ČSNRA promluvit význam Lidic nebezpečí komunismus vzdaný pocta oběť nacismus komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:71230cc0ec3dadb37fd51db942fb2f492165656cb9d582d39c8f3611b718bae3
+size 105

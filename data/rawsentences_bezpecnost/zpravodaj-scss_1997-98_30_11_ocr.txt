@@ -1,1 +1,3 @@
- Pronásledován komunistickou Státní bezpečností uchýlil se do emigrace, kde pokračoval v charitativní, pedagogické a publicistické práci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f2a71de9931bfb0f95ef1cb8cfaff5a0743710899efcb780ab1af09dc8b9ac5
+size 150

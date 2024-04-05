@@ -1,6 +1,3 @@
-totální propad ODS volba Česko
-konat celostátní volba vládní strana postavení obhájit nebezpečí úplný krach
-listopad spravodaj zpravodaj komunistický nebezpečí komunista český volba krajský samospráva etablovat druhý silný strana
-jediný hlavní nebezpečí
-stejný velký nebezpečí hrozit různý samozvaný spasitel
-stát zadní tlapka obhlížet trhavý pohyb hlavička terén číhat nebezpečí letící míček
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff2bbacc63d3df37a3d1a127b666ecd336b94276e221ca801f880fa48fb9f84b
+size 441

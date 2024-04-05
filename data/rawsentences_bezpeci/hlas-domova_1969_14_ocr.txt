@@ -1,1 +1,3 @@
- zahnat do bezpečí stáda, do jistot iluzí a do ochrany “realistů”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16f62e016f2869260f9f1cf2f20504a0956ad0ae786cc641895a546d44617a2a
+size 76

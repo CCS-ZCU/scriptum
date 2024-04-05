@@ -1,1 +1,3 @@
-rozhovor hluchý němý velký nebezpečí svět jaderný zbraň hlavní téma projev prezident Carter valný shromáždění spojený národ problém jaderný zbraň představovat velký nebezpečí současný lidstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd7546be0213010fa42d1ffc2958c4dc2abba44c36d361d3fefa930f31c37a8c
+size 219

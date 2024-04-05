@@ -1,7 +1,3 @@
-rodina věnovaný schéma přichystaný první zasedání
-využívat dobro skrytý doba společnost odolat nebezpečí
-Hluboká změna dnešní společnost nést nebezpečí rodina vybízet dívat tvořit podstatný prvek
-stačit postoj individualistický
-třetí vážný námitka nebezpečí ideologický infiltrace
-nebezpečí léta opakovaný tvrzení otřesený víra nadřazenost socialistický společnost akutní
-zkušenost poslední léta akutnost nebezpečí potvrzovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6adcde31d32f3b23e3f4bfb269037a48ed615d1636e5f15178ab00ae678a7225
+size 480

@@ -1,2 +1,3 @@
- V červnu 1949 hyla zatčena komu- nistickou Státní bezpečnosti a v čer- vnu 1950 postavena společně s několi- ka jinými národními socialisty a bý- valými komunisty (Záviš Kalandra) před soud.
- výboru pro evropskou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3309a677a1baab58137dfe6bf539fc40e6019611622ac96f47bc119e5bd0dfe4
+size 245

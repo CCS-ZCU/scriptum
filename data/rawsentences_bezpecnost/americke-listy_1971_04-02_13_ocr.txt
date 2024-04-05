@@ -1,2 +1,3 @@
- státně-admini- strativni oddělení (armáda, bezpečnost a Justice) a že veřejné oznámil v červenci roku 1968 své výhrady proti Varšavské smlouvě.
- Napěti pochopitelně ncuvplňuje takové prohlášení, jaké dal v ú- terý v Bejrůtu předák palestinského odbojového hnutí Arafat, který se vyslovil pro pokračování záškodnických akcí, aby Izrael nemohl nikdy získat záruku bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa117d01807ff57da4bf41a8b2119ae512b16da403835014a7d6950a2e8d5b4c
+size 419

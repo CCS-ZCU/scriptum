@@ -1,1 +1,3 @@
-uvědomit naprostý samozřejmost léta převratný objev muž kte rám vděčit bezpečnost lékařský zákrok platit objev tragický osud
+version https://git-lfs.github.com/spec/v1
+oid sha256:01716f65a9f66f7f701b5709b1669feaa32748dbbb8d9ac650689760d7447d69
+size 141

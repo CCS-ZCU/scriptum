@@ -1,4 +1,3 @@
-lidé hle kkvdnout mítě vydat nebezpečí zUuěený politý Yoda
-nebezpečí zdát vycházet slovo dokládat zpráva výbor
-konference světový klima Toronto dojít závěr nebezpečí hrozit atmosféra dát srovnat atomový
-tupost lhostejnost tekticismus humánní západní lidío
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5a1c5c0c39093ea85e36147f2617fda3d20715dff42d1b4f3d49d401cccbc9
+size 286

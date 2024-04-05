@@ -1,2 +1,3 @@
-vynořit předvídaný problém vítání rudý armáda změnit obava osobní bezpečí budoucnost demokracie
-rád sbírat kamínek poznatek mozaika zbývat bezproblémový toulání země civilizační okruh zvaný západ stručnost zahrnout kout východní Asie dělat moci zpěv politicko korektní chorál podřezat větévka bezpečí prosperita pošetilý zadeček
+version https://git-lfs.github.com/spec/v1
+oid sha256:8539dc9c8ece292a80203ffeca78ba93fdefe12fed12f83110492c10a1bc6cd5
+size 371

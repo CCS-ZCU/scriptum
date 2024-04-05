@@ -1,1 +1,3 @@
-zuřit sněhový bouře britský parašutista podat zírat vůdce partyzán ukládat život okolnost neva dít autor nézt sáhodlouhý přehled evropský storie bitva zbo rova Mnichov hocha sedět bezpečí Londýn
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc66cb54e744fd6783bbc0be7f11e950a81fde7f46411af17773ab5b8c6bda4f
+size 214

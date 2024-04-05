@@ -1,9 +1,3 @@
- Pětidenní návštěva premiéra Sobotky v USA Účast na summitu o jaderné bezpečnosti a večeře šéfů vlád v Bílém domě pořádaná americkým prezidentem Ba- rackem Obamou byly nejviditelnějšími politickými body pětidenní návštěvy premiéra Bohuslava Sobotky ve Spojených státech.
- Ministerský předseda Bohuslav Sobotka na summitu o jaderné bezpečnosti ve Washingtonu nabídl ostatním zemím pomoc českých expertů při repatriaci jaderného paliva do země jeho původu.
- Práce na zastavení hrozby jaderného útoku zdaleka neskončila, a přestože svět učinil značný pokrok v ochraně svého jaderného materiálu před teroristy, stále zůstává velké množství jaderných prostředků, jejichž bezpečnost musí být zajištěna.
- Na závěr summitu o jaderné bezpečnosti ve Washingtonu to prohlásil americký prezident Barack Obama.
- Klíčovou programovou prioritou STAN bude bezpečnost a nutnost přípravy krizových plánů v různých oblastech.
- Rozhodnutí českého Státního úřadu pro jadernou bezpečnost (SÚJB) o prodlouže- ŽIVOTNÍ PROSTŘEDÍ ní povolení pro první blok jaderné elektrárny Dukovany na dobu neurčitou bylo pro Rupprechtera „velkým zklamáním“.
- Jen tak je možné zaručit jeho účinnost a bezpečnost.
- Hovořili především o spolupráci na úrovni konkrétních realizovaných nebo plánovaných projektů, zejména v oblasti dopravní infrastruktury, zajištění bezpečnosti hranic, školství, zdravotnictví nebo životního prostředí.
- Všechny prostory současně odpovídají požadavkům na bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4081ce268a21ddd45f551b7899bbc3f0f7d9e656e045e3856ad62324dfa60ac
+size 1619

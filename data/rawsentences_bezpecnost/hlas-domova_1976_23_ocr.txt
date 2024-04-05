@@ -1,1 +1,3 @@
- Gun, "obsaženými v úředním raportu, jenž byl předložen senátu Spojených států jeho vlastní komisí pro vnitřní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c14f410814b33785d9af368a1b7edfb1ea10e066058bc50350bfe6ec3a9ad2c
+size 140

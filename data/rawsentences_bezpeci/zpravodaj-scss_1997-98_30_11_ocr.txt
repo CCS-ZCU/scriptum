@@ -1,2 +1,3 @@
- Švýcarské, bankovnictví a pojlštovnlctví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Někdo mě zvedá za bundu a dav mě unáší kordónem pendreků do bezpečí Mi- kulandské ulice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5498acebbdfab1f75c5292ae7247745c57faba8133d466b0b8f6de15177b710e
+size 208

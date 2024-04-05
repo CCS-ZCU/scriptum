@@ -1,2 +1,3 @@
-předvolební období aspekt zbytný pokladexie zachování pluralistický společnost hrozit nebezpečí strana politický strhnout moc
-otázka základna důležitý hrozit nebezpečí přípád souhlas většina stát smlouva přistoupit
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd1454ecd9a8990a907e155be3b9cc7ba72411b60492316a631dafffaa3f991
+size 245

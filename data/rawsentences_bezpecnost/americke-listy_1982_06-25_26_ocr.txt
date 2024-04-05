@@ -1,1 +1,3 @@
-) bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10633e0277e96b0fe5733a384ed6922626d00bf14c5502d0a4bf77372b5511fa
+size 15

@@ -1,1 +1,3 @@
-střídání kritický period doba poměrný klid přijít Chruščo vzít stárý komunistický taktika vyvolat krize snažit vytěžit dát přejít smířlivý tón mít západ vzbudit pocit klamný bezpečí připravit vhodný podmínka další úder
+version https://git-lfs.github.com/spec/v1
+oid sha256:33b54bcf4e170c4ec763ad04bf0f7b97f317cf27e5d12855429607d908fcf016
+size 250

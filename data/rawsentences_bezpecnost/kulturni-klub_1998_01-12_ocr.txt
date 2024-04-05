@@ -1,13 +1,3 @@
- Delegace Výboru pro zahraniční věci, obranu a bezpečnost, jejímž členem byl senátor Milan Špaček, navštívila USA a Kanadu a s oficiálními reprezentanty těchto států jsme jednali o otázkách týkajících se rozšiřováni 8  zajímavosti, kultura NATO a vstupu České republiky do této aliance.
- Pomocnici PZ sa podľa zákona chápu ako dobrovoľný aktív občanov, ktorý' má pomáhať plniť úlohy PZ pri ochrane života, bezpečnosti a majetku osôb, pri zabezpečovaní verejného poriadku.
- Vysoká nehodovost v ČR Počátkem června by měl jit do vlády akčni program zvýšení bezpečnosti silničního provozu.
- Akční program zvýšeni bezpečnosti silničního provozu se vzhledem k hospodářské situaci zaměřuje zejména na krátkodobá, finančně méně náročná opatřeni jako je výměna dopravních značek za modernější typy, posílení dopravní policie nebo bezpečnostně dopravní audit pozemních komunikaci.
- Podle prezidenta ze zprávy tajné služby vyplynulo, že za aférou stoji bývalí příslušnici první správy Státní bezpečnosti.
- Městský soud rozhodl, že Kafka zneužil pravomoci veřejného činitele, protože v červenci 1981 se jako tehdejší referent krajské správy Státní bezpečnosti podílel na nezákonném zadržení Třešňáka a poté jej třikrát vyslýchal.
- júna, a to i napriek pochybnostiam verejnosti o bezpečnosti elektrárne.
- Na obsahové realizaci této akce se podílel Výbor pro zahraniční věci, obranu a bezpečnost a Stálá komise Senátu pro krajany žijící v zahraničí.
- babického případu, do kterého byla ve skutečnosti dosud ne zcela jasným způsobem zapletena Státní bezpečnost.
- Později vyšlo na světlo, že prezidentská kancelář byla upozorněna senátorem Václavem Bendou, že rakouský politik se v minulosti zapletl s bývalou Státní bezpečnosti.
- "Konstatuji na základě ověřených informaci, že Helmut Zilk byl nejprve důvěrným spolupracovníkem a pak agentem prvni správy (rozvědka) Státní bezpečnosti a že za svou činnost pobíral peněžní prostředky," prohlásil Benda, který ale odmítl přiznat, odkud své informace získal.
- Únik informace totiž označuji někteří experti za vážné ohroženi aktivit tajné služby a bezpečnosti státu.
-" JP Kavan je oblíbenější u svých podřízených, než se čekalo Ministr zahraničí ČR Jan Kavan, který se dosud zcela nezbavil stínu pochybnosti o spolupráci se Státní bezpečnosti, je po téměř čtvrt roce mezi svými podřízenými relativně oblíbený.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c16328dfb9f218ec120105f7e4d108e7bb8464c0f878f2e468be3842e84d8f
+size 2601

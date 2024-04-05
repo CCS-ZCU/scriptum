@@ -1,15 +1,3 @@
-obávat risiko nebezpečí příští čsl
-komunistický strana hrozit nebezpečí rozředěný kolísavý živel
-obvinit Smerala chápat hlavní nebezpečí hrozit zprava
-hrozit nebezpečí návrat sociálý demo kratismus
-hlavní cíl úkol mít obrana Sovět ský svaz imperialistický nebezpečí příprava revoluce
-dosavadní mezinárodní systém zreformovat nebezpečí zhroutit hrozba znepřátelený svět stát skutečnost
-vstupovat nový fáze světový záležitost tradiční nebezpečí válka začínat hrozit bezpečí světový chaos
-mírový koexistence zbavený tajnůstkářství přinášet výhoda větský svaz
-výbor občanský iniciativa ochrana atomový nebezpečí nahrnout komunistický agitátor podzemí vystoupit teroristický bojůvka
-zvláštní vláda jmenovaný komise vydat zpráva znamý britský program stavba atomový elektrárna vážný nebezpečí
-Kro nebezpečí dopravní nehoda obava sabotáž ten
-cudný zdrženlivost plývý obava moci východní sdělovací prostředek vytýkat jít zasahování vnitřní záležitost jiný stát východ dovolávat boj nuklear ním nebezpečí západ mlčet domácí veřej nost moci zeptat
-mnívat hrozit vážný nebezpečí
-witkowskí vidět atomový reaktor nebezpečí člověk příroda
-nebezpečí katastrofa dodávat Ing
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cd2aca48201e1d600c353d495300c7e49b70c398af3e6c6fe9de9c20d1e5104
+size 1315

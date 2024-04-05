@@ -1,2 +1,3 @@
- Zraněné a cestující je nutno přemístit do bezpečnosti mimo dálnici.
- "- "Dobře", povídá staršina bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7be6bea91204c17af078bbce41ff5603357a3e33fc6806fa0007eb7b115ddcca
+size 124

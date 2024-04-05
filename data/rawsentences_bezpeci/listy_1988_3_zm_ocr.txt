@@ -1,6 +1,3 @@
- S ros- toucími konflikty v zemích neklidu vzrůstá exo- dus do zemí relativního bezpečí, kde však klesá potřeba pracovních sil a roste xenofóbie extré- mistů a lhostejnost, ne-li odpor, mlčící většiny.
- Toužené alespoň relativní bezpečí statisí- cům, ne-li miliónům na útěku, může přinést jenom jiný lidský produkt — politika, a to v budouc- nosti, která by měla být blízká, pokud nemá nové stěhování národů rozvratem zbytků světové sta- bility této budoucnosti zabránit.
- Milovali jsme se s lahodným pocitem bezpečí a neobtěžováni mými navlékacími prostředky.
- Doma ho přivítalo příjemné teplo sálajících kachlových kamen, odložil si a pohodlně se rozvalil do křesla, aby vychutnal blahodárný pocit uspokojení a bezpečí ve vlastním útulném Drostředí.
- Byla v černém tunelu, ale jakási záře, která blikala nad ní, do ní vstřikovala pocit bezpečí a milosti.
- Jako by všechno, co existovalo než potkal Jožku, signalizovalo ne- bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5402c92b5a313501fcefe81e9177433a9c4ba5cf8b784cd41f6470166eca304
+size 945

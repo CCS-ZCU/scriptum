@@ -1,1 +1,3 @@
- Každý inteligentní čtenář po„přečtení článků "Jsem vyléčen na celý život“ a "Doma u Vladimíra Kučery" rázem pochopí,že Kučera byl komunistickým špionem poslaným do exilu Státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be5eecc6bc63ee0653dd603dfafa7eb12a088fe259cafc75dc8afb5b187acead
+size 224

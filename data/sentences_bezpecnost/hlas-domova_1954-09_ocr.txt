@@ -1,1 +1,3 @@
-obava osobní bezpečnost podotýkat obrázek patřit majitel auto holicí strojek snažit zajistit lepší život rodina
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ad8fdc497df03a878a07e9438e92c26f48f9ddf79f8b83b4a326e6b505fdf3d
+size 122

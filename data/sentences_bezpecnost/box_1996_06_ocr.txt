@@ -1,1 +1,3 @@
-žádat celý moci nechat osobní bezpečnost pohodlí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c5f6c074650f628ea88db9cf23248b32216d6380d011735f831e8e058fc91e1
+size 55

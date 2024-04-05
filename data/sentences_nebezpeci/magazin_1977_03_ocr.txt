@@ -1,12 +1,3 @@
-rád napsat Evropa hrozit nebezpečí pofinštení fin landizace
-vládnoucí kruh evropský země tétněř slepý sovětský nebezpečí dnešní liberální Amerika věcný varování závratný růst sovětský zbrojení narážet odpor západní vláda pokračovat politika studený válka
-druhý aspekt katastrofa pofinšťování tkvět velký většina západoevropský obyvatelstvo orientovaný volič vidět sovětský svaz přímý nebezpečí
-sovětský nebezpečí odbýt mávnutí ruka konzervativní relikt studený válka spojený stát představovaný reálný hrozba evropský identita
-západoevropský politický hřích připisovat účet Američan proplacený směnka evropský neochota čelit reálný nebezpečí přijímat příspěvek pěstování pocit vina pochopitelný národní sport domorodec zdejší kontinent
-evropský antiamerikanismus míra vulgární francouzský švédský odrůda rozšířený škodlivý dávný švédský anketa švéd vidět nebezpečí USA SSSR
-rozhodovat heslo člověk cíl snažení formulovat Gottwald poslední cíl mladý nebezpečí postoj pramenit velký
-dostat prostředí hudba poslouchat obchodníček velký vynaložení složitý technika produkovat velký nebezpečí podlehnout sklon droga hvězda pop hudba patřit chléb vezdejší
-chvíle zdát nebezpečí invaze ostrov veliký dát ministerský předseda příkaz vypravit značný síla tank válečný loď jednotka pěchota obrana Suezaký průplav pomoc generál Gaulel snažit obsadit Dakar
-domácí nebezpečí představovat zodpovědní škarohlídový šuškalový stojící vliv zrádný benešovský londýnský propaganda
-další nebezpečí vidět odborník doba mít možnost další stát vyrobit atomový zbraň
-znát paní Trotterová osoba čestný spolehlivý vědět peníze moci nechat jméno nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:af1868dedb0fa0747f6b956351594801f3d7fbc15ed0ef9d9b1d7390bb1babc0
+size 1854

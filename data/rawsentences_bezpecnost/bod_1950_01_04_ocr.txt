@@ -1,1 +1,3 @@
- Málokdo si uvědomí, že tato naprostá "samozřejmost" byla před sto lety převratným objevem, že muž,kte - rámu vděčíme za bezpečnost - lékařských zákroků, za - platil svůj objev ojediněle tragickým osudem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34abc22c4c10411709862823625c6a3ab32432a20e33fb991c471206f5d4d048
+size 229

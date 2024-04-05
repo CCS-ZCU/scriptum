@@ -1,5 +1,3 @@
- Předseda nové vlády a ministr zahraničí jsou sice neko- munisté, armáda a bezpečnost však zůstaly pod kontrolou komunistů.
- Nabízely rovněž informační materiály a chtěly promítat videový záznam o lednovém a listopadovém zásahu Bezpečnosti.
- Pracovníci Chomutovských válcoven trub a železáren a také část příslušníků Sboru národní bezpečnosti.
- Ve třetím prosincovém týdnu se materiál přivážel nákladním autem Avis LN 53-69 za doprovodu vozu státní bezpečnosti.
- uspéínvm pokusem o překonaní sovětského odporu proti vyklizení rakouské pozice ve Střední Evropě, radikální konfrontací mezi Východem a Západem, a posléze problematikou Středního východu, v níž Kreiský vždy a na prvním místě viděl její vliv na vývoj ve Středomoří a na Balkáně, a tudíž záležitost, dotýkající se bezprostředně Rakouska a jeho bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf469c36646683d741f7088d48de4e391af63d67071c1233e05ab902edf3785
+size 917

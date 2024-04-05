@@ -1,1 +1,3 @@
- To byla situace, která zej- brys státu, který prosím není už naším domovem, a je jen těžko domovem a bezpečím i pro ty, kdo v něm žijou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96ffc5d6ce07cc1b2631705865e8fb3095490b577d5f2de45994eb6956c9186
+size 150

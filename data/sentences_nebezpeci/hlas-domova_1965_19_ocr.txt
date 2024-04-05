@@ -1,4 +1,3 @@
-Nena lézt uspokojivý řešení nebezpečí výbý ceha potrvat
-Josef Korbel kniha nebezpečí Kašmír Supová Kašmír Gandhi hlásat násilí mravný ¡eho nástupce Néhrú tvrdit
-obojí vést slabý člověk velký neutralita násilí obávat hrozit nebezpečí
-hlavní nebezpečí válka spočívat moci okamžik zvrhnout strana nábožený ský vraždění
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd5d732db2272ab8dc57ed07eccb761ee56bfc9b16c394b27fbc665def2865f
+size 357

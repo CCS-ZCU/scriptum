@@ -1,2 +1,3 @@
-celý desetiletí měnit Rus život pohodlí život bezpečí motorový sekačka tráva stálý cena vyčerpávající zaměstnání
-dan zaplavený okno střecha auto vyčnívat voda ulice lidé brodit videorekordér hlava bezpečí vysoký poloha
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0445b3a94c5e8cee721ae37320d85486ee48664aa2d35dffd73af32b833f43e
+size 248

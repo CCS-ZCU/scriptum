@@ -1,2 +1,3 @@
- A zde se dokonce zdá, že názory socanů na naši zahraniční politiku - jak to ve středečním Právu s obvyklou mnohomluvností formuloval Jiří Paroubek - jsou z hlediska naší bezpečnosti účinnější a jednoznačnější než to, co hlásají ti druzí.
- Bylo to nařízení ministra národní bezpečnosti č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d53335f4b9fe783501e8b31bc5e21c894cee24f16e203a1e251496018d50b32f
+size 326

@@ -1,2 +1,3 @@
- V té době Státní bezpečnost, zřej- mě už do nepríčetnosti rozezlená na neposlušného občana, který si dovo- luje dokonce si stěžovat, sáhla k tvrd- ším metodám.
- Sověti by se k nám chovali jako k rovnocenným partnerům a my bychom se podíleli na jejich prosperitě a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e09479e4786276f0135970fb0237913b2df2d3d245dc1aba3680fa43339f731
+size 306

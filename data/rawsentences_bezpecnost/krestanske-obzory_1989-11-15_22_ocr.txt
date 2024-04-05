@@ -1,1 +1,3 @@
- Za fejeton "Komunismus je bití" pozval si mě totiž vyšetřovatel Státní bezpečnosti a pravil,že by mě mohl stíhat,ale asi nebude,protože na mých fejetonech je prý vždy něco,co stojí za úvahu,tentokrát však prý jsem nezanechal obvyklou uvážlivost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:417cc2281cd4fc6448c90cb96450a6f22cb0f66d592b81b04e011ac91aa223ae
+size 270

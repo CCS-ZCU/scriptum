@@ -1,6 +1,3 @@
- Zdůraznil nutnost včelenění České republiky do všech západoevropských společenství jako záruku pocitu bezpečnosti českého lidu a dalšího klidného vývoje.
- Čtyři velké nizozemské organizace, které se zabývají otázkami mezinárodních vztahů, míru a bezpečnosti, si navzájem konkurují v nabízení různých kurzů na tato témata.
- Podobné aktivity vyvíjí též Středisko evropských studií bezpečnosti (Center voor European Security Studies, CESS) v Groningen,(krátkodobé intensivní kurzy v cílových zemích), Atlantická komise NATO (De Atlantische Commissie) (program pro docenty české vojenské akademie), a Studijní institut ministerstva obrany (De Defensie Leergangen) (12-týdenní kurz pro východoevropské důstojníky).
- Stačí se jen na okamžik zamyslet nad dějinami našeho kontinentu, abychom si uvědomili, kolikrát byla (naše) bezpečnost ohrožena.
-) Tragické události v bývalé Jugoslávii nás navíc denně konfrontují s krutou pravdou, že ani nyní nejsou mír a bezpečnost samozřejmostí.
- Nesmíme chtít uchovávat mír a svobodu, bezpečnost a blahobyt jen a pouze pro Západní Evropu, to by bylo nespravedlivé a krátkozraké - a v dlouhodobé perspektivě také ne v našem zájmu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbb6bfffbfb0e99d246802c74236a7613335ce26e73d356fa12096600ad30e27
+size 1269

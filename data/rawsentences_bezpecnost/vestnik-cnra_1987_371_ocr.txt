@@ -1,1 +1,3 @@
- Je to etnicky zcela pochopitelné, že židé nemohli prožívat české národní obrození stejně jako Češi, a že spíše v mnohonárodním státu viděli záruku bezpečnosti po tragických zkušenostech z historie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fa1b77aefe8726ebf17b3e5de832560de38188e6274980ca9ff2ec79e6b4ffe
+size 224

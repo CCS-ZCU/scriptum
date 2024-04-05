@@ -1,10 +1,3 @@
-představovat značný nebezpečí obyvatel žijící prostor vzdálenost kilometr strana plynovod
-obávat plynovod znamenat stálý nebezpečí
-pochyba nový kurs mít nebezpečí
-jiný kurs mít nebezpečí velký
-přehnat nebezpečí invaze zátý padoněmecký jednotka Československo nebezpečí existovat
-Československo vyvíjet demokratisační proces výstřelek chyba lidový vláda socialismus nebezpečí
-nebezpečí opravdový kontrarevoluce přehánět muž KSČ inteligence nazývat kontrarevolucionář nepřítel socialismus udělat řada chyba oportunistický cha
-vysoký míra přehánět nebezpečí opravdový oportunismus lidé KSc inteligence dělnický třída mládež nazývat pravicový oportunista revizionista vznášet správný požádavek demokratizace další vývoj socialistický společnost Československo
-psycholog znalec situace nebezpečí utahovat
-vážný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c46bb7c841c1490dfc556ac558dd83762dde66c530fd8090db17475e62f83a3
+size 976

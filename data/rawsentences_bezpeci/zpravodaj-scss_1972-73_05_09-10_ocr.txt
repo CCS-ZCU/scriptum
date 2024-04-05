@@ -1,1 +1,3 @@
-" iN|ěkteré situace jsou nesmyslné pouze v tom kontextu,že jsme v bezpečí ale pro obyvatel doma jsou vlastně přirozené:".
+version https://git-lfs.github.com/spec/v1
+oid sha256:38476c2c18bd0a5bcf0c3786328545d11cd0bc1e5d799831cd4fb0f3bcb4b117
+size 131

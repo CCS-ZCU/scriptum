@@ -1,4 +1,3 @@
-velký nebezpečí západ zapomenout slib obětovat oltář détent
-nacistický okupace vystavovat nebezpečí popravení schovávat židovský dítě ohrožený nenávist Němec
-propátrat okolí hrozit nebezpečí spásat horský tráva bylina květina
-sebemenší nebezpečí svišť vydat poplašný hvizda pronikavý zasvištění horský ozvěna roznášet dálka vrhnout doupě
+version https://git-lfs.github.com/spec/v1
+oid sha256:39759b7801b9fc8aa78e6fd44abc24560d0097ccabc9a080e3049eecb47b44f7
+size 385

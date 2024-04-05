@@ -1,2 +1,3 @@
-stranický orgán Komsomolskaja pravda napsat zapomenout nebezpečí představovat církev revoluční rok diktatura proletariát
-prezident demokracie moci spolupracovat socialistický Rusko spolupráce moci užitečný znamenat nebezpečí zájem jiný demokracie
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5648713ebdf705cf3845e1a791ae30822c21ebd3ce7c843ed17922bb8ecb25b
+size 265

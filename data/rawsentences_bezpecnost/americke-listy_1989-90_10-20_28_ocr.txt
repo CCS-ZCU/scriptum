@@ -1,1 +1,3 @@
- O Maďarské národní shromáždění zastává princip suverenity a vychází z potřeby ochrany národní bezpečnosti, jakož i spolupráce mezi státy i národy, založené na rovnoprávnosti a vzájemných výhodách se zřetelem na poučení plynoucí z nejnovějších maďarských dějin, se distancují od rozhodnutí, kterým byly v srpnu 1968 nezákonně poslány maďarské vojenské jednotky do Československa a které tak znamenalo vměšování do vnitřních záležitostí sousední země způsobem narušujícím i maďarské národní zájmy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7484f2f6fa9bb69366856d2b4f99563d762e14a5146f570edb83a1956995178
+size 565

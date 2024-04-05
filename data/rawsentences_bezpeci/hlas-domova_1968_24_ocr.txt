@@ -1,1 +1,3 @@
- Docházejí zprávy o zvýšené aktivitě západních politických a vojenských stratégů, přehodnocuje se význam dřívějších dohod a smluv, znovu se navazují přátelství, která byla uvolněna nebo porušena v minulých několika letech, kdy převládal pocit bezpečí, mesiášství de Gaulleovo ustupuje rozumnějším •úvahám o nutnosti zvýšení obrany země.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d3f0ca795a412cb424977e6390e76497e6395e9b41d5ad2fe5e20b2068285d
+size 664

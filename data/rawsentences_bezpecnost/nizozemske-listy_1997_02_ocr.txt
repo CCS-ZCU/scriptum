@@ -1,1 +1,3 @@
- Bol tiež členom československej delegácie na Štok- holmskej konferencii Konferencie o bezpečnosti a spolupráci v Európe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebbb76c0270cfbf1cef20260cc3111d90432bd13f6a785354a6a9af67e1cde8
+size 130

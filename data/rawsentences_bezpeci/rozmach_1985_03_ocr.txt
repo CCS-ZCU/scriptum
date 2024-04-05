@@ -1,1 +1,3 @@
- Přikrylovi, zaníceným ctitelům soluňských bratří, patří dík za to, že zaznamenali ústní tradici rozšířenou na Valašsku a Slovensku, že po zničení Velehradu přenesli cyrilometodějští žáci ostatky Metodějovy do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94a0c233747541728cb9091607596d4c138f90f39baa128d83135821557cfe7b
+size 249

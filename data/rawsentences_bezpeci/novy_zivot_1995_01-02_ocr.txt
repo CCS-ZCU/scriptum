@@ -1,1 +1,3 @@
- S ohledem na zvláštní pouto, které ji váže k dítěti pře- devším v prvních letech života, matka mu dává onen pocit jistoty a bezpečí, bez něhož by bylo těžké roz- víjet správně vlastní osobní identitu a následně navázat pozitivní a plodně vztahy s druhými.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3401e73fac53a06240f69625f18666216b30af3c129051c1d8afd2ca745c43f
+size 286

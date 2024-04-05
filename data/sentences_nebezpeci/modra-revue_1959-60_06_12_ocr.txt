@@ -1,1 +1,3 @@
-očekávat Ethiopan ztrestaný zlo čin Ital napáchat doba okupace anglický velitel vojenský oddíl přijít prvý porážka Ital hrozit nebezpečí krveprolití moci zabránit
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8149178ee5c0865502b8da0a505f745a82778bc8d2c871cc3a4b2974746e64
+size 179

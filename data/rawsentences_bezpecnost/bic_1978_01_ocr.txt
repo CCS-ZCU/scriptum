@@ -1,2 +1,3 @@
- Šel orgán Veřejné Bezpečnosti v noci parkem.
-" - o - Poslali příslušníky Veřené Bezpečnosti nav brigádu doJZD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7931196d8c407d675b504667780be79d6b69725711e43d6fcccf41e4bd223ac6
+size 125

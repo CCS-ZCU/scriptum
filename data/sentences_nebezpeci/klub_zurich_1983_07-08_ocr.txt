@@ -1,7 +1,3 @@
-octnout tíseň odloučit velký nebezpečí život vůle ohrožovat chladnout přátelství měnit nepřátelství
-žena ohrožený znamenat žena muset počítat nebezpečí rodina vlastní dítě klestit přítelkyně cesta dav vytrvat kříž
-nebezpečí
-jistý
-příští tiskový konference Berlín říci zavinit Berlina vznik lidový fronta organizovaný postavit vide skutečný nebezpečí chtít provádět mocenský politika
-říci organizace nebezpečí lidstvo
-upozornit lidstvo nebezpečí jaderný válka zbytečný normální človek nebezpečí znát
+version https://git-lfs.github.com/spec/v1
+oid sha256:62dc550267abd50b3d56131438152465a4c256bc0ff6741bc9700b70cdbebe3f
+size 569

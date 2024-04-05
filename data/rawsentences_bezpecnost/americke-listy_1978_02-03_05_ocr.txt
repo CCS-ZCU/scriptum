@@ -1,2 +1,3 @@
- pokud vím, podrobně informována státní bezpečnost i jiné orgány.
- (Dokončení) Učelem Rady je účastnit se boje proti komunismu a u- siloeat o obnovu nezávislé a demokratické Československé republiky v jejích předmnichovských hranicích a účastnit se úsilí o vytvořeni svobodné a sjednocené Evropy a světového řádu, založeného na spolupráci, míru a bezpečnosti, právu a spravedlnosti, ochraně lidských práv a státní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36c68b5712a59530100c56fbed8711ef4d3b20b1d812bd00cd37c27a227103a
+size 459

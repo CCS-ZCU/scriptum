@@ -1,1 +1,3 @@
-nastat nebezpečí moci svaz zaniknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:e370aaeee29430136132dc26c9ec2e143fe7035b3b41105df8347e86de84ae04
+size 39

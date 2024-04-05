@@ -1,3 +1,3 @@
- Tuto informaci nám rovněž potvrdil člen výboru pro právní ochranu a bezpečnost ČNR Pavel Sekera (KDU-ČSL).
- A když už nestačí námitky týkající se bezpečnosti, operuje se problémem skladování vyhořelého paliva.
- Obecně se prosazují tyto zásady: - karoserie se stále více zaoblují, aby se snížil odpor vzduchu, bezpečnost se dále zvyšuje zesílením prostoru pro cestující, zvláštními výztuhami ve dveřích, vzduchovými pytly ( air bag) u předních sedadel, neblokujícími brzdami (ABS), rozvedením čelního nárazu u malých vozů apod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aa937fb3d9e2aaa2cbb77a0e5f7c900d9d6513a9e020831d6abe814c1c60adc
+size 584

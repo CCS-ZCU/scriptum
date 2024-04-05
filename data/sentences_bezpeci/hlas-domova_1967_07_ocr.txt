@@ -1,1 +1,3 @@
-sistický určitý fáma žlutý bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0bdfa28a1223043fc4898b6ffd4275d7f4abb45e7aea27d23b28367c98e414
+size 43

@@ -1,1 +1,3 @@
-Rau Praha zdůrazňovat intenzivní styk obchod západ východ malý nebezpečí válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b3f723eae5e847e7b3db8bac91094d9cb157d23ad6ecfb9377b545e28db894
+size 88

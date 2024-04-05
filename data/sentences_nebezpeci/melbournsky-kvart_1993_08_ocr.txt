@@ -1,1 +1,3 @@
-Erik opustit Československo počátek padesátý léta pokus protikomunistický puč hrozit nebezpečí odnětí svoboda ztráta život
+version https://git-lfs.github.com/spec/v1
+oid sha256:4feb3fa1f78631adaf6968f39e738b650349ddb78af241d31a21aa05a63525d7
+size 137

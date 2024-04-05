@@ -1,1 +1,3 @@
-zeptat průvodčí znát místo bezpečí žralok
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c280d70e93f3d0b35d87355cc9f526a399820e7292e135d59305d757ea028f9
+size 50

@@ -1,2 +1,3 @@
- I I stanov: Účelem RSČS je usilovat o obnovu svobodné, nezá- vislé a demokratické Československé republiky a" účastnit se úsilí o vytvoření svobodné sjednocené Svropy a světového řádu, založeného na spolupráci, míru a bezpečnosti, právu a spravedlnosti, ochraně Lidských práv a státní svrchovanosti.
-Veřejnou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:920adac31ba5cd7a866749ef3604c8f3f75a58d6a666bc97fb703ddfbafa5497
+size 356

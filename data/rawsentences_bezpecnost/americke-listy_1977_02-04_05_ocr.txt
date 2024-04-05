@@ -1,2 +1,3 @@
- Tyto výhrady ještě povzbudila nepochopená a tupená helsinská dohoda o bezpečnosti a spolupráci v Evropě.
- srpna 1975, v závěrečném aktu konference o bezpečnosti a spolupráci v Evropě zavázalo к tomu, že “bude na úseku lidských práv a základních svobod jednat v souladu s cíli a zásadami Charty or- ganisace .
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c15643178037233f5583ef4525e90e0f9a4bc5555e3218b96bc37e8e86e999
+size 338

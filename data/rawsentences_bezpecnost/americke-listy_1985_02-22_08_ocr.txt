@@ -1,10 +1,3 @@
- — PRICE 50é CO DRÁŽDÍ POLSKOU STÁTNÍ BEZPEČNOST Čas od času se objevují v oficiálním polském poštovním íčku obálky se známkami.
- které vyvolávají bezmocný vztek příslušníku státní bezpečnosti a škodolibou radost příjemců dopisů.
- V tisku je nová série s portréty polských vlasteneckých knězi, počínaje páterem Kolbem, který zahynul v nacistickém koncentračním táboře v Osvětimi a konče Jerzym Popieluszkem, kterého zavraždili příslušníci polské státní bezpečnosti.
- že tato razítka Solidarity dráždi státní bezpečnost.
- Až na to, že dříve přijížděli příslušníci Státní bezpečnosti k bytu doktora Ladislava Hejdánka v automobilech a minulý týden přijeli autobusem.
- skupina příslušníku Státní bezpečnosti a všechny.
- Vyšetřovatelé Státní bezpečnosti se ani na okamžik netajili tím.
-se čtyřmi příslušníky státní bezpečnosti v polské Toruni jsou známy: dvakrát 25 let, jednou 15 let.
--tyli pracovníci statní bezpečnosti, nýbrž celý sv- stt m.
- že se jim podařilo — přes ohrožení, jež představuje pro tuto zemi sousední severokorejský režim — upevnit vnější a vnitřní bezpečnost a.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7259780e0e67b0baac6ae01d6f1d3380dcc4f74f5668b2d4d39f886e80edf33
+size 1223

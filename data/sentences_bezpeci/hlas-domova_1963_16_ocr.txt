@@ -1,1 +1,3 @@
-jednání Moskva výsledek dát svět iluse částečný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d213984b8649dd1140ba6ebf4b04a80d234d73bd7085483c69e8c4e4a3cf7f3
+size 67

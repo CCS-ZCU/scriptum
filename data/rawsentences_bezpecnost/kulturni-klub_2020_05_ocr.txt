@@ -1,6 +1,3 @@
- Před pěti lety jí prezident Miloš Zeman udělil medaili Za zásluhy, což vyvolalo protesty kvůli její údajné spolupráci s komunistickou Státní bezpečností (StB).
- V souvislosti s aktuální situací firma přijala opatření pro zajištění bezpečnosti zaměstnanců.
- „Významným prvkem je rovněž bezpečnost při zpracování klinického materiálu - stroj pracuje v podstatě bezobslužně.
- 45  věda a technika ŽIVOTNÍ PROSTŘEDÍ ČEZ požádal o povolení umístit nový jaderný zdroj v Dukovanech Energetická firma ČEZ předala Státnímu úřadu pro jadernou bezpečnost (SÚJB) žádost o povolení umístit stavbu nového jaderného zdroje u Dukovan.
- Podle Soudního dvora EU se trojice zemí nemohla dovolávat toho, že odmítáním migrantů chrání svou vnitřní bezpečnost.
- Česko spolu s Maďarskem a Polskem se však nechtěly k systému připojit mimo jiné s tvrzením, že rozhodovat o záležitostech týkajících se vnitřní bezpečnosti států je výlučně v jejich kompetenci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be82529f3a940a319cded42144403f87cdd803cbc2573583c867010634a9e11
+size 1038

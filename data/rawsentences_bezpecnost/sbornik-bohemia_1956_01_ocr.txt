@@ -1,2 +1,3 @@
- Ve státním rozpočtu je zajímavá položka na obranu a bezpečnost, která je pro r.
- Nebyly tedy ani žádné zvláštní starosti, co do budoucí právní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47ed7009ad3095ff742eccde95771bbecfdc96877ca87dd875a6c0106005a75
+size 175

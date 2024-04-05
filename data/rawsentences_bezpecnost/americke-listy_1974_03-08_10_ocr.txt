@@ -1,2 +1,3 @@
- Loni v půli března ještě Bezpečnost, ní rada Spojených národů pořádala okázalé zasedání v Panama City, kde latinskoamerické země za mocné podpory Sovětů odsuzovaly ‘■ imperialismus” Spojených států a jejich smluvní vý.
-” Kennedyho poradce v otáz- kách národní bezpečnosti — McGeorge Bunty nabídl svou resignaci po neúspěšné inva- si na Kubu (v Bay of Pigs).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1f105b5662ef0679e81c93a2230911d482020445cf68bf0a82ec44bca7076f
+size 404

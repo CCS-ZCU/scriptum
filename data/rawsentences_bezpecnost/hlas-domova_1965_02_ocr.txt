@@ -1,2 +1,3 @@
- Byla to marná slova, roz- hořčení mezi věřícími stoupalo, a tak zavolal na pomoc jednotky Ve- řejné bezpečnosti.
- ledna 1965 VEŘEJNÁ BEZPEČNOST VE VARNSDORFU V průběhu poslední dekády loňského roku došlo ve Varnsdorfu k 36 vážným případům výtržností, v nichž také povětšině spoluúčinkovalo více vypi- tého alkoholu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b198afff89c633a290935f869e87d47e5c6f24f4b65877b99b9ebb4108e3df31
+size 356

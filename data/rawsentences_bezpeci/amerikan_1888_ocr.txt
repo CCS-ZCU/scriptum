@@ -1,1 +1,3 @@
- Harris a Wickham odvedli jeho koně v bezpečí za návrší, kde generála sundali a na zem položili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65d859a53c1e97a5ead30a4851da28b2b3a0f042e17bce41d9f4fa7655b577c8
+size 105

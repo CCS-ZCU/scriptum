@@ -1,1 +1,3 @@
-Stárek ve vazbě v Hradci Králové a Státní bezpečnost při vyšetřování v jeho věci používá nezákonných metod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ceae3c82511477b7fbc3130e775d06b34d7ae408eaffc8f2171910e3823b82a
+size 126

@@ -1,1 +1,3 @@
-sednout počítat jasný blížící nebezpečí přátelský Huny stačit
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd31085dd0a25e2d7139d054bb7b7bf21ca85011589cf835255d5b347c229e5b
+size 75

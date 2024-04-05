@@ -1,1 +1,3 @@
-hrozit nebezpečí sovětský svaz Chile udělat eventuální vojenský puč základna podobný Kuba
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e2e160bad67d236fb673f498f38a910b593270337f8133302763a86d67c36a
+size 101

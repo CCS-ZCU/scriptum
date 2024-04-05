@@ -1,2 +1,3 @@
-4 miliardy (40 % výdajů), na národní bezpečnost 8.
- Necelých devět mi- liard na rozpočet "ná- rodní bezpečnosti" je snad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:765420c198c3d123522c81a74248dde3252d045626054b4ca18d4690d1ad1197
+size 133

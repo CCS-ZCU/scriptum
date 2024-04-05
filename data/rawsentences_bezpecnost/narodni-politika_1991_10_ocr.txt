@@ -1,1 +1,3 @@
- Ausonius nejvyšším kontrolorem bezpečnosti potápěčů po celé Kanadě, především na plošinách, kde se těží nafta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bc04d08e931491420013f9fa5d39942b9a8d01c03c9eb67cd1459d2ab64c38c
+size 130

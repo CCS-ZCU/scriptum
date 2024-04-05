@@ -1,4 +1,3 @@
-nebezpečí vynechat podstatný
-oposiční strana dohodnout společný postup pozorovatel pochybovat znamenat Vorster velký nebezpečí
-představitel vládní koaliční tábor cítit nebezpečí strana moci dostat otázka boj terorismus defensiva dávat ochota dohoda rozumný zákonodárný opatření
-druhý strana Bonn ztrácet zřetel nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:91130da61f5b7704e0d1376b7ad00dcb8956dd710d44748509cc4ef26d75197c
+size 353

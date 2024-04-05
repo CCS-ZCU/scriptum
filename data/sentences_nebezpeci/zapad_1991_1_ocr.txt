@@ -1,1 +1,3 @@
-soudce mít zavírat lidé vězení strašit vězeň vydávat nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f8c62c6dfc71406e8cf4522b79b49102678690e58e0077c0936ceb9a0698244
+size 81

@@ -1,1 +1,3 @@
-řešení spojení funkce Husákův ruka zaručovat prosazený dogmatický opatřený žíznící ultrakon zorvatista komunistický strana hlavní síla státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:5586b4593e4981e7a610d102e6a445a62f53c1343ed2a87f159a448f04356a26
+size 173

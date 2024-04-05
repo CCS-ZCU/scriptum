@@ -1,2 +1,3 @@
- Sbližování Mezi Československem a Švédském se konají porady o otázkách, souvisejících s přípravou konference o evropské bezpečnosti a spolupráci.
-vory o evropské bezpečnosti mohou vytvořit pro vývoj k demokratickému socialismu příznivé předpoklady, jestliže se neomezí jen na sankcionováni smluv, uzavřených mezi vládami, nýbrž vytvoří také možnosti pro otevřenou diskusi a širokou výměnu názorů a informací.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1475892c5f6a4931dd0f8ba6434ceed1fc345c65eef8f4e7132e3ae0cd9026ff
+size 455

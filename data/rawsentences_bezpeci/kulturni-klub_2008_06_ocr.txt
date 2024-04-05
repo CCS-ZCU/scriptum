@@ -1,1 +1,3 @@
- Už za prudkého deště odnesli podle plánu repliku základního kamene do bezpečí ve foyeru historické budovy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3242af60ca27d6088fc6ce88390b968273a5a6ea6d2e865550d4985ed59103fd
+size 118

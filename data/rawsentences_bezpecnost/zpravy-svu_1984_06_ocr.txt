@@ -1,1 +1,3 @@
- Miloš Nedvěd přednášel na téma Vybrané zajímavosti z oblasti bezpečnosti a ochrany zdraví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e45b5b151bed308c3a90c9e9a59d53b695f4315a1df8a0d7264cf05746ebf15
+size 102

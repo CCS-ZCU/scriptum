@@ -1,1 +1,3 @@
-končící říkat Roger herna rád přehánět nebezpečí okolí
+version https://git-lfs.github.com/spec/v1
+oid sha256:acc4ee1006e0fc947081f19dcdf475e0541fd838d7dae8cb2be6b7a6dce2a287
+size 67

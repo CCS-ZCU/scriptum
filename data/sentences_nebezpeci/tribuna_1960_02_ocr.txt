@@ -1,2 +1,3 @@
-ohánět odsunový paragraf
-německý vztah událost druhý světový válka silný německý menšina československý hranice znamenat smrtelný nebezpečí československý stát národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ec0348ed0ac7a695b5e5394967da149811d5b82b264240e1dbfa9e6c7887d3
+size 189

@@ -1,8 +1,3 @@
- Sověti se tvrdošíjné staví k tomu, aby v zájmu světové bezpečnosti svoje špionážní družice předělali.
- K tomu je málo co dodat, leda to, že sovětům nikdy na skutečné bezpečnosti lidstva nezáleželo.
- j, DRESLER PERESTROJKA OPRAVDU PRACUJE ? Speciální paramilitní jednotka sovětské bezpečnosti, která měla svou premiéru 21.
- Byl zbaven generálské hodností a když se kolem něho uzavřel kruh pracovníků Bezpečnosti, zastřelil se.
- Jiný z obžalovaných řekl, že úplatky byly nutné, aby pracovníci uzbecké bezpečností měli krytá záda pro úspěšný boj se zločinností.
- Demokratického svazu Jurij Mitjunov řekl zpravodaji americké agentury "United Press International", že akce speciální jednotky bezpečnosti byly čistou represí, bezdůvodnou a nevyprovokovanou.
- srpna to v pondčlí večer odnesli přihlížející chodci, kteří neopustili náměstí, i když bezpečnost upozorňovala tlampači, že jde o takzvanou antiso- cialjstickou demonstraci.
- Inženýr Vladimír Hajný ze Šumperka, účastník demonstrace, byl surově zbit příslušníkem Státní bezpečnosti, který ho pod záminkou kontroly občanského průkazu, zavedl do chodby obchodního domu Máj.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc928ab67a7ae215fb43d1b30a70bd9b7b64980fc0d405b943217763a3ff2cc4
+size 1240

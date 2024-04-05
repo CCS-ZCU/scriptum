@@ -1,2 +1,3 @@
-úvodní projev říci civilizovaný země existovat trestní zákoník paragraf trestající zanedbání pomoc osoba nebezpečí
-mít lidský duše cítit nebezpečí udic vlasec třpytek
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa30f049ca1d3c81d70b0d63c99742e7a05caf75fa728ca5eecf90f4e26cd98
+size 189

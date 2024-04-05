@@ -1,5 +1,3 @@
- Většina vidí v tomto návratu jakýsi vstup do ráje, který oplývá „mlékem a strdím", aniž by k tomu bylo nutno příliš přispívat - „když pominul komunismus, dostaví se blahobyt, svoboda a bezpečnost samočinně“.
- Každý člen nové společnosti se totiž musí stát ekonomicky závislým na řídicí - současně však neproduktívni - části společnosti, na rodné straně, na jejím potlačovacím aparátu - byrokracii, bezpečnosti a armádě.
- Za jedny šaty, 500 rublů a plnicí pero Parker mi dal orazítkované povoleni k pobytu, které jsem sama vyplnila a pak jsem šla s domovní knihou na Bezpečnost.
- Za deset týdnů ji navštívila Bezpečnost, sepsala s ní všechny potřebné protokoly a navíc k ni pustili syna, kterého mezitím poslali na lesnickou školu v Brjaňsku.
- Jako bývalý geodet se stal obětí závalu a trpí od té doby klaustrofobií|Běda, musi-li vraha sledovat v uzavřené kabině výtahu či s ním hovořit v příliš malé místnosti Jeho handicap je pak zdrojem mnoha osobních nepříjemností a zašmodrchává zápletky dle poučky čím víc trápeni pro detektiva, tím více radosti pro čtenáře V něčem přece jen Vemer zaplatil daň českého detektivkáře, který si nemůže dovolit ignorovat existenci Veřejné bezpečnosti: Círa je líbezným švagrem důstojníka kriminálky na malém městě Dělá mu ostudu milostnými avantýrami, úspěšně se mu plete do vyšetřováni vražd; prostě dělá to.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20095a7e444dca07d716d7a4d2fef62ac829f526bbb2762c0ea716b7550bf261
+size 1504

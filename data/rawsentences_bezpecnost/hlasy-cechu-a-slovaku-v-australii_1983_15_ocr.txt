@@ -1,6 +1,3 @@
- Bezpečnost mluví o "závadové činnosti" dětí, psychologové o "nezájmu rodičů".
- Žádost o jeho vydání vyřizuje oddělení pasů a víz okresní správy Sboru národní bezpečnosti, kde má žadatel trvalé bydliště.
- Václav Benda byl zatčen koncem května 1979 při velké razii, kterou pražská státní bezpečnost podnikla proti známým signatářům Charty 77 a členům VONSu.
- Věnováno historii SNB, se zvláštním zaměřením na práci ZOB /Zemské oddělení bezpečnosti/, které si komunisté vybudovali jako vlastní expozitury při MV, dokud si ještě nebyli jisti, že kolega Nosek vnitro zvládne a dokáže ho přizpůsobit moskevským poměrům.
- Dokonce i československá encyklopedie nás může poučit, že SNB je podle vojenských zásad organizovaný ozbrojený sbor, jehož úkolem je chránit státní zřízení, veřejný pořádek a bezpečnost osob a majetku.
- armády 1 dělostřelecký oddíl letka bitevních letounů stíhací skupina Ocel /později Teplice/ v síle 10 rot dále se účastnilo 3700 bývalých partyzánů 1105 příslušníků Národní bezpečnosti /oddíl Safír?/ 585 členů zvláštního stíhacího oddílu SNB v Čechách 233 členů odborného stíhacího oddílu SNB na Moravě’ Autor jen tak mimochodem dodává, že akcí se účastnily /na polské straně hranic/ tři polské divize a jednotky Sovětské armády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d12532f6a4f5e39e8bd6b34f139b4560789d90cf752bf84d5de79c4623b979e
+size 1407

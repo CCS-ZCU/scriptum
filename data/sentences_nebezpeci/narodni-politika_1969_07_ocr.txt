@@ -1,1 +1,3 @@
-vědět rozmělněný křemínek stávat kvádr hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f861d476dcb45318bfc1fb258b677a83b139f19daab0f379e4946e410b2797
+size 67

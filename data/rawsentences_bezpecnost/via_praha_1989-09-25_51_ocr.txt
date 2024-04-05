@@ -1,1 +1,3 @@
- Okresní soud v Lounech iniciativnř předal tento při- piš státní bezpečnosti, ktrá vyěetřovala, kJo ja iniciátorem tohoto pod- nčtu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8237c7e777eeb59b49241f13587a98d9b2999a2cd99f09f14519d2757d0b1bca
+size 146

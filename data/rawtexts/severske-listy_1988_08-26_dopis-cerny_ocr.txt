@@ -1,1 +1,3 @@
-1988-00-26 Vážený pane/paní, převzali jsme Vaši adresu od p. Stránského a pokračovali v zasílání Severských listů, třebaže jsme od Vás nedostali žádný příspěvek na vydávání . Z ekonomického hlediska není možné v bezplatné distribuci nadále pokračovat. Litujeme. Prosíme Vás, aby jste nám sdělili, zda-li si přejete v odbírání SL pokračovat. Předplhtné na rok 1988 Činí do zámoří 10 dol. US. PředbČřné předplatné na příští rok je 12 US $ za 8 čísel. Příští SL vyjdou koncem září/zač. října. Pokud do té doby neobdržíme od Vás zprávu, předpokládáme, Že od předplacení upouštíte. S krajanským pozdravem Dtto Černý [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a33dfe86165073e5cb6fe5791463b16f3f8f9ea9efc7163e9750231a528e670
+size 708

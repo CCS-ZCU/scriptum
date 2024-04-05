@@ -1,4 +1,3 @@
-varující hlas poukazující vážný nebezpečí hrozící církev celý západní civilizace zůstat osamocený soustředit urážlivý pomlouvačný kampaň nepřítel doba nepřítel popírač bůh boží slovo nazývat nevědomek nenávist popírání zakrývat tajemství srdce
-obava nebezpečí válka
-účastník vystavovat hruhný urážka nebezpečí život
-Khué zůstat místo sever původce veřejný list biskup kněz vzor dobrý pastýř opouštět stádka nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:20c12758d9dd765d86d213462b7dc06b0ee979ef999063e17d08aa4e478e0b33
+size 485

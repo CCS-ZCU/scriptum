@@ -1,4 +1,3 @@
-hrozit bezpečí lidský život stát vláda bědný lidé dohnaný slepý zoufalý násilí
-explicitní absolutno uctívat označení bůh moci deifiko vaný vlastní jméno bezpečí radost úspěch Dro moc budoucnost církev idea Svoboda rozum Spravedl nost
-iíaše spontaneita vnímat pravdivý osvobozující vztah ztráta dosavadní spolehlivý opora ohro ženit zvyklý poskytovat pocit bezpečí potvrzovat horizontální identita
-novověk vzít bezpečí statický civilizační struktura vlastní středověk postavit svoboda odpovědnost vlastní rozhodnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2eaa91fc8b23383889702dcfb3da9a21810ac2dec3b33087cb4dadd3ba09c5
+size 476

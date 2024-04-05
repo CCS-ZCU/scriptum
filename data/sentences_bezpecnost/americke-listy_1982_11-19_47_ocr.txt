@@ -1,2 +1,3 @@
-srpen zatknout bratislavský státní bezpečnost Helen Gondová byt zabavit náboženský literatura
-hlásit bohoslovecký seminář bezpečnost rámec přijímací řízení dělat nabídka spolupráce mít studium dobrý vlastence sledovat antisocialistický živel student
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f571dde2ef382d44054992f869c72a989aab76f3be3a2a3aede2c9f4077c09
+size 277

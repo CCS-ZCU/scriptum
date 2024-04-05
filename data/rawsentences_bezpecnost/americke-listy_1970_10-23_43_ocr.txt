@@ -1,9 +1,3 @@
- Na Slovensku byl — jako předtím v Praze — ve stejnou dobu ustaven policejní pohotovostní oddíl, který má být elitní jednotkou Sboru národní bezpečnosti.
- Některé síly ve Státní bezpečnosti, v justici a — jak patrno .
- Úvodem promluvil ministr vnitra Radko Kaska o problematice Sboru národní bezpečnosti a o růstu kriminality.
- lednu 1970 chybělo jen ve Veřejné bezpečnosti celostátně více než 2000 příslušníků do plného stavu plánovaných míst.
- Je samozřejmé, že poctivým občanům a ani mně nejde o to, aby materiály, které jsou v šetření, byly zveřejňovány tím způsobem, jak se to dělo v letech 68-69, kdy to vedlo k diskreditaci orgánů bezpečnosti.
- Je však nutno si uvědomit, že trestní řád ukládá jak orgánům bezpečnosti, tak prokuratuře stíhat bez výjimky všechny trestné činy a jejich pachatele.
- Ale co nám brá- -ní, je to, že orgány bezpečnosti za řadu let otupily svoji činnost, nejen po lednu 1968, ale i předtím.
- veřejné bezpečnosti.
- V Praze byl zřízen pohotovostní útvar Veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61d7dd21e02e0bad2f549605f2eac618a4e4515bfe2e46cf558485b14838df5
+size 1110

@@ -1,2 +1,3 @@
-vědomý nebezpečí moci vyvstat
-vědět první ruka březen Masaryk smrtelný nebezpečí varovat utéci
+version https://git-lfs.github.com/spec/v1
+oid sha256:cac3cc4f7e7d777d72b22c900671818f0c82d159b63592d42fa9d63dc73a8ef9
+size 107

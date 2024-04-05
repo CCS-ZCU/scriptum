@@ -1,1 +1,3 @@
-naznačovat změna zamýšlet Gorbačov představovat stabilita systém nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b30c88b67b7c531df3b9ab86c658a2e4b0147f8eb359d1b26261dca4624769e
+size 84

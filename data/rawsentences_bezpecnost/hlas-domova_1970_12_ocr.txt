@@ -1,2 +1,3 @@
- — President Svoboda udě lil Řád Rudé hvězdy krajské správě Sboru národní bezpečnosti Severomoravského kraje “za dlouholetou a příkladnou práci”.
- Kromě do její cely nasazovaných konfidentek Státní bezpečnosti, trávila Horáková svoji vyšetřovací vazbu v přísné iso- laci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a99f752b280a80129046f3c67e4552f31d5f0ca1b5e396d969719823ce68ed
+size 308

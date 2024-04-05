@@ -1,6 +1,3 @@
- Naše osudy, život našich rodin a často i přátel, kteří nás tehdy odmítli opustit, jak jim přikazovala státní bezpečnost, se tenkrát vydávaly pře- těžkou cestou.
- Jak se dovídáme, jsou mezi námi signatáři, kteří spolupracovali se Státní bezpečností, mnozí dokonce za odměnu.
- Ti, kdo spolupracovali se Státní bezpečností nás všechny ostatní pošpinili.
- zá- ří 1991 a usnesení výboru České národní rady petičního, pro právní ochranu a bezpečnost č.
- Lidé pragmaticky střízlivě uvažující považovali její činnost, proje- vující se především publikací podepsaných dokumentů, za bláhové sníl- kovství donkichotské povahy a upozorňovali na to, že přece všechny mocenské trumfy má v rukou „strana a vláda" — armádu, bezpečnost, všechny zdejší masově komunikační média a nespočetné řady posluš- ných funkcionářů a úředníků — a my jen psací stroje a nejisté ilegál- ní kontakty se zahraničními přáteli a několika rozhlasovými stanice- mi.
- Zatímco státní bezpečnost je skryta v ano- nymitě, došlo k plošnému zveřejněni jejích skutečných i údajných spolu- pracovníků bez jakéhokoMv rozboru a rozlišení — af se každý obhájí, jak může.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4710e080196365727081d6e3ea6ca4f795c986d9effa045321ada42d2e925709
+size 1274

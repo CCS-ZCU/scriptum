@@ -1,1 +1,3 @@
- Pitva by imohé věřící pohoršila a co by se dosáhlo tím, kdyby lékaři zjistili, že papež nezemřel přirozenou smrtí? Celý svět by se zeptal: Jak je to možné? Kdo odpovídá za bezpečnost hlavy všech katolíků? - Možná, že si ti, kteří za její bezpečnost odpovídají, uvědomí, že v SSSR existuje ústav, který se specializuje na to, jak se nenápadně - kdyby to vzbudilo odpor vůči komunismu - nebo nápadně - na odstrašení každého, kdo by se proti komunismu účinně postavil - protivníka zbavit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad0bd856805653de7961e62b716134280969c2587e6983a447c6e50d3c29c19c
+size 540

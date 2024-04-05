@@ -1,2 +1,3 @@
-Sovět zvyšovat riziko válečný nebezpečí oblast
-prohlásit samotný předsednictvo ústřední výbor ústřední výbor strana přijmout politický hodnocení pravicový nebezpečí věc obroda socialismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17386eb98404476419a4ce04cbeafd7cddafdde8ec7ea1eca9ceced42c48b66
+size 213

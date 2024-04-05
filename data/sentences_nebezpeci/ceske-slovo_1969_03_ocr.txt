@@ -1,2 +1,3 @@
-postoj pomáhat světový měřítko určovat rozsah fašistický nebezpečí pomoci vyjasnit vznikající fronta evropský politika
-zdát Sovět vykonávat patřičný nátlak nebezpečí nový vojenský policejní opatřený ostatní svět začít reagovat italský komunista článek psaný sjezd italský komunistický strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:e91c553d16154002a692e26b04fe08556fcd0f6fd2f71fa1e1ba4ae56c32b8fe
+size 330

@@ -1,1 +1,3 @@
-sovětský svaz věc dělat svět muset usilovat mír bezpečnost československý rok zmiňovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4522cf77a186f3568d507072dbe43aece5035cdd27fdd7a8028adac2a9ee6bc
+size 97

@@ -1,2 +1,3 @@
-účastnici byli zadrženi Stótm bezpečností? většinou již 9.
- Policejní zajišťování na 48 hodin - navíc prodlužované - je jako prevence nezákonné, výslovně odporuje a zákonu o SNB, podle něhož Bezpečnost jakoby postupuje: zajistit nejdéle na 48 hoain k pro-* vedení nutných služebních úkonů je totiž podle tohoto zákona možno jen toho "kdo drobnými výtržnostmi nebo jiným nepřístojným chováním ruší veřejný pořádek".
+version https://git-lfs.github.com/spec/v1
+oid sha256:15f19582664c81e66f5cbbe5f5e379b35bff9e6223695fa05a2bfc7a85b896c8
+size 465

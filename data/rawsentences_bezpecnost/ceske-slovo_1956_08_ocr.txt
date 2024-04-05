@@ -1,1 +1,3 @@
- Věřte mi, že bych v tomto Brní nechtěl bvdlih" VEŘEJNÁ BEZPEČNOST BDÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf44a3102d269ef6d2cf0a1eb24366dbaadc9a86786b10934a16dec6bec63d3
+size 81

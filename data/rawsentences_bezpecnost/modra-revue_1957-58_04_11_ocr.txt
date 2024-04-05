@@ -1,1 +1,3 @@
- Zní bezpečností řádu tohoto světa, který nelze změnit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dce592a4cf36729a72ca28416f6c51608430a5f4e275d65c1304bcd746405f7a
+size 64

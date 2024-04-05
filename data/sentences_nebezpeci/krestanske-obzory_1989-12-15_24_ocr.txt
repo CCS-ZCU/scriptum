@@ -1,1 +1,3 @@
-začít myslit umět rozbitý atomý vát jádro dokonalý hrozit nebezpečí atomový zbrojní soupeření atomový válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:773c189a5a65b53a002f6aeab317d76facf4e5cc66f8dc3290811bd7ef01f0af
+size 121

@@ -1,1 +1,3 @@
-odbočka den hrozící nebezpečí poslat Chicago varovný telegram Bděte konsulový
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a35584aa2ee2152a3951fed170ed4a513cd5e8781282c539a6a6c51c10058e9
+size 86

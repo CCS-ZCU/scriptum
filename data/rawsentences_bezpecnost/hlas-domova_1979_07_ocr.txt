@@ -1,1 +1,3 @@
- Z komuniké dále citujeme: “Obě strany se shodly v tom, že humanitární otázky budou i nadále řešeny v souladu se všemi ustanoveními Závěrečného aktu konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a35cc2e73a86df4bb0fb1be246c99f5c7d6905c4ae752c56b5e0d1d8fa3d837
+size 218

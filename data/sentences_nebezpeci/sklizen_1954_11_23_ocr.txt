@@ -1,1 +1,3 @@
-Gellner věřit německý socialismus povinnost zabránit blížící válka poukazovat důvěřivost tehdejší francouzský socialista myslit postavit odpor válečný nebezpečí najít urci toský odezva socialista německý
+version https://git-lfs.github.com/spec/v1
+oid sha256:25013490f72787dd20a6fa8d167e5bcd532204042405bda0e23dc8db16c7dc96
+size 235

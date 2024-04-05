@@ -1,6 +1,3 @@
-kreveta pozorovaný lhostejnost rostlina přestat ovát vědět hrozit bezprostřední nebezpečí
-reagovat milostný vášeň
-Keakec nebezpečí moci dědičný podmíněný předchozí zkušenost
-nebezpečí jídlo soko druh pohlaví člověk leknout myš ozvat ráno bezpodstatný ráno způsobený Backsterev p^okus opakovaný celý svět
-dovědět Ježíšův život nebezpečí
-věrnost kříž utrpení nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:75acf2e2333027637580003d5b360a0f717864cf07b2adb7ee22ed93a6ff6074
+size 422

@@ -1,1 +1,3 @@
- A je jisté paradoxem, že se stala určitou zárukou bezpečí pro ty kritiky režimu, jejichž jména nebyla zwó- ma v zahraničí a kteří se tak mohli stát snadným cílem represivních akci vlády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c2e55498949b0807ca25c031bda6e3ffd1bdeb0cd697cfd8e3689b5b5e68452
+size 205

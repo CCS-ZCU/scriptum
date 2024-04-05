@@ -1,2 +1,3 @@
-přednost svému ječmenu v klidu a bezpečí před noj- chutnojsimi hostinami, pri nichž obsluhuji Strach a Obava/' Víte,že .
-A víte také dobře,že vaše hloupé tajemství je u mě zcela v bezpečí,ovšem jen tak dlouho - víte ostatně sám,jak dlouho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cfcc32df59c91dd47e684563ac2d3c154fdad52e625d0f46fd4a3ebcecda207
+size 261

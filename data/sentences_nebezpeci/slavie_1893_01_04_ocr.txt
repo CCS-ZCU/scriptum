@@ -1,3 +1,3 @@
-Louis nebezpečí život pozdravit podstoupit bezpečný oparace
-nebezpečí veliký kapitán strojník mužstvo konat povinnost podařit mořský obr náklad dostat bra americký
-Chtíc předejit nebezpečí žádat Ayer Sarsaparill opatřit Ayerův kalendář nový rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:198ac28c8f3b5791a06fda74409eb8f53cd43b1f87b713d46630221675aa8636
+size 283

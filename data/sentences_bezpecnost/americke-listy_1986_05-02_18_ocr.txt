@@ -1,1 +1,3 @@
-rozomit Švýcař boj Terorizmu
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb1fa4644c9dcb38d884214d10ed1336ef325d33f28f073465aa9b6e5242b93
+size 32

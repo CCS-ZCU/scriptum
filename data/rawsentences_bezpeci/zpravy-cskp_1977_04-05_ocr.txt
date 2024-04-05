@@ -1,1 +1,3 @@
- bezpečí, že jo docela lehce užné schválit i pr ·.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1da6995bf1d97900a2914829cb40efc31a17b8e307488938c1096a1345c8aa8e
+size 58

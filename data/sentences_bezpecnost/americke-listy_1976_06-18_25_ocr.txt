@@ -1,1 +1,3 @@
-švédský velvyslanectví Praha oznámit ČSSR noc vypovězený švédský obchodník Jiří Jaan státní bezpečnost podrobit dlouhý výslech
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e3244cbfb8cc052097cc1d0e5096ebeb5ea768ac477a5312737e0c18f7c7f1a
+size 146

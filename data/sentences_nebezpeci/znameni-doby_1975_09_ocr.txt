@@ -1,4 +1,3 @@
-setět jiný cesta postřik většina případ
-síla moci vzbuzený raohý způsobit nemoc hloubka moci otevřený moci přinést nebezpečí síla příčina rozhodný ničit navrtaný prswn spoutaný
-nový hagio grafie stylizace
-nebezpečí upadnout propast
+version https://git-lfs.github.com/spec/v1
+oid sha256:15f1019b51a4e191e21a8fa58ce05271adf23cb71db6d5f0b4098c6f9c72d79c
+size 259

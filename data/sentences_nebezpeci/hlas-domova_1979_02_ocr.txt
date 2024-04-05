@@ -1,1 +1,3 @@
-tajemství sovětský svaz mít zájem získání lepší jméno celý evropský socialistický blok zájem zvětšovat zhoršování situace Azil růst žlutý nebezpečí SSSR sovětský svaz jít poslední doba příklad omezit příznivý propaganda západ povolit velký počet občan vystěhování Izrael jiný odjezd příbuzný kapitalistický země
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1699dbe80652f7126ceff6970dc8e16f32967b20b9337d42d6445f2f2b4eb52
+size 359

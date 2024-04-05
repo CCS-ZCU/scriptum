@@ -1,1 +1,3 @@
-poznámka obor poznávání studium úžasný rozmanitost příroda skrytý geofysikální vesmírný taj úkaz prostý pravda víra krása bezpečí dobrodružství vnitřní praktický život víra
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dbacfded9ea78b0d83ba3174df4af362130723f11316b5f8b7ac3f3405034c0
+size 200

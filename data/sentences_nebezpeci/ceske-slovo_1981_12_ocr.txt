@@ -1,2 +1,3 @@
-nebezpečí jelimánka chodit ukázat drakobijec šat maloměšťák
-nebezpečí potvrdit
+version https://git-lfs.github.com/spec/v1
+oid sha256:521574304507d4d8c8762f8c38c468d13b8853c258c796dd0f490fe0961c44ce
+size 90

@@ -1,5 +1,3 @@
-pokládat nutný ohradit pasáž dopis dávat metr vláda zvyšovat závod zbrojení jméno obhajoba svoboda právo základní demokratický svoboda lidský právo přibližovat nebezpečí jaderný válka Evropa ohrožovat civilizace vzejít princip lidský právo demokratický svoboda
-Isme vědomý nebezpečí sk^vat rozhodný militantní postoj byt dít jméno obhajoba lidský demokratický právo zbytný omezení právo moci proměnit pohodlný suspendování hledisko mocenský uvažování právo představovat pouhý příjemný balast
-nebezpečí deserce velký
-ližní Čechách hrozit nebezpečí kůrovec
-stačit návštěva sterilní prostředí láska míra člověk ráz zbavit patetický jazyk nebezpečí trefit mozek prostřelit hlava
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6d989682d400c5c4e4e333eaa9987b441b8044582c81d64c88d27cd89b91efa
+size 756

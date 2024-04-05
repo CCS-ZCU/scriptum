@@ -1,1 +1,3 @@
-dítka rodič moci držet domácí učitel muset chodit škola útlý mládí zbavený nebezpečí nákaza škola zbytečný čas vůle ostatní schopný onemocnělý dítě prosedět nucený zdraví zkáza trpět
+version https://git-lfs.github.com/spec/v1
+oid sha256:1776f577e1e843098e76a19e3a60efcb99b19e72fa96cc1367b8ba792fd01e1a
+size 214

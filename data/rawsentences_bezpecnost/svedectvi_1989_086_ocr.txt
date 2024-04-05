@@ -1,11 +1,3 @@
- Když Šla k ránu z hlídky, sebrala ji Bezpečnost.
- Historii, podepřenou ekonomií, sociologií, politologií a dokonce i studiem situace z hlediska bezpečnosti - ale především historii.
- Dále jsem mohl s potěšením konstatovat, že v Státní bezpečností zřejmě není nouze o tvrdé valuty.
- Záměr obou uvedených provokací má jediný cíl: zpochybňovat nejen úsilí naší strany a společnosti o přestavbu, ale i zkomplikovat jednání vídeňské schůzky a v rozporu se Závěrečným aktem konference o evropské bezpečnosti a spolupráci vměšovat se doi vnhřních věcí ČSSR a narušovat československou svrchovanost.
- Jak měli bachaři vztek, že jim Státní 'bezpečnost kazí zaběhnutý pořádek v kriminále, jak formálně a ledabyle probíhaly výslechy.
-se vytváří ostrůvky bezpečnosti v oceánu nejisté budoucnosti, bez nichž by kontinuita - nemluvě o jakékoli formě 378  stálosti - nebyla v mezilidských vztazích možná .
- a ponechal lak tajemníkům pro věci církevní, orgánům Bezpečnosti a soudům, aby aplikovali ustanovení par.
- Při výsleších se orgány Státní bezpečnosti snaží zastrašováním.
- Prakticky každý duchovní či kandidát bohosloví a každý aktivnější věřící jc periodicky sledován nebo kontaktován Státní bezpečností.
- Státní moc dosud prakticky nenabídla věřícím k rozhovoru jiného partnera než vyšetřovatele Státní bezpečnosti.
- Nepochybujeme, žc desetitisíce informátorů StB, ale nakonec i pracovníci Bezpečnosti sami by mohli poskytnout o mínění lidí překvapivě přesné informace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22be7bd2bab331216a5c90a5945608f3fc8e6cd8a95cbd02a4f9d5f54d8c02de
+size 1630

@@ -1,1 +1,3 @@
-Máchův názor názor zatížený mili tantní hledisko signalizovat jistý nebezpečí bata vrátit konfesijní rovina spor katolicismus protestantismus Masaryk náboženství český myšlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d9588f014a2954dd5adb276cc7f412a812525ab036eb3954984cfbdd66bcb2f
+size 197

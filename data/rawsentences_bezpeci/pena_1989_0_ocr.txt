@@ -1,1 +1,3 @@
- Štáb armády a její politické vedení bylo v relativním bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:320cbf5b8bb3b0fcf743084554e37de5277cd6533175f408564b1691a7f4a2d7
+size 73

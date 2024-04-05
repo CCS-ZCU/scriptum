@@ -1,1 +1,3 @@
-naprostý bezpečí ujistit Jan špačka naprostý potvrdit muž zvaný Vladimír Jan špačka obrátit sebejistota prospěch navalit tisícovka
+version https://git-lfs.github.com/spec/v1
+oid sha256:966908f06ccb9a191913115084ae78d2fcfd24da72e11c20c8627b425903d0fa
+size 145

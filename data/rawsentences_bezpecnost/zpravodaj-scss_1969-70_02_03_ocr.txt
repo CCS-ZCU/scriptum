@@ -1,1 +1,3 @@
- Jedna se stará o bezpečnost a klid své země, druhá je nástrojem mocných k udr - žení nadvlády nad většinou» Pokládám za správné, že je zde policejní aparát, který se stará také o moji bezpečnost» Jsem-li v nouzi, mohu se na něj s důvěrou obrátit s vědomím, že naleznu pomoc a zastání» Kdo však nemá čisté svědomí, má zcela důvodně strach, Sociální zabezpečení je zde na rozdíl od Československa záležitostí osobní volby a rozhodnutí každého jednotlivce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20b2dce37d6f661b0fd798032463c7f1e583f3a501e023dc5b0077d7430ab16a
+size 512

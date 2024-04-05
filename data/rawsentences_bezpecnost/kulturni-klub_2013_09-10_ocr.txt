@@ -1,8 +1,3 @@
- Hagibor se kromě požadavků na bezpečnost a jídelnu s košer stravou od ostatních domovů nijak neliší.
- K postupnému nárůstu oblíbenosti bezkontaktních plateb přispěl i fakt, že se lidem nepotvrdily počáteční obavy z nedostatečné bezpečnosti platebních karet s bezkontaktní funkcí.
- České potraviny zdravotně nezávadné Nejnovější žebříček Global Food Security Index sestavený listem The Economist ukazuje, že ve střední Evropě se vcelku lidé nemusejí o kvalitu a bezpečnost potravin příliš obávat, i když určité rezervy se dají stále najít.
- Global Food Security Index vychází z několika ukazatelů, jako je nutriční hodnota potravin na trhu, nabídka dietního jídla, přístup k pitné vodě, zdravotní nezávadnost a také bezpečnost kontroly potravin.
- Kritéria efektivnosti staveb silniční dopravní infrastruktury staronově lžou o zlepšení bezpečnosti a životního prostředí výstavbou dálnic.
- Cestující, jejich bezpečnost, ale i provoz bude nově hlídat kamerový systém.
- Husákova Bezpečnost pilně slídila po Achillových patách sledovaných Objektů, aby se průnikem v zranitelném místě zmocnila jejich celého života a proměnila je k obrazu svému.
- října ČR byla ve druhém kole hlasování zvolena na dva roky nestálým členem Rady bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5877567b5abff82aa2b8a7785b1a0ca4be8ca80f184df851d63abad0d1dd7cfa
+size 1357

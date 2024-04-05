@@ -1,1 +1,3 @@
- Systém tvorí dvé malé rakety, které mají v prípadé nehody dostat kabínu s posádkou do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1c1b4c4318ea4ec7eafdb5d490db156ec85d5d52bac2c762ca62f48ba1294e
+size 108

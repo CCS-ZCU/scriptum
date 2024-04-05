@@ -1,1 +1,3 @@
-květen nést návrh yytvoření spolek křesťanský král omezit intrika papežský stolice mezinárodní politika přispět odvrácení turecký nebezpečí zajišťovat mír Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f952106a321c4611cb5d0d2e84045c52b742342485aa57a281207d64cf16a44
+size 185

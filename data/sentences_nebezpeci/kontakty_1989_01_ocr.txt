@@ -1,1 +1,3 @@
-muset usilovat oltář stát Fatima snažit putovat mariánský ctitel postavit srdce upevnit víra snažit vybudovat srdce mládež nebezpečí ateistický propaganda škola
+version https://git-lfs.github.com/spec/v1
+oid sha256:459c58167e146159d89bb34ec0fc83c4d7db0121c67aaec140e636ed7e1ad588
+size 175

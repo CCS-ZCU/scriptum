@@ -1,1 +1,3 @@
- Syrský president Assád na tiskové konferenci před měsícem odmítl rezoluci Rady bezpečnosti (příměří) jako «protikladnou našemu boji a cílům» a dodal, že začíná nová fáze boje proti Izraeli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42d164f8955c7820b2ef295d15edad55b02092a81a600fe9643be3420e202a09
+size 215

@@ -1,2 +1,3 @@
-charta představovat vážný nebezpečí komunistický diktatura
-dozorce opilý stálý nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62fcddc8c5c79170a6f824aa97f28bbc0b8fa08ad24826d6d509f90a67bf587
+size 108

@@ -1,2 +1,3 @@
- Berding velkou řeč o zahraniční politice Spojených států před “Ženským forem o národní bezpečnosti”, kterou by měl pečlivě číst každý, kdo se zahraniční politikou Spojených států zabývá.
- Chruščova, ukazuje jeho skutečnou praktickou politiku a sám mluví jako praktický politik, odpovědný za bezpečnost amerického národa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e095affa87b898648bfee9164ddbfd51ed07782877c95e78683f55997a0441d
+size 364

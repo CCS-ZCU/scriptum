@@ -1,27 +1,3 @@
-prohlášení moravský mládež
-mladý lidé
-součást společnost cítit odpovědný vývoj
-lhostejný budoucnost moci lhostejný budoucnost společnost
-vidět chyba podepsat tvář dnešní mladý generace
-generace žít absolutní lhostejnost nezájem veřejný dění budoucnost vlastní život
-vést mladý lidé uchylovat alkohol narkománie kriminální činnos
-hlavní příčina celkový úpadek mladý generace spatřovat informovanost nedostatek příležitost sportování dostatečný sportovní výchova ranný dětství
-nedostatek příležitost uspokojivý kulturní vyžití vyhovující perspektivní systém školství militarizace společnost chtít přístup život jednání čin přispět náprava stávající příznivý stav
-chtít napomoci odstranění problém život
-základ výše uvedený rozhodnout vytvořit společenství mladý lidé mít zájem budovat společnost očištěný problém
-žádat pravdivý objektivní výklad novodobý dějiny
-chtít znát příčina omyl minulost žádat důkladný informovanost
-osvětlení teologický názor vysvětlení perzekuce cír kev okamžitý řešení problém dostatečný finanční zabezpečení mladý rodina
-pohlížet výchova dítě úzký kontakt matka zájem nadřazený zájem odchod matka zaměstnání
-podpora organizování sportovní akce široký veřejnost
-budování sportoviště důkladný využívání ladem ležící objekt účel
-odstranit prioritní zájem tělovýchovný jednota využívání sportoviště sportovec perspektivní vrcholový působení
-odstoupení osoba dostačující rozhled mladý kultura funkce kompetentní výběr organizování kulturní akce mladý
-funkce dosadit osoba mladý náležitý rozhled spolucítění mladý publikum
-zavedení nový systém školství objektivní výklad dějiny odpovídat požadavek moderní doba
-přistoupení konkrétní čin značný míra posílit celosvětový mír žádat zrušení armáda
-společenství usilovat naplňování bod uvedený prohlášení
-vydávat vlastní buletina informovat činnost
-pořádat přednáška beseda sportovní kulturní akce
-jednat státní orgán jednání zastávat postoj vyjádřený prohlášení
-MM
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bf5754af18cfbc0a0518c4edd33d3db9a53eb841407c95aa597110a821f634
+size 2209

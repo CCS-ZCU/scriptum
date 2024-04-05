@@ -1,1 +1,3 @@
-nynější doba nebezpečí plynoucí detent úpadek cit zodpovědnost morálka věc náprava muset ijsilovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:014ca6d7031b40147ebdfe76e9d2fec22e2b5b17907c69d23eca81860241494e
+size 113

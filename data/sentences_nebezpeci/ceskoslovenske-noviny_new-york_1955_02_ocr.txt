@@ -1,1 +1,3 @@
-informovat svobodný svět poměry železný opona burcovat nebezpečí komunismus získávat společný věc sympatie podpora cizina připravovat spravedlivý plnější zítřek svobodný domov úkol dostatek lidé dobrý vůle
+version https://git-lfs.github.com/spec/v1
+oid sha256:13204c36b9cd0bdbed8ee8d8b29f88619db7912341dd687c76f00469b79d2ed4
+size 230

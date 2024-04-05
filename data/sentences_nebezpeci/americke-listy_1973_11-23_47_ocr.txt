@@ -1,1 +1,3 @@
-podepsaný článek nebezpečí autor prohlásit munista lze očekávat simplifikující závěr
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da0d6f0471b5933b58f883924a5696acbbf70592d350c5bdfcd9b203c3671bc
+size 97

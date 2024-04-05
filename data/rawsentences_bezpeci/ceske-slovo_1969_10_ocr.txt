@@ -1,1 +1,3 @@
- Zenkl a paní Zcnklová jsou v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f064599b54a75704554e912ac9180f22fb531c8fda6f54bc73cfd854203091ed
+size 43

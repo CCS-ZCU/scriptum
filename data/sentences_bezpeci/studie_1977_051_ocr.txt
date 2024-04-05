@@ -1,1 +1,3 @@
-vstupovat nový fáze světový záležitost tradiční nebezpečí válka začínat hrozit bezpečí světový chaos
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2541896fa8b1c3806ee4be520e9d0880df74dc7af9415ee59e4d2836dbb4b7b
+size 118

@@ -1,1 +1,3 @@
- Dnes je Ivan Blatný nemocný člověk, který považuje ústav za jediné místo, kde se cítí v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7fa01198a0f8c27f0f4cc9c1f7b67d039e2a90083894e55f9c9c400e60e6d8f
+size 111

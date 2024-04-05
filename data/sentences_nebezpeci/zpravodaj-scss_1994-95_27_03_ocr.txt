@@ -1,2 +1,3 @@
-mínění uvádět veřejnost velký nebezpečí postkomunistický země moci maďarský menšina Slovensko Rumunsko Ukrajina Srbsko
-momentální interpretace mnohý australan celý Evropa zalidněný samý neofašista antisemita xenofobista cizí turista čekat nebezpečí roh
+version https://git-lfs.github.com/spec/v1
+oid sha256:4999a8fcdebf9fe8545ff0f93fd14b92854b65f519c462cf01deac958c5889e7
+size 279

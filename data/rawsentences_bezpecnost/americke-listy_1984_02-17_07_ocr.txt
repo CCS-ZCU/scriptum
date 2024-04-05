@@ -1,9 +1,3 @@
- V Praze obdrželi informace o obsahu žaloby proti Berijovi, ale nenapadlo je, či nechtělo napadnout, že podobně by si mohli počínat i Berijou vyslaní poradci do Československé bezpečnosti.
- V prosinci 1953 proběhly dva procesy s osmi pracovníky bezpečnosti, skončily jedním trestem smrti a vysokými tresty vězení.
- V lednu 1954 byl odsouzen další pracovník bezpečnosti Štěpán Plaček a konal se proces, nazývaný Švermo- vá a spol.
- Státní bezpečnost se snaží zabránit otevřeným protestním akcím.
- Státní bezpečnost se marně snažila zabránit této lavině nespokojenosti a rozhořčení, která se neustále šiří a nabývá nových forem.
- Čili veřejná bezpečnost na železnici a Sbor ozbrojené ochrany železnic.
- Už v dubnu 1953 vypracovala bezpečnost trestní o- námení.
- Podnětem k tomu se stala bezpečností zorganizovaná provokace za velmi aktivní role Vojtěcha Erbana.
- Bezpečnost ho 23.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a832560cdf8f5576e788a57178640d791fbe4898bade77e3478d20f883df2e3
+size 959

@@ -1,1 +1,3 @@
- proti dnešnímu vedení ve straně, nemůžeme bohužel ještě publikovat některé výsostné zajímavé údaje, jež náš lékař vyslechl od soudruhů, kteří se dali ukolébat šalebnou bezpečností jeho ordinace a někdy i nemocničních lůžek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27c90c461dba571058fbe305f4d874cbac62c51c4ccadb16b306f3b1a1a0305b
+size 258

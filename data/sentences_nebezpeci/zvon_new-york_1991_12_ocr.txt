@@ -1,1 +1,3 @@
-skutečnost rok nazývat socializace nebezpečí nést mnohý hod utvrzení rozvoj dobrý vlastnost lidský osoba zajiš tění lidský podnik rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:db69248d465c67bce98dcfc69d4d5e270df7ac2a5107437751431cfcfdf09252
+size 146

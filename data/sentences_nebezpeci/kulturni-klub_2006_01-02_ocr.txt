@@ -1,2 +1,3 @@
-výstava strach město zachycovat Praha typický velkoměsto současný svět příznak nebezpečí plynout život pobyt velkoměsto
-stačit uchýlit Švýcarsko přečkat válka nebezpečí hrozit Markův dítě manželství Židovka samý
+version https://git-lfs.github.com/spec/v1
+oid sha256:299ce219366dffea2ddaca70f6c56005b2b3486116df10df5ba67a692561b247
+size 241

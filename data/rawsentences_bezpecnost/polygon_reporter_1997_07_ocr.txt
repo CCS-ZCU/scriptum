@@ -1,3 +1,3 @@
- Tak se vlády humánního Západu dočkaly jednak dosti pochybné společnosti nelegálních, leč z různých důvodů trpěných vetřelců, jednak nerudné reakce svého starousedlého obyvatelstva, jemuž lze těžko vysvětlit, že obecný úpadek osobní bezpečnosti, špína a nepořádek jsou jevy, na něž se nemá dívat, jelikož by to byla diskriminace.
- Ne nějakým bezvýznamným, byla mu svěřena bezpečnost, mládež asport.
- Nás, exilové sociální demokraty, pak nejednou varoval před kontakty s domácími skupinami infiltrovanými Státní bezpečností a zejména před některými jednotlivci, jež označoval za „zlé lidi“; v tomto směru se jeho i naše poznatky obvykle shodovaly a vzájemně doplňovaly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96a97ee731b4208fc49fca5e3b590cae5b31d67ce8cf48ffe648fb4c54e661c
+size 745

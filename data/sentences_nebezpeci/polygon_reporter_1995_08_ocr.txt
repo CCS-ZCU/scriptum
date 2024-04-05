@@ -1,4 +1,3 @@
-nebezpečí smlouva slovenský parlament propadnout přijetí jazykový zákon reálný
-osud americký voják život nebezpečí osud upínat americký tisk politik
-mnohý sudetoněmecký podnikatel uvědomovat nebezpečí konkurence silný průmysl sjednocený Německo důvod odmítat plán nacionalistický německý politik žurnalista spojení Rakousko český země Německo
-Jan Kalvoda český euroskept varovat slovo vyznavač názor uvědomit nebezpečí vyvstat případ zastavení integrace renacio nalizace Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b2df6408dea737a92a60f4515f4f5821b8b0947d6ca0a30297da6c4a773bb13
+size 528

@@ -1,1 +1,3 @@
-soužití kuřák přinášet nekuřák zvýšený nebezpečí vznik rakovina
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1bc27ba81c38630ef9f41c25d072c62464b5643669cac4d631f3c572e62422
+size 78

@@ -1,2 +1,3 @@
-navazovat heslo minulý rok chtít mír brát život
-vidět dobro iluze bezpečný škarohlídství bát nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:985de06c50c08197cb64519c02518de860c37ef8d2e5ae40172218be216afe9c
+size 124

@@ -1,1 +1,3 @@
- Hodí se to spíš kolemstojícím, jako třeba když jsme se v listopadu na zahájení Evropské konference pro bezpečnost a spolupráci ve Vídni s delegací čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:161d67acc93758847e1c6bc0e03e1c65bc614bbc87eb7adc4215294440ae1204
+size 167

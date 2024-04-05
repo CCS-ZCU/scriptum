@@ -1,1 +1,3 @@
- Navzdor í velkým obtížím při zachrafiování ; >odařilo se dostali v bezpečí 25 nákladních vozů, plných zboží.
+version https://git-lfs.github.com/spec/v1
+oid sha256:463d5c4af8a09d858b2cabeb62d729e13770cc7f6d96d2f35824904c85c4e0c1
+size 127

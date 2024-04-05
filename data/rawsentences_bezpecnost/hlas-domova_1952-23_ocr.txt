@@ -1,1 +1,3 @@
-V zaujetí jsem úplně zapomněl na nutné bezpečnost^ ní ohledy,až v posledním okamžiku jsem uslyšel za sebou divoké funění.
+version https://git-lfs.github.com/spec/v1
+oid sha256:103250be1ec33e70427866d722693bed04e3513918a0ac6ac1918972426a699c
+size 136

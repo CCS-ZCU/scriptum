@@ -1,1 +1,3 @@
-hledaný mužum bílý plášť podařit uchýlit bezpečí sovětský trestný výprava přijít afghánský jovnik svoboda život
+version https://git-lfs.github.com/spec/v1
+oid sha256:722fb9b43fdbb48618c32bc435767ac9da916774534870ab13e44c32db6a5603
+size 134

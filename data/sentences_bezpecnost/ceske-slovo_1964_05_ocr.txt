@@ -1,1 +1,3 @@
-západ přát vyjít legitimní sovětský požadavek jít bezpečnost Rusko Evropa muset mít záruka zatažený subtilní bezpečný fáze konflikt
+version https://git-lfs.github.com/spec/v1
+oid sha256:37eeee0233b5bdf9bc242aca5a01bca3b77b86b3c5e43d9a7f8e3ece9f2c3148
+size 150

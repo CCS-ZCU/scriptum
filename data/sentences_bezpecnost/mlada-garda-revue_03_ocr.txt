@@ -1,1 +1,3 @@
-pluh měříc dvojí lokt
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ab63037c8c44c3409dfbe9ad20169f5aab780c261a1d54abb2b028b4d80eb1
+size 26

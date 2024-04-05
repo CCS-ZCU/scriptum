@@ -1,2 +1,3 @@
- Lidská práva a mezinárodní - bezpečnost jsou nerozlučně spojený.
- Lidská práva a volný poPřítomrií se shodli v názoru, že 16 měsíců po podpisu Závěrečného aktu Konference o bezpečnosti a Spolupráci v Evropě nezačaly komunistické státy uskutečňovat ustanovení tzv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1767895a06e91a79d9cd12908d96733a191380599a70bc6bd935bfb04e0986e5
+size 297

@@ -1,1 +1,3 @@
-Němec utrpět ohromný ztráta částečný spořádaný ústup dostat bezpečí bránit rozkaz Hitler provádět Kluge poslední muž
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2f5cb31b35f734ea9007711a7fe333343cc55e9303f2d2e519adace33d24b8
+size 136

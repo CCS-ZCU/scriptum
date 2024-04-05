@@ -1,2 +1,3 @@
-bezpečí
-vědět bezpečí člověk
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2ba4aeb39492b99b3d2a40f0a5986f4fd258a58487c1a1d2f7f4b1a760d387
+size 37

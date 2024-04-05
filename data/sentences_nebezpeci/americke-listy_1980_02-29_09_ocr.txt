@@ -1,2 +1,3 @@
-národní bezpečnost spojený stát vystavený nebezpečí strana sovětský invaze Afghánistán politický zmatek Irán nejistota jihovýchodní Asie blízký východ
-zvýšený nebezpečí vyžadovat zvýšený oběť hmotný finanční snaha odolávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d688b79fbcef0da38e35f4dde1e7de8fe93914a8c9c08323e5dfff42ce2f18e6
+size 257

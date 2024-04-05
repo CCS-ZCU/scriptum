@@ -1,2 +1,3 @@
-drát krep krok bezpečí strana volaný mladý Polák napnout poslední síla
-člen Pinkertonův tajný služba přivést uprchlík vzdálený zastrčený kout Asie Afrika ostrov jižní tichý oceán darebový hledat útočiště klamný domnění úplný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:316291ff04835826e7009fe9234bc48fe320f5a59920de260a9cd39557da1225
+size 268

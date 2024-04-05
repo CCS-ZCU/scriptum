@@ -1,1 +1,3 @@
-Pacifik oblast Sůva Tonga hodlat přesídlit Češka prosit krajan blízký informace tamní poměry zátek letmý návštěva moci poznat život bezpečí cena
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5ef7fd2c7684b0616399b8be176d460b3a4d3ead42d8532c0c59d5d8b9b1bc
+size 162

@@ -1,1 +1,3 @@
-systém jediný politický strana přijatelný umožnit přístup příležitost bezpečí občan stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef54e2dd5ffd827113528ac5633931bcd46902e8d579e5ef40f9666a2560b6b
+size 104

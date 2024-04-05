@@ -1,4 +1,3 @@
-moci pokrok služba člověk přinášet vážný bezpečí
-mít dbát mravní požadavek spolupracovat úmyslný potrat umožňovat bezpečí pohoršení
-život svět obývaný Švejk scvrkávat bezprostřední teplý pohodlí problematický příjemný bezpečí najedený napitý žaludek
-říkat odpověď odpověď
+version https://git-lfs.github.com/spec/v1
+oid sha256:8923805f0c6195811c312590e978e0ba24fa6c23e011877075c714f4905a2b54
+size 165

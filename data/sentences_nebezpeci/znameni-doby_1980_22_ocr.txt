@@ -1,6 +1,3 @@
-endorfina působit mozkový ohnisko bolest centrum rozkoš
-hledat láska nebezpečí najít zlomek pravda pravda celý prsvda boží
-Roman Bleisteln mládež útok
-práce mládež navazovat konflikt společenský situace osobní vůle zralost mladý člověk muset chápat diakonie seberealizace církev
-placený čekat mrazivý chlad dlouhý měsíc odloučení častý tmo ustavičný nebezpečí pochybný návrat
-břemeno vložený unesení
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e1250caf6923895e330ee998b35b4ba7edb80d2c0f8efb6f0e91b846cf8f7a
+size 445

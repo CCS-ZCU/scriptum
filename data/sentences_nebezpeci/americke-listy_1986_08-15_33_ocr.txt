@@ -1,3 +1,3 @@
-událost rok umožnit dostat přední místo politický život země označit těžký doba tehdejší nepopularita podařit odstranit nebezpečí občanský válka
-zájemce pobyt Polsko velký Británie spojený stát Francie západní Německo mít přesvědčený situace Polsko stabilizovat nebezpečí pominout
-Černobyl jediný zdroj nebezpečí polský turismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:235e5d8ed33a0e5d1074be138c05f5aecf274f0acbd785c56f4b67bd6bfb9778
+size 369

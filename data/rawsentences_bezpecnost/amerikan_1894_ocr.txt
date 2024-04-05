@@ -1,6 +1,3 @@
- Blízko Charlestonu zastaven byl „výborem bdělosti”, ale propuštěn v bezpečnosti, když je ujistil, že jest republikán a protivník krále Jiřího.
- jsou opatrní a pak panuje v okolí větší bezpečnost, než kdykoli dříve,” těšila sestru Dolores.
-” „Eh, to by bylo pěkné, abychom vás pustili! Budete míti u nás přece snad  — 113 — -více pohodlí, bezpečnosti a klidu než jinde ! Uložíme vás do synovy ložnice.
- Přede dveřmi přecházely stráže, bdící nad bezpečností noclehářů.
- Postupoval ku předu ani se valně ne- rozhlížeje, přenechávaje péči o svou bezpečnost Texasanům, svým pomocníkům, v jejichž úplné moci se však nalézal sám.
- „Můžete-li ukryjte se ještě lépe, k vůli bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:536503eaca83c87698c75dc64f0b70a817d6858a2c8c622602ee586504de0ad4
+size 772

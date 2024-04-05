@@ -1,2 +1,3 @@
-noční krok hrozba časopis vedoucí soudruhový komunistický strana Československo uvědomovat nebezpečí spojený odklon stalinismus Československo snažit čelit brzdit vývoj prostředek
-nebezpečí praktický provádění nový zákon moci dojít další útlak osoba režim pohodlný
+version https://git-lfs.github.com/spec/v1
+oid sha256:e512ea55967aebae802e661110f3e95cddeebe9b81610bd527a729b63819e8dc
+size 295

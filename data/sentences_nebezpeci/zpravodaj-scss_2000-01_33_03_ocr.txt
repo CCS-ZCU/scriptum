@@ -1,2 +1,3 @@
-obalamutit český střádal zašantročit český námořní plavba žít Bahama nebezpečí vydaný pan Rey dokázat
-krátký projev vyzvat Václav Havel politický vězeň připomínat politik nebezpečí totalita demokracie podávat svědectví diktatura pozvedávat hlas připomínat mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:55993bd6a3ed4b38dcda38c6c9c915e0cb9f19d325d8dd660158303ea2f5c487
+size 294

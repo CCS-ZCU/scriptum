@@ -1,1 +1,3 @@
-uzavřený okruh hroutit uvědomění narážet překážka vnější hrozba vlastní bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6060436e894bd76e0f8b79ec60bc91f7efa015de80367b576a0048fe123adae
+size 96

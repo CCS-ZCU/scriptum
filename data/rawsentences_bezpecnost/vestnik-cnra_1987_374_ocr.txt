@@ -1,2 +1,3 @@
- Předseda Mojmír Povolný podal zprávu o činnosti Rady za období od zasedání zastupitelstva v prosinci 1986, zejména o zásazích RSČ ve věci lidských práv na vídeňské Konferenci o bezpečnosti a spolupráci v Evropě a proti persekuci Jazzové sekce, faráře Jana Duse a katolického aktivisty Petra Pospíchala.
- Kongres se domnívá, že dvojí občanství bývalých občanů komunistických zemí reprezentuje nebezpečí pro kanadskou bezpečnost a žádá, aby tato otázka byla vyřešena změnou zákona o kanadském občanství.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7b4948306f46dbc4e74fc4a7d3dfd73f4644b30dfc5c947cecfca765c9436b
+size 555

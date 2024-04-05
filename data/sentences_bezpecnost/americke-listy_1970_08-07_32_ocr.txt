@@ -1,1 +1,3 @@
-okres země fungovat vojenský kontrarozvědka kontrolní orgán státní bezpečnost Karlův Vary spravovat VKR
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e410683c7062efa1e35cd0c59e30d13d26971852b7ec7b446f82fa6f9566b7e
+size 113

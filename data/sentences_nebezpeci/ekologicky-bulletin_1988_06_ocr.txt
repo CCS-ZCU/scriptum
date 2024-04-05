@@ -1,1 +1,3 @@
-svit ohrození hrozit nebezpečí llvgunx rosí•
+version https://git-lfs.github.com/spec/v1
+oid sha256:409934abb81a2d80b3cd95aa8a69efd7320bcd9dbab91124d43a5d065118e34c
+size 51

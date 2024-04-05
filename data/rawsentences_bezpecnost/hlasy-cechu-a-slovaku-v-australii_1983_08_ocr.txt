@@ -1,3 +1,3 @@
-: Ministr odpovědný za statni bezpečnost/.
- 58/1977 je výrazem lidského zájmu společnosti o své občany, kteří pobývají v zahraničí bez kontaktu s jejich vlastí a bez bližšího styku s jejich příbuznými, stejně jako o plnění principů zakotvených v Závěrečné části Konference o bezpečnosti a spolupráci v Evropě, konané v Helsinkách v r.
- Opět posílám kopii tohoto dopisu Vašim kolegům, panu ministerskému předsedovi, ministru pro multikulturalismus, státnímu tajemníkovi, ministru imigrace, ministru spravedlnosti a ministru odpovědnému za státní bezpečnost /So- licitor Generál/.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94738aee597844dbb76f79a45b90968388acfd9161d3826506752d2573d9dc6
+size 633

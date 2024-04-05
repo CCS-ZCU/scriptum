@@ -1,10 +1,3 @@
-nedodržovaný právo odmítnout vojenský povinnost moci ohrozit bezpečnost západ
-NKVD polský bezpečnost zorganizovat takzvaný
-dlouholetý zkušenost poučit základní dobro ochotný schvalovat vzájemný rozpor bezpečnost svoboda svoboda rovnost rovnost osobní právo osobní právo vláda většina
-internacionalismus kolektivní bezpečnost zaznamenat jistý úspěch vytvoření západoevropský hospodářský politický společenství pole obrana
-meričan propracovat podělit technologie Rus tim zajist bezpečnost
-formulovat projev březen nazvaný Svoboda regionální bezpečnost světový mír jít vlastné opakovaný názor
-požadovat zatčený ethe velký bezpečnost práce pracovní podmínka
-den návštěva čandigárský území unie ubytovaný oficiální dům host poskytnout veřejnost velký podívaná stanout noc balkón spodní prádlo spílat personál zajistit bezpečnost
-lidé ptát vláda moci zaručit bezpečnost hind Pandžáb obývaný převážný hinda moci chránitjiný náboženský etnický menšina
-strana justice bezpečnost obrana hospodářský úkol straný druhý
+version https://git-lfs.github.com/spec/v1
+oid sha256:17edd54fc38d8a527260c6750e92e3878fedc291963f53b463cf56b77402a638
+size 1138

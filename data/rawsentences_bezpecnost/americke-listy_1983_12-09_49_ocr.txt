@@ -1,2 +1,3 @@
- Pokud jde o nelásku Francie, díky za prezidenta, kterému na tom záleží méně než dejme tomu na bezpečnosti Spojených států.
- Důraz by se podle Kádáro- vých slov měl nyní klást na Stockholm, kde se od ledna bude diskutovat o evropské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e048596e5fe5e9d9c33eb7509b1f0f6bbdb70b5353e08f7681294de76fb1da50
+size 268

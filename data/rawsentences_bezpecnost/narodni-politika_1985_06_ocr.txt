@@ -1,11 +1,3 @@
- V těchto obdobích byl zároveň značný počet dělníků se stranickou legitimací v kapse odvelen na vedoucí místa, přestali být tedy dělníky, stali se zaměstnanci a to nejen výrobních podniků, ale také armády, bezpečnosti, správního a stranického aparátu.
- Jenže kategorie „ostatní zaměstnanci“ je velmi rafinovanou položkou, dá se do ní zahrnout kdekdo: inženýr, lékař, prodavač, železničář, ale také generál, příslušník bezpečnosti veřejné i tajné, pracovník sekretariátu strany, ROH, Svazarmu a SČSP — učitel, pracovník poradny pro matky a kojence, ale i lektor poradny marxis- mu-leninismu.
- Jak se to jeví nám, v „literárním procesu“, o němž píše v časopise „Česká literatura“ Hana Hrzalová, neměla hlavní roli ani literárni kritika, ba ani komunistická strana, nýbrž nakonec vždycky státní bezpečnost.
- Ladislav Lis uvádí, že taková nezákonná odvedení k údajným výslechům se opakují jednou až dvakrát do roka; popisuje také drastické podmínky ochranného dohledu, jemuž je vystaven, a celodenní uzavření údolí, kde je jeho chalupa, pracovníky Bezpečnosti.
- dubna 1985 vykonaly orgány Státní bezpečnosti se souhlasem generálního prokurátora ČSSR domovní prohlídky v bytech čtyř osob.
- hodině byl v restauraci u Bubeníčků v Myslíkovč ulici v Praze zadržen příslušníky Veřejné bezpečnosti signatář Charty 77 Petr Cibulka.
-30 vyjel vůz Státní bezpečnosti z Prahy, aby odvezl Cli.
- Šla na Veřejnou bezpečnost, udala synův záměr a žádala aby ho zadrželi a sebrali mu doklady.
- „pomoc“ na Veřejnou bezpečnost.
- Než se z toho překvapení vůbec vzpamatuje a je schopen jít zavolat Bezpečnost, zašermuje mu tento vagus před nosem svou zelenou služební průkazkou, vrazí pistoli pod žebra, zkroutí ruku dozadu jako zkušený gestapák a pak vysílačkou volá opodál číhající pomocníky.
- Veřejná bezpečnost ani Ozbrojená ochrana železnic si na ně netroufá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc9c8d747a61594e3fb16b73d41b4b458c0deeea8712302eeebeca4a047fd33c
+size 2039

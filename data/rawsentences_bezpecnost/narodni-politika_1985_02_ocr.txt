@@ -1,4 +1,3 @@
- Státní bezpečnost tímto postupem zasáhla bez zákonných podkladů do osobní a domovní svobody osob, přítomných v bytě.
- CHARTA 77 K NÁVŠTĚVĚ MINISTRA NSR Nedávná návštěva ministra zahraničních věcí Spolkové republiky Německa Hanse Dietricha Gentschra v Československu byla provázena mimořádnými opatřeními vůči některým signatářům Charty 77, Státní bezpečnost hlídala obydli i pracoviště mluvčích Charty 77 Jiřího Rumia a Jany Sternové, jakož i prof.
- Takové počínání Státní bezpečnosti je nezákonné a představuje nezdůvodnitelné mrhání našimi společnými prostředky.
-/ Státní moc, jak známo, odmítla Chartu 77 uznat za legitimní, smysluplnou a konstruktivní složku společenského života, odmítla s ní jednat a na její iniciativy' přímo a věcně reagovat a veškerou svou komunikaci s ní vložila do rukou Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c2d49b80e38f3e5d6766815e0093595430a5a8797b5457823532176175ab4a9
+size 917

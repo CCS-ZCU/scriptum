@@ -1,1 +1,3 @@
-vietnamský válka vyvolat pochybnost účelnost morální zdůvodnění politika záštita svobodný svět nebezpečí totalita
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c0c3b8d4379ed65018ad07349685683b4a135d256d65a1db42cc6f60072c4f1
+size 129

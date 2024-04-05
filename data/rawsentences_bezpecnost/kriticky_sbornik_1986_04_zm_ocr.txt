@@ -1,1 +1,3 @@
- Ideje, s ni&i2 bojovníci za pokrok vytahují proti svým protivníkům, obra- cejí se proti ni® samý® v ©kealieíeh jejich bozbrannostis záštiplný brzdmř Žáček, v osvobozené® městečku bezpečnost- ní referent, se nakonec dočká, la mu kapelník ne jeho vlsst- aim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f90256768b159f5a577bd19736a7d6c1e71d622a9023106b2e040a50ecf44f9
+size 285

@@ -1,4 +1,3 @@
-Chirac varovat západ přijetí denuklearizace Evropa představovat Gorbačov názor francouzský vláda vystavit západní Evropa nebezpečí sovětský převaha zbraň konvenční
-brežnčvovský vedení melo velký strach československý vývoj vytvářet mýtus nebezpečí kontrarevoluce prostřednictví tehdejší velvyslanec Praha Cervonenka československý agent SSSR podnecovat konzervativní odboj zastánce reforma
-Vclichov doznávat Sovět chovat nukleární nebezpečí
-osobní zmena aparát důležitý institucionální změna systém nebezpečí nový lidé pracovat starý metoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d350ac937d0bf2a46e91142a15f3111dc46aa33e43aebf17b50e8032d0bd891
+size 600

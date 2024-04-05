@@ -1,6 +1,3 @@
-nebezpečí doba uvězněný záminka zlepšení zdravotní stav
-politický část úvodní referát sjezd Berlinguer obrátit konfrontace blok vedený spojený stát sovětský svaz zdroj napětí zbrojený nebezpečí válka
-rok mátnout další četný důvod připomenout nebezpečí krizový jev rok další léta opakovat zhorit
-vyjít trestn>r čin uklizený oblast vojenský soudnictví nebezpečí moci nahlédnout kritický rozum veřejnost
-nebezpečí Römer vrátit léta normální život troska nrradnený vyčerpaný
-dobrý důvod vyhýbat nebezpečí číhat hradba mlčený umělecký vrcholek minulý období
+version https://git-lfs.github.com/spec/v1
+oid sha256:36ad08117d382fb8b3f9ff08d787841f7bbe4385688cc674c5fd6603284d5810
+size 616

@@ -1,2 +1,3 @@
- Neshořelo to na  zpravodaj 2 / 2005 3 spravodaj státní bezpečnosti ani na armádě.
- Alespoň v poslaneckém výboru pro obranu a bezpečnost (VOB).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a213383bbfcbce9a300791e945a49895c94927c4a5ab5ac987709911d23c12d
+size 154

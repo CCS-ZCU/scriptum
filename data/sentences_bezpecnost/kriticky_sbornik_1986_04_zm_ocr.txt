@@ -1,1 +1,3 @@
-idea bojovník pokrok vytahovat protivník obr cetit ni® samý®a ©kealieíeh bozbrannostis záštiplný brzdmř Žáček osvobozený městečko bezpečnost referent dočkat kapelník vlsstý aim
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cec54a59816ac98596dad486bd366fde58be80daa8ad37190d1388f9579a4da
+size 198

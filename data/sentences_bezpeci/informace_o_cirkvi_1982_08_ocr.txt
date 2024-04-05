@@ -1,1 +1,3 @@
-kněz modlit povinnost podávat obět 3vůj lid celý lid boží vyznávajíce ěělat prožívajíce zabývat apoštolský činnost jejle bezpečí obtíž překážka povznat Sejí dokonalý svatost plnost vnitřní život oživovat něcovat činnost oslava celý boží církev
+version https://git-lfs.github.com/spec/v1
+oid sha256:db75311bf62f008da562e741555903cb77bbd3988a1fae9364e865ecaf3b733f
+size 284

@@ -1,1 +1,3 @@
- Od okamžiku, kdy jsme se po slovanskú pcjbožkali, byl René v bezpečí, ale na mně wäštäly hostitelské ,povinnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40e84a48d2eb86bac513b76451f299d8bbe9d727ef6c9ccee05cc24060fd1edd
+size 126

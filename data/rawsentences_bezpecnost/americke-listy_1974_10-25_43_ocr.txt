@@ -1,1 +1,3 @@
- lefonoyal do Vídně: “Místodržitelství míní bezpečnost osob a majetku za všech okolností hájit, nebude však odporovat projevům politickým.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66d943ffe45a366f3d1e7ed4d8012b62441bdeb5dc8a9efe329325599d067389
+size 155

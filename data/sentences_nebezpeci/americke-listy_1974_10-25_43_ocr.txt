@@ -1,1 +1,3 @@
-odpolední nebezpečí ozřejmit národní výbor nutnost dohodnout pražský posádka
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d5af13910c0a6497d9d96164c55b67674424012f61202c071be3bc1f007e1f
+size 87

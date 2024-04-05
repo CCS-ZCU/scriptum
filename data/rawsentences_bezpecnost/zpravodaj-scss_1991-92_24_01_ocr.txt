@@ -1,1 +1,3 @@
- V duchu Pařížské charty chceme usilovat o novou kvalitu helsinského procesu, k čemuž by nás mohla dobře inspirovat i okolnost, že byl do Prahy umístěn stálý sekretariát Konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daac0ee59581e0ebfdddfa7d30ea8018f250b4255d88070b8fd8c60595f2be43
+size 236

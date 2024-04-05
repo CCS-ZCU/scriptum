@@ -1,3 +1,3 @@
- Tady je zakázáno koupat z důvodů státní bezpečnosti.
- Helsin- ská dohoda však obsahovala i nový, positivní prvek, kterým je důraz na přímou spojitost mezí bezpečností, vzájemnou spoluprací a respektová- ním lidských práv.
- Zpráva hovořila o západoněmecké výzvědné službě, která podpořila tvrzení vatikánské tajné služby a italské bezpečnosti, že Agca byl jen jedním z několika Členů spiknuti, organizovaného ve východ- ní Evropě, a to.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aa1481b7f24dad7948295e35a963438580eaa6edf81c9989cc046977f4ece4f
+size 489

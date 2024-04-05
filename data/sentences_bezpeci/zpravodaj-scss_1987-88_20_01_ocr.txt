@@ -1,1 +1,3 @@
-zájem bůhví ohrožený bezpečí muset ustoupit zraněný odvážený sanitka nemocnice
+version https://git-lfs.github.com/spec/v1
+oid sha256:f878b3099bfe3b7cbdf24f585b07605d449d993ab09c2412c5bf3b767c3c0d7d
+size 91

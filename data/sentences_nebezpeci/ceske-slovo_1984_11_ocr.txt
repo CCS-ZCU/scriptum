@@ -1,2 +1,3 @@
-hromadný sdělovací prostředek vynechat jediný příležitost vytvářet obyvatelstvo vědomí možný nebezpečí třetí světový válka difa mační politika desinformační zpráva budovat celonárodní podvědomí příprava západní země válečný střetnutí
-ministerstvo upozorňovat kupec valuta vystavovat nebezpečí značný finanční ztráta trestní odpovědnost Československo cizina
+version https://git-lfs.github.com/spec/v1
+oid sha256:7979d0b955d9e040dd594bc149ad74016af6efced629d73feedb13fbe57b11b9
+size 408

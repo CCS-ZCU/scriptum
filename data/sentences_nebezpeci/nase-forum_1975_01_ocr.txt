@@ -1,1 +1,3 @@
-analysa mít způsobit poplach nebezpečí vinný drb stupňovat rufmord český slovo existovat dobrý pověst slovo zabíjet
+version https://git-lfs.github.com/spec/v1
+oid sha256:99f736ba6ca62b1b4aad0fd0a9da149856f15f27480976fce6fe6507f5d6c4ce
+size 127

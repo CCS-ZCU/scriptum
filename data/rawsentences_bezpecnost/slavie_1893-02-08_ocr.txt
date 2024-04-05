@@ -1,6 +1,3 @@
- Zavlá- dá velká obava o bezpečnost lidského života a dobytka na prěriích.
- nemoha jinak ulevili hněvu svému proti nesmířlivým Wel- fům, dal konečně zavésti soudní vyšetřování proti těmto welfským kroužkům a soudy skutečně na pokyn s hůry shledali,že tyto kroužky měly zřejmě politický účel i pevnou prý organisaci a že uspořádalo prý se v nich spiknutí proti bezpečnosti pruského státu.
- Otec jeho pohnán byl tyto dny před zmíněný okres, soud hernalský pro přestupek proti bezpečnosti života, poněvadž opomenul prý lékaře za včas k hochu povolati, čímž nebezpečí pro život dítěte zvýšil.
- Obhájci slíbili, že tak učiní,zaručí-lijim major bezpečnost osoby proti útokům luzy a žandarmů.
- Vojsko doprovodilo obhájce domů v ú- plné bezpečnosti.
- Bezpečnost obhájců obecního domu netrvala dlouho.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a73920714d86d473ec627664f1c214928d71cabd83aa8e686502633ac99f509
+size 885

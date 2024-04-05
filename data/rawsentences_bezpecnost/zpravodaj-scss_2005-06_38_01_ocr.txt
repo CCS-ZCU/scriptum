@@ -1,5 +1,3 @@
- Alespoň špičky ze Státní bezpečnosti nebo komunistické strany by se dodržováním lustračního zákona z politického života vytěsnily.
- Mezitím Henry Kissinger navrhl v lednu roku 1989 Gorbačovovi úmluvu, podle níž by se USA zavázaly „respektovat sovětský cit pro vlastní bezpečnost a neučinit nic, co by urychlovalo Daniel Deyl  zpravodaj 1 / 2005 9 spravodaj změny na Východě“.
-” (1995), Nebezpečná bezpečnost (1999), Československo v poválečné Evropě, 1945-1948 (2004).
- POLICIE Z příslušníků Sboru národní bezpečnosti sestáli policisté.
- Byli to novináři, kdo bleskově zjistili, že pan Přibyl má velmi pochybnou bezpečností prověrku, dostal ji proti vůli bezpečnostních složek, že s archivy je to bledé, řadu věcí nám náš, váš generál Lorenc skartoval, ovšem podřízení pana Přibyla skutečně tloukli lidi, pan Přibyl ani osobně nevyšetril závažné vraždy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc724355f28b9df9aba4c8e28d235206a48a1c72567b83c694f090f6e21a08b1
+size 947

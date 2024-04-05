@@ -1,4 +1,3 @@
-hrozit nebezpečí Německo zahraniční politika starat zajistit pomoc
-forma chovat mnohý nebezpečí hlavní ekonomický zpracování plýtvání doba tisk vydat
-otázka československý zahraniční vláda Londýn projev bagatelisovat komunistický nebezpečí ujišťovat československý zahraniční veřejnost část
-exil zahraniční veřejnost zahraniční vláda krmit nepravda starat získat spojenec zajištění nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:28bfd168da47dc95551523e68c46e54f494ee9500b0b07c20b25ed5c1c867efb
+size 438

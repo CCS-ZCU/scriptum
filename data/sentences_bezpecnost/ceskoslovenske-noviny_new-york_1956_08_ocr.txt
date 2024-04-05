@@ -1,1 +1,3 @@
-Jihlava Brixen mít četnický doprovod hon přihodit mít plný bezpečnost postaraný
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aeaed6898bd5cf78316fd2482b7756465f61956ad20effd92e79c4fb91c1ba1
+size 88

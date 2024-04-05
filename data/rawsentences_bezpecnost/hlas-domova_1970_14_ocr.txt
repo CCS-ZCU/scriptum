@@ -1,2 +1,3 @@
- Že s tým třeba skoncovat’ a uzavierať regionálně systémy bezpečnosti, ako je například ten, ktorý začal prichodom soviet- skej takzvanej bratskej pomoci na ochranu .
- Jednoho dne si všák manžela pozvali na Státní bezpečnost a řekli mu, že jeho bratr odešel ilegálně do zahraničí a že je tudíž osoba státně nespolehlivá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:249083605cf62058e3820c44e7633969b81c3c6371dcd32a077af34623ed9271
+size 354

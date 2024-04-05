@@ -1,5 +1,3 @@
- Je samozřejmé, že poctivým občanům ani mně nejde o to, aby materiály, které jsou v Šetření, byly odkrývány a zveřejňovány tím způsobem, jak se to dělo v letech 1968-69, kdy to vedlö k diskreditaci orgánů bezpečnosti.
- Je však nutno si uvědomit, že trestní řád ukládá jak prokuratuře, lak orgánům bezpečnosti stíhat bez výjimky všechny trestné Činy a jejich pachatele.
- ( S ním byla i další Československá osobnost, které si hluboce vážím — tehdejší vedoucí delegace Jiří Hájek, iehož projevy v Radě bezpečnosti silně zapůsobily svou duchovní úrovní a rozhodností ).
- Sovětský blok se má stát "všestranně integrovaným celkem" dříve než dojde k novým jednáním o evropské bezpečnosti.
- Evropské bezpečnost- ní konferenci nemá zbýt jiná al- ternativa, než stvrdit nejen teri- toriální, ale i politický statut quo, malé a střední státy degradovat definitvně na provincie dvou blo- kových center a nespokojence s tímto stavem postavit jako rušitele "mocenské rovnováhy a míru" mimo zákon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35aa66d8b815cd86b502ad56e899313494145ca3f113ebe2cb5d3b39c12f4f44
+size 1088

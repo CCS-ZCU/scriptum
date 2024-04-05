@@ -1,1 +1,3 @@
-i^ss společnost metr kůň mítě poolddat právo svoboda druh srn společnost kůň kůň kůň metr xko národní bezpečnost GSSR
+version https://git-lfs.github.com/spec/v1
+oid sha256:0317f5ac9199c20bfcb1f39a9a0aeac3cfb1507f0ff0043bad9bf642891f7572
+size 134

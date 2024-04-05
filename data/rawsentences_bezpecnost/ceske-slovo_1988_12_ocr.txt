@@ -1,1 +1,3 @@
- Jako představitel státu, který měl k disposici jen několik tisíc vojáků, Beneš neměl nic jiného než jen prostředky diplomacie, jimiž by mohl pomoci obnovit samostatnost a upevnit bezpečnost Československa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4276a3ebdd4e7fa4fb0ec1357eb5ebcd3ff723053609902831ba07b0be4902e
+size 223

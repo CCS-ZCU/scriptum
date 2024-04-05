@@ -1,1 +1,3 @@
-žít bezpečí muset ávat kancelář byt čekat Stalinův Gestapo
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28d57d61e5fcba6980f5367c01355bb8c21bcd7a5792ba8b85e5c28758ee73b
+size 68

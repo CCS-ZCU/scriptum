@@ -1,1 +1,3 @@
-uschovávat dobrý místo radovat mít bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc669de7eaeda959d1474601767195fd2f562a47faba3cfe30558810767ae5a
+size 49

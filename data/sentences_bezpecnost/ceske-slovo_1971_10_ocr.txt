@@ -1,2 +1,3 @@
-svaz uvědomit moci zaručit bezpečnost sovětský hokejista vzdát úkol
-státní bezpečnost udělat střetnutí proběhnout klid
+version https://git-lfs.github.com/spec/v1
+oid sha256:43bbfdda16b3e4571d40a964035ffe85cfe0a6eb916ed9e5967e1b66146b3279
+size 133

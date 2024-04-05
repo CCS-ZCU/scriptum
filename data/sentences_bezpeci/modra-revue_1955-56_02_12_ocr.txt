@@ -1,1 +1,3 @@
-strach nastávající rozvrat strach osobní bezpečí učinit Chuščev tajný dohoda západ komunismus zlikvidovat souhlas západní velmoc dohoda plnit
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f22892fc469dbafd0242ffe24ce0b066b7eddaab0f7c38e86875193616dece2
+size 155

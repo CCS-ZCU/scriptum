@@ -1,1 +1,3 @@
-sovětský funkcionář ukázat italský host jiný fotokopie francouzský článek přelom století takzvaný žlutý nebezpečí uvést domnělý předpověď Čína chtít ucházet hegemonie svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a40b9c1f8df7c3f2fd712566b27dd3b66ff8707939867ebe6ea3e774352144
+size 200

@@ -1,1 +1,3 @@
-cvičitel muset upozornit cvičenec správný oblečení muset zabezpečit bezpečnost cvičenec dobrý znalost terén správný výběr činnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:989cde30f9771a56abc4c18cafc2737303d6b76e6245aa6b8439bccf7d8a38d3
+size 146

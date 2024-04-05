@@ -1,6 +1,3 @@
- Vzpomínáte nedávné doby, kdy po prvé v dějinách byl ustanoven prezidentský poradce pro národnostní menšiny? Vzpomínáte, že loňského roku po prvé byla na State Departmentu uspořádána porada, kde jsme měli možnost vyslovit svoje návrhy a vyměnit si názory na americkou politiku vůči Československu? Letošního roku pak je řeč o tom, že by představitelé národnostních menšin měli být zařazeni do americké delegace na madridské konferenci o evropské bezpečnosti.
- státní bezpečnost v Praze zadržela nejznámější členy Výboru pro obranu nespravedlivě stíhaných, chartisty Václava Havla, Jiřího Dienstbiera, Otku Bednářovou a další, s nimiž na podzim byl uspořádán ostudný proces, při němž byli odsouzeni k několika letům žaláře.
- Odvedli ji na velitelství státní bezpečnosti, kde ji dvě hodiny vyslýchali.
- Posláním konference je zrevidovat, jak se dodržují helsinské dohody o bezpečnosti a spolupráci v Evropě.
- Senátor Pell v době komunistického puče v Československu působil jako americký generální konsul v Bratislavě, takže zkušenosti „o bezpečnosti a spolupráci v Evropě" získal z první ruky, (rr) oru, chlóru a jiné odpadové chemikálie, vznikající z průmyslové výroby a ze spalování uhlí.
- dubna byl Ivan Cer- nega vyslýchán státní bezpečností v Plzni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b71a8a2424c74d88f4bd15cbe9b38985412778e387d12c1bb942583d65d967a4
+size 1383

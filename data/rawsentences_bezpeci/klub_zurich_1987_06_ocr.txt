@@ -1,1 +1,3 @@
- A hle, tvrdý kámen skutečně uhnul a udělal světci místo, aby mohl proběhnout a uchýlit se do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04d99b53d1f5e84a030a5373d98d37eacd5d881c8d1c42a79f44cbaf6974845a
+size 114

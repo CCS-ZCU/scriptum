@@ -1,2 +1,3 @@
-div chodit živjeh pomník minulost nedůvěra řada kůže vázanj knížka nahánět hrůza strašný porce nuda nebezpečí ohrožení nuset zkonzumovat úkor svůdný krásný věc svlékat bio
-skost z^ároveň nebezpečí narodit
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce1be544f83800bcd92c46aa195e3cf5c037417b6a75ae8ce29f7134fef5b609
+size 235

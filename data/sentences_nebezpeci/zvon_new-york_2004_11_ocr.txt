@@ -1,4 +1,3 @@
-jistý Němec bombardovat město pacient muset plnit povinnost nebezpečí muset uvážit další strategie
-vliv napětí člověk cítit hluk nebezpečí únava podlehnout bouřlivý hnutí mysl
-pacient probouzet zbabělost hrozit nebezpečí dovést skutečný sebepoznání zošklivý
-doba míra dokázat otázka dobro zlo zabývat nebezpečí záležitost vnutit podoba dokázat zaslepit
+version https://git-lfs.github.com/spec/v1
+oid sha256:59171ecffb0e58b77dd1e4d2f7e1b20ed76b8618a24b57d84db9ed49e35bfb0c
+size 392

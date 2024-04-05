@@ -1,1 +1,3 @@
- Mu- síme přece uvážit, že v západním Ně- mecku dorostla generace, která nemá jednak s nacismem nic společného, a za druhé vyrůstala v blahobytu, v bezpečí, v demokracii, nemá tedy o nebezpečí totalitních systému ani potuchy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acec81505303e7b2271b39b3593a947c7735f032ccd9ddc134dfe84a54caf5c0
+size 243

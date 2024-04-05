@@ -1,2 +1,3 @@
-skončit pobyt krajanský společnost odolat nutkání uchýlení bezpečí
-plát Nemecko hledat jistota bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdd3384a7f8f5d29a3132648f582c250ddcef796913d5cc58ac9fe8eee66f110
+size 115

@@ -1,1 +1,3 @@
-sněhový vánice najít bezvládný pokusit odnést záda bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac25dd1c372b8aa9bec27a435b69d47425724cc3c49f2a04a3bb579012e2c472
+size 69

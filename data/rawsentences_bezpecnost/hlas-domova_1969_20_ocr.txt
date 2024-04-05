@@ -1,2 +1,3 @@
- Státní bezpečnost přiznala,-že.
- — Orgány bezpečnosti v Jihlavě vzaly do vazby dva zedníky Vojenských staveb, kteří se vloupali 23.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9b995e5a8553b2e98c3984ffe185b8b090591e53d916ea2c18e8d7379502bd
+size 147

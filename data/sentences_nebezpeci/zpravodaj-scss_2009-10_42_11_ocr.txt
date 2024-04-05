@@ -1,2 +1,3 @@
-zapomínat nebezpečí hrozit Pákistán moci dostat povstalec Talibán Kaida atomový zbraň Irán pracovat atomový raketový zbrojení
-slovo znát hra síla slovo
+version https://git-lfs.github.com/spec/v1
+oid sha256:72df2b3c1d9994086d4b2a975779949240cbac1c1de0253f70df933dac50cadd
+size 166

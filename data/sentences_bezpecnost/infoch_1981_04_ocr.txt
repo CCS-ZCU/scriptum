@@ -1,1 +1,3 @@
-mluvčí charta mluvčí charta
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f56835ed33bb25e5261907be07d6df540416283dd029eeceb0b9778490508e
+size 32

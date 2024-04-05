@@ -1,6 +1,3 @@
- Za slavnçstiiimi ceremoniely, jichž se směly účastnil jen zvláště vybrané a prověřené kádry a i ty potom procházely trojnásobnou kontrolou bezpečnosti, probíhá vnitřní boj o malý zbyteček moci, který pražské a bratislavské vládě ještě zbyl.
- 60650 ztížilo práci na úseku bezpečnosti.
- Z KAPLANOVÝCH POZNÁMEK: Gottwald nařídil ministru bezpečnosti, aby výslechy ve věci Slánský-Geminder byly zastaveny.
- Po návštěvě tehdejšího ministra národní bezpečnosti K.
- Především se zmenšil počet vedoucích politiků, kteří dostali do rukou rozsáhlé plné moci, i ve spojení s činností bezpečnosti a s připravovanými procesy.
- Ve státní bezpečnosti byla zřízena zvláštní skupina Éiboje proti sionismu .
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ddb009f0b0e04fcbf8f1b06c950f147b4459dfbf3fa47fc41d9b90a38f7c516
+size 771

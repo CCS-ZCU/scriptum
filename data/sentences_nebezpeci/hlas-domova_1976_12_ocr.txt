@@ -1,2 +1,3 @@
-mít vidět nebezpečí ásssius podstupovat mnichovský zmije bsítat
-změna strana hrozit nebezpečí střetnutí dohrát
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c8c06db0a1a726fd221b83886f4cd63e6d3088b834fd07ce81a8eb070cdfea3
+size 124

@@ -1,1 +1,3 @@
- * Jiný dokument poslala Charta zasedání konference o evropské bezpečnosti a spolupráci v Bernu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5c1c00da6132bac02a18f02f3b9351b09813fbcda5eeb1154d6e3e5df204d5
+size 103

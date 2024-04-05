@@ -1,3 +1,3 @@
-skrývat nebezpečí vyžadovat preventivní opatření
-vidět velký nebezpečí
-demokratický svět mít vša>t možnost první nebezpečí odhalit druhý čelit všestranoa podpora svobodumilovný myšlenka Československo mít dojem možnotí využívat
+version https://git-lfs.github.com/spec/v1
+oid sha256:57bfdb77dde45d63664482ba02893b13327b9904cf8a46571ecccea1db3b684a
+size 258

@@ -1,1 +1,3 @@
- Řidičův soused řekl drsným hlasem : “Otoč to zrcádko, ať nevidím rozšklebenou tlamu kulaka!” pominul a s ním také pocit vzdálenosti a bezpečnosti, který byl základem dosavadní americké politiky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9dea166a1fbce8e2b823b19caa64beabc74379e50d784e0b5a5445013210f6f
+size 218

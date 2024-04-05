@@ -1,3 +1,3 @@
-německý posice yard nebezpečí značný
-větřit nebezpečí mít velký možnost přeběhnout západ
-politický náčelník věznice Mirov major Hagara zkopat bezvědomí týden hrozit akutní nebezpečí probrat otřes mozek svolit převoz Pankrác
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c59146bb4357858a95b0d951d148c43d3b790a79de1ac84d79339a524d501eb
+size 254

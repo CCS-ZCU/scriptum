@@ -1,3 +1,3 @@
-Richterová vidět hlavní nebezpečí ohrožující existence HOS
-zrát nebezpečí ozo znlecnout ecnan zákon
-snižovat nebezpečí společnost moci prohlásit skutečnost mít stát měnit negativní vztah lidé stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:94eb93feac38bd826dad9f4109f0e99097600c78c2fe8d56f248e188650b9625
+size 221

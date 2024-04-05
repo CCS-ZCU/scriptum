@@ -1,1 +1,3 @@
-Zeidlera napadající pravost Rukopisů,odsoudil pražský zemský soud ( na základě Žaloby Hanky nařčeného jako pa- dělatele ) vinným z přeČinu proti bezpečnosti cti dle paragrafu 498 trest.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7339ccd30764503a5db901b68095ecc47a5e7048e08f5039a3553e48a28e8aae
+size 203

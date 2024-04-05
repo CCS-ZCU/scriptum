@@ -1,1 +1,3 @@
- Za každou lží je úklad a násilí; každá lež je útok na bezpečí světa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2720d2a0b3068d7ea708e4cea6c553cd8ffb2e7487a502edb4201159e8b638
+size 83

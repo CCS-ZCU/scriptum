@@ -1,2 +1,3 @@
-sledovat ralelní konjunktura vlastenectví zachvátit rok Srb Chorvat Polák Slovák lužický Srb Slovinka moci shledat masarykismus typický průvodní jev proces rozpad tradiční Evropa rezignovat stabilita bezpečí sociální revoluce stát vysoký motiv potřeba kul turní integrace
-vědět všednodenní zátek saha patřit obvyklý skutečnost život násilný způsob plný soulad platný československý zákon usilovat zachovávaný lidský právo spravedlnost bezpečí stejný míra pokojný život skutečný reálný mírový ovzduší
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2b65d7c39114f6e8fc220654f8552a67a3cd84edd9e3c34e3f1a75fd584d5c4
+size 258

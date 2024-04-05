@@ -1,2 +1,3 @@
- přes formální hovory o významu práva a zákonnosti se fakticky trpělo a podporovalo licoměrné pojetí zákonnosti v samotných státních orgánech, ve sféře trestního a občanskoprávního soudnictví, v prokuratuře i v bezpečnosti, v orgánech státní správy vůbec; připouštěla se libovůle, kterou určitý kádr veřejných činitelů považoval při tom za politicky oprávněnou, která se kryla za pojem ‘diktatury proletariátu’.
- V praxi orgánů státního aparátu (nejmarkantněji v orgánech bezpečnosti, prokuratury a soudů) se vžívalo přesvědčení, že ‘třídní přístup’ je slučitelný s porušováním výslovně zákonem ustanovených práv lidi a s porušováním zákonem stanovených postupů mocenských orgánů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:449cd920e29b09a2a5839982a923326ab46d7dbe0c99de21dddc836be0029c00
+size 775

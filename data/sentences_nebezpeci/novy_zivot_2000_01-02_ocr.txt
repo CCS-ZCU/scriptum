@@ -1,1 +1,3 @@
-sjednocení evropský světadíl moci dít ekonomie politika etický základ vystavovat nebezpečí propadnout tragédie dávný doutnající krize Balkán říci předseda konference katolický rozhlasový stanice sdružený
+version https://git-lfs.github.com/spec/v1
+oid sha256:1be33e1c34225a5326df848401e0d70609cc3cf90e2d6e112b52898281c8fc99
+size 333

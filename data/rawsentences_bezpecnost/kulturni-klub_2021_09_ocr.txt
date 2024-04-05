@@ -1,2 +1,3 @@
- Otevření kostela v roce 1971 bylo dramatické - okolí vesnice bylo uzavřeno Státní bezpečností, takže účastníci mše museli parkovat v polích a přijít pěšky.
- Ten ČR, Rakousko a Slovensko letos vedou i v oblastech dopravy, energetické bezpečnosti a energetické infrastruktury, digitalizace, záležitostí EU, spolupráce v oblasti mezinárodního práva, rozvojové spolupráce a spolupráce se zeměmi západního Balkánu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa8fff05556c64a866eb7152ebc5f822a0f33778baf591e474ab8126bd7fb00b
+size 448

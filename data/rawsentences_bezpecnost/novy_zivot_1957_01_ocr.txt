@@ -1,5 +1,3 @@
- Jako dnešní sociální vymoženosti nejsou všechny komunistické, i když byly zavedeny za diktatury komunismu, tak i budoucí společenské uspořádání nemusí být socialistické, i když socialismus si bude činit na ně nárok ; musí však být sociální a zaručovat sociální bezpečnost, mír a spravedlnost pro všechny vrstvy občanstva.
- Neboť od Betléma se stále ozývá prorocký hlas, věštící bezpečnost a naději : » Erunt prava in directa, et aspera in vias planas — Co je křivé, bude rovné, a co drsné, bude cestou urovnanou« (Lk 3, 5).
- V druhé Msti se zabývá papež třemi předpoklady správného rozvoje lidské společnosti: historickou skutečností, lidskou svobodou a náboženstvím, které odmítají vyznavači technické metody, s níž chtějí vybudovat od základů zcela nový svět, a to mu dává příležitost zmínit se i o bezpečnosti a jejich základech : 7  Bezpečnost! To je nejvroucnější touha lidí našich d n ů ! Očekávají ji od společnosti a od jejích ustanovení.
- Kdo tedy opravdu hledá svobodu a bezpečnost, musí vrátit společnost jejímu pravému a nejvyššímu Pořadateli; musí uznat že jenom to pojetí společnosti, jak vyšlo z mysli Boží, člověka ochrání v jeho nejvýznamnějších úkolech.
- Odvedení pozornosti měl sloužit i telegram CMV KD poslaný OSN, Radě bezpečnosti a generálnímu sekretariátu OSN, uveřejněný 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc9f891a17553196f2ebad7a4c9c712c4bf6d743acb624ef3ed5d4fc67395629
+size 1442

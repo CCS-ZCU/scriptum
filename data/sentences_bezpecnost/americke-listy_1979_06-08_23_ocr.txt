@@ -1,1 +1,3 @@
-výzva nice zásada zůstávat problém stejný ubytovat delegace početný doprovod organisovat plynulý přechod lokalita schůzka konference postarat bezpečnost znepřátelit stovka novinář celý svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:43b6a51760088f04525497c297764128001a0523950948bc5d5c08d36e8be0b1
+size 207

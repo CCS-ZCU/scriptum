@@ -1,1 +1,3 @@
- nevěřím že by jej mohly zveřejnit alespoň si ale utvoří představu o lidech, kteří jsou placeni za to, že ”hlídají a brání” naši bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b10c51bca7f016b263b22df4a499fd367b8e59924179688390672f833d9db76
+size 163

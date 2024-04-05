@@ -1,3 +1,3 @@
- příslušníci státní bezpečnosti.
- Skupinu ob^kází příslušník Veřejné bezpečnosti.
-/•••/ Správa Veřejné bezpečnosti ll:Bdělovains  Dostavte se tehdy a tehdy o páté hodině ráno n3 okresní oddčlení VB na ^ámkU v l)eském úmloví, kde vám bude poskytnuta ochrana příslušní- lru ozbrojené slolky ministerstva vn1±r2, abyste mohli zajistit bezpečné navrácení choTanců dětského domova do výchovného zařízení".
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8809fc9555c0ffd6a3725c54b2b9a5a7aaa12f923310b31bb83249dc084dd19
+size 458

@@ -1,2 +1,3 @@
-informovat podniknout státní bezpečnost den
-muset řada důležitý systém dublovat ztrojnašobovat zajistit elementární bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3aa8ec3e2209144b1f6436c4b91941c7430f6c5f8227988e2836b798025307a
+size 139

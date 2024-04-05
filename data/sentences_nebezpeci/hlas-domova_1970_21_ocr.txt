@@ -1,2 +1,3 @@
-svědčit dobrý postřeh velký nebezpečí hrozit strana poddajný mládež
-Vlach první vidět nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0508e66c7d2381a5d87b1444b756b764caa5727d642929e80955ffb5a9dad1
+size 110

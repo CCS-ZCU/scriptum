@@ -1,1 +1,3 @@
-voják důstojník nebezpečí plnit území Afganistán mezinárodní poslání
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ee16dd54bb08206663dde0eb968fe8d8995298135ba7fa52ce441d61e7b91cc
+size 81

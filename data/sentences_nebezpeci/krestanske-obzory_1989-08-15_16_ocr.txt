@@ -1,1 +1,3 @@
-obejít nést nebezpečí pohoršení dezorientael zmatek prostý věřící
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ea822bb7c95d13ba7c50d948422f80ffb243b2b958a27fdef97ba7fe0c02db6
+size 77

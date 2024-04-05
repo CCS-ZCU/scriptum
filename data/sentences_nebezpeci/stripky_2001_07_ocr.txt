@@ -1,1 +1,3 @@
-opožděný reakce český strana zveřejnění svědčit stav společnost uvědomovat nebezpečí tabák
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e7cc47de27246dd67fa1e8d9f5c9fdf64eb35bd707466f7b56191ef23fc4eae
+size 106

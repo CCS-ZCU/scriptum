@@ -1,1 +1,3 @@
-pravý účel návrh
+version https://git-lfs.github.com/spec/v1
+oid sha256:e85f4586c40683b9d3a881b8211e31eac9b21af662113136b37e9138c57a6d51
+size 21

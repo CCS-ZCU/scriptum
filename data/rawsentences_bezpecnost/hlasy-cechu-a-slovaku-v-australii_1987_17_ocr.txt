@@ -1,1 +1,3 @@
- Mock řekl na tiskové konferenci, že zatímco dosud končila všechna jednání jen sliby o dobrých úmyslech na československé straně, tentokráte byl dohodnut konkrétní plán jednání o usnadnění přechodu hranic, kulturních vztahů a jednání o nukleární bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:471506b71419dab835a662195123888355dc68698f8157f6c2f5a9f629b05e42
+size 288

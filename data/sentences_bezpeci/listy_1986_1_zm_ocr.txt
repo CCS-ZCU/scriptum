@@ -1,1 +1,3 @@
-zvláštní působit doba vnější porážka
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d9b6dc02630f0902d348bdfb96a1edc503e253daafe35f79f1c9d858a6fb47
+size 46

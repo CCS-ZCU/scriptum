@@ -1,8 +1,3 @@
- Zvlášt alarmující je skutečnost, že kromě trestu odnětí svobody byl Petr Cibul- ka odsouzen k vedlejšímu trestu tříletého zákazu pobytu v Praze a zejména pak k tříletému ochrannému dohledu, je- hož podmínky stanovil soud tak, že Petr Cibulka nebude smět bez předchozího povolení, které Veřejná bezpečnost udílí jen zcela mimořádně, vůbec opustit Brno, kde trvale žije.
-" íívod práce končí poznámkou, že Státní bezpečnost má jistě přehled úplnější.
-sjezdu KSČ, zorgani- zovala Státní bezpečnost opět střežení některých akti- vistů Charty 77: tři mluvčí Charty 77 a dále Jiří Dienst- bier a Jiří Hájek byli hlídáni ve svých bytech a dopro- vázeni příslušníky StB při pohybech mimo byt.
-ici Státní bezpečnosti fyzicky mluvčí Charty 77 Anně Šabato- vé a nizozemskému poslanci a funkcionáři Strany práce a Socialistické internacionály Martcnovi van Traa, aby spo- lu mohli promluvit.
- Lidem, kteří se dostali do Volenic, Ve-' řejná bezpečnost oznámila, že se zdbava nekoná.
- Akce jihočeské Bezpečnosti je dalším zásahem proti ne- závislým kulturním projevům.
-helsinského procesu se má letos v listopadu konat ve Vídni následná konference o bezpečnosti a spolu- práci v Evropě.
- Je^en^z nich ma už raz eskortoval zo ŠUPSu na Štátnu bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad91e1fa351d13da1dcb34f127bc9ba07dbddcedcc30816223031cc424bc4e6b
+size 1368

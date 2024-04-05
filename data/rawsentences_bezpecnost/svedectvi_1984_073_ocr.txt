@@ -1,10 +1,3 @@
- Před jejich koncerty v Hradci Králové měla tamní státní bezpečnost vlastně manévry.
- Jeho strany tvoří skupinka specialistů na hudbu na státní bezpečnosti v Bartolomejské ulici, oddělení kultury na Městském výboru strany v Praze s několika tučnícími, nerealizovanými bývalými poloumělci a ideology, Pražské kulturní středisko jako výsadní zprostředkovatel pražských umělců a doktor Trojan na Národním výboru Hlavního města Prahy, rozuměj bývalý expert na prodej zbraní, který s uniformou převlekl i obor.
- Ze strany Bezpečnosti to sice bylo sledováno s nevolí (zejména pokud šlo o studenty theologie, kde došlo k pohrůžkám stíhání pro tzv.
- Nový seminář Po jistých potížích s Bezpečností na začátku práce, které měly spíše ráz zastrašování, bylo možno až do chvíle vyhlášení "válečného stavu" v Polsku vcelku nerušeně pracovat, tedy asi půl druhého roku.
- V prosinci 1981, dva dny po vyhlášení mimořádného stavu v Polsku, došlo k prvnímu z nové série zásahů Bezpečnosti proti semináři, a dva týdny poté mohl sice francouzský filosof Derrida nerušeně pronést svou přednášku, ale při odletu z Československa byl zadržen a zůstal po tři dni ve vazbě pro údajné pašování halucinačních drog (z CSSR do Francie!).
- Důležité byly i protesty, které vypadaly na to, že při překročení jistých mezí ze strany Bezpečnosti dosáhnou intenzity protestů z "případu Tomin".
- Můj přítel si pozorně prohledl dobývku, rozdělil práci a jako předák, odpovědný za celé dílo a za bezpečnost ostatních, vybral si dobývání rudy.
- V roce 1980 se objevily zprávy, že britská bezpečnost používala tehdy dosud primitivních forem rozeznávání hlasu computcrcm, a byla schopna kontrolovat tisíc hovorů najednou bez.
- Její rozpad podmiňovaly až přemrštěné obavy o bezpečnost jejich vedoucích členů, ohroženou Sztcjnikovými výpověďmi lu\ ale také pro české prostředí velmi neujasněné a komplikované postaveni jeho nástupců.
- obrany a veřej, bezpečnosti 12.
+version https://git-lfs.github.com/spec/v1
+oid sha256:541b024737b5c70e28d7dad43a3f00235e4e68a8abb32ed313e4ef62ce0b8e30
+size 2131

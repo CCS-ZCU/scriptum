@@ -1,1 +1,3 @@
-sestra říci jít teba
+version https://git-lfs.github.com/spec/v1
+oid sha256:a26d3c24e1781408160c32c46b7c34e3c0f00955f0c7ea74cd1328b0a882e8dc
+size 24

@@ -1,1 +1,3 @@
-Ikfž zdát velikost komunistický bezpečí svět a#lépe pochopený propagační úsilí
+version https://git-lfs.github.com/spec/v1
+oid sha256:734e8b2c88f23dd4d40315a5c322d4a18826b914a50468ab62b84305b0d382b6
+size 91

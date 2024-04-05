@@ -1,1 +1,3 @@
-právo osobní bezpečnost jistý jiný právo služební byt bezplatný
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dfd7b3f461202546505b90e5a755b91f936d4c6d1aa6fd77a092088f4979c33
+size 72

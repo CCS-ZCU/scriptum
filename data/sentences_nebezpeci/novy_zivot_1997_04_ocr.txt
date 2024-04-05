@@ -1,6 +1,3 @@
-bát nebezpečí strana smrt hořký plný úzkost bolest smrt pít sladkoústý Řehoř sláva mučedník
-vita lita muset prověřený církevní autorita příslušet provést vhodný šetření zkoušet pravost inspirující cíl předejít nadbytečný množení podobný inst tut moci přinést nebezpečí škodlivý tříštění malý skupina
-působit ponurý dojem místní lidé černobylský tragédie stát tro tečný podobný nebezpečí
-věda rychlý schopnost domyslit implikace povinnost politik využít dobrodiní bádání zmenšit malý míra případný nebezpečí
-nebezpečí bůh důvod člověk učinit obraz
-Fran tišek Omasta rodák divák jižní Morava podnik rok nebezpečí zatčení komunista odejít exil
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e6dbfad33b83c18cadd783f50cdae5e84c4e98cee535c5c90c5084ae065fde1
+size 735

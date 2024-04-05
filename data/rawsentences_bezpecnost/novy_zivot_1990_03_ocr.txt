@@ -1,1 +1,3 @@
- ledna) Na pomoc zemím Afriky Ve jménu spravedlnosti římský biskup, nástupce svatého Petra, zapřísahá své bratry a sestry, aby nepohrdali hladovějícími tohoto světadílu, aby ne- upírali jim všeobecné právo na lidskou důstojnost a životní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9623df90e555a23297baee3d2c301d26858cef6fe652ec31f176a863fb96cf3
+size 274

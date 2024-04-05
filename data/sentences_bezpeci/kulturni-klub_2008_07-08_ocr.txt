@@ -1,1 +1,3 @@
-moc pokusit odvézt bezpečí Čechy
+version https://git-lfs.github.com/spec/v1
+oid sha256:73228e3446f2d0fce72e1a679b97d351ff1e1d15d8abcee2cec93dacdadffd79
+size 37

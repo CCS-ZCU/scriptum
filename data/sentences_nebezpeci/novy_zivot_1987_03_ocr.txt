@@ -1,1 +1,3 @@
-psát nebezpečí touha vnutit zákon stát donucovací aparát většina obyvatelstvo rigidní katolický představa život přísný skutečnost pokry tecký morálka
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9117759d828f4bd48f40a6822fc4e5abafa3acf93e07fea6e45e9d69fe7389f
+size 327

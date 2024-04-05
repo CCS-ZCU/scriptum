@@ -1,2 +1,3 @@
-znát výhoda třetí sloupec jistota
-mít pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f99b208b7f30d2f746b1d7004be66dc5e347777e9ef0d33cf6a76fdc4f78ae9
+size 59

@@ -1,4 +1,3 @@
-rozhodnout jiný věc cesta Izrael Izraelec svět přesvědčit Egypt mít zájem mírový urovnání spor uznávat právo Izrael existence bezpečnost hranice válka
-bezpečnost Izrael zaručený smlouva přítomnost mezinárodní vojenský jednotka
-alarmující počet úraz poslední léta rozhodnout různý švýcarský privátní instituce švýcarský horolezecký klub postarat velký bezpečnost hora
-mít peklo smůla bezpečnost číhat roh
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f1b45f00e23430cef122cf0abd26ee22d8b563cd9eccde8801e639b7b3cf28
+size 452

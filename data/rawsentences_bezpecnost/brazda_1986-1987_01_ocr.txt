@@ -1,1 +1,3 @@
- Kým štátnej správe ide o moc,o disponovanie s financiami - aj a dakedy najmä do vlastných vrecák -, kým štátnej bezpečnosti ide o temné zákulisné ciele moci, ktorú neslobodno podceňovať, dá sa všetko akosi pochopiť.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5ae9556a0f19f7dce570e5390b23e25899349db7a638cd880d13332bb9e634
+size 237

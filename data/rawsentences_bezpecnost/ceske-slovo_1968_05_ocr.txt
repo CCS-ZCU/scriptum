@@ -1,12 +1,3 @@
- Pro státní bezpečnost a prokurátora, který byl s konfidentem ve stálém styku, to vsak nebylo dostatečné.
- Nakonec vylákal Ccrmana k útěku za hranice a odvedl jej až do Karlových Varů, kde jej předal Státní bezpečnosti.
- SVĚDECTVÍ SPISOVATELE JANA BENEŠE Literární listy na adresu procesů z padesátých let a metod Státní bezpečnosti napsaly, že podobných zločinů se dopouštěli jen nacisté v době protektorátu.
- Nedávno poznamenal jeden západní žurnalista, že by bylo vhodné pro iniciativu Kubika a Vavříka, kdyby raději vypátrali vyvrhele ze Státní bezpečnosti, kteří v padesátých letech utloukli tisíce lidí při výsleších, máme na mysli anonymní zrůdy Čona a další.
- Spolupracoval při zakládáni organizací strany v místech s převážnou většinou dělnického obyvatelstva — Trhová Kamenice, Polička, Hlinsko — podle státní bezpečnosti to byla ovšem chyba.
- dubna se v lese u Mariánských Lázní oběsil náčelník vyšetřovacího odboru pražské správy veřejné bezpečnosti pplk.
- Tuto poštu si odnáší zaměstnanci Státní tajné bezpečnosti, asi třikrát denně.
- Pošťáci musí dodržovat listovní tajemství a páni od Státní lajné bezpečnosti sc v lom hrabou dále.
- Byly povolány posily příslušníků Veřejné bezpečnosti z okolí a Prahy a asi 300 ozbrojených mužů zlikvidovalo vzpouru, které se zúčastnilo asi 900 vězňů.
- že zaměstnanci Státní bezpečností třikrál denně si odnáší poštu, kterou roz- lepují a po kontrole ji zalepí a přinesou zpátky na pošlu, že chodí zadním vchodem, aby nepřišlí do styku s pošťáky atd.
- - Čili, úplně poslední otázku: To, co dělají zaměstnanci Státní bezpečnosti, pokud to dělají.
- oni nám také telefonovali kromě vás nějací poštovní zaměstnanci a říkají, že poštovní zaměstnanci zvlášť pověření spolupracují se Siální bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a381ddb21945c369d666396573ac23f5356e34967363ded4d916db8494300b2
+size 1964

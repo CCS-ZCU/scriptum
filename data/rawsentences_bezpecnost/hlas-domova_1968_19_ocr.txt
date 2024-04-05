@@ -1,7 +1,3 @@
- Naše rovy SE SO VĚTSKÝM SVAZE M Z A EVROPSKOU BEZPEČNOST Dne 19.
- srpna byl zahájen na Kokoříně letní seminář, věnovaný otázkám evropské bezpečnosti.
- Rozhlas a noviny (tajně vydávané) odsoudily ostře náměstka ministra vnitra Šalgoviče a "některé pracovníky Státní bezpečnosti z Prahy pod vedením plukovníka Molnara’’, kteří zahájili zatýkací akci mezi příslušníky Státní bezpečnosti.
- Proto ani naše armáda, bezpečnost a lidové milicie nedostaly rozkaz k obraně země.
- Žádejte, aby uvolnili provoz a a-bv pořádek zabezpečovaly naše orgány veřejné bezpečnosti.
-16 hodin: “Z dobře informovaných pramenů máme informaci, že někteří pracovníci Státní bezpečnosti z Prahy pod vedením plukovníka Molnara spolu s pracovníky Sovětské státní bezpečnosti GPU zahájili zatykači akci mezi pracovníky naší Státní bezpečnosti.
- Kroky novináře vedly včera k soudruhům ' zě Státní bezpečnosti v Č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ea9a83af47454516340f4e329daa033c2f222636eede3f07323f926e209570
+size 987

@@ -1,4 +1,3 @@
-zoufání
-sebrat zbraň oběť nést kspěchat bezpečí obávat vrah vrátit
-vlastní oko seznat Apač vášeň rozpoutaný dovést dát pravda opatrný hraničár rodina čas bezpečí přivést snažit
-hora Dragoon jihý východní Arizona záloha Apač zavést vyzvat voják otočit bezpečí balvan láv hledat vyrazit otevřený místo útok vražedný strojený voják vystavit dát jevo kuráž rychlý pochopení rekana pověst zmiňovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd81de004b302f003ad9defe1b889fc685fdd09677a9843ca2e581e776306cac
+size 449

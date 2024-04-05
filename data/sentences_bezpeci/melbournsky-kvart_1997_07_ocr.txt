@@ -1,1 +1,3 @@
-muset evakuovaný dětský letní tábor bezpečí přesunutý přestárlý osoba místo
+version https://git-lfs.github.com/spec/v1
+oid sha256:48d5a45a9184696d5cda654fc579f9754465107a9e358c91e5a73c3829b6ef6d
+size 89

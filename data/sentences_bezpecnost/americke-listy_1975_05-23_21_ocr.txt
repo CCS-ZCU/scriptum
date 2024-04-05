@@ -1,4 +1,3 @@
-celý doba exil snažit president Beneš vymyslit bezpečnost československý stát obnova doufat
-mysl rozbřesknout naděje možný bezpečnost československý založit Anglie Francie reformovaný Rusko
-důvod zaručený bezpečnost československý stát doba svět
-okres žádost polovina vyřadit bezpečnost devizový příděl celý okres průměr nízký marka rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:56bda424221d0bc48a82fa842c4b8e13474572f41a0c4e37b50882b65d14fe1a
+size 374

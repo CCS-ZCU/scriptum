@@ -1,3 +1,3 @@
-nebezpečí návrat
-vidět brouzdat možný terén dupání klack starat nebezpečí
-problém umírněný popis vážný nebezpečí hrozit nedostatek kyslík
+version https://git-lfs.github.com/spec/v1
+oid sha256:494fe958b7b73d3916b45d2ae0baf6d6003c1ce1150c721cd98d3baa70811398
+size 159

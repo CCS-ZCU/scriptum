@@ -1,1 +1,3 @@
-Čech Slovák žijící západní svět považovat nutný upozornit veřejnost skutečný slav Československo imperialistický cíl sovětský svaz ohrožující bezpečnost západní Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb0353d0d42761fb7ca2412f9f4ff5c926d7cc526430e0cc732f3814b7875d3f
+size 192

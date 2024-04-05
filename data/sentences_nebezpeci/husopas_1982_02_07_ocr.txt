@@ -1,1 +1,3 @@
-vyprahlý poušť mísa hora bramborový salát orosený sklenice pivo
+version https://git-lfs.github.com/spec/v1
+oid sha256:d09eae24d75b83580e66678c27ce1e06f5d71245db0928709b86f7d1556fdc48
+size 71

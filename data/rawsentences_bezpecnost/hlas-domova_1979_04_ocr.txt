@@ -1,1 +1,3 @@
- Státní bezpečnost se již delší dobu soustřeďuje na lidi, jejichž jména nejsou ve veřejnosti obecně známá, nepíše se o nich v mezinárodním tisku, nejsou zkrátka populárni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0357ea8fc2e1bb2995911e4879ded8b6df21a6ae6a50edc650d7b962d15a6e3b
+size 192

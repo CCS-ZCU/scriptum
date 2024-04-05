@@ -1,1 +1,3 @@
-věc mluvit dát říkat Wechsler určitý závazek plynoucí bývalý postavení jít osobní bezpečí určitý ohled
+version https://git-lfs.github.com/spec/v1
+oid sha256:7341f0abbd9f1ceec288257ec62a130d7a3fa4d105dd72da52763823cbf930e4
+size 120

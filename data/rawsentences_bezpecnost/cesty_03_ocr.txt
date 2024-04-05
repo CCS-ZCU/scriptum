@@ -1,2 +1,3 @@
- Stále intenzivnější hromadění moci nepřináší s sebou úměrné zvětšení jejího operativního použití a rostoucí bezpečnost.
- Za bezpečnost platíme nepohyblivostí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b455b15d56e8edc8fbe50ac05f082c2e19bf1efecd89811fc282b1a5dc45814
+size 185

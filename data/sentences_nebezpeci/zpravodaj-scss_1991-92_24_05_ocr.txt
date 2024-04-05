@@ -1,2 +1,3 @@
-klasický fotografie doufat nebezpečí hrozit
-osvědčený rozšířený posezení dobrý přítel nebezpečí protilék moci stát jed posezení konat pracovní doba nesčetný půllitr
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce394cbaa3d0e74a6c2dbe64d3a42e06e3d828ccc715d5f2e77d4f45c728abca
+size 188

@@ -1,1 +1,3 @@
-tail rozcházet pozůsta lik výprava dezertovat postý ral bezpečí blízký druhý fronta dát čtenář otřtený odlesk německý věrnost smysl povinnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6fc5dc52ddb9fe1d51daf5421eb88dad82f2cf672b9c7ec97b345f4268cbca5
+size 159

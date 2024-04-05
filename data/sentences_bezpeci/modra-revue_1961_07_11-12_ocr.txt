@@ -1,1 +1,3 @@
-vláda Evropan naleznout spravedlnost drsný slušný kus spravedlnost bezpečí chléb
+version https://git-lfs.github.com/spec/v1
+oid sha256:91723274504f034982b233fb3642a3e8386c677b9cee971d022fd5bb8e27dc7a
+size 88

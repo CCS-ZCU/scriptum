@@ -1,5 +1,3 @@
- 332 Červen 1983 Konference o bezpečnosti a spolupráci v Evropě Na základě nedávné ostré výměny názorů mezi delegáty na plenárním zasedání Konference o bezpečnosti a spolupráci v Evropě, v Madridu, by se zdálo, že jed.
- júla 1947 o “Národnej bezpečnosti’’, ktorý podriadil štátnu bezpečnosť (SNB) a národnú bezpečnosť (STB) priamo t.
- Hlavnému úradu národnej bezpečnosti zriadeného shora uvedeným zákonom Ministerstva vnútra v Prahe.
- Od tejto doby nemal som žiadnu právomoc nad týmito orgánmi bezpečnosti vôbec.
- Po prečítaní mojho písomného rozboru o stave bezpečnosti na Slovensku som sa prezidenta priam opýtal “čo budeme robiť.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf816ab70af3eb90a8590e89d017dd4a2ab1c8df46e9b5595a8d0c9e0a5be093
+size 699

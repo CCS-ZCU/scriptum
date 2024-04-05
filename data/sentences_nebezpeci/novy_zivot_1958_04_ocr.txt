@@ -1,1 +1,3 @@
-upozornit nebezpečí vznikat osobní život odtrhnout vlastní povolání vyzývat dílna čestný místo zavěšený kříž práce začínat končit metr odlitba
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ff304e34127b0fad55da45585701d42e79fb297159e797ade6fb23a131b260
+size 165

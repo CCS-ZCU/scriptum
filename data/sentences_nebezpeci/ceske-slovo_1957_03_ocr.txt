@@ -1,2 +1,3 @@
-počínání mít vážný nebezpečí společnost
-zkušenost poslední doba potvrzovat nebezpečí pomítat dělnický třída uchopit moc lhostejnost boj nacionalismus země maloburžoasní vrstva početný přinášet vážný škoda komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d783858f2676bce4ff5b0b7897d469e4db7322ad507d93a46e93a63361580c
+size 248

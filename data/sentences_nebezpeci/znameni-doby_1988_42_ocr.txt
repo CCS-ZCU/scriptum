@@ -1,1 +1,3 @@
-další nebezpečí vyplývat pokračující používání freon oslabovat ochranný ozónový vrstva atmosféra ultrafialový paprsek
+version https://git-lfs.github.com/spec/v1
+oid sha256:931d123c98e861ad4d2a22d831e3bb268ce736df6aaab92f98567031caa158c8
+size 135

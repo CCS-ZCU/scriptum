@@ -1,1 +1,3 @@
- Veřejná bezpečnost po nich pátrá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d265a71eff5d01b44298f90d9ab4c3088f2d4fcb24bcb8e6fe7cd409754a592
+size 40

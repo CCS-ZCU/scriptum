@@ -1,12 +1,3 @@
-svobodný svět existovat nebezpečí ztráta vlastní osobnost
-sovětský svaz chtít získat spojenec ochotný vzepřít nemecký nebezpečí
-hrozba bolševický nebezpečí směšný pověst
-vyžadovat vytvoření záruka jistota uznaný současný stav východisko změna vyloučení obava oživit starý nebezpečí století vést katastrofa
-svéprávný národ moci založit Evropa společenství rovnoprávný partner nesálý svět nebezpečí globální válka příklad skutečný mírový soužití
-zdát vyhnout nebezpečí padnout ruka proklatý Němec
-dobrovolný nebezpečí smrt fronta brát riziko práce přátelský zápolit poprava Grmela
-euforie podnik litr zásadní obrat nóbl litr ítát pndzisj být velký nebezpečí
-hra zpívat rok klub poslední věc zpívat lady měsíc Pastrůak take předseda rodičovský rada český škola Vídeň výpad zápis nova školní rok
-nebezpečí vzniknout
-generál Sviridov vidět bezpečnost rudý armáda nebezpečí žádat svaz katolický mládež skautský hnuť zakázaný
-mistrovský cir diplomatický tah tehdejší papež podařit zabránit nebezpečí odcizení podstatný tradičný Řím spojený oblast byzantský moc
+version https://git-lfs.github.com/spec/v1
+oid sha256:8751c412ca1f0edabd9cf27da99f3e71595645b57eead0df2b675c202ec94c02
+size 1193

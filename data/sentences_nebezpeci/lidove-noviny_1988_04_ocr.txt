@@ -1,4 +1,3 @@
-povinnost zproštěný prá odepřít vysvětlení vysvětlený moci odepřít osoba blízký moci způsobit nebezpečí trest stihaný
-pozitivní předznamenání doba hodnotit samozřejmost situace plu ralita rozpornost názor tribut normálnost dro velký jednostejný bezvýjimečný jednota signalizovat nebezpečí regresa
-nebezpečí malý
-hrozit nebezpečí svě dectví manipulovaný mít petlice expedice poskytnout možnost samizdatový výkřik
+version https://git-lfs.github.com/spec/v1
+oid sha256:2200b57120ef4fa6acf61ff4a9179350d2d78ec50d777ea9e28f515f66c6514f
+size 664

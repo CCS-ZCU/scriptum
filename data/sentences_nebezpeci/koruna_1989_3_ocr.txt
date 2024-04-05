@@ -1,2 +1,3 @@
-kps chlapec dívka milovat nebezpečí
-příjezd Praha dovědět nebezpečí perzekuce hrozit kolega země podepsat prohlášení věta
+version https://git-lfs.github.com/spec/v1
+oid sha256:325fc2cea03e64bd52aa432ac6d312098a3c9ef379b8b983c4878455c7952824
+size 135

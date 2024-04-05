@@ -1,1 +1,3 @@
- Před námi a již v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4570a64429a3f9604e162df4edd21a698e8baf78d63e1bbf58e5d9c8854d7f70
+size 33

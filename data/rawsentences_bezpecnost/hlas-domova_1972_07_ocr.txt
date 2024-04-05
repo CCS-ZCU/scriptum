@@ -1,1 +1,3 @@
- Nejde sa- mosebou — i když to má vzbuzovat takový dojem — o bezpečnost požárnickou, už proto ne, že Laterna magica ve stejné budově smí hrát dál; a také proto ne, že v Divadle za branou provedlo vedení několikrát přestavbu, aby vyhovělo bezpečnostním předpisům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:153b4386af6f95c41223e1493da33ccfacd8414847132ac3d3bd741704ed71fe
+size 291

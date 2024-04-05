@@ -1,2 +1,3 @@
-Ivan Herben uorský list způsob dovolovat reprodukce země vystavit nebezpečí žaloba
-graďualismus znamenat nebezpečí komunismus přijetí možný středek eliminování komuninmus utralisovat odpor komunismus sloužit
+version https://git-lfs.github.com/spec/v1
+oid sha256:8278265a2706dd91baceef422c045790a0c559aaa80fc8319b48a35fe7195b51
+size 228

@@ -1,1 +1,3 @@
- 1987): "K zabezpečení vybraných prioritních záměrů, zejména státních programů rozvoje, státních úkolů ve vědeckotechnickém rozvoji, v mezinárodní dělbě práce, obrané, bezpečnosti a tvorbě federálních hmotných rezerv, jakož i omezeného okruhu deficitních výrobků, budou stanoveny adresné jmenovité úkoly státního plánu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dab69901ec384f09c3e99c52fb537fbbeae01018cd7377d3a74c1c10ca2f3bfc
+size 359

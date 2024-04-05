@@ -1,1 +1,3 @@
-čas mít možnost věc přemýšlet rozhodovat čas vlastní podiv dospět poznání mít techo domov domov místo bezpečí zakotvení těžiště bránit přát padnout nicota ležet čas
+version https://git-lfs.github.com/spec/v1
+oid sha256:40bd7a4722fb98ab293127ffad1c6d75ac3d0bff43672ce1b1f0dfc4c4cb1bfd
+size 188

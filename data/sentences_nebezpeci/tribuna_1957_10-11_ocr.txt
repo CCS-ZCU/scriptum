@@ -1,2 +1,3 @@
-nebezpečí demokracie střetnout
-politický vězeň ubránit teror vplatnoja vězeň zločinec vydržet pracovní tempo čekat další nebezpečí zmrznutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcd7b1505d4cb178b255ddca0e349c6fde499b179663c5d1c5729efe63f4fbcd
+size 158

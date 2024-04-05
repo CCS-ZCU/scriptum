@@ -1,3 +1,3 @@
-pomalý smrt arktický pustina strach odmítnutý znamenat nova nebezpečí
-Žadame jmeno mrtvý bratr sest země železný opona zaprisahat uvědomit nebezpečí
-kazda diktatura vzniknout představovat nebezpečí svoboda národ take světový míra
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ebe6a8f4110983b3b476b62d93d1966e1cb171678d9112143d852b20312f841
+size 251

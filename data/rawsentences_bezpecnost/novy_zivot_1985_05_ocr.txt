@@ -1,2 +1,3 @@
- Na Konferenci o bezpečnosti a spolupráci v Evropě, se zúčastněné státy — mezi nimi Československo — zavázaly dodržovat ve svých vnitřních záležitostech i ve vztazích ke druhým státům zásadu respektování základních lidských práv a svobod, včetně »svobody myšlení, svědomí a náboženství či vyznání« podle 7.
- trpět vstup VB do svého obydlí, má zakázány návštěvy určitých míst a podniků a vzdalovat se z jí přidělených míst bez souhlasu orgánů Veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab65ff36b45eeca03aea552872b3f47c286fa5eded0b4aabcc2ee60e58bf62f
+size 531

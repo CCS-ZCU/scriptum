@@ -1,2 +1,3 @@
-křesťanský postoj spojovat střízlivý vidění nebezpečí situace zaviněný pád člověk ochvějný nadějí vyplývající víra kristus svět spasit
-mladý půvabný vědět velký nebezpečí dábnout začít mladík našeptávat hříšný žádost
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b34207f5553b456bc798c204d499bdac6385403aa3c006feea27c49869d8b25
+size 301

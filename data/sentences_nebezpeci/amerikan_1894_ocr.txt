@@ -1,9 +1,3 @@
-bylout povaha muž utéci hrozit nebezpečí bojovat pravit Doležal věrný poslední vzdech zbabělec opouštět stanovisko hrozit nebezpečí
-Maxmilián příchylnost Čech zěrnost ohrožený setrvání doba velký nebezpečí pohnout cesta Queretar rvát tvrz přistoupit setník Doležal těší^ klamat považovat Čech věrný udatný národ svět
-odcestovat Cruz nebezpečí hrozit
-rána boží ztracený líbat nešťastný
-utéci ukrýt
-Jiti tudy znamenat jit jistý nebezpečí
-pochyba jít Kolín nebezpečí přejít Rýn
-jin vyskočit přelétit zrak liduprázdný náměstí
-parník nový nákres Glasgow ocel stavěný poskytovat výtečnost stavba rozdělení lodní prostor promokavý místnost cestující velký jistota nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a48d56e7cd4ed04e293e9a46cfb539cd07407e2fca84aad370d1bb6c0f300a2b
+size 753

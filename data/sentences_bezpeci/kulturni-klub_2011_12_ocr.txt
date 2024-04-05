@@ -1,1 +1,3 @@
-tibetský duchovní dalajlama omluvit ohled vlastní bezpečí Praha dorazit
+version https://git-lfs.github.com/spec/v1
+oid sha256:561761e91d3965c5afba82ee72a50574178604ec24de4b79715d0a8bdb07256f
+size 77

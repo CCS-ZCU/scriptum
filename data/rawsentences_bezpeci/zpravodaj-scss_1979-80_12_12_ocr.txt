@@ -1,2 +1,3 @@
- Za každou lží jde úklad a násilí: každá lež je útok na bezpečí světa.
- Odvolává se přitom na Deklaraci zásad mezinárodního práva, týkajících se přátelských vztahů a spolupráce mezi státy v souladu s Chartou OSN, zdůrazňuje "nezadatelné právo všech národů a každého člověka na život v míru a bezpečí před válkou a v podmínkách svobody a nezávislosti, je hluboce znepokojeno tím, že mezinárodní mír a bezpečnost států ohrožuje nadále horečné zbrojení" atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2932668edfec4737974d5e6cb98060a54131ae8957eec9e9b4bf4fd808ab1093
+size 518

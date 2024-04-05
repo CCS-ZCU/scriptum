@@ -1,1 +1,3 @@
-závěr Hájkův popis možný nazvat realistický zločinec legní dojít svéhQ spravedlivý trest příbuz nýme úprosný logika legenda vyhlazený Hájka měněný peníze statek moci sedět bezpečí zakll data rod
+version https://git-lfs.github.com/spec/v1
+oid sha256:24256f862f4f8d6bbca2b19121ce3ddd14a5663f4e777c13dde56dbbd600bee8
+size 219

@@ -1,1 +1,3 @@
-Chiracův skupina silný strana podporovat Giscard ďEstaing komunista mluvit nebezpečí újma hrozit národní suverenita náznak náraz změnit presidentův připomínka Chirac ministerský předseda doba celý záležitost projednávat italský komunista projevit evropský parlament souhlas
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9572979d192748cfeb5ebdc3233d871131cba2d20f7a89c1efabaff2e4609f
+size 296

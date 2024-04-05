@@ -1,2 +1,3 @@
-doba vidět poměrný blahobyt malý životní bezpečí
-záda kolosální panorama obrněný transportér věžička kulomeť emblém veřejný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8341e7d2fdac8d5d022c342673e456f16f2ab17c7d43feadc0f71a5de3e998d3
+size 155

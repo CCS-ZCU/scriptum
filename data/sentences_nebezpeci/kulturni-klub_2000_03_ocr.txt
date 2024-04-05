@@ -1,1 +1,3 @@
-nebezpečí velkoplošný havárie zažít Černobyl druhý věc radioaktivní odpad
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd3f5a72c99243ac1b05ff17982d2ab4e726182d7676ed850782198c9d25991b
+size 85

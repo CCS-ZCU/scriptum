@@ -1,1 +1,3 @@
-úvodní třetina Čechoslovák produkovat podprůměrný hra uvědomit další nebezpečí prohra Němec moci odrazit premiéra olynpiáda Calgary Němec první soupeř československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:327a0deef772092d994fd9e62ff97005aae7054883987df14c38d17c4bd588e5
+size 187

@@ -1,2 +1,3 @@
- Nakonec vyzýval všechny k modlitbě za zdar koncilu ; velkou posilou, zdrojem síly, klidu a bezpečnosti je mu vědomí, že je podporován tolika svými bratřími a dětmi rozptýlenými po celém světě.
- Železničáři na svých schůzích projednávali příčiny neštěstí, ohlásilo se pár závazků k lepšímu dodržování kázně, aby se zaručila bezpečnost, pravidelnost a plynulost dopravy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4ec022a507defd7830bb946069c0ca5b87a6e7d23f517584dbed14e302f25b
+size 415

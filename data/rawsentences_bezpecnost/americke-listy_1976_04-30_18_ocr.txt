@@ -1,1 +1,3 @@
-” Sláva trvala do května loňského roku, kdy Pawlowského zatkla polská Bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bf1b298293d9784c4312e1ea56dcb563bda4459d0bfdd9526c3db8818bebe04
+size 91

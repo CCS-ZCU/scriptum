@@ -1,1 +1,3 @@
- Nyní mne tentýž stát, tatáž vláda přesvědčuje, že odevzdám-li svou rezavějící flintu, získám bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64b69109a53f413df59b20015f28923f267d8c966166fca6a56b57d0dda96b7b
+size 122

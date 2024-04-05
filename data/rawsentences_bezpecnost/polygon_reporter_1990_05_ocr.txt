@@ -1,6 +1,3 @@
- Sametová revoluce, přinášející svobodnou diskusi a soutěž protichůdných názorů, odtabuizovala zamlčená politická témata jako kolaboraci s komunisty a REPORTÉR/POLYGON 5/90 Státní bezpečností, udavačství, úplatkářství, ničení životního prostředí a národního zdraví, »vyhnání« Němců atd.
- Důstojníci Státní bezpečnosti.
- Zásada světové bezpečnosti záleží na pravomoci celého světa zabraňovat a napravovat křivdy a násilí především mezi sousedními státy kdekoli na světě.
- Kladný sovětský hlas v Radě bezpečnosti a vlídný souhlas, namísto skrytého pošťuchování doprovázeného mlaskavými polibky na Arafatovy šedoplesnivé neholené tváře, všichni uvítají.
- A nejeden z těch, kdo opustil svou vlast, brzy zjistil, že se o něho více či méně zajímá pověstná Státní bezpečnost.
- Nejhůře se to projevuje v ekonomické oblasti, ale dalo by se hovořit třeba i o bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62761b6d6cf26e468607dfd5f7fa2fa0dbde78a1056cb0ddd409d96284c5d5c2
+size 973

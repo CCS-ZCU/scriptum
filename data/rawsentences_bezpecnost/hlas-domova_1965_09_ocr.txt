@@ -1,2 +1,3 @@
- Američané po- pluk vojáků do boje ve Vietnamu, je v srdci Au- strálie pronásledován, člověk, kterému leží na srdci nejen výchova mla- dých Australanů, ale i bezpečnost země.
- — Podle sdělení úřadů je jen v Praze 830 domů tak zanedbaných, že ohro- žují bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ebebe2f663e23565be61d2611ffbd6cebbaf4708d883176aaca0e1a740d0245
+size 295

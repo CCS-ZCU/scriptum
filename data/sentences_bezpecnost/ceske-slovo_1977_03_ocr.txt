@@ -1,3 +1,3 @@
-dovolit tvrdit rozmnožit tisknout rozšiřovat státní bezpečnost pán Bittmann Šejn moci potvrdit
-zachovat energie
-osobní majetkový bezpečnost dát získat
+version https://git-lfs.github.com/spec/v1
+oid sha256:2875f6899a5d467755d94740273d90a08b0c859bc2748e9719ab68eae30e6c52
+size 164

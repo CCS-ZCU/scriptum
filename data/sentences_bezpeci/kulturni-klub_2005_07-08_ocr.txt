@@ -1,1 +1,3 @@
-glejt formulovaný Hus zaručovat bezpečí cesta cesta místo pobyt pozor Zikmund světský panovník Husův případ spadat sféra církevní právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5b6ed32255dc4a59f148257b2dfb303c7642f2d4bf8407566cd814a45079e49
+size 151

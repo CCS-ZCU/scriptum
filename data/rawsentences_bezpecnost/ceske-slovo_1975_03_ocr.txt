@@ -1,5 +1,3 @@
- Každý odběratel našeho listu dostal tři kusy tohoto otřásajícího dokumentu s prosbou, aby je poslal dále těm, kteří by si měli stále uvědomovat, licoměrné zneužití mezinárodních dohod, i těm, kteří by měli mít též na mysli nebezpečí, hrozící na závěrečné konferenci o Evropské bezpečnosti a spolupráci v Helsinkách, ke které dojde už letos v létě.
- Proto žádáme, aby ženevská konference o spolupráci a bezpečnosti v Evropě nezapomněla na poučení z Jalty.
- února 1975 kruhy a západní veřejnost, aby na připravované Konferenci o evropské bezpečnosti a spolupráci v Helsinkách podepsali ujednání se Sověty teprve tehdy, bude-li náležitě zaručeno plnění smlouvy mezinárodními garanciemi také v zemích střední a východní Evropy.
- Klid, pořádek a bezpečnost jsou tři jediné věci, které nás smějí zajímat.
- A tak kdo dnes ví, kolik poctivých služebníků československé bezpečnosti ztratilo životy nejen ve výkonu těžké služby, ale jako při- České Slovo, 8 Munchcn SG.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00acc7cb363a697a6947bd12e2fed4889a0aa4b228fa234bf58af3695a0e90b8
+size 1072

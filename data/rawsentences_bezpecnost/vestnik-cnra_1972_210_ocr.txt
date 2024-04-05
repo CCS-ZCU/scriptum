@@ -1,3 +1,3 @@
- A tak je to přímo tragické, že lidé, kteří volají po míru s heslem lidskosti, stávají se obětmi rafinovaného plánu, namířeného proti této lidskosti, proti všemu, čemu podle svého mínění chtějí prospět: proti svobodě a lidské důstojnosti, proti pořádku a bezpečnosti, proti demokracii a nezávislosti národů, proti právu a sociálnímu pokroku doma i ve světě a ovšem — proti míru.
- Spojené státy smlouvu nepodepsaly, poskytly novou hospodářskou pomoc Jižnímu Vietnamu, jehož samostatnost a bezpečnost byla pak chráněna nejen dřívější obrannou smlouvou s americkou vládou, nýbrž také Svazem pro obranu jihovýchodní Asie, který se ustavil r.
- Američané českého a slovenského původu jsou přesvědčeni, že žádného zmírnění napětí nemůže být dosaženo, ani žádné nové uspořádání bezpečnosti v Evropě nemůže být účinným, aniž by mu předcházelo trvalé stažení sovětských vojsk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:913158d13f7a54c40cdb21a4b8f089d72d714de7d4495b9b912b19ac807b50de
+size 980

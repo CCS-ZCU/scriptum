@@ -1,9 +1,3 @@
-zaznívat první zvuk rozhlasový stanice dnešní komunistický vládce cítit přiblížit nebezpečí
-Myj malý národ mít svoboda svoboda svářit maličkost soused vidět velký společný nebezpečí
-čas mudrc říkat intelek tuál nebezpečí mylný domněnka znání zlo stačit lidé opustit znání dobro činit
-tenciální nebezpečí nžfio plynoucí jiný země generální mít korej skaý příchuť
-tvrdý země vytvářet zdravý civilisace štědrý Arkádie
-mez nebezpečí
-přesahovat nebezpečí odolnost tvořivý popud vznikat abortivní vilisace společnost umrtvený zárodek
-tvořivost skrý vala doba růst nejeden nebezpečí mstit doba úpadek tvo řivý menšina napodobovat mechaničnost obdivovatel tvorba ustupovat živý imitace tvořivý menšina zidealísovat vlastní časný existence vlastní dočasný instituce metoda
-vědomý nebezpečí tížit stát tvář tvář
+version https://git-lfs.github.com/spec/v1
+oid sha256:864cbc9f16553658ea73bf367aa1d70f01fd01b8da52df888d20e41d9ca42338
+size 1004

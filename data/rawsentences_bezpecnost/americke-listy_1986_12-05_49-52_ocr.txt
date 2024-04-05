@@ -1,1 +1,3 @@
- Posledních několik let byly mše rušeny, zejména ve větších městech, “chuligány”, proti kterým nedokázala, jinak tak bdělá a o- stražitá bezpečnost, zasáhnout.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a741e440bc5d63642275bce77991d1c2745eae8ec43cc49d8822b0729f709c0
+size 182

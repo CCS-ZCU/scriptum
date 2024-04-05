@@ -1,3 +1,3 @@
-velkolepý aktuálnost léta moci vybavovat zasněžený den oživený obrněný stín odstup pamětník shlížet uplynulý tragedie výšina poklidný bezpečí
-žít bezpečí zmlkat hrozivý hlas schvalující myšlení národ
-šťastlivec dostat švédský visa bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:46b753e82d935b1e2ed96b307460c049e83fb2194be30e7a108daf9810254886
+size 277

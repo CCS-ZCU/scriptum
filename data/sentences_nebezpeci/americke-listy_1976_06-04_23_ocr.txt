@@ -1,1 +1,3 @@
-starý syn Herbert nabílý Růž daný malíř zemřít tyfus jdcera Alice zatčený vězněný Vídeň mladý syn Jan důstojt fronta nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58b9a7a352a08598d44a1659ff61ab1091a049691fc66a2c24083f72ebada44
+size 155

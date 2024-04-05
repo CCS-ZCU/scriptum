@@ -1,1 +1,3 @@
-jít bezpečí jmenovaný paní
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba00cf33b940aad155dcb93e0eed0d79ffc0b2d9c5cb1171170e477ec8208d4b
+size 32

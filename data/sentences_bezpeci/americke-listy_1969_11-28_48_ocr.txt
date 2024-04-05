@@ -1,1 +1,3 @@
-dostat bezpečí Londýn účastnit druhý odboj vedený president Beneš
+version https://git-lfs.github.com/spec/v1
+oid sha256:975510edebda48aa135542fe9a1bbe6373a7bcaa15a28237054a072eb4fb1a0b
+size 74

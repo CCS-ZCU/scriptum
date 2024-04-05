@@ -1,4 +1,3 @@
-Karel hrozit nebezpečí vyloučený reálný gymnasium dostávat odvaha nebezpečí zabrý nita oddat houslí tlumočit žal nastávající katastrofa
-mít povaha dítě mít vysoký vzdělání dovést uvážit nebezpečí vystavovat budoucnost hrdý umíněnost
-láska opojení vzpomínat románový hrdina zápasit přízeň urozený krasavice rytířský turnaj unést nebezpečí vysvobodit zmocňovat založený nitro tajný touha ideál odvážný čin moci vydobýt
-rytířský turnaj vesnice pomyšlení únos velký vysvobodit nebezpečí vymyslit moci
+version https://git-lfs.github.com/spec/v1
+oid sha256:a82cebb9d7ba09f79a46fefd94862d04ac7fa2c4f98a06d095d7a2c1036babbc
+size 562

@@ -1,6 +1,3 @@
-) Bezpečnost bezpečně zabezpečená Bezpečnostní orgány v Československu se těší různým výhodám - byty levné nebo zdarma, vyšší platy atd.
- Bizarní, a já tvrdím, že dost absurdní doktrína, jež slibuje bezpečnost s odkazem na schopnost protivníka mě ale naprosto, totálně zničit.
- Charta nemá publicitu a kromě toho ji ovládají komunisté - není to ironie? Pro Státní bezpečnost je to dobrý důvod nepovolit otěže, ale nic víc.
- Státní bezpečnost reaguje svým způsobem: zatkla před veřejnou rozmnožovňou v Brně chartistu Josefa Adámka, důchodce a otce 12 děti, zabavila mu sto výtisků petice, dlouho ho vyslýchala tak, že se zhroutil a musei vydat další kopie petice jakož i materiály, týkající se interrupcí.
-B YLO VE VÍDNI zahájeno další zasedání Konference o spolupráci a bezpečnosti v Evropě.
-: Co jste udělali pro bezpečnost práce? P.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e717a3e741664654be95fe9180fabdcdcf9830b0800b1d18bff0d7cf192f706b
+size 919

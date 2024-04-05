@@ -1,1 +1,3 @@
- Hrad opatření hájil potřebou zajistit bezpečí turistů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b7beb35f39f87ff3447c8403531464e5f73eae377533a5d4d863559593613e4
+size 63

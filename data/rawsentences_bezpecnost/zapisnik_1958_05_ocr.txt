@@ -1,2 +1,3 @@
- Příslušnici Veřejné bezpečnosti jsou telegraficky odvoláváni z dovolené.
- Svědek pohnutých dnů v Československu : “Již v posledních dnech měsíce října, ještě před osutadvacátým, objevily se ve všech větších městech ČSR na ulicích hlídky, pozůstávající z členů různých komunistických branných organi- sací, dělnických milicionářů a členů pomocné stráže veřejné bezpečnosti .
+version https://git-lfs.github.com/spec/v1
+oid sha256:8993b719a560ed66eb30a2b87dec16e82a8da53be6160b2efaa48e842789d071
+size 433

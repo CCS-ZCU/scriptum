@@ -1,1 +1,3 @@
- Z toho plyne především, že je jí velmi zapotřebí, neboť chrání pořádek a nedopouští, aby se něco dělo bez dozoru A za druhé, má na starosti vnitřní bezpečnost, takže nepodléhá armádnímu velení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08f036cea6c5dc0bb27b5d2b56551c32adf55a1fc42e4128014d44f69b3406f4
+size 222

@@ -1,1 +1,3 @@
- Zde však byl jsem v bezpečí až na ten nepříjemný kouř.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d6fbb13d5df8f8f224f04eb0071428e699cb9b026295e9bc0d3f9f888f22036
+size 64

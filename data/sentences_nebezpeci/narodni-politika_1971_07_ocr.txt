@@ -1,1 +1,3 @@
-Barvičová odvezený nemocnice nacházet smrtelný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2fcd4c6ce6f7fda0cca0c2d6611c39b8f2cb3be903ba362025521a500262601
+size 64

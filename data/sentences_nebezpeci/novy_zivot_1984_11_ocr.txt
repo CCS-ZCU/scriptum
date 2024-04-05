@@ -1,2 +1,3 @@
-jediný stinný stránka nový sídlo vysoký roční nájemné lira nebezpečí jmění arcibratrstvo moci zabrat italský stát
-manifestace biskup komitét katolický vyučování vyhýbat nebezpečí politizovat otázka jít boj pravice levice církev stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:91e2bffd533c49ef052482ca30b267ae44c3b0b364f0976ef52296f0df576048
+size 261

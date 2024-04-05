@@ -1,1 +1,3 @@
-" - "Buď klidný," těší ho Husák," to už budeš v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a361d977c3e945573a3f149c60961acc5a38ab926e2087be236f849b6729fa
+size 67

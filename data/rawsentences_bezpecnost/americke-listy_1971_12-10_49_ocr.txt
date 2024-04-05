@@ -1,4 +1,3 @@
- Vinou Sovětského svazu se boj mezi Indií a Pákistánem nepodařilo zastavit, neboť sovětský zástupce v Radě bezpečnosti vetoval americkou i argentinskou rezoluci žádající o- kamžité příměří.
- Došlo tak v Radě bezpečnosti k nedůstojné frašce, kdy se čínský a sovětský delegát dostali do ideologického sporu a na válku v Asii zapomněli.
- V důsledku toho byla Rada bezpečnosti paralyzována a před očima veřejnosti, sledující jednáni Rady na televizi, se ze světové organizace stala opět propagační tribuna komunistů, i když tentokrát jejich hlas zněl velmi rozdílně.
- Na druhé straně se otevírají i možnosti pro Západ, jak zajistit svou bezpečnost a zmírnit napětí v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c59608d881e45fe44af7c6fece53b675ce2e8bc87772ab06bdd3353df29781c
+size 740

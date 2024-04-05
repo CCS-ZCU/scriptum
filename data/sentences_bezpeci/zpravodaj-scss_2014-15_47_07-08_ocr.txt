@@ -1,2 +1,3 @@
-bezpečí provoz
-mít ich pravdaž uložený bezpečí západný kapitalizmus dúfatat neprída rýchnout ako prijít
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f671615984f4405b5d1f223ec47288f953eeb8542a818c84ca7078b1ab372ac
+size 118

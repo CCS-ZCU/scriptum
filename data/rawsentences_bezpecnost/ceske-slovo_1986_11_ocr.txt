@@ -1,3 +1,3 @@
- Července vyšetřovatel Státní bezpečnosti obvinění změnil na pobuřování a nakonec byl Adamík odsouzen za podvracení republiky.
- Bendovi, aby vyřídil knězi Václavu Malému, že příště bude proti němu na ulici použito zbraně, jestliže nevyhoví dostatečně rychle příkazu orgánů Bezpečnosti.
- V prvomájových průvodech, ve vyšetřovací bezpečnosti, v úřadovnách národních výborů, při státních oslavách, všude se stkví Gottwaldova tvář.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b947487da1125ac1ec1aecacae95db326ae5fcdd8cb03ee5523a30c3de912687
+size 486

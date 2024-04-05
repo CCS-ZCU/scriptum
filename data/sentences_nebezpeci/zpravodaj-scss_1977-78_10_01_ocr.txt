@@ -1,2 +1,3 @@
-
-přinést trošku mlýn hezký den hrozit podobný nebezpečí zpravodaj
+version https://git-lfs.github.com/spec/v1
+oid sha256:566f638e5d69f17961bdf87fa3c49090da7a9e7997fe8a084103bee8ba2e22a4
+size 74

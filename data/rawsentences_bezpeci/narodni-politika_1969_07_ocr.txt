@@ -1,2 +1,3 @@
- Šalgovič nezahálel a myslel to dobře i s našimi manželkami a dětmi, které musely do „bezpečí“, co kdyby.
- Pak skutečně, nejen já a moji kolegové, ale i naše rodiny, budou potřebovat bezpečí! 22.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feed65fe35eb7426bbcdee621d8b02a4eb3910490f55c2a61946e7794575121b
+size 218

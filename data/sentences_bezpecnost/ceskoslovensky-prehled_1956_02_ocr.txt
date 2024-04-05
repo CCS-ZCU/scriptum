@@ -1,1 +1,3 @@
-mít povinnost zakročit bezpečnost civilisovaný stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:297668abf1763e5cfd2017c1a81890e57f19edc76278ac230a8174fffddc74a1
+size 57

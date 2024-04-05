@@ -1,1 +1,3 @@
-: nejprve samotka na Státní bezpečnosti v Pardubicích, v celách pod zemí, s malinkým okénkem, které Ti říkalo, že je nejen noc, ale také den - téměř bez dovolení si nesmět sednout /nebylo také na co, jen na chladnou, velmi chladnou kamennou podlahu/, 16 hodin denně sem a tam, a sem a tam - potom přes Ruzyň na Pankrác, rok trestu samotkou, potom po dvou na cele, pak po čtyřech, protože tam už neměli na samotkách místo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35107792c03db19855cbb38722c27c674504c735fe75bd383af35c24e88b8fac
+size 452

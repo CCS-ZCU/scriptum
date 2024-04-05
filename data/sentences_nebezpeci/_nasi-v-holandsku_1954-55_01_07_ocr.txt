@@ -1,1 +1,3 @@
-boj nový nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5791f9d9c2de97219f91f65449e3f6ca1419730ef8b7d68d6d2681dbda994526
+size 22

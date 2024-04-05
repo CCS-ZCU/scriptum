@@ -1,1 +1,3 @@
- Trnem v oku je mu v Evropě stále Seve- roatlantické obranné spo- lečenství, které by rád změnil na sovětskou ko- lektivní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:138e961658fdedf84d82dc3fd5424cd0cc2503a7b06e0844ec506053c66591e2
+size 147

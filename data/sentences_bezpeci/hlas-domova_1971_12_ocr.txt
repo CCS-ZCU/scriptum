@@ -1,1 +1,3 @@
-všakj bratislavský klub pořadatel utkání moci zaručit bezpečí členka družstvo DSC Duisburg Kaiserberg bývalý československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:349b6452a021afbd532b926f6de7ea4329d4b248abf0c700398206de6016c644
+size 138

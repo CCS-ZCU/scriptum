@@ -1,2 +1,3 @@
- České bratrské obce nikdy neměly mocenské postavení, musely více žít z naděje než z důvěry v nějaká zřízení, která by jim přinesla bezpečnost.
- Boži ANTONÍN CYRIL STOJAN 300 Ur stěžovala Kulturní tvorba, žc dnešní mládež nerozumí starým českým slovům: místo řezníka máme dnes vedoucího Masny, místo ponocného nočního hlídače, místo ovčáka ošetřovatele skóru, hasiče nahradil protipožární pracovník; a kdo ještě nazve soudruha esenbé, nebo příslušníka Veřejné bezpečnosti pane strážníku? JINDE V KATOLICKÉM SVĚTĚ USA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89381c6c7a0c2a2b794abc3fdc2f9ffa6644bb32e957e868acd7fd6e38a47da0
+size 592

@@ -1,1 +1,3 @@
-Petersburg fla diskusní večer komunistický nebezpečí pořádaný společnost studium mezinárodní styk město
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4c3b14024f275bd0e80909355d2e4c410dd854734435b67cddd18e5e24d61c
+size 116

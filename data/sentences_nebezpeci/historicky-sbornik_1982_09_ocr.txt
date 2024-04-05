@@ -1,6 +1,3 @@
-sociologie vystačit vychvalování společnost dít lepší jediný možný alternativa chápat ideolog reálný socialismus
-díl soudobý sociologie nebezpečí novelizace
-autor studie odsuzující nebezpečí přeceňování jednota šedesátý léta jiný příležitost zdůrazňovat nový jednota vytvořený normalizace politický poměry sociální vztah zastávat ideologie třídní protiklad vlastní jednotný společnost mající perspektiva dlouhý přetrvání
-rok Mnichov opadnout vlastenectví KSČ zápas obnova stát přenechaný Beneš KSČ odmítat kontinuita předmnichovský republika příští osvobozený stát mít projevit zahraniční politika orientace SSSR odstranění zkompromitovaný kolaborantský síla odsun Němec Beneš úkol orientovat vzniknout popření občanský právo skupina obyvatelstvo bezpečný precendent mít osudný vliv další vývoj událost rok
-označit hitlerovský agresor hlavní nebezpečí pokrokový demokratický svět druhý strana diferencovat rozličný buržoázna politický proud Západě}
-^ejka pakt sovětský svaz uniknout bezprostřední nebezpečí okolnost značný míra předurčit výsledek druhý světový válka strana hodlat závěr vyplývat zmíněný jezuitský koncepce polemizovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b9eb49151992bc3f3b859a76dcf763dece6f318c71fd16b4b666d048b347957
+size 1270

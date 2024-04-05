@@ -1,4 +1,3 @@
-hrozit bezprostřední nebezpečí trestný čin
-výjimečný případ hrozit nebezpečí prodlení moci komise informovaný
-demokracie žít nebezpečí rozsáhlý úderný prostředek nástroj ochrana ústava velký nebezpečí demokracie podkapat vlastní základní hodnota
-přesvědčení strašlivý nebezpečí všeobjímající ateistický revoluce váhat opustit strana osvícenství revoluce ketovat připojit Toryo stojící protifrancouzský pozice
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f92335b6fd5b5c6c542b52102a4e50ffbd7ed6be0e5be84cd60009bd7f56e29
+size 461

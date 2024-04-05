@@ -1,5 +1,3 @@
-bezpečnost poskytnout skutečnost zdroj zranitelnost
-postarat osobní bezpečnost člen aparát zamýšlet doživotní pozice
-uvádět předcházející blok dohoda střední jihovýchodní Evropa ukázat stabilní účinný zajistit bezpečnost stát celý prostor Německo sovětský svaz Itálie základ nový pevný sdružení oblast československo polský program
-přesvědčivý stvrzení dementi vládní mluvčí vyložit modifikovaný zásada československý zahraniční politika malý národ moci hledat bezpečnost úzký vzájemný souručenství muset zajistit smlouva mírumilovný velmoc
-vyjadřovat přesvědčení sovětský svaz uznat pozitivní význam podobný uspořádání zajišťující bezpečnost evropský mír
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bb13dab54be723d775b09479c8d8dbcd0697439088678b15a3782f9a33c7e6a
+size 743

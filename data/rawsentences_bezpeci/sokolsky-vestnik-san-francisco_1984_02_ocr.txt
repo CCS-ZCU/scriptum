@@ -1,1 +1,3 @@
- Do údolí se nastěhovali východní Němci, kteří před ruskou frontou utíkají, snad tady jsou v bezpečí — jsou to většinou staří lidé, ženy a děti a co si sebou přivezli mají na vozech tažených koňmi a voly, končí hospodář.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcab0c9d6e7e40128032f072cb6dd100a7daafd5816d879aa139cda4e87c0525
+size 252

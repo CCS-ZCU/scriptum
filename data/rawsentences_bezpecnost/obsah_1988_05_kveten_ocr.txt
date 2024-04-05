@@ -1,8 +1,3 @@
- Motorizované oddíly bezpečnosti (ZOMO) brutálně rozhánějí prvomájové manifestace pořádané Solidaritou v řadě polských měst.
- Loděnice v Gdaňsku obkličují silné oddíly bezpečnosti, nikomu není dovoleno vejit ani odejít.
- Vedeni nabízí zvýšeni platů o patnáct tisíc, slibuje záruky bezpečnosti pro stávkující, odmítá však jednat o obnoveni Solidarity.
- Nabízí dělníkům okamžité zvýšeni mezd o 15 tisíc a záruky bezpečnosti, rezignují-li na ostatní požadavky.
- Vyšetřovatel přicházel nastrojený, vyholený, navoněný, nosil si horkou kávu, kterou mě, když o to můj advokát požádal, přinést nedovolil, byl to muž asi pětatřicetiletý, měl čerstvý diplom právníka, který získal ne na univerzitě, ale na škole bezpečnosti, na mém případu zahajoval svou kariéru; zakládal si na kultivovanosti a sečtělosti, "kniha je jediná věc, kterou bych ukradl", řekl, když se zálibně přehraboval v plném prádelním koši knih a rukopisů, které mi zabavili při domovní prohlídce a ne něž mě jeko na provinění vyslýchal; dodneška, přestože s naší skupinou nakonec neudělali soud, mi knihy nevrátili.
- Jejich pořady jednaly o volbě povolání, o přípravě na ně,o studiu a zájmových kroužcích, o sportu, motorismu, o bezpečnosti práce a dopravy, o spoření na byt či auto, o poznávání vlasti a o míru.
- logika a rozum jsou v koncích, ale bezpečnost je vyzbrojena plzákovskou metodou a odhalení pachatele je pro ni ne zrovna hračka, ale pouhý rébus.
- Vrchol libovůle! Tenkrát, prvního máje roku 1975, pohyboval jsem se touto prostorou u velikém historickém zkrušení po útoku Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a46fe35f3cd7cd68edd2a173af54026216baa2ed52f51acb781bda41d9879f
+size 1727

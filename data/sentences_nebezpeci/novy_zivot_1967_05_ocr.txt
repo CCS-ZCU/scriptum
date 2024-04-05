@@ -1,6 +1,3 @@
-vidět nebezpečí plynout násilný reakce lid revoluce vznikající zmatek upadnutí totalitní ideologie
-nutný přikročit čin utrpení lidé velký nebezpečí násilný převrat revoluce lákavý
-program zvýšení produkce muset sloužit člověk muset vyloučený nebezpečí zkolektivování
-jednat hřášet vydávat víra nebezpečí posměch zlehčování
-červen poděkování Portugalsko zůstat uchovaný nebezpečí komunismus řádit sousední Španělsko
-posluchač moci dovědět žádost pas zamítnutý přihlásit ženidůý žádost přijatý
+version https://git-lfs.github.com/spec/v1
+oid sha256:489f5cfaa73c4c2faf4c9114dc0cc68ccc15181415334a4237337a7c81ba5e95
+size 567

@@ -1,1 +1,3 @@
-západní Německo spoluodpovědnost existence bezpečnost židovský stát samozřejmý
+version https://git-lfs.github.com/spec/v1
+oid sha256:49b6c4a402e74975268811cf687d7c79a7dd92553804319197aaee8cd95de814
+size 89

@@ -1,2 +1,3 @@
-hromadný sovětský vojenský pomoc přímý intervence kubánský partyzán uvést pohyb složitý mechanismus síla vyústit angažovanost další mocnost jihoafrický republika zvýšit nebezpečí příliv další žoldnéř
-americký vláda svazovat senát Angola spatřovat nebezpečí nový vleklý Vietnam
+version https://git-lfs.github.com/spec/v1
+oid sha256:a38299f56fb65ff09f140b6caf85d8778deaa25cd76b265172180830e6b69f66
+size 315

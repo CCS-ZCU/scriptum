@@ -1,3 +1,3 @@
- Phelpse, jehož mravní povinností bylo postarati se o bezpečnost svého švakra co možno nej rýchlej i.
- Moje odpovědi se mu musily líbiti, neboť po krátkém přemýšlení pravil ku mně vlídně: ‘Věřím vám a postarám se o bezpečnost vás všech.
- štábu báli, aby falšování jejich nepřišlo na jevo, nestačilo jim však odstranění Picquarta, nýbrž umínili si, že novými podvody u větší míře musí si bezpečnost zajistiti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fccf68510a287ea255e66e2e2224ece20f5be15d18bdbc4aa16a2136f3a2ce78
+size 463

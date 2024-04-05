@@ -1,1 +1,3 @@
- Něco neslýchaného bylo, že se na zasedání Rady bezpečnosti řečníci opovážili mluvit jedním dechem o invazi Cíny a » bratrské pomoci « Vietnamu Kambodži, o » pom oci« CSSR z r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d33e5b1444074768af66088f4becd3dc64e8fe37f694863d88a1040ffab21e5c
+size 197

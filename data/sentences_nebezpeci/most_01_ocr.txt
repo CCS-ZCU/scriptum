@@ -1,7 +1,3 @@
-veliký heroismus odvážit sáhnout žhavý nitro výheň možný učinit nebezpečí holý ruka
-další organizační opatření směřovat minimalizovat nebezpečí politický diskuse
-Ježíš učedník přepadnout bouře vichřice velký nebezpečí
-Brown interview vysvětlovat proces zabíjející planeta možný zastavit
-případ zaujmout představivost trvající nebezpečí bezpráví přesahující akční rádius možnost lidský život trvání
-křídlovkář lpící život bránící blízký smrt sen zlákaný lstivý ponoukání kohose hrdina přistrčit milovaný křídlovka evokovat situace hromadný smrtelný nebezpečí přimovat zatroubit signál vydat poslední zbytek dech
-zástup spravedlivý úvaha nebezpečí ideologizace literatura
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a398bef5c96ac285169ad090524be9d1adddf25267f6f80ecca20c2f38210d
+size 766

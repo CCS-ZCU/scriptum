@@ -1,2 +1,3 @@
- Měl v tom směru vysoké požadavky, avšak jeho zprávy referovaly o nej- tajnéjších věcech z německého vrchního velitelství branné moci, říšského hlavního úřadu bezpečnosti v ministerstvu vnitra, ministerslva zahraničí jakož 7.
- Liboval si v bravurních kouscích, i když to odporovalo základním zásadám zpravodajské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d364f2f36ccfb495950316da775240a8bb9b8b1baec08686a81c19f58385334d
+size 361

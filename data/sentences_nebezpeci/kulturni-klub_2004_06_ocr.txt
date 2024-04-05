@@ -1,2 +1,3 @@
-Beneš dokázat odhadnout riziko hrozba nový stát skrývat vyřešený národnostní otázka první republika dokázat předpovědět nebezpečí skrytý agresivní socialismus
-OSN mít hlavní zbraň nebezpečí snížený nezaměstnanost odstranění dlouhodobý sociální vylučování určitý skupina společnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:3524a99d1fb852a9e306f3184b0c23f9376cb86229c79e487030a9af03d8204d
+size 321

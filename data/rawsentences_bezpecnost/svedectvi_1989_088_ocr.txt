@@ -1,6 +1,3 @@
- Musí držet krok se stoupají dm standardem, kontrola kvality jim pořád šlape na paty, ale pokud Jde o bezpečnost práce - kde nie lu nic! Samozřejmě, dělají svou práci s nadšením, ale AIDS je kosí jako kulomet.
-la pohotovostní jednotku Veselé bezpečnosti (VB).
- Toto korzo totiž - dle mínění Společnosti za veselejší současnost - narušuje všeobecné veselí a státní orgány nezasahují! Společnost za veselejší současnost vykročila Bezpečnosti na pomoc ti pokusila sc korzující zastavit a rozehnat.
- Okurkových pendreků, stříkajících slonů a psu sc nezalekli a jednotku Veselé bezpečnosti rozehnali, Stateční příslušníci veselé jednotky, když se jilm nedostalo pomoci přihlížejících státních orgánů, se.
- září) a na jeho místo byl zvolen Stanislaw Kania, který až dotud vedl! oddělení bezpečnosti a armády v sekretariátě ÚV.
- Stát vznikl mimo jiné proto, aby zajistil bezpečnost občanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e402dbde200722d8961c40c20df60dad72ff6841a14bd2c55596a5655b9763aa
+size 970

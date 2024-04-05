@@ -1,6 +1,3 @@
-radost přítel Danielův zkalený zpráva jiný známý sobota větský spisovatel historik Andrej Amalrik odsouzený rok publicistický činnost odpykávající trest jiný sibiřský tábor nucený práce mocnět život nebezpečí
-nátlak Československo přijmout území sovětský vojsko stoupat šedesátý léta zmenšovat mezinárodní pět mizet nebezpečí vojenský konflikt Evropa uvolňovat vnitropolitický sevřený
-Daumie Václav Prchlík nebezpečí
-současný doba projevit další nebezpečí rozšíření EHS další země velký Britanie
-spiknutí lékař Slánský sionistický centrum poslední řada nebezpečí socialismus Polsko představovat sio nistický pátý kolona
-učitelský odbory nebezpečí náh
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c39fe5d34b6656110014981e79c6ba5f7a1188aea91cceb2e8f95ece53cbce2
+size 805

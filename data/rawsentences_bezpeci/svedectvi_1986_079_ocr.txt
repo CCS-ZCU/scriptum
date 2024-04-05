@@ -1,2 +1,3 @@
- Hra se opakuje a jak známo, v opakování je jisté bezpečí a tak to tam prostě s otevíráním dveří stále chodí.
- onen “velký strhující cit“, o němž píše Jungmann Pak přišla nemravná vlna a v Americe (i jinde) se laska zredukovala na “směšné pohyby“ t anekdoty o anglickem lordu Nelze se ledy na ten specificky kunderovsky problem hrdiny, jenž sice klati ženske na polkam, ale pokaždé je jakoby perem vymrštěn zpět k vlastni ženě jenž sice denodenně cvičí ona horizontalni prostna pokaždé na jiném naradí, ale kvůli Tereze se skutečné vzdá bezpečí a vědeckých a kariérových možnosti ve Švýcarsku a vrací se pod knutu moderního barbarství do Cech - nelze sc na tento podivný a zdánlivé až nerealisticky lidský fenomen dívat jako na paradoxní zdůrazněni, že směšné pohyby skutečně nejsou tmi rozhodujícím ve vztahu dvou lidi opačného pohlaví ? Nem tu vlastně Kundera - paradoxní, jak se naň sluši a patři - téměř viktoriánský moralista ? Zda se.
+version https://git-lfs.github.com/spec/v1
+oid sha256:829ca9b413f1c2b3c58f974b416e360ad2a1ce282c0aa7163b764c2acd83de5e
+size 1039

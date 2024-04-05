@@ -1,1 +1,3 @@
-lahůdka připravit státní bezpečnost Lisův rodina zabíhat otřesný zbytečný podrobnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:94bb2449c745837405a12a9ac7cd5f6176fd0d2965113368ad212a8681a23e4e
+size 96

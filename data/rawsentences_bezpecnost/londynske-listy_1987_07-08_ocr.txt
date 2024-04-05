@@ -1,1 +1,3 @@
- A ku podivu - polioie a bezpečnost s® držela a poutníkům nebránila! Sobotní kázání bylo věnováno důležitosti rodí mé ho života, a v neděli biskup Stefan Caroj kázal o mravním úpadku v dnešním světě a potřebě úcty k lidskému životu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0fed1b1d367e8bd0dc9557656a5458cf1a15a6582ed2cd137b9cf439042d28e
+size 263

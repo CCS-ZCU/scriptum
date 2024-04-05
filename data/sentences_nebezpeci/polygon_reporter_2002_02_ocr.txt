@@ -1,3 +1,3 @@
-nebezpečí privatizace dospět likvidace
-soud kontrola veřejnost médium existovat nebezpečí souzení podléhat manipulace
-nebezpečí objevit soud první dno projednávání obžaloba mít vyjádření strana rozhodnout veřejnost hlavní líčení obeslat svědek další den malý místnost soud účast veřejnost dovolovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ced5c75991dd89ffdfb87283d0aef50f467b7e65edf6732aede23fd1a29b8a1
+size 332

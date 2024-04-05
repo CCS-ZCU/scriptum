@@ -1,4 +1,3 @@
-nebezpečí prodnout člověk vracet
-nebezpečí současný doba aktuální úzkostlivý diktátor hrát morální struna
-perspektiva
-poznat argumentace ponout chávat zadní dvířka nebezpečí moci uniknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcce8f516af4e74804e532c1604eecd067f299e8c6dbed7723d85fb2da0eafcc
+size 300

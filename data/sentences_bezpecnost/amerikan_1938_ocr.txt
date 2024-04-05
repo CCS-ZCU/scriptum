@@ -1,1 +1,3 @@
-svatý trojico sporný chtivost kamarád dovést uhájit pořádek bezpečnost soused moci stěžovat bohatý úrod ztratit
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1312f4e6a75cd568979c88c52fb7817582c1611e6e1ad0465eb53450a65a88e
+size 124

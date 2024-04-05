@@ -1,2 +1,3 @@
-Čiao slovo doplnit mezinárodně scéna hovořit uvolněný skutečnost obzor rýsovat nebezpečí nový světový válka důsledek úsilí velmoc nadvláda svět
-lid spokojený mít nosit natlučený škrpál národní výbor dbát Cyril Lokajíček přerůst nebezpečí dělnický třída
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b2349a9883a4406032178b384c65a1bf06db986a11f051c3d1a11efd2391db6
+size 293

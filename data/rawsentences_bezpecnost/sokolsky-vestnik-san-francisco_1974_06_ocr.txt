@@ -1,1 +1,3 @@
- Vláda USA a mnoho dalších vlád se dnes snaží o zvýšení bezpečnosti a o rozmnožení spolupráce v Evropě, tj.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5707df2c3a0296508036166c7a537b58e77dc9b3b87bc9eae2f2bc6bd563724f
+size 122

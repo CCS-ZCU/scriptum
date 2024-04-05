@@ -1,1 +1,3 @@
-svoboda prodat terielní bezpečí plný míra vztahovat výrok Benjamin Franklina ••zdají zásadní svoboda získat malý dočasný bezpečnost zasluhovat svoboda bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:791ba51f5279343eea07f90796a77916704967e1eacba5e1c2ecdef82bc0e053
+size 195

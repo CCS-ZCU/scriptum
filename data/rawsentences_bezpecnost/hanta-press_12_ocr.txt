@@ -1,1 +1,3 @@
- Oba je spojuje, zároveň však i odlišuje, zájem o knihy, František Sturm má doma knih podstatně méně než Haňťa, dvě stovky oproti Haňťovým dvěma tunám, František Šturm knížky obřadně přejímá do svého vlastnictví a buduje z nich tématicky ucelenou knihovnu, svou hlubinku bezpečnosti, kdežto Haňťu doma nahromaděné knihy stresují, ba přímo ohrožují na životě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deda7326ed297e10b4cdbade5161c877bf1e80d01e989607149279185e67ee78
+size 403

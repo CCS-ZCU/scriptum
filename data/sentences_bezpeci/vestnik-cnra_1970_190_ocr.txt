@@ -1,1 +1,3 @@
-zájem vlastní bezpečí nákup moci paní Dubč ková obstarávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:218915cc2e57d1fc186f64323fbf3a38ce3683f16a8701679e7280f250e79f11
+size 68

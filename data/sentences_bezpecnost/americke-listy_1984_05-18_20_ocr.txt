@@ -1,2 +1,3 @@
-Moskva oznámit zúčastnit olympijský hra lze zajistit bezpečnost sportovec
-polovina březen provést státní bezpečnost prohlídPane ministr pos|ední doba StB věnovat zvýšený pozornost
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb9ab2ffcca1b88e8a09ab99ff9a0fc846ac372cefccdf585c5ff5a077b1179
+size 196

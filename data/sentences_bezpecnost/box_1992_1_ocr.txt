@@ -1,1 +1,3 @@
-zřejmo chránit bezpečnost carova prozatímní vláda
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d60dfcad7baf434810d16ec7e7474c5ce399c9968b13b6b24fa5c5d39de1363
+size 56

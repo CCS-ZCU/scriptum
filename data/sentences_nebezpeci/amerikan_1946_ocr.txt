@@ -1,2 +1,3 @@
-holčička dělat odpovídat babička duch vidět rezavý hřebík moci šlápnout hrozící nebezpečí nekonečno
-zkouška rozhodnout jiný zaměstnání člověk vystavený stálý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:fce7bfd4e4df684c1619006f61fbdf59c9d5d9b80157c7d503c8301df4a153da
+size 196

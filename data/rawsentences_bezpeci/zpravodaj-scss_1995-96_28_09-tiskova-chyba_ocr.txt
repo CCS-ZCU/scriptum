@@ -1,2 +1,3 @@
- Švýcarské, bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
-skutečně docházelo k dosídlování dnešního pohraničí, jenomže to byli Němci, kteří zde hledali práci, demokracii a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a9831abb7afa995118836caa28e08212c548fb8afc5bb2a3e399fc517ea67aa
+size 469

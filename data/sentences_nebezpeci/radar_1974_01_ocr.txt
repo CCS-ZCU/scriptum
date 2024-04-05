@@ -1,2 +1,3 @@
-cítit vzduch nebezpečí elektrický vlnění stahovat hlava
-krok číhat nebezpečí ocenit péče rodič starý lidé slít
+version https://git-lfs.github.com/spec/v1
+oid sha256:06826f61d0a51724de3c95114a19eec2fab27b48ae0c63e43f8d2e500ac054de
+size 128

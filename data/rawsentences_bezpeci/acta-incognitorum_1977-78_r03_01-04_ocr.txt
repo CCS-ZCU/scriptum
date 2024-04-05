@@ -1,2 +1,3 @@
- "Obětuje-li se Jednou za čas šlechetný nadšenec za dobrou věc, Jest to téměř historickou událostí; ale zlosyn dává stále, denně všans své bezpečí, své Jméno, svou svobodu, svůj život - vše to dává v sázku i lupič a vrah za lotrovské své záměry! Kdy najdeš u počestných lidomilů a vzorných občanů tolik statečnosti, tolik síly vůle?" * Ještě cítím, Jak mě tehdy zamrazil dojem jejích vážně a hořce promyšlených slov; i zamrazila mě dálná jejich ozvěna nastokráto znova za dob právě prožitých, za kterých Jsem nesčíslné vzpomínky vysílala k ní, k myslitelce té před žádnou pravdou neustupující, tážíc se v duchu, Jak by asi posuzovala události dějin nejnovějších.
-1967, které vyvolává poznámka Ik k článkům o letecké válce na Středním východěo Odmyslíme-li si pacifistický závěr (typiský pro autora, pod jehož militaris- ticko-aristokratickou slupkou se skrývá usedlé měšťanské jádro, důvěřivě spoléhající na bezpečí pod ochranou císařským rychtářem najatých drábů), je možno se o této poznámce vyjádřit pouze v superlativech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af55352936b58a9cb50a20125e28f631dc669949d6eb133bff1433ebe3c9c647
+size 1157

@@ -1,4 +1,3 @@
-nový kniha pocit bezpečí Geborgenheit Steinhausen společnost
-dítě dospívající toužit rodič stát dovést rozhodovat zprostředkovat pravidlo zásada život zkušenost pocit bezpečí moci sáhnout rodič dovolit teoretik výchova přátelský ideolog fušovat rodič úloha
-pocit bezpečí vzniknout mít rodič odvaha rodič
-pocit bezpečí potřebovat životní období
+version https://git-lfs.github.com/spec/v1
+oid sha256:06f3b999dff954ae1b8811c530a5e6d71248f7f491a7f85bd36a8ab84d2617a8
+size 383

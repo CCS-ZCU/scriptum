@@ -1,1 +1,3 @@
-další osoba bydlící dům vyvedený bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37d157e4fee2673e7144d005caa0ee8df1707cce952811909d18c4d15681869
+size 49

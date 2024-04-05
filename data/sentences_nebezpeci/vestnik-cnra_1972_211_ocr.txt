@@ -1,2 +1,3 @@
-třetina trest ČSSR mít podmíněný Bratislava zasedat celoslovenský aktivum justiční funkcionář zúčastnit předseda vysoký soud věstník ostrý BOJ idejí
-Sovět hrozit vážný nebezpečí strana hladový zkomunizovaný Čína usilující Lebensraum stamilion obyvatel Sovět ucházet spolupráce spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:a70aa1aec185d273c21092992aef4fa5dd9eb5d975dfda5c8937a7e9f9cd3d4c
+size 326

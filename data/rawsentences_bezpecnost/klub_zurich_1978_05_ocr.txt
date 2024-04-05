@@ -1,1 +1,3 @@
- Zaplacení poplatku nebylo ještě zárukou bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f13be95a563fa56a5bc799a7cfeac2ee012f121e11d262b1f4dc060d5536382
+size 59

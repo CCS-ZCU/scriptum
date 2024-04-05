@@ -1,3 +1,3 @@
- Na římských poradách se diskutovalo také o možnosti u- spořádat Sovětským svazem navrhovanou konferenci o ex ropské bezpečnosti.
- Nebyl jsem souzen a nebyl jsem odsouzen za své politicní ministři se shodli v názoru, že konference o evropské bezpečnosti by mohla vytvořit předpoklady.
- Autorem článku byl Jiří Hečko, který v redakci vykonává oficiálně funkci zpravodaje státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a122cf800d289f01588785340ce05782b74861e5f336e9421421870845546532
+size 424

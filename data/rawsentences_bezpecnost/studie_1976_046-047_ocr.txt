@@ -1,1 +1,3 @@
- A b y se duše v klidu věnovala své spáse ze strany Boží, přenechává státu a všeobecněji strukturám politického a sociálního života, aby zajistil ze strany ďábla její bezpečnost a prosperitu v čase.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f0578558a97b70bf8fc44e1a8557b06072cfe052247fcc6837d8d83c3cc3bc6
+size 221

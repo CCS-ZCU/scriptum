@@ -1,4 +1,3 @@
- Německý národ si již tuto pro něho smutnou skutečnost uvědomil, ale není jednotný v tom, zda se má smířit se svým □sudem či snad přece jen čekat na příznivější dobu pro řešení svého problému, bez jehož vyřešení nelze řešit evropskou bezpečnost.
- Nyní je nebezpečí, že konference o evropské bezpečnosti, kterou by obě strany rády uskutečnily, by mohla formální takto vzniklý status quo superlegalizovat.
- Známe přece’ -případ třeba novináře Vladimíra Skuliny, ale i jiné, při nichž si „Státní bezpečnost“ z úkonů zatýkání a propouštěni udělala hru vlastních ipravidel.
- Při politické amnestii roku 1960 byl Sádek propuštěn, avšak mohl pod dozorem Státní bezpečnosti vykonávat pouze manuální práci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa27cd5d5016444b4319bfa19dbe393162784b3c842f8519528b089c18d68a1a
+size 787

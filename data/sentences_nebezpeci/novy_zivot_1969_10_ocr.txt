@@ -1,5 +1,3 @@
-jednaný válečný konflikt ukončit umožnit pomocný akce prospěch trpící obyvatelstvo strana zmenšit odstranit nebezpečí poskytování pomoc spojený
-japonský jídelní lístek upozornění Mandlová ryba předkládat host vlastní nebezpečí
-květen upozorňovat nebezpečí strana stát
-dopis Taylor odevzdat Vatikán president Roosevelt odvolávat nový sovětský ústav stát zaujímat náboženství neutrální postoj
-různý manifestace upozornit svět bezpráví oběť stát vlast nebezpečí zůstávat komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad4af0c535ec3c130bfd35af6b3206424e3bcfa7d3899371c443813310331434
+size 537

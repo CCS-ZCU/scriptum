@@ -1,1 +1,3 @@
- Pasternakovi snad přinutí „úředníky" z tiskového oddělení sovět- ské Státní bezpečnosti, aby román povolili - stejně jeho kopie již kol-ovaly po Rusku taji- ně ve strojopisných přepisech anebo v němec- kém a anglickém vydání.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e448df67bb39b1f314f78cab5d4b4300f5bdee396fa745601a26f742222fb6f6
+size 253

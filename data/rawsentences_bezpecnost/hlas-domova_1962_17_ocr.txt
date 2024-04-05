@@ -1,2 +1,3 @@
- Veřejná bezpečnost, prokurátor, soud, to by měly být až poslední instance v boji proti rozkrádání majetku v socialistickém vlastnictví.
- Přehlíží se to, takže musí posléze zasáhnout Veřejná bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:468e2bf350636460523fab59cad5bcbc33d9e664801ac37f572a800e0c4cd403
+size 227

@@ -1,3 +1,3 @@
- Další uprchlík V polovině června požádal o asyl ve Švýcarsku další, v ČSFR pronásledovaný policista, bývalý plukovník Státní bezpečnosti Leonard Čimo.
-ledna 1990 příkaz, aby vnikl do sídla Fcderání státní bezpečnosti, bývalé Tisový vily v Trenčíně, vyzvedl odtud bez protokolárního podchycení 18 osobních svazků pracovníků Stb v kategoriích D a KTS jakož i některé další dokumenty a předal je Mečiarovi jako nadřízenému.
-Tuchyňom ako ministrom bezpečnosti a brannosti vytvárajú pevnú oporu politike HZDS pri presadzovaní jeho cieíov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a55f106e70e995e330f3b63f671d54f3422e4ed375746440c393482d208781b
+size 595

@@ -1,1 +1,3 @@
- Tesne pred smrťou vybral si nato človeka mladšieho osvedčeného policajta (šéfa štátnej bezpečnosti či t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87fdfd4aa84511aa948169028116ac96c6743cf5fc3b6e0bb63ca47b02c94b57
+size 117

@@ -1,3 +1,3 @@
-sbíraný odnášený pozemek přihnojování kompost zjara zelený hnojení podzim vhodný rostlina řeleď vikvovltý vylučovat nebezpečí nedostatek minerální živina
-Frosta rozptylovat prostředí připadat zahrádka přírodč cizí chemikálie vystavovat potenciální nebezpečí otrava potenciální nebezpečí moci změnit aktuální čas vzpomenout otrava DDT postupný hromadění látka tukový tkáň narozený znetvořený dítě působení dioxin prudký jed obsažený herbicid
-velký nebezpečí koncepoe prosadit
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6be4902ed38f29a72b3f12b46ca231930aac2bf605a57577dc8ce00f322d36d
+size 536

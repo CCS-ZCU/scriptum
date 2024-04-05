@@ -1,3 +1,3 @@
- Podepsal Chartu 77, byl vyslýchán opětně státní bezpečností a sledován.
- 81) nepoužívá v Polsku svých jednotek — avšak v důstojnických a i poddůstojnických uniformách polské armády jsou převlečni příslušníci sovětské bezpečnosti.
- Jde o neomalený útok Státní bezpečnosti na předního českého lyrika, jenž po léta odolával snahám učinit z něj básníka oficiální kultury se vším, co k tomu náleží.
+version https://git-lfs.github.com/spec/v1
+oid sha256:946cebc311d05cb08dec1efe4c3dbabdb14634a8a92742a6f938128493fd2c48
+size 451

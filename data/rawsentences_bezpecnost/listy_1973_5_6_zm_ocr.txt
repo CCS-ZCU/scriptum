@@ -1,14 +1,3 @@
- Žádost příslušníků rodiny a přátel, aby mohli vidět nalezenou mrtvolu byla bezpečností odmítnuta s odůvodněním, že íělo je v takovém rozkladu, že by bylo necitlivé vůči rodině ukazovat je v tomto stavu.
- Ustanovení zákona o zabezpečení účasti vězně 11a řešení otázek bezpečnosti a zdraví při práci není Žádnou (onnou realisováno.
- "}sme toho názoru", pokračuje prohlášeni, "že pokračující oku- pace Československa je v naprostém rozporu s úsilím o zmírnění mezinárodního napětí a se zásadami, na kterých by měl spočívat systém skutečně a trvalé kolektivní bezpečnosti v Evropě".
- Solženicyn přebírá štafetu "Kroniky běžných událostí", ilegální a uml- čené, aby zveřejnil mnohé informace o sovět- o bezpečnosti vnitřních odpůrců sověts 28  ském protestním hnuti, o lidech vězněných nebo ohroženveh sovetskvnú úvadv, a také » , * • o sobě.
- Solženicvn ukazuje tři a nou v mní v v- • V* w hru Žně dopisy, které dostal, ale vysvětluje, že v nich vidí "šaškárnu" Státní bezpečnosti.
- A pokračuje: "Ale v tom je zvláštnost, nebo, pokud to tak smím nazvat, výsada našeho vládního režimu: ani vlásek nespadne z mé hlavy nebo z hlavy clenu mé rodiny bez vědomí nebo souhlasu Státní bezpečnosti; tak jsme pozorováni, stopováni, střeženi, odposloucháváni.
- A pokud by odesilatelé dopisu byli skuteční gangsteři, ihned po svém prvním dopise by se dostali pod naprostou kontrolu Státní bezpečnosti ( .
- ) jestliže bude oznámeno, že jsem mrtev, nebo že nevysvět- litelně umírám, nemůžete se zmýlit: byí jsem zabit se souhlasem Státní bezpečnosti nebo jejím vlastním přičiněním".
- Jestliže důstojníci Státní bezpečnosti hledají a zabavují po všech městech venkova výtisky neškodného 'Rako- vinového oddělení', co budou dělat, až se po celé Rusi rozletí posmrtná vydání mých knih, těch nejdůležitějších ?'' OTÁZKA: V jednom starém interview, před rokem a půl, jste mluvil o útrapách a pronásle- dováni, jehož jste obětí, jak ve své literární činnosti, tak i ve svém každodenním Životě, Nastalo nějaké zlepšeni? A.
- Solženicvn odmítá "mluvit vážně" o Svazu spisovatelů, jejž řídí "lidé Státní bezpečnosti".
- Níže podepsaní Češi a Slováci, žijící v pěti světa- dílech, nejrůznčjšího politického přesvědčení, se obracejí na světovou věřejnost, na vlády i meziná- rodní organizace s důraznou výzvou, aby varovný případ Československa nezůstal zapomenut právě teď, kdy se jedná o bezpečnost a spolupráci v Evro- pě: ani jedno, ani druhé nemůže být uskutečněno natrvalo, pokud všude nebudou důsledně aplikovány zásady sebeurčení, svobody, lidských a občanských práv také uvnitř všech zemí bez rozdílu.
- Obracíme se na vlády, účastnící se Konference o bezpečnosti a spolupráci v Evropě, s naléhavou výzvou, aby na těchto poradách trvaly na požadavku volného pohybu I i cl í, myšlenek a informací, jakož i na účinných opatřeních, jež by vedly ke stažení sovětských vojsk z citlivého prostoru střední Evropy, zvláště z Československa.
- Aby zakryli svou sku- tečnou tvář sociál-imperialistu, Brežněv a jeho spolupracovníci neustále mluví o " m í r u " a "bezpečnosti", pokrytecky vyhlašují res- pektování "suverenity": a "nezávislosti" Československa, "nevměšování se do vnitř- ních věcí", "zřeknutí se použití násilí" a.
- Zcela nedávno mluvčí sovětské de- legace na první fázi "evropské konference o bezpečnosti a spolupráci" V.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59c334c32c5fe3790b169743eabc016fdbfcfa3e45bbf588354a6c297eb0057f
+size 3696

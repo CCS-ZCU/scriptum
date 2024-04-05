@@ -1,2 +1,3 @@
- Po vyslechnutí 111 svědků vypracoval Zvláštní výbor závěrečnou zprávu a zdůraznil v ní, že povstání podnítila maďarská tajná státní bezpečnost, která zahájila palbu do davu demonstrantů před budovou budapešťského rozhlasu.
- Krátce před půlnocí přerušil hostinu šéf sovětské státní bezpečnosti, který vstoupil do místnosti v doprovodu důstojníků NKVD, a vydal rozkaz zatknout maďarskou delegaci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61cf600fbd93ce89bcf123d1ee3813b54baf33c2db30b663edd2ffaafd3c2ebc
+size 445

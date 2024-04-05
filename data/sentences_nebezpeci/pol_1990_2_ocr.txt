@@ -1,2 +1,3 @@
-poslední kniha autor chápat hloubka sovětský krize nebezpečí plynout
-skvělý Finsko vznešený ukazovat samotný chapadlo nebezpečí schopný svobodnout lidé
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a35028f123f2b4e7573d419b2ba8b5debe69f91277ad0226f6bee0fe317322c
+size 167

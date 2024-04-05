@@ -1,2 +1,3 @@
-hora Bjelesnice roční doba dostatek sníh
-následující zpráva Norsko zveřejnit výsledek pětiletý pokus účel zjistit míra zmenšovat správný životospráva nebezpečí srdeční infarkt
+version https://git-lfs.github.com/spec/v1
+oid sha256:64896482dfc72f3af064ec8e3ba1ea9c44755b133fc815d14679956e2602f8b5
+size 199

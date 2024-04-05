@@ -1,1 +1,3 @@
-desátý Američan nemocný občan USA léčit duševní nemoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:424715d4e3cb89825057cdd524e0988eeb948ad8f8ee4fcc1cb2eedb58f8327b
+size 63

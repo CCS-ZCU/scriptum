@@ -1,2 +1,3 @@
-léta rozvinutý stalinismus následovat policie státní bezpečnost
-okolnost bezpečnost patroň zpozornit hledět uplatnit
+version https://git-lfs.github.com/spec/v1
+oid sha256:28217570f63747b806161076743d813aac3abca51eb157f7a5e596d43a4ed736
+size 126

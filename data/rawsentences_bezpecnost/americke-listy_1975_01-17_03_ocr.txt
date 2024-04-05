@@ -1,2 +1,3 @@
- Na ženevské konferenci c bezpečnosti a spolupráci v Evropě bylo dosaženo určitého pokroku, předpoklady k uspořádáni vrcholné evropské konference, o niž Sověti tolik usilují, však ještě vytvořeny nebyly.
- Bez vyhlídek posunout se jednou do čela strany není ani dosavadní předseda výboru pro státní bezpečnost Jurij Andropov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44fa7965583bbbe692cbf431e3757769ae5d0dc64a3c2231e4a2465db83230ff
+size 355

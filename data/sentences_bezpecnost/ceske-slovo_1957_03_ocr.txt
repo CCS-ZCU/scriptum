@@ -1,1 +1,3 @@
-sovětský deklarace umístěný Československo posádka rudý armáda
+version https://git-lfs.github.com/spec/v1
+oid sha256:aca5386a662766ba99035a0a9125c9fe2c529a3efa8d61f4395929b27f73d9f4
+size 72

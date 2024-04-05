@@ -1,2 +1,3 @@
-určitý doba chtít franc komunista zainteresovat gaullista mít strana společný protiamerický cítěný obava německý nebezpečí udržení národní závislost snaha zajistit francouzský instituce ronout plynout instituce evropský
-detent přivodit uvolňování hospodářský styk litn oko komunista zvýšit nebezpečí nákaza západní představa svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4bba714f8262e8da42e4a53bc2a2825ea5253a61212cbef8160b09874d1487d
+size 365

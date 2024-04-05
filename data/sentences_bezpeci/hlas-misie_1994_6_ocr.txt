@@ -1,1 +1,3 @@
-ohraničený životní prostor domnělý bezpečí rušený vlastní život dům zabouchnutý dveře klepající žádoucí osoba rušitel vlastní pokoj
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb823dade535a4053ffdf838cb0ce9c4c3c52a4f882e5773353482b13244c4f5
+size 154

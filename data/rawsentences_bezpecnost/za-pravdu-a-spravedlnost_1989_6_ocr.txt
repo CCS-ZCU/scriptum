@@ -1,4 +1,3 @@
- Důležitým požadavkem dokumentu je, aby koordinovaná západní iniciativa vyžadovala na středo-a východoevropských režimech racionální hospodářskou politiku - ne tedy opravdu svobodné podnikání - která by  měla byt'Podmínkou^pro stuonovaný západní úvěr, pro investice a jinou pomoco Tím by se měly podněcovat reformy, zatímco by se respektovala sovětská^legitimní starost o bezpečnost.
- ~ Takový program je pro nás nepřijatelný, poněvadž my nechceme zaji- štovat bezpečnost Sovětského svazu.
- Je ^pozoruhodné jaké starosti mají autoři dokumentu o bezpečnost^Sovětského svazu, my ovšem věříme, že nelegitimní sovětský režim nemůže mít legitimní zájmy.
- Dokument opět vyžaduje jakýsi balanc^mezi respektem pro lidská práva a pro demokratické instituce na jedné,straněna sovětskými legitimními zájmy na jejich bezpečnosti na druhé straně, účelem a posláním našeho demokratického exilu a demokratů vůbec na celém světe nemůže být zaručování bezpečnosti Sovětského svazu, který se nevzdal plánů na světovou komunistickou revoluci, který ty plány jen odložil na dobu, kdy bude přičiněním Západu zase silnější.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1baa1f8066867316be1097b962e046adf60f03b734cb2d7c2583389fcd557e46
+size 1217

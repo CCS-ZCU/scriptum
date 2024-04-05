@@ -1,4 +1,3 @@
-slyšet průmyslový energetický koncepce prosazený Československo nést reálný nebezpečí ekologický katastrofa celý rozsáhlý území republika
-nebezpečí hrozit spojený stát země západ třetí svět usilovat OSN zákaz nukleární reaktor orbit výsledek
-zpráva znalec OSN doporučovat izotopový systém spojený stát sestrojený omezit nebezpečí únik radioaktivita nula normální abnormální podmínka
-židovský vězeň Oskar Schindler nebezpečí skončení válka nařídit zastřelený
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa8b6ab05d0397de686e055504c8880d52baa35fbff94496426484ae39134a0
+size 516

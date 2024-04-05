@@ -1,7 +1,3 @@
-komunistický nebezpečí přímočarý
-československý lidé mít účinek škodlivý nebezpečí růst apatie pocit bezmocnost
-spojenec boj vzrůstající nebezpečí mezinárodní komunismus
-přítomný schůze obnovovat vzpomínka československý národ myslit nebezpečí spojený stát
-článek možný časový upozorňovat událost ČSR nebezpečí komunismus sledovat pevný linie rada
-nebezpečí komunismus velký skrývat nový moskevský koexistenční politika
-řečník bohatý referát rozebrat světový situace poukázat ohromný nebezpečí rozpínavost světový komunismus naznačit cesta směr mít dát chtít zachovat svoboda demokracie svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b4f76bbf5e71df7af9c0228e66d5d2cfcaedcc3434b6d30eb284afe43c9bc6
+size 669

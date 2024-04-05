@@ -1,5 +1,3 @@
- Oficiálně byla sice Státní bezpečnost rozpuštěna, ale její příslušníci nic jiného neumí a tak někteří jistě "dobrovolně" a z vlastní iniciativy pokračují ve své práci.
- Vždyť nedávno jsme objevili, že Státní bezpečnost ještě loni v létě připravila celou "akci KLÍN" spočívající v sérii pomluv a akcí, jimiž by rozeš- tvávali disidenty i exil mezi sebou.
- Jsem přesvědčena, že většinu z nich inspirovala naše Státní bezpečnost, rozvědka či kontrarozvědka.
- návrhu nové bezpečnostně politickém uspořádání Evropy bez vojenských bloků a v hospodářské integraci: vytvořit komisi pro bezpečnost v Evrop>ě, která bude výkonným orgánem celoevropské smlouvy o kolektivní bezpečnosti v duchu Charty OSN a v souladu s ní.
- Smlouva o kolektivní evropské bezpečnosti by měla spočívat na helsinském základě a byla by logickým završením helsinského procesu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f90599fd83ddf3609c859eb386bd28de7b3d5d707e755877a953bef5694b19a3
+size 941

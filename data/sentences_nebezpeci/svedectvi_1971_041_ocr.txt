@@ -1,16 +1,3 @@
-nebezpečí vědomý tvůrce pětiletý plán
-užívat riskantní taktika Moskva poukazovat lidový tlak nebezpečí jistý oprávněnost naznačovat prosinec sovětský vojenský intervence dojít rudý armáda připravený rok
-stát scinda stávat významný velmocenský partner docházet zásadní kvalitativní změna vzájemný vztah chladný přátelský znemožňovat sblížení socialistický země střední Evropa NSR země představovaný hlavní element nebezpečí evropský světový mír hlavní jádro protisocialistický protisovětsko kontrarý volučnflio dění evropský kontinent
-mít důvěra abstinent nekuřák asketa lidé břich tuctový konfekční ctnost zdrženlivý opatrný zápas vstupovat chvíle rozhodnutý vítěz hrozit nebezpečí riskovat
-internacionál zbavit představa Hitler ohrožovaný imperialista pochopit nebezpečí svolávat jednotný fronta Šmeral mít oslavený
-duch studený válka plodit válečný psychóza obava nebezpečí konflikt vyvolávat napětí stát tábor země čelo stát velmoc sovětský svaz USA
-porážka výstraha KSČ výzva krátký lhůta nebezpečí zneškodnit
-nebezpečí hrozit existovat Zorinův formulace sovětský pravda
-sjezd KSČ přijít Gottwald odvrátit bezprostřední nebezpečí
-Václavek vidět nebezpečí zasahování strana aparát umění
-vnčjší nebezpečí válka vnitrní možnost aktivizace poražený pole tiký síla
-nebezpečí přeceněný vědomý vyvolávaný provokace inscenace akce třídní nepřítel věcný otázka vyřešný
-tendence přiblížit atmosféra Československo atmosféra občanský válka Rusko hledisko hodnotit potenciální nebezpečí zdát zřejmý
-moci vytknout vzor politický moudrost Mácův stalinismus vojenský diktatura Fidel Castro existovat reálný nebezpečí octnout dosah druhý
-praxe rok Němec nacismus účině diskreditovat existovat malý nebezpečí svoboda válka vybojovat zničit míra nacismus získat mimový podpora
-myslit existovat reálný nebezpečí stažení sovětský vojsko padnout svoboda obít sovětský ideologie
+version https://git-lfs.github.com/spec/v1
+oid sha256:10c44bc8b926804453f3b29027e859d2acf601ee1a60c32bd7fcc53e5ad5193f
+size 2090

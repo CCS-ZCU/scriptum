@@ -1,23 +1,3 @@
- 1991 byl pak poprvé vytvořen Výbor pro státní bezpečnost Ruské republiky, jinými slovy vlastní ruská KGB.
- Bez něj budou staronoví vládci neustále potřebovat represivní složky a nebude nikdo, kdo by zavedl kontrolu nad vojenskou výrobou a postupně ji redukoval na nezbytné minimum pro zachování bezpečnosti států.
- Podle jakých měřítek byste hodnotili vaší bývalou státní bezpečnost ? Oficiálně byla StB rozpuštěna 11.
- Proč nepřevzít NATO? A k tomu společná smlouva o bezpečnosti, evropská konfederace, prosté jde o to, aby Evropa byla zbavena jakékoliv samostatnosti.
- Moskva doufá, že se zanedlouho zapojí do "mezistátních struktur", do "systému kolektivní bezpečnosti" (jak je to již uvedeno ve smlouvě s Ukrajinou) propagovaného druhým týmem.
- Mám dobré místo, přiměřené mým schopnostem - a o mou bezpečnost rovněž nemusíš mít obav.
- Z tábora byli oba muklové odvedeni do Slavkova a tam je převzala Veřejná Bezpečnost.
-000), měl prsty ve vraždách miliónů, ale co s lidmi, kteří drhli nákladní auta a doplňovali jim palivo, kteří hýčkali a krmili policejní psy, sypali vápno, přikládali hlavně do týla obětí? Nebo s funkcionáři bezpečnosti, kteří tak dlouho stáli v cestě spravedlnosti? A co trestní stíhání zločinů? Během více než čtyřiceti let byly v Bykivniji čtyři komise, a nikdo nebyl obviněn.
- To si alespoň myslel důstojník východoněmeckého Ministerstva státní bezpečnosti (MfS), který rozhovor manželů odposlouchávali na-svém stanovišti.
- A jak rád říkával šéf MfS Erich Mielke, "každá osoba představuje potenciální ohrožení bezpečnosti.
- Stasi měla více než třiapůlkrát tolik informátorů než jejich českoslovenští kolegové a zcela zahanbila Maďarsko, jehož státní bezpečnost měla jen asi 5 až 10.
- O ZLOČINECH KOMUNISMU PROHLÁŠENÍ CDU/CSU Prohlášení vnitropolitického mluvčího frakce CDU/CSU v německém Spolkovém sněmu poslance Johannese Gerstera - K výpovědím, přijímání do zaměstnání či dalšímu zaměstnávání bývalých příslušníků státní bezpečnosti a k tzv.
- "Stasi" /Ministerstvo pro státní bezpečnost bývalé NDR/ bylo oporou a nemilosrdným vykonavatelem diktatury Jednotné socialistické strany Německa /SED/.
- Zodpovědní a ochotní vykonavatelé teroru státní bezpečnosti nesmějí být zaměstnáni ve státních službách.
- Souputníkům a přitakávačům, kteří prokazatelně nikomu neuškodili, jakož i těm, kteří byli nevinně vtaženi do intrik a machinací státní bezpečnosti, nesmí stát natrvalo odepřít možnost spolupráce ve státní správě, hospodářství a ve společenských organizacích Spolkový vvbor pro vnitrní politiku Křesťansko-demokratické unie (CDU) vyzývá všechny odpovědné pracovníky ve spolkové, zemské i místní správě, aby odstranili z odpovědných míst bývalé příslušníky státní bezpečnosti a zabránili jejich opětovnému proniknutí do těchto pozic.
- Podle těchto ustanovení má dostat mimořádnou výpověď každý zaměstnanec ve veřejných službách, který byl činný pro statní bezpečnost a z tohoto důvodu je jeho další setrvávání v pracovním poměru neúnosné.
- Není důležité, jestli se jednalo o hlavní nebo vedlejší činnost pro státní bezpečnost.
- vraždy na Berlínské zdi, podvody s volně směnitelnými rubly, zpronevěry, nečisté machinace s kapitálem či s pozemky - to všechno, stejně jako činnost bývalé státní bezpečnosti anebo obvinění vznesená proti lékařům berlínské Charité či proti zpravodajským službám, musí být beze zbytku objasněno a pachatelé musí být postaveni před soud.
- DENACIFIKACE odpovídalo Oddělení veřejné bezpečnosti, jež zaměstnávalo asi 300 pracovníků a jež mělo služebny na krajské, okresní a místní úrovni.
- V jejich dalším setrvání na "národním území” se spatřovalo jak ohrožení vnitřní bezpečnosti, tak tolik kýženého evropského míru.
- Na skutečnost, že "nepřátelské živly" využívají k úkrytu a podpoře fary a kláštery, upozorňovala Bezpečnost takřka pravidelně a těmto zprávám se také dostávalo značné publicity.
- DOKUMENTY třeba, budou povolány další ročníky vojska, aby bezpečnost státu a jeho suverenita byly ochráněny.
- Můžeme však - aniž bychom tím jakkoli prejudikovali různá jiná rozhodnutí, k nimž v zájmu bezpečnosti Evropy a světa případné dojde - alespoň vytýčit čtyři hlavní body, jež považujeme za nutné: 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:640009475e8d63fe116faa83bbf9acf1a41287f48a95a355d1629f37a855da81
+size 4650

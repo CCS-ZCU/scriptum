@@ -1,5 +1,3 @@
-žít údobí nebezpečí obava hodina ojo
-pocitovat nivý nebezpečí spočívat obrovský hromadění zbraň hrozba atomový válka
-pomáhat stálý přímluva svatý Metoděj racet úpěnlivý prosba vytrysknout horoucí srdce životopisec avatý ctihodný otče shlédna nebe přímluva žsát toba zbát učedník nebezpečí rozšiřovat boží učení blud vyhladit žít povolání nule teba stádo pravý strana Kristus bůh přijmout život věčný
-nebezpečí experimentovat lidský živpt pře liš veliký mínit Nichols
-jediný Albánec moci zábrana vyznávat víra slavit bůh 3vý způsob nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6edc1e07533a3518745035dacd315a3f9368c38756eecb8f7f74c704d1368d97
+size 622

@@ -1,23 +1,3 @@
- Právní řád poskytuje bezpečnost jen tomu, kdo se zcela vzdá svobodného a kritického proje- vu.
- Jedině za touto záru- kou, za touto hrází bezpečnosti, se mohla uskuteč- nit společnost, reprezentovaná - na rozdíl od dne« šního Československa, ale nejen - inteligentními, schopnými lidmi, jimž práce přináší alespoň čá- stečnou možnost seberealizace a mezi nimiž a stá- tem sovětského typu s vysoko vztyčeným prapo- rem maďarské historie (až na nepříjemnosti s Ru- skem) a maďarské tradice existuje téměř vztah vzájemné důvěry.
- Takovým subjek- tem byl obvykle stranický aparát, nebo - v dobách zostřeného teroru - státní bezpečnost.
- Název Charta 77, jejž zvolili pro své společenství, navazuje na historický proces, jímž respektování lidských práv, základních svobod a důstojnosti člověka dosáhlo uznání jako neoddělitelná součást politiky míru a bezpečnosti i spolupráce mezi ná- rody od Atlantické charty, zakládající protifašistic- kou alianci na podzim roku 1941, k Chartě Spoje- ných národů, měnící válečnou alianci v universál- ní organizaci mírového uspořádání světa 1945, a k jejímu dalšímu rozvedení i konkretizaci v závěreč- ném aktu Konference o bezpečnosti a spolupráci v Helsinkách 1975.
- Obsah prohlášení i ohlášené činnosti Charty 77 je v souladu s článkem 17 o povinnosti občanů i organizací dbát o plné uplat- nění socialistické zákonnosti v životě společnosti a řídit se právním řádem, do něhož, jak uvedeno, včlenil stát ustanovení obou paktů, jež ratifikoval a jež navíc podpisem Závěrečného paktu z Helsi- nek slíbil důsledně dodržovat Existence a činnost Charty 77 je uznávána přímo Závěrečným aktem, jenž konstatuje, že respektování lidských práv je jednou z podmínek opravdového míru, bezpečni- sti a spolupráce národů a přiznává každému z občanů a obyvatel států, zúčastněných na Konfe- renci o bezpečnosti a spolupráci v Evropě právo znát svá práva a povinnosti v této oblasti (Rok lid- ských a občanských práv a svobod) a postupovat podle nich.
- Lubomíru Štrougalovi) Pane předsedo vlády, využívám svého zákonného práva, abych Vás jako vysokého státního činitele upozornil na mno- žící se projevy nezákonného jednání bezpečno- stních složek ministerstva vnitra, na zneužívání postavení orgánů bezpečnosti, na to, jak její vliv pronikl do našeho veřejného života, jak ovlivňuje činnost snad už všech institucí i formálně nezávi- slých a volených orgánů státní a hospodářské správy.
- Sousedi byli vyslý- cháni bezpečnosti a varováni před projevy sympa- tií ke mne a mé rodině.
- Snaha bezpečnosti připravit mě i o toto minimální zabezpeční je především útokem na mé děti.
- Bohuslava Čížka Úlo- ha řádu v politice římskokatolické církve - časo- pis Bezpečnost z 1-10-81).
- Musel pod- stupovat nekonečné výslechy státní bezpečností, které se vystupňovaly po rozhovoru s tehdejším holandským ministrem zahraničí Van der Stoelem při jeho návštěvě v Praze.
- Policejní opatření byla obrovská a asistence příslušníků státní bezpečnosti kolosální.
- Hlavní organizací pohřbu převzala bezpečnost.
- Příslušníci státní bezpečnosti stáli na všech přístupových cestách a byli roztroušeni po celém hřbitově; fotografovali, filmovali a z těsné blízkosti odposlouchávali útržky hovorů.
- To ovšem nedalo spát příslušným institucím a tak zanedlouho došlo k systematickému zamalovávání nápisů příshdšniky bezpečnosti.
- Čím častěji však zed přemalovávali, tím rychleji se objevovaly nové nápisy, pokrývající zeď po celé délce až do výše takřka čtyř metrů• Tyto nápisy obsahovaly ovšem již i reakci na lakýrnickou činnost bezpečnosti.
- Vedení bezpečnosti se totiž rozhodlo jednou pro vždy tuto zeď pravdy zlikvidovat.
- b) Další oslabení NATO Zatím však závisí obrana a bezpečnost západní Evropy nikoli na její vlastní vojenské síle, nýbrž na společné síle NATO, jejímž jádrem jsou Spojené státy, Koncept NATO předpokládá, že agrese proti západní Evropě by byla automaticky agresí proti Spojeným státům a proti celému NATO.
- Státní bezpečnosti i prokuratuře známy od roku 1979, sniž by tehdy byly vedly k vznesení obvinění.
- Je tedy důvodné pode- zření, že pracovníci bezpečnosti provedli domovní prohlídku bez předběžného souhlasu prokurátora a písemného povolení k prohlídce.
- Třeba po- dotknout, že jeho otec je příslušníkem Veřejné bezpečnosti.
- Jinou metodou je pozvání do provozu do jednoho z hlav- ních stanů Státní bezpečnosti do Bartolomějské ulice.
- Vzpomněl jsem si na onu zvláštní řeč, starou víc jak patnáct let, když jsem se doslechl tu šokující zprávu: Jiřina je ve vězení Státní bezpečnosti a hrozí jí mnohaletý žalář.
- Pří své spolupráci s politickými silami v zahraničí bude skupina «Listy» usilovat o to, aby jak suverenita, tak demokratické zřízení v evropských zemích, podřízených dnes sovětskému vojenskému bloku, byly důsledně chápány jako nezbytná podmínka zajištění trvalého míru a bezpečnosti v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b81a94de8e547dab57f0e1e444301bcc8be7d0993066388799da583f93cbe0
+size 5393

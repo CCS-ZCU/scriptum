@@ -1,2 +1,3 @@
-příklad dobrý pastýř Marek Križin nezst stádka hrozit nebezpečí učinit nájemník viz Jan zůstat služba boží lid podat zářný příklad věru Kristus poslání
-nebezpečí hrozit bohatý sekularizovaný společnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c2a072ef1e37cf94c76178733a437e8a5a8226df85232f5028a87d337885c6
+size 231

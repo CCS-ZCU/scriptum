@@ -1,1 +1,3 @@
- Asi se sem uchýlily do bezpečí před himalájskými orly, kteří krouží nad údolími nižších poloh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64d8f728dd5a9dfcabf620650f9c2185a00c682331fc095f0ad199a3a5db2a40
+size 111

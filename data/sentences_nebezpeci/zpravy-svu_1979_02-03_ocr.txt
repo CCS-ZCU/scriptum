@@ -1,2 +1,3 @@
-nebezpečí moci snížit efektivnost efikace koordinace SVU organizace
-nebezpečí žid Československo nucený takjakojiný obyvatel hlásit komunistický převrat rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2629ba4ed5a8f7f2c6b673449b98835d3e52e2a31a4f93c0325b3b65ae9860
+size 170

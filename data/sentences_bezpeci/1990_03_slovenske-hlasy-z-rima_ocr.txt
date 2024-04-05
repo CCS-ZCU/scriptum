@@ -1,1 +1,3 @@
-Povedal držat seba bolo sgrafito bezpečí ináč stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd9ab8741281ef73f2db9238ab4ae73354eb050972dde5211501a7e108db5e25
+size 65

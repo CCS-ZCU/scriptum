@@ -1,1 +1,3 @@
-patrný svobodný svět hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e53cdad479c6a91ecc853a74a490a2abeb4dba294e9b0e3b6075f647594058fb
+size 43

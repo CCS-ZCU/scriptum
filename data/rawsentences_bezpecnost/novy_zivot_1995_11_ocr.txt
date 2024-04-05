@@ -1,1 +1,3 @@
- Já si myslím, že je zcela na místě, že po- litika národní bezpečnosti u nás je svěřena rezortu, kte- rý vede křesťanský politik, že ministerstvo obrany je svěřeno křesťanskému politikovi; můžeme si uvědomit, že se třeba často mluví o obraně nenarozeného člověka, a tady bráníme narozený život, takže je to přesně stejná situace, je to úkol opravdu lidský, samozřejmý a my- slím, že záleží na tom, jak je vykonáván, že každý obor lidské činnosti má kromě obecných předpokladů, obec- ných ctností, i nějaké ctnosti speciální.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e6a451903805cd2a6a96c8fcd302422d93dc0d441571437a1e6788a77d5a211
+size 593

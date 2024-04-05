@@ -1,1 +1,3 @@
-jící rozmísťování jaderný raketa NSP vlastní území rozmístit zbraň první úder vystavovat nebezpečí odvetný útok
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3f2754e06996df604c4cb8ca26431bc22ae1a98232de3d4ef747afcb71d6842
+size 130

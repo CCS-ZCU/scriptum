@@ -1,1 +1,3 @@
- Dokud v tom nelze zabránit mocí, budou se bázlivě vracet do svých domovů, budou-li se však přitom dovolávat Krista, nechť je jim připomenuto, že se hanebně rouhají, že se sice Kristus šel dát ukřižovat, ale že do Jeruzaléma šel, že odmítl návrat do bezpečí Nazareta a té krajiny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa7055da06e378f1428139963961b05f13edd81a5bdc1b5e3a3aad34043b4755
+size 309

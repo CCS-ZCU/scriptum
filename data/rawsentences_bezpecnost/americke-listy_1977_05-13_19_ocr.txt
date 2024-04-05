@@ -1,2 +1,3 @@
- Avšak pocit bezpečnosti necharakte- risuje existující komunistické režimy.
- Politikj' lidí před odchodem z funkcí, kteří nechtějí riskovat nic, z čeho by mohlo vzejít risiko bezpečnosti a prestiže Sovětského svazu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:071dbc9ea15ff449e6b36f03295cb15ca3bae508e15e01cc070abbf1e2ac47c0
+size 235

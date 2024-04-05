@@ -1,7 +1,3 @@
- Sovětský kolos se rozpadl, přízrak Státní bezpečnosti a věznic zmizel.
- Aktivně se podílíme na práci Konference o bezpečnosti a spolupráci v Evropě, které bude Československo v tomto půlroce předsedat.
- Vzpomínal jsem na břeclavského spoluvězně Chaloupku z Tvrdonic, obviněného ze spolupráce s americkými agenty a při každém výslechu zbitý státní bezpečností do krve.
- Mnohá města berou svou bezpečnost do vlastních rukou.
- Ukrajinský poslanec Vasil Durdinec, zodpovědný za parlamentní komisi pro státní bezpečnost a obranu, při nedávné návštěvě ČSFR rozhodně odmítl jakékoliv snahy podobného rázu.
- Mezitím poletovali ze sjezdu vyloučení disidenti se jmenovkami, diskutující o tom, jak svrhnout Guse H al- la a jeho kliku, kteréžto panoráma doplňovali ochránci bezpečnosti se žlutými pásky na rukávech.
- Autor zde snad nevysvětluje, ale dosahuje křesťanského poci- tujistoty bezpečnosti svého života vlastního i své země, půdy-matky — ro- ditelky, pramáti rodu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a7da43d13605b3a5737e69da9622edf36a610bb54bcb4715404840d9eaf098
+size 1054

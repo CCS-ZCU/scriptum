@@ -1,2 +1,3 @@
-zbožný přání komunistický agitace spojený stát snížit stav jednotka Evropa vidět vyplnit potrvat nebezpečí sovětský agrese svět
-jiný sovětský mluvčí významný vědec soukromý nozho vora sdělit sovětský svaz hrozit smrtelný nebezpečí Cína nebezpečí svět celý rozsah chápat
+version https://git-lfs.github.com/spec/v1
+oid sha256:be45c9316e9fcd6edb14eb4efe9c319b672267f36834bdd02b5a8ff27dc2ffda
+size 305

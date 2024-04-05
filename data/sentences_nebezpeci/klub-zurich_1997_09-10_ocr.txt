@@ -1,9 +1,3 @@
-mfe
-Grtega Havana prohlásit velký nebezpečí návštěva svatý
-nouze přijít bůh prosit nebezpečí jít tančit
-pár předpoklad zarout čojit šťastný manželství důležitý vstohjit manželství
-hostie vzít nepo svěcený ruka posvěcený ruka kněz
-Cínkev vina začatý hlodávat ničit podobný nebezpečí kte poničit víno
-krev církev hluboký nitr nebezpečí škoda velký učení víra znát
-vyzpovědět data nebezpečí smntit řádný kněz
-názevnout český církev německý církev místo katolický církev určitý země dokazovat biskup nebezpečí rozbití zničení církev uvědomit
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba2a3d9a18d587bc51eb0226ff24993608110b77e360eee1fae05a52fbb4eec
+size 607

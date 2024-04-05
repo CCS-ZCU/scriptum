@@ -1,6 +1,3 @@
- výročí úmrtí faráře Josefa Toufara, kterého umučila komunistická Státní bezpečnost, představil jeho životopisec Miloš Doležal druhou knihu nazvanou Krok do tmavé noci.
- Členství v unii je podle něj garancí prosperity a bezpečnosti země a potvrzením polistopadového vývoje české společnosti.
- Migrantů je tam 100 000, samo sousední Dolní Rakousko musí tento problém řešit a řeší to z úrovně zemského hejtmana,“ řekl Hašek s tím, že chce zajistit bezpečnost na jižní Moravě.
- Opatření, které je součástí novely zákona o silničním provozu, má především zvýšit bezpečnost chodců.
- ledna 1977) vystaveni ze strany Státní bezpečnosti.
- Peter Žaloudek (* 1958, Žilina) byl v roce 1979 vyloučen z Cyrilometodějské bohoslovecké fakulty v Bratislavě, protože odmítl spolupráci se Státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eefb39ebb29cce4fb6010adb55cd7e099105c147612f8e8a0ee9b7ed25f40ac1
+size 878

@@ -1,1 +1,3 @@
-Husák Husák děkovat Čtrougale prázdný regále děkovat KSČ fronta děkovat chást maso
+version https://git-lfs.github.com/spec/v1
+oid sha256:970554495d3fc6b0bbf8b3425011ddc3d38b4db1562afe38c851b39fcd688820
+size 94

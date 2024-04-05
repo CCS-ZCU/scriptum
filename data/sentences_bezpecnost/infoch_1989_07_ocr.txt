@@ -1,4 +1,3 @@
-výbor evropský bezpečnost výbor ča\veřejnost
-Stárek vazba Hradec Králové státní bezpečnost pre vyšetřování věc používat zákonný metoda
-odpustitelný považovat brutální akt dopustit bezpečnost účastník pokojný manifestace Praha
-karmelitský ulice průvod srazit kordon milice veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1912797864add0754aa094d1fc5414a7da21e8e4f824a50a1a4979db97a768
+size 326

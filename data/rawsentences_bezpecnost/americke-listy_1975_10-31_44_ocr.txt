@@ -1,2 +1,3 @@
- Kabina umoží operativnější využití pracovního času a zvýši bezpečnost potápěčů, pracujících v hloubkách až sto metrů.
- Vedoucí delegace francouzských komunistů Jean Kanapa prohlásil ještě ve východním Berlíně, že se chystaná konference bude zabývat pouze o- tázkami míru, bezpečnost: a spolupráce, neboť to je jediná platforma, na které se mohou shodnout všichni potenciální účastníci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cebee4dd2efb87afe7fc6b419951899013c452cca302eb2786f227c8a835fb7
+size 434

@@ -1,1 +1,3 @@
- Pocítím lehký závan pohody, bezpečí, útulna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f3e3f12045b5ee9633f248dfbdefcae28569377ad6b879b1700a69efa93d9ad
+size 53

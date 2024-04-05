@@ -1,1 +1,3 @@
-nacistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:febd3d64a2f44ed4f1d6cb220b1227f3cfb7540967e65f9fc4db0f96c7d93b25
+size 24

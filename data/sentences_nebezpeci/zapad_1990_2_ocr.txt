@@ -1,2 +1,3 @@
-úspěch pražský záviset poslední řada odhad nebezpečí hrozit zvnějšek Sovět jiný bratr
-většina ztotožňovat zátý věr studený válka skončit vlastní zájem bývalý přít tele pomoci odvrátit nebezpečí sovětský svaz dostat moc příjemný sok
+version https://git-lfs.github.com/spec/v1
+oid sha256:bac99a9fe2cb6a42527a9f5a016e76a71dd22d67b631b88a3a597b738e4dfe12
+size 449

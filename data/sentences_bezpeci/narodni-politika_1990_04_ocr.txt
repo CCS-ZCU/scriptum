@@ -1,1 +1,3 @@
-osmý strana Naroonl politika Čtyr šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:52d29cf115b02d094af6b85135b0154f8761561f9140ff984ef14d6bc9921020
+size 73

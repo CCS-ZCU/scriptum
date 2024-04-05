@@ -1,5 +1,3 @@
-středověký město nebezpečí válka bořit hradba selský statek kostel vinice poskytovat úkryt nepřítel
-protestant vyzývat pasivita lhostejnost boj svoboda diktatura spatřovat Suda vážný nebezpečí Hromádkův působení mezinárodní fórum
-jistý mza lokalisace zvyšovat nebezpečí srážka věc posloužený západ hledat náhrada jiný bezpečný politika
-Castrův režim Kuba moci udržet zlomený moc spojený stát karibský moře
-schopný snadný optimismus chtít utíkat nebezpečí otvírat moderní člověk
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c077cc5ab140480f037442cd1f83300ef734b1e770c5f9740359fa913f4b3e
+size 536

@@ -1,1 +1,3 @@
-Schwarzenberg prázdniny cestovat Evropa pozvaný přednáška střední Evropa bezpečí komunismus universita Holandsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:8181550a32be486e0975acaa6c1be449a196411e07aaccd6f104f7bbdc36aabc
+size 122

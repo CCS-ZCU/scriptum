@@ -1,5 +1,3 @@
- Prokurátoři, předsedové státních soudů a velitelé oblastních úřadoven Státní bezpečnosti nebyli dosud nejen souzeni, ale ani nebyli voláni k zodpovědnosti.
- Rovněž orgány Státní bezpečnosti se ve svém personálním složení nezměnily.
- Teprve povolané jednotky Veřejné bezpečnosti obnovily pořádek.
- Díky energickému zákroku příslušníků Veřejné bezpečnosti se jim nepodařilo proniknout do kostela a mše proběhla podle slov faráře P.
- Řev a pískot, to byla povětšině odpověď na slova příslušníků Veřejné bezpečnosti, kteří se snažili domluvou přimět mladíky k rozchodu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:642edf16d2dce685527b83fb4bbd46ead52d3ee192c1db68ce12e0dd0f769d28
+size 638

@@ -1,3 +1,3 @@
- Náhlé a časté povodně v celém dosud objeveném toku podzemní Punkvy ohrožovaly jak bezpečnost dalších výzkumů, tak i krápníkovou výzdobu všech podzemních jeskyň.
- Psal: “Mé zlato, njc se neboj nebezpečí cesty, postarám se, abys cestovala v pohodlí a bezpečnosti.
- Bezpečnost zaručena až do výše $5,000 vládní agenturou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3312e8bf0ff785e2a54551212c7aaec5b38ddc3056bc5360aff53d4c9a48129
+size 355

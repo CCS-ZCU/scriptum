@@ -1,2 +1,3 @@
-chtít dosáhnout Gorbačov odpůrce moci poukázat údajný nebezpečí přestavba sovětský impérium
-safar plný číhající nebezpečí seznamovat pravěký zvíře rostlina
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9fa3f3a07ebcb2cf39c5e05d0a127e927f90e276df8aafb3d5a003d7902d0e
+size 180

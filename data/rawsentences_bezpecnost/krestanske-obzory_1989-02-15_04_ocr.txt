@@ -1,1 +1,3 @@
- Jestliže orgány bezpečnosti použily proti těmto rojevům svobodymilovných občanů hrubé síly, jednaly nejen proti na- emu stávajícímu právnímu řádu,ale i proti lidskosti vůbec.
+version https://git-lfs.github.com/spec/v1
+oid sha256:691aac0d95dfef72a9c8690d2f5cbea154bbbea106d1326f2c76d864d6ad6680
+size 195

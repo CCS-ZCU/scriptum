@@ -1,3 +1,3 @@
- Koshclcm, a představitelů Československého výboru pro evropskou bezpečnost a spolupráci v čele s jeho předsedou B.
- Kučerou, konal se v Praze seminář věnovaný různým aspektům problematiky evropské bezpečnosti a spolupráce.
- V souladu s dokumentem stockholmské konference o opatřeních k posílení důvěry a bezpečnosti a o odzbrojení v Evropě, se také tohoto cvičení zúčastnili českoslovenští pozorovatelé.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4dfc711b5b741231b1998907a01d9bfd62ecae568ee42df5348bc2b6f25f047
+size 444

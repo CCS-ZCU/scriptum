@@ -1,5 +1,3 @@
-ministr spravedlnost Bomhard zaznamenávat zajedno mladý král scinda ocitat vysoký nebezpečí
-Odvrať mocný přímluva nebezpečí duše tělo
-přinášet veliký nebezpečí carský rodina
-vnášet oddíl pobouření rozruch rozšiřovat lživý slecha lom rodina hrozit nebezpečí dům vést podkop
-bok malý ženský postava držet látka tvořící záhyba rozvitý květ
+version https://git-lfs.github.com/spec/v1
+oid sha256:664fd927d2790ff36a40cee4c33efc9d35039c735512f433ac00489026259756
+size 382

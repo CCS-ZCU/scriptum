@@ -1,2 +1,3 @@
- Dvě hodiny potom, kdy spěšně opustil byt, dostavili prý se pro něho dva členové Veřejné bezpečnosti spolu s několika příslušníky sovětské tajné policie.
- Jodas je označován za příštího ministra státní bezpečnosti ve vládě, která má převzít moc po Dubčekově odstoupení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:023245c93a741189887a06bd3a29a0ca0aa81e08dde7e57087fb998afc7c4c83
+size 307

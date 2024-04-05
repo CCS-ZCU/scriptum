@@ -1,1 +1,3 @@
-součas doba lidá Libanonei Libanona žít nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b6d34f17b249eaa01d726b576d827ea4f41f3454a7772d163ddc730aa0944af
+size 59

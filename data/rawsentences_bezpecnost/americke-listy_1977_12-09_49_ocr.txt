@@ -1,1 +1,3 @@
- Při zatýkání prý došlo k incidentu, protože Landovský se údajně vzepřel úřednímu výkonu orgánu bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b5bcec196d483066d3eef0aadf65b32a19ca3cbc179be645e0ad04119cb59e2
+size 126

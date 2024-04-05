@@ -1,1 +1,3 @@
- Na místo se rovněž dostavili agenti státní bezpečnosti, jejichž jediným úkolem bylo fotografovat účastníky a zapisovat si čísla aut účastníků slavnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feed805e46534a62c41003f03d9fcbfe0e4c7a3a830b42f1b565290a19f874d5
+size 172

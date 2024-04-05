@@ -1,1 +1,3 @@
- Vzdává se vší na- děje či iluze o dobru ve světě - Labyrint srěta popisuje ilu- zornost právě světského dobra! - a nachází hlubinu bezpečnosti v ráji srdce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:116f10294701b3a2dcb53706d1311b5008bdfd1cdcec6a3120566c1e77c8b914
+size 175

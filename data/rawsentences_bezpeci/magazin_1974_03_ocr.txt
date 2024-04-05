@@ -1,1 +1,3 @@
- Goldfisch šel mechanicky za těmi, co mu řekli, že k nim patří, a přál si jen, aby už byl zpátky v té rozviklané kleci, která mu teď začala připadat jako učiněná oasa bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca2c5a10ce72f5b1f525960f2374ed25c9afb912c95fb56a47dd64ceae25238
+size 197

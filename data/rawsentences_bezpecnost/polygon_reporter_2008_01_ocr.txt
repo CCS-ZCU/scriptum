@@ -1,15 +1,3 @@
- Je to obava oprávněná, po tom, co loni v únoru prohlásil ruský generál Solovcev? Šlo by o útok preventivní, či preemptivní? Ajak by reagovala Rada bezpečnosti OSN? Na zadní straně obálky najdete fotografie krásné budovy Opery v Sydney.
- Jednali o budoucnosti Kosova, o schengenském prostoru a energetické bezpečnosti.
- V souladu s jeho zněním byly z veřejných funkcí vyřazeny tyto skupiny osob: část funkcionářů KSČ, příslušníci Lidových milicí, příslušníci Státní bezpečnosti, jejich tajní spolupracovníci, členové akčních výborů a studenti škol v SSSR Zákon byl původně schválen na dobu 5 let, později byla jeho platnost prodloužena do roku 2000 a na neurčito.
- Dále bývalou předsedkyni Nejvyššího soudu a současnou místopředsedkyni Ústavního soudu Elišku Wágnerovou a bývalého generálního prokurátora Jiřího Šetinu, který byl zároveň zakladatelem Útvaru (později Úřadu) pro dokumentaci a vyšetřování činnosti Státní bezpečnosti.
- Zato stát by měl být převážně jen strážcem zákona, zákony vytvářet a zajišťovat bezpečnost.
-zmocňuje Radu bezpečnosti k přijetí rozhodnutí nezahrnujících užití síly.
-pokud Rada bezpečnosti rozhodne, že kroky učiněné v rámci článku 41 jsou nedostatečné, může být za účelem udržení či obnovení mezinárodního míru a bezpečnosti použito vojenské síly.
- USA, ČR a Polsko pokračovaly ve stavbě stanic, a pokud by RF měla čekat na rozhodnutí Rady bezpečnosti, mohlo by být již příliš pozdě a radar by mohl být používán i organizací NATO.
- Čili s touto verzí by Ruská federace u Rady bezpečnosti měla šance stejně mizivé.
- Další a další svědectví, včetně těch, která nebyla připuštěna jako důkazy obhajoby v jeho prvním procesu, svědčila jen o jednom - Jan Baťa byl příkladný vlastenec, a pokud utajoval své jméno a nevystoupil veřejně na podporu Spojenců, bylo to proto, že se obával o své zaměstnance ve Zlíně, o jejich bezpečnost, zejména vedoucích osob, a o jejich existenci.
- Na druhou stranu, nepodceňoval bych vysokou úroveň psychologie vyšetřování Státní bezpečnosti, často dobře věděli, na koho co bude působit a jak ho dostat.
-“ Když člověk poslouchá vyprávění pamětníků, kteří nemalou část svého života prožili v komunistických kriminálech, přirozeně se ptá, proč? Statisíce lidí žily jakoby bez povšimnutí Státní bezpečnosti, tisíce jiných byly sledovány, zatýkány a mučeny, aby se doznali k něčemu, co nikdy nespáchali.
- Státní bezpečnost a soudruzi z Obranného zpravodajství zatkli desítky vojáků z plzeňské posádky, kde sloužil i generál Sedláček.
- Jeanne Kirkpatrick, reprezentující USA v Radě bezpečnosti, se vyjadřovala kriticky, s odkazem na stařičkou Monroe Doctrine, odmítající vměšování Evropy do záležitostí západní hemisféry v jakékoliv podobě, a Al Haigh, tehdejší ministr zahraničí, se snažil uhasit oheň diplomatickou iniciativou, poletováním mezi Londýnem a Buenos Aires.
- Britský delegát vznesl protest v Radě bezpečnosti OSN a Argentina 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3076705b7950ee2852f6f7cb13a2b6856aca0c9e778df08eb792d8d2a4dc9f49
+size 3214

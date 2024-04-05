@@ -1,1 +1,3 @@
- Vzpomínková kniha poukazuje nejen na vyšetřovací metody Státní bezpečnosti a na soudní proces, ale v zajímavém světle ukazuje na poměry na Borech, v Leopoldově, na Mírově a ve Valdicích a zaplňuje tak určitou mezeru v této oblasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fece29caca3b1bb28e6909329a4a8ffe6173a1db514c72c337828c44030790c7
+size 253

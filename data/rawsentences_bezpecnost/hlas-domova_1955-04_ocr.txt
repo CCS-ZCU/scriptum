@@ -1,1 +1,3 @@
-Noví policisté jsou prý "nejnovějším druhem orgánu vnitřní bezpečnosti", je jichž úkolem "je chránit průmyslová centra a zaručovat klidnou práci v továrnách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab05ad89437fab13c521bf88d8f0b8e24987984ce9aaa0cde19191b0317538d9
+size 177

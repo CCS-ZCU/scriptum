@@ -1,4 +1,3 @@
-delegace Bělehrad
-americký vláda domnívat případný agrese Jugoslávie mít negativní dopad evropský bezpečnost mír
-Joshua Eilberg zveřejnit poznámka rozhovor
-pojistný doba nabytí německý občanství starý pochopit osobní majetkový bezpečnost dát získat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e79be5eeadc6338d1cf6747dd4850b8d772cb41286a5aaa3a6fa0c88d18c0416
+size 276

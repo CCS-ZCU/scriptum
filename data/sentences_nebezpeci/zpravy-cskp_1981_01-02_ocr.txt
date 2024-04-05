@@ -1,4 +1,3 @@
-podepsání charta vteřina propuštěný ředitel Slanina hrozit nebezpečí MUDr Placák moci rozvrátit kolektiv spolupracovník
-vědět
-soudit změna životospráva vhodný výběr strava nebezpečí snižovat
-cukerín karcinogenní látka namluvit ukázat studie odborník harvardský universita nebezpečí přehánět
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2dce9f6697c237983a8448a25fc2538ec17eb26eebb29fde9348890fca51524
+size 325

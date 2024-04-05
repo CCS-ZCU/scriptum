@@ -1,2 +1,3 @@
-éra přinášet nový nebezpečí pracující římský konference upozornit
-nebezpečí spojený nový způsob sociální terapie lék zneužitý
+version https://git-lfs.github.com/spec/v1
+oid sha256:a83ae31224477244bfe3f59d478d8625cfcff57ecd739478f525e50405f5d566
+size 148

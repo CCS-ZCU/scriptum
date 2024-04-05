@@ -1,5 +1,3 @@
-, Jaroslav Bašta (ČSSD; místopředseda sněmovního výboru pro obranu a bezpečnost) i Jan Sula (bývalý šéf ekonomické kontrarozvědky) odhadují na 200 až 230 jen ztráty v bankovnictví včetně „špatných úvěrů“.
- Ne proto, že mimořádné volby nemají být, ale proto, že se takto demonstruje, jakou hodnotu má to, na čem je založena bezpečnost každého občana.
- Borkovce od případu odvolali a vyšetřování převzala Státní bezpečnost.
- Borkovce případ převzala Státní bezpečnost, vykázal ministr Nosek všechny z ložnice a ke dveřím postavil strážného, kterému nařídil, aby dovnitř nikoho nevpouštěl.
- Nejvyšší rada zajišťuje provoz francouzských škol v cizině, sociální péči emigrantů a v nepokojných státech také jejich bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed272054bc6e949b5cc6e2f18f22b605e0648f687167a21824575c6e150e3796
+size 810

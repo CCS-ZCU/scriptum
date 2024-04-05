@@ -1,1 +1,3 @@
-stát malý nebezpečí ohrožený kulturní mravní hladina národ zvednout
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fcef2c428b82de0eb1e3445542158de751cfca03560bd4095c3a1f98ead5eef
+size 77

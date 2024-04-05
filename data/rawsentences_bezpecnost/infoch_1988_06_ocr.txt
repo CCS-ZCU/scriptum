@@ -1,22 +1,3 @@
- Takto totiž zdůvodňovala Státní bezpečnost svá opatření četným signatářům Charty 77, které vystavila nezákonným omezením.
- Celkový podtext těchto razantních opatření je ten, že podle Státní bezpečnosti je Charta 77 eo ipso společenstvím, které je trvalým zdrojem narušování veřejného pořádku.
- Zásahy tohoto typn, k nimž se Státní bezpečnost už více než rok neuchylovala, jsou, řečeno slovy diplomatické noty britského ministerstva zahraničí, "metodami, patřícími do dávno minulých dob".
- K zadržení Státní bezpečností došlo poté, co pří celní kontrole bylo zjištěno, ze GyHrgy Varga přiváží do Československa větší zavazadlo s českou literaturou, vydanou v exilu.
- Při výslechu byl dotazová^ komu mel převážené publikace doručit, dále na Ivana Medka, Petra 'Pospíchala a další osoby, Čs,státní bezpečnost podala správu do Budapešti a od té doby má GyBrgy Varga potíže: je často předvoláván na výslechy, resp,zván na různé pohovory s pracovníky maďarské policie.
- Uvedený případ není bohužel ojedinělý, tento postup uplatnily orgány Státní bezpečností v poslední době mnohokrát.
-orgány se nemohou vymlouvat ani na případná omezení, stanovená paktem, nebot taková omezení by musel stanovit zákon k respektování práv nebo pověsti jiných nebo k ochraně národní bezpečnosti, veřejného pořádku, veřejného zdraví či morálky, a zákon S.
- Odvolací soud odmítl uznat za prokázanou skutečnost^ že při konfliktu s Veřejnou bezpečností, která prováděla nepřiměřený zákrok při oslavě svatby v listopadu 1986 v Bělči nad Orlicí, byl M.
- Někteří byli střeženi ve svých bytech příslušníky Bezpečnosti, jiní byli značnou část neděle zadržováni na odděleních VB.
-vědec světového jména, odborník v oblastí makromolekulami chemie, nositel Rádu práce a laureát Státní ceny* Tímto zásahem zmařila Státní bezpečnost vzpomínkovou slavnost, která se měla konat 6.
- Jejich předvedení zdůvodnila Státní bezpečnost opatřeními, které podniká na ochranu pouti k poctě blahoslavené Anežky.
- Po půldruhé hodině byli skupinou Státní bezpečnosti, které velel pplk.
- Ratfordem zadržen Státní bezpečností mluvčí Charty 77 a člen VONS Stanislav Devátý* Byl jedním z 18 občanů; většinou signatářů Charty 77, kteří byli koncem týdne 48 hodin zajištěni v souvislosti s celonárodní katolickou poutí do pražské katedrály sv.
- Byl zavezen na okresní správu SNB, kde ho od půlnoci do tří hodin ráno vyslýchal náčelník okresního oddělení Státní bezpečnosti inž+mjr.
- Veřejná i Státní bezpečnost se snaží toto hnutí omezit a jeho příznivcům znepříjemňují protiprávními metodami život.
- Všechny akce řídí Státní bezpečnost.
- Nedovedu posoudit, zda by taková změna vládě prospěla, ale poslední akce Státní bezpečnosti dávají tušit, že nemáte mnoho zkušeností v oboru mezinárodní politiky.
-Víta rovněž milicí a Veřejné bezpečnosti, i té tajné v civilu.
- Někteří postižení byli sice po zaprotokoíovaných stížnostech propuštěni z úřadoven VB, ale vzápětí opět na ulici přepadání uniformovanými i civilními orgány Bezpečnosti a zavíráni do cel předběžného zadržení - bez předběžného vyslechnutí* Tam jsme byli drženi čtyřicet osm hodin, aniž nám bylo prokázáno nějaké porušení platných zákonů.
- Vyšetřovatelé StB se snažili vnuknout vyslýchaným nepravdivé tvrzení, že kardinál Tomášek požádal Bezpečnost o ochranu před chartisty, kteří prý měli v úmyslu rušit a mařit církevní slavnosti.
- Jak chcete vytvářet pásmo spolupráce a dobrých sousedských vztahů s jinými národy, když se pokoušíte rozeštvat vlastní národ? Jak zaručíte bezpečnost cizím návštěvníkům ve společném evropském domě, když honíte a šikanujete plnoprávné občany vlastní země? Pane ministře, nečekám, že od Vás dostanu písemnou odpověS na svou adresu, ale pokud byste přece jen chtěl na uvedené otázky odpovědět, udělejte to jako já otevřeným dopisem, který Vám oficiální sdělovací prostředky rády zveřejní.
- (Šlo o svobodu tisku, odstranění cenzury, samostatnou uherskou vládu v Pešti, občanskou a náboženskou rovnost pčed zákonem, všeobecné zdanění, zrušenní poddanství, zřízení občanské gardy a národní banky, osvobození politických vězňů apodu) Prokazuje to akce maSarskéstátní bezpečnosti, která pod záminkou, že hledá letáky, jež mají být rozšiřovány 1 15.
+version https://git-lfs.github.com/spec/v1
+oid sha256:679eba8775cf2bc546e0b594d048fe044d4cb72abc64f065dae6f75757f1bcf5
+size 4697

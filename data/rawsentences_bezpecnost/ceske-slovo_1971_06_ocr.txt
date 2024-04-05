@@ -1,6 +1,3 @@
- vesel jsem v malé Vesničce do malého domku a teprve, když mě vedli spoutaného ven - a to uz bylo také po flllze — jiCtn zc na* domnu je docela malá cedulka: Veřejná bezpečnost.
- Friedrich: Samozřejmě, žc takový rukopis se budeme snažit získat, ale ne za každou cenu- Je především věcí autora, aby uvážil, kde je mezní hranice jeho osobní bezpečnosti.
- Vedoucí činovníci Sdružení intervenovali u členů kanadské vlády a docílili toho, že otázku přepadení Československa sovětskými vojsky předložila Kanada Radě bezpečnosti, která se touto záležitostí zabývala.
- Asi budou mít nemakačenkové ze Státní bezpečnosti zase více práce.
- Před vydáním pasu byla volána na místní oddělení Státní bezpečnosti, kde ji bylo řečeno, že návštěvní visum dostane, avšak že musí opatřit určité informace.
- Na to ji příslušník Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e96c6661a933113785d8009c730d4d2817fed2f01ae80fe5a7cc113438b66ab
+size 921

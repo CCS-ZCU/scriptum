@@ -1,4 +1,3 @@
-nebezpečí nákaza moci přenést dítko ostatní škola zavřený vykouřený
-OSOB nebezpečí
-Chicago rozšířit ohrožovat celý bloic lidé ocitnout velký nebezpečí ‘života
-čebný pomoc neprace mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aa68b28ffe63cec3ebfa55de05052d46d354dad02883739fdc2cf98cca63d9e
+size 212

@@ -1,2 +1,3 @@
-zřejmý nebezpečí žid nový hnutí moci pobouřit Řím
-únor napadnout otec kardinál Tomášek petice podpořit útočit šířit podporovat existence nebezpečí přiznávat probí hala olomoucký diecéze jiný podpisový akce apelující delegace svatý
+version https://git-lfs.github.com/spec/v1
+oid sha256:93561fe537e150569c0abcb6fb583eeee699c1db10f2ba354c5299e67c14d08c
+size 261

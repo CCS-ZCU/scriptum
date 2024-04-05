@@ -1,1 +1,3 @@
-bezpečí nový republika dálka pln nadšení leninský fanatický násilí rys fanatismus dovést představit ruský revoluce
+version https://git-lfs.github.com/spec/v1
+oid sha256:723c4f87656b556afbbc98722b9066277686fc35a19262ad8df54d346dad4609
+size 128

@@ -1,1 +1,3 @@
-Malenkov uvědomit možnost úzcmiie zisk přímý zásah rudý ^máda zničení pocit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c60a339ae2ea224ba0d3aa611fbfd3b2bdf5eb62563e2924d93b737e905cd44
+size 99

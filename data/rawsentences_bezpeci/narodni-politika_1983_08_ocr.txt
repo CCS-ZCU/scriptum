@@ -1,1 +1,3 @@
- kdo válku přežili v přepychu a v bezpečí v Londýně a v Moskvě, odsuzovat a soudit obyvatele protektorátu, bezmocné oběti vysoké politiky? Bylo iluzi se domnívat, že zahraniční a národnostní politika čsl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:026b0770ce50792c125175dc5a508a322ceb464532baed0f50011e341ad99781
+size 225

@@ -1,1 +1,3 @@
-Afganistan potřebovat mír klid bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:830ce12e686d9b980395fbf19f4a256ea9ddf8f12137a10a617bc1e7263ccd57
+size 45

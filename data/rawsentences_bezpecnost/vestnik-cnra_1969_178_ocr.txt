@@ -1,1 +1,3 @@
-: 656-1117 Senátor rovněž upozornil na studii nazvanou “Povaha duchovní svobody a názorových rozporů v Československu” (“Aspects of Intellectual Freedom and Dissent in Czecho- slovakia”), jež byla připravena pro senátní podvýbor pro vnitřní bezpečnost, vydána 30.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b821c7c1992049604464d4a02f532e0ef6f0efca7865262ae6d384f4d1358e16
+size 289

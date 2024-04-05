@@ -1,2 +1,3 @@
-provést státní bezpečnost domovní prohlídka
-vzpomínkový akt sledovat státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e74124a8d0a1fcf49da4e71e5521566c77d498172222135dd18dbb007755900
+size 98

@@ -1,1 +1,3 @@
-Nato noc odvézt dívka město Herat příš tího den postarat starý kamarád doprovodit bezpečí hranice dohlédnout pořádek dostat přechod Irán
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b97b0738baa54f331b8e9583440cefd9d7497598c1c26036bcb9c97f65e19ad
+size 150

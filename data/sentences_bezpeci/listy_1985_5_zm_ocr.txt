@@ -1,1 +1,3 @@
-sedět mrholení sklo auto zvyšovat pocit kromí bezpečí pohoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:b229027c7aa9fe4b5330997bce274299a2b584927bb93c45fd702d2002436fee
+size 70

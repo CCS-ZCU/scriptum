@@ -1,2 +1,3 @@
- Kolemjdoucí hlídka stráže bezpečnosti, která hodlala zakročit, byla davem informována, že se nic neděje, že ten pán co ho tluče vůbec není blázen, ale že mu asi ujela tramvaj.
- Stráž bezpečnosti se přesto měla k zákroku, s čímž právě náš zlosyn počítal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a60fb426e971406113364acc579ddb6ccefd8b09ebb809a1bcc48437c2ce5c
+size 287

@@ -1,14 +1,3 @@
- To ale nevylučuje, že zde jsou a budou tlaky revanšistů v bezpečnosti i stranickém apa- rátě, kteří již dnes poukazují, že se trestají "učedníci" a ne "mistři".
- Ti s nimiž by se chtěla dohodnout o evropské bezpečnosti, jí stále připomínají — a nyní v souvislosti s politickými procesy v Československu znovu velmi naléhavě — že evropskou bezpečnost nelze zajistit paktem vlád, které se zavážou, že se nebudou vzájemně napadat.
- Evropská bezpečnost může být založena pouze na vzájemném porozumění, otevřené diskuzi, výměně názorů, idejí a zkušeností, vzájem- né důvěře a otevřených mezinárodních vztazích.
- Potřeby evropské bezpečnosti a potřeby socialismu, tak hrubě ignorované v dnešním Československu, se v evropském kontextu stále více sbližují.
- Rovněž přísněji má být posuzován nedovolený "pobyt v cizině" a nejduležitější "vylepšení" "je návrh, aby bezpečnost mohla bez svolení pro- kurátora kdykoliv podle vlastního uvážení provést prohlídku jakéhokoliv bytu.
- Myslíme si zároveň, že bezpečnost a spolupráce v Evropě nemůže být natrvalo zajištěna, pokud je některým národům upíráno právo rozhodovat samostatně o svém osudu.
- Bezpečnost jedněch nemůže být vykoupena ne- svobodou druhých.
- Skupina poslanců levice italské křes- tansko-demokratické strany Vittorino Co- lomho, Foschi, Fontaua, Morini a další před- ložili v italském parlamentě interpelaci s dotazem, "co hodlá podniknout italska vláda, aby tlumočila rozhořčení italské veřejnosti nad politickými procesy v Československu a aby upozornila, že pokračování v represi by posilovalo jen reakční síly, které jsou proti zmírnění napětí a proti evropské kon- ferenci o bezpečnosti".
- napsal: " J e pravděpodobné, že i Moskva vydala nějaké tiché pokyny k potlačení opo- ziční čímíosti v zemích celého bloku, a to  s ohledem na sílící přípravy k jednáním o evropské konferenci o bezpečnosti a spolu- práci.
- V úvodníku z pera svého šéfre- daktora připomíná v souvislosti s chystanou konferencí o evropské bezpečnosti, že by bylo skutečnou hloupostí představit si spolupráci s Československem p a n a Husáka, jež uvrhlo do gheta t y uejlepší, které tato země měla pro sebe i pro Evropu.
- Jejich pokusy použít jich k dal- šímu oddalování a sabotování konference o evropské bezpečnosti i rozvoje přátelských vztahu mezi Československem a Velkou Bri- tánií je třeba rozhodně odmítnout a zmařit.
- Kxistoval jen jako přání, proti němuž stála všechna tabu, veškerá váli a hmotných výhod a v neposlední řadě i všudypřítomná státní bezpečnost.
--I jak potom se svými poznámkami a s výtisky 12 ni ta nebo í l uma ni té, kde se o těchto záměrech mluv i se musí schovávat před celníky a pra- covníky italské nebo francouzské bezpečnosti, kteří mu prohledávají kapsy a jak se snaží na toiletě spláchnout své poznámky, aby před- stavitele o p o z i ce neuvedl do 11 e b e z pe Či! Dovedete si představit absurdnější divad- lo? Cožpak nás rozhlas a Rudé právo pova- žují opravdu za tak naivní a hloupé? Copak neví, že téměř denně' posloucháme jejich kores- pondenty z Paříže nebo Londýna, kteří nám líčí, jak opozice kritizuje vládu a chce ji svrhnout? Pravdu měla ta relace jen v jednom.
- Mamuly, známého vedoucího oddělení bezpečnosti a armády při UV KSČ do r.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c201e7b54d638c9008f24f8a02af1d7e6afbb067f0e18dcf278c4e1f766800
+size 3546

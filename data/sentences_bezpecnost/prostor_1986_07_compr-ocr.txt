@@ -1,5 +1,3 @@
-vstupující týden opatrnost šoustání chápat jít bezpečnost práce případ Jan
-Balabán
-Balabán prdele lého úřad bezpečnost
-Klus připomínat zajímavý dokument nést dávný návštěva úřad bezpečnost
-posluchač uklidnit stát důstojník navázat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77babd99755b609190e451e3aaf818a8d336f34de44c3da5a7f6057f6ef7245
+size 485

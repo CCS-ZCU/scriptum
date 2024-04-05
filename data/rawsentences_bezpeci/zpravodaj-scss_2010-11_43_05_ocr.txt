@@ -1,1 +1,3 @@
-“ Svobodu očima malého dítěte vystihla docela přesně, nemyslíte? Představuje osvobození se, pomoc, volný pohyb, domov, jistotu a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d22a3dc4fe9ddaafb2676fdbbc9246fa6f68012180261f12c795b0d33722e44d
+size 79

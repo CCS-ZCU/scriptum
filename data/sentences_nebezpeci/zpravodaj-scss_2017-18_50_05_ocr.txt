@@ -1,1 +1,3 @@
-duben odstartovat šokující video upozorňující nebezpečí silnice
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f5a62272a1b07d3dc709d0c60ec8714683da6f2b9920462ded999d2a6836bf
+size 72

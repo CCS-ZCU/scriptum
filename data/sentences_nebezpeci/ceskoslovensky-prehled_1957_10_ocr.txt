@@ -1,6 +1,3 @@
-poplach Sovět vyvolat západ technologický úspěch nést nebezpečí zkreslý podstata problém
-věřit věc dát uskutečnit nebezpečí výbuch obsažený politika zatlačování osvobození
-sovětský vojenský missa partyzánský hlavní štáb přiletět parádní uniforma zásoba kaviár vodka naříkat nedostatek pohodlí hora Brit získat plný sympatie Tito kolega reptání sdílet nebezpečí utrpení partyzánský ústup konečný pochod
-moci zažehnat nebezpečí
-nebezpečí vzniknout domácí politický nepříjemnost
-krok nebezpečí situace možný vyřídit statečnost Polák muset podávat důkaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a0a34750e891ad4dc9cd1aa8f8d0e42b0d47dfb53f3fecc0b947e6d2d974ce4
+size 624

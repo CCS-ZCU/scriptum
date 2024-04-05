@@ -1,5 +1,3 @@
-patřit důvěra láska touha prožívání bezpečí suchost temnota nejistota nepokoj
-nechávat odpovídat odpovídání přinášet pře dlouhý psychický uspokojení pocit začleněnost srozumitelný řávý pocit bezpečí suverenita
-bůh lidský vědomí bezbranný antropomorfizovat cím tendence vnucující přírodní matérie sféra subjektivní evidence podléhat logika přání leh čít konsenzus spjatý citový bezpečí
-věření stavění zajištěný pozice dování jistota hradba věřící ukrýt bezpečí izolace
-Iřesto Kierkegaard moci Theodor Haeckere poskytnout bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7ce4802965ad778e3d01e4e781bf9453863ac1f3a4f991fb94b82e99901efd3
+size 576

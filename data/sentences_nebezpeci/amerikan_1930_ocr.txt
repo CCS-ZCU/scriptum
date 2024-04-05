@@ -1,8 +1,3 @@
-
-vyrovnat hrozit nebezpečí skandál učinit společnost možný
-počít sehnat podobný kniha hledět nebezpečí Kalaška zpěvník předávat moci přijít přesvědčit dar muž vážit
-žena lékařka advokátka bankéřka stát telka vzduchoplavkyně kynout sláva muž těchtý povolání nebezpečí pokušení
-čtenář domyslit následovat žraloc loď přístav hawaiiský kluk nebezpečí potvora spolknout zranit
-Ukousn pomyslit nebezpečí dostat apendicajtis muset nechat lejčař rozpárat
-nebezpečí žralok okamžik náhlý pád cizí těleso vystrašit vrhat hlubina
-nebezpečí běloch mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3e6bd075889ee295336049877fe87fe9f744c916b6011e27f7f56e335d34830
+size 612

@@ -1,2 +1,3 @@
-hledisko katolický skrývat klerikalis mus jistý nebezpečí
-nový spoluobčan přesvědčit velký nebezpečí zlo komunismus nadávka nauka klidný argument
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca2023dcf6fcffa4c376bd5e70990ae4e17624dffdd56b423231343abae979a
+size 160

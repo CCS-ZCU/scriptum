@@ -1,11 +1,3 @@
- Prokurátor kromě jiného o Sabatoví prohlásil, že je zločinec, protože ohrozil bezpečnost všech československých občanů, a v souvislostí s prvním rozsud- Redaktor Jožka Pejskar se rozloučil s Mnichovem OD BŘEZNA BUDOU MANŽELÉ PEJSKAROVI „NA ODPOČINKU“ V KALIFORNII Ve středu 31.
- O Sovětský svaz vetoval v Radě bezpečnosti OSN návrh rcsoluce, odsuzující Vietnam za vpád do Kambodže.
- Stalo se tak po informacích, které předal po útěku na Západ nadporučík východoněmeckého ministerstva pro státní bezpečnost.
- Klimeš: „Ke krátkým výslechům u Státní bezpečnosti byli předvoláni také reakční národně, socialističtí poslanci O.
-krátkým výslechům u Státní bezpečnosti-.
- Senátor Dole, který byl kandinátem na vicepresidenta v posledních presidentských volbách prokázal svoje nekompromisní stanovisko ve věci prosazování lidských práv svým projevem na bělehradské konferenci o evropské bezpečnosti a spolupráci, kde byl Členem americké delegace.
- V úvodu autor konstatuje, že před 30 lety bylo nemysltclné uveřejnit něco o britských vojenských centrech, označovaných M15 a Ml 6, které měly na starosti bezpečnost a zpravodajství, dnes však je už mnoho z těchto původně tajných věci zveřejněno, ačkoli Foot pochybuje, že bude kdy možno předložit veřejnosti všechno.
- „Co tě chytá?“ „No“, drmolí rozvědčík Minařik, „já to napsal v testu na šarži štábního kapitána Bezpečnosti!“ * VÍTE, jak se zachraňuje komunista před utopením? Ne? To je fajn! co je paradox? Když za pochodu „Padlých revolucionářů“ na vrchu Zižkově v Praze prohlásí host Brežněv, že Gottwald byl „střízlivý“ politik.
- Orgán Veřejné bezpečnosti Krachna byl odměněn za zatčení pěti reakcionářů mimořádnou dovolenou a aby jí mohl plně využít, dostal přidány vodní lyže.
- Oldřich Hromádka, zaměstnanec pražského stavebního závodu dostal oznámení, že je propuštěn protože svým podpisem Charty prý ohrozil zájmy dělnické třídy a bezpečnost státu.
-Helsinského tribunálu“, který by se po prvé sešel v roce 1980 v Madridě, současně s zasedáním druhé Konference pro bezpečnost a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:299370bd9d7a42d792a805f4ec70b3b131d7e74017289bb8f34e10b4d4f21315
+size 2291

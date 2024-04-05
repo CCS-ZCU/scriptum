@@ -1,1 +1,3 @@
- Pamätam sa, keď Milanovi Žitnému vyšiel^ článok v časopise Echo s titulkom tuším Lavicovým pučom za samostatnost, Žitný upozorňoval na to, že na Slovensku hrozí zvrat k lavicovej vláde, že na čele týchto snáh stojí vtehdajší premiér Vladimír Mečiar; upozorňoval na úzke spojenie Mečiara s agentmi a dôstojníkmi Štátnej bezpečnosti, pri tejto príležitosti spomenul pánov Svěchotu a Cibulu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d373045a544f823affd9c014e56304aec2d4cd76f1d53bb89879063a58f9aff5
+size 430

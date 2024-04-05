@@ -1,2 +1,3 @@
-hrát nebezpečí sejít cesta
-moci dítě najít hostnoucí tma matka cesta dům
+version https://git-lfs.github.com/spec/v1
+oid sha256:abe55d09f4b8b7c762841ba7be715a23f4b5810620ab5965b98650c420bfdba4
+size 82

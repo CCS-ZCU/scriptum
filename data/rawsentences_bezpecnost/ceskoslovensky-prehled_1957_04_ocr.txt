@@ -1,1 +1,3 @@
- Není osobní bezpečnosti — pokud osobní bezpečností rozumíme i to, že si člověk chce pěstovat svou vlastní životní zahrádku, aniž by mu volové neustále bořili plot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e502b537a1f7c0c70ba90423fcbd67e86c7bdf14e9983d05c953113bc266a1b2
+size 186

@@ -1,1 +1,3 @@
- Spartakiada , Zatím co Amerika bojuje o mezinárodní bezpečnost diplomatických úřadů, zatím co Amerika i celá řada demokratických států se staví za dodržování lidských práv podle helsinské dohody, ve věstníku sokolské jednoty na východě států najdeme celostránkovou propagandu na společný zájezd na Spartakiadu sponsorovanou dvěma sokolskými jednotami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e05d93806092cdafc40a927588a678df32d37b8727720c73456fb6b3d89aa368
+size 387

@@ -1,1 +1,3 @@
-usilovat stupnice hodnota metoda žít nebezpečí hodnota svoboda spravedlnost zatlačený vidina chiliasmus katastrofa realistický protiléka
+version https://git-lfs.github.com/spec/v1
+oid sha256:5efa9ad4739669f7ba74af136c134177ce370c03ffdb595553919a7e831777e8
+size 145

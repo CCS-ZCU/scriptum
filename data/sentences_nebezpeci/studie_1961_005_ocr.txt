@@ -1,2 +1,3 @@
-tvořit nový doba nový svět mnohotvárný rys žít přelom bolest nebezpečí hnutí charakterisovat vývojový krise nový hodnota vytlačovat dosavadní útvo nesčetný možnost rozvoj směr dobrý špatný
-trvat století filosofie věda osvobodit monistický nebezpečí matematika uznat právo nema tematický věda metoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:e534c14aada6c18a7a7e7ae2281ea8e5279839483281ee6edd0d24405746ff42
+size 329

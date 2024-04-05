@@ -1,1 +1,3 @@
-ť»lainaká konfc cnce o bezpečnosti .
+version https://git-lfs.github.com/spec/v1
+oid sha256:98bdc8ff86b0bda72081f5eb6f947757a1f733be3168d900445b533edb208da6
+size 41

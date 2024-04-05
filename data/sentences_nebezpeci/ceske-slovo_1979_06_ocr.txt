@@ -1,1 +1,3 @@
-Alice Masaryková hrozit nebezpečí smrt vazba ulehčený
+version https://git-lfs.github.com/spec/v1
+oid sha256:4effe2a0dc82f6370961a36ca381657e837756a5b07995bfd7d7a6f8753de533
+size 59

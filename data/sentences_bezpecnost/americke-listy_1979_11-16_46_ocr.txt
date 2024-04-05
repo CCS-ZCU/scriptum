@@ -1,5 +1,3 @@
-doklad objemný studie kon gresní komise bezpečnost spolupráce Evropa
-Fascell Florida spolupředseda Clairbor Pell zahajovací projev pravit třídenní výslech komise zahajovat plnění helsinský závěrečný akt souhrnný zpráva vydaný konec rok představovat přesvědčení nebývalý mezník práce komise bezpečnost spolupráce Evropa
-rozdíl USA CSSR existovat komise bezpečnost spolupráce Evropa politický tribunál označený soud cíl umlčet hlas volající dodržování československý
-úkol americký komise bezpečnost spolupráce Evropa mluvit svět mlčený bojovník lidský právo Československo
-odborník shromáždění štýrský Hradec konstatovat automobilista výrobce auto žádat odborník jkatit doba splnit konstrukce požadavek snížit spotřeba benzín automobilový motor
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78770f6ac09f38afee59061768cfb1a5cb03327105ea8f1e9762f5047685a53
+size 823

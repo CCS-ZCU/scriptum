@@ -1,1 +1,3 @@
-Anděl Strážný provázet cesta pohádkový bezpečí spánek
+version https://git-lfs.github.com/spec/v1
+oid sha256:36bd623188a72da098b5d2ca0dc818df73b6f054cc9d478327d4a2c14ccda11c
+size 64

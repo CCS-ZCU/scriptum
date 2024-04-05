@@ -1,2 +1,3 @@
-president spojený stát hrozit nebezpečí národ rozcházet názor otroctví rozpadnout
-tragický chvíle nastat poznat znamenat slovo agrese potkání ptát druhý možný
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbdb7b617dbe425bcb7bd8fe4f3d98367b55a2188e29d9c083acefb90e37593b
+size 175

@@ -1,1 +1,3 @@
- Vybrali jsme si za místo společného protestu katolický chrám, protože v Polsku se mohou lidé různých názorů vystupující na obranu nezadatelných lidských práv sejít v bezpečí pouze pod ochranou Církve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ab754da79c473b002896bd312d0ade6191cb2702426a158e1cb5cd29cb95f0
+size 222

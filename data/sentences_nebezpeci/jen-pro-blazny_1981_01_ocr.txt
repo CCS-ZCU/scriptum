@@ -1,2 +1,3 @@
-sienen uvědomovat život nebezpečí kazda muset zachránit sam čekat cncípna ^volat
-nebezpečí lidstvo udělat živý systém udělat zadusit
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a0c50c4105f2503fa6379d0c1beaeafc7114417aefb323a1c4a222654f113e
+size 147

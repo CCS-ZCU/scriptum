@@ -1,1 +1,3 @@
-povolení zřízení sovětský konsulát západní Berlín spatřovat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b9ea291cb6ddf2dc35ff27ad4c0ff7c73fc3ce8cb1b15351977737bd6dcb31e
+size 83

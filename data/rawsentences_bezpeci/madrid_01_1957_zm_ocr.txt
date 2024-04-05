@@ -1,1 +1,3 @@
- Jsem si vědom odpovědnosti a vím, kolik obětí stály pod- niky, kdysi vyvolané těmi , kdo sami byli v bezpečí a ne- dovedli zajistit podpory v kritickém okamžiku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e754e9853036f350a7a4c3faf3bff10c85d04cf6fc3e470d1e02d2ec699b989
+size 171

@@ -1,4 +1,3 @@
-koncil číst prohlášení náboženský svoboda existovat režim ústava uznávat svoboda náboženský kult veřejný moc pokoušet odvádět občan vyznávání víra působit náboženský společnost velký těžkost vystavovat nebezpečí živý oto
-lidstvo potřebovat obraz nebezpečí odložit čekání věnovat činnost zbytný moci naplnit prázdnota ohrožovat člověk naleznout absolutní láska dávat smysl spása potřebný život
-dostat trůn začínat slovo živý zdravý vidět
-poselství západ pronikat dílo disident komunista ovládaný země mocný vznikat svobodný západ hodnota svoboda nedoceněný samozřejmý kultura vystavovat nebezpečí vyumělkovaný povrchnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a736abbd2caf4355f1e6cbec2c6160952e7326595b85d7fd4e6f34e9cea9da1
+size 701

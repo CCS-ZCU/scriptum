@@ -1,1 +1,3 @@
-Molnár příslušník ukázat příslušník sovětský výbor státní bezpečnost oblečený civil představit řeka loto soudruh jet sovětský orgán KSČ vzít ochrana soudruh Dubček Smrkovský Kriegl Pavel přivéztit SNB Praha bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:127077aeb3039259433b986aa3d7cc7150ec96285c10d7bf4c27685529883c5a
+size 246

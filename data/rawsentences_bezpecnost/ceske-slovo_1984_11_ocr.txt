@@ -1,5 +1,3 @@
- Rudolf Slánský patřil k předním strůjcům převratu z února 1948 a ve stranickém vedení mu krom jiného podléhala bezpečnost.
- Karel Šváb byl před zatčením náměstkem ministra národní bezpečnosti.
- Nepopiratelně významný je prvek antisemitismu, ale ani to neplatí univerzálně: jak by se pak vysvětlila kariéra tehdejšího ministra spravedlnosti Štefana Raise? Dlouho bylo prosazováno alibistické tvrzení, že začátkem padesátých let se „bezpečnost postavila nad stranu“ a v tom že byl kořen všeho zla.
- Komunistická strana se už od roku 1945 stavěla nad bezpečnost, nad soudy, nad celý právní řád.
- 1945 žili, vzpomínají ještě dnes na komunistické zastrašovací metody a uvědomují si, že bylo zapotřebí odvahy k tehdejšímu Horovu výroku: „Máme nebezpečnou bezpečnost“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6bfe215ab41bdc5754a6a9c828ab1419798326f97d6f868ee156fbc80dc08b3
+size 846

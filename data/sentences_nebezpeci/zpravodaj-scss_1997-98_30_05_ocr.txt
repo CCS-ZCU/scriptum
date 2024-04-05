@@ -1,2 +1,3 @@
-Wirz NZZ Folio pozor klíšdě
-zjištěný malý dávka alkohol měsíc deci víno odpovídající množství pivo tvrdý alkohol snižovat nebezpečí mozkový mrtvice
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0cb71b0c691c09b6abc37e477fb51722733006273cf009c926621dac5fd959d
+size 169

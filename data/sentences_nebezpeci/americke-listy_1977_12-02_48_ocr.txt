@@ -1,1 +1,3 @@
-historický dialektika moci názor reprodukovat smět naslouchat smět přiznat relativní platnost chtít vystavit nebezpečí otřást vlastní jistota
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ed34cbbf7bc4ead8411a060028c18ba09d30834c8361b4930dcab03fb90b060
+size 154

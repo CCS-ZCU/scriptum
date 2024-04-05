@@ -1,3 +1,3 @@
- Ve výroční den Palachová sebeobětování a o následujícím víkendu měla Veřejná bezpečnost plnou pohotovost.
- V davu kolem hrobu bylo lze vždy rozeznat členy Veřejné bezpečnosti, i když byli v civilu.
- Alžběta Hrčárová, která zařídila jejich zadržení a předání Veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6d4b2982053373af4c4f0b001809ef978f3caa556f61738c1b7a95feda2f10
+size 317

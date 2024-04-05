@@ -1,1 +1,3 @@
-Rázným jednáním podařilo se mu posílit pocit bezpečnosti západoevropských států.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8980cd57ba8480a5a169f44bc9f59a6abad2db9ec04014223dab67ce69d46b0b
+size 92

@@ -1,2 +1,3 @@
-ionce skupinka <cterd hovořit páteční poeta včerejší moci přispět náboženský život otlivout společenství ssba shledat set náhlý konjuktura tešit pamatovat taka nebezpečí přinášet čloraa lákat způsob poměřit oddanost bůh ujistit svůj víra
-pást součást nábožsnsiý kult
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ca5cf2b257f0d67d3ce4fb878d6c3baafe3ae32b5c2d4c8f665a71aa05d1ef
+size 304

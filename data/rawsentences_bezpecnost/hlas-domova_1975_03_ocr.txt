@@ -1,3 +1,3 @@
- Zakročili členové Veřejné bezpečnosti.
- Lenina ve hře Akt uznání v činohře Slovenského národního divadla, ceny za divadelní tvorbu získali: Jo- zef Budský za úpravu a režii dramatizace Tolsté- ho románu Vojna a mír v Třicet let po Jaltě - 3 - Edmund Řehák, Paříž Od počátku loňského roku naléhá Brežněv na rychlé ukončení vyjednávání v Ženevě o evropské bezpečnosti a spolupráci a slavnostní vyhlášení dohody v hlavním městě Finska.
- Mnozí účastníci ženevského vyjednávání předpokládají, že by konference o evropské bezpečnosti a spolupráci mohla být slavnostně zakončena do třiceti týdnů v Helsinkách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ca045646dcedc4ac7886c353c1f38fae3cd127e48661f3bcf14cb90d7e1fc9a
+size 682

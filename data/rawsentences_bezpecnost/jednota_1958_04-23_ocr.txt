@@ -1,1 +1,3 @@
- Za tento falošný potit bezpečnosti možno dopla- í teraz celoživotným ochro- nenim! Ak ste sa doteraz nedali taštepiť proti detskej paralý- » (polio), aj vy vydávate tvoj život nebezpečenstvu, íakt, že milióny ľudí sa dali aštepiť.
+version https://git-lfs.github.com/spec/v1
+oid sha256:368329c4a257af350274a64685910ebc0df431f5036b1a2957b9444bdf1bc9ad
+size 253

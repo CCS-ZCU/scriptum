@@ -1,1 +1,3 @@
-souviset lidský psychika převaža jící potřeba bud svoboda bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:35da6238165b012d2a644af7dcc2f9ccf397d05d6a9eb03bc450f905ea0aebf3
+size 73

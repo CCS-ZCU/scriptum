@@ -1,1 +1,3 @@
- Státní bezpečnost nahlíží do pošty odeslané všemi osobami, o něž má zájem, podle jmenných seznamů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3a3a8d1786d9aa8c060b5f113c8ee6203e0fefeae7f2fafb43034c40579bde
+size 115

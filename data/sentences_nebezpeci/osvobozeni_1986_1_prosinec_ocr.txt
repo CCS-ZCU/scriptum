@@ -1,2 +1,3 @@
-nevýhoda doručení zabrat čas nebezpečí cesta zásilka vztratit
-obrátit ^matkový úřad mésto Příž podařit ukrýt řada socha bust pomník vypuknutí válka hrozit nebezpečí zkušenost rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ccb64e039cf79f247720373d71325187b5fb872eb830c00b2f10c5b650fd38e
+size 203

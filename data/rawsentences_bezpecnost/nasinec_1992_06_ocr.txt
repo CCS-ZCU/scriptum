@@ -1,2 +1,3 @@
- ČERNÁ LISTINA HOLEK Na tu se dostávají uspávačky, zlodějky a také šlapky vyhozené ze salónů za prohřešky proti "bezpečnosti práce" - například si od zákazníka nechají zaplatit extra za to, že s nimi obcují bez předepsaného prezervativu a pod.
- ANC žádá o zásah Radu bezpečnosti, povolává do země vojska OSN, žádá obnovení sportovního moratória proti jihoafrickým sportovcům, účast jejich v Barceloně je na vážkách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3639c74fafed1f8f743b5fc61cdc3f4761880b413efa3cf21a6f2ff690dae68e
+size 463

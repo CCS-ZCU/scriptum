@@ -1,2 +1,3 @@
- kopání do ledvin, na které se specializuje Státní bezpečnost z Hradce Králové a z Ústí nad Labem, bylo už v Trestním řádu Karla V.
- Naději na postup do semifinále má i anglický Tottenham Hot- spur, který vyhrál nad německou Eintracht Frankfurt 2:0, dále pak Standart Lutych /porazil portugalské Porto rovněž 2:0/, stejně jako Dynamo Tbilisi, které zvítězilo ve Varšavě nad domácí Legií 1:0, Na tisíc polských vojáků a policistů se v okolí "Varšavské Arény" staralo o bezpečnost sovětských fotbalistů v tomto prvém mezinárodním fotbalovém utkání po vyhlášení výjimečného stavu v Polsku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1705f7e70358213b86396b6aaa97d4c06a8f0f2a3246f5044563792a0ad6d741
+size 646

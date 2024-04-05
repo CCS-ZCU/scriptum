@@ -1,1 +1,3 @@
- Žádáme pro něj neutralitu československého státu, která je po jeho okupaci ze Západu (1939) i z Východu (1968) jediným zajištěním jeho bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e781348e42c5af588a13269c11427541328c69b5d6c7cfcd07943ddb41044e2
+size 164

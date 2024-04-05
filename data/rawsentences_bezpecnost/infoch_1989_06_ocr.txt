@@ -1,4 +1,3 @@
-1989 provedla Státní bezpečnost nejméně jedenáct domovních prohlídek* Deset z nich bylo provedeno v rámci trestního stíhání, které zahájil vyšetřovatel StB v Brně ve věci tr.
- Zcela zbytečný zásah Bezpečnosti proti těm, kdo chtěli v tichosti a jakékoli publicity květiny k sose položit, vytvořil okamžitě ze zcela nahodilých L^bodcu protestující d-av.
- Vzpomínkový akt sledovala Státní, bezpečnost.
- Hrob TGM byl cnoho dne poaorováu příslušníky Státní bezpečnosti < Jíž 16* října 1988 zaslalo svůj pozdrav Chartě 77 Vermontské republikánské sdružení a vyjadřuje jí morální podporu v boji za demokracii a lidská práva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fbed9bb4fb7f3316d580dfb8193ca43b8587e387f1ec700a7ab85c15af769a0
+size 682

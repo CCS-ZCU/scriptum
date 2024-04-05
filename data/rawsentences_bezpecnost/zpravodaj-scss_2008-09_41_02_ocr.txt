@@ -1,3 +1,3 @@
- 1948, den před Vítězným únorem opakoval, že „nejdůležitější záruka bezpečnosti a nejpevnější jistota spočívá v úzké spolupráci se SSSR.
- Samozřejmě že tu padají na váhu takové faktory, jakými je celková stabilita státních i soukromých politických, finančních i výrobních institucí; je vážena zároveň úroveň vlastnických práv (a efektivnost jejich případného vymáhání soudem), úroveň celkové technické infrastruktury (včetně možnosti urychleně získat kvalitní lidi třeba pro práci s počítači), ale i celkový stav veřejné bezpečnosti (zmapováním organizovaného zločinu a jeho případného propojení na státní aparát).
- Čtou se jako dobrá detektivka, ale pozor, nevyskytuje se v nich žádný Sherlock Holmes, kterému neuniknou sebemenší fakta, ale důstojníci StB, kteří fakta záměrně upravují; není tu „křivopřísežný papoušek“, ale lidé, kteří se tvářili jako přátelé a ze kterých se po otevření seznamů tajné policie vyklubali konfidenti státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e3a178f4c4da70cd191aa33a7e7822b7a8fb556f67a7f499022ed671fd251e5
+size 1081

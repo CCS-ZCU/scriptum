@@ -1,5 +1,3 @@
- Útvar Státní bezpečnosti pro církevní záležitosti obdržel pokyn nadřízených orgánů ke sledování a získávání materiálů o představených mužských řádů.
- Za několik dní obdrželo vedení Státní bezpečnosti úkol vybrat ze zatčených představitelů řádů deset a urychleně je připravit k soudu.
- V ruzyňské věznici pracovaly dvě zvláště vytvořené skupiny vyšetřovatelů, které instruoval v duchu usnesení předsednictva ÚV a z pokynu ministra vnitra velitel Státní bezpečnosti Osvald Závodský.
- Šlo o první velký vykonstruovaný politický proces v Československu, který se od pozdějších odlišoval tím, že mnozí obžalovaní měnili a odvolávali svoje výpovědi, dříve vynucené bezpečností.
- poradce prezidenta USA Cartera pro otázky národní bezpečnosti; delegaci Severoamerického židovského výboru — energicky odsoudil všechny projevy antisemitismu a diskriminace a vyslovil naději, že jednou bude možné pokojné soužití všech, kdo se považují za syny Abrahámovy: křesťanů, židů i mohamedánů; skupinu kanadských Indiánů z Fort Simpson a okolí, s nimiž se nemohl setkat pro nepřízeň počasí za své cesty do Kanady v září m.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cb199aae146c6a47a1121efc766118232b9006ce7c149693b2e5c5f307d9eb3
+size 1239

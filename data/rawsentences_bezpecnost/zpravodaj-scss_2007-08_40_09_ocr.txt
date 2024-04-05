@@ -1,1 +1,3 @@
- Je zrovna asi tak důležité, že paradoxně právě snímkování ze satelitů možná přispívá k větší bezpečnosti globa- lizujícího se světa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fad4b1b3b83efc0db6057624df0b193dde1ba1ae09a65ab897cc3c204908263
+size 157

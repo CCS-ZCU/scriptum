@@ -1,1 +1,3 @@
- MODLITBA Ó Bože skrytých účelů, Sílu a touhu dej, Víc svobodu než bezpečí, Nám nálovati přej! POSLEDNÍ HODINA Zdálo se mi, má milá, Slunce jasně svítí, Že nám zbylo oběma, Hodina jen k žití.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d7983b8411d9678f4242d994caf7b1a306c76a4aaa85242c8ca06a96add82a1
+size 218

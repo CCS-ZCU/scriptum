@@ -1,4 +1,3 @@
-jiný africký stát chápat prozíravý politický představitel komunistický nebezpečí
-osvobození rok plnit nesmírný odvaha bojový úkol uložený všecka nebezpečí pronásledování gestap
-ulice měsía rozkopaný krok číhat nebezpečí úraz chodec osvětlení město spatný
-dát cizina láska vlast
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2c8cc576736161ee239f96c92fb6de9740487814dbff6ab486a518ff12e9514
+size 316

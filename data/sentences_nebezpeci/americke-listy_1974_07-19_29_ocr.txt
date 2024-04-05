@@ -1,3 +1,3 @@
-velký nebezpečí inflace oslabit důvěra demokratický vláda instituce připravit půda náhlý násilný výkyv krajní pravice levice
-demokracie vliv masový instituce brovský nebezpečí jistý manipulace jiný smysl ikta existovat
-nebezpečí snižovat různorodost jednotlivý projev názor občan nutit přemýšlet vybírat
+version https://git-lfs.github.com/spec/v1
+oid sha256:803137f0182d43ff7512624f6e2b91c51e89f78255bac45663f30bf782d522f2
+size 341

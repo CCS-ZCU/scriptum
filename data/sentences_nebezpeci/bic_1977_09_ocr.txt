@@ -1,1 +1,3 @@
-Esenbák odvalit chodba hrozit nebezpečí pohled pan ministr moci blin kata
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e819cd7c17ae3162a95758633e17b44e34ac37d45f0d28869eb9c2db9901b14
+size 77

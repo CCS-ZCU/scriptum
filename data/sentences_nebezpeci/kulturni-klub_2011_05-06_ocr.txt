@@ -1,1 +1,3 @@
-hospodářský krize skončit svět hrozit další krize způsobený nedostatek energie ekologický krize nebezpečí nukleární katastrofa krize přelidnění takzvaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:871b364b9aba86c0d0dd38eb2b3d65f61f8fc46e6081e4848c7fa997f1eed8d0
+size 171

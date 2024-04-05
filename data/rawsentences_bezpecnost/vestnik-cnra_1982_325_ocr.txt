@@ -1,4 +1,3 @@
- vlády na tom, aby nadcházející obnovená schůzka účastníků Konference o Bezpečnosti a Spolupráci v Evropě v Madridu, probíhala v duchu konstruktivního dialogu a potvrdila pokračování procesu détente a aby skončila v nejkratší době přijetím obsažného a vyváženého závěrečného dokumentu.
- -afa- ČESKOSLOVENSKÉ NÁRODNÍ RADY AMERICKÉ Dopis Charty 77 československé vládé к pokračování jednání signatářů Helsinského Závěrečného Aktu Konference o Bezpečnosti a Spolupráci v Evropě Na své první schůzi, konané po celonárodních volbách, se představitelé Čs.
- Zejména podporujeme stanovisko, že Spojené státy se musí uvarovat toho, aby byly vlákány do smlouvy o omezení zbrojení, která by nás zmrazila do podřadné vojenské situace, jejíž dodržování se nedá ověřovat nebo která by jakýmkoliv způsobem ohrožovala naši bezpečnost.
- Zrušením legalizovaného odborového svazu Solidarita byly opět oddáleny naděje na vytvoření rozumných a všeobecně přijatelných sociálně politických podmínek nejen v Polsku samotném, ale i v celé Evropě, neboť tento čin neprospěl konstruktivnímu dialogu Konference o bezpečnosti a spolupráci v Evropě, obnovené v těchto dnech v Madridu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72df83ae82d556cc088e3b756f57e912d61dabc62607afcbdbb85512ad8b91a7
+size 1283

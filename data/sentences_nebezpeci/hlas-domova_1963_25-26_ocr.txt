@@ -1,2 +1,3 @@
-americký deštník blízkost indonéský nebezpečí hlavní důvod nový australský vztah mezinárodní politika posilovat argument lidé svaz československý spisovatel
-nový president pokračovat nebezpečí nabídnout ruský přátelství moci Amerika celý svobodný svět snést
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f99a3cb6a06b2059bd4a2b6280fed1a83c2a76572145ea3e1df1911177fd975
+size 288

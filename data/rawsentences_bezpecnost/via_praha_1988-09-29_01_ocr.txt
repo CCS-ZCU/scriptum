@@ -1,1 +1,3 @@
- Zvláště brutálně byl postžen 17-letý Jiří Stencl z Litovle, kterého příaluš- níci Státní bezpečnosti zavezli za Prahu, tam ho zbili a nechali bez ^pomoci ležet v noci tu silnicix /pd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b9e7161b08baffd635764b87359076e741b411b1d873b72c461b76d9a969d6
+size 203

@@ -1,12 +1,3 @@
-Leiner hrozit nový nebezpečí východ Jiří Málek činnost STB
-prokázat jiný chovat případ válečný nebezpečí
-vědět mluvit hrdina druhý světový válka život vystavit nebezpečí
-prosazení zákon páteř volební slib vědět případ zákon volba projít nový sněmovna representant desítka zvolený senátor představovat vážný nebezpečí nadvláda demokratický strana kongres zvětšit bezmocnost presidentův administrace nový presidentský volba rok
-úvaha stát nebezpečí nový strana růst úkor ODS Polygon moci vést rozdrobení oslabení pravice celek
-nebezpečí hrozit Československo strana Německo vyvolat vlastenecký uvědomění krajan sjednotit společný odpor násilný okupace
-Plíhal Mánesův Praha iiiiiiiiiiiiiiimiimiimiimiiiimimiiiiiimiiimiimiii Polygon
-ministr Léotard jediný použít další argument existence nový nebezpečí východ
-věcný rozbor situace Beran klasický způsob ukázat smrtelný nebezpečí nacházet bezbranný národ bezmocný vedení těžký chvíle vlastní život stát soudní tribunál nastavit zrcadlo nacista komunista
-snažit starý samizdat kniha zpřístupnit rozdíl moci vyrábět počítač kniha moci rozšiřovat vydávat nebezpečí stíhání
-Saturnin vědět potřebný zařídit nutný zdolat bázeň hana rodinný protivenství přírodní hrozba nebezpečí
-varovat podceňovat nebezpečí skrývat důslednost
+version https://git-lfs.github.com/spec/v1
+oid sha256:623b2e89933c8477b2d383954e6eb2f788b5e1e0208ca69f4d23acf94212c32a
+size 1417

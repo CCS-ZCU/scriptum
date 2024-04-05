@@ -1,2 +1,3 @@
-bezpečnost a blahobyt kteréhokoli národa spočívá v mezinárodní spolupráci a ne v isolaci, 3 .
- Vyřízený spis byl potem odeslán na hlavní velitelství Sboru národní bezpečnosti /šéf plk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:187a767d568a0f68d73177632abc4bf7d642014c2569f2baaae6a7ada7127dcf
+size 205

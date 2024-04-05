@@ -1,5 +1,3 @@
-Maďarsko bezpečí moci ocitnout muzeum komunismus
-stát starý bezpečí
-říci Thorulf dát sehnat domorodec houfa prostřednictví tlumočník nabídnout obchod život nový polygon bezpečí práce poslušnost rozhodovat muž vybírat berní zrna dobytek chránit hradisko celý okolí potměšilost soused chtít začít rodina pracovat zvyklý shromažďovat zásoba zpevňovat hrazení klučit nový pole
-Seveřan naučit rozumět jazyk místní lidé slýchat Thorulf ozbrojenec pyšný svárlivý čeládka muž rozmyslný dobrý náčelník dovést netoliko spřádat důmyslný plán rozdíl jiný vycházet
-sláva bezpečí Evropa kolébce náramný civilizace
+version https://git-lfs.github.com/spec/v1
+oid sha256:53b9fa51799be99146e8586addf3e01fbf7daa1ed8b37e9b616cce073f58c19a
+size 674

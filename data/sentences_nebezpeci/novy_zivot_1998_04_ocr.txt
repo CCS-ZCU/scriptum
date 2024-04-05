@@ -1,1 +1,3 @@
-výrok pohoršit posluchač nebezpečí lid odcizit udělat smířit přiblížit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e366154957a0c42f7af9bd9913dd553537e0c0e13773f4f888295a3de4e41dba
+size 82

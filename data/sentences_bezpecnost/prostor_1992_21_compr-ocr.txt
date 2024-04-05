@@ -1,1 +1,3 @@
-představitel vyspělý západ odmítnout problém vyrovnat oslabit schopnost bránit hodnota svoboda země bezpečnost svoboda celý svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ae1b5b950f6cc01947bf3fed77f09f73d1d350b28fa84d8fc85843aacb70e5f
+size 140

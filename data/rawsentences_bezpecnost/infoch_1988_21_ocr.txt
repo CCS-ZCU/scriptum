@@ -1,2 +1,3 @@
- Konference o bezpečnosti a spolupráci v Evropě ýe svém Závěrečném aktu z Helsinek v roce 1975 vyhlásila úctu k lidským právům a základním svobodám za jeden ze základních principů politiky míru, bezpeenbáti a spoluprábe* Odvolávala se především na všeobecnou deklaraci a zdůrazňovala závaznost páktů b lidských právech.
-1963^trvale bytem Ďobrovodská 82, 370 Q6 České Budějovice kde bydlí též jeho matka Jiřina ívarochóvá, je klavírista^ donedávna působil v sóuboru Lihha:$ingers^ odkud musel pro svá potíže se Státní bezpečností odejít, Topáš ívaroch je čtvrtý Člen H^S, na nějž byl? v posleání doba uvalena vazba, přinejmenším čtyři další člěnpvé NMS j sou s t í hán i na svobodě * Dne 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:282d7fd9d745b13491b268b9a432c3ed60a001a6014c5e0eecf1993a9571d489
+size 772

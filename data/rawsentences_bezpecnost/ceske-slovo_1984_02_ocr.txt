@@ -1,2 +1,3 @@
- A tak tedy cituje příslušný paragraf o žhářství, tenkrát jednom z nejtěžších trestních činů, a potom se zamýšlí, proč že byli dělníci obžalováni ne ze zločinu žhářství, ale jenom z „přestupku proti bezpečnosti majetku“.
- Po Václaváku utíká muž a křičí: „ Okradli mČ Američané! “ Zastaví ho orgány Veřejné bezpečnosti a ptají se, jak ví, že to byli A meričané, co mu říkali? „Říkali davaj děngi, davaj časy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86460d14f2f426b4d22c5a2bc3333536f8e96d22f86d9b55dafbe10376fb7701
+size 477

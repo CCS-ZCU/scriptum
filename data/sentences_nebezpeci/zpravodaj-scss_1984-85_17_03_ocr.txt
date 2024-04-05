@@ -1,4 +1,3 @@
-reálný nebezpečí začít snižovat průměrný věk občan
-otázka sestřelení letoun nařídit místní velitelství riskovat hlavní štáb nebezpečí válka moci vyvolat místní velitelství
-časový prostor nést určitý nebezpečí snaha komplexný ukázka mnohostranný tvorba omezený počet knižní strana část působit archaizující dojem
-nebezpečí zažehnaný uvědomovat muset probudit stačit jediný kousnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a029d02ccc24af69ba7a76ded894e5501510f56918a9ecaefa2ceeed55024d68
+size 437

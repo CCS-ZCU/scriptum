@@ -1,2 +1,3 @@
- Skepticky sme sa dívali na minuloročnú Deklaráciu v Helsinkách o spolupráci a bezpečnosti v Europe, medzi komunistami a Západom.
- Zástupci naší odbočky rozdali členům výboru Captive Nations seznamy členů “Komise pro bezpečnost a spolupráci v Evropě”, t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:414feaf5758582517071b998f7672d08296fcbf67b6d214894f3e20bd06f27d1
+size 279

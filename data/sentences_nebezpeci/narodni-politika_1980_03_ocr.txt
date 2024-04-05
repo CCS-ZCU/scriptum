@@ -1,8 +1,3 @@
-nastoupit mladý generace povyšovat přijímání osobní nebezpečí pronásledování věznění
-hodina podařit 221etý Terezia Medková dostat byt Petr Pospíchal nucený nebezpečí zadržení policejní výslech zůstat další den
-Stalinův poznámka vyjádřit známý nebezpečí případ nutný mobilizace obyvatelstvo povětšinou návidět
-německý odpor zesílit hrozit nebezpečí celý druhý útočný armáda odříznutý zázemí
-soudruh Švestka varovat podceňovat nebezpečí alkoholismus
-stát vystavený stejný nebezpečí
-nejenomže vědět obava západní mocnost možnost rozšíření komunismus vidět Hitler velký nebezpečí
-střídání funkce mluvčí charta počátek přijatý princip smysl sejmout jistý doba beder jednotlivec odpovědnost funkce souvisící nebezpečí zostřený policejní represe
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf4f150d8ebd27eb4767c70844c44ff9ab7bceac66cc36222979b0887c28ead
+size 841

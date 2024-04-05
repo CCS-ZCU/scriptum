@@ -1,2 +1,3 @@
-  Vatikán na vídeňské konferenci Na vídeňské následné scnůzce ©nference 0 bezpečnosti s spolupráci v Kvropá, jr mezi pp stýty zastoupen i Vatikán.
- V závěru svého projevu prohlásil arcibiskup Silvestrini, že otázky lidskýcn práv jsou neméně závazné, než problémy bezpečnosti a odzbrojení že by m ly být stejně pečlivě projednávány.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8db872cbddcf8d7fc747584f736254333cfcb31961c01f36aa26cdf37ad42d48
+size 371

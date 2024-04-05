@@ -1,1 +1,3 @@
- (mb) PLATÍ JEN V NĚMECKU KAŽDÝ HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dfb8ffbff581bdeb023ce5bee3f1555aaf6e5f79debd57366bf8e10d5b6c243
+size 64

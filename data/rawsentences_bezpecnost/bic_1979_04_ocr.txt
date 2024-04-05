@@ -1,3 +1,3 @@
- řekl úl i sně: "Strašně moc se už tečí těším, jak si s vámi na Státní bezpečnosti popovídám.
- Prý by rád rozmnožil řady Veřejné bezpečnosti.
- X ©stři hoši od bezpečnosti čas od času milují změnu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8289dff1ad54d6b8f18e72b9127a0b417c4f7eedbe4c6e9590206968b9082452
+size 229

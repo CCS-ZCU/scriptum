@@ -1,1 +1,3 @@
-podivný návštěvník policista příslušník SNB uniforma lidový milice samopal ruční granát tajný bezpečnost civil
+version https://git-lfs.github.com/spec/v1
+oid sha256:1573ff4ce55c136e517fb9e89238052394ea5cc8b17bd58a951cf91e275bed7d
+size 126

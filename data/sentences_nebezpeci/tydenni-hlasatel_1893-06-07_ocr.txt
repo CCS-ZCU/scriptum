@@ -1,1 +1,3 @@
-Petr Dragomirski přesvědčený tajemník vědět nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac97999a05252fce0419477f7ec46092b698746792b10a08973fc2544674bb8
+size 70

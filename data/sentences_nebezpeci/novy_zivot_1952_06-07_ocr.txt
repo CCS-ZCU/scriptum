@@ -1,2 +1,3 @@
-vojsko západní velmoc zůstat Německo armáda okupační obranný síla komunistický nebezpečí
-poznat výprava nádherný černošský typ zvyk africký zvířen kveten barva prožít nebezpečí trop
+version https://git-lfs.github.com/spec/v1
+oid sha256:7265df6d6a3ed019ad6dc7ca82b3265a48f1a10e01ea9a0b76e1e799008f74e4
+size 207

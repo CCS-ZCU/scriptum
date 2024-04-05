@@ -1,13 +1,3 @@
- O zásadách československé "vnitropolitické bezpečnosti" bylo zajisté lépe mluvit spíše v kondicionálu a futuru, nežli v čase oznamovacím.
- Tak například velvyslanec u československé vlády Philip Nichols dokazoval, že "Německo bude po válce bezmocné, že se o to Spojenci postarají a že tedy z důvodů bezpečnosti Československo žádnou smlouvu se Sověty nepotřebuje".
- Ostatně, což Beneš nemá sovětské uznání předmnichovských hranic? Nestačí to snad? Nichols zdůrazňoval, že klidná budoucnost Evropy spočívá přece nikoli na podkladě dvoustranných dohod, nýbrž v systému kolektivní bezpečnosti v rámci Spojených národů, jenž musí po válce vzniknout.
- Smlouva se Sověty bude však také naším zajištěním, poněvadž bude dlouho trvat, než se po válce podaří ustavit novou Společnost národů se systémem kolektivní bezpečnosti," dovozoval Beneš.
- Kompetentní činitelé - mezi nimi i orgány národní bezpečnosti - učinili tedy vše pro zdárné provedení akce.
-131/1936J svezeno maďarské obyvatelstvo, obviněné z ohrožování bezpečnosti státu.
-190/1939 spolupracovat při akci s orgány bezpečnosti.
- Použité zkratky: NB - národní bezpečnost, SNB - Sbor národní bezpečnosti, ONB - Okresní národní bezpečnost, OSK - Okresní správní komise, OK - Okresní komisař, SNR - Slovenská národní rada.
- Nepředpokládám, že by šlo výlučné o zavinění bývalých příslušníků Státní bezpečnosti, kterých je mezi publicisty větší procento, než mezi běžnou populací.
- Nikdo asi v obecné rovině nemůže uvažovat o tom, že by řešení otázky, jak se zachovat k bývalým spolupracovníkům Státní bezpečnosti, mčlo nějakou souvislost s národnostními problémy.
- Záruky naší bezpečnosti vidíme v existenci NATO a v procesu vytváření nových evropských bezpečnostních struktur.
- Jsme si ovšem vědomi toho, že žádný nový projekt kolektivní bezpečnosti v Evropě neskýtá zcela dostatečné záruky míru, protože se každý snaží spojit dva podstatně rozdílné partnery - svobodné a demokratické evropské společenství a komunistický Sovětský svaz.
- Stejně tak oceňujeme roli Spojených států amerických při zajišťování bezpečnosti mírumilovné a demokratické Evropy, roli, která byla prověřena jak v obou světových válkách, tak v celém poválečném vývoji až po dnešek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39900b2a8e7f8b95e9c4e72112c97baea4dbc22bb15fd96a8b81b9b527f7d3c8
+size 2460

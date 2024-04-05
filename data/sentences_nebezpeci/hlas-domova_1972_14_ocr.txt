@@ -1,2 +1,3 @@
-sledovaný zpráva venkov opožděný sklizní seno povodna nedostatek pracovník skrývat nebezpečí dobrovolný brigáda venkov velký zájem veřejnost podařit vzbudit
-vypadat ukázat fungovat dohoda Nixon uzavřít Moskva Peking nebezpečí světový válka vzdálený byl
+version https://git-lfs.github.com/spec/v1
+oid sha256:80db646640fe35007ada73355437f711fb568c475ce0c1ba32e4beb70f9aa1b4
+size 279

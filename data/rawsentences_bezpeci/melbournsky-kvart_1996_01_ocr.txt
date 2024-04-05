@@ -1,1 +1,3 @@
- Všimla jsem si, že v podstatě všem bez rozdílu chybí láska, pocit bezpečí, samostatnost a pocit, že jsou prospěšní lidské společnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e12e7ee83bd6f55af584811b460a92159dc81a1f241ebc126b8c13212c78e9e
+size 151

@@ -1,2 +1,3 @@
- — Konferenci, jak nastolit vzájemnou důvěru a bezpečnost a za odzbojení v Evropě — navazující na konference v Helsinki, Bělehradě a Madridě — je přítomna delegace Sv.
- Huo Pin Chang; vytýká se jim spolčování s cizími protičínskými živly za účelem ohrozit bezpečnost vlasti; prý tajně vysvětili kněze a biskupy, navazovali styky se Svatým stolcem a přijali peníze ze zahraničí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:861ef942e845b4c29ff3b6caf1e031ba6f5e41c3dfacefbe4b15584ceb1a3b8c
+size 419

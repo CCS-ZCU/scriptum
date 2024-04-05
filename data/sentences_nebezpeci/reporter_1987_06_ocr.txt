@@ -1,4 +1,3 @@
-obávat dojít atomový válka strana vědomý nebezpečí
-nebezpečí akutní léta
-druhý část název AIDS sovětizace charakterizovat plíživý snět vliv SSSR smrtelný nebezpečí národní kultura poukazaj historický kořen dobrovolný sovětizace
-třetí část název Pascalův sázka nastiřiovat národní perspektiva iluzivní ráz představa střední Evropa možnost návrat Evropa nebezpečí finlandizace západní Evropa omyl charta možnost exil
+version https://git-lfs.github.com/spec/v1
+oid sha256:36c98a0c044fc485877aaf28339fbf4b36327c7f39af87b87a58ae524278e236
+size 467

@@ -1,3 +1,3 @@
- TICHÝ HLAS RALPH WALDO EMERSON Ač lásku vzpírá se a protestuje, Hlas tichy tiše volá nu stokrát, Je zatracením žiti v bezpečnosti.
- Pronásledování gruzínské popskupiny “Fantom” Sovětská bezpečnost KGB v Gruzii vyvinula zvýšený tlak na jednu hudební skupinu Židů, kteří si podali žádost o vystěhování zě Sovětského svazu.
- Státní bezpečnosti bude slušet kratší a výstižnější — Gustapo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7770f5653c6aa1f7961ab8a76cd33030e36f3b88a6904067df9482780f6e53a0
+size 438

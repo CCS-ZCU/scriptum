@@ -1,1 +1,3 @@
-vlu 19% byl zatčen Státní Bezpečností a na základě fiktivních obvinění uvězněn ve Varšavském vězení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3813f71d85fe0bc5f154ce052996bc8189dfa6fc287d31c29b809ed2bb811033
+size 117

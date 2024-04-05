@@ -1,1 +1,3 @@
- republiky? Jaké morální právo měli ti, kdo válku přežili v přepychu a v bezpečí v Londýně a v Moskvě, odsuzovat a soudit obyvatele protektorátu, bezmocné oběti vysoké politiky?  14 OKNO Tak jako byl 15.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cf49ea19191394fbdb2c9d8cf30bea1e839e89ef38e95001493583027c746d4
+size 211

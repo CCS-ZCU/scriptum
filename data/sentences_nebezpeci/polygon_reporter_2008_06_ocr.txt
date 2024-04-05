@@ -1,7 +1,3 @@
-důležitý myšlenka závěr zaznít soustřeďovat hlavní pozornost minulý nepřítel hlídat hrozit nebezpečí nový
-pan profesor nebezpečí vidět islám pronikání euro americký civilizace
-jistý existovat nebezpečí jiný život významný hrozba ekologický
-připustit islám nebezpečí horší Krejčí přednáška jasný chránit rozdíl doba minulý lze islám vymezit hranice stát Írán Irák uvědomovat nový americký prezident
-řada země snížit podpora komunistický strana snížit sociální základna jednodivý strana docházet rozkol slábnout internacionální vztah nebezpečí pokles vliv mezinárodní proces
-Harrison Comegie York napsat svědectví otisknout úryvek Afghánistán vzniknout odchod sovětský vojsko supervelmo minový pole nebezpečí nejistota
-nebezpečí komunistický pohrobek minout zdát zvyšovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d56075fd427b1f7729e54a1535514d40ba2e4683bb8857bb6e6f2d89a2f5caa4
+size 860

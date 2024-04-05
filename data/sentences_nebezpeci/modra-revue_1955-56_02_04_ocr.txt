@@ -1,2 +1,3 @@
-nebezpečí komunistický infiltrace přestat spolek komunistický puč vyvíjet činnost
-neustálý nebezpečí podříknout rozhovor známý pravda bolšetaický propaganda západ věření předkládat velký horlivost poslušnost zachránit malý stopa podezření infekce západnický smýšlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf898f0810865e0b7b12584e050e291f8b58650ab85e98f0e8bc4596f2765937
+size 307

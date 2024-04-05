@@ -1,2 +1,3 @@
-hrozit bezpečí svědectví manipulovaný mít petlice expedice poskytnout mož nost samizdatový výkřik
-projev vŽiar nadHronom vidět Husák jiný řešení jiný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ab83f808cf5b418f324472360bc34fb944f1bb4441bd1b8501f711d66daa09
+size 178

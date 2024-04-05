@@ -1,2 +1,3 @@
- Podle jugoslávského prezidenta je každé porušení svrchovanosti některého lidu bez ohledu na to, kdo se toho dopouští a jaký cíl přitom sleduje, porušením základních norem mezinárodního života a bezprostředním o- hrožováním míru a bezpečnosti ve světě.
- Nechce sice vyhazovat zbytečně mnoho peněz na nákup zbraní, pokládá však za svou povinnost pečovat zvýšenou měrou o bezpečnost země a čelit též sovětským akcím v Africe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52e47583fba4eb37df306da8e81d0fbc8e247cbef5ef5cef02a50b2feea3718
+size 473

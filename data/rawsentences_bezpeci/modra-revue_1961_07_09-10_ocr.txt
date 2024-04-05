@@ -1,1 +1,3 @@
- zatím proti nim připravovali v bezpečí v Londýně dekrety, aby vracejíce se domů pod ochranou komunistických bodáků tyto lidi dali znovu vrhnout do vězení, nechali je mučit a umírat, ba i ubíjet, aby mohl dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64be10e7e738d3bcdcfcd404c57e1e0fbc7cabbc7e7ed59ae4f4c4ca5c70cd8
+size 225

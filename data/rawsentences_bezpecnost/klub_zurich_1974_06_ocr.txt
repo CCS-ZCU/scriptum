@@ -1,1 +1,3 @@
- Nedobytné hrady Templářů byly nejlepší zárukou bezpečnosti peněz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9651f2b12b18adaac8afa4b1da0739e59eb0f00a537573e9175f84410e2e1115
+size 76

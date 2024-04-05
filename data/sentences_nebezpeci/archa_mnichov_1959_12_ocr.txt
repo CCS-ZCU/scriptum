@@ -1,1 +1,3 @@
-Pittrův kniha odhalovat materialistický nebezpečí věřit dnešní připomínka najít kladný
+version https://git-lfs.github.com/spec/v1
+oid sha256:255e89f2f70af4885550ab1029c0d9418375e270c66ee2c472d84187854901a7
+size 99

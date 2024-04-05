@@ -1,4 +1,3 @@
- Zatímco v předchozím roce se dohady o novém vedoucím sovětském komunistovi po očekávaném odchodu Břežneva soustřeďovaly na jím protěžovaném Konstantinu Černěnku, povýšení Juri- je Andropova do ústředního sekretariátu sovětské komunistické strany v květnu 1982 naznačuje, že tento dlouholetý čekista a vedoucí sovětské tajné policie - státní bezpečnosti, KGB, je na cestě k moci v Sovětském svazu.
- A v souvislosti s tímto případem, zdá se, tedy podvýbor pro bezpečnost a terorismus zahájil celkové šetření o činnosti sovětských agentů v prostorách kongresu.
- Když tedy mocenské zájmy převládají nad mravními a právními zásadami, pak žádné mezinárodní smlouvy nejsou zárukou bezpečnosti žádného státu na světě.
- Vyhlašování nenukleárních zón tedy nikomu nepomůže, ale může jen svádět ke klamným pocitům bezpečnosti a k zanedbávání obrany země, což může mít tragické následky, Německo porušilo dvakrát neutralitu Belgie a Sovětský svaz v případě atomové války nenapadne jen místa, kde jsou nukleární základny, ale pokud možno i místa, kde je vyspělá průmyslová výroba, a tedy možnost vyrábět i nenukleární zbraně, stejně jako přístavy a důležitá dopravní zařízení, která umožňují zásobování nekomunistických ar; ád.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd429ab314255bbb0b4b40eb91d59cf6e839ab4f588a3ae328b938e2814d65d
+size 1370

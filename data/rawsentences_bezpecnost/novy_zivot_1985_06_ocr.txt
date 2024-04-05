@@ -1,2 +1,3 @@
- To vysvětluje též, proč komunismus cítí potřebu kontrolovat důsledně náboženskou činnost církví a že při této kontrole všude úzce spolupracuje ministerstvo vnitra a státní bezpečnost, tajná policie.
-m odlím se k jejich Bohu, který je 1 naším Bohem, aby tento národ mohl žít v budoucnu v pokoji a bezpečnosti«.
+version https://git-lfs.github.com/spec/v1
+oid sha256:739a2b76e409394e5532b3c338e352b25c82bf63f32ded37b4e571e5e66622cd
+size 343

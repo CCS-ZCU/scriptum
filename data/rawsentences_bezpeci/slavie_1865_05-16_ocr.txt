@@ -1,1 +1,3 @@
- Vystupuje tu nová zásada vedle prohlášené zásady nězakroéováni a národnosti, totiž zásada zájmů Francie, práv vlastnictví a osobního bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1a1399d58f09cb312f0ddc1b883fdf283bad2ea344ce77c3cb7c8559323cd1d
+size 162

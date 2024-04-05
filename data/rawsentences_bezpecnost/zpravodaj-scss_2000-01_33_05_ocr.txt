@@ -1,1 +1,3 @@
- Oživením visegrádské spolupráce započal proces, který vede nejen k prohloubení a upevnění vztahů zúčastněných zemí a v konečném důsledku k urychlení integračních procesů, ale i k upevňování regionální stability a evropské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:444770388314bfe903a655038b20e050b643d69bb9865bc0a6fdb0454b86133f
+size 266

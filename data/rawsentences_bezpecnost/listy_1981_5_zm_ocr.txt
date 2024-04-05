@@ -1,13 +1,3 @@
- e - «Prosazuje (ROH) uplatňování a dodržo- vání socialistické zákonnosti, zejména v oblasti pracovně právních vztahů», (citováno ze str 7) f -«Zdokonalování bezpečnosti a ochrany zdraví při práci», «rozvoj bytové výstavby», «spra- vuje nemocenské pojištění», «buduje kulturní a jiná zařízení, organizuje rekreaci a zájmovou čin- nost pracujících», (citováno ze str.
-případech, kdy hospodářské vedení poruší ustanovení pracovní smlouvy, pracovního řádu, kolektivní smlouvy, dohody a úmluvy a jiné platné předpisy v otázkách práce, odměňování, ochrany zdraví a bezpečnosti při práci, pracovních podmínek, nemocenského pojištění a sociální péče», (str.
- - Úkoly pro ZV ROH (organizování socialistic- kého soutěžení a závazkového hnutí, kontrola pra- covní kázně a bezpečnosti práce).
- Odborové orgány mají k dispozici informace o stavu bezpečnosti práce a o životních podmínkách pracujících vůbec, údaje o faktickém snižování reálných mezd skrytým i zjevným zdražováním, jsou často upozorňovány na nepořádky v hospoda- ření s byty, přesto však v žádném směru nevyvíjejí tlak na zásadní řešení».
- V každo- denním životě se dělníci setkávají s nespravedlno- stmi v sociálních, kádrových, mzdových, zdravot- ních, pracovně-právních záležitostech a v oblastech ochrany a bezpečnosti práce.
- Faktem zůstává, že dosud největší pozornost Federaci lokomotivních čet věnovalo ministerstvo vnitra, především státní bezpečnost.
- Státní bezpečnost došla k závěru, že dobrodružný román je přitažlivější než propagan- distická brožura.
- Jak vidí státní bezpečnost podstatu a roli Fede- race lokomotivních čel? Ocitujme pár vět z uvede- ného « románu »: «Federace lokomotivních čet se neštítila pou- žít jakékoli formy boje proti věrným komunistům v hospodářském orgánu, či ve společenských orga- nizacích».
- Koncepce útoku státní bezpečnosti proti Federa- ci lokomotivních čet má starou, tradiční podobu.
- Tentokrát jsme napadli nezákonnost, je třeba chápat, že jsme nenapadli žádnou organizaci, ani stranu jako celek, ani bezpečnost jako takovou, protože v každé zemi na světě musí být bezpečnost, i státní bezpečnost a jiní činitelé.
- Nemůžeme napadat celou bezpečnost, celá není špatná, i tam jsou hlasy, že by chtěli mít Solidaritu i jiné věci.
- Žádali odstranění nezaměstnanosti, zkrácení pra- covní doby, zajištění bezpečnosti práce a odpovída- ících pracovních podmínek, trvali na právu dělní- ků na volný čas a dobrovolnosti brigád mimopra- covní době.
- Pracovní zákoník také říká v článku 12, že «pra- cující mají zaručeno právo na bezpečnost a hygie- nu práce, ochranu života a zdraví,.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a657ff93771e4d0551be65fed2639c9d71a95cd7b2c83dae053155b68ee9200e
+size 2904

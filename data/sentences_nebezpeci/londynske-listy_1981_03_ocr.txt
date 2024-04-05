@@ -1,2 +1,3 @@
-dávat rok přepisování rozšiřování dokument charta nebezpečí vadit
-svobodit společnost rostoucí útok sjednocovat společný úsilí moci tonovat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8496cb3205c63cbc7fabf18305e49619a92333c0173e7d8f79fc7d657c7b42
+size 169

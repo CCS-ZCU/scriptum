@@ -1,3 +1,3 @@
-chovat nový vlastník poznamenaný lenost perverzní cílový funkce snadný starat technický rozvoj zvýšení konkurenceschopnost podnik podnik vytunelovat peníze odvézt bezpečí hranice
-situace docházet možný nouzový opatření vyhlašovaný stav ohrožení houkat siréna továrna přesunout zásoba místo voda přístupný zajistit stroj pohyblivý materiál dvůr škoda odplavení český dráha varovaný provést preventivní akce obyvatelstvo malý výjimka neod vézt auto bezpečí odehnat dobytek domácí zvíře vyklidit cenný věc vysoký patro
-znát výhoda třetí sloupec jistota
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c5ee3bd6d8d95c01ad75bc442cc94404415d24f342fb5538f113a1f48c6922a
+size 607

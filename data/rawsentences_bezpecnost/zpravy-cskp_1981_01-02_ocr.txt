@@ -1,4 +1,3 @@
-S P R Á V Y-ČSKP MESAČNÍK ČESKOSLOVENSKÉHO ZVÄZU KRESŤANSKÝCH PRACUJÚCICH ŠVAJČIARSKA 1981 - Január/Február Číslo 1/2 Ján Papánek DO ROKU 1981 Prvá čiastka madridskej konferencie o spolupráci a bezpečnosti v Európe skončila 20.
-Niet bezpečnosti,niet odzbrojenia ani ochrany ludských práv.
-Kříž + + + + ZBIGNIEW 3RZEZINSKI,poradce pro otázky bezpečnosti ve vládě býva- lého prezidenta USA Cartera,byl prvním řečníkem na letošním jedenáctém mezinárodním"Symposiu o řízení" /Management-Symposium/,které bylo zahájeno ve švýcarském Davosu koncem ledna.
-Chceme vás ujistit,že věc lidských práv národů Východní Evropy, včetně Čechů a Slováků,je součástí našeho přístupu ke Konferenci o bezpečnosti a spolupráci v Evropě a že ji budeme prosazovat v Madridu energicky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53983adeebe158cb4035804b3c622e174895311bedda9eafbd2b1a8f687566d
+size 840

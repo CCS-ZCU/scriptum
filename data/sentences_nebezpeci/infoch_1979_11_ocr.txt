@@ -1,2 +1,3 @@
-dopouštět společenský jednání bucia pokračovat vystavovat nebezpečí trestní stíhání
-dopouštět protispolečenský jednání pokračý vata vystavovat nebezpečí trestní stíhání
+version https://git-lfs.github.com/spec/v1
+oid sha256:be3f32f02fa2d9f1fcd443ac2b86dc51f630e27808410250d688fcf8da3ad541
+size 193

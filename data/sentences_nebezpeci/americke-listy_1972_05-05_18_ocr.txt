@@ -1,1 +1,3 @@
-fakt znamenat nebezpečí celý další vývoj důležitý surovinový základna strategický uzel východní západní svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:582b91ef41ab384036de5d0dcd61a9a5daf94debce10624c989db1efabe84e24
+size 126

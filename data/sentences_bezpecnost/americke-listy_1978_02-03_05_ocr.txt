@@ -1,1 +1,3 @@
-vědět informovaný státní bezpečnost jiný orgán
+version https://git-lfs.github.com/spec/v1
+oid sha256:0111c92e92551b3f9d35ee065d8b84a25e88e52f49bb88e1379424dedee410f6
+size 55

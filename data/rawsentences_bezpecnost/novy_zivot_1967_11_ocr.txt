@@ -1,1 +1,3 @@
-« A víte, co se stalo ř Inu, přijela prý státní bezpečnost a pana faráře za tu ateistickou propagandu zavřeli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6401496a924560c5a3d13d10499e244268a8abb26b640ec5d19dd2529f55dd6c
+size 122

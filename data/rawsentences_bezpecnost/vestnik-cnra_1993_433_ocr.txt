@@ -1,1 +1,3 @@
- V dolech se tenkrát málo starali o bezpečnost, hodiny byly dlouhé a budoucnost nejistá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:330b74af76e69588c8fa35e87f40df8dda9b5a85f7ee8a7e78afec889c9887c9
+size 94

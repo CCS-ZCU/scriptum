@@ -1,4 +1,3 @@
- Mají stejná práva jako na území Sovětského svazu s jedinou výjimkou - zatýkání státních příslušníků NDR je ponecháno německému Ministerstvu pro státní bezpečnost, které je však rovněž podřízeno KGE Tím je alespoň navenek zachováno zdání nezávislosti NDR.
- hlavní ředitelství" má na 600 příslušníků,a zabývá se ochranou a bezpečností sovětské armády.
- V hlavních referátech přemluvili k evropskému vývoji po konferenci o bezpečnosti a spolupráci rektor mnichovské univerzity profesor Mikuláš Lobkowicz, profesor Dieter Blumenwitz z wurzburské univerzity, docent dr.
- Odhaluje bez ohledu na svou bezpečnost falešnost legend, které kolem šesti válečných let sesnovali komunisté, "staví pomníčky" neznámým hrdinům odboje, bez nichž by nebylo hrdinů o- slavovaných.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9150c0c279f03f1971ae8ae6f9f6c915fdce6f68a89ace22de6a0bb2c5ca8f50
+size 842

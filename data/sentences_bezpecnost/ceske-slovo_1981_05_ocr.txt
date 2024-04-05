@@ -1,2 +1,3 @@
-místní policie zadržet alkoholizovaný mladík občan trestní činnost zadržený francouzský občan Praha roznést zpráva státní bezpečnost Praha Bratislava Brno zadržet československý
-Washington událost Praha zabývat poslanec Dante Fascell předseda americký komise bezpečnost spolupráce Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd7ac3a5fc890753a1f27efa38abecc150383c2e44f776f4ce1f2ac225950f2
+size 314

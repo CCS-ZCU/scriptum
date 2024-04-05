@@ -1,5 +1,3 @@
-stálý nebezpečí půdní otřes přesahovat budova patro
-vznikat nebezpečí lidé přenést duchovní autorita oblast duchovní
-oltář hrozit nebezpečí průlom druhý strana dosažený provždy oběť Kristová
-nebezpečí zpozorovat
-uvědomit nebezpečí sestra Marie Xavirová
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd688f45155e9a3c505a2c1c670e746894c01e9bafb9eff3d0933637dd100be
+size 286

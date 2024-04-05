@@ -1,3 +1,3 @@
- Vyhlídky na uskutečnění takového útvaru v dohledné době jsou však nepatrné a evropská bezpečnost je otázka, která nesnese odkladu.
- Demonstranti dokonce ohrožovali bezpečnost manželky trenéra, kterého Čs.
- A zatímco aparát Státní bezpečnosti vyvíjel horečnou činnost, „bručel" pekař Marhoul v base.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f32116d29e8fb8db71a9d38e444f2428e49560eeb2f8ac7bd618e6c665ad10d
+size 332

@@ -1,1 +1,3 @@
-chvíle narůst bezpečí zahraniční intervence
+version https://git-lfs.github.com/spec/v1
+oid sha256:66d733bcc337fb75ea319c78bb27d4be01b4d058438f7b552ff5ad550e60a31c
+size 50

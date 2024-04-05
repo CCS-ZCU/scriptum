@@ -1,2 +1,3 @@
-snažit podstata žít minulost prvý řada vidět problém objevovat nebezpečí opakovat opakovat rok opakovat únor
-hrozit nebezpečí prodlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e790dfbf50cb558246b67427918a891b59c3ecdf1fe4135bd46b80a6a88077
+size 148

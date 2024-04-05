@@ -1,1 +1,3 @@
-Milicja Obywatelsko vořcíjftý bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad20edf46efd3692deea39f87ec07d0288f05485334d70802da3d94b4faa8ff6
+size 43

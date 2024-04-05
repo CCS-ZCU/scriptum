@@ -1,1 +1,3 @@
-omyl nebezpečí pozemkový reforma
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc0593e61bfcd737408161968d9697610f7a524a5e734913eb86eb4f1f5fa4d
+size 36

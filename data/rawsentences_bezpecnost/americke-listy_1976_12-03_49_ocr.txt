@@ -1,1 +1,3 @@
- V souladu s těmito závěry je jistě definice bělehradského komuniké, že svobodná výměna názorů na konferenci a závěrečný dokument sněmování “jsou významným příspěvkem k posílení míru, bezpečnosti, spolupráce a sociálního pokroku v Evropě”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65230044502cae33ce51bc1bbd582a81c3f5887e9c893483e1550ef5a91c0820
+size 277

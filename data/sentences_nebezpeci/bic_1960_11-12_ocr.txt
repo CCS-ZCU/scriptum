@@ -1,1 +1,3 @@
-Větra nebezpečí pátrat lučišník kušeň
+version https://git-lfs.github.com/spec/v1
+oid sha256:f10a9e4e423f9434130ecaf6e2a38c31c9c2f588115a9117e54239b96a5e27dc
+size 47

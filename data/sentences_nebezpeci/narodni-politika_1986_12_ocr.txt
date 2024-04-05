@@ -1,1 +1,3 @@
-nebezpečí exil poklesnout etnický skupina skupinka závislý národní kultura exil folklór
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8e674d4896d0091bdfc55b47726072572d5af07f1877d1d6d7a11ed7d0f0fa
+size 96

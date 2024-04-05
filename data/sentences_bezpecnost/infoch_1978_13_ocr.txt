@@ -1,1 +1,3 @@
-říjen provést státní bezpečnost řada akce zaměřený československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:250beee41b910de7153ea83c9c5fb2097320a9da8887ac06c12559b392f13644
+size 78

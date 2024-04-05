@@ -1,2 +1,3 @@
- Zúčastnili jsme se diskuse к tomuto bodu otázkou, zdali “bezpečnost Evropy v budoucnu se týká také sovětské okupace Československa”, a z odpovědi na ni jsme bezpečně poznali, v jaké obtížné situaci se náš u- bohý domov nalézá (budeme se tímto problémem zabývat v příštím čísle Amerických Listů), dík tomu, že celý svět touží po míru, čehož Sovětský zvaz jasně zneužívá.
-” Proto ani naše armáda, bezpečnost a Lidová milice nedostaly rozkaz к obraně země.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b8ced3fbba4c04c6bd7f42ff412e8d389bfd236c931d5f9a528ddfe794086ff
+size 517

@@ -1,1 +1,3 @@
-konstatovaný sovětský svaz chtít obnovit rozhovor spojený stát omezení strategický zbraň sovětsko americký politický ekonomický vztah zlepšit připravovat další vyjednávání oboustranný redukce zbraň voTito Jugoslávie nebezpečí hrozit příležitost státní návštěva francouzský president GLcard ďEstaing Jugoslávie prohlásit jugoslávský president země hrozit dlouhý doba nebezpečí zvenčí
+version https://git-lfs.github.com/spec/v1
+oid sha256:660008409775c39eb2b030588e286c970eb3f7fe216b4e2195767ee37110a7ce
+size 428

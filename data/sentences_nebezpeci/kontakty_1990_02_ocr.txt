@@ -1,2 +1,3 @@
-člověk vidět chybovat zlo jít kořen bytost
-rok vydat protokol profesor Sergej Nilus kniha upozorňovat nebezpečí křesťan strana nepřítel církev jiný strana zednář
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e5ffc0c1322b9e53c1a7808489703d2c9de08d49caa6aba310c1338431b89e
+size 178

@@ -1,9 +1,3 @@
- y beatifikace Augustiny Livie Pietrantoni SVATA STOLICE A KONFERENCE V HELSINKI Mezi 34 státy, které byly pozvány do Helsinki na přípravné jednání o konferenci o bezpečnosti a spolupráci v Evropě, byla též Svatá stolice.
- Budapešťskou výzvu, vydanou po své schůzce v Budapešti v březnu 1969 a zaslanou všem evropským státům, aby došlo k posílení míru a bezpečnosti v Evropě.
- » Ke konferenci se tedy Svatá stolice staví pozitivně, protože má pozitivní cíl, upevnit mír a bezpečnost v Evropě, uchovat evropský světadíl nebezpečí nových válek, otevřít cestu k užší mírové spolupráci mezi evropskými národy.
- Postoj Svaté stolice vůči konferenci byl tedy veden přesvědčením o životní důležitosti jejích cílů: bezpečnosti, míru a spolupráce v Evropě, a o možnosti těchto cílů dosáhnout za jistých základních podmínek, bez ohledu na velké těžkosti.
- 18  Svatá stolice je přesvědčena, že trvanlivý mír, opravdová bezpečnost, skutečná a dobrovolně přijatá spolupráce nemohou stát leč na základech jistých etických a konkrétních norem, ke kterým se všichni poctivě přihlásí.
- K míru nestačí jen skutečnost, že není válek, bezpečnost nemůže, má-li vydržet delší dobu, spočívat jen v rovnováze vojenských sil, ale vyžaduje ovzduší vzájemné důvěry.
- Během těchto porad budeme diskutovat o návrzích, týkajících se problémů a zásad etických a juridických, které mají vztah k bezpečnosti a spolupráci mezi evropskými státy.
- vlády na přípravném jednání o> konferenci o evropské bezpečnosti a spolupráci v Helsinkách vedl velvyslanec Oldřich Pavlovský.
- Shromáždění schválilo Poselství Čechům a Slovákům ve vlasti a v zahraničí, memorandum západním vládám, které se účastnily přípravného jednání na Evropskou konferenci o bezpečnosti a spolupráci a Prohlášení k současné situaci církví a náboženských společností v Československu — upozorňují v něm na zesílený nátlak a upírání náboženské svobody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70aaf46f7ec51f32bcef5f9ccdb7a658cae5b9d28ccc893784a7356d864fa4a5
+size 2109

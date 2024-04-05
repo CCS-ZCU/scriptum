@@ -1,2 +1,3 @@
-muset ocenit odvaha statečnost signatář podpis riskovat ztráta existence osobní bezpečnost
-pojistný doba nabytí německý občanství starý pochopit osobní majetkový bezpečnost dát získat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9330fdf9838a7a0af045cb6a9ce62c0022e97d05fde734e1bff6088b1099700e
+size 202

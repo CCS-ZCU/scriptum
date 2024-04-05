@@ -1,1 +1,3 @@
- 1967, když státní bezpečnost naléhala na jeho spolupráci při sbírání informací o zahr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dda8c5431a4249f66a9e3be30b950d30b50da1db37a505a61984e8558026453c
+size 99

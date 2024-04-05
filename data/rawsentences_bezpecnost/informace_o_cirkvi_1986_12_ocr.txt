@@ -1,1 +1,3 @@
- R a k o u s k o Na konferenci o bezpečnosti a spolupráci v Evropě promluvil jmé- nem Svatého stolce arc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93b0d5f55d11df98b4d14b41538b2bbb251a5b5997858e0baa7ef00bd4ec134
+size 111

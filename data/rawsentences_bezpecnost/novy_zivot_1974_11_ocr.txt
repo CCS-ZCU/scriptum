@@ -1,1 +1,3 @@
- » Neuskutečníme kolektivní bezpečnost, pokud se všechny státy neshodnou na ústřední celosvětové autoritě, schopné ochránit kterýkoliv stát proti agresi druhých.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e355087ee72ceeda11027ac4631191bbc40a77ff41d230367ab6e832f09e2a3a
+size 180

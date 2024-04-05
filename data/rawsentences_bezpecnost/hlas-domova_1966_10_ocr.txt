@@ -1,3 +1,3 @@
- Co tu však ohrožuje mír a bezpečnost? .
- (Francouzská) nedávná rozhodnutí obsahují pozi- tivní prvky z hlediska; potřeb mírového vývoje, že mohou otevřít nové možnosti k řešení problémů evropské bezpečnosti.
- Jestliže Francie setrvá v nastoupeném kursu od- poutávání se od NATO a hledání nového, potřebám doby více odpovídajícího uspořádání v Evropě, ově- ří si snadno, že jsou v Evropě místa, která mají zá- jem na míru a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a9b8afd2b6054fca6a98833de3d552b9cc5988953d060dd42b2a0dbd55cecdf
+size 494

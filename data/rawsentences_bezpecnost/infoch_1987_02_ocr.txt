@@ -1,1 +1,3 @@
- ustavně se zde porušují ' předpisy o bezpečnosti práce,opravy .
+version https://git-lfs.github.com/spec/v1
+oid sha256:e609eee31b5022a009ca30298a161f37a9c6f9107a40d0021b08238ed2e9042a
+size 71

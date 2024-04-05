@@ -1,3 +1,3 @@
- Jako důkaz svého tvrzení cituje úryvek z dopisu, který poslal na- vzdory censuře vězněný novinář Jiří Lederer své ženě, kde píše, že mu československá bezpečnost dala na vybranou.
- Manuel Lucbert dále cituje českého ministra vnitra Obzinu, který na stranickém aktivu nedávno prohlásil, že bezpečnost si rozdělila příznivce Charty 77 do tří skupin: nejznámější budou vypovězeni, další budou postaveni před soud a o- statní nucené přestěhováni z velkých měst na venkov.
- Z jugoslávského tisku se v poslední době vytratily — podle všeho na pokyn shora — zprávy o hnutích na obranu lidských práv ve východní Evropě, ale zato vzrostl počet negativních článků o postoji západu před chystaným bělehradským sněmováním o uplatňování závěrů předloňské konference o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21348daa2177913fa4f32aa5b25bf7ac30a38fcdc093c0cad25566307a3abf49
+size 883

@@ -1,2 +1,3 @@
-vytvořit exil mocný mezinárodní politický blok prosazovat společný zájem Slovák Čech Polák
-ústřice cítit nebezpečí zalazat ulit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5914053c27fcff1911a7f7a674cde2259e700957b93363764c73dfb2de89a21
+size 154

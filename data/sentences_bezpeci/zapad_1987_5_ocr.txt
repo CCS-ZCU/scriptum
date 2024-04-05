@@ -1,2 +1,3 @@
-léta smět smět problém peníze ina problém parkování ulice místo bezpečí
-boj terorista mít pan han bezpečí Kanada vel milosrdný pohled
+version https://git-lfs.github.com/spec/v1
+oid sha256:283178bb0ad5df41a8603c75cecda6e6165c6f365d7d7ae2561501f110871419
+size 147

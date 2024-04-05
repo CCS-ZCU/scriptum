@@ -1,2 +1,3 @@
- března 1968 na mestské konferenci KSS v Bratislave  zpravodaj motoristů ŘIDIČI POZOR: FÖHN! (aneb: Ovlivňuje föhn bezpečnost v dopravě?) Föhn je nepři jemné proudění vzduchu, jež v kratších či delších intervalech obtěžuje od kolébky až po hrob nejen domorodce z alpských zemí,ale zejména všelijaké přivandrovalé novousedlíky, kteří si na föhn obvykle velmi naříkají.
-Zatím sice neexistují přesné výsledky průzkumů o vlivu föhnu na ohrožení bezpečnosti dopravy,přesto však neuškodí,zamyslí- me-li se nad slovy známého badatele ve věci föhnu,prof.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62208cc70db816a5c321ff8b27d0bd2435aea7d188c27a7e9d2db34d94451acc
+size 606

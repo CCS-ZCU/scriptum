@@ -1,2 +1,3 @@
-situace stát udržitelný britský vojenský velitelství nařídit evakuace voják civilista vojenský tábor život jednotlivec nebezpečí
-projev vděčnost pán bůh zachránit nebezpečí přivést země město
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c19cb1cb94af00736762f17038679a0e78b735a2ab9a568df6f0c874eb9fbb3
+size 217

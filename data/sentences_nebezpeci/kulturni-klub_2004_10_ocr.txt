@@ -1,4 +1,3 @@
-existovat nebezpečí negativní vliv radikální řešený odstraněný nahrazený jiný sousoš symbol dnešní velký doba věřící široký veřejnost současnost nepo svět hudba €J€TON třebovat
-rozvířet diskuze odborník znalec nebezpečí poškození socha negativní vliv městský popílek průmyslový exhalace výfukový plyn nečistota velkoměsto povrch bronzový dílo záchrana chtít přemístit muzeum depozitář
-stejný nebezpečí týkat ochranný jednotka
-osud lidé společný zrození smrt nebezpečí nemoc osud skutečnost zbývat jediný veliký povinnost zařadit ostatní
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9431ec627228d35c96d4a64e3c23dc19a542c56ae2b7c5ce9243d1e73974518
+size 576

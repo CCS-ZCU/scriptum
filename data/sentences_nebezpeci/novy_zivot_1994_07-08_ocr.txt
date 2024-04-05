@@ -1,6 +1,3 @@
-oslava symbolický bídka spolupráce společnost nik moci uchránit nebezpečí zhorizontát nění zploštění
-prorocký událost Kristův narození doprovázený nebez pečí hrozící život
-mluvit moc pravda člověk pochopit velký dobra manžel ství rodina život velký nebezpečí spočívat respektování skutečnost znevažování vysoký hodnota základ rodina důstojnost lidský bytost
-pán
-pan mít dovolená upracovaný potřebovat odpočinek uchraň nehoda nebezpečí dát přijít prožít krásný den spokojený vrátit led cestovat radovat dostat navyklý prostředí spadnout bříma zotavit nový dojem nashromáždit nový síla moci dovolená starý nemocn mít peníze uchraň hořkost
-nacházet smysl chtít sjednotit nacházet jednotící prvek ekoný mik finance
+version https://git-lfs.github.com/spec/v1
+oid sha256:9352f3e75f3b3335d34920adfa6f95cce115b765d2271dc02eb7ae46393240ca
+size 795

@@ -1,6 +1,3 @@
-darita
-agentura schůzka elitní politický klub zvaný trilatcrální výbor president Carter poradce říci mít pevný datum chtít obnovit plný diplomatický vztah Čína Čína ochotný přistoupit podmínka garantující budoucí bezpečnost Taiwan
-veřejný bezpečnost
-květen Praha předvedení státní bezpečnost známý terorista unesený Ivan Medek
-květen Bohumil Doležal předvedení bezpečnost napadený známý terorista
-pachatel útok vypátraný ministr vnitro prohlásit bezpečnost objasnit převážný většina spáchaný trestní čin
+version https://git-lfs.github.com/spec/v1
+oid sha256:5151bdfa10ea6d05ee44c73312ac72cd3f58fbee25c556040cac25ca75357e13
+size 564

@@ -1,1 +1,3 @@
-čistý tvrdost hrozit nebezpečí hnízdo věčný pohyb hnízdo hýbat pochmurní
+version https://git-lfs.github.com/spec/v1
+oid sha256:b793f70831a6005cbafcd64edd3d0e80ce9d24cf368937a8fd8e6b26b9422ebc
+size 84

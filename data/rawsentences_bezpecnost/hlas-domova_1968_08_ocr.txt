@@ -1,2 +1,3 @@
- V této souvislosti nový komunistický “manifest” říká: “Každý občan musí bezpečně vědět, že jeho politické' přesvědčení a názory, jeho osobní víry a činnost, nesměji být předmětem pozornosti Státní bezpečnosti.
- Soud zjistil, že “protistátní skupina Kluky” byla organizována provokatéry z bývalé pobočky Státní bezpečnosti v Liberci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa2c61b66fbe56a177485d27a140e2053f655193981c10bded2c33f201cce456
+size 386

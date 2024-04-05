@@ -1,2 +1,3 @@
-dnešní charismatický hnutí přinést kladný určitý nebezpečí simbóm nový teolog vidět vývoj Simeón žít byzantský období
-_____ církve takový nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:40109e508e8515dfdca41a7e5ebaff6c7051cd0cbd708ef229909ca82e26dc8f
+size 172

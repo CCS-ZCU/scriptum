@@ -1,1 +1,3 @@
- Takto vyzbrojena o půl hodiny později přepadla příslušníka městského oddělení Veřejné bezpečnosti v Ostravě-Hrušově, který při potyčce byl zraněn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38678d45d753eef6eab1651acd6c32daeea20601da5f4a32b6e9ce26096f7c82
+size 169

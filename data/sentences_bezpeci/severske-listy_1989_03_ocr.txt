@@ -1,1 +1,3 @@
-cítit bezpečí postel iste ohrožený
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eda6e0ececff7bc51bf0bbfbf44faf02c50f2a234e8599148ad34500a4ddd9e
+size 40

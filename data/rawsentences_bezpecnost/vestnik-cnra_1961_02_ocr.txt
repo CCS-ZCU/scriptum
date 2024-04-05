@@ -1,1 +1,3 @@
- je prokázané z nejsolidnějších pojišťujících ústavů v této zemi a skýtá vedle bezpečnosti všechny výhody, které bratrské pojištění poskytuje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcedc5b7ba576b5e80f32a9f1538fa3f51d5949d22128e275e4659fce5036fbe
+size 165

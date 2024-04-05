@@ -1,16 +1,3 @@
- Dnes, padesát let po skončení procesu, jsou neprůkaznost a provokační charakter základního smyslu obžaloby zcela nepochybné, což nevylučuje opodstatněnost některých dílčích obvinění proti jednotlivcům (korupce, nedodržování podmínek bezpečnosti práce, hrubé jednání s dělníky atd.
- Nepídí se napří- klad po faktech o našem zahraničním obchodu, o půjčkách našeho státu v zahraničí zejména kapita- listickém, o pravých důvodech plánované a chysta- né úpravy cen, o platech vedoucích představitelů našeho státu, o příjmech sportovních a umělec- kých hvězd, o privilegiích patřících elitě strany a státu, Nedozví se výši rozpočtu na bezpečnost státu či veřejnou, neví jak jsou trestáni ti, kteří zneužili postavení veřejného činitele, jak a v kterých vrstvách roste hospodářská kriminalita, jaké úplat- ky byly zjištěny kontrolními orgány u příslušníků státních a stranických institucí, kdo a za co byl soudně stíhán pro totéž.
- O kvartýrování cizích vojsk v Čechách KAREL HVÍZDALA - o přechodných nedostatcích některého druhu zboží, zvláště masa; - o výstřelcích mládeže; - o zásazích Bezpečnosti; - o požárech týkajících se socialistického majet- ku, jakož i o požárech, které zničily majetek před- ních funkcionářů vaší obce; - o živelných pohromách, pokud se bezprostřed- ně týkají vaší obce považujte za závazné pouze informace ČTK; - o katastrofách letadel civilních i vojenských; - o zločinnosti, o aférách s úplatky a byty, alko- holismu, narkomanii a pohlavní promiskuitě.
- Asi za půl hodiny mě vyhledal neznámý civilista, zřejmě pří- slušník sovětské bezpečnosti, a žádal o rozhovor.
-Některým odsouzeným ji vyšetřo- vatelé za jejich službu straně — za jejich přiz-  Gottwald dostával denní svodky o průběhu vyšetřování a také jej několikrát osobné infor- moval ministr bezpečnosti i sovětský poradce.
- Když Kopřiva^ninistr bezpečnosti, po Slánského zatčení v dopise Gottwaldovi popisoval atmos- féru svých soukromých návštěv u Slánských,uvá- d ě j e Slánský vždy hovořil o Gottwaldovi a Stalinovi jen v superlativech A když Gottwald si stylizoval odpověď na Stalinův dopis z poloviny roku 1951, uváděl^e cítí odpovědnost za Slán- ského politické chyby .
-S LJHk)ffmanem,svým osob- ním strážcem Jeterý s ním prožíval nejrozmani- tějŠÍ chvíle jeho politického i osobního živo- ta, se loučil se slzami v očíchJPozval jej na večeři a ujišťoval ho, že mu věří, litoval jeho odchodu do funkce v bezpečnosti a opět zdůrazňoval svoji bezmocnostJCrátce na to vedení v čele s Gottwaldem schválilo Hoffmanovo zatčení.
- Věděl i o tom^e bezpečnost používá násilí.
-O rok později četl protokoly o hrů- zách, jež prováděla vojenská bezpečnost v tzv.
-Způsob provedení svědčí jednoz- načně o sovětských metodách bezpečnosti a justice.
- < * v J I  bezpečnosti.
-Politické pro- cesy figurovaly zároveň jako příspěvek jistých kruhů bezpečnosti,státního a stranického aparátu k realizaci konkrétní stranické politiky v určitém období.
- Tomuto cíli sloužil jen omezený počet procesů a vyznačovaly se zvýrazňováním jejich mezinárodní stránky a spoluprací bezpečnosti a politických míst více stá tu,byly tedy vskutku i nter nacionál ní.
- Nacházíme tuto souvislost vyjádřenu jak ve zmíněných mezinárod- ních paktech a konvencích, tak zejména v závěreč- ném dokumentu Konference o bezpečnosti a spo- lupráci v Evropě z roku 1975.
- 63  SPOLEČENSKÁ RUBRIKA PAPEŽ JAN PAVEL II, původně Karol Wojtyla, byl sice v rodném Polsku vítán milióny krajanů, ale v Československu má smůlu: při domovní prohlídce u důchodce Josefa Adámka v Brně - jednoho z většího počtu katolíků podrobených v poslední době policejním raziím - zabavili příslušníci státní bezpečnosti mimo jiné 17 kusů fotokopií jeho projevů.
- správy StB a jedním z nejmocnějších mužů Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35df7a0fb4099eef01885e75d06031eb3c7c43a544bf1b9ad9a3e34a20cfb573
+size 4162

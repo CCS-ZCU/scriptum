@@ -1,1 +1,3 @@
- Dokument Rady svobodného Československa byl vypracován u příležitosti desátého výročí podepsání Helsinské smlouvy o Bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef2b5f17e85a355150d0dfd4eb3a7bb5ddb7f6fed26da43d48327b57c600fb29
+size 169

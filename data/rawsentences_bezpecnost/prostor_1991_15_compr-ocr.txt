@@ -1,3 +1,3 @@
- Hmotné bohatství hraje ovšem důležitou roli v mezinárodní politice a v otázkách národní bezpečnosti.
- Touha po majetku bude tudíž promísena s touhou po bezpečnosti, společenském statutu a moci.
-“ Sepsání autobiografie způsobilo autorovi nemalé potíže se Státní bezpečností a ty měly za následek zřejmě i psychickou krizi a léčbu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:171ff0f07cc769605e5a036dd901a461b50c79d952991e5e724a244d3e793d62
+size 367

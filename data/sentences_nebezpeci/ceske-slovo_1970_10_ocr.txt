@@ -1,2 +1,3 @@
-soudruh Ulbricht upozornit vážný nebezpečí den říci německý spolkový republika mít čelo demokratický kancléř přestat chvíle imperialistický země
-pomoc město usilovat omezení královský moc vytvoření stavovský stát zjev probíhající celý Evropa maskovaný pohnutka náboženský národnostní snažit město oslabit cílit nebezpečí vlastni hospodářský podnikání
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f719114a64c204840a897401ecf461ee9fc0245ed3033a0c70532c3f6dc5c5f
+size 398

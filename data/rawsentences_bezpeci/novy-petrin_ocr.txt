@@ -1,1 +1,3 @@
- Víme, že jsme v pasti, ale máme při tom pocit zvláštního bezpečí, jakoby past mohla být i ochrannou skrýší.
+version https://git-lfs.github.com/spec/v1
+oid sha256:892a38f012a982f1dbe740724aa2762d24970a2245458e26483984a093792b2c
+size 122

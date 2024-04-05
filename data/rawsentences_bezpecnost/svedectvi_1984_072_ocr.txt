@@ -1,11 +1,3 @@
- Dnes se však na Vás obracíme především v záležitosti, jejíž pomocí mají ony nezákonné postupy Bezpečnosti nabýt zdánlivě legální formy.
- Suma sumárum deleguje zákon o ochranném dohledu prakticky veškerou rozhodující pravomoc na výkonné orgány a předem vylučuje jakoukoli možnost kontroly či odvolání — což je postup nebezpečný vždycky, dvojnásob však v situaci, kdy vykonavatelem je orgán natolik mocensky závislý a natolik represivně zaměřený, jakým je českoslenská Bezpečnost.
- respektování rodinných, sociálních a kulturních potřeb odsouzeného), obsažené v zákoně nebo v příslušných komentářích : jde o pouhé verbální deklarace bez jakýchkoli taxativních omezení, navíc je jeiich vyklad opět plně ponechán na libovůli orgánů Bezpečnosti.
- Za nepřátelský byl prohlášen už vyšetřovateli Státní bezpečnosti.
- Nejdříve do budovy Státní bezpečností, kde jsem řekla, co vím.
- května loňského roku v denníku Trud, v článku "Konec benzinových králů”, že během jednoho zátahu v Oděse bezpečnost zatkla jednu třetinu všech zaměstnanců benzinových pump tohoto milionového města — to je pak jiná, to si uvědomujeme, že zde máme co Činit s kolektivem stmeleným společným zájmem, který se jistě dokáže bránil.
- 648  generálové stárni bezpečnosti a vnitra a jini odpovědni soudruzi.
- Že budu po léta nedobro volným zákazníkem v úřadovnách státní bezpečnosti, že to odnese i má žena Helana a pěti letý Petr.
- uniformy, i když je od státní bezpečnosti.
- A kdo jste vy? Státní bezpečnost zašeptal, jakoby se styděl.
- Po teheránske a jaltské konferenci ústupky ještě dostávaly krytí přijímaným slovesným nástrojem “bezpečnosti před dalším přepadem”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10f6432bf4b95ccf65e3702c98c0c4843f1f6cebbe3587838b8c8e80500a6dd0
+size 1831

@@ -1,15 +1,3 @@
- vláda státní bezpečnosti vykonat všechna opatření, aby byl udržen klid.
- Státní bezpečnost soustředila pozornost na kruhy, od nichž se nejspíš dala protestní iniciativa očekávat, a podnikla přiměřené zásahy.
- Bylo to odposlouchávací zařízení, které v bytě umístila Státní bezpečnost.
- Státní bezpečnost zabavila jak své vlastní odposlouchávací zařízení, tak koncept obou stížností.
- Státní bezpečnost automaticky předpokládá, že vůči ní neexistuje žádné lékařské tajemství, a že její rozhodnutí o lom, zda je někdo nemocen či jak má byt léčen, musí mít přednost před objektivní diagnosou a stanovenou terapií.
- Duraye je jistě možné polemizovat, ale je omyl, když se je státní bezpečnost snaží potřít uvězněním.
- Státní bezpečnost, která nakonec dostala záležitost do ruky, se marně snažila přimět spolupracovníky listu, dr.
- Bezpečnosti nezbylo, než je propustit na svobodu.
- Než byl Bártovi odnětím souhlasu znemožněn výkon funkce, snažil se pracovník StB Málek na okresní správě v Litoměřicích přimět duchovního, aby s bezpečností spolupracoval donášením informací.
- Pracující lid nebude mít důvod se zlobil a nebude nul no zvyšoval platy vojákům a příslušníkům Veřejné bezpečnosti.
- který pro ně připavuje výplaty, fakturuje, shání materiál a dopravu, odpovídá za bezpečnost práce a nese odpovědnost za celou hospodářskou činnost skupiny před kontrolními orgány, ten má za tohle všechno nárok na plat o polovinu menší a protože se plán většinou nesplní, je to plat bez prémií.
- V novém svazku, který vyjde snad ještě před letošními vánocemi, čtenář najde doplňky k oddílům: armáda, bezpečnost diplomacie, věda; i tento díl je uspořádán podle podle odborností (teologie, pedagogika, zdravotnictví, právo, umění atd.
- Všechno se připravovalo podle zásady: bezpečnost především, safety first! Džekovým úkolem bylo následující: večer téhož dne musel ve 22.
- Příslušníci Bezpečnosti v srpnu vykázali z přepravy metrem 444 opilé cestující.
- Ti, kdo očekávali chaos, smog, ohrožování bezpečnosti sportovců, kriminalitu a všechny další nepříznivé vlivy, musí být naprosto zklamáni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9644883da4ebce5520e882a1628e9b12cc5bb2a4d17f55aa5446ae1c92fe952f
+size 2322

@@ -1,1 +1,3 @@
- Uuchovrsí bbnovu k jeho miléniu zastrčil i anonym v časopise Bezpečnost: varuje Beapečtíosí před nebezpečím duchovní obnovy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b22f0db1b2d605881ec41e18e68402b52e8b7ec52cfccc46d812ffa5e687d714
+size 138

@@ -1,1 +1,3 @@
- Zde ve Velké Britanii si můžeme dopřát - v poměrném bezpečí našeho ostrova - být více dobromyslní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe5cb5418edbf2ece8dee41fe07ea0a0080aed7e9524ffb71c9420003f4d08f
+size 113

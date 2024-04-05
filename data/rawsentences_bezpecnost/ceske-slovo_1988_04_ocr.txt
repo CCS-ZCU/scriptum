@@ -1,19 +1,3 @@
- V-m policejním složkám byla na pár, nařízena pohotovost prvního stupně, do níž byl zapojen i pohotovostní pluk Sboru národní bezpečnosti v Pezinku.
- Při zásahu pořádkových jednotek Veřejné bezpečnosti, k němuž došlo po několikerých výzvách k rozchodu, byli předvedeni ke zjištění totožnosti i někteří zahraniční novináři.
- Všechna pěkná slova o lidských právech, náboženské svobodě a evropské spolupráci se stávají výsměchem, když necelých padesát kilometrů od jeviště následné konference o bezpečnosti a spolupráci v Evropě ve Vídni se tak křiklavě porušují principy helsinských dohod.
- Když se kolem třetí vracel z obchodu, dva příslušníci Veřejné bezpečnosti ho napadli, tvrdili, že mají příkaz předvést ho na policii a když žádal vysvětlení, žádné mu nedávali.
- Když to nemohli zvládnout, přivolali posilu Státní bezpečnosti.
- Přijelo několik mužů, kteří násilím nasadili Devátému okovy a vsadili do auta, jež ho odvezlo na okresní Veřejnou bezpečnost.
- Velmi necitelně se Veřejná bezpečnost chovala vůči rodině Stanislava Devátého.
- Když se v sobotu nevrátil z nákupu, jeho sestra zatelefonovala na Veřejnou bezpečnost a tázala se, zda nevědí, o osudu Devátého.
- V neděli večer volala na Bezpečnost matka Devátého, mluvila s kapitánem StB majorem Daňkem, který se jí vymluvil, že nic neví.
- V pondělí ráno zatelefonovala matka opět a major Daněk jí oznámil, že Devátý z Bezpečnosti odešel v sobotu, že byl zadržen (o příčině zadržení zase ani slovo), a to že je všechno, co jí může říci.
- Takhle si počínaly orgány Bezpečnosti, jejichž povinností je oznámit příbuzným, co se s každým zadrženým děje.
- Po předvedení na okrsek Veřejné bezpečnosti žádal Devátý, aby byl přivolán lékař, ale kapitán Prosunovský žádost striktně odmítl.
- Na zákroku proti němu — včetně ostrahy — se podílelo deset až patnáct příslušníků Státní bezpečnosti a mnohem víc příslušníků Veřejné bezpečnosti, takže zákrok proti němu přišel na dost velké peníze — a naprosto bezdůvodně.
- Dovolenou na den nedostal, místo toho přišli na jeho pracoviště příslušníci Bezpečnosti a bez jakéhokoliv odů- - Zápasu Afgánců o svobodu a samostatnost věnuje kromě Poláků pozornost také ruský a ukrajinský exil.
- Tato mezinárodní obžaloba je zejména z našeho hlediska důležitá, protože někdejší tribunál, vodnění odvlekli Záleského na Okresní správu Národní bezpečnosti ve Zlíně, podrobili nezákonné osobní prohlídce a dodatečně oznámili, že ho vyšetřují pro jeho činnost ve Společnosti přátel Spojených států.
- března ráno byl vyzván, aby se dostavil na Bezpečnost a podal tam vysvětlení.
- Zaparkovali jsme před arcibiskupským palácem a Jan Werich oslovil hlídkujícího příslušníka Veřejné bezpečnosti: „Vy to tady ráčíte hlídat, nemýlím-li se.
- Veřejná bezpečnost se řekne — Debilio.
- Pomocná stráž Veřejné bezpečnosti — Debilio amatéro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b55294a961c9d787a4317510643e66eae1814057ea32e2a13922b5e5c893d7
+size 3157

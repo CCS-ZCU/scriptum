@@ -1,13 +1,3 @@
-země šťastný nový poměry mnohý kynout bída jiný stálý nebezpečí ztráta svoboda život
-patrný dělat iluse nesnáze nebezpečí zažehnaný
-starý pán host pozdravit naslouchat zájem otáčející poměry Evropa nebezpečí válka zpráva vlast Němec zabraný vydrancovávaný
-mít hlídat případ způsob prozradit vézt nebezpečí strašný osud připravený chtít plán nazistický bestie mařit
-následující den moci správce fond podpora československý uprchlík překvapit čekaný bohatý příspěvek práce námaha nebezpečí vydělaný peníze
-krví úda oko život příslušník smírný běda obyvatelstvo ztráta zničení statek vybudovaný století píle pot muset svoboda oběť hřích vykoupit svoboda zajištěný nebezpečí zotročení celý svět hrstka despa rátní maniak odvrácený
-nabývat jistota nebezpečí minout
-laskavý tvář dovolit nový kolega upozornit různý nebezpečí pobyt prales
-líčit nebezpečí lov tigr vypravovat druhý tigr vlas uklouznout smrt
-příští okamžikl vznést břeh ostrov velkolétadlo zatížený ohromný mina opatřený přístroj mít žahalit umělý oblak pád nebezpečí
-zaradovat lékař prohlásit Anička nebezpečí sesmutnout dodávat levý nožka nabýt vláda
-myslit nebezpečí
-vydávat nebezpečí otrava krev dělat bolest řezání kuří oko
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6107dae360ad9c870966948f31e094eac34c0e3d590ee589e0fc9465f1f2a31
+size 1355

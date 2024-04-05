@@ -1,1 +1,3 @@
-vycházet koncepce velký nebezpečí munismus vojenský sovětský svaz satelit
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de2e40cda0987918e0ef3596178c94161fdc1aa7d9f27380fa1ed262164efa8
+size 81

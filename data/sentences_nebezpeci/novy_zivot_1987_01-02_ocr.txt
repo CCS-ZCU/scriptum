@@ -1,3 +1,3 @@
-bůh vyvolený zaručovat ochrana nebezpečí osobní národní nepřítel slibovat hojnost úrod pole doba hlad
-mše svatý mluvit úcta kultura maorský uchovávat autentický hodnota moderní svět nebezpečí ztratit duchovní dimenze oblast život úcta příroda životní prostředí smysl společenství věrnost rodina přijetí smrt část život
-téma mluvit australský poslanec člen diplomatický sbor mít služebník lidstvo odborník práce dobro celý rodina národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:712528df3060573eb5cc9a2df18c0a30c056eb94c46aac71e733e4d7f381de44
+size 484

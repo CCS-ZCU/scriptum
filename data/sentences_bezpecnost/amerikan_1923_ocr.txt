@@ -1,2 +1,3 @@
-uznávaný velký český banka bankovní ústředí Čech Amerika banka poskytovat všemožný pomoc příležitost osoba vyžadující bezpečnost jistota přející uložit úspora vkladní knížka velký obnos určitý čas zvláštní podmínka přát koupit první markeč první markečový bonda vydaný banka zaručený majetek výnosný část město
-zástupce cesta starat pohodlí bezpečnost cestující
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3ef7655b1b5db79be5bb4e974d6d17f9e937396de501241b2406e554efe6ba
+size 418

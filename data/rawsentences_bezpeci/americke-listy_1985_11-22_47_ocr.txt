@@ -1,1 +1,3 @@
- Pekařům přikazují jak péci chleba, rolníkům co dát kravám a kdy zasít, horníkům kolik uhlí vytěžit (bez ohledu na jejich bezpečí), vědcům co vyzkoumat, učitelům co zamlčet, spisovatelům co mohou a co nesmějí psát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d14ef6a91a5b58d424ea6250baf52d98c3a2faa218df97ce14af6ff7f93b105
+size 241

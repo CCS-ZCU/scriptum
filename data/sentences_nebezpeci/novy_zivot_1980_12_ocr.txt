@@ -1,6 +1,3 @@
-jednota křesťanský společenství ohrožený nastat nebezpečí mladý církev rozštěpit uzavřený žárlící sekta
-zaměstnání nebezpečí ztratit
-moci zůstat
-Otec zdát ztatit čas líčení krize rodina nebezpečí
-věda ocitat nebezpečí kultura určovaný technika moci použitý manipulování člověk ovládat stránka ekonomický politický
-nebezpečí zábava zvrhnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:622a14cc9fe9d737142dfe1616d711138027e3aa6c7aec8f0375229a2a0e9bcc
+size 390

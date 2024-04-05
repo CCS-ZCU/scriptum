@@ -1,1 +1,3 @@
-mnozí u nás doma, kteří se bojí, anebo by se mohli domnívat, že je to léčka a šli by zásilku hlásit na Bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6313503d1d8a3cc969ac03f9cf5e34547b8dee8eadb964f9f080904c4a40569d
+size 128

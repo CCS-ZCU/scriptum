@@ -1,2 +1,3 @@
-zátiší dočasný míra zdánlivý bezpečí normální lidé snát šít říci přestatit střílet zastavit zabíjení střit let zabíjet
-krk šlápat noha bezpečí barbar polo chtít chtít estrový balení akuta láska humanity
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b62c57d1d28e8984be147ccce2a4d714b898c1c6b380af5939e1cda7c7a5ae4
+size 232

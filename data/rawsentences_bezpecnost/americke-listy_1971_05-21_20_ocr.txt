@@ -1,2 +1,3 @@
- jednotek v NATO by v nynější době bylo kardinální historickou chybou, jejíž důsledky pro Evropu, americkou bezpečnost a NATO by byly katastrofální.
- Na chodbě vyšetřovacího oddělení v Bartolomejské ulici v Praze visí červená vývěsní deska stranické organizace Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:749c67bf071318ef35b71bab043d8165bbf78020719cea4ce5445e563ea1a5f9
+size 310

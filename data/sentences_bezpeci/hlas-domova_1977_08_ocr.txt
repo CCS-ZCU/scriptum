@@ -1,2 +1,3 @@
-důvod propuš tění Pavlíčkův vážný srdeční choroba bezpečí případný úmrtí vazba vyst lalo žádoucí kritika zahraničí
-korouhvička točit vítr doprovázet převoz intelektuál bezpečí blázinec souhlasný skřípot
+version https://git-lfs.github.com/spec/v1
+oid sha256:00f10ed072688740b415a51036b424ddf575113f7da78ddd1bc1fa5bbe8a3a0b
+size 100

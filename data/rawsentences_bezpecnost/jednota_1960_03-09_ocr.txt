@@ -1,1 +1,3 @@
- Lujsa potřebu nejakej bezpečnosti níe- len pre seba, ale i pra zbožné doéry.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09133bcedd81977cdca4af2f95b5fd5a50291cb2a1c786d421d040a6ba2b8208
+size 84

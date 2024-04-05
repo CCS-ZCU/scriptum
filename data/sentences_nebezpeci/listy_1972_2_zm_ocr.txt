@@ -1,5 +1,3 @@
-mimořádný nebezpečí hrozit
-budoucnost rozhodnutý nebezpečí různý obrat restaurace fiké
-sovětský vedení cítit nebezpečí rea guj upevnění disciplina země varšavský pakt tvrdý represe opo ziční síla nálada
-rok nebezpečí Polsko stát Bulharsko Polsko velký básník
-vždvck nebezpečí slovo zustat věc zmizet niva věřit
+version https://git-lfs.github.com/spec/v1
+oid sha256:07e97b3da60f88ee2eb1b672a1d6ef7677c721fcc761d2198e2bdf7beadb6e15
+size 350

@@ -1,2 +1,3 @@
-rok zachytit československý StB dopis vyplývat hrozit jistý nebezpečí
-nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9ce7919c1ebf40bdd7464c4a4face261ed3dbda6a28333f46870e4020ad7db0
+size 88

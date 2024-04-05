@@ -1,4 +1,3 @@
- Po dvou letech jsem byl ze studia vyloučen, protože jsem odmítl spolupráci s StB (Státní bezpečnost).
- Kvůli svým občanským postojům a tvorbě neušel Merta v polovině sedmdesátých let pozornosti bývalé Státní bezpečnosti (StB).
- „Podľa oficiálneho programu budú premiéri rokovať o energetickej bezpečnosti.
- V dohodě, která byla uzavřena pod patronátem evropského komisaře pro rozšíření Günthera Verheugena, se Praha zavázala ke kompletnímu přezkoušení Temelína z hlediska vlivu na životní prostředí i jaderné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566f0b822c269e67314ec33164b858aec83253442243b21b4a797c269ca82761
+size 576

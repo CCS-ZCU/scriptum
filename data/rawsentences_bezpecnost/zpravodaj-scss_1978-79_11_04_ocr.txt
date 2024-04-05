@@ -1,6 +1,3 @@
- Československý zástupce profesor Otto Kunz, řekl, že "disidenti si těžko mohou stěžovat na nedostatek svobody vyjadřování, když svou činností prý ohrožují bezpečnost státu a dotýkají se i jiných občanů.
- Zdůraznil pouze, že příslušný pakt připouští, aby vlády omezily svobodu vyjadřování v zájmu ochrany práv a cti jiných lidí, národní bezpečnosti, veřejného pořádku, zdraví a morálky.
- 27 týdnů se zástupci 35 států radili v hlavním městě Jugoslávie, jak lze v Evropě dosáhnout bezpečnosti a spolupráce, jak se dodržovala ustanovení závěrečného dokumentu konference v Helsinkách.
- /Z "Nebelspalteru"/ VEŘEJNÁ BEZPEČNOST BREŽNĚV JAKO TAKOVÝ Boris Rabbot je až dosud nejvyšší úředník, který dostal v posledních letech povolení vyemigrovat ze Sovětského svazu.
- V liste tlmočníkov Charty sa uvádza, že celý rad pracujúcich stratil v PREPUSTENÍ Troch signatárov manifestu Charty 77 Václava Havla, Pavla Landovské- ho a Jaroslava Kukala, ktorých bezpečnost za- držala 20.
- Podlá informácii viedenských exulantských kruhov z Prahy vyšetrovanie proti nim povedú aj nadále j pre údajný odpor proti zákroku bezpečnosti a útok na veřejného činitela.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af65f12963d3283637b025318a89b49b8b8399372e4ee50f0e164ba2bc449cd7
+size 1259

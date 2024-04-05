@@ -1,2 +1,3 @@
-vést malý vesnička malý domek vést spoutaný flllze zcono domna malý cedulka veřejný bezpečnost
-příslušník státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e85d32c73facd61b483233113dafbd000b3cc00d7232c797c904703389e6f34
+size 141

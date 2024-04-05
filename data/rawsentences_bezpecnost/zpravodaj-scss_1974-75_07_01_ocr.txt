@@ -1,2 +1,3 @@
- «Nestává se často, že rok končí zatížen takovým břemenem utrpení, ohavností, ztracených nadějí a zviklaného pocitu bezpečnosti.
- výročí okupace Československa a zasedání Konference pro bezpečnost a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b33d6bf5f611b4978e2ff97fa16ed860ef9a1b87e25a6d521fab4249189cd398
+size 247

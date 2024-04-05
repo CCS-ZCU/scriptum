@@ -1,1 +1,3 @@
-německý národ bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:862856188c4bfc85705467fee7e93bd28aff3d4e2751cef271c495a02ab0094b
+size 27

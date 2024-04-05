@@ -1,1 +1,3 @@
-poslední resoluce žádající výbor organisace bdět zamezit útočný podvratný akce jiný nebezpečí mír bezpečnost kontinent plynoucí zásah čínsko sovětský přijatý hlas Bolivie zdržet hlasování
+version https://git-lfs.github.com/spec/v1
+oid sha256:340a19ba22049b3b6c21e1f2548bd9f21f2032949370f815dc05b4afee9254b7
+size 215

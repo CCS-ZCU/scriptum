@@ -1,8 +1,3 @@
-Petr
-květen polední Královno nebesa
-technologický rozvoj růst nebezpečí strana země moře nebesa výraz krásný věc vznešený tužba
-Ravenna pozdravit pracující velký petrolejářský rafinerie chemický továrna patřící italský koncern ENI mladý dotknout katastrofa atomový elektrárna Černobyl Ukrajina mluvit nebezpečí vznikat člověk technický pokrok odtržený morální princip
-závěr odpověď dotazník zaslaný biskupský konference zásadní pokyn čelit nebezpečí upřímný náboženský život sekta představovat
-ohled nebezpečí Kyjev začatý plán závod míra konaný prvomájový průvod havárie muset sloužit režim propaganda československý
-květen oběť další osoba nemocnice následek ozáření ^a< nebezpečí život
-mluvčí charta poslat federální vláda národní shromáždění dopis odsuzovat mlčení oficiální sdělovací prostředek strana nehoda Černobyl
+version https://git-lfs.github.com/spec/v1
+oid sha256:58ab3c121259bc359555f272c9606b5caeb8dc08361e60ad2f1298ba69249f87
+size 931

@@ -1,1 +1,3 @@
-lidé možný prinést sebemensu casta majetek domov nebezpečí mit velke hospodárský potíž první mesice pobyt Kanade
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4272dbf17f22053f65a621c28ff1085addd2282635003d27d484665b53f5dfb
+size 124

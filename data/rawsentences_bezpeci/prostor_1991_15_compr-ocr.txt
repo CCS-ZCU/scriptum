@@ -1,2 +1,3 @@
- Buďme však realističtí: lidé usilují o mír pro své domovy a o bezpečí; baží po slávě a po potlesku; snaží se získat moc a vliv; hledají přátelství a lásku.
- Protože nikdo nemůže vyprodukovat všechno, co požaduje, podporuje dosažení všech těchto cílů směna, a právě tak působí i shromažďování majetku, skýtající bezpečí a přinášející moc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9467383f6ef0ad294a42751e23710e7bead6623fc17bc33ca082f24a78cc373c
+size 391

@@ -1,5 +1,3 @@
-víát ctít Brechta úcta chladný zdvořilý
-snaživý nešťastník mohlit
-Pastý povolávat ostří háta pochybnost vlastní příklad vyvracet
-mladý chlapec zvyk líst válka žít zbraň ruka stálý nebezpečí muse konspirační návyk zapomenout
-kritizovat podléhání mýtus velký úder iluze rychlý snadný změna mýtus nebezpečí vstup systém
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f43b059810a2aac99d9b3b05fae213efa74a7a0d4ca2911c55689be6953bd5
+size 597

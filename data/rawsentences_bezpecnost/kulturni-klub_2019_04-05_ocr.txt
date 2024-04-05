@@ -1,3 +1,3 @@
- Druhý trest smrti obdržel provokatér Státní bezpečnosti, který vybrané osoby k odporu proti komunistickému režimu nejdříve podněcoval a poté kompromitoval.
- V květnu 2011 byl jmenován vládním zmocněncem pro oblast bezpečnosti silničního provozu.
- Vyzdvihol aj úlohu Severoatlantickej aliancie ako hlavného garanta suverenity a bezpečnosti Slovenskej republiky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:553b818c6550aa113c1623a45668281dd88f22c342d0eb443e553415ec458645
+size 387

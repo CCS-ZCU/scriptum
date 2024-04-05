@@ -1,1 +1,3 @@
- z Hutě, z FSO, z továrny URSUS, z univerzity, z Rolnické akademie, ba dokonce z cihelny z Poznaně; po osmi hodinách slouží několikačlenné služby/u hrobu a okolo kostela e střeží pořádek a bezpečnost dnem i nocí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c46a921b89d70a821c158917f377358620f133d8b5086b5de4957a49da26c96
+size 231

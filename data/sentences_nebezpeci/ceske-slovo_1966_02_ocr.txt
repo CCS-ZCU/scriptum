@@ -1,2 +1,3 @@
-komunista Praha vědět nebezpečí hrozit důsledek muset obávat
-nebezpečí člověk přijít život přemíra rychlost srovnávat rychlost rychlost vesmírový raketa opovážlivost rouhání
+version https://git-lfs.github.com/spec/v1
+oid sha256:08834d12239e35144d87b7bb00ac1ef9699dd122a046b0809bad57406498e419
+size 196

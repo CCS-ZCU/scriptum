@@ -1,1 +1,3 @@
- Lze je pokládat za ujištění o osobní bezpečnosti, či to může být jen lapák, když se to režimu hodí? Přes spoustu propagačního materiálu, zasílaného kdekomu v cizině, je totiž dobře známo, jakými odborníky ve výrobě falešných obvinění se staly československé bezpečnostní i politické orgány.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5486763a2790646fa829c3a8f438b054d8cefc1b87ccdb962b21159b9406a094
+size 330

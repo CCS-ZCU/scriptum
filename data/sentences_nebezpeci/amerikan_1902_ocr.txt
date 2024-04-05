@@ -1,10 +1,3 @@
-přísahat zašeptat slyšitelný hlas Jaroslav uzamčený truhle slyšet slovo pronešený kníže slyšet rachocení klíč uzavírající zámek ložnice odvážit dýchat Maryša uvrhnout nebezpečí
-přiženout nebezpečí paní Mladatová Běla
-nebezpečí
-spokojený poznat sblížení Julka vinný velký nebezpečí
-moudrý babička vědět oheň nebezpečí bát řídíc přísloví příležitost dělat zloděj
-rostlina vysoký zvíře neškodný používat jemný rostlina místo nebezpečí otrávení domácí zvíře jiný jed
-den číst zpráva východní časopis hrozný zemětřesení ukrutný neštěstí potkat jednotlivý místo oddechnout vědět nebezpečí nacházet východní noviny povědět
-Nekuř lačný žaludek okolnost postel nemocný
-chtít petrolejový lampa nebezpečí zhasnout sešroubovat knota plamen moci vniknout nádržek zhasnout plamen sfouknuvše lampa mít zhasínat hora
-jediný tekutina nemocný smět obava nebezpečí pite
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9519ec9332801a82afb9d409cb6895d61f2ff415db50cd2564937b092ca57d1
+size 977

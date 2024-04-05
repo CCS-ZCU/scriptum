@@ -1,1 +1,3 @@
- My, kteří žijeme v pohodlí a v bezpečí, musíme stát za Orlovém a jeho kolegy, jejichž takzvaným zločinem ie to, že jsou spolu s námi přesvědčeni, že sovětská vláda by měla respektovat svoje vlastní mezinárodní závazky, přinejmenším pasáž o lidských právech v Helsinské dohodě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d94cd8704331c2607d41191ed7c775624d519e6b048323b6c6dff63403ca43
+size 313

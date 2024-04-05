@@ -1,1 +1,3 @@
-" Těmito slovy zhodnotil předseda Mezinárodního olympijského výboru Juan Antonio Samaranch soulskou olympiádu, která byla skutečně skvěle zorganizovaná, bezpečnost všech na ní zajištěna /stálými kontrolami korejských bezpečnostních orgánů/ a po sportovní stránce obohacena desítkami olympijských, ba i světových rekordů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1162cdc646bdb9054814f9a222739e54d1399e3000d2f445318724a98cac3472
+size 352

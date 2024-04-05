@@ -1,1 +1,3 @@
-" Pisatel pak dodává, že ani neutralita není "kouzelným lékem", nicméně však pokračuje: "Ale přes všechny reservy, které zodpovědný politik si bude musit klást při řešení otázky, jak zajistit státní bezpečnost, bude pravděpodobně neutralita cestou, která - jak se zdá - se bude nejspíše vy- hýbat nebezpečným křižovatkám.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b2815a93c32278eb5ade3cfc91ffe3435fa2fc31b2ffb8afd276d28db40d201
+size 358

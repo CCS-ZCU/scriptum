@@ -1,1 +1,3 @@
- Zpráva dále zaznamenala fakt, že byt redaktorky samizdatu “Informace o Chartě”, který přináší dokumenty Charty 77 a VONSU, byl podroben desetihodinové prohlídce členů státní bezpečnosti den po té, co tomuto časopisu byla udělena cena Jana Palacha, kterou již po dobu pěti let uděluje Mezinárodní výbor na podporu Charty 77 se sídlem v Paříži.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d559a039859fef42f51edb691dfc6631f11b53faba40a72462b8f89ac18f93
+size 377

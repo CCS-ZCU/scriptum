@@ -1,1 +1,3 @@
-Vlachův isolace živý zdroj řeč pokračovat nebezpečí ustrnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ad2ec43416c9af182a936f01e03d194da5205ca4cd19c45d15a549d37d05f8
+size 70

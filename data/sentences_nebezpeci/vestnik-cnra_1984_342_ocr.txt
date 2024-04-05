@@ -1,1 +1,3 @@
-krajan dodržovat pietný vzpomínka lidický tragédie svobodný svět zapomenout oběť druhý světový válka pamětliv přítomný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4fc24e44bd667537bdb0fa9fae19896b062f63a93ea10c294ef7552b2cc6a15
+size 148

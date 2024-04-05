@@ -1,1 +1,3 @@
-hodina den plný nebezpečí rozsah moci jistý
+version https://git-lfs.github.com/spec/v1
+oid sha256:60b32f868a1abda575fdda60bb10819c52d38b250fba2bd28e9d286e42174175
+size 48

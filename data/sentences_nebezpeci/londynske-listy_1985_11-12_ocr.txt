@@ -1,2 +1,3 @@
-vrátit poslední válečný rok sloužit vrchní spojenecký velitelství poznat Sovět cíl upozorňovat hrozící nebezpečí nabytý demokra cie národ vyhnout komunistický rok
-Josten západ vědomý rudý nebezpečí svobodný svět oddaný bojov níc právo svoboda demokracie Baronka Cox sir Bernard Braine sir John Biggs Davison Winston Churchill
+version https://git-lfs.github.com/spec/v1
+oid sha256:90b56f368fabd619c827ef6b0bb07d38181db05df1bf71c4d1058ed6892920f8
+size 359

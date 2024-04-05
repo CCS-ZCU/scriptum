@@ -1,1 +1,3 @@
- Matiáš odprosil Jiřího a nasliboval mu, žc zanechá intrik proti jeho vládě! Jiří propustil Matiáše i jeho vojsko s opravdovou šlechetnosti; ale Jakmile se ocitl Matiáš v bezpečí, vyjednával -s odpůrci Jiřího na Moravu, aby jej zvolili za českého krále a s Poláky se dohodl, žc česká koruna připadne polskému královici Vladislavovi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd0a9094eebea562a6c2dd41eea4b3cbf0ee397f80dccce7ae0af8f445df3d5
+size 280

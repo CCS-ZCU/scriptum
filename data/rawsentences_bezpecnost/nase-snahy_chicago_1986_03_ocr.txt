@@ -1,1 +1,3 @@
- Naši najbližší spojenci sú demokracie a závisia na nás čo sa bezpečnosti týka.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8bb549cc74d7dc4fdd56ffe9fb3f5215ba199c330de3d9205f2868e43412b8
+size 90

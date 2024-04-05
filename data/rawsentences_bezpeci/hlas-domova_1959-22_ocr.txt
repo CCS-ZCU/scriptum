@@ -1,1 +1,3 @@
-V očích každého příkladného komunisty vykoná- valy tyto anonymní orgány (anonymní proto, že ani v poměrném bezpečí se komunista Štítnický neod- váží jmenovat) stranickou akci, která byla zcela pod- le směrnic a, nařízení vlády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa20021a1caf6cef3be185814a8781058460eb63f2497e1d0c384550c253c05
+size 250

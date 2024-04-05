@@ -1,2 +1,3 @@
- Působil x různých továrnách i ve službě státní u dráhy a u telegrafu a provedl mnoho oprav a novot v oboru bezpečnosti jízdy železniční, sestrojiv zvláště důležité elektrické blokové signály, zvonkové signály a jiné.
- To právě vzbuzuje naši největší úctu, že vědeckým výzkumům obětoval osobní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:178ad0d74d9039a2ac67a63d4cff24d18d30fb93cf6dad24d6ac3c17cc6271db
+size 348

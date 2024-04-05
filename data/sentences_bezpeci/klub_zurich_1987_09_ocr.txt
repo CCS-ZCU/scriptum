@@ -1,2 +1,3 @@
-lid venkov vědět mít držet opustit obydlí tlačit město hledat bezpečí
-schovat kufr pokračovat Sally myslit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:26bbda2746f2bada28208937fe68efca6f7a844e2b0c0ad3672c50198131a5b6
+size 127

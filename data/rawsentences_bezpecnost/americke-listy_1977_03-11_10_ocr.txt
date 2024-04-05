@@ -1,2 +1,3 @@
- Byl odvezen do úřadoven sovětské státní bezpečnosti, kde mu sdělili, že jeho akce škodí zájmům sovětského státu.
- Postavy jako Sacharov, Ginsburg a Orlov připisují však obrovský význam západní podpoře a to jak pro zvýšení své osobní bezpečnosti, tak i pro šíření svých ideji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:026c1bd1ccd0f9d3772a8f8c26d12f16e2dbd3cad39927b233427540d153772b
+size 312

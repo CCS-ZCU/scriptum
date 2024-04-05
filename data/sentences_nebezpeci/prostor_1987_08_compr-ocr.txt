@@ -1,6 +1,3 @@
-sdružování lidé skrývat nebezpečí domluvit
-politika data poctivý násilný východisko nebezpečí dovést určit následující příběh pouhý anekdota případ ilustrovat vláda zmíněný představa křesta nechat povercivost ústí pýcha ateista
-závazný protivník představovat trojí nebezpečí podceňovat rafi novaný politický diplomatický kultura zaručovat podobný efekt
-důležitý konstatovat počátek předchozí odstavec odpůrce stoupenec kompromis moci kalkul vyloučit nebezpečí umělý rozkol cír přímý zákaz
-zůstávat nezodpovězený tabuizovaný ohrožený metr mít mít možnost hledat odpověd otázický militantní totalitarismus dvacátý stůl tíněně vlastní infekce vyvolávat většina kri zový příznak zachvácený část orga nismo lidstvo činitel rulence ztroskotávat dosavadní kus terapie svoboda muset jistý smysl zasloužit pozemský politický naděje podmíněný dokázat rozdílnost cíl prostředek nahlédnout jednota základní zájem bytostný ohrožení převažující zlý čas čelit nebezpečí účinný solidarita příhodný chvíle vzchopit společný osvobodivý akce motiv moci různý kon zervativní pokrokářský dokázat sehrát role mnohý odpuštěný
-nebezpečí spočívat absolutní panství kažoaen nost enesitelný tlak myslitelný režim
+version https://git-lfs.github.com/spec/v1
+oid sha256:42bfd22401ea0139fa676d2367b9b08b31c448368d17d40f376f32fdf738a12d
+size 1345

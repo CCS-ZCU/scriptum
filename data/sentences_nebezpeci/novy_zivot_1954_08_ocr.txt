@@ -1,2 +1,3 @@
-Poručík vyskočit zlořečený theologický hatmatilka
-Jakáž pomoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fcd53cbfe65ff9ffb46586e76c994ef0792741316b3c8ac7214b7216aee10c0
+size 71

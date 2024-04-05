@@ -1,3 +1,3 @@
- «Doma i zdi pomáhají,» praví staré ruské přísloví — a vskutku, domov není v podstatě nic jiného než bezpečí.
- Není zapotřebí jmenovat desítky autorů, kteří v uplynulých letech opustili Československo, aby zachránili alespoň publikační mož- 2  nost, nelze-li už zachránit přirozené bezpečí domova jako podmínku tvorby; jsou vesměs dobře známi.
- Je-li tedy konečným cílem takových setkání, jako bylo ono v Helsinkách, aby se svět stal svým obyvatelům vskutku domovem, to jest místem bezpečným a komunikativním, musí jít především i o to, aby byl jako domov vrácen těm, jejichž bezpečí bylo rozvráceno a přestalo být terénem tvorby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf1095a8fded919e71606ef7c392ce056ff06c3c8493f4b6675390bbad8c154f
+size 699

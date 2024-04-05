@@ -1,4 +1,3 @@
-nebezpečí octnout vůz
-předkládat sociální situace samotný mezinárodní krize rys budící obava bída nezaměstnanost dostatečný výživa závod zbrojení pohrdání lidský právo ozbrojený srážka nebezpečí celosvětový válka
-stoupat nebezpečí AIDS
-Vaška feták •vědí prázdnota život velký strach nebezpečí kluk bydlet vyřízený feták
+version https://git-lfs.github.com/spec/v1
+oid sha256:55bf379d56f06136d7cf0e17fe89e3155ecf9df2f7e37484bafc45b4b0a760ea
+size 369

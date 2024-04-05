@@ -1,2 +1,3 @@
-uvážit dvojí hledisko platnost starý osvědčit správný chápání koncil
-Lubomír šlrougal
+version https://git-lfs.github.com/spec/v1
+oid sha256:335fae027f7a50ed14dad4ba7b2a6084cf18e29f20efc8f920cd9a59b5144e88
+size 99

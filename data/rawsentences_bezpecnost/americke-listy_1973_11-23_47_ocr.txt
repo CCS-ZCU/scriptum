@@ -1,3 +1,3 @@
- Návštěva Jižní Koreje potom měla za účel jednání o bezpečnosti v Tichomořské obZVĚDAVOST NA SEINĚ Francouzský senát zveřejnil stopatnáctistránkovou studii o tom, že vláda odposlouchává denně jeden až pět tisíc telefonických hovorů, převážně ilegálně, to jest bez soudního příkazu.
- Ministři: spravedlnosti, vojenství a vnitra odmítli vypovídat před výborem, protože jim to zakazuje zákon o bezpečnosti země.
- A v nejhorší miře pak v činnosti různých so- větských poradců, jejichž nejotřesnější působení je známo především z oblasti státní bezpečnosti a justice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd73e95c92f43130d6b955aedc9e02018eafb43844915e7fe291075076ef9d86
+size 635

@@ -1,2 +1,3 @@
- « Milý hochu! Jelikož maršálek nemůže zaručit moji bezpečnost.
- Velký ohlas vyvolala soukromá audience sovětského ministra zahraničí Andreje Gromyka, který byl na oficiální návštěvě v Itálii; předmětem rozhovoru byly mezinárodní otázky, jako odzbrojení, především atomové, chystaná Všeevropská konference o bezpečnosti, situace ve Středním Východě, válka ve Vietnamu a konečně i situace katolické církve a věřících v Sovětském svazu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d62ffd5257d3ccdf058aa2db931f1a97b6565660020ffd437db0a523a9aa2da
+size 487

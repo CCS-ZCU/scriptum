@@ -1,1 +1,3 @@
-víra poslání svornost jednota muset zahnat nebezpečí válka světadíl naděje církev mocný činitel integrace
+version https://git-lfs.github.com/spec/v1
+oid sha256:1058ca20676a88147a6bdff7d8392fa31427a90fa7ee2528fc4e83076a8800cd
+size 118

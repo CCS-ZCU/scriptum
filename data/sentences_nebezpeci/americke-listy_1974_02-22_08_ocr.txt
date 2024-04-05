@@ -1,2 +1,3 @@
-vyplývat žát nebezpečí literát vládnout armáda tajný policie národní hospodářství
-sdělovací prostředek Jugoslávie šetřit chvála snaha uvolňování svět politický vojenský představitel připomínat nebezpečí ozbrojený konflikt Evropa němět nulo
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c81e95f670181dd07a96aa98dd6bcb1ac917eb09be09749eeb287aab2d1b96b
+size 274

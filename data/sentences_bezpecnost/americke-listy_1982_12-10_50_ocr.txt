@@ -1,1 +1,3 @@
-mimořádný zákon vztahovat osoba ohrožující státní bezpečnost dodat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ada460ce3d50216d48e6dc7f375f09f474c6795570311fd608f18b336db2fab
+size 77

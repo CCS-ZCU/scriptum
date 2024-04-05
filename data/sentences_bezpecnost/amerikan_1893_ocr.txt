@@ -1,4 +1,3 @@
-starat bezpečnost koule lítající strana
-dům voják musit mít zvláštní místnost pečovat bezpečnost
-odlesek srdce zrak patřící tehdáž bránit myšlénka moci milovat
-prodavač vězet bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:11bfbe0bfeb7a503ef29c8e57b077f9f5812849c4f0bcbc78509732c5308532b
+size 210

@@ -1,3 +1,3 @@
-okamžik poznat tenhle vzrušující divní lidé jevit hmatový smysl moci dojít bezpečí opěrný bod soulad známý svět domov
-zvláštní
-ostrov bezpečí první jistota život mít chvíle opustit otcovský statek zabrat stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:491278eb1c574334f4f486eb8e7a74fd6c04f07cf8cc1e01fd7163ee80385e4e
+size 235

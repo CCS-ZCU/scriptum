@@ -1,2 +1,3 @@
-Jgn podnik všetec SME Bratia rodina bratet zabít
-smět uvádět život nebezpečí mít dostatečný důvod podnik
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3ff0720ec18fa8be10de0be6cb0f3428a8d95861f61bde8fb343c9d70bda0d
+size 117

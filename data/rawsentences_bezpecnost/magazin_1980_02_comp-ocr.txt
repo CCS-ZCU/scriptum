@@ -1,1 +1,3 @@
- Proto přikázali československé Státní bezpečnosti, aby celé hokejové mužstvo poslala do GULAGu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64c3b02000cb7a61f00e9ac99869eefe25f0761ffe2f8cfa3364388e67febe75
+size 107

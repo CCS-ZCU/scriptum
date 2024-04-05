@@ -1,1 +1,3 @@
- S tou se tedy dostal do bezpečí a s jeho svědectvím se podařilo identifikovat pirátská plavidla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b49d3c859c97b7a409a5cf40b974b41b1fca8307081cd1326247573db03a3c86
+size 105

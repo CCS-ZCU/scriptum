@@ -1,3 +1,3 @@
- Tak před několika dny proběhla západním tiskem zpráva o tom, jak spisova- tel Pavel Kohout popisoval do Londýna telefonicky zatýkání m a n ž e l k y , k němuž právě docházelo na uli- ci před jeho domem, a jak mohl ještě hlásit o bou- chání na dveře příslušníky Státní bezpečnosti, kteří přišli pro něho.
- Situace se dá zjed- nodušeně vyjádřit konstatováním, že italská krise nebyla nikdy tak vážná, ježto hospodářství státu je před zhroucením a komunisti přede dveřmi — Berlinguer ante portáši Florentský list La Nazione shrnul soud takto: "Jsme na lodi, řízené kapitánem, který bezmála zaměňuje blesky na zachmuřeném •bzoru za ohňostroj a tak se domnívá, že musi dávat ostentativně najevo klid a bezpečnost, zatímco jeho hlavní štáb není naprosto jednotný stran směru plavby.
- Pod zámienkou "ochrany národněj bezpečnosti" (bod 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3e45cdd68f8f1e7b64ddab0a077f8d4be6340418a2b63c9b27208a8c7b28e2
+size 923

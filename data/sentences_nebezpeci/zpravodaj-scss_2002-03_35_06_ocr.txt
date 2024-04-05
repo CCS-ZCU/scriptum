@@ -1,2 +1,3 @@
-příležitost připomenout hrozící nebezpečí nový rasistický vlna Evropa vyjádřit znepokojení vzestup pravicový ofašistický hnutí Evropa
-pochyba pokus relativizovat nacistický násilí antisemitský poznámka rasistický útok obsažený nebezpečí genocida uvést prezident list adresovat shromáždění Osvětim
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba90422edfc2b6cd31b5654aece78f54d3a6539a7dab0bc80953c3e60fba1b7
+size 331

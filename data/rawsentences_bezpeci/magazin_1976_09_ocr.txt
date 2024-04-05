@@ -1,1 +1,3 @@
- Ve vratkém bezpečí našich stanů jsme naslouchali, jak medvědi po setmění tiše chodí po břehu řeky, Mike se jednou ráno vzbudil a hleděl do tváře mladé medvědici, která nahlížela do stanu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef2c88c2089a91fa2529fb82166327c48f3f52ba43b78804db031c593fc23bb
+size 210

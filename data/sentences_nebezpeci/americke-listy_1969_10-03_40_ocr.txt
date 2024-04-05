@@ -1,5 +1,3 @@
-volba jasný odpověď obava komunistický svět západní německý hrozit nebezpečí neonacismus Thadden utrpět zdrcující porážka získat volba poslední léta stát získat
-pátek říjen strana americký list
-nasvědčovat posrpnový vývoj antisovětský odpor spo jená federální reorganizace československý státní zřízení přivést český slovenský lid nebezpečí národní rozkol
-vidět nebezpečí
-pramenit nebezpečí příčina československý národní rozkol
+version https://git-lfs.github.com/spec/v1
+oid sha256:822fc41afe6d29d8b10894d9201de4695c0c09131c3d79e05b6cf56f56e432cd
+size 491

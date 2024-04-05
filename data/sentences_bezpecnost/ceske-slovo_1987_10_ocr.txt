@@ -1,2 +1,3 @@
-navštívit Československo delegace americký komise bezpečnost spolupráce Evropa jednat lidský právo
-veřejný bezpečnost vyzvednout byt podrobit dvouhodinový výslech stanice Vladimír Liberd Karel Biňovka signatář charta Jaromír Glace Ostrava
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5990e7bbffd9010289f8efe9e83cb42c865f8b2bb16c8e6f12dc4c77906932b
+size 257

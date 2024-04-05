@@ -1,2 +1,3 @@
- 1951 nahradil Husáka ve funkci předsedy SNR, byl ministrem bezpečnosti a pak jako ministr vnitra byl odpovědný za proces proti Slánskému aspol.
- * Sbor národní bezpečnosti má svůj vzdělávací systém a vlastní soustavu škol: 25.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56d03128dad8b87d0e721694c8a8e664a3f5118f912c96cc7d8cfbaddc1b1f4
+size 246

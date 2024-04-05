@@ -1,1 +1,3 @@
- Být svobodný od bídy znamená být "zbaven" chudoby; být svobodný od strachu znamená být v bezpečí před válkou a agresí; právě tak jako být svobodný od nemoci znamená býtzdravý, snaddíkytomu, že byly vynalezeny účinné očkovací látky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e22331c6f07cbfa2640801574eb23265f43ecf596c34a45a5bb974c6f64d76
+size 262

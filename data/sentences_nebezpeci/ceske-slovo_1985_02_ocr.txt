@@ -1,3 +1,3 @@
-zimní radovánky hora nebezpečí
-nebezpečí další sesuv záchranný práce odvolaný
-smrt Eduard Ingriš prales
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d89386e6f1fc811b388fc53ae5ecc4bbb60a9022dac4daab17a81ed58ef144e
+size 117

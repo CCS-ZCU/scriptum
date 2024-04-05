@@ -1,2 +1,3 @@
-raketa raketa raketa lid chránit pokojný práce mír hodina bezpečnost
-prodávat Praha dolacyl veřejný bezpečnost přilít rozhořčení vyznívat působit
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f4be0c3401dbb1cef9f526ae0dcc112e6e5df8e8e3739e275c52060655251c6
+size 162

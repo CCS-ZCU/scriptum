@@ -1,1 +1,3 @@
-válka uklizený bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0857c0f4990fd3b5dbff7b28a5e1355e4a698304b2997f9978e7b3fde3a66c8d
+size 27

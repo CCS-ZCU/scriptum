@@ -1,1 +1,3 @@
- A protože dospělí a ne děti organizují tento svět, je na dospělých aby zajistili vzájemně vyhovující stav - ovšem při zachování pravidel jak bezpečnosti práce, tak bezpečnosti her.
+version https://git-lfs.github.com/spec/v1
+oid sha256:580996549bce92af2811773862240782c8103fee02fcd3ac59d10bec05296009
+size 201

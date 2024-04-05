@@ -1,1 +1,3 @@
-duch hledat výzva nebezpečí park lákaný nepřítel
+version https://git-lfs.github.com/spec/v1
+oid sha256:94c204fabf0fb7e4d4a9ea1262ca13265bdf5c48afe1b6a3f4927f821d5bb119
+size 56

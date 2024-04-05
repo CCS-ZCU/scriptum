@@ -1,2 +1,3 @@
- Neboť jako nevi- ditelný vzduch dýchala řecká tradice neprolomenou představu boje dvou principů; příslušnost člověka k oněm prvním členům soupeřících dvojic, světlu proti temnotám, životu proti smrti, kosmu proti chaosu, domovu proti cizotě, bezpečí proti ohroženosti, byla dána právě tak sama sebou jako boj sám.
- Lze zůstat k nim lho- stejný? Nepochybuji o Vašem vnitřním pocitu bezpečí a zakotvení v Něm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:260b0877a637075bcb4344f9668b8b5be2224380ca076e6eab79d69206e6cb57
+size 414

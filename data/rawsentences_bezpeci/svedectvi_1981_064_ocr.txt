@@ -1,2 +1,3 @@
- Když vzácně př^de taková chvilka tepla a něhy prostě jen lidské, i ta musí být zničena : « Po dlouhé době sc cítila v jeho náruči v bezpečí a začala sladce usínat.
- Ukazuje se, že navzájem se chápat (přes onu hranici, která z občana, dělá disidenta) je v české společnosti zřejmě stále možné, ale obtížnější je vstoupit do smysluplné komunikace, když jeden nasazuje čin a druhý by byl nanejvýš ochoten v soukromí a v bezpečí nasadit slovo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3fc74f48489ce9adb1d385dbd675b9737195773b46a44d5cad4349fcd1808e
+size 492

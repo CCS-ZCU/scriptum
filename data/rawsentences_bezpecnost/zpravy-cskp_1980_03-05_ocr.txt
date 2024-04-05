@@ -1,5 +1,3 @@
-V tomto směru Evropský parlament zároveň vzdal velikou poctu statečným,ba přímo hrdinným mužům a ženám,kteří v režimu s nelidskou tváří obětují osobní bezpečnost a osobní prospěch.
-Ale v praxi vláda ČSSR usiluje o to, aby ve vlastní zemi potlačila smluvní závazky,které pro ni vyplývají z Konference pro evropskou bezpečnost a spolupráci.
-vládním kruhům dali na vědomí,že porušování obsahu Závěrečného spisu Konference pro evropskou bezpečnost a spolupráci rovněž ohrožuje úspěch konference , která se má konat v Madridu.
- Jako svůj přínos k přípravám na Konferenci o bezpečnosti a spolupráci v Evropě,která se má konat letos v listopadu v Madridu a které bylo také věnováno naše dubnové symposium, vypracovala .
- V této souvislosti bych rád uvedl odpověď jednoho z mladých strážců bezpečnosti na Hradě na mou položenou otázku,když jsem čekal na vyřízení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e01fe59ab0fbf0e70f54ad1be2613f92a3dc3d5b58a617d79619b9cb55fa1bb3
+size 948

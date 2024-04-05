@@ -1,1 +1,3 @@
- Nikdy^nepoznali^teror a násilí a tak si nedovedou představit, že někdo sem přišel pro klid a bezpečí, že ne všu- a?, smíte poįicii vyhnat ze svého domu, žg všude nesmítewríci to, co pravé chcete necítíte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db5d54e8f0d7f05beed4bfb8be9467f5dcfcd96733717597099656b65f5b4983
+size 225

@@ -1,1 +1,3 @@
-říkat systém samoznak pojmenový nebezpečí skrývat forma sebevyjádření dorozumívání
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a71c4e2ee6e79bf796b142bbd546ae31681289b24ab4808069d67ff340d0f6
+size 99

@@ -1,2 +1,3 @@
-myslit zvýšit bezpečí
-oceňovat bezpečí pozice důležitost plynoucí všední den
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92cb80350d195d34094e0054c0fcdf0006a791e6f4410f64ca63cb88f4bb76a
+size 89

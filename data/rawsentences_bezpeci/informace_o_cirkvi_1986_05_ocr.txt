@@ -1,1 +1,3 @@
-: Existuje nějaké poselství Vaší pronásledované církve křestanům, kteří šijí v bezpečí na Západě? T.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63727bf1e9a0860fbbc6f1a854f477958cef302049d62b623c0a3479ddbd3472
+size 119

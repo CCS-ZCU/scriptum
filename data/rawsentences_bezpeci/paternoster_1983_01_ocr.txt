@@ -1,1 +1,3 @@
- Sestra ti již řekla, že půjdu s tebou! Můžeš měsíc čekat? jsi trochu v bezpečí?" "Jsem! Jsem členem banditské tlupy, jež již několik lét trvá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6311884a15428fb7ad490891f91d96458307adcc3cb165e5affcac7e79beb941
+size 95

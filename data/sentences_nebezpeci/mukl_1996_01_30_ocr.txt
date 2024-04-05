@@ -1,1 +1,3 @@
-únor Praha bezpečný podmínka osobní nebezpečí strana německý okupant dát disposice národní rada
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ac4a0dbe1563967c91b9462754ae80c7e91ebeec2f38a84c5bc81772a2bf0d4
+size 108

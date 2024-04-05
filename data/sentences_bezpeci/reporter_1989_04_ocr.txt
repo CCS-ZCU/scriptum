@@ -1,2 +1,3 @@
-duben reagovat katolický biskup státní souhlas Jan Korec urážlivý televizní seriál kříž osidlo moc autor Dánay Čelko Hudeko vyhlídat Nedbal historik pracovník ústav vědecký ateismus SAV půlhodina dělat národ přiznat věřící fackovací panák možný zesměšňovat urážet plivat kopat režimní bezpečí moci bránit
-Reporter Reportýr
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdcda70542ab240dbeea19d4209b6e856afd74fa5eb626006dde6675e2165f56
+size 367

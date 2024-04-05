@@ -1,1 +1,3 @@
-těžký žit voda pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b26ba461416e4feed14246d65d950e4bf55c83d401b04197f4adb65d909466db
+size 35

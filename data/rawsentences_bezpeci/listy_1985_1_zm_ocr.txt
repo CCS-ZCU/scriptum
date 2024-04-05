@@ -1,2 +1,3 @@
- Ta budova je totiž nepoužitelná, hrozí ne- bezpečí jejího zřícení a tak se čeká, co bude dál a hlavně kolik to bude stát.
- A také právě v tomto sebeodevzdávání nacházíme svoje bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cce51ee49e7f1b3d1dc46299b3d2020d47d508116c77c1c0ceea7625ba87b405
+size 73

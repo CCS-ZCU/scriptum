@@ -1,8 +1,3 @@
- Havel se dokonce týž den postavil proti dostavbě, což Zeman okomentoval slovy, že prý přihlédl k presidentovu názoru v „míře, ve které je president odborníkem v ekologii, jaderné energetice, jaderné bezpečnosti a ekonomii.
- Ředitel Státního úřadu pro jadernou bezpečnost však tvrdí, že stavba nemá žádné závažné nedostatky.
- Vstupem do NATO nelze posílit demokracii, ale pouze servilnost k USA a Německu, zradit naše národní zájmy a snížit bezpečnost naší republiky.
- Příslušný článek Charty Spojených národů vyžaduje, aby každé vyhlášení války bylo schváleno Radou bezpečnosti OSN.
- Američané a NATO se ani nepokusili získat tento souhlas a odmítli návrh Ruska jednat v Radě bezpečnosti o Kosovu.
- Rada bezpečnosti, složená výhradně z vítězných válečných mocností, navíc obdařených právem veta, je hrubě nefunkční a naprosto neodpovídá dnešním podmínkám, ani notně změněné mezinárodní situaci.
- Dovedu si představit, jak čecháček bez ohledu na fakta pronáší: „Jak je to možné? Kdo jakživ slyšel něco o holandských tramvajích?“ Pro ilustraci i citace konzultanta americké Komise pro jadernou bezpečnost Paula Blanche po návštěvě stavby temelínské atomové elektrárny: „Překvapila nás špatná údržba a všudypřítomný nepořádek.
- Má k tomu jistě dobrý důvod: Stali jsme se členy mocné aliance, lze doufat ve zlepšenou stabilitu a bezpečnost, politikové se dopracovali ke zdárnému závěru a otevírá se nová epocha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac64bd9d533319c7c161bda267c8429bffcc3dc8355c3c394467fbc8b8307d2d
+size 1568

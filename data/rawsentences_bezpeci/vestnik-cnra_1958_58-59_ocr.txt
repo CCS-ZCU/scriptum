@@ -1,1 +1,3 @@
- Vzpomeňme jen, s jakou bolestí jsme před 16 lety odhalovali tento pomník jako symbol utrpení národa ve staré vlasti, naší lásky k Československu a naší nezlomné touhy, aby zase bylo svobodné a jeho lid mohl žiti Štastně a v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:982091b99556b9992d290c8af7a2ada8775e60edd27696f151133d83a9324e86
+size 254

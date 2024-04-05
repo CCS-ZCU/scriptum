@@ -1,1 +1,3 @@
-platný bílý průčelí tele hrozit bezpečí stát přilepený ponit sezóna dokončo nátěr
+version https://git-lfs.github.com/spec/v1
+oid sha256:da71f5b1a734eb4e81816958538cd1dcc03315480482cd884c7c428a0592205f
+size 97

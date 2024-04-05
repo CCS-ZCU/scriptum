@@ -1,1 +1,3 @@
-vědět hrozící nebezpečí ujít vlásek pozdější léta zalíbení mluvit definovatelný pocit kutečnost poslední ochrana scest logika
+version https://git-lfs.github.com/spec/v1
+oid sha256:d12c8d3d1070dc0048f26973d68daf67e0fec33451e7a10db75393483ee6dd6e
+size 143

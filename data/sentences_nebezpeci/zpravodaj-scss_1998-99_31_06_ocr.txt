@@ -1,1 +1,3 @@
-vládnout smrt nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e182b56b5120e68901d20ae5d08d3d81df92957d3e30358ba179a0b8e0123757
+size 27

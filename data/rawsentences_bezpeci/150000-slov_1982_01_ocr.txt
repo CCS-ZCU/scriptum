@@ -1,5 +1,3 @@
- Znamenali konkrétní hrozbu rivalům a odpůrcům, ale soukromý život a tradiční rutina mlčících menšin byly před jejich zásahy většinou /ne vždycky/ v bezpečí.
- Pod přikrývkou mu bylo teplo a cítil se v bezpečí.
- Rubašov několikrát z hluboká vydechl a s rukama složenýma na prsou se těšil ze skvělého pocitu svobody a bezpečí.
- U švagrové je v bezpečí.
- Bavilo ho, že má nyní diplomatický pas, který je pravý a má vepsané jeho pravé jméno, že se ve večerním obleku musí zúčastňovat recepcí, že mu policisté salutují a že nenápadní mužové v černých buřinkách, kteří ho někdy sledují, činí tak pouze z dojemné péče o jeho bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:651d352ccd0f95044852b187c3cb4d2e82c86f0eafe172dbe1f81b98dc166218
+size 709

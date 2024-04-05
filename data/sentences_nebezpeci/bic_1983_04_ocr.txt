@@ -1,1 +1,3 @@
-odvrátit hrozící nebezpečí snažit moci
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc7df9ef825ee80ca1e4596f2258dec0a3d762b7dd831f4a5f59933e54829e6
+size 45

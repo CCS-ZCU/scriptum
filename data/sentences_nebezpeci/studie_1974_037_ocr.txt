@@ -1,4 +1,3 @@
-nebezpečí počátek hrozit pojetí věda nový levice analytický teorie věda opustit normativní požadavek poslední řada důvod
-úsilí ukázat vědecko teoretický otázka lze oddělit otázka etický politický nový levice nebezpečí zaměňovat idea předsudek vědec předpoklad věda
-marxismus životný filosofie muset rozvíjet
-vzniknout nebezpečí vážný narušení peněžní oběh
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c4cb0f8e919aad8b902e47b6368f6b4cb1ff1f7837cf9baa010bee253d6c082
+size 403

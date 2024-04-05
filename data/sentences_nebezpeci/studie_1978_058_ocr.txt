@@ -1,1 +1,3 @@
-žádaný nebezpečí podceňovat počítat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e96520b01fb6db0f9df028195d910dee1252953ef97419feaf8ac489d57d8f
+size 44

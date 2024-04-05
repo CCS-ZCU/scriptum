@@ -1,2 +1,3 @@
-poslouchat pastýř hlásat slovo boží udělovat svátost vzdor nebezpečí ztratit život
-nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8044d4abb5d7ee09e1b5c155ba0a992983c61cff83cbe4657375b846e305159
+size 105

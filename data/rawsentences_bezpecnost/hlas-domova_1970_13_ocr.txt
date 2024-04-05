@@ -1,2 +1,3 @@
- Státní bezpečnost tehdy sdělila příbuzným, že se pokusil o sebevraždu tím, že tloukl Hlarvou do stěny cely.
- Není ovšem snadné zjistit zcéla bezpečně, zda se Pachman ve vyšetřovací vazbě skutečně nervově zhroutil, , či zda ho přivedly d° Špatného r zdraizotního stavu jen vyšetřovací metody Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5e8298ab82484e60938b63a9ab05942892daed58710a575c8ce0c18348fc7a
+size 349

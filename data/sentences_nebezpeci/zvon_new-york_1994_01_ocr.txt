@@ -1,1 +1,3 @@
-mít svědek vyloučit nebezpečí podezření zneužití
+version https://git-lfs.github.com/spec/v1
+oid sha256:9191e5e4bd36a5ec81a5307aaf12517a23680f9d436e3b2bdf279f7317ac8a0f
+size 58

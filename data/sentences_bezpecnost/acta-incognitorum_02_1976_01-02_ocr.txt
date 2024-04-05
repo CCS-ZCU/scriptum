@@ -1,1 +1,3 @@
-Chruěč pobavený státnický moudrost delegace vyjíždět Praha exkurse vylízat ráno celý trasa osobní automobil blahobyt tloutnout host oko
+version https://git-lfs.github.com/spec/v1
+oid sha256:49afb7cb108d0b644b5a9b100fe0fcfc4305c34b3a99e3e7c9500289e7fd8275
+size 150

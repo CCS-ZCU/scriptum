@@ -1,1 +1,3 @@
-strana cítit život jít muset plánovat druhý strana viset němý nebezpečí covid
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e30f30a88f1147752a1031d78b9d302728eaf1cf45ef15e53b4d0f4a867631d
+size 87

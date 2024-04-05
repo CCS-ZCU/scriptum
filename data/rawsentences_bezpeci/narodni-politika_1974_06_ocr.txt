@@ -1,1 +1,3 @@
- Po tříhodinové cestě přes hory a doly mně ukázal úředník v civilu ilegální cestu přes hranice a tak jsem se po další delší cestě ocitl v Jižním Tyrolsku, kde jsem přenocoval v bezpečí pod košatou jabloní a druhý den zmizel z pohraničního pásma vlakem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38083023477b3b56ba743e7ba86726370f0e3e0e1e6abab4c8cc891441f34c8b
+size 282

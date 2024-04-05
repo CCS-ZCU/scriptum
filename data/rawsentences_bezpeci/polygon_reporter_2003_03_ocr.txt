@@ -1,1 +1,3 @@
- Máte zájem, aby i po Vaší smrti Vaše choť, přítelkyně, známá či jiná osoba čerpala Vaši celou rentu do své nejdelší smrti? ■ Pojištění návštěv z ČR, SR či jiné země (nemoc, úraz, úmrtí event, převoz domů) Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36fbb2094c799d913e1b6a2c37f29cd29330864a97727f386431773d36587026
+size 207

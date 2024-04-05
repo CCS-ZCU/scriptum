@@ -1,3 +1,3 @@
-divný mnohý lidé mnohý skupina přijímat skutečnost domnívat nebezpečí vymanévrovat
-komunista dívat živnost řemeslo nebezpečí kapitalismus snažit držet kontrola
-moci lhostejný osud domov moci vidět nebezpečí hrozit Amerika
+version https://git-lfs.github.com/spec/v1
+oid sha256:24e527e93e3abf7b951e7a20bc512acf2e7ed4d3e305e861ec76f828c6cd30e8
+size 244

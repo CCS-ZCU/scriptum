@@ -1,1 +1,3 @@
-hrozit skutečný nebezpečí vývoj socialismus léta zastavit
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa301f303429d0ff68a77cbbf888584b76fd6fb7ec265e2d797a3e51e573b3a
+size 64

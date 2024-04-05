@@ -1,5 +1,3 @@
- Přibližuje osobnosti exilu, akce komunistické Státní bezpečnosti i situaci na českých hranicích v 50.
- Tajné oběžníky poštovní správy dokládají průnik příslušníků státní bezpečnosti do poštovního provozu.
- Ve vztahu k USA Vranitzky propagoval meziatlantickou spolupráci zejména v otázkách jako boj s terorismem nebo drogovým nebezpečím, zároveň však dodal, že zdravější poměr Evropy k zámořské globální velmoci by mělo přinést vyřešeni otázek spojených s evropskou bezpečností.
- Samotný proces ale může trvat roky Právní postup proti provozovateli jihočeské jaderné elektrárny si spolková země Horní Rakousy zvolila jako pojistku pro případ, že by selhal takzvaný proces z Melku, týkající se zvyšování bezpečnosti Temelína a výměny informaci mezi experty.
- srpna 1968 Radě bezpečnosti OSN oznámila, že další jednáni o intervenci jsou bezpředmětná.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e796e11c5dc2cbd71d160f6fd4705db0a4bd7e67b792f9b51328bffa5e2596e
+size 943

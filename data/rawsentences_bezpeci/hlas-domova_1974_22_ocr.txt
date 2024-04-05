@@ -1,1 +1,3 @@
- “ Víme, že tu budou v bezpečí a my budeme jejich panenství respektovat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0521c76f34a95a31ac80a700ba27f19cd6e9f012211a63fdbd6d3adde2234891
+size 80

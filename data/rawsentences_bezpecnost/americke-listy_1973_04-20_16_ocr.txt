@@ -1,2 +1,3 @@
- července vyjednávat o celoevropské spolupráci a bezpečnosti; i toto vyjednáváni se předběžně už rozběhlo v Helsinkách.
- Muší Moskva za ochotu západních velmocí účastnit se konference o celoevropské bezpečnosti a spolupráci zaPopper v New Yorku již příští týden - nezapomeňte! Tchoto populárního zpěváka, který nyní žije jako exulant ve Švýcarsku, přivítáme v New Yorku v pátek, 27.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1fec86069aad31b4fc57b94aee3f8888aa77286d4cdca8dbe74a5d3e908eee6
+size 427

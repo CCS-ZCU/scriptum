@@ -1,2 +1,3 @@
-šestinásobný zvětšený kapitál
-uprchlík přesunout jistý Švýcary bezpečí spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:c91cbc8c86774b8d3f30b7148a53b66b5cc965a7f0a7e372c57f6062cf62bd20
+size 110

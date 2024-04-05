@@ -1,2 +1,3 @@
-Coal signalizovat nebezpečí přílišný perfektelonalismus
-nebezpečí nový pohřbít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e320eefc3bd0530f85b9eabbd4860f763579e095f4bad31d4026431a82e00a
+size 90

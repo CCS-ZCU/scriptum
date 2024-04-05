@@ -1,3 +1,3 @@
-Ještěs myslit umělec západ mít snahý možnost jít vlastní cesta říci rok Jiří Lederer citnat komerce módní vlna výrazný nebezpečí srovnatelný ideologie
-vrchní spodní otáčka objevit výstražný nápis vystoupit
-neustálý kontakt hrozit nebezpečí celý operace skončit neúspěch
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c0b4b1e1e6cc999fe58a285af7a8ff27a28e3dbbc347d96e76ede2d4e4f6382
+size 309

@@ -1,1 +1,3 @@
- Stalo s© j i ž neblahým zvykem, -že p ř i p o l i t i c k ý c h procesech je v e ř e j n o s t předem vyloučena výběrem nejmenší m í s t n o s t í nebo obsazením míst p ř í s l u š n í - ky Bezpečnosti v c i v i l u * J i s t ě není t ř e b a připomínat, t a k t o u t a j e n é projednávání n i k t e r a k nepřesvědčí o n e z a u j a t o s t i .
+version https://git-lfs.github.com/spec/v1
+oid sha256:00a1afd6f7f90a647131c95e5f9744b63cc2b6fe24db6945bc440249b79c02ba
+size 384

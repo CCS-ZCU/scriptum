@@ -1,1 +1,3 @@
-snižovat nebezpečí prozrazení opatření patrný
+version https://git-lfs.github.com/spec/v1
+oid sha256:29c95e6a46cce15ca21af73f26f885a232952705bfe371dbff8809325434e4c9
+size 53

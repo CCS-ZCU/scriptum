@@ -1,4 +1,3 @@
-nebezpečí příležitost lákadlo
-moci císař obrátit Italie záležitost lombardský zanechat syn Konrad správce říše
-hrozit země nebezpečí dostat panství král uherský ruka vévod bavorský ochota ohled osvědčit
-dát myslit doba krutý doufat moci chlapec devítiletý vysvobodit nebezpečí ant bezto právo uznaný mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36efad334c95ff176703a4044484a0c2ea5dca69357f7852f43a7a344f6843e
+size 339

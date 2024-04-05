@@ -1,3 +1,3 @@
- Byl proto zakoupen a v něm uskladněn materiál, který- byl však po částech rozkraden a zničen a objekt se dostal do tak špatného stavu — že musel být v zájmu bezpečnosti odstřelen.
- Veřejná bezpečnost varuje před koupí magnetofonového přehrávače značky Walkman, digitálních hodinek a video- \ých přístrojů, které mohou být zabaveny.
- Albánští funkcionáři v kosovské autonomní oblasti tento vývoj pozorovali bez protestů, ale teď se postavili proti a varovali, že politická a bezpečností situace v Kosovu je ohrožována “organizovanou činností srbského a černohorského nacionalismu” — ve spojení s “dobře známými protisocialistickými silami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f8034f06fccfdff7552e2dfa4163b3cabe2b427d563a97839c1a0904b7b7d7
+size 709

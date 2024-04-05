@@ -1,1 +1,3 @@
-pršet začátek květen víno nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd0714900dbca9f92e0f9d306baf3eeefa634d4152eab40708d50af5cb89a8a
+size 43

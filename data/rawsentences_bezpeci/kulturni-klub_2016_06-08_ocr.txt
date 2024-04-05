@@ -1,1 +1,3 @@
- Instalace Bezstarostný chlapec zdůrazňuje bezpečí a přátelské vztahy mezi Českou republikou a Rakouskem ve střední Evropě, na kterých mi osobně velmi záleží.
+version https://git-lfs.github.com/spec/v1
+oid sha256:752ea1769dddf768ab260a6e33516baa9360984c608350b110732bff779a7006
+size 176

@@ -1,2 +1,3 @@
-Steven přijít strašák nebezpečí kus vodíkový bom bame argum ment mít úspěch
-událost Maďarsko Polsko střední východ nora mální doba hrát zsát nebezpečí volební rážka
+version https://git-lfs.github.com/spec/v1
+oid sha256:882df6d3a1fcbdb014b021f30753c835514925ed5e7d6693ab58b104733fde27
+size 186

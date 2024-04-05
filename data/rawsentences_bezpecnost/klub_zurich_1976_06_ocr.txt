@@ -1,1 +1,3 @@
- Vytáhl z kapsy lejstra, něco si poznamenal, odhodil hadru - bedna fuč! 7 první řade zatleskal kapitán bezpečnosti, po něm celý cirkus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecf804509d3fd07028aff086315fb0a70d7451692662d0839474397c6a60e772
+size 145

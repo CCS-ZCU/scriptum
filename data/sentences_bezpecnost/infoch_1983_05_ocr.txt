@@ -1,4 +1,3 @@
-hodina ítumlový odebraný publikace dokument konferenóe bezpečnost spolupráce Svropa Helsinky vydaný oficiální nakladatelství Sloboda spisovatel Mojmír Kláneký zabavit bezpečnost rozepsaný sbírka povídka jediný exemplář rozepsaný rukopis vrátit
-František Asisi pripodobnit najslabý skupina obyvatelov máhalnout Popritom chodit zamestanium pracovisko hodný dobrý pracovníkov volný čas využívat zdokonalovanie
-nariadta prepustenie zatknutý marca rok zastavenie ioh trestný stíhanium
-květen
+version https://git-lfs.github.com/spec/v1
+oid sha256:95451a18decce1dc0483ffa42e43091d29a28d32a1e2d05a085191023c759844
+size 529

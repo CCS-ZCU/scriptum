@@ -1,2 +1,3 @@
-občan dostávat přílež tost nebezpečí arbitrární zásah redukovat
-připadnout muset nebezpečí redukovat zbavit lze zalíbit sídlo Fojtík případ ztracený sebevý opatrnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f461862d210e709f6d65792e90f5e844aee2eca35a08fc92205c78e2941548be
+size 250

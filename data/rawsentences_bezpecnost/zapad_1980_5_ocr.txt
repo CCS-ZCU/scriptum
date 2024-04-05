@@ -1,3 +1,3 @@
- Zaručené právo na stávku, včetně bezpečnosti stávkujících a těch, kteří je podporují.
- Jako žeby svobod- né Kapušany se měly za jedinou cle jure vládu Československa, celou zemi by representovaly ve světě a seděly by i na židli v Radě bezpečnosti OSN, Čankajšek si ale na ostrově nepo- čínal špatně.
- Ale muže mé generace jsem už potkával jako vy- šetřovatele státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:956d91c7c2b0f6b508764d3adc95a555193e08d4069b750976a795e216384234
+size 423

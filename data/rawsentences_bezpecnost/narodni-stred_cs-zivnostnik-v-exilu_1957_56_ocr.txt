@@ -1,2 +1,3 @@
- Lze najít skutečného viníka? Je snad v našich řadách, nebo to je okolnost, že ČSR je jen malým státem, který podlehne ve hře svých velkých sousedů, — je-li ve světě opuštěna zásada kolektivní bezpečnosti? Jaká je situace dnes, v exilu? V prvé řadě se nám dostalo smrtelně vážné lekce, že SVOBODA JE JEN JEDNA, že DEMOKRACIE JE JEN JEDNA, a že kompromisy v těchto základních pojmech možné nejsou.
- Vedoucími motivy budou nejen otázky společné bezpečnosti a obrany, ale i zabezpečení nezměřitelné velkých výhod velkého společného hospodářského trhu, na základě spolupráce rovnoprávných partnerů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97fdc38d2bfdcd822cf2b121ddf4ef0d2b79ecd56b5b7a95ce84216b0d10cf41
+size 661

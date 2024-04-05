@@ -1,2 +1,3 @@
- a diskreditovat ČSSR jako signatáře Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě.
- Kdyby hájili něco jiného, třeba hospodářství, přírodu, zdraví lidu, kulturu a vzdělanost, či dokonce bezpečnost státu, vzali by si k tomu přece jiné lidi! - A kdo se takto proti absolutní přesile musí bát, toho trochu pochopme.
+version https://git-lfs.github.com/spec/v1
+oid sha256:676610ea270eebc61f72786a8eeafc6fe07f4a4e85b2ec9d8f966ef796013bf0
+size 361

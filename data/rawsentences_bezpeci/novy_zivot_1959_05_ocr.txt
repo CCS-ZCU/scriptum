@@ -1,1 +1,3 @@
- Dalajláma je v bezpečí s právem asylu, a ani opatrný indický předseda Pándit Néhrú se neodvážil zakázat mu aspoň takovou míru aktivity, aby mohl vykonávat duchovní správu nad buddhistickými stoupenci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1efd4422227f98e2f0767fce3e0378d059655aba62ab410152054a48be836db
+size 221

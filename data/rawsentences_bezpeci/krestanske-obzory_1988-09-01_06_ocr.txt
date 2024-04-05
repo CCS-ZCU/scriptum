@@ -1,1 +1,3 @@
- Ona z nás nejlépe absolvovala tuto ceatu a ona také nejlápo zná všechna úskalí její0 Fod oejírn vedením 3e můžeme vždycky cítit v bezpečí a to i tehdy,kdy vnéjsí situace tomu neodpovídá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b1f045a1babcd6c9cf04246d7805b58ccd354479648608bbbf55ec62009169
+size 209

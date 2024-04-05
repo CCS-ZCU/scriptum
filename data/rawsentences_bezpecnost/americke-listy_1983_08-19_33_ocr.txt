@@ -1,6 +1,3 @@
- Před patnácti lety k nám na pokyn Moskvy vtrhla cizí vojska, — jejím příslušníkům bylo namluveno, že nás Čechy a Slováky o- hrožuje západoněmecký im- O JAKÝ ÚSPĚCH SE V MADRIDU JEDNÁ? Vedoucí americké delegace na následné konferenci o evropské bezpečnosti a spolupráci v Madridu, Max Kampelman řekl po svém návratu do Washingtonu, že prosazením zásady, kterou nazval “právo na svobodné odbory” — v závěrečném komuniké, považuje za porážku varšavského vojenského režimu a vítězství Solidarity a polského pracujícího lidu.
- Nemůžeme se ztotožnit s takovýmto optimismem — když se zamyslíme nejenom nad osmi lety existence konferencí o evropské bezpečnosti, ale hlavně nad posledními třemi lety dohadování mezi Západem a Východem v jehož mezidobí došlo k přepadení a okupaci Afghánistánu, k internování Andreje Sacharova v Gorky na Sibiři a bylo dále pokračováno v “léčení” sovětských disidentů v psychiatrických ústavech.
- V těchto dnech, u příležitostí 15ti letého trvání sovětské okupace Československa, je naší povinností likvidaci tohoto dříve svobodného národa světu připomenout a upozornit, že bezpečnost Evropy je nemyslitelná, pokud sovětská vojska neopustí Střední Evropu a tím i naši vlast — Československo.
- Neučiní tak — řekl dále ministr Chňoupek — pouze v zájmu své vlastní bezpečnosti, ale ovšem “po boku Sovětského svazu a v zájmu bratrských zemí”.
- Jako v detektivce Státní bezpečnost v Praze využívá ke svým akcím i běžné stavební práce.
- O O bezpečnost turistů pečuji- 21384 příslušníků Horské služby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dde61b286c84f007f9b296dd7d2cb4518c53b9202719d22e07afd007df110b79
+size 1704

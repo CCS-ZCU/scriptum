@@ -1,10 +1,3 @@
- Je však pravda, že se pracuje na zastaralém strojním parku, Že se - zejména v dolech - dělá bez ohledu na bezpečnost.
- (red) Madridská konference odročena Páté kolo mezinárodní konference o bezpečnosti a spolupráci v Evropě se skončilo v Madridu odročením do 9.
- Rakouský ministr zahraničí Pahr před zakončením pátého kola konference prohlásil: „Odročeno je zasedání, ale ne proces o bezpečnosti a spolupráci v Evropě, a mohu dát souhlas k odročení jen za tohoto předpokladu“.
- Na uzavřených cestách byl vsak poměrně čilý provoz osobních a dodávkových aut — vozidel státní bezpečnosti.
- Orgány státní bezpečnosti je zadržovaly, exponované filmy zabavovaly, resp.
- Počet příslušníků Státní bezpečnosti nasazených na hřbitově a v jeho bezprostředním okolí odhadují stejné prameny asi na 100.
- Orgány Státní bezpečnosti se snažili řečníka zadržet, ale nemohly se prodrat hustým zástupem, který se semkl kolem hrobu.
- V kostele byly rovněž přítomny orgány Státní bezpečnosti.
-Biemel, osobní přítel zesnulého, přiletěl na pohřeb z Německé spolkové republiky, avšak byl ve středu ráno odveden z hotelu orgány Státní bezpečnosti, vyslýchán, dopraven na letiště a donucen — aniž se mohl pohřbu zúčastnit — k odletu do vlasti, ačkoli měl platné československé vízum.
- Posléze zlikvidovala Veřejná bezpečnost zeď tak, že před ni postavila plakátovací stěnu, na kterou se vylepují nejrůznější oznámení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c6d49a2c2c19d6bcc05fc20e7ec11878b756002dfa1afb24a903c60459ff2d9
+size 1547

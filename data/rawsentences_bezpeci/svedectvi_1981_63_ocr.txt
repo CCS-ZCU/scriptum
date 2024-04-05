@@ -1,1 +1,3 @@
- Člověk myslí na živobytí, na úspěch, na slávu, na postup, na své větší bezpečí, na své lepší místo nu slunci ; a ve světě zapikolovaném mocí je místo na slunci místem jen urnírr moci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dc2adb5f588235cf71df03cc65ce2391c7d2fad60506f2443e855de789ccb4d
+size 210

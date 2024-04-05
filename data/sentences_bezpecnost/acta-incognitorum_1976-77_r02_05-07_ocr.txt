@@ -1,1 +1,3 @@
-pite celý moře vysušit
+version https://git-lfs.github.com/spec/v1
+oid sha256:905b002e35982b7091df02d6a5a424891df8a0d7c14894a43c83ffcf749aedc1
+size 26

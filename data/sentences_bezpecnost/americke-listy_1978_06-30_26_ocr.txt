@@ -1,2 +1,3 @@
-agentura schůzka elitní zahranič politický klub zvaný trilaterální výbor prezident Carter poradce říci mít pevný datum chtít obnovit plný diplomatický vztah Čína Čína ochotný přistoupit podmínka garantující budoucí bezpečnost Taiwan
-společný nepřítel sovětský svaz zajistit závislost bezpečnost úkciový zemní celistvost
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aad95f8f0c77ddde29b004133deb9225dd849e40178604c9618af53ea48b6ac
+size 339

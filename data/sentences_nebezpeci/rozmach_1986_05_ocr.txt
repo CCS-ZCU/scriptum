@@ -1,3 +1,3 @@
-mateřský cit církev znatelný kanonický instituce zvyk consuetudo dobrý matka dávat volnost hrozit nebezpečí muž vést dobrý
-světový názor pojetí svět dogmatika klasický filosofie vlastnit nebezpečí vyrovnat badatelský metoda výsledek moderní myslitel moci učit
-průprava moci studium nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e94c35d5f74ae562cc35f101bce5a783d553f047d63deb881c62e9519607c7a7
+size 319

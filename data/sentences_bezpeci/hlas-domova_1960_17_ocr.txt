@@ -1,1 +1,3 @@
-dychtivý americký novinář vést vězení tucet československý občan svěřit bezpečí novinářský čest občanský ctnost americký obchodník zpráva
+version https://git-lfs.github.com/spec/v1
+oid sha256:b76b2bb922f7b71dd74b491e50e710145dc2bc4a4e362dd8bfe15a8808d6db62
+size 165

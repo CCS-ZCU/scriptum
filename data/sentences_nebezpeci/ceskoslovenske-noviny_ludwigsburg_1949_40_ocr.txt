@@ -1,1 +1,3 @@
-iracionální choutka komunismus změnit jedovatý podstata nebezpečí svět humanita
+version https://git-lfs.github.com/spec/v1
+oid sha256:6774037ea382293432287e98147e1391fda0ca6acc7590c03d90057694a1490f
+size 87

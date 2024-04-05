@@ -1,7 +1,3 @@
- Jaderná bezpečnost je' řešena zvlášť, tedy mimo koncepci péče o životní prostředí přímo se sovětským partnerem a jsou zde uplatňovány zkušenosti z havárie v Černobylu.
- Z ročníku 1988: Srpen - hlavní článek se zabývá otázkami dokumentu "Důsledky závodů ve zhroje&í pro prostředí a další aspekty ekologické bezpečnosti” se zasedání států Varšavské smlouvy, následuje rozhovor na zahradním úřadě v Lipská, vzpomínka na odstřel staré budovy a kostela Lipské univerzity, "Teze ke společenské obnově" Friedricha Schorlemmera a zajímavé "Aralské jezero" - převzato z listu Družba ES Kazachstánu.
- července 1938 přijal politický poradní výbor členských států Varšavské smlouvy dokument "Důsledky horečného zbrojení pro životní prostředí a další aspekty ekologické bezpečnosti".
- Vždyt většina států Varšavské smlouvy není schopna zaručit ekologickou bezpečnost svého území a obyvatelstva, natož aby byla schop na poskytnout záruky jiným zemím či od jiných zemí záruky žá-  dat.
- Musíme s politováním konstatovat, že sni v Československu nemůžeme stále ještě hovořit o vlastní ekologické bezpečnosti.
- Z domácích i zahraničních vědeckých studií vyplývá, že vodní dílo Gabčíkovo Nagymars je aktem proti mezinárodní ekologické bezpečnosti.
- Bude-li v naší re:ublice nadále pokračovat pustošení přírody, nebude zřejmě možné teto právo zabezpečit, zaručit ekologickou bezpečnost a právě tyto obavy nás vedly k podání těchto podnětů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba890c75e45d5f2a43515a887999ff8cf11f0c478840c61b819c7cef64648fe0
+size 1591

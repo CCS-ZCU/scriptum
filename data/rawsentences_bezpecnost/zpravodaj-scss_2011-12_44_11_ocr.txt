@@ -1,3 +1,3 @@
- V roce 1950 byl zatčen a odsouzen na 19 let těžkého žaláře, většinu strávil v uranových dolech a i po propuštění byl neustále šikanován Státní bezpečností.
- "Elektřina z jádra by kvůli rostoucím nárokům na bezpečnost reaktorů beztak zdražovala," myslí si tamní ministryně pro životní prostředí a energetiku Doris Leuthard.
- Jak jsme však byli ubezpečeni Informačním centrem bezpečnosti potravin, z tvrdého strojního oddělování při výrobě separátu (SOM - strojově oddělené maso) se získá velmi jemná masová pasta složená z částic menších než 1 mm, takže nehrozí žádná újma na zdraví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a45ddff035f7eead1776c74fffb0db6476566e1188136c4cc0c70bbb7533a1f
+size 656

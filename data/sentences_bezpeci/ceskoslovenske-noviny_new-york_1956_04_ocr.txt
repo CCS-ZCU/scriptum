@@ -1,1 +1,3 @@
-říci velký slovo Pascalův Masaryk najít bezpečí proslov boží oslava masarykova
+version https://git-lfs.github.com/spec/v1
+oid sha256:01bb5bd263904e273338192244afbe3316565944ebfd34db3a53fc4908b4adf9
+size 88

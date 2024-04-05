@@ -1,1 +1,3 @@
-říci krásný číslo děcko prvý doba nebezpečí krev
+version https://git-lfs.github.com/spec/v1
+oid sha256:2146b81236a74567b725d6f14d7a86a82101e100de4e3f3301643e21c6dff67b
+size 59

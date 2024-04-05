@@ -1,4 +1,3 @@
-" President asi nic nevěděl o Organisaci spojených národů, o Radě bezpečnosti, ke které se prozatím obrátily všechny hlavy napadených států a to i v případech, že svou žádostí nevyjadrovaly třeba veřejné mínění.
- Chtěli od něho souhlas, aby se mohli oficiálně obrátit se stížností k OSN a k Radě bezpečnosti.
- Jednotně a po boku našeho lidu vystupují složky Veřejné bezpečnosti, armáda a Lidové milice.
- Vz jednání Rady bezpečnosti zůstalo stanovisko SSSR zcela izolováno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3737be5af71ce2e94978e6cfc0807692ae5cd6cdd61e0962d56bebce809c465e
+size 523

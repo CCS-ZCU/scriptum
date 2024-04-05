@@ -1,5 +1,3 @@
- Jeho syna Jana i dceru Věru ale zatkla Státní bezpečnost za plánování ilegálního přechodu hranic.
- Nový plynovod, pro nějž bylo zvoleno jméno slavného rakouského hudebního skladatele, oblíbeného i v českých zemích, má především zajistit vyšší bezpečnost a spolehlivost dodávek do obou zemích.
- Rakev světce, která obsahovala popel a několik kostí, byla za účasti notáře otevřena a zase zapečetěna a přenesena do kostela Chiesa Nuova, ale kvůli bezpečnosti byla rakev uschována na jiném místě, na které se během doby zapomnělo.
- Členové redakce se stávali často předmětem perzekuce Státní bezpečnosti.
- ledna Státní bezpečnost znemožnila skupině signatářů Charty 77 návštěvu plesu železničářů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7641cf90bc24d40615062d0a705f044c06ba1e5fa6d20e4cfc459dbc6cbc0707
+size 772

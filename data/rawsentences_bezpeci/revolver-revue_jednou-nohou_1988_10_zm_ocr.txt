@@ -1,3 +1,3 @@
- Jsou už dejme tomu v bezpečí avbylo by u.
- Jako by se Lena vrátila do bezpečí, s nímž už se po odchodu nikdy nesetkala • které vždy postrádala.
- Jménem všech našich mrtvých z Drvhi světové války, kteří se obětovali za vaši svobod", máme právo poslat k vám vojáky, abychom se nvnitř našich hranic cítili skvtečně v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da06e53d03961edfb3ea4ee09040267384de0d5aad448e103f569666b4a63d4a
+size 360

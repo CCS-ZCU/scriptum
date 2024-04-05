@@ -1,1 +1,3 @@
- Prohlášení bylo uveřejněno ke Dni bezpečnosti na silnicích, který se v N SR konal 20.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b1ffe865a56f78aa966ce9a06a7c72e6e465c4e80feb450e78e431bb95c95e
+size 95

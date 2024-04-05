@@ -1,2 +1,3 @@
-vykonávat státní bezpečnost kritika společnost Československo ilustrovaný unikátní záběr policejní hlídání obtěžování Václav Havel
-sandinovský síla přebudovat armáda počítat zavedení becný branný povinnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:985e3b9cdabe19ab16c910447849b89c52abb12c5fa2bf9a50c971051c326848
+size 236

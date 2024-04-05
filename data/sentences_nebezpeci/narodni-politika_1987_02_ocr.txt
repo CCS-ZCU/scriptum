@@ -1,2 +1,3 @@
-titíž sandinista vytvořit policejní stát provést militarizace země předstírání nebezpečí vytvořit zajišťovat hospodářský chaos trvalý útlak podmínka existence militaristický junta
-kolmý převislý stěna skála povrch hlubina důl táhnout labyrint jeskyň složitý záhada dutost nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e858c4eab68c99ea0e5a4720746528550e5cf099774d3576f53318b66d5ed369
+size 318

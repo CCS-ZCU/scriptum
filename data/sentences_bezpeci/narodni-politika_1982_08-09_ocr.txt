@@ -1,2 +1,3 @@
-výchova rodina rodina dítě cítit bezpečí milovaný pouhý biopsychicko sociální uskupení lze popsat strohý jazyk statistika
-mít místo hluboký intimita bezpečí tělesný citový mravní síla dítě rozvíjet atmosféra klidný důstojný kritičnost víra smysluplnost konání dospělý
+version https://git-lfs.github.com/spec/v1
+oid sha256:e390bef5daa2e02e102fa51bec788215ae1e9ea889f8a0468bf972d6a63d814a
+size 302

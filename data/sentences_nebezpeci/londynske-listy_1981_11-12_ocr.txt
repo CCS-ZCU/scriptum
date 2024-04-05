@@ -1,2 +1,3 @@
-rozšiřovat zoufalý óokus odhalit mladý fronta věřící Le< růst sílit režim velký nebezpečí
-bdát moci minout nebezpečí následovat ctnost předkův dát průchod řád ejioh
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f545bfd2f6d5057f2c9a4323cf5e5e00abd01fab0541a919ae6390d3d0e33a8
+size 190

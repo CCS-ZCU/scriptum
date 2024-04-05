@@ -1,4 +1,3 @@
- Vytvořením Atlantického paktu ( v dubnu 1949) Amerika přezvala patronát nad bezpečností Evropy.
- Komunistický puč v Praze, na který tehdy doplatily všechny západoevropské komunistické strany, byl jedním z argumentů pro organisování bezpečnosti Západu.
- Nakonec konference, která měla podle návrhu Sovětů řešit společně se Západem problém evropské bezpečnosti rozhodla, že ve východní Evropě bude vytvořena protiváha západoevropského vojenského společenství, ale jenom potom, jestliže na Západě bude ratifikována dohcda o remilitarisaci Německa.
- STUDENÝ MÍR Sovětský plán Evropské konference o bezpečnosti a spolupráci byl celkem jednoduchý.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d325d4a89f98c66a10bab19bfcb4247fa6db466913504fe63a2260dcb404f28a
+size 701

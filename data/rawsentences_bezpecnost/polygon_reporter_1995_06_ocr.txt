@@ -1,1 +1,3 @@
- Stejně tak by se mohl zbavit odpovědnosti za bezpečnost, za dopravní situaci, za nedotknutelnost státních hranic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab58e32072e537629d4c32e8dd62911fbff97cacad79f0c0cddeda4179e7ee98
+size 121

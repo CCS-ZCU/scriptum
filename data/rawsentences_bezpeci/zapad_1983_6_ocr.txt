@@ -1,1 +1,3 @@
- Postel, lůžko pro každého člověka ztě- lesňuje intimitu, pocit bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51ee45550ff22cde7f267482dc5af1344a63264ae2133e7920d25a712082cd88
+size 81

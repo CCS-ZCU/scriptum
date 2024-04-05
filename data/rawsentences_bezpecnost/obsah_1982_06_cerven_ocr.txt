@@ -1,4 +1,3 @@
-du a bezpečnosti.
-su úklidu a bezpečnosti a do čeho ty by ses, prosa tě, to.
- Je tu sice nejvíc dějového ruchu /jeden z únosců se stane skutečným vrchem po Qtěku z havarovaného auta, jimž ho bezpečnost převáží/, ale málo skutečného vnitř ního napětí.
- Touha po Sabině je víc než jen touhou milostnou, je to bytostná potřeba mít vedle sebe člověka s hlubinon bezpečnosti, opravdového, uskutečňujícaho své lic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2120891d750fb26dca7aafed19841bfacc92b5d1d51aeaeca9e55dcac8553d2c
+size 450

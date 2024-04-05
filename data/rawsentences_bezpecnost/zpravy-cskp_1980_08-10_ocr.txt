@@ -1,9 +1,3 @@
-Dnes se zdá být sice jasné,že silou Helsinské dohody a z ní vycházejících následných konferencí, jako touto Madridskou, se ani bezpečnost ani spolupráce v Evropě moc nezlepší, ale za to je nesporné, že celá akce vedla a vede k nebývalé mobilisaci celé světové veřejnosti-právě proti SSSR.
- To ani nemluvím o tom,že kolegové byli nuceni uznávat za psychicky nemocné lidi, o nichž věděli jen to,co jim na stůl přinesli vyšetřovatelé Státní bezpečnosti.
-Každý z jednotlivých případů byl ihned hlášen Veřejné bezpečnosti.
- V tomto směru je resoluce přenosně určena i všem ostatním signatářům dohody o evropské bezpečnosti a spolupráci.
-Až ve čtvrt na pět přijížděl krokem hlídkový vůz veřejné bezpečnosti.
-V dalším obsahu pak článek poukazuje přehledným výpočtem na hlavní obsah celého podání ČSNRA s poznámkou, že místopředsedkyně této organizace pí Anna Faltusová týž materiál už poskytla americké Komisi o bezpečnosti a spolupráci v Evropě u příležitosti "veřejného slyšení",které tato komise před časem organi- sovala ve Washingtonu.
-Poukazuje se na pronásledování členů Charty 77, kterou "podepsaíi muži a ženy různého politického přesvědčení, náboženského vyznání a zaměstnání",a členů Výboru na obranu nespravedlivě stíhaných/VONS/ a apeluje "na všechny signatáře Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě, aby se na svém zasedání v Madridu zabývali otázkou porušování lidských a občanských práv a základních svobod v Československu.
-Pusa- nov mu zaručil bezpečnost,což asi nejvíc vzbudilo podezření mazaného Amina.
- Československá národní rada americká připravila obsáhlý materiál pro následnou konferenci v Madridu o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44eee2b3f265d04cee013ed1517f2fd5cebb5b4644e07c6dfea0a3dfd6ff7a4
+size 1872

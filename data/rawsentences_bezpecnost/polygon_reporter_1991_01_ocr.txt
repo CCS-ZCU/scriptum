@@ -1,4 +1,3 @@
-000 spolupracovníků Státní bezpečnosti, když mnohdy v odpovědných funkcích ještě zůstávají ti, kteří mají daleko větší odpovědnost za zločiny minulosti.
- svazu mládeže z padesátých let a informátorem Bezpečnosti - který tuto »činnost« musel mnohdy třeba činit z donucení — a oním přesvědčeným komunistickým funkcionářem minulosti? Zbavuje ho odpovědnosti to, že byl později vyloučen z KSČ? Ne, žádný komunista - pokud není odpovědný za zločiny proti lidskosti, za porušení lidských práv, občanských svobod - by za své omyly neměl být vyřazen ze společnosti.
- Základem státu je jeho strategická a politicko-hospodářská bezpečnost.
- Takto organizovaná Evropa by poskytovala poměrně vyrovnanou stabilitu, bezpečnost a možnost vzájemného federativního sjednocení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:973fbf56a8cd998dd1873968882f5bbbca0997700f9da08edcef4c57cdd99939
+size 844

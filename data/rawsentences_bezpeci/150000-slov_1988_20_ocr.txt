@@ -1,3 +1,3 @@
- Ohrožováním souseda nedosáhneme nikdy bezpečí.
- Protivníkovo bezpečí je naše vlastní.
- C hceme-li si uchovat svobodu, musíme znovu posílit přesvědčení, na němž bylo panství svobody v anglosaských zemích založeno a jež Benjamin Franklin vyjádřil větou, která platí jak pro naše jednotlivé životy, tak pro náš život národní: „Ti, kteří by se vzdali podstatné svobody, aby si opatřili trochu dočasného bezpečí, nezaslouží ani svobodu, ani bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4fc9d50921748827493fa2f3bd0e425d7034dbc7d26a803148e3995986fe135
+size 497

@@ -1,1 +1,3 @@
-Dieťa matkinom náručí plavec tichom prístav vzduch vyhodený kameň pevný usadit léci bezpečí chránený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:651d7b3d03968167e38247040453c43bf53d7d2ef666107ef29851565f79516f
+size 120

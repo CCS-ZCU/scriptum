@@ -1,1 +1,3 @@
-McGovern zpráva psát vidět sovět bezohledný USA přátelský mocnost společnost ovládaný touha ospravedlnit mezinárodní činnost západ uznávat povinnost přispět velký dílo mírový podnikání prvotní národní cíl vlastní mír bezpečnost vlast
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60c03ab6ef892897d4af2f79819a1bce169067ed6954ff9ab109f393b7cbe1e
+size 265

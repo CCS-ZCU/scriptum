@@ -1,2 +1,3 @@
-obnovený evangelický protestantský mínit protest trvalý neochota sklonit nést plod charakter velehradský pouť svědčit autorita hledaný akceptovaný kardinál Tomášek Casaroli projevovat zástup bezpodmínečný synovský poslušnost stát věrnost věc Kristův jiný biskupský hodnost dokázat poskytnout pocit osobní bezpečí pobít naivní autentický zvolání význačný stát vyznamenávaný církevní hodnostář
-obecný schopný pochopit tolerovat sloučit rozliční forma zápas bláhový úmysl udeřit znamení kříž bláhový úmysl rozvíjet síla rutina kult bezpečí ghetto bláhový úmysl spolehnout otevřený dialog síla pravda
+version https://git-lfs.github.com/spec/v1
+oid sha256:4314d3d758f0de0a68c75f51b149b0d1f85f0dd7ab130244315742865ac89c6f
+size 670

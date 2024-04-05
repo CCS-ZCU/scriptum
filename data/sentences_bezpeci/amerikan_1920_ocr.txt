@@ -1,5 +1,3 @@
-ujíždět strana hledat bezpečí záchrana
-posílat zada bezpečí uposlechnout
-moci pohodlí bezpečí vypálit kurník lepší kus
-československý brigáda Tarnopole zrazený demoralisovaný ruský pluk odpírat vzdát prosekávat bezpečí
-chráněný dopravený bezpečí československý vojsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a9ef223b28945673d54aa9ba9913086b7ec6494621890a90f403ba2a46b1ba9
+size 303

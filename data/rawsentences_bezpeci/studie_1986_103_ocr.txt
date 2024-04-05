@@ -1,1 +1,3 @@
- Může nám někdo zazlívat, žo po tolika létech persekuce a nevybíravých útoků na čest a pověst naší rodiny chceme žít v klidu a bezpečí tak, aby se naše děti mohly těšit ze života, i když víme, že všude je chléb jen o dvou kůr- kách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ce8c938186a06cf1772c5cbf83bae8bea8f58bf6f9c454bc90c194f4dadff8c
+size 262

@@ -1,2 +1,3 @@
- Bude dobře, když po vojno někteří z uárodovců českých prohlédnou jižní státy americké, a podají věrnou zprávu všem svým krajanům a všem českým vystěhovalcům v novinách, podle kteréž by se s bezpečnosti říditi mohli.
- Odpověděli mu však zcela krátce, še zatčen v prospěchu veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81dca0288c314c4979a4bf4fcef2ebf6612f4f83f475564e2a1a74651a0bb51f
+size 335

@@ -1,1 +1,3 @@
- No a skutečně, seděli jsme u jednoho stolu a zájemců bylo dost, že jsme opravdu něco vydělali a strašlivě jsme se tam střískali, a když jsme odtamtaď šli, tak, poněvadž Vladimír se tak nějak bál nějakejch konfliktů s bezpečností, tak mě mrzce opustil, když já jsem se tam někde válel po nábřeží, bylo štěstí, že aut tehdá moc nejezdilo, tak já jsem se klidně v noci položil ne na chodník, to by do mne lidi mohli kopat, ale do jízdní dráhy, protože to měl člověk víceméně zaručený, že nic nepojede.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f43839f158ee930f765b91f740937224d667a0204fc4d4beab62cc84ace05044
+size 555

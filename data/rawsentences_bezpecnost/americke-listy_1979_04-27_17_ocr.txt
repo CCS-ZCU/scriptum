@@ -1,1 +1,3 @@
- Například loni navštívil prezident Husák pražské Muzeum Sboru národní bezpečnosti a vojsk ministerstva vnitra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f711e799ef92ed977c032e7c441cfa980d647f89f2cfd40b32f36dee4355482b
+size 122

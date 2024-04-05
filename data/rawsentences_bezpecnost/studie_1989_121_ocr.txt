@@ -1,5 +1,3 @@
- V hrozícím nebezpečí jsme prožili závan 13  nevýslovné bezpečností; ne že by nás zhouba nemohla dostihnout, ale že jsme nad ni povzneseni a tím vlastně nezranitelní.
- a ponechal tak tajemníkům pro věci cír- kevní, orgánům bezpečnosti a soudům, aby aplikovaly ustanovení § 178 za extensivního výkladu a libovůle na jakoukoli činnost bez úředního schválení, a to jak kněží, tak dokonce i laiků.
- Za podobnou činnost jsou mnozí, zvláště mladí lidé podrobováni výslechům, domovním prohlídkám, sledování, odposlechu telefonu i bytu, kontrole soukromé korespondence a jiným šikanám (odebírání řidičských průkazů čí telefonu pod průhlednými zá- minkami aj,), Při výsleších se orgány Státní bezpečnosti snaží zastrašo- váním, vydíráním a korumpováním přimět věřící ke spolupráci.
- Státní moc dosud prakticky nenabídla věřícím k rozhovoru jiného partnera než vyšetřovatele Státní bezpečnosti.
- Odsouzení Ivana Polanského je protiprávní mimo jiné proto, že omezení Jimž podléhá užívání práva na svobodu projevu podle článku 19 zmíněného paktu, nebyla činností Ivana Polanského nyak dotčena: jako autor i vydava- tel respektoval práva a pověst jiných a nijak neohrozil ochranu národní bezpečnosti, veřej- ného pořádku, veřejného zdraví a morálky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:530f4f6c5ccf00790620db4c497acdb37aac117d63802e921dfdb855ea319718
+size 1386

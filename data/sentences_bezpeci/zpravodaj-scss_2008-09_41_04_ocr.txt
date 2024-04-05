@@ -1,2 +1,3 @@
-život okupovaný země obehnaný ostnatý drát skýtat pocit bezpečí
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc897b260acba624e206c8291730d9278c7c218e874bc464ae71195ce938842b
+size 170

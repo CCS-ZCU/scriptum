@@ -1,2 +1,3 @@
-nebezpečí kompromis přípustný dodávat bero alibi politický driblérum země chudý čas smět mít vlastní republikánský stát
-spisovatel vypravovat vlastní bolestné zkušenost věnovat místo mučení týrání jiný vězeň muž žena dítě nazývat pravý jméno zemřít iniciála žít vystavovat nebezpečí pronásledování spolupráce
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a65d34f39b83f7c7a48d8da0273e136652d356fe01ba4df1d2220175ddab57b
+size 357

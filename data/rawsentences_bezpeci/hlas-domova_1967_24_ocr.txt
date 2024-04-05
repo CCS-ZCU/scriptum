@@ -1,3 +1,3 @@
- Byl zlep- šen materiální uděl občanů, "hrozba jejich fyzickému bezpečí zmenšila se l nepoznáni.
- I oni se často mu- sejí ptát, proč za sebou museli nechat bezpečí svých pokojných existen- cí doma a jak a proč se vlastně ocidi v zabláce- ných děrách Vietnamu.
- A nepřekvapilo by, kdyby se také zeptali, jestli svět, který dřepí ' pohodlně v bezpečí své- ho pokrytectví, stojí vů- bez za oběti a za záchra- nu? -kw- a a.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d984beed93c0a20cc0c6876a20c56733e84ce92855eb8c611e8b97658611023b
+size 445

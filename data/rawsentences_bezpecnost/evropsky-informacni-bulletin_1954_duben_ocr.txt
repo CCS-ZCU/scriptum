@@ -1,1 +1,3 @@
- V Budapešti byl odsouzen vojenským soudem Peter G-aBOR, bývá lý náčelník bezpečnosti / pravým jménem Beno Auspitz / na doživotí a jeho druhové Dyula DECI, bývalý ministr justice na 9 let a Istvan TIMAR na 11 let.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e24954ef6d662fe986898106718c3781f6d68138f2b325cf421ad8badafbcd
+size 230

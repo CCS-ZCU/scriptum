@@ -1,1 +1,3 @@
-" Ti, kdož procházeli terorem hrůzných ruzyňských výslechů, mohou dosvědčit, jak nenáviděn byl Dr Beran komunistickou Státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64326d5991e30268d85835129c54476d3c165ae784ac54f9fda77f109f3f7baf
+size 154

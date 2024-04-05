@@ -1,2 +1,3 @@
- Švýcarské, bankovnictví a pojištovnictví skýtá nejvyšši možnou záruku solidnosti a bezpečí.
- Odvezl je tedy daleko do bezpečí lesa a pustil na svobodu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2547973f69e130bedac1dd049d77e4b4debc5a94f7c01c3386c213261a52709
+size 169

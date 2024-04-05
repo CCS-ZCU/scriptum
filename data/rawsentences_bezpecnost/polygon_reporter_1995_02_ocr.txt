@@ -1,13 +1,3 @@
- Celou záležitost však neoznačila za tak závažnou, aby vzbudila mimořádné obavy o osud demokracie a bezpečnosti státu.
-“ „Kterej Mirek? Já jich znám několik,“ namítl Jaroslav Ort, bývalý referent bývalého referátu 1032 bývalé Státní bezpečnosti.
- Dyť někdo tu bezpečnost státu vždycky dělat musí.
- V NATO vidíme jedinou fungující, skutečně evropskou strukturu bezpečnosti, která je založena na těch ci- vilisačních hodnotách, v něž věříme i my.
- zájem o bezpečnost hranic a obchodní vztahy vždy vyžaduje, aby více civilisova- ný stát měl určitou pravomoc nad svými sousedy.
- Ruský kancléř Alexander Gorčakov, 1864 Jak pan Claes řekl: „Pro bezpečnost nepotřebujeme spotřebitele, ale země, které jsou schopny nést plnou odpovědnost včetně risik a finančních nákladů na členství.
- Kupchan, v prvém roce vlády presidenta Clintona dlen úřadu pro národní bezpečnost, New York Times, 22.
- Masakr v Čečensku má ovšem ohlas především ve státech východní Evropy, kde si dobře uvědomují, že americké akademické psychoanalysy ruských politiků a generálů mají málo co společného s jejich bezpečností.
-" Dlouho mi do kroku taktovala myšlenka: Kdyby chodilo po cestách v naší zemi víc podobných skupin mladých lidí, kteří se ptají na bohoslužby, černá kronika v novinách by se zmenšila a bezpečnost lidí by se zvětšila; policie by měla méně práce a národ by šel opravdu vstříc šťastné budoucnosti, kterou si otevřeně či skrytě přejeme všichni.
- I bez sdělovacích prostředků každý můžeme pozorovat jistý pokles bezpečnosti ve svém okolí.
- Je však nezbytné učinit změny znamenající zvýšení bezpečnosti občanů, pokud stávající zákon novým podmínkám nevyhovuje.
- Jejich dnešní vláda (stejně jako ona minulá) reaguje na klesající bezpečnost občanů úsměvným tvrzením, že u sousedů v USA a mnohde jinde je situace mnohem horší.
- Obavy českého presidenta jsou tím oprávněnější, že na Západě je v otázce integrace středo- a východoevropských států - a tedy zaručení jejich bezpečnosti - dokonalý zmatek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca69bf5ff3ee59216877ed41200f589082cf4b85c59fdceddcae4cce1425a9b
+size 2208

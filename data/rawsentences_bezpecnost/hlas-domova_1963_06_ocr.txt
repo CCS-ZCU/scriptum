@@ -1,2 +1,3 @@
- Roz- dělí-lí kdy Američani svobodný svět na pozice, které lze v případě nutnosti vyklidit a na posice, které jsou životně důležité pro bezpečnost Spojených států, mezi nezbytné budou patřit taková místa, jimž bude přidělena významná role v americké nukleární strategii.
- Ne všichni Australané však souhlasí s tím, že americké jaderné ponorky v Austrálii představují nejlepší možnou záruku bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:929ae73b8f623e686c6f6321b811372b38a0bc66afebfff8d488ded3e6fb4b6f
+size 451

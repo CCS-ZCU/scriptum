@@ -1,7 +1,3 @@
-masový pokračování strana
-australský kontinent velký většina obyvatel žít doba ospalý život vědět nebezpečí zvenčí
-přátelský začátek Austrálie podporovat indonéský zápas závislost dostavit nový tažení jih tažení čínský komunismus představovat jistý popiratelný nebezpečí
-vynoření Indonésie silný vojenský mocnost představovat nebezpečí existence moci jistý moci vyloučit
-západní Irián možný nebezpečí Indonésie jistý nebezpečí komunismus lze oddělit
-poschodí
-dřít pionýrský duch předek nutit člověk vylézt Říp odhalovat nový obzory poznávat probádaný dálka podstupovat naprostý pohrdání život nebezpečí člověk australský buš hrozit krok
+version https://git-lfs.github.com/spec/v1
+oid sha256:78420359587186c77bb672aeef12774011cd78ea94a070972b0bcebfba4addc5
+size 726

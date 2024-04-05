@@ -1,2 +1,3 @@
- babička začala opět prozpěvovat — bylo jich obou tak nějak víc po statku: cítil jsem jejich šukavou přítomnost — vstřebával to náhle zružo věk- bezpečí brzkých pod več'jru.
- Po všech těch kotrmelcích a pádech, když se mi, myšičce, podařilo upláchnout z betonové plochy do bezpečí, když už mi nehrozí puška lovce myší, sledující mé klikatění jako na dlani, když jsem vystoupil ve Vídni na Severním nádraží z osobního vlaku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8efcee87b39c46fe0fdcd4729a207d02cd7d7029bab5030c12fd790c3b61f240
+size 280

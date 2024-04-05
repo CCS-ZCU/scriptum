@@ -1,1 +1,3 @@
-obrátit ringový lékař dbát velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dab6a674f5385b1b91052042d5c629722eb16013373d2edb337e7f508fa7300f
+size 51

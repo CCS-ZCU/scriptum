@@ -1,2 +1,3 @@
-pionýrský stát stát konzumní společnost moci užívat výhoda válečný hrozba nebezpečí raketový útok strach teroristický akce zažehnaný
-nebezpečí hrozící lidé tkvět úzký spojení nepřítel posílat Čechy Morava provolání zpráva podobný publikace velezrádný obsah dostávat zpráva vojenský politický obsah odevzdávat protivník
+version https://git-lfs.github.com/spec/v1
+oid sha256:65428662b06b90d364caea2388d2197a6e639b67811afa71fa6a2ff2add77eef
+size 363

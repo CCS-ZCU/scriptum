@@ -1,2 +1,3 @@
- Jenom to “nevhodné’ vystupování Československý ministr vnitra si v pražském rozhlase pochvaloval úspěšné působení mladé generace ve Veřejné i státní bezpečnosti; jen — prý — někteří jednotlivci ještě nedozráli k tak od- , po vědnému posláni a těm ministr vytkl “nevhodné vystupování”.
- Současné patříme i k těm, kteří zdůrazňují nedělitelnost a vzájemnou závislost všech bodů závěrečného aktu z Helsinek, včetně dodržování lidských práv a základních svobod všemi zeměmi, zúčastněnými na konferenci o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77fd58aaeb55b7a8e84bf069c0a460df813b48714cd6e98ecf46f64d1ca1bfcc
+size 618

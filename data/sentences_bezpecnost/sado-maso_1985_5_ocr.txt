@@ -1,1 +1,3 @@
-myslit ovlivňovaný kontrolovatelný faktor situace produkce ropa bezpečnost svět pouhý mýtus
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5a912a14e451862d30aff528f95cde981322eb02d018272fd9452f7e5a78496
+size 99

@@ -1,3 +1,3 @@
-ohrožování soused dosáhnout bezpečí
-Protivníkův bezpečí vlastní
-hci uchovat svoboda muset posílit přesvědčení panství svoboda anglosaský země založený Benjamin Franklin vyjádřit věta platit jednotlivý život život národní vzdát podstatný svoboda opatřit dočasný bezpečí zasloužit svoboda bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:661d1e78a5db08731e8cbceefaf458a6b577c794169f651287ada3dc24f7a27c
+size 334

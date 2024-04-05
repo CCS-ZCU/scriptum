@@ -1,2 +1,3 @@
-” Před dalším soudním procesem Podle zpráv zahraničních agentur, odvolávajících se na informace z Prahy a Vídně, Státní bezpečnost v Praze udělala další zátah proti nekonformě smýšlejícím občanům, při kterém bylo zadrženo přinejmenším sedm členu VONSu.
- Adámka a několik dalších obžalovaných vyšetřovala Státní bezpečnost na svobodě: jsou mezi nimi 30-letý Rudolf Šmahel, který byl od roku 1977 farářem v Uherském Brodě, 54- letý Jan Krumpholc, vězněný už po roce 1949 jedenáct let za udajnou “velezradu”, a Josef Vlach, odsouzený v roce 1950 k trestu smrti, pak omylostněný a dalších deset let vězněný.
+version https://git-lfs.github.com/spec/v1
+oid sha256:484c40b97c14cd74c5c6e666066a54745a49f6ffc244ae7ede25f008767021b2
+size 676

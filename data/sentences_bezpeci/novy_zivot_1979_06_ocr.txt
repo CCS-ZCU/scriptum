@@ -1,1 +1,3 @@
-unavený vyčerpaný odcházet kaple čekat domácí shromážděný večerní požehnání vstup přístav klid bezpečí povzdychnout hosanna ukřižovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e9e4c6643729f49fbb4a25c2c081aacc8a3dc0e7d0dcb402139233c57ef338
+size 156

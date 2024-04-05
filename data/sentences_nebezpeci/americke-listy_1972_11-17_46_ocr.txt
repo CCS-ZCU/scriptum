@@ -1,3 +1,3 @@
-pomoc lze hodinový předstih stanovit nebezpečí důlní otřes zával
-
-politika
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea9888e15c706b91b086c34f4e57ca5a1ff9c0826fc27b3e99221dba64a2dc5c
+size 83

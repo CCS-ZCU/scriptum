@@ -1,1 +1,3 @@
-li po požití zkaženého lososa, jehož jsme koupili v krabičce u načeho prodavače Čeho se ulekli? Odkud to "ááá" v novinách, komisích, vySetřo- vánícb, odkud pouliční balady, brožury i velesentimentální legendy? Titanic - konec éry? Snad proto, že už nemáme pocit bezpečí? Že nás nic nechrání, ani peníze, ani každovečerní převlek před jídlem, ani zápach cigaret, ani .
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fecca7240bce6344b01b979ce1370716a4b7f50dbd4b60d5898ae190904f53
+size 155

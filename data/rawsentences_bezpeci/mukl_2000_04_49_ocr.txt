@@ -1,1 +1,3 @@
- Do svých devatenácti let byla obklopena bezpečím velké, laskavé rodiny (pocházela z pěti dětí), nebyla ještě spoutána ani pracovní povinností, protože studovala na střední průmyslové škole.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95fc0bbec7e48fcb74cf522f273060b207fd815429f2888aaea298b232253811
+size 212

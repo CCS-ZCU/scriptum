@@ -1,1 +1,3 @@
-teto cesta nastoupený moci nastat nebezpečí prodlení
+version https://git-lfs.github.com/spec/v1
+oid sha256:100d3f01f02188ec8b4c5910dfb795f5509bebe1a1f5c1531075621b7b514d4c
+size 57

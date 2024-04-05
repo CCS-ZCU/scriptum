@@ -1,1 +1,3 @@
-svazek armáda bezpečnost diplomacie věda
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d0fce04ef5578fd803f4162aec10f9921a00c8d122d1f4206e1b7b282ee72a
+size 44

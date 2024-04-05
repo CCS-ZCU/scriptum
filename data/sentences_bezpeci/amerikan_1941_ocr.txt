@@ -1,1 +1,3 @@
-štěstí hranice sousední okres hodina rychlý chůze bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b93de3e036730cf790eab5a0da49ace3e9144b898fd442acf52edcb6ed3c070
+size 66

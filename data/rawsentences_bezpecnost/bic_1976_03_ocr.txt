@@ -1,1 +1,3 @@
-Manzetka pláče a naříká,ale manžel ji uklidňuje: "Mlč, co řveš? Víš, co by nás to stálo s Čedoken?" Protokol o úrazu: Nohu si jmenovaný zlomil ve smyslu platných předpisů o bezpečnosti práce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:becd7ec9eee1d3b88ec01ed7f62fec72a0a992b60abfd34eaad2c09cfdfd81c9
+size 214

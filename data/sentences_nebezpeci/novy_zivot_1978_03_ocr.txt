@@ -1,6 +1,3 @@
-nebezpečí smrt myslit bůh věčnost leckdo lidé prohlašovat ateista
-vystavovat potřeba nebezpečí
-nebezpečí
-tisk mlčet skutečný ohrožení umělý družice Kosmos zeširok rozmazávat nebezpečí utronový bomba mít zhotovený ČSSR
-mluvit velký nebezpečí národ vystavovat závodění výroba atomový zbraň
-octnout nebezpečí zvolit exil stát kolébka exilový katolický podnik CML
+version https://git-lfs.github.com/spec/v1
+oid sha256:174194cd56f1d6e663f2e9d437498165f89de11bf3dee0592058a3429297fc9e
+size 404

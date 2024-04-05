@@ -1,2 +1,3 @@
-muset obrátit ústřední stranický orgán moci dočkat úkciový daje kádrový středoškolačka Morava rád poznat čestný hledat sekretář Milan Schulz litr skupeň politika východ
-fakt idea bezpečnostní konference vyjít malý stát muset bezpečnost bávat velký vyzbrojený evropský stát muset bát
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c2e10a8c6843ee65544aaa5dee398f1d35a735dc37de392d13f7dadb8affb37
+size 410

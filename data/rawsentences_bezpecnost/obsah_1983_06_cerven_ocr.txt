@@ -1,2 +1,3 @@
-ánku 31 kde se praví: "Každý má právo ne život, svobodu a osobní bezpečnost.
- V době, ^kdy desetitisiee demonstrovaly v městech západní EYropy, malá skupinka jedenácti bojovníků za mír v Moskvě hýla okamžitě rozehnána stá"^ď bezpečností a jej:! ^V\Mcov4 byli uvězněni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cf82b4cbcaa231718602367dccb15cd7d508e54cba00b434d287102a882cf16
+size 298

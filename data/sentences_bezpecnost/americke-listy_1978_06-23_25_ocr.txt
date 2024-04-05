@@ -1,3 +1,3 @@
-ráže společný dohoda dodornout komunistický mít potenciální vojenský materiál dojít zřejmý dávný návštěva Cartcrův pon otázka náiodní bezpečnost Brzežinský Pikmg
-odznak propůjčovat vládní bývor bezpečnost silniční provoz ČSR
-podpis moci ohrozit bezpečnost stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:e539105c0cf21e0a6478bb689a6665aa322bb95729f51dc183cac3a3c5611556
+size 297

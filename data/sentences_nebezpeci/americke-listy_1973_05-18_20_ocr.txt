@@ -1,1 +1,3 @@
-sovětský politika muset uvědemit chtít vystavit nebezpečí dostat izolace část vlastní spojenec komunistický hnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e65b3067d468e43aeaf6fc3de84b63ac4efa539db646aafbde3d3d61aea3d2b2
+size 125

@@ -1,4 +1,3 @@
- V zájmu studie Je však vhodná vymezit alespoň to, že sakrální Je z nesakrální pozice (která však sakrální nepopírá) nahlíženo Jako naprostá bezpečí, nejvyšší hodnota, a chápáno Jako duchovní kategorie.
- Těmito důvody je především lidská touha zajistit si ochranu a bezpečí.
- Jde tedy o předstírání, o snahu získat pocit, byí fiktivní, kulturního bezpečí.
- A buď i tím, že akcentuje ,$vou angažovanost na svobodě, přetvářejíc se, jak tomu chtěl poetismus, v pole absolutního osvobozování, rušení hranic /jistoty, bezpečí, věci - to vše jsou hranice/.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8d017074f0cc31c619c888db00b2c2f58a43730b056da40b384ef0689ecaa1b
+size 614

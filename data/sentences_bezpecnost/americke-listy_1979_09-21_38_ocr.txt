@@ -1,1 +1,3 @@
-hlavní argument omezení rychlost bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:b96ae8b59252da29f4d7207eaf1ede80d9c598c2beebf98609a6d2371c607923
+size 47

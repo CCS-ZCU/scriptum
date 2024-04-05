@@ -1,1 +1,3 @@
- Formuloval zprávičku v černé kronice, tedy velmi opatrně: »Neznámá žena nešťastně vběhla do vozovky na Perštýně a byla zachycena vozem Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f8a38c4e49a57b56861d2b3938cfc8220571410c09ae8d32576e71296ff81c8
+size 166

@@ -1,13 +1,3 @@
- Státní bezpečnost kontroluje církev Kardinál Casaroli poslal papežovým jménem kardinálu Tomáškovi dopis, v němž vyzývá církev zahájit rozhovory, aby se plně a trvale normalizoval život církve.
- Administrátor olomoucké diecéze, biskup Josef Vrána dal souhlas k tomu, aby v jeho sídle umístila Státní bezpečnost kancelář, která by sledovala zámořské styky kléru.
- února, začala Státní bezpečnost zatýkat nebezpečné protivníky.
- Petra Konečného a důstojníka bezpečnosti Františka Novotného.
- Vraždu spáchali arabští teroristé: důstojníci Státní bezpečnosti únosu nečinně přihlíželi a na ochranu “socialistické zákonnosti” nehnuli ani prstem.
- prosince 1953 unesla Státní bezpečnost za pomoci svého agenta Herrman- na Rauschera ze Salcburku, sociálně demokratického politika Bohumila Laušmana.
- Sebevraždou skončli muži, kteří se o únor významně zasloužili, například vysocí činitelé bezpečnosti Jindřich Veselý a Bedřich Pokorný.
- V roce 1968 údajně spáchal sebevraždu také prokurátor Jozef Brešťanský a podplukovník bezpečnosti Jiří Po- čepický; ještě nevěrohodnější byla tzv.
- Gono často vyšetřován Státní bezpečností a pak i souzen.
- čovat bychom mohli objasněnými případy i výčtem těch, za nimiž stále trčí o- tazníky, a navázat potom ú- kladnými vraždami, jež spáchala Státní bezpečnost za hranicemi Československa.
- Shledal, že Václav Renč byl v květnu 1951 protiprávně zatčen, a že zcela nezákonný byl proces z dubna 1952, vykonstruovaný Státní bezpečností, proces v němž byl za údajnou velezradu a špionáž odsouzen také 'Václav Renč — na pětadvacet let.
- Francouzský tisk soustavně upozorňuje na pokusy rumunské štátni bezpečnosti která se několikrát neúspěšně pokusila zavraždit rumunské spisovatele a disidenty, kteří žijí v exilu v Paříži.
- Ale ani československá státní bezpečnost zřejmě nechce zůstat pozadu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83585d4ebc44bb34158d0bf638a30327a7e262e44ba42e04a7abade0e0d54dc8
+size 2031

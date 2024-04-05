@@ -1,1 +1,3 @@
-generální tajemník NATA Luns vybízet členský země NATA mobilizace společný politický vůle podléhat svod nejistota honba hmotný prosperita lidé uvědomovat nutný přinášet oběť hospodářský sociální bezpečnost podmíněný základní vojenský bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:338733135e199e5ff2ca901341977cca2b2b61b208ac3e820ad5ce10dd2bc94a
+size 279

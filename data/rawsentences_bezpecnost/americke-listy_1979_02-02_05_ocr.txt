@@ -1,4 +1,3 @@
- Jen na krátký cas, nez se z tohoto zoufalého činu vzpamatovala jinak cynická Státní bezpečnost a nesmyslné označila za původce Janova protestu “plíživou konträr evoluci”.
- ú n o r a 1979 STRANA 2 a me r ic k é l is t y O ČESKOSLOVENSKU Hoshodářská krize pokračuje Jakou malou perličku pražskému rozhlasu chceme o- citovat, co se povedlo v pořadu studia 7, když takzvaně informoval posluchače o hlasovaní v Radě bezpečnosti OSN o Kambodži.
- úřadů a MV pak zvláště, na Závěrech konference a bezpečnosti a spolupráce v Helsinkách z roku 1975.
- “Keksov nět?” horší věci, ale mě osobně se nejvíc dotklo, jak pražská bezpečnost zmlátila chartisty a jejich manželky, co měli tu drzost jít na ples železničářů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bca03261e71f7ab46c62ba5ba0e52b660d804aa9b286c47d635a3135428baf7a
+size 774

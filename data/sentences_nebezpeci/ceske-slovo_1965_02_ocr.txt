@@ -1,2 +1,3 @@
-Beneš říci vtyčka vojsko policie pozůstávat komunista stát hospodářský nátlak ukázat vlastenec vrchní velitel povit nebezpečí stát
-nebezpečí vojenský zákiok velký Sovět vyslání Zorina Praha předvečer převrat dát sázka autorita východo středoevropský stát mezinárodní prestyž
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ffd1dd370b32a713a9f011b957b7e380d2373e8ef1c9ee60def02377dd2161d
+size 312

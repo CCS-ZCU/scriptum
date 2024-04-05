@@ -1,1 +1,3 @@
-divák vyprazdňovat kotel nebezpečí moci dostat pódium
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd073cb65d370a2e95ffa956a4f9737ce7978132f4601f84d2cb0b14ad642909
+size 59

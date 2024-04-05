@@ -1,2 +1,3 @@
-léta bezpečí londýnský exil nabádat národ klacka kámen ruka škodit velkoněmecký říše mít doba vyzbrojený organizovaný armáda
-platit vysoký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f4f068e487db291776ef9dabb71989e93ec7693619676653c03086149284ca7
+size 163

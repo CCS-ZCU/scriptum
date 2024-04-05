@@ -1,1 +1,3 @@
-Metoděj nápis muset vyloučený otvírat další možnost ostatky moci doba nebezpečí odnesený uschovaný hrob jiný otevřený vyloupený maďarský vpád umístěný katedrála významný místo předmět hrob napomáhat určení odnesený původní místo
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be059134c4340e6922a9ddb0c4daf11eb01aad83fb615f96ee3be8567a5d0ed
+size 264

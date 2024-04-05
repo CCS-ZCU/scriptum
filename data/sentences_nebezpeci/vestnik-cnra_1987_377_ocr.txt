@@ -1,2 +1,3 @@
-věstník sovětský přestavba příležitost nebezpečí
-úsilí hospodářský přestavba sovětský svaz příležitost dosažení pokrok věc míra svoboda znamenat velký nebezpečí svobodný svět rozpoutaný pravý povaha
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f73f03faad8dd9ced95e7ec3f2401140cc902ca3ba3b0effad9ba62cbf3c5f3
+size 231

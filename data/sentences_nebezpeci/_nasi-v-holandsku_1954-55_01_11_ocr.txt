@@ -1,2 +1,3 @@
-tázat moci jednat moci vidět
-říci vzdělanec vidět nebezpečí vidět moci odhodit kriterium měřítko pevný hodnocení klanět metafý sický ethický relativismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5936604075dd1c7a927bcf6d7c633982d806c6d2bae6cd25cd3050fdc92668
+size 170

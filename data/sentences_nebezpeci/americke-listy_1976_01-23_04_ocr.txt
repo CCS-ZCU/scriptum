@@ -1,2 +1,3 @@
-nebezpečí zásah Lebanon moci vyvolat reakce strana soused Lebanon příležitost čekat střední východ mít vzplanout konflikt nový velký
-konflikt dát nebezpečí stálý hrozba Lebanon strana palestinský a>m
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4664fd96efe4d05a5346d7c1773d4a1f9d2f178b30e798e210e7bb4fffc2485
+size 224

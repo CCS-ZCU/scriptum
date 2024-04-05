@@ -1,1 +1,3 @@
-plný rozvinutí kritic kilometr funkce myšlení umožňovat bezpečí omezovat boží působení
+version https://git-lfs.github.com/spec/v1
+oid sha256:514716ea762ec5c1363a623db53fd05b475fc818eb1b32077453aeabb8dc9f11
+size 93

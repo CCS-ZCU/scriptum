@@ -1,1 +1,3 @@
-Weinberger chtít raketa umístit letadlo Evropan jevit muž chtít Evropa vystavit velký nebezpečí Amerika
+version https://git-lfs.github.com/spec/v1
+oid sha256:b55414f71047eb1a3633cdc6b0dd434909cf1df6264cdf014606afcbe444e9a0
+size 111

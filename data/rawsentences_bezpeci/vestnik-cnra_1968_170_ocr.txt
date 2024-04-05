@@ -1,1 +1,3 @@
- Marčenko se ve svém provolání ptá, proč se sovětští vůdcové tak úzkostlivě starají o bezpečí socialismu v Československu a vynucují si násilné prosazení své doktríny, zatím co mlčí a nečinně přihlížejí ke krvavému teroru v Rudé Čině.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a5841987b662d65fde1d29e641c97ea67b4b8855f20c9c8044dfeef82bff0a8
+size 271

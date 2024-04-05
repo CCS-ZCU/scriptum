@@ -1,2 +1,3 @@
-svobodný formulování modlitba znamenat nebezpečí jednostrannost moci hodný bůh důstojný člověk
-bratr Klaté těšitel ustaraný pomoc hledající pomocník nouze nebezpečí zázrak modlitba otec rádco vlast vzor velký ctnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e27b7939899aaee84c9f513010d8579aca28e53f72079cd3631ca0b333f01c3
+size 239

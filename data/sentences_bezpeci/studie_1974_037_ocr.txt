@@ -1,1 +1,3 @@
-mateřský lůno míra bezpečí proměňovat místo promyšlený vražda jméno matčina svoboda stačnost jez opis zotročení dítě proměna pouliý likev dovatelný objekt
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7bde05f2159c459b3b840cf279749164f6bad002d4d138c5d884e9000da086e
+size 181

@@ -1,3 +1,3 @@
- Příslušník Státní bezpečnosti mi cynicky odvětil, že se všechno dozvím.
- Tehdy vyšlo najevo mnoho nejen ze starší Molnárovy minulosti, ale i to, že v létě 3968 patři] do skupiny důstojníků Státní bezpečnosti — sovětských agentů — kteří měli otevřít cestu k moci tzv.
- Nyní přednáší na Vysoké škole Sboru národní bezpečnosti, na stará kolena je z něho teoretik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5485352913de5e163fca64ec49e217d9ae904682fbb3d5105f99b5ae6615fcad
+size 411

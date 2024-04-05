@@ -1,7 +1,3 @@
- Jestliže tudíž jednotlivci i skupiny rozvinou a spojí svou činnost tak, aby zachovali a zvýšili mnohotvárnou iniciativnost v našem exilu; jestliže všichni podrobí svou činnost vzájemné kontrole a v mezích bezpečnosti kontrole veřejného mínění; jestliže vzájemná úcta ovládne jejich vztahy; a jestliže ve svých myslích dají na prvé místo přikázání, se kterým odešli do vyhnanství, nový elán nabije československou zahraniční akci a vítězství nemine vznešenou touhu našeho domova i exilu.
- 12 →  6 TRIBUNA Spojené národy jsou duchovně spřízněny s mnoha předchozími plány a pokusy o vytvoření podobné organisace, která by se starala o mezinárodní mír a bezpečnost.
- Všechny pokusy o vybavení Spojených národů touto mocí ztroskotaly na sovětském odporu a s nimi zapadla i myšlenka kolektivní bezpečnosti.
- Pád nadějí v kolektivní bezpečnost byl zároveň doprovázen hledáním řešení, která by zajistila aspoň dílčí bezpečnost, a vyzbrojováním armád, které sotva dobojovaly druhou Světovou válku.
- Jestliže Spojené národy přijaly, že místo násilnýbh method na nepřetržité přizpůsobování mezinárodních vztahů novým podmínkám budou používat zásad změny mírovou cestou, mírumilovného řešení mezinárodních sporů a kolektivní bezpečnosti, poučily se takřka okamžitě, že použití mírových method je podmíněno vyrovnáním ozbrojené síly těch velmocí, které převzaly hlavní zodpovědnost za činnost Spojených národů.
- Třetí pramen nespokojenosti je zaviněn nedostatkem osobní bezpečnosti.
- Tuto frustraci můžeme nazvat frustrace bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab46472aa501ee3f364baa5069b85598bcfa23172cbacb49a83b68cb16ed243
+size 1698

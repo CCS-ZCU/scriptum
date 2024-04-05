@@ -1,1 +1,3 @@
- První část služby v Rusku od- byl si on i jeho spolužá- ci v poměrném bezpečí zázemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d12c82dabc22bc4036cd9f3dde00d940e4a59a9397c5e813be226335a942657a
+size 345

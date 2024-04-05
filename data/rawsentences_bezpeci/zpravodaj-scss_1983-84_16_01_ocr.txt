@@ -1,1 +1,3 @@
- Domnívají se, že sedí v bezpečí, baví se řečnickými cvičeními v demokratickém světě,který strpí jejich žvanění.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a52ee4699afab42969c9fa71c820b1f1f5697f13a2342fc08fcc2d1aa174bb2
+size 133

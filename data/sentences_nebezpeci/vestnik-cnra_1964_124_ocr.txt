@@ -1,3 +1,3 @@
-slibovat podpora rázný akce obrana míra nebezpečí útočný komunistický imperialismus
-mýlit objevit nebezpečí komunismus snažit přesvědčit velký nebezpečí
-hlavní demokratický země brát komunistický nebezpečí vyhýbat zdání porušení mírový soužití pomáhat komunistický režim udržet sesílit moci provádět program citovaný deklarace docílit vítězství
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e3a17086b8bc7908713eb695a7a0b29f017aceaaba79c313291b0c136bd37c
+size 392

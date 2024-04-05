@@ -1,1 +1,3 @@
-rakouský bezpečnost odhalit organizovaný pašování přechovávání zbraň
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1389534474c3d1986846bd315179c1655a0decafd0fb7ae781d26ad510add9e
+size 80

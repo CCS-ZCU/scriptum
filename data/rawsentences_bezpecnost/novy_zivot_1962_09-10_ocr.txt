@@ -1,1 +1,3 @@
- Každý vystěhovalec má svůj Egypt, byť byla sebevíce pohostinná a přátelská země, která mu poskytla útočiště, bezpečnost, práci a chléb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94e2c02b01f039efdcffa72d07206685c93139dcaa416525dd21974f8a62bb21
+size 157

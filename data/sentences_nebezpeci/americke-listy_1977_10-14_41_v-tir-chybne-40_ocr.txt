@@ -1,2 +1,3 @@
-říci mluvit nebezpečí terorismus ekonomický jiný mezinárodní otázka
-stranický vedení muset obávat trvalý aliance strana labouristický přivést liberální strana pokraj nebezpečí britský parlament zmizet
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d2e6320a0b96e291f2f057e6fe64608f5b3fd707b72b8e48c75ecb13f78aee8
+size 222

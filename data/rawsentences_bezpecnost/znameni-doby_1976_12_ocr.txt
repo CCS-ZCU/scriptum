@@ -1,1 +1,3 @@
- Vesnice je finančně nezávislá, náklady na ni - 800 000 franků ročně, kolem 10 franků na dítě a den - hradí patroni, dobrovolné sbírky, případně příspěvky z jednotlivých zemí* Cílem vesničky je zabezpečit dobrý tělesný a duševní vývoj dětí, dát jim nejméně povinné školní vzdělání a připravit je na samostatný život ve Švýcarsku či ve vlastní zemi*  - 24 - Bylo brzy po válce* V Rakousku, tak jako v mnoha jiných zemích, bylo mnoho opuštěných dětí* Ztratily rodiče, byly odkázány na milost a nemilost osudu* Äadý Hermann Gmeiner opouští studie na insbrucké univex»sitě a rozhoduje se, Že dá opuštěným dětem to aejdúležitějčí: Jistotu a bezpečnost* Uvědomuje si.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0badff32f4dffa87177fd3f50bb2aae9926564664cce3e1050d018d1f998f55
+size 742

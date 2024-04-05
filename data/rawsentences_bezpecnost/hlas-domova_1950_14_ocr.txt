@@ -1,2 +1,3 @@
- - Pro lidi zijici mimo komunisticky svet, kteri máji politickou svobodu a osobni bezpečnost, je hrozny vyznám tohoto vyrazil (policejní stát) necim, co lze tezce zvazit.
- ' K zvýšeni bezpečnosti nařídil mimo jiné i kontrolu všech cizích obchodních lodi, aby nemohly umis-t • tit v amerických přístavech atomovou bombu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d79c4b971b24e688679391b79ffcc4e0c3978ce28c0943ec15776f09ef56ebd
+size 339

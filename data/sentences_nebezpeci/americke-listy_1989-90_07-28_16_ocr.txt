@@ -1,1 +1,3 @@
-československý občan vyzývat vláda chovat zasazovat zpupný jednání osudný rána naděje společenský dialog občan adresa režim říkat pohyb společnost začínat srážet nehybnost moc růst společenský napětí začínat hrozit nebezpečí otevřený krize
+version https://git-lfs.github.com/spec/v1
+oid sha256:0280168df4b09a35722c39a0c82b779626e14550c02fe48c43607db959fe90a7
+size 273

@@ -1,2 +1,3 @@
-moci jistý nový papež dát linie nový podnět nový směrnice pramenící hluboký přímý znalost příslušný problém možný nebezpečí
-povinnost zdát naléhavý trvat spravedlnost porozumění příčina vzájemný napětí ozbrojený střetnutí část svět tvořit nebezpečí lidský katastrofa zažít
+version https://git-lfs.github.com/spec/v1
+oid sha256:50786d3e297fe286248fe13b8d59cf3eb3667f903c2c90153e59f495f17849a8
+size 320

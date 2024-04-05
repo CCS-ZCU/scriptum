@@ -1,2 +1,3 @@
-státní bezpečnost čas čas sondovat půda ověřit moci zajít daný chvíle veřejnost spolknout
-následovat protest prokurat státní bezpečnost odvážit jit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5c79e0bc51effe48ab916869c4ca382a1d6dd67e8ebc67dbdca8eb367730e3a
+size 170

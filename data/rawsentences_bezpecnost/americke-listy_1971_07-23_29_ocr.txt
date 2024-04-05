@@ -1,2 +1,3 @@
- Kissinger, poradce presidenta pro otázky národní bezpečnosti.
- Nejen Amerika, ale ani ostatní svobodné země nemohou totiž popřít právoplatnou existenci Čínské republiky na Tajvanu jako stálu, který nechce být součástí čínské lidové repubřky a- který i po ztrátě svého místa v Radě bezpečnosti bude mít nárok na zastoupení v OSN a právo na samostatnost a sebeurčení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f22baf0d60db806b244536cab9bf08460ce78212d8da3e585dc00e23989f3093
+size 405

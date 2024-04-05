@@ -1,1 +1,3 @@
-zmlkat vědět potřeba chvíle meč vláda vlán korouhví krása nebezpečí navracet
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ad07645a15ff880d091585a419b89bd56dee82976a8db9e5198677601ccaf3
+size 88

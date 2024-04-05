@@ -1,1 +1,3 @@
- Miroslav Synek, Naděje a zklamání  Osmá strana NARODNl POLITIKA Záři 1988 Čtyř-až šestinásobné zvětšeni kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? Švýcarské bankovnictví a pojišiovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1f148d98242f68f36db25596d25bd6845073b5f4835f6bf5eb2a2bc840e105
+size 107

@@ -1,1 +1,3 @@
-Valka nazývat špinavý vystavit vysvětlení nebezpečí spor Holanďan pan
+version https://git-lfs.github.com/spec/v1
+oid sha256:82dc55a44495c5f48bd57037cc28425f5d18cee5ea865ed218422f269ee3f618
+size 78

@@ -1,1 +1,3 @@
- "NEBE" V životě každého člověka existují okamžiky vnitřního štěstí: prožitky harmonie, bezpečí, svobody, poznání, jistoty, síly, pokoje, radosti, lásky atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb9ec6f3417d8a3111933ead8f67aeed0aa67ea70b3cdce758571eeb43afb8e
+size 178

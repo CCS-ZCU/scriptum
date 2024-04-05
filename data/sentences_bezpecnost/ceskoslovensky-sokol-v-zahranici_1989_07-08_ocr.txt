@@ -1,2 +1,3 @@
-důležitý činitel důvěra vedoucí přesvědčení vedoucí cvik znát nácvik vést lepší cesta zaručovat bezpečnost
-známý příklad cvičitel silný nadaný odvážný typ jít hračka důkladný studium osvojit teoretický vědomost podceňovat strach cvičenec bezpečnost metodický postup nácvik
+version https://git-lfs.github.com/spec/v1
+oid sha256:b37996c53238bfd23910dc9228e53e6209a14759e2bcfb8d1715f6d1112abaa4
+size 313

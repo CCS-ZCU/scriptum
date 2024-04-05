@@ -1,1 +1,3 @@
- Ačkoliv je známo, že americké předpisy pokud se týká složení výfukových plynů a bezpečnosti jsou přísnější nežli švýcarské, bylo nutno vyžádat a také předem zaplatit individuelní homologisační zkoušku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43945db7f32e9299e17d7a70b7566ac12ecd354772aeff9244b36f72f0874b5a
+size 233

@@ -1,1 +1,3 @@
-motto státní bezpečnost sen pracovat vidětý svědek zázrak
+version https://git-lfs.github.com/spec/v1
+oid sha256:38012129c6daa75a426a023c95b03accbd53dc23a81118f724f5bc9b1f53a0eb
+size 65

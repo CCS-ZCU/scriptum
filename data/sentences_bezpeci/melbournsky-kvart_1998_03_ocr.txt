@@ -1,1 +1,3 @@
-moře zrádný loď houpat foukat odjinud lepší napnout síla chytit plachta veslo plný pára spěchat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f9a7e620d76fc45675c22d927f9183912fa07584e51ba854e7a3ac9b7ec9b68
+size 116

@@ -1,5 +1,3 @@
- Nemocc-ý a- už po čtvrté vězněný Jiří Lederer se ani ve vězení nestrčil před režímním bičem, ačkoliv dobře ví, že tím ohrožuje nejen svou bezpečnost, ale, s ohledem na své chatrné zdraví, i život.
- Státní bezpečnosti vydal tento Výbor své "Sdělení číslo 115”, jehož text jsme nyní dostali.
- května 1979 o páté hodině ranní zahájila Statní bezpečnost rozsáhlou a diouhodoDě predem připravovanou akci proti Výboru na ůDranu nespravedlivě stihaných.
- Je odsouzen mluvčí Charty 77, který se bránil napadení a hrubému zacházení ze strany příslušníka bezpečnosti, jenž v tu chvíli nepožíval ochrany veřejného činitele, neboť překročil svoji pravomoc.
- Sdíleni cisto 115 (Pokračování se strany 9) bezpečnosti, hrubé zacházení s občany, jejich pronásledování za různé výroky oprávněné kritiky, nedodržování zásady veřejných soudních líčení atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9952d6ce4281abc2e0c3622d3e86266573062f6ac980f27870f946891f75be66
+size 945

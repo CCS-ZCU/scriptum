@@ -1,1 +1,3 @@
-uznávat zásluha bezpečnost připravit půda dát seznam reakcionář pomoci zorganizovat poslat protistátní leták bezpečnost posbírat mít leták kapsa
+version https://git-lfs.github.com/spec/v1
+oid sha256:207494270e4bc93c197feb7d3f9717b1ced6ff106fe84bd0487023072c3d4846
+size 160

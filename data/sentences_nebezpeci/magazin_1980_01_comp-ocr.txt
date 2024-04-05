@@ -1,3 +1,3 @@
-Zádna nebezpečí hmatatelný cítit
-záležet život majetek spoluobčan nebezpečí
-minuta zločin chvíle policista nebezpečí život div opatrný
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ca17b0cb36740aac34cd18cdac4f9461abba4a96576ef3b36c888ca7e46bd54
+size 152

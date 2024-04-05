@@ -1,18 +1,3 @@
- Státní bezpečnost - jak známo - zadržela krátce nato celou řadu signatářů Charty 77 a členů Výboru na obranu nespravedlivě stíhaných a připravuje s nimi soudní přelíčení.
- Ale snad ještě pár slov к jedné nehoráznosti, kterou byl z Vídně dovezený vyprávěč také pověřen: aby se Státní bezpečnost nějak zapojila do probíhající protipolské kampaně, vložila Hodicovi do úst tvrzení, že "jako zásilka potravin z jedné sousední země" má být do Polska dodáno za půl miliónu dolarů zbraní, o čemž byli informováni zástupci polských nezávislých odborů při návštěvě ve Švýcarsku.
- Vraj vtedy napadol príslušníka Verejnej bezpečnosti, dokonca mu zrazil z hlavy čapicu - symbol moci.
- A tak se podařilo seskupit dosti rozsáhlou sít informátorů a spolupracovníků sovětské bezpečnosti v Československu.
- Za války jakéhosi prostředníka mezi československým e- xilem v Sovětském svazu a bezpečností dělali Václav Kopecký a Bruno Kohler.
- Také v exilových kruzích londýnských měla sovětská bezpečnost svého důvěrníka, byl jim poslanec fašistické strany Schwarz, který zemřel záhadnou smrtí krátce po osvobození v pankrácké věznici.
- Do politických funkcí na Slovensku nastoupil důstojník NKVD Pavol David, do pražské bezpečnosti Janoušek.
- Také Karol Bacílek,který zastával vysoké funkce, spolupracoval se sovětskou bezpečností, jak vyprávěl ve vedení strany na jaře 1963.
- Sovětská bezpečnost v Československu Karel Kaplan Andrej Plávka  niky sovětské bezpečnosti patřili mnozí političti a zpravodajští pracovnici partyzánských skupin.
- Svoji sít rozšířili i o mladé osoby, které nastoupily po válce do bezpečnosti, mezi nimi byl i později známý Antonín Prchal.
- A také lidi s nečistou protektorátní minulostí, jako později známý vyšetřovatel Státní bezpečnosti Kohoutek.
- Kromě těchto vazeb, možno říci na nižší úrovni , usilovaly Sověty o spolupráci s vedoucími úředníky československé bezpečnosti.
- Její páteř tvořili tajemníci krajských výborů KSČ pro bezpečnost, z nichž mnozí prošli školou zpravodajského oddělení generálního štábu, jako v Ostravě Peschl, v Brně Procházka.
- Jeho prostřednictvím sloužily moskevské centrále bezpečnosti i poznatky, kterými odbor disponoval.
- Od konce dvacátých let spolupracoval se sovětskou bezpečností předválečný komunista, který po roce 1945 zastával vysokou funkci v osvětové služběJlalší osoby Sověty získaly pro spolupráci z příslušníků východní vojenské jednotky.
- Koncem roku 1947 disponovali pouze nepočetnou skupinou pracovníků československé bezpečnosti, kteří přímo vykonávali jejich pokyny, a to i bez vědomí komunistických velitelů a ministra.
- Podľa predsedu sociálnodemokratickej strany Kubánci pracujú aj v štátnej bezpečnosti a v spojoch.
- Tyto zločiny komunistického hnutí u nás doma jsou stále v živé paměti obětí komunistické státní bezpečnosti, pocitujících dodnes následky třídní "spravedlnosti" a marxistického pojetí humanismu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20a55c648ba1fb55558ab107c75f95784ac552f487d37151855850fc1e8c29aa
+size 3187

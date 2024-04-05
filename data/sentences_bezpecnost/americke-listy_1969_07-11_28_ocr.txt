@@ -1,4 +1,3 @@
-Karel Kyncl státní bezpečnost stát stát
-státní bezpečnost Stb existovat československý republika podoba stát známý proslulý rok
-blizský budoucnost měsíc lze očekávat podstatný změna státní bezpečnost soustřeďovat podrobný kon pojízdný dílna nový televizní služba pojízdný dílna otevřít Slovák Tatra nový emigrant
-závěr lze říci současný československý státní bezpečnost pokračovat činnost podporující prostředek současný moc stát taktika metoda práce poznamenaný ubíhající čas zkušenost minulost podstata činnost zůstávat nezměněný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef029b1f771cfa3da89fcb9711c4ff5cc248e7158939f15ab075fc9b8803429c
+size 604

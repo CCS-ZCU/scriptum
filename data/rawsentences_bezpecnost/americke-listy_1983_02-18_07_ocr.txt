@@ -1,4 +1,3 @@
- _ PRICE 80s VÁCLAV HAVEL OPĚT KANDIDÁTEM NA NOBELOVU CENU MÍRU Poslední pokus v Madridu? Jiří Rreber Skupina amerických senátorů a poslanců, členů Komise pro bezpečnost a spolupráci v Evropě, která je známá jako Helsinská komise, zveřejnila 1.
- Pokládáme si, jako členové americké Komise pro bezpečnost a spolupráci v Evropě a jako ú- častníci mezinárodního Helsinského hnutí, za zvláštní poctu.
- února obnovena po vánoční přestávce konference o bezpečnosti a spolupráci v Evropě.
- Spory se neřeší na vědecké úrovni — buď se jich ujme Státní bezpečnost, anebo se zamknou do trezorů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cf4219f00faad68a1650a097fc7f2fe542b70155c3b7fad64f28427152a42bb
+size 645

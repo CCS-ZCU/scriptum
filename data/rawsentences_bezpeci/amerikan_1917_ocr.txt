@@ -1,1 +1,3 @@
- Americké vojsko potřelo vzbouřence a ovládlo situaci tak, že bílé obyvatelstvo ostrovů jakž takž cítilo se v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff6072a2ab3101e67fd3b64ff4189f8717ba1e2e821fdf2ca27dc147a257d70
+size 132

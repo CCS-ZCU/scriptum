@@ -1,5 +1,3 @@
- Nebo se už snad nemůžete dočkat? Myslím, že se máte na co těšit!” A tak se poprvé ve svém životě chudák Klouček o- citl tváří v tvář proslulému a obávanému šéítt Státní Bezpečnosti, doktoru Weisovi.
-" Selo šéfa Státní Bezpečnosti se po této přímé a odvážné odpovědi.
- Tak měkkým srdcem zase doktor Weis nedisponoval, jinak by také nemohl být šéfěn proslulé Státní Bezpečnosti.
-" - "Copak to je?" - "Sto * žen0 " Nechceš-li odejít na věčnost, pečlivě vol vždy své věty, jinak ti však Státní Bezpečnost navěky uzavře rety.
- Nemilují rozesmátý dav, ohrožena bezpečnost jich hlav.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e99656269987962cdf9c064184e569add7c9192a7fa952026b92023b1c2672d7
+size 654

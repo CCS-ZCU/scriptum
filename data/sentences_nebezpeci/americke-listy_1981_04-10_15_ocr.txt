@@ -1,1 +1,3 @@
-poslední zpráva zraněný redaktor Rudolf Škukálek propuštěný domácí ošetřování hlasatel Alan Antalis zachránit lékař zrak sekretářka Marie Pul dová nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d23070dcad21365b58a3563bc69c4d811de229d4d14bfb8235869ef3a8821952
+size 179

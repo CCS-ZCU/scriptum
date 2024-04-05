@@ -1,1 +1,3 @@
- Autorka píše v předmluvě, že v knize jsou shrnuty výsledky jejího pětiletého bádání v archivech KCB-komitétu pro statní bezpečnost-a v archivech min.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e50f12279bb19479479ca825728b0fe0db4cc5998d2bf85470a00826e59b68a
+size 166

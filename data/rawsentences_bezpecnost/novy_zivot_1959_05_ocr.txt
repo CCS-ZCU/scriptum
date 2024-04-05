@@ -1,2 +1,3 @@
- Aby se mohl člověk normálně vyvinout a najít psychickou rovnováhu, potřebuje jistou bezpečnost.
- Ale v moderní společnosti, zvláště po událostech posledních let, člověk postrádá této nutné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f9a07a1759992db5ee26480fe0f36314f8892e031be667733bc9b17755f0b60
+size 225

@@ -1,1 +1,3 @@
-" - "A od kdy se vám tak dobře daří?" "Od té doby, co pracuji ve Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fef5cf08607dd271174dd6efab31a5126dca551ecfa633fd10df71d6d4edee6
+size 93

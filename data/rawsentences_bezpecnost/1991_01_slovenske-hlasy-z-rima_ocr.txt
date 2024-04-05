@@ -1,1 +1,3 @@
- Hudzík pripravil pamätnú tabuľu dejín seminára a nádvorím, kde pred nedávnom panovala uniforma bezpečnosti, teraz znela hymnická oslava tých, čo horia za pravdu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:098b7dc7de099f1e37b232deb756c6911574c473a5134e3e44701e721c434d42
+size 176

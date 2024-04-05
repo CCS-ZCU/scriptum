@@ -1,6 +1,3 @@
- Proces, který mimo jiné dává najevo, že ČR je vděčná za každou radu, pomoc a spolupráci při zajišťování bezpečnosti této elektrárny.
- Lubomír Štrougal byl obžalován, že v roce 1965 jako ministr vnitra zabránil potrestání příslušníků Státní bezpečnosti, kteří byli podezřelí z vražd a mučeni.
- Útok by podle něj ale neměli vést pouze Američané, ale se souhlasem Rady bezpečnosti OSN všichni spojenci NATO.
- EB Historici už odkryli, ako fungovala ŠtB Činnosť komunistickej Štátnej bezpečnosti v období po Pražskej jari 1968 do roku 1989 zachytáva publikácia Pavla Žáčka ŠtB na Slovensku za "normalizácie", ktorú vydalo Oddelenie pre dokumentáciu zločinov komunizmu.
- Archívy Štátnej bezpečnosti by sa mali pre občanov otvoriť koncom roku, keď začne fungovať Ústav pamäti národa.
- Když se znovu pokusila dostat se synem do ciziny, padla do léčky Státní bezpečnosti, byla uvězněna za ilegální přechod hranic a na dlouhých deset let byla vyřazena z umělecké činnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d144710c02f6c26ba5f38df3120b878364ec0a6b00944ab000770e5e24dfb625
+size 1060

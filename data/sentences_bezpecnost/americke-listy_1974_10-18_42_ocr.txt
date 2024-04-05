@@ -1,1 +1,3 @@
-značný počet světový spisovatel vystupovat svoboda bezpečnost spisovatel československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:a09b511e16e87be762d962c79ccfe0ff452e4af1753c38e6b1d172f0d58d03a3
+size 96

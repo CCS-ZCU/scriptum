@@ -1,1 +1,3 @@
- Oni samozřejmě sami na Ussuri nepo- táhnou s plnou polní, ale budou z Pražského hradu v bezpečí mluvit o osudové chvíli našich národů, jež mají krví zpečetit věrnost a věčné bratrství a pan generál Bedřich bude povzbuzovat „naše zlaté chlapce“ k boji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b249c390c7921d0503c182fa85d05802974e2290fa699f00a545f7665c35728
+size 281

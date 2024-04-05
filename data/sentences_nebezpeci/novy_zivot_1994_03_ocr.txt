@@ -1,3 +1,3 @@
-století dát zhotovit papež svatý Lev veliký
-nepřátelství stavět národ dovést žít stát Evropa svět zdroj nový neklid zřejmý nebezpečí
-existovat nacionalistický zaměření náboženský příslušnost vyvolávat nebezpečí další odůvodnění nepřátelství nenávist
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d57a6d3aa7911f18c02a607bc708888afab00e3bb94d86dda8411cded5742e0
+size 292

@@ -1,10 +1,3 @@
- Jahmiíe se áíaváK aatne mima dosah státni bezpečnosti, váe sejevi humííňnájái.
- Co byah za ni byZ daZ/ Puzynáti yent Zemani má v prúb<?7m prvni asmačtyřiait- ¡cy odevzdáZi zpát stdtni bezpečnosti.
- Při ohromném počtu lidí zaměstna- ných v celní, pasové, bezpečnost- ní i zahraniční službě musela přece vláda už dávno vědět, co a v jakém rozsahu a množství se u nás naku- puje a vyváží* a jaké množství pe- něz mají zahraniční turisté k dis- pozici.
- Je álcada, že poáetfM? skupiny <?MaHK ztíeíávají nadáZe vyřazeny z átsktise o nápravJ a že raáíkáínájgí ndvrhy na zrninu eRpnímtcká g paHřicRíf atrKXtKry naáehí? státu konči u oryánů státní bezpečnosti.
- Ponechejme věak stiWKMi obavy, hterá vzbuzMje v^Jypřitomnasí státní bezpečnosti, a věnujme se rozbore otázek souvisících s jejím názvem.
- Snaha odZiěit se od prvorepxb Zi- kových poměrů vedZa k pováZečnámK cánítnutí sZova poZicie a k vytvo- ření nováho názvu: Sbor národní bezpečnosti CSďB,).
- bez- opasnos^ a jeho význam se 5řžy metonym-cky posune Z, takže vedZe abstraktního - významu začaZo ozna- čovat i přísZuěniky poZicie fveřej^ ná bezpečnost - MB, státní bezpeč- nost - StBj.
-taíme tedy bezpečnost místo poZi- cie.
- <4Ze jak pojmenovat gřísZ^^gH^a bezpečnosti? Samotná sZovo přísZt^ě- nik nebe "dokonce orgán nevp:ovu?ě7 pokud se nestává součástí anekdot.
- Pelná- řem, která tam dlela na pozvání sovět- ského výboru Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a619dc04c41572c5823c47f5ad08eaeced2194c47ddaa4c0233aa3b010bc4d5
+size 1562

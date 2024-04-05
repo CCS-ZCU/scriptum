@@ -1,2 +1,3 @@
- V bezpečí své superiority pak může dokonce přátelům sdělit "Rozumíš, já nejsem rasista, a nikdy jsem nebyl, já mám jenom otevřený oči ", popří- padě utrousit vtip typu — Nenávidím dvě věci, rasismus a černochy! Však také, jak může být člověk ra- sista, přijde-li z bílé Evropy? Rasis- mus pro Čechoslováka, to je několik dokola opakovaných televizních šotů z birminghamského masakru, hořící kříž Ku-Klux-Klanu a průběž- né a nudné zprávy z Jižní Afriky.
- Nestačí už jenom izo- lovat sama sebe, je třeba izolovat ne- bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d28e15ebb957bf24ec99ac8011c1ec79f1f7ec7fac591b0545ffdfe6c60c3ffd
+size 506

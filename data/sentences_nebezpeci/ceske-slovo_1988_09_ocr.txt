@@ -1,1 +1,3 @@
-Mnichov připomínat nebezpečí skrývat důsledný řešení problém vyhýbat řešit úkor jiný
+version https://git-lfs.github.com/spec/v1
+oid sha256:16cd380ee956833f876eabdefc1b4b8939b6440e074417f6dcbb92bb27e86b5f
+size 101

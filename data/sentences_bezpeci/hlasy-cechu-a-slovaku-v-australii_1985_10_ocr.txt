@@ -1,1 +1,3 @@
-odzbrojení problém dnešek čelit zachovat mír žít bezpečí svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e8af0f41d58b562fcf5b1934c9a0bbc10f61f4849633adbea788583a119457
+size 74

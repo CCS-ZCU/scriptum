@@ -1,2 +1,3 @@
- „Před půl stoletím lid této země měl vůči světovému okolí pocit úplné bezpečností, jaký podle mého soudu neměl žádný národ od doby ftímského impéria.
- A konečně velký podíl na atmosféře měl nedávný proces se sovětským špionem Anders- sonem, který se veřejnosti představil s ne- ochvějnou chladnokrevnosti jako Svéd, v jehož principech a otázkách svědomí zřetele k blahu a bezpečnosti švédského státu nemají nejmen- šího místa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24e6c98fb6a35c28f993da7f61fd80229cb008ab7c2b0c95ceb2d86537966e5e
+size 487

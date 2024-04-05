@@ -1,1 +1,3 @@
- „Kým tí, ktorí zostali na Slovensku museli nosiť hviezdu od roku 1941 a transporty sa začali v roku 1942, my sme boli v relatívnom bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3944d84d6fe7ad7e0233d8c326d6362087d33d13f4f8a466697de43fca35ac7
+size 151

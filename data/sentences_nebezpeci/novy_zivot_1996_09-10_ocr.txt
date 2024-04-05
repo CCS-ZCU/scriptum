@@ -1,2 +1,3 @@
-coppa církve Excelence spojení diecéze říci úsudek starost život Círk země
-chtít upozornit nebezpečí třídění motivovaný rezsudek smrt
+version https://git-lfs.github.com/spec/v1
+oid sha256:6faf4c2e48a4163a9a4ae41839aee94938321e09913d07eeb662632aef53586c
+size 153

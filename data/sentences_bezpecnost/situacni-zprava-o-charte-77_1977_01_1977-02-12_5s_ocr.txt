@@ -1,4 +1,3 @@
-právní názor justiční orgán činný trestní řízení řešení připouštět mít státní bezpečnost souhlas prokurátor zveřejnit důvod trestní stíhání důvod vazba
-leden
-státní bezpečnost provést domovnícný >ro
-doba prudký kampaň charta
+version https://git-lfs.github.com/spec/v1
+oid sha256:bba2e6486bd2883e37cb037037dd3cb5a422955562cf1aab5893914b87bad402
+size 263

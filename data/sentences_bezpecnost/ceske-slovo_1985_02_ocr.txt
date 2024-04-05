@@ -1,2 +1,3 @@
-Ota Rambousek publicista prozaik spoluzakladatel USA
-skokan rozhořčení jury anulovat dlouhý skok Miroslav Polák metr výsledek první skokan domnění Miroslav Polák skočit metr dosáhnout lepší světový skokan skok moci ohrozit bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:6370a92e0f6a54af55ecd34a2d1dbd9e250c9fda751ff1389c3df1b6b2fdb910
+size 251

@@ -1,5 +1,3 @@
- Zdá se, že Státní bezpečnost i prokuratura m ají zájem na urychleném term ínu soudu.
- na návštěvu — shodou okolností tedy v normální návštěvní den — sdělila mi ošetřující sestra, že je moje žena v takovém stavu, že k ní lékař nemůže pustit žádnou návštěvu, ftekl jsem sestře: “Tak i tady příslušníci bezpečnosti zasahovali? Jenomže už zasahovali pozdě.
- Což mě příslušníci veřejné i tajné bezpečnosti za ta léta — mnou vskutku nevyhledávaných styků — znají tak špatně, že si mohou myslit, že takovou věc spolknu? Po rozhovoru s náměstkem ředitele ZOO se však s Vámi, pane ministře vnitra, musím podělit o neodbytnou myšlenku: Měl-li jsem být přepaden v ZOO a v nejlepším případě být také někde v nemocnici, pak správně nikdo o přepadení mé ženy neměl vědět.
- Všechno začalo požadavkem ná zrušení řady telefonů, požadavkem Státní bezpečnosti.
- Chtěl bych se zastat Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c959b2341fd714983ff67e4a2f2d4fcdc81c72e482b58ba08ee03a0872bbe373
+size 1007

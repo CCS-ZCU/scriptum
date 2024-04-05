@@ -1,1 +1,3 @@
-mnohý krokodýlí nebezpečí podceňovat utržený noha ruka dobytče osoba sražený voda zatažený dno varovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:f43f07fd8ec1b9c7cb065d618cdacaf2d7c6556ad516b015962ee8b95617ab1b
+size 116

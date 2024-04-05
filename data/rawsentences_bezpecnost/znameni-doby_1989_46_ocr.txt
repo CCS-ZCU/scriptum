@@ -1,15 +1,3 @@
- Jak bylo sděleno v komuniké ze zasedání předsednictva ÚV KSČ zveřejněném v Rudém právu v sobotu, "plný text závěrečného dokumentu /z vídeňské schůzky/ bude vydán v masovém nákladu"o Závěrečný dokument vídeňské následné schůzky konference o evropské bezpečnosti a spolupráci představuje asi osmdesát stránek textu.
- Proč bylo třeba zesílit sankce za porušování veřejného pořádku? Při projednávání zprávy generálního prokurátora OSSE a Kejvyššího soudu ČSSR o stavu socialistické zákonnosti ve druhém pololetí minulého roku se příslušné výbory Sněmovny národů a Sněmovny lidu, jakož i předsednictvo federálního shromáždění zabývaly almo jiné ochrannou práv a oprávněných zájmů občanů, jejich bezpečnosti a stavem veřejného pořádku v současné etapě vývoje společnosti.
- Tyto poznatky byly potvrzeny nedávnými opakovanými vystoupeními protisoeialistických skupin, které zvýšenou měrou narušily veřejný pořádek a bezpečnost občanů v samém centru Prahy.
- Reálnou cestou zůstává spojení mezinárodního úsilí o bezpečnost jaderných reaktorů.
- Příslušníci pořádkových jednotek Veřejné bezpečnosti rázně zakročili proti provokatérům a jimi plánovaným akcím, které znemožnili.
- Někteří čtenáři telefonicky vyjádřili názor, že prý podle vídeňských ujednání jsou zásahy Bezpečnosti proti narušitelům, pořádku nezákonné.
- k ? _____________________________ V závěrečném dokumentu vídeňské následné schůzky se v části týkající se bezpečnosti v Evropě /RP dne 21.
- Ve Vídni byl rovněž potvrzen význam a platnost deseti principů vzájemných vztahů mezi státy, jak je formuloval již Závěrečný akt z helsinské Konference o evropské bezpečnosti a spolupráci /1975/» Nejvyšší představitelé 35 zemí svým podpisem stvrdili dokument, v němž se v části I.
-ledna 1989 poslal kardinál František Tomášek předsedovi vlády ČSSB Ladislavu Adamcovi dopis, v němž vyjadřuje r*adost nad přijetím závěrečného dokumentu vídenská schůzky íConlerence o evropské bezpečnosti a spolupráci.
- Soustředil se pouze na vlastní zásah Veřejné bezpečnosti proti demonstrantům.
- Co ,ie to za útvar řohotovostní pluk Veřejné bezpečnosti? V tomto útvaru spadajícím pod ministerstvo vnitra a životního prostředí ČSR se odborně připravují noví příslušníci Sboru národní bezpečnosti.
-Proto později jeden z chartistů teatrálně obvinil Bezpečnost s podvrhu dopisu, což naše bezpečnostní orgány okamžitě odmítly.
- Podle nej může ministr vnitra ČSSR, ministr vnitra ČSE a ministr vnitra OSE po předchozím souhlasu hlavního velitele Lidových milicí v mimořádných případech povolávat k plnění úkolů při udržování klidu, pořádku a bezpečnosti uvnitř státu příslušníky LM.
- povinnosti jako příslušníci Sboru národní bezpečnosti, pokud příslušný ministr vnitra nerozhodne jinak".
- Jestliže orgány bezpečnosti použily proti těmto projevům svobodomyslných občanů hrubé síly, jednaly nejen proti našemu stávajícímu právnímu rádu, ale i proti lidskosti vůbec.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee34458eb8c541033eec2d65d5c5b8eb85216f1d72ba329f1bb3fc8b2a846e42
+size 3246

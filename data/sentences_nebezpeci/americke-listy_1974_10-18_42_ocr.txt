@@ -1,2 +1,3 @@
-slovo klid myslit zažehnaný nebezpečí bezprostřední válečný konflikt perspektivní trvalý možnost skutečný snesitelný mod vend Izrael arabský soused
-zatékat
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf26a4bd844d060608b5f21d7e2f1a54cb0cf1471311983fd822dcefb4e4573b
+size 190

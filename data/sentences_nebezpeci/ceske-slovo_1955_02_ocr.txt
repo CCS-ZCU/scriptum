@@ -1,2 +1,3 @@
-hrozit bepro střední nebezpečí noha kriminál
-Jinvá vzácný příspěvek Lettrichův autoritativní vylíčení slovenský odboj německý násilí komunistice kýma nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:75458d8cd34444889e208e4fc5b8d3cafa185a5640232298516c84d90ef23bd5
+size 183

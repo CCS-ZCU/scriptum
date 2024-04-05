@@ -1,3 +1,3 @@
-cz REZIDENCERoSa Rezidence RoSa pro seniory v Praze otevřena Praktický lékař a psychiatr přímo v objektu Aktivizační programy, knihovna, multifunkční sál Kavárna, restaurace, kadeřnictví, manikúra, pedikúra 24h tísňová péče a ostraha objektu Byty 1kk, 2kk - nájemní bydlení se službami pro seniory Otevřenost vůči veřejnosti, bezpečnost a soukromí pro klienty Výborná dopravní dostupnost do centra Prahy (trasa metra C, zastávka Kobylisy) Asistenční pohotovostní služba Střelničná 1680/8, Praha 8 | info@rezidencerosa.
- Pred siedmimi rokmi o údajnom prepojení Penty na ruské tajné služby v súvislosti s privatizáciou výrobcu vrtuľníkov PZL Swidnik hovoril vtedajší minister a šéf Úradu národnej bezpečnosti Aleksander Szczyglo.
- Diplomat bude mít imunitu v případě rychlé jízdy přes červenou, aby stihl schůzi Rady bezpečnosti OSN, ale nebude ji mít po schůzi na cestě stejně spěšnou rychlostí do baru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6217b15922fe72b958c635fae609de0d96bbb36ec50362c6c12eafef96df3cbd
+size 979

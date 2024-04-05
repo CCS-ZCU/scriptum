@@ -1,1 +1,3 @@
-opatrný uchránit různý protivenství nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f3eca0097704b2823fb5b6a509d4b7d997b2bf672d571374f3f1028bc78794f
+size 53

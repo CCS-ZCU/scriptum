@@ -1,1 +1,3 @@
-říkat odpověá odpověat
+version https://git-lfs.github.com/spec/v1
+oid sha256:745dd20954c4fb91c02be37899b48069f6c05cee5e092f584b6af5cb80bcda2c
+size 28

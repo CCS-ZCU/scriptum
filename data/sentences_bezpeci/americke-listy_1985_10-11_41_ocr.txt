@@ -1,1 +1,3 @@
-Zil bezpečí Mandžursko hrát hliněný kulička
+version https://git-lfs.github.com/spec/v1
+oid sha256:8286edcc7b6b4af869fc5a103b5feb81bea1eaa92c317291dbef0e6fbaa3a16c
+size 51

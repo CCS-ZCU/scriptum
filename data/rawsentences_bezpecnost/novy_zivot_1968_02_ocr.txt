@@ -1,1 +1,3 @@
- Ať ustane násilí v jakékoli formě! Cílem nemá být vítězství, které by znamenalo zničení druhé strany, ale bezpečnost, mír a svoboda pro všechny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0927b728293463a87189d83c0f39c317fcf2ea2881dc1662167289c4008a896
+size 164

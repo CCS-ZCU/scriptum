@@ -1,5 +1,3 @@
- Spravedlnost Kre- mlu požaduje bezpečnost pro SSSR a na- stolení světového komunismu.
- Myšlenka kolektivní bezpečnosti, která se stala mezi dvěma válkami základem řádu, založeného ve Versailles, podlehla — jak bylo samozřejmé — při prvním útoku revi- Sionietické fronty.
- Válee nemůžeme zabránit systémem ko- lektivní bezpečnosti, který zahajuje akci, až když už byl útok proveden.
- Je společností, která i při zrněných hospodářských obtí- žích dovedla sloučit demokratické politické zřízení s potřebnou měrou hospodářsko - so- ciálního plánování, která dokázala zachovat podstatné osobni svobody a zároveň se posta- rat o rovnoměrnější rozdělení národního důchodu i o základní bezpečnost pro každého.
- kvalifikovaná většina přehlasuje kvalifiko- vanou menšinu a odejme jí i sobě navždy možnost přeměnit se či být vychována v uvědomělou většinu, jež bude jedinou trva- lou zárukou bezpečnosti demokracie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b05b211545214785cc016ecf3109adabf94296a6d2b166325cc3a5d8ba1ac828
+size 1011

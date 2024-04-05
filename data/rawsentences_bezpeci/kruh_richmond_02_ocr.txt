@@ -1,2 +1,3 @@
- nepatřil k oněm únikovým blaseovaným konvertitům, kteří viděli v Církvi poslední baštu proti vítězně postupujícímu komunismu a jejichž rozhodnutí bylo vlastně ústupem, ne-li útěkem do klamného bezpečí a závětří kulturních hodnot, a kteří pak po pominutí nebezpečí s naprostou samozřejmostí zase odejdou z podkřídlí Církve, jako se po náletech vycházívá z krytů na denní světlo.
- Asi jen proto, že tu byla matka, zachovala klid, naklonila se k matce obličejem, aby jí zaclonilo, rozhled a řekla, arciť rozechvěně a unáhleně: "Vrátíme se ještě na chvilku do obýv čího pokoje, co tomu říkáš?" Řehoř jasně chápal, proč to Markétka říká, že chce matku dostat do bezpečí a potom κ ho zahnat dolů se stěny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a88e862bc1a222a6b585461a7658d9dab77c329928de11302219445ad0670a
+size 555

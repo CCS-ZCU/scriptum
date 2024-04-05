@@ -1,6 +1,3 @@
-znát nebezpečí
-znát nebezpečí
-velký nebezpečí západ dát unést nadšení příklad vrcholný projev ruský umění
-velký nebezpečí západ dát unést nadšení příklad vrcholný projev ruský umění
-Gomulka svěrák Moskva východní Německo nový tvrdý politika Kreml vynucovat další další ústupek spatřit tragický konec maďarský revolucionář nebezpečí nepokoj Polsko
-nebezpečí Chruščov hrozit vážný ochotný riskovat ztráta posice svět celý slavný konference vrchol zažehnat
+version https://git-lfs.github.com/spec/v1
+oid sha256:02e36951f5e54387bc32d8bf780bfe779cf8bb529e88ccd1d4535340f4d06b43
+size 521

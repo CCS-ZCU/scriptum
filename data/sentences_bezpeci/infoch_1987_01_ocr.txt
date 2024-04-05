@@ -1,2 +1,3 @@
-zájem bůhví ohrožený bezpečí muset ustoupit raněný odvážený nitka nemocnice
-další občan odpíraný svoboda strach preambule první pakt nucený žít trvalý bezpečí projevit názor ztratit pracovní jiný možnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8690baa58092df7b930a5cb161b6fc1e89eaafc9337e4298f885f4d3e0ecdbf
+size 90

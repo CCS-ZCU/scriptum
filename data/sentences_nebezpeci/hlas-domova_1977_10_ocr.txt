@@ -1,2 +1,3 @@
-seznámit omluva umět rok metr hrozit nebezpečí vězení dcera odrůst školní léta bráněiio studium věk chránit pracovní nasaze metr výroba národní umělec Jan Werich prohnout šovat okolí schůze národ metr divadlo podpisovat presenční listina hlášený
-někte zpráva Minařík slední měsíc pít nebezpečí mluvit okolí hodit reže
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef860188b5ace24f748a50de6ec167a67a42213f2dfd2a2cef470199ddc74ed2
+size 528

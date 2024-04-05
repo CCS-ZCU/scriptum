@@ -1,8 +1,3 @@
-vlastní komunista řada dílo ník jiný kategorie pracující demo kratizace znamenat nebezpečí ztratit privilegium plynoucí omezený moc privilegium mít
-učinout vystavovat celý země nebezpečí nový hluboký krize
-sdílet názor pravicový hrozba existovat znejisťovat jasný moci nazvat nebezpečí byrokratický zvrat představa povaha intenzita nebezpečí představa sovětský strana rozcházet
-mluvit nebezpečí kontrarcvoluce
-sedmdesátý léta konfrontovaný polohystc rický reakce provázet stín nebezpečí občan ocitnout orgán státní bezpečnost
-spontánní síla miliónový polský solidarita ohrožovat existující moc vyvolat nebezpečí sovětský zásah vývoj zvrátit
-nebezpečí rozpad současnost hledný budoucnost hrozit
-časo pis elektron psát smysl mít stát nutný počítat možnost zvýšený seizmický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:93192d8f03061fb7971408635c52d001594883bc696eeb44d5d244f72966d762
+size 863

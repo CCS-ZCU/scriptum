@@ -1,2 +1,3 @@
- Před ním nikdy žádný sesazený vůdce z Východní Evropy nemohl nebo nechtěl pronést víc než vlastní obhajobu: politický program evropského disentu, manifest, který jde dál než Chruščovův revizionismus a staví se na stranu těch, kteří touží po svobodě, blahobytu a bezpečí v Evropě za Labem.
- sjezdu v nich obnovila pocit osobního bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88efb065532ccabc991fafbd4fcb517cbfbcc894f3a5cb519cecf97bce90507b
+size 373

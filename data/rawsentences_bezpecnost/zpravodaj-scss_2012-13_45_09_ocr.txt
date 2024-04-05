@@ -1,1 +1,3 @@
- Většina voličů na jedné straně chce více bezpečnosti, nechce ale uznat, že na to je zapotřebí vyšších příjmů z daní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0ed1fa8fb6c0613e385caa5d2a2201027fe5a04e30b0cd2057a1319b42421b3
+size 136

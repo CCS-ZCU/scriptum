@@ -1,1 +1,3 @@
-přednášející prokázat vynikat jící znalost vývoj současný stav činitel rozhodující poměry míra válečný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:06331010a006b5fbd68cd71d2aaaa9d34d70ca489191a3bcc343c10f25bebc44
+size 135

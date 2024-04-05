@@ -1,1 +1,3 @@
- Klausule «ná- mitky všeobecně politické povahy» se vztahuje na to, co se týká obecného dobra, jako je státní jednota nebo bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c799dac11a661f8f03f06d303a8bc89e901158f11fe5eebfe792101542cba58
+size 147

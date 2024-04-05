@@ -1,1 +1,3 @@
-jiný komplexní vyjednávání sledovat základní cilo snížení stav zbraň ostranění omezení nebezpečí válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:344d097f6625972ec9ce8a682a69705166dfe89aa78789cc0790a81308e4f70e
+size 120

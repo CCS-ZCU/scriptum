@@ -1,1 +1,3 @@
-chtít zřídit PLO stát znamenat smrtelný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:62d1724187232878457a53aadd46edc1622e582c80e097e73b7c9f295eca28e8
+size 57

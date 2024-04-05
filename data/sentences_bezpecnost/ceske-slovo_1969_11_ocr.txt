@@ -1,1 +1,3 @@
-státní bezpečnost STB zatýkat vyslýchat mladý lidé fotografický filmový materiál zúčastnit srpnový demonstrace
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8bea4683b4c8c10541a4f324375e441c25efaf271bb1ced86ed0bd270195887
+size 124

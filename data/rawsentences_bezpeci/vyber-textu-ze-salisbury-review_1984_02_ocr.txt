@@ -1,2 +1,3 @@
- Moderní politologové oprávněně trvají na důležitosti faktu, že instituce musí být reprezentativní, mají-li být účinné a vyvolávat pocit bezpečí.
- Společnost tak atomizuje na isolované jedince, kteří nemohou nikde najít své místo a pocit bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b17a2a36fccad56ef743d01d01794cf95aa7573574ab8fd27b9f40c39d6b72c
+size 276

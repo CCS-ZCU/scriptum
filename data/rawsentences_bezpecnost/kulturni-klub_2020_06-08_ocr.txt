@@ -1,6 +1,3 @@
- Žádal odškodnění v souvislosti s nucenou emigrací po nátlaku komunistické Státní bezpečnosti (StB).
- Státní bezpečnost zamezila tomu, aby byl Zajíc pohřben v Praze, protože se obávala dalších demonstrací, podobně jako v případě Palacha.
- Ministerstvo vnitra připraví návrh dalšího postupu formou novely ústavního zákona o bezpečnosti České republiky, uvedl na twitteru vicepre- miér a ministr vnitra Jan Hamáček (ČSSD).
- „Rozhodnutí padlo po pečlivém zvážení a konzultacích s ohledem na zdraví a bezpečnost všech, jichž se tato událost týká.
- Jelikož stále trvají koronavirové hygienicko-bezpečnost- ní opatření, musí i věřící dodržovat v kostele následující pravidla: hlášena sportovní legendou, obdržela in memoriam Cenu Emila Zátopka.
- Klíčová bude obnova důvěry veřejnosti v bezpečnost cestování.
+version https://git-lfs.github.com/spec/v1
+oid sha256:000ab2111333046a783f6cb3e5a175f1d4ad9a93851453eb0011de11dfbb43a8
+size 889

@@ -1,1 +1,3 @@
-moci zarý bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2289030949b1d1e96d73db3fd359c36c2381778f247b2137845621e83802ad50
+size 24

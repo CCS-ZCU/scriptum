@@ -1,2 +1,3 @@
-existující kontrola dostatečný zákon zaneprázdněný soud hrozit nebezpečí machinace odhalený
-nebezpečí hrob vstát otec Kondelík zeť Vejvar Eduard Bass člen klub starý Praha další staromilec jít ulice protestovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6b3057371bd940fc82de541040626a204f03c08360bd3fab4118d70da7dfd2
+size 232

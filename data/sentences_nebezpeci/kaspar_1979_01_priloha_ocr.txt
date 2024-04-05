@@ -1,1 +1,3 @@
-Jenda pokusit vyložit jediný nebezpečí projekt
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f31b531c3f16b81a1ddee7f4d848debc2ce5e88461ad6741d3f66de76212dab
+size 51

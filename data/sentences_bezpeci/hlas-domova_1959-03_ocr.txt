@@ -1,1 +1,3 @@
-slibujíc blahobyt bezpečí mít kalna dář zaškrtnutý příští volební termín
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dc554a8543eb167874154a42d8ebeb3177dbd5113abb83541bae77ee2b66b5e
+size 86

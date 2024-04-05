@@ -1,2 +1,3 @@
-“ A znova se všichni uchýlili do bezpečí a představení se opakovalo.
- Protože jak z toho má něco mít, když pořád musí myslet na její bezpečí, na její pohodlí, na to, jestli se jí to líbí, na to, jestli on se jí líbí jako hostitel, jako pilot a.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c70860087436800178a39830111fb15adc0a7c77907330bef9195018bef2de0
+size 272

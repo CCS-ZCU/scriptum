@@ -1,1 +1,3 @@
-čiv ministr dát poštvat bezpečnost ministr sousední bratrský země
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca8a8bd3c4506def0c8bbd057e275e096db792202b6fd42b128f779cd4a78806
+size 73

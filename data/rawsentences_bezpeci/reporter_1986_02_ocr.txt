@@ -1,1 +1,3 @@
- Tento ježatý název, nešťastně zvolený a celým světem odsuzovaný, byl vyjádřením nikoliv záměrné diskriminace, ale ochrany zájmů a bezpečí všech rasových skupin žijících na území Jižní Afriky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b83dafb5cfc879b9495571ee19e3f94e3e6e1201c5f37d85b6554c3f207e4943
+size 222

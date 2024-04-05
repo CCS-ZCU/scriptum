@@ -1,1 +1,3 @@
- 4 duben - květen 1979 apríl - ma j 1979   - 3 - kého paktu; finlandizace západní Evropy na podkladě evropské soustavy kolektivní bezpečnosti; nová válka v Koreji bez protiopatření USA, přičemž Japonsko nebude moci s ohledem na smlouvu o zákazu užívání jaderných zbraní zasáhnout; po získání převahy Sovětů ve východní Azii bude Čína cítit potřebu se nějak s Moskvou dohodnout; usazení komunistické vlády černých v Rodézii s pomocí Kubánců, Čímž vznikne rudý pás napříč Afrikou; sovětské ovládnutí cesty kolem jihoafrického Kapu; odříznutí USA a Evropy od dodávek strategicky důležitých surovin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b10154cc39a97ed502fe81542a793383183289ef48e1c5e1c159f9cd33f027
+size 662

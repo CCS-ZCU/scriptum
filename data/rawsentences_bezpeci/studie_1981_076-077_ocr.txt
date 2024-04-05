@@ -1,2 +1,3 @@
- Ale i když jsme přijati a integrováni a neseni naším kruhem a mohli by- chom se nechat unášet v blahém bezpečí, přece jen hlodá na dně našeho srdce záhadný neklid, který nakonec formulujeme v otázce: Jaký to má vlastně smysl, že jen jedna generace předává druhé pochodeň života, aby dále plynula tato řeka, která již v následujícím okamžiku není táž, a přece jen je stále táž? Jaký smysl má v sebe uzavřený kruh - věčný koloběh přírody? Jaký smysl mají kruhy, které jsou jen obrazem absolutna a nikdy se s ním nemohou spojit? Rakouský spisovatel Peter Handke napsal románový životopis své matky.
- Obraz dokonalostí a bezpečí kruhu nám nedává úplný klid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5e44a93bdb39ffa71dc3204a727e54bfa5508554032c0f4dc8d17a59301154
+size 723

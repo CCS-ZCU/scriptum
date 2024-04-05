@@ -1,4 +1,3 @@
-hlavní povinnost zvolený úředník člen odboček oblast získávat nový spolupracovník uvědomovat rostoucí nebezpečí komunismus
-duben hrdý společný původ
-republika
-velký krok zachránění nebezpečí vypovězení
+version https://git-lfs.github.com/spec/v1
+oid sha256:d56ddf30bd51c6330ce473bcdd15cda00c5c97acc7fce5e6e35fcd7911342c66
+size 229

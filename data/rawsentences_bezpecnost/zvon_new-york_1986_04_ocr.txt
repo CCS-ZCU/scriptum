@@ -1,1 +1,3 @@
- A- lebo je celkom nevinný, alebo má všetky svoje doklady v bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80357d363b75a22e6c885c1a7c1bccb2b3eb43a17c4a85a5046f41bc81db9188
+size 77

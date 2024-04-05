@@ -1,2 +1,3 @@
- Z řady jiných uvádíme přiklad člena kolektivu mluvčích Charty 77 Karla Soukupa, který byl na úřadovně bezpečnosti čtyřhodinovým kopáním, bitím, zalamováním prstů přemlouván k vystěhování.
- O dva dny později když byl doma sám se svými malými dětmi přepadli jej pracovníci Bezpečnosti přímo v jeho bytě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33cbe6183e1ce311883f8c592bc77f35d560ce6cb01d3dd7c247ce32ed1dbb49
+size 342

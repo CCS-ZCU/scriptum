@@ -1,1 +1,3 @@
- Papež deportován? Přečasto se však v oněch pohnutých měsících vynořovala i otázka papežovy osobní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d7585c857724d7e6b974bf9e2a1540bb705cfab7c74e36b719dfd726e83c7b7
+size 127

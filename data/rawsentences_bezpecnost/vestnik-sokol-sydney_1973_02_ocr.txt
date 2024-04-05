@@ -1,1 +1,3 @@
-! Evropská konference pro bezpečnost v Evropo, která se konala v Helsinkách dokázala, že se postoj Sov.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0e39f73fbfc620d1ac9dae3b8698c003abc6513dc835e79cf6da04faaec8b7e
+size 110

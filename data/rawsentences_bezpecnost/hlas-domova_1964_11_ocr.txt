@@ -1,1 +1,3 @@
- Při zatýkání postřelil příslušníka Veřejné bezpečnosti a sám spáchal sebevraždu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:028459156fee286e9524d5711ac7ea07a4f841b210bfe9cb2a5702ff6c7f534c
+size 97

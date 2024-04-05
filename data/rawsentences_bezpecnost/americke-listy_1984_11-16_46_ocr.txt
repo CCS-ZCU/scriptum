@@ -1,1 +1,3 @@
- 3) Stockholmská konference o bezpečnosti v Evropě vstoupila v minulých dnech jako beznadějné a nekonečné jednání do čtvrtého kola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee22a1a2fbd24bd4ef415f86ba9a4ac12d351f09dca3301e323cd9281ba1fa3d
+size 144

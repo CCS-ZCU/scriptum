@@ -1,2 +1,3 @@
-Nevznikl však z důvodů věcných Pro bezpečnost lidí v ČSR ukládám si nutná omezaní.
- to byl dán na dovolenou také šéf bezpečnosti v Olomouci Printa, u něhož byly rovné ž ukrývány zbraně a střelivem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2424041c2ddc8dd880348d3da1b7670a4e8b0abf7114ce777d98241e8fa75f
+size 223

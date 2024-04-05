@@ -1,1 +1,3 @@
-přicházet strach objektivizovaný člověk vydaný systém dosavadní hodnota zrušený záruka bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e059e84ccf9490d0f92f53099fc655de4480e6853f30bb9153227606b4b57f8f
+size 108

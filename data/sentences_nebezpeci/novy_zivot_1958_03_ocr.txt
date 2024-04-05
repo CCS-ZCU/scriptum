@@ -1,5 +1,3 @@
-srpen markrabí Prokop chránit schisma tika agitující český země vzdoropapež Kliment arcibiskup zásah octnout úředník nebezpečí život
-Jenštejn horlící spravedlnost láska žít stálý nebezpečí život
-nebezpečí islám malý dnešní nebezpečí komunismus
-průměrný občan spojený stát zůstávat pochopitelný sovětský nebezpečí propadat důvěřivost sovětský příslib
-přepsat závažný slovo náročný upozornění všeobecný nebezpečí positivní bezbarvost exilový poesie
+version https://git-lfs.github.com/spec/v1
+oid sha256:96223a33abff9162d118a95d243a2b466fb30fe123e275743975c8f283ecd235
+size 515

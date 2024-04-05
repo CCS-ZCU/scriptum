@@ -1,1 +1,3 @@
-iondat národ národeín brát srdce tih hrích odpad tite hledat lohký kompromis pohodlnosť bezpečí oblibeno3t cena lichocen
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e0bbbecbb7c9480eb5d71f0786a4d9ebe0d237eea810221d78865088382208
+size 129

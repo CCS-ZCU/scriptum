@@ -1,3 +1,3 @@
-předseda americký výbor bezpečnost spolupráce Evropa poslanec Stena Hoyer odjet neděle
-edice rozmluva 3QN edice národní politika charta navržený Nobelův cena míra americký komise bezpečnost spolupráce Evropa oznámit navrhnout letošní Nobelův cena míra udělený charta československý
-americký komise bezpečnost spolupráce Evropa mít sídlo Washington
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a7fd09b2035a6f2706db8aa574014c5a61b9da990bf1945c09a1c7c9906c0b2
+size 377

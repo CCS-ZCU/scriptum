@@ -1,1 +1,3 @@
- Pro samostatnost, bezpečnost a pevné mezinárodní postavení naší republiky; Pro všestranný rozvoj naší socialistické společnosti, pro dôstojný a plný život pracujících naší země.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0f4b25b49fda95bf251923c0a8e1fa98bc41ee9aed18ad4f4e9ae044e190fa8
+size 201

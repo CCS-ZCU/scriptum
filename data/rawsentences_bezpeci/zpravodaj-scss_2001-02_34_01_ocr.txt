@@ -1,2 +1,3 @@
- Švýcarské, bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Zděs dobryje Ijudi, oni pamagut,“ řekl a šel, aby mi sjednal stanování někde v bezpečí, nejlépe u někoho v zahrádce za domkem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:286e54befd2f49bf0791a90129796f1a6a6ab6203cf440fcf754cc1ee6da5ee5
+size 250

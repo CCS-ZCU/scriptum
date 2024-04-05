@@ -1,2 +1,3 @@
-vázat různý podmínka Libuše mít šance splnit vědět kamarádka namonec rozhodující vytrvalost podmínka trváo obrnit překvapit milovat lahodný litr pocit bezpečí obtěžování nevlékaci prostředek
-'mět představit moci země hodit kostel granat Hení bezpečí důležitý svoboda pravda
+version https://git-lfs.github.com/spec/v1
+oid sha256:434ec2c97e08f96ce2310c4f71b3a8ec7ae49416f4a2350fa2f8381e4bf455c7
+size 307

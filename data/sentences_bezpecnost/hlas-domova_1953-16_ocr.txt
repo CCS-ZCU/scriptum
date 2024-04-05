@@ -1,1 +1,3 @@
-veřejný bezpečnost železhice VBZ
+version https://git-lfs.github.com/spec/v1
+oid sha256:f485997aad9a5ab6868c5c0f276130d51702c722214624abd1c77687f1477ad3
+size 37

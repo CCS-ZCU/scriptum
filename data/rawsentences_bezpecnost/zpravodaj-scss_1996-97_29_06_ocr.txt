@@ -1,2 +1,3 @@
-“ Mnozí exulanti žijící ve Švýcarsku, kteří se pokoušeli získat zpět své vlastnictví, nebo za utrpěné bezpráví obdržet satisfakci, mají obdobné zkušenosti s bývalými agenty státní bezpečnosti.
- Prezidentská kancelář tyto dopisy předala ministerstvu spravedlnosti s připomínkou, „aby se Státní bezpečnost na pisatele podívala a přešetřila“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b79152785f739e85b213778584f53e5265d478dfede9accc4c64be90148f89
+size 385

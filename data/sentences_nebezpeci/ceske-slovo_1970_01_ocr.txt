@@ -1,1 +1,3 @@
-bylet burský farmářský rodina tilop vyhubení zachránit nen obava antilopa hrozit nebezpečí hubení
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bae74f696604ba0ec678c6c8fe77994787e02c488aeb5ed703dd1d2de462e9f
+size 107

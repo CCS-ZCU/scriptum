@@ -1,5 +1,3 @@
-světový válka vídeňský Čech ocitnout původ nebezpečí
-opominout nebezpečí vyplývající existence místní gang místní úroveň správa moci ovládnout terorizovat obyvatelstvo
-nebezpečí válka reálný
-další hrozba český dráha představovat nebezpečí platební neschopnost
-MaFr Čech zadlužovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e461f8fa8ab5aadcfd172c545752acd059bf36fbee5e76f4ec8dc459e74eb2
+size 320

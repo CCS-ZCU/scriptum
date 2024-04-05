@@ -1,3 +1,3 @@
-srpen rok zvítězit strach hlas rozum vědomí nový hrozící nebezpečí východ ráz zhatit celý vybudovaný plán jednotný brana schopný západní Evropa
-hrozba sovětský expanse atlantický pakt hlavní obrana nebezpečí nutnost zapojit Německo obranný systém západ
-význam balkánský pakt spočívat Jugoslávie zapojovat systém atlantický pakt stávat člen obranný linie západ upevňovat oblast ohnisko stálý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2bd93610d5d4917a5439d442c22cec87e09353e576f247be1b3d12c98fed461
+size 447

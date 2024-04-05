@@ -1,1 +1,3 @@
-žena žíznit láska bezpečí něžnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de100ddeef3ed0c25f1af8f2ea7db9c0dc6cdcc1b07accdcbd88302591dbf87
+size 42

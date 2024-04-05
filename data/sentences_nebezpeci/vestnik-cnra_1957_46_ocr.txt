@@ -1,2 +1,3 @@
-osud postavit místo důležitý svět doba velký nebezpečí zmatek
-CÍm krajan mluvit otevřený malý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e27fe39681a1eb5d7449206d5201e9eddbf6e10a6ff16053c8ca9d1f47f055
+size 118

@@ -1,2 +1,3 @@
-bezpečí druhý strana možný dělat
-znát doba dobrý cesta hranice převést bezpečí desítka užitečný lidé
+version https://git-lfs.github.com/spec/v1
+oid sha256:8adc69590504d5824d17a2c43616e576dd54672aea640421c789b716a14b33c5
+size 118

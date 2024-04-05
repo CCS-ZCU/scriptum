@@ -1,1 +1,3 @@
-zůstat team sdělovací prostředek místo hrozit obsazený území západní břeh Jordán Soweta bezprostřední nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e65ccf95b6d4875513aec5e0893be23341c5acdc9576300d0aa81987790d0a7
+size 128

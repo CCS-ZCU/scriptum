@@ -1,2 +1,3 @@
- Důvodem propuš- tění je Pavlíčkova vážná srdeční choroba a tedy ne- bezpečí, že jeho případné úmrtí ve vazbě by vyvo- lalo nežádoucí kritiku v zahraničí.
- A korouhvičky se točily ve větru a doprovázely převoz intelektuálů do bezpečí blázinců souhlasným skřípotem .
+version https://git-lfs.github.com/spec/v1
+oid sha256:52bd376e29b96b0df76321573997009dda8ee66435f31acdb29383c349fbadf3
+size 125

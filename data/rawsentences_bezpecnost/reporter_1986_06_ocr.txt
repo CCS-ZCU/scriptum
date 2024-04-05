@@ -1,5 +1,3 @@
- Množí se též udání orgánům veřejné správy, zvláště Veřejné bezpečnosti, kde mají pro tyto účely zřízena odděleni eufe- misticky nazvaná »příjem oznámeni oby- vatelstva«.
- A reakce světa? Že by mimořádné zasedání Rady bezpečnosti OSN svoláno ? Nebuďte dětinští, holenkové.
- Že by špioni si měli svoje odsedět, jinak bezpečnost světa je stále více ohrožena.
- Nikoli proto, že SDI by ohrožovala bezpečnost SSSR, ale proto, že jejich útočná kapacita bude neutralizována.
- Otázky souhrnně asi nejlépe zodpověděl nápis na zdi, urážející Veřejnou bezpečnost jako takovou, "Fuck off V.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c4da98832e3ff9fd48b056b7c53f562c64deae93e7b18a6912590f44460318c
+size 651

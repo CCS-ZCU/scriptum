@@ -1,1 +1,3 @@
-perestrojka přinést celý řada nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6fc9b0c33e7dedd8f603d839455b25c7b51080d896b6ad4018c12ea7f1be24b
+size 46

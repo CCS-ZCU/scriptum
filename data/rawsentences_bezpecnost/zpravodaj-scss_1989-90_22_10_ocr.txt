@@ -1,8 +1,3 @@
- Jak na to? Zdá se, že zájmy Sovětského Svazu ve Střední Evropě vůbec a v Československu zvlášt směřují k vytvoření ekonomicky zdravějších státních celků, jichž politika by neohrožovala strategickou bezpečnost moskevské velmoci.
- Pomineme-li po léta budovanou a jistě i dnes nezanedbatelnou sít amatérských, nicméně dobře honorovaných špiclů a donašečů v místech bydliště a na pracovištích, pak hlavními inspirátory a vykonavateli represí nesporně zůstávají odborně vyškolení profesionálové ze smutně proslulé Státní bezpečnosti.
- Přísně utajován je před veřejností nejen počet příslušníků a hodností Státní bezpečnosti, ale i jejich platy, několikanásobně převyšující průměrné dělnické výdělky.
- Kolik si dnes vydělávají majoři a plukovníci státní bezpečnosti, jichž je ve službě jako much, na to by se měli ptát svých poslanců občané, kteří z výsledků své práce spolufinancují státní rozpočet.
- Občané by rovněž měli mít právo se dozvědět, kolik osob zaměstnává státní policie nebo na kolik občanů vlastně připadá jeden příslušník státní bezpečnosti.
- Stěží lze najít méně přitažlivou a pro společnost neužitečnější činnost, než je ta, kterou dnes v Československu produkuje armáda tak velice utajených a od slušných lidí izolovaných existen- cí ve Státní bezpečnosti.
- Tak zvaný "Odborný posudek o výrobě použití computerů z hlediska bezpečnosti", který byl na minsterstvu vnitra vypracován už před deseti lety, platí dodnes.
- Gaviria se už před několika lety uchýlil na Kubu, kde mu režim zaručuje bezpečnost a na oplátku využívá jeho nadání velkého manipulátora.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9914d6e2a9ec463a8a43241b0f5f531938a1a437f8693d794a37c3fb8bc51f7b
+size 1770

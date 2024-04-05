@@ -1,1 +1,3 @@
- Nejsem tady proto, že bych se strachoval o svou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:046a80695fc628473c41aba00192df26e442b5c715cef616bc346e11fd1ba6cf
+size 63

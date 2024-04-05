@@ -1,2 +1,3 @@
- Frakce Chalk kontrolují policejní jednotky ministerstva vnitra, frakce Parčam kontroluje vnitřní bezpečnost - a jejíjednotky.
- Závazné jsou pouze rezoluce Rady bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:379df92567a675ea213a3532308b6ae25f4145014a8afe760ec17ec1ffec1081
+size 184

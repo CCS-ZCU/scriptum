@@ -1,1 +1,3 @@
- září, bylo zasláno předsedovi vlády ČSSR, Vládnímu výboru pro evropskou bezpečnost a spolupráci a ústřednímu výboru Národní fronty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:567ea3ab10bb831d78142c7adec3e7a49fa85c468eae31a2707981eee40f3f1b
+size 151

@@ -1,2 +1,3 @@
-druhý veřejný pořá dek bezpečnost zdraví morálka základní právat svoboo
-zárovoň konkrétní jednání obžal nýcha svědek chata yjatice rušit veřejný pořádek bezpečnost zdraví morálka aákiadní právo svoboda jiný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe92913778391b36c62227c35dbcc2fd3dd7a618ccc88f42b7083da64516549
+size 236

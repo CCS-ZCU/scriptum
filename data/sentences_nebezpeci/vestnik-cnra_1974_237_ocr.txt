@@ -1,1 +1,3 @@
-považovat církev nebezpečí komunistický strana systém
+version https://git-lfs.github.com/spec/v1
+oid sha256:880aaae2a6620034246e9af5bb900198208a7b7b5dbbf1cb5f134f087a8fc90b
+size 60

@@ -1,1 +1,3 @@
-osmý strana národní politika prosinec Ctyř šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bc1de6c00f407761ec8f038162b78bea4e33eaae7547c719e2a0122fc39fd7
+size 84

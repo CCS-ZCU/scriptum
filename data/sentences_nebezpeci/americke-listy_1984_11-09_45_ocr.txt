@@ -1,1 +1,3 @@
-posvěcený stranický místo vědět nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:10d812ead8ab09965b0146178a243bafdbce1cc367d398245323c7573819e72d
+size 57

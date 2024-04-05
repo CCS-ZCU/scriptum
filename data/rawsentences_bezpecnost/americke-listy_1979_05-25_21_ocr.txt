@@ -1,4 +1,3 @@
- Blumenthal i jiní vidí výstražná znamení, že by se to mohlo stát: některé evropské demokracie a Joponsko dnes věnuji větší procento národního hrubého důchodu na základní výzkum ve vědě a v technologii nežli Spojené státy; počet patentů, udělených americkým firmám americkým patentním úřadem v první polovině tohoto desetiletí poklesl o dvacet procent, zatím co v stejné době počet patentů, udělených cizincům, vzrostl o 25%; americké firmy, svázané neobyčejným počtem nových vládních předpisů o bezpečnosti výrobků a ochraně prostředí, teď musí vynakládat víc finančních prostředků a zaměstnávat víc laboratorního personálu jen na to, aby těm předpisům vyhověly.
- Jaroslav Ša- bata je nyní ve vězení po letošním lednovém rozsudku, kdy byl odsouzen k de- vítiměsíčnímu žaláři pro potyčku s příslušníkem bezpečnosti, k níž došlo loni v říjnu při krkonošském setkání československých a polských kritiků režimu.
-” Další obvinění dr Danisze Podle zprávy, která došla do Vídně, odvážnému obhájci dr Daniszovi bylo doručeno další trestné obvinění proti jeho osobě, tentokrát na základě výroků, jichž se měl dopustit před vyšetřovatelkou Státní bezpečnosti.
- Příslušníci Státní bezpečnosti nezapomněli na rok 19GS a ztratili svůj pocit stability a beztrestnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4b09f9e6f24e54367fdcdc72201819ae830f9fb166f29a0a98eb1daa466b9d4
+size 1418

@@ -1,1 +1,3 @@
- Mečiar oka- mžitě popřel jakoukoli účast sloven- ské bezpečnosti v této záležitosti a obvinil federální orgány.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04371065b4d3e577567c54593e3eb21b86e11459169b5627670f0e492a5384b9
+size 127

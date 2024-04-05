@@ -1,1 +1,3 @@
-tern patřit otázka důvod vést minulost kněz nošení kolárka klerik
+version https://git-lfs.github.com/spec/v1
+oid sha256:923e3b041931df0332d2b94d337eb268c095ae5c6b66e5f3462553c46d3b7552
+size 74

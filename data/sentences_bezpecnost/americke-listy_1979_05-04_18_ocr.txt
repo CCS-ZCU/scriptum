@@ -1,1 +1,3 @@
-chtít vyhazovat peníze nákup zbraň pokládat povinnost pečovat zvýšený míra bezpečnost země čelit sovětský akce Afrika
+version https://git-lfs.github.com/spec/v1
+oid sha256:7544c3cd70d0bc0a25f3ae3c778f5d54e285d779abfb321e10cee28f33d30642
+size 133

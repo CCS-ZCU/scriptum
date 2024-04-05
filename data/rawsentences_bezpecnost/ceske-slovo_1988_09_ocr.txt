@@ -1,3 +1,3 @@
- Státní bezpečnost má zvlášť na mušce členy Nezávislého mírového hnutí.
- Především měl strach o svoji bezpečnost.
- Všechna oblastní velitelství SNB a Státní bezpečnosti dostala rozkaz část svého mužstva ihned vypravit do Prahy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8dd9336d6ff212c288ac22b8c500a7673b623e8e7c85786626c1894c5809ecc
+size 257

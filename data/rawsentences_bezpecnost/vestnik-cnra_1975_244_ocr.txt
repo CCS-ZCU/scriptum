@@ -1,5 +1,3 @@
- I Věstník - 3  Ján Papánek: Sovietska ofenzíva Predstavitelia demokratickej časti Európy, ktorí sa účastnia ženevskej konferencia o bezpečnosti a spolupráci v Európe, sa utešujú, že v jednaniach so Sovietmi a ostatnými komunistami sa vykazuje určitý pokrok.
- Nechcú si uvedomiť, že mier a bezpečnosť sú nedeliteľné a že bez slobody v srdci Európy nemôže byť a nebude mieru a bezpečnosti vo svete.
- tenistka Martina Navrátilová přijet do USA, vyhrát $100,000 a dovézt si je domů - z čehož prý pražský režim zabaví $60,000, jak psaly americké noviny - proč by nemohli američtí občané navštívit svou starou vlast? Brzy budou zahájeny rozpravy na Konferenci o evropské bezpečnosti v Ženevě, kde se Západu jedná o volnější pohyb osob, výměnu myšlenek a informací.
- Den je sice neustálým nebezpečím nových výslechů a dalšího trýznění od referentů státní bezpečnosti, ale někdy se projevuje intelektuální převaha vyšetřovaného nad násilím a terorem.
- Dvůr v blízkosti vězeňské nemocnice je zaplněn příslušníky ministerstva vnitra a státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:379c3e2093c859b43b02782a53844f4ca7fbd884b8d7323be39d8c940d9a28af
+size 1153

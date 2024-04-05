@@ -1,1 +1,3 @@
-přesycený člověk chtít další generace jistota bezpečí smysl život opravdový svoboda volba přesvědčení
+version https://git-lfs.github.com/spec/v1
+oid sha256:1279b47d7617fd3c04047e7f645c02332d3b275831ca34b917e3ac02a7a59417
+size 117

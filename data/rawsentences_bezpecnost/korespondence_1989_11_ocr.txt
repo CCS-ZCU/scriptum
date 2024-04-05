@@ -1,1 +1,3 @@
- které pražští mocipáni označovali za agenty západního imperialismu s těmi, jejichž politickou spolehlivost hlídá státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55e4ec889ec588b6a3c5bf94f70dd13313cbb3928dbe5956dfa71f221814f5a7
+size 148

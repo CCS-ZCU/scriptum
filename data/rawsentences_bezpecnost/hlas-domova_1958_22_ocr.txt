@@ -1,2 +1,3 @@
- Politickým zájmem republiky je utajit před nepovolanými osobami vše, co by mohlo být politicky zneužito proti vnější nebo vnitřní bezpečnosti.
- Naší specialitou však zůstává, co vyvolá ze všeho radost největší: když tu někdo z nás udělá podraz, vyvolá veřejné pohoršení nebo se nějak jinak neslavně proslaví a rámě bezpečnosti nebo noviny takového výtečníka zařadí mezi Baltiky, Poláky, Němcé nebo aspoň hromadně mezi ’’Novoaustralany”, aniž uvedou bližší označení původu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dbdae8daeb9c00b8bac31f65d7a8f20a8b2f55a0d5dc96e0298b663c2e3e4f3
+size 538

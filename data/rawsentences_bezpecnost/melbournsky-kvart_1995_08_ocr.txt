@@ -1,2 +1,3 @@
- Český představitel RTZ prohlásil, že dolováni začne až průzkum plánovaný na pět let potvrdí bezpečnost moderní technologie, o které Duha prý zřejmě nic neví.
- Dalších pět obviněných jsou členové bezpečnosti obviněni ze spolupráce s okupačními armádami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9dd3d4a61bd692ca2fc21b05e34820becce4d4f407e6b698a6b0d5de72a5fc
+size 287

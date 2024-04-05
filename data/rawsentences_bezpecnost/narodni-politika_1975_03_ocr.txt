@@ -1,2 +1,3 @@
- 32: „Smluvní státy vykáží ze své země uprchlíka, kterému přiznaly podle zákona právo pobytu, pouze z důvodů státní bezpečnosti nebo veřejného pořádku“.
- Již několik hodin po smrti Antonína Novotného, byly v jeho bytě zabaveny agenty Státní Bezpečnosti přes protest jeho manželky paní Boženy Novotné veškeré pozůstalé ma- nuscripty, mezi nimi i Novotného memoáry.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2be726c3461a585581363c02bc5c1b4448c56e88fea0a4433befdb493670eb
+size 408

@@ -1,2 +1,3 @@
- Kdykoliv cena nafty Bezpříkladný proces Polská veřejnost s napětím sleduje průběh bezpříkladného procesu proti čtyřem důstojníkům státní bezpečnosti.
- V soudní síni se odehrávají otřesné scény: avšak otřesnější než dodatečné psychické zhroucení pachatelů jsou fakta o tne todách polské státní bezpečnosti, fakta, která se po prvé v komunistické zemi dostávají na světlo při veřejném procesu proti členům státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6f0f84d2801c431630f948bac4a6752731b9daadaebb194c7b51f632b25f85
+size 482

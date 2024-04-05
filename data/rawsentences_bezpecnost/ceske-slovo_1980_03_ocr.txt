@@ -1,3 +1,3 @@
- Vysokým smluvním stranám v tomto případě nevadilo, že v preambuli slibují „přispívat věci mezinárodního míru a bezpečnosti“ a bojovat proti jakékoli formě nadvlády a útisku, hegemonismu, expan- sionismu .
- bezpečností vyslýcháni, někteří podepsali vynucená prohlášení, jiní byli potrestáni, a z těch, kteří zůstávají ve vězení je nejaktuálnější případ člena jezuitského řádu, P.
- státní bezpečnosti, aby celé hokejové mužstvo poslala do GULAGu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b823c96f905c4ac1ba5060de51675c2d14f31e5872bb50f3796a0856cc865d
+size 506

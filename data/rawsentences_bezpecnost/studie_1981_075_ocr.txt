@@ -1,7 +1,3 @@
- Autorům současného samizdatu nehrozí takové tresty, i když metody Státní bezpečnosti se o mnoho nezlepšily.
- 1948, se prý zavázala, že zajistí rozvoj a zaručí bezpečnost všem náboženským vyznáním v zemi.
-  kračování Konference pro evropskou bezpečnost a spolupráci - dokázaly již v Bělehradě a dokazují znovu i nyní v Madridě, že není snadné skrývat se za ideologii a pod jejím pláštíkem bez povšimnutí druhých pokračovat na cestě útlaku a nedodržování závazků.
- Proto musel přijít rok 1976 s drastickým zvýše- ním cen potravin, dělnickým odporem v Radomi a Ursusu a novými bru- tálními represáliemi bezpečnosti.
- Musí však sovětská intervence proběhnout nutně zrovna s tanky, nelze podobného cíle jako v Praze dosáhnout i jinak, třeba pomocí sovětské zajisté bohatě roz- větvené a dneska určitě nikoliv nečinné agentury v Polsku, koordinující svoje zásahy a provokace s aktivitou stranického aparátu, bezpečnosti a polské obdoby našich Lidových milic? Můžeme odhadovat, na co stačí přehled, rozvaha a informovanost dělnických vůdců Solidarity, kolik a jak dlouho si uchovají autoritu a zda se budou řídit něčím solidnějším než jenom sim- plexním selským rozumem? Samotný výčet podobných otázek by už byl neúnosně dlouhý.
- Mimo stranu byl založen KOR, jemuž se podařilo publikovat podrobnosti o bru- talitě příslušníků bezpečnosti vůči uvězněným dělníkům z Radomi a Ursusu, 2Ó7.
- Státní bezpečnost odnímá bohoslovcům všechny psací stroje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65324841d9109490dfa8ec2ef245942c36243ca5b168108fa487434b8837bb4
+size 1594

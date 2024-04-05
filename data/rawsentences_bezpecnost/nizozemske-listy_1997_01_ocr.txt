@@ -1,2 +1,3 @@
- Pokud ale ústřední orgány vydávají zákonná opatření, která ohrožují jistotu existence Romů nebo jim neposkytují dostatečné záruky jejich osobní bezpečnosti, pak není jednoduché docílit v těch bodech úspěchů na místní úrovni.
- Max van der Stoel (Vysoký komisař pro národnostní menšiny Organizace pro bezpečnost a spolupráci v Evropě), Volkskrant: Já sám jsem přesvědčen, že problematika národnostních menšin tvoří pro stabilitu v Evropě největší nebezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a12d6c2c02aa39e65b34163724439148e194c3176b4436217e0b50817a7dc367
+size 512

@@ -1,5 +1,3 @@
-formulace jiný krajný primitivní podoba myšlenka lze vyjádřit filosofie mít sloužit národ duch ústava církev osvobození lidstvo
-mít hrozit nebezpečí ochránit atomový bomba
-papež vědět lidstvo viset Damoklův meč smírný nebezpečí apokalyptický rozměr
-schopnost moci arci zabránit nebezpečí možnqst znásilnění Polsko mocnost totální duchovní politický bludnost
-nebezpečí pyšný sebedestrukce podcenění racionální kalkul
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6de81944d5e1fccb44a7f9145bc290ed53669247b86a1ec5e1f342454be30a7
+size 463

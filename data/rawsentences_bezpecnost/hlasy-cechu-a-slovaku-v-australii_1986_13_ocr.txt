@@ -1,2 +1,3 @@
- Ze hájil majetek a bezpečnost zaměstnanců, že v té chvíli ani nevěděl, zda tou násadou od koštěte přetáhnul ženu nebo muže.
- Strhne se rvačka, někteří dostanou ještě pomeranče, druzí berou všechno, obchod je nadranc, rozbit a musí zakročit Veřejná bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51af2b0bb338ccb897ab5bfb004a5005ca67ba51bdabf4ae6207c44c95b9950
+size 291

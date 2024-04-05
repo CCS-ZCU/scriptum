@@ -1,2 +1,3 @@
-prokurátor bezpečnost klid rušit
-používat příležitost patnáctý výročí sovětský agrese upozornit svobodný svět bezpečnost Evropa myslitelný sovětský ozbrojený síla opustit střední Evropa Ceskoslovenka
+version https://git-lfs.github.com/spec/v1
+oid sha256:6adde56856356fe928b4eb9242d124a8f0c60776dbd73ebcd58e3effc07931d0
+size 225

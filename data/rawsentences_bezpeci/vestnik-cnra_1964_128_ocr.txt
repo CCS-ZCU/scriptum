@@ -1,1 +1,3 @@
- Dále to dokazuje, že americká vláda má pravdu, když při vydávání pasu upozorňuje americké občany, že americký zastupitelský úřad nemůže ručit za jejich bezpečí a že nemůže prakticky nic pro ně učinit v zemích za železnou oponou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cff8730b3b7f47ab9662848d0b9f956f8c17a79138cf94cf86b0e27e907bc0f6
+size 260

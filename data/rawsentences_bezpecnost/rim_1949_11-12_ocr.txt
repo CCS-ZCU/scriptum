@@ -1,1 +1,3 @@
- Vo dverách sa objavila postave v rovnošate Národnej bezpečnosti a starý Pivko sa začal pomaly dvíhať od stola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1499755382b5ba4e1e232ba86c0ae3889c731e69d6f002521c8a0c684d2f3d15
+size 120

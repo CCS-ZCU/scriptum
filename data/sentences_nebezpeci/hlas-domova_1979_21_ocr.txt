@@ -1,1 +1,3 @@
-Austrálie spisovatel prožít léta těžený divadelní hra barevný hráz román loď nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:85904ace9331deb88692677d60f6d1d92c5eb7a9626caa17337f8431132f5f05
+size 101

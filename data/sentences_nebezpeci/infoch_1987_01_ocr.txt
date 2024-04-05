@@ -1,1 +1,3 @@
-zbavený možnost fungovat odkázaný vzájemý důvěra moci charta jin^ta běžný demokratický prostředek čelit nebezpečí stát náležitost agilní signatář
+version https://git-lfs.github.com/spec/v1
+oid sha256:95578b5c9df1709f1cf8340cfc76b1836298c60a8aa38d4379ebe44a8084d886
+size 315

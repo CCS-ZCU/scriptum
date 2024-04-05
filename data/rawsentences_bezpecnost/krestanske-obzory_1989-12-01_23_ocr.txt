@@ -1,1 +1,3 @@
-a státních úřadech a rozhodující slovo má státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07265f59ecea00adc49dc6166a5d930b401fc69de0d2efd463c22dc72788ac9
+size 71

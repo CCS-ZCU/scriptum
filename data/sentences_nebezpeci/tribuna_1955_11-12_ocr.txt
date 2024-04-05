@@ -1,6 +1,3 @@
-vázaný revisionis mus místo západní Německo vzrůstající míra začínat ozývat moci Polák Čechoslovák chápaný nebezpečí přicházet západ
-osud východní Evropa případ stálý nebezpečí
-priemyselna kombinát Hornom Sliezsko Ostrava hotový fakt nebezpečí Europa
-československý politik mluvit určitý nebezpečí plynout politický emigrace opouštět pohostinný břeh Amerika
-americký pomoc exulant mít Amerika velký možnost Evropa jistý nebezpečí přizpůsobit americký myšlen mir rozumět evropský situace
-dát záruka nebezpečí sjednocený Německo
+version https://git-lfs.github.com/spec/v1
+oid sha256:429f41d19a5b4ca9abe2b7bbdce7e3c34942a737c5964be8e2bb4419b5e49b93
+size 591

@@ -1,1 +1,3 @@
- Až do své smrti v roce 1981 však zřejmě předával informace československé Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:175923e139a7fbfb501351b035468e41a51ca2909e977253ef034aa7abfa1577
+size 107

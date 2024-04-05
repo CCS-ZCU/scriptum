@@ -1,2 +1,3 @@
-otázka úskalí nebezpečí celosvětový vývoj
-nebezpečí přehrnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a990169c93dcab724b64f925559463c82618ebebf9db0a259445d1e7d13e0f9
+size 73

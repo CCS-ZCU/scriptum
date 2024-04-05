@@ -1,5 +1,3 @@
-uplatňovat aparát bezpečnost
-bezpečnost patřit režim
-chvět rozhořčení četba zpráva Polsko mít uvědomit československý bezpečnost pracovat pracovat stejný metoda
-bezpečnost případ vyšetřovat prohlásit jít sebevražda
-československý bezpečnost polský bezpečnost mít stejný učitel
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fb5c381891e37f6661a2bda558f0b9eafbcd9342bdc3cd4c7b0c2f62c4e8b65
+size 311

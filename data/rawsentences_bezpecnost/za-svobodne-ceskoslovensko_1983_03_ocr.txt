@@ -1,2 +1,3 @@
- Václava Havla zajisté potěšila i zpráva, že Americký výbor pro bezpečnost a spolupráci v Evropě, složený z poslanců a senátorů amerického kongresu, zaslal Nobelovu ústavu v Oslu návrh, v němž uvádí osm kandidátů na Nobelovu cenu míru a mezi nimi i Václava Havla.
-  6 VÁCLAV HAVEL OPĚT KANDIDÁTEM NA NOBELOVU CENU MÍRU Skupina amerických senátorů a poslanců, clenu Komise pro bezpečnost a spolupráci v Evropě, která je známá jako Helsinská komise, zveřejnila 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:009d287761aa2e3c571d9fb26d71836499df6a44dae741bb7ec00670521eb2ac
+size 505

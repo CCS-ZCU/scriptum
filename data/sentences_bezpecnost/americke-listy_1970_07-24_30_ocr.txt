@@ -1,1 +1,3 @@
-československý vývoj prohloubit všeobecný úvaha jednotlivý sporný evropský otázka otázka německý evropský bezpečnost poslední doba vzývaný zaručovat bezpečnost smluvní partner
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebb5b4470295b5cc9c0a2d0de09069f37938c17106d193e1a70a943db53f7091
+size 197

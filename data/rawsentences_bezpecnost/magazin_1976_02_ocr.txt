@@ -1,1 +1,3 @@
- "Ale to se prepočítaj! V Mydlovsi má už Bezpečnost alarm! Podaj nám okamžitě zprávu, až tam Bomba s holkou přijede!" Poněkud se uklidnil a dodal: "Jo, to sem ti zapomněl říct.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fcbcdea2a7365b5492018ea284151ca6ab1135121ba0816b16f4b207fcdf6f8
+size 192

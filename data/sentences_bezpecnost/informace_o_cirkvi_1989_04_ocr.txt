@@ -1,3 +1,3 @@
-dovolovat upozornit naléhavý potřeba příslý státní orgán zvýšený míra zabezpečovat osobní bezpečnost občan jít
-bezpečnost ujmout bezpečnost
-slušet vzít vědomí bezpečnost aokáž dělat dobrý práce jít katolický farář
+version https://git-lfs.github.com/spec/v1
+oid sha256:22f1bf643662d8c6648c3fe4565c6575fed24288a92de3f39b4bfaec1d3f5288
+size 252

@@ -1,1 +1,3 @@
- O tom jsme se mohli přesvědčit, jak nový ministerský předseda jen velmi pomalu a hlavně pod těžkou kritikou veřejnosti a tisku pochopil, že mluvčím jeho úřadu nemůže být člověk mladý, i když schopný, ale zatížený rychlým postupem u předlistopadové bezpečnosti, jejíž rotě velel při rozhánění demonstrací během „Palachová týdne“ v lednu 1989.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59e386814653d196349080cfd7170ef73687ed9c2472c8a1ea118ece7382e240
+size 388

@@ -1,3 +1,3 @@
-hrozit reálný nebezpečí jednotka varšavský pakt uchylovat manévr vojenský prostor připravit statní možnost kontrola
-ejmladý autor akutní nebezpečí banalisace vulgarisace
-velvyslanec Buřt říci vidět bezprostřední nebezpečí zesílený americký iso lacionismus vědět plán stažení americký jednotka
+version https://git-lfs.github.com/spec/v1
+oid sha256:4427378642efc5bc29d373647411a539b837bd90781fd2f6065cf344a5a27620
+size 325

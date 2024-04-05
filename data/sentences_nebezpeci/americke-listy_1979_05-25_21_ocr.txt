@@ -1,2 +1,3 @@
-procento procento konservativna výsledek
-moment země okupovaný cizí vojsko vytrácet možnost provozování skutečný reforma objevovat veřejný činitel nebezpečí padoušský kolaborace řeč
+version https://git-lfs.github.com/spec/v1
+oid sha256:018c7ad0e3aa14510ebb45f08831b2874902c136498ae9aba13f0ca515d42fc7
+size 201

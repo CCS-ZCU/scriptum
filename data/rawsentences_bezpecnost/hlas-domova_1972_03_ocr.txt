@@ -1,9 +1,3 @@
- “Deklarace o míru, bezpečnosti a spolupráci v Evropě”.
- Praví se v něm: “Účastníci porady zastávají názor, že evropská bezpečnost a spolupráce vyžadují vytvoření systému závazků, jenž by vylučoval jakékoli použití síly nebo hrozbu jejího použití ve vzájemných vztazích mezi státy v Evropě, který by poskytoval všem státům záruku vůči agresivním činům a který' by přispíval k blahu a rozkvětu kaž: dého národa.
- Deklarace jmenuje sedm zásad evropské bezpečnosti: neporušitelnost hranic, nepoužití síly, mírové soužití, základy dobrých sousedských vztahů a spolupráce v zájmu míru, vzájemné výhodné styky mezi státy, odzbrojení a podpora OSN.
- Vtom na scénu zabloudí hlídkový vůz Veřejně bezpečnosti a vlasatci jsou pomoci vodního děla přesvědčeni, že Klement má pravdu.
- Jeden z příslušníků Bezpečnosti ošetří statečného Klementa a pošle ho do háje.
- — Vždyť nám to taky dala práci! Následuje hudební finále s ústředním motivem “Kamarádi, je to mládí, kterému dnes patří svět”, který zpívají sbor příslušníků Veřejné bezpečnosti, sbor sovětských vojsk středního okruhu a duo ostříhaných vlastenců.
- Vtom na scénu zabloudí hlídkový vůz Veřejné bezpečnosti a vlasatci jsou pomoci vodního děla pře1 svědčeni, že Klement má pravdu.
- Jeden z příslušníků Bezpečnosti ošetří statečného Klementa a pošle ho do háje.
- — Vždyť nám to taky dalo práci! Následuje hudební finále s ústředním motivem “Kamarádi, je to mládí, kterému dnes patří svět”, který zpívají sbor příslušníků Veřejné bezpečnosti, sbor sovětských vojsk středního okruhu a duo ostříhaných vlastenců.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba72fd3d5e2bb0c8ce3e87bf52601dac5b0f212e11c0e3d347e0bacb09ee6368
+size 1780

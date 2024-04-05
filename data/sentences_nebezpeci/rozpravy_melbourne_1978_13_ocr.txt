@@ -1,1 +1,3 @@
-div komunistický nebezpečí vzrůstat
+version https://git-lfs.github.com/spec/v1
+oid sha256:993d035c15a9083ce6f536797c0e29526e70c9bd5d97ccc691cfebe368f116d5
+size 40

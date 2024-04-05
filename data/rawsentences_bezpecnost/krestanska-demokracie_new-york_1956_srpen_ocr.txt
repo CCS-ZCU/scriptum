@@ -1,2 +1,3 @@
- x U brány kutnohorského soudu, která Je současně branou vedoucí do kutnohorské věznice, se Často zastaví turisté či osob;/ eskorto váné Státní bezpečností.
- Rozehnalovým obhajováním Košického programu, právě tak jako jeho^ zmateným, rádoby-filosofováním o “Revoluci a bezpečnosti“ se nic nevyřeší.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33a11f5c110cbb13fe69e4f35042953866af2ea904e896b83b189765768b2f4
+size 336

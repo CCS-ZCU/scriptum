@@ -1,3 +1,3 @@
-Urban říci akademice obviněný špionáž polský bezpečnost vědět kontakt americký diplomat
-Reagan dokument uvádět lze ignorovat rostoucí hrozba představovat sovětský monopol protidružicový zbraň americký muset vyzkoušený rozmístěný moci chráněný národní bezpečnost
-menšina RSR ČSSR projednávat americký komise bezpečnost spolupráce Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1fbeafd86155a943bedfa59c564dc9aca6dacb1f7a7a31008172151c587704
+size 375

@@ -1,1 +1,3 @@
-provést příslušný rozbor neudržitelnost stanovisko zájem jiný vař^no^ bezpečnost veřejný peřádek jiz chráněný jiný ustanovení navrat vhodný zákonný úprava směr
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab1c93400b73a4191828b93ad1dd8df7b4b585660a8e902dee1866e3fb63ab31
+size 194

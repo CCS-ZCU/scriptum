@@ -1,10 +1,3 @@
- Jeho členové vycházejí z přesvědčení, že věc míru, bezpečnosti a spolupráce v Evropě se týká každého z nás, zejména v oblasti lidských práv a základních svobod.
- výboru pro evropskou bezpečnost i nově vzniklému Výboru čs.
- Jiří Hájek  -2- USTAVENÍ ČESKOSLOVENSKÉHO HELSINSKÉHO VÝBORU Společně s mnoha svými spoluobčany a s miliony lidí v Evropě jsme přesvědčeni o tom, Že úsilí o bezpečnost a spolupráci na našem kontinentě, jak bylo zahájeno podpisem Závěrečného aktu KBSE v Helsinkách 1.
- výbor pro evropskou bezpečnost, a samozřejmě se všemi zainteresovanými občany.
- výboru pro evropskou bezpečnost a spolupráci Výboru čs.
- veřejnosti pro lidská práva Mezinárodní helsinské federaci pro lidská práva STANOVISKO K VÍDEŇSKÉMU DOKUMENTU Spolu se všemi občany, kteří se vážně zajímají o dění doma i ve světě, vítáme úspěšné zakončení vídenského jednání Konference o bezpečnosti a spolupráci v Evropě.
- Všechny zúčastněné státy znovu potvrzují, že respektování lidských práv a základních svobod je podstatným činitelem míru, spravedlnosti a bezpečnosti, nutným k rozvoji přátelských styků a spolupráce v Evropě i ve světě.
- Rádi bychom též pozvali představitele Výboru pro bezpečnost a spolupráci v Evropě, zástupce ministerstva zahraničních věcí, delegáta čs.
- V souladu s jeho závěrečnou rezolucí ö "lidské dimenzi" helsinského procesu rozhodl se upozornit signatáře vídeňského dokumentu na nebezpečné důsledky takového jednání pro celý proces bezpečnosti a spolupráce v Evropě.
-1989 Závěrečný dokument vídeňské následné schůzky Konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f9bda441d703d3c696acedd4a43d88f62811998da8cf81402d31d3ca2bbd745
+size 1767

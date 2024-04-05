@@ -1,1 +1,3 @@
- Jedna z hlavních příčin spočívá v tom, že hospo- dářští pracovníci všech stupňů a jejich orgány se jednostranně zaměřo- vali na splnění 'doprav- ních úkolů, ale již méně se starali o účinná a pre- ventivní opatření k za- jištění bezpečnosti a o- chrany práce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dffb6e10159790085eb5637235eb35a31b714246f36f773f88f92ac58c3a13d
+size 300

@@ -1,3 +1,3 @@
-kanibalismus umrtvovat vnitřní smysl orgán vysoký život orgán hlásit nebezpečí život
-edice křesťanský akademie doporučovat nebezpečí
-hrozit modlitba zemřelý nebezpečí dojít
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c5e17a89b7f63f8771f37a5b39c81557ae04a0668b06be19b5ca1351e198e67
+size 194

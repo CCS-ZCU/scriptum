@@ -1,2 +1,3 @@
- Školní budovy by měly zaručovat bezpečnost a být příjemné svým celkovým pojetím a zařízeny funkčním způsobem; měly by umožňovat účinné vyučování a poskytovat možnostk mimoškolní a společenské činnosti, zejména ve venkovských oblastech; měly by být vybudovány z trvanlivých materiálů a vyhovovat hygienickým požadavkům, jejichž údržba by měla být snadná a hospodárná.
- Příslušné orgány by měly dbát o dobrou údržbu školních prostor tak, aby nebylo ohroženo zdraví a bezpečnost žáků a učitelů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6346a5841e4296b3ed6f4d5ac1a89d130c0e97f3a9f83d73b68e27d2cd32cff
+size 563

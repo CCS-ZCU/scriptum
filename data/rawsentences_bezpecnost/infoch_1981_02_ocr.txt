@@ -1,1 +1,3 @@
- i Československá státní bezpečnost a justice si pravděpodobně ani neuvědomu- jí, že tak zpochybňují přímo základy řádu, který mají hájit a jakou *kodu \ tím společnosti působí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75132c96c1914debb811ea138d4249c86d7cf92f48773d2aef0dc55b1dfcf84
+size 202

@@ -1,4 +1,3 @@
-tabuizovený téma patřit nebezpečí spojený provoz jaderný elektrárna
-skutečný ekologický hnutí představitelný skrývat strašák opoziční politický hnutí viz strana zelenť spontánní aktivita mladý zregulovaný koryto národní fronta organizovaný český svaz ochránce příroda publicistický •tribunou měsíčník příroda redigovaný Petr Přívětivý navazující dobrý tradice předválečný časopis jméno konstruktivní program mládežnický brigádo
-myslit většina uvědomovat omezenost možnost dovzdělanost současný literatura nebezpečí pohled flaška n&zvat Tes&ř
-Foustka zájem proniknutí oblast magie odolat svoduo
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da6af5a8ce747ed357d7dcd0f419e2f6797b523a174cded20d5dee5b2a6160c
+size 669

@@ -1,1 +1,3 @@
-smět zapomínat Masaryk vyrůst domov osamocený zlomený odmítaný lidé naplněný vyjadřitelný touha život nábožensko bůh
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7abb5b60c67a77f1fd93f5cd3878ecbacf3391bf414fac005d12cbf532a32a
+size 135

@@ -1,1 +1,3 @@
- Senát Najvyššieho súdu konštatoval, že vojenské súdy zastavením trestného stíhania tohto bývalého šéfa Štátnej bezpečnosti porušili zákon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5575172b3bbd3d337b7c24553dc4229bf68758b543ae336af8bb930c2cd5bc27
+size 160

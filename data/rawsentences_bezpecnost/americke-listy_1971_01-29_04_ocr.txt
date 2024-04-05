@@ -1,5 +1,3 @@
- OSN však rozhodlo vyslat do Guineje jen zvláštni vyšetřovací komisi, která podala o svých zjištěních zprávu Radě bezpečnosti.
- Rozhlas svěřil posluchačům — že jméno občanovo moskevská P-rávda zkrátila "z obavy, a jeho bezpečnost v tehdejší výbičoVaHé- aimosféře-na ini- cfálý- M; Pí" Jiný- českOslo-' venský’ občan-,’ také vňřfřHí exulanf.
- Typické pro nynější situaci je napěli v bezpečnosti.
- Situaci dokresluje i fakt, že Husák sc na poradu náčelníků bezpečnosti na federálním ministerstvu.
- Vyšetřování v jejich případě je v podstatě skončeno, ale nezdá se, že by bezpečnost měla proti nim dost lak průkazného materiálu, aby se věci rychle hýbaly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58d508b80c7c695cbfc17cd88a4275e30779493b9b1a41e6c53f1ef3e2d51af2
+size 736

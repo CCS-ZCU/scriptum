@@ -1,1 +1,3 @@
-jít osud sedět bezpečí jít osud dítě
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e5993314e68a8b0f3431affb4bc08bf033e582fd9e48fd5d6184a4431f3deeb
+size 44

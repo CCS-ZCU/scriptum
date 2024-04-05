@@ -1,5 +1,3 @@
- 1 8 , 3 : » Svoboda projevovat náboženství nebo víru m ů ž e být po- drobena pouze t a k o v ý m omezením, jaká předpisuje zákon a která jsou nutná k ochraně veřejné bezpečnosti, pořádku, zdraví nebo morálky nebo základních práv a svobod jiných «.
- bezpečnosti.
- bezpečností.
- Státní bezpečnost ho táhla na výslech.
- Těleso státní bezpečnosti a Charty 77, Možná to jsou jen rub a líc národní měny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d847a88256317fec1673340572fd6b29623f158ca999d463577af80c0ce3295
+size 445

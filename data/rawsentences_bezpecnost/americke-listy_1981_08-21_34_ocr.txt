@@ -1,1 +1,3 @@
- bezpečností proti domácím antisocialistickým silám a proti politice reakční části emigrace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56758209beddbdda940087da17f0a48921bc843330695ed8032bfba78ce04fe
+size 103

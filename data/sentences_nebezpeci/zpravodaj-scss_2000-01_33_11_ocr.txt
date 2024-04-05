@@ -1,2 +1,3 @@
-Šinágl zpravodaj kolébka Jan Zahradníček
-starost osud svět nahrazený nebezpečí lokalizovat výklad rozbití vyřešit
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e25d48b5562f2ed952397a0bcdb71cf676bec5a9a983937c88e4eeb8d93490d
+size 127

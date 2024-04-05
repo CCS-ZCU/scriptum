@@ -1,1 +1,3 @@
-979, 11-18! /mírně zkráceno/ : KAŽDÝ ČLOVĚK má právo na život, svobodu a bezpečnost osoby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46eea76953ff56775f8cfe78dd3496496a70301e8baada481b813ac8b490f093
+size 102

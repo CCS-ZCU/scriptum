@@ -1,4 +1,3 @@
-západoněmecký ministr dobrý víra naletět soudruh začít ujištovat občan hrozit nebezpečí muset omluvit
-pan řídící
-člověk vědět mít vobjet nata zboží mít lepší konec
-cizinec hranice žádat azyl obdržet pohraničník povolení vstup mít vstup potřebný průkaz vízum prokázat stát hraničící Švýcarsko hrozit bezprostřední nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f86a62cf5318b3b09fb7b631002b352f200d63e7fc488eb582912caf8a3a00e
+size 369

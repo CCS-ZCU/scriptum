@@ -1,2 +1,3 @@
- Nebudujeme nové obranne systémy proto abvehom vedli válku, nýbrž abychom chránili mír, řekl prezident — a dodal: jsem absolutné přesvědčen, ze tyto krokv jsou nezbytné, máme-li dosáhnout kontroly zbrojení a zajistit bezpečnost naroda pro budoucnost.
- Buď z důvodů národní bezpečnosti, nebo zahraniční politiky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c19a41d08872cfe53d5deb6c2fe8b716eac75c083d317abfcf39bc2d02119e4
+size 339

@@ -1,4 +1,3 @@
- Povolení k prohlídkám podepsal kapitán Edvard Petřík z Krajské správy státní bezpečnosti v Brně.
- špionážně aféry ako dielo Štátnej bezpečnosti na diskreditovanie demokratických stráň a ich predstavitefov, bola to ustrašenosť? Ak bol odpor demokratov „komunistům k smíchu“, prečo museli napo- kon pristúpiť k puču? Na jednom mieste svojej přednášky vyhlašoval Zdeněk Šedivý, že politiku predstavitefov demokratických stran charakterizovala „politická naivita a občanská zbabělost“.
- Je pravda, co napsal Zdeněk Šedivý, že postoj představitelů demokratických stran k událostem ve státě se vyznačoval ustraŠeností, že se báli označení „rozbíječů Národní fronty a ohrožování bezpečnosti státu.
- Slovo dává slovo, strhne se rvačka, někteří berou pomeranče, druzí už všechno, obchod je nadranc rozbit a musí zakročit Veřejná bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:114f3f31fb217b8487a3d70686545644f8660ffc4c463c0c4f4af084ae01161c
+size 929

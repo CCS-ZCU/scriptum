@@ -1,2 +1,3 @@
-nebezpečí zatčení pokus přechod známý muset odjet
-dovědět prohlídka byt rodič vyhlášený celostátní příkaz najít ministr Nosek zuřit marný prohlásit mít utéci muset chytit
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f5a76722e5a51fa1488f7026b917ae132a25f1be6582482739d69050ccea9d2
+size 195

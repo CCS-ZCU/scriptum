@@ -1,2 +1,3 @@
-velký nebezpečí hrozit vládce Brežněvův recept
-květen nový zpráva zdát zažehnaný nebezpečí Jan Pavel
+version https://git-lfs.github.com/spec/v1
+oid sha256:86bf4cec6f2a3698c42d0cd35af3f9739633de009bb4947e12446ba436890aeb
+size 116

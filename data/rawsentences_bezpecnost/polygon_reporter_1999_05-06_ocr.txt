@@ -1,5 +1,3 @@
- Bývalý důstojník Státní bezpečnosti Čadek byl před 5 lety obviněn se 3 dalšími představiteli Bohemia banky, že bez souhlasu ČNB vydal bankovní garance ve výši 338 tisíc USD (11,5 mld.
- září Konference pro bezpečnost a spolupráci v Evropě a 25.
- A tak to, co se zdálo být koncem Bushovy administrativy pouze Jugoslávskou aférou“, se změnilo za několik let v něco, co bychom oprávněně mohli nazvat „evropskou aférou“, která by se dalšími špatnými vojenskými, politickými a morálními rozhodnutími na obou stranách konfliktu mohla snadno přeměnit ve „světovou aféru“, tedy v záležitost, která se může týkat bezprostředních zájmů Spojených států a jejich bezpečnosti.
- Tato skutečnost, různé pověsti o útěku jiných politiků, záměrně také rozšiřované Státní bezpečností (StB), jakož i všeobecná atmosféra strachu, nejistoty a teroru, živená mnoha případy zatčení známých osobností, vyvolávaly v obou osamělých a izolovaných nešťastnících hrůzu a paniku.
- června 1999 ■ POLYGON 5+6/1999 ALICE OPPOVÁ Nejen dioxinová aféra 114  Když po tříměsíčním ničení prázdných kasáren, průmyslu, elektráren, veřejných budov, rodinných domků, mostů a letišť, po smrti kolem 1500 obyvatel včetně dětí srbský prezident konečně přijal deset podmínek formulovaných „velkou osmou“ a schválených Radou bezpečnosti OSN, propaganda NATO spustila velké varhany „vítězství práva a humanity, demokracie a spravedlnosti“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc1a657133d7097f66b99f4260059c50daa305fee47e86f81dcad0d9cf554af
+size 1559

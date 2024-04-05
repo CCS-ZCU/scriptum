@@ -1,1 +1,3 @@
-ochotný prohlásit odsuzovat fašistický diktatura Bulharsko nebezpečí demokracie hrozba civilisacce
+version https://git-lfs.github.com/spec/v1
+oid sha256:2466dff5f7348580dc121b4696965f6767fd7dc5cce36c5f8cfec0730b95ddc2
+size 105

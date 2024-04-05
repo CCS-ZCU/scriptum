@@ -1,2 +1,3 @@
-uvědomovat nebezpečí žena říkat
-změna klima reálný obrovský nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bfa1037496b147e12358784bda8d88be3e70ae11187fd9eee6b88dc523ecf5e
+size 82

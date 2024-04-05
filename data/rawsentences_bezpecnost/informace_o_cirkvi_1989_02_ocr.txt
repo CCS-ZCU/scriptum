@@ -1,3 +1,3 @@
- ""'Stát ' sam má povinnost" zvelebovat a podporovat práva menšinových skupin, poněvadž vnitrní mír a bezpečnost mohou být zaručeny jen respektováním práv všech lidí, .
- V této souvislosti' musím s politováním konstatovat, že z/kro- ky bezpečnosti proti pokojným shromážděním v Praze 17- ledna a v dalších dnech silně otřásly, důvěrou věřících lidí stejně jako velké části obyvatelstva.
- Zajištuje~také v bu- doucnu možnost konání božítelových procesí a velikonočních oslav mimo bohoslužebné prostory "podle místních daností a dopravní bezpečnosti",' Stát napříště už nebude povolovat termíny církev- ' nich slavností, "přičemž nadále trvá povinnost je hlásit".
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfa024d6045cb45b7c903dc5e77f5b5ad28b98dc0a6fcbd47c5ed487c81a78fc
+size 739

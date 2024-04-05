@@ -1,3 +1,3 @@
- Sdílení uvádí některé podrobnosti o postupu Státní bezpečnosti při zadržení Jiřího Pavlíčka, signatáře Charty 77 a člena Nazávislého mírového sdružení, nemocničního zřízence z Mílníka: příslušníci STB mu kromí jiného vyhrožovali uvíz- níním a fyzickým násilím, jestli neemigruje nebo nezruší členství v Nezávislém mírovém sdružení; hrozili, že mu bude odejmuta sedmiletá dcera, o níž pečuje na základe soudního rozhodnutí, a že bude svířena do ústavní výchovy nebo na převýchovu do jiné rodiny.
- Podle dalšího svědectví dva mladíci, kteří hodili poblíž Staroměstského náměstí láhve smírem k příslušníkům Veřejné bezpečnopsti, nasedli krátce na to do vozu Veřejné bezpečnosti, a to způsobem, který svědčil o tom, že k ní patřili.
- Podle smlouvy, která byla podepsána v Rize, pronajme státní letecká správa svá letadla a technické zařízení firmí "Inženýr" a bude také zodpovědná za leteckou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f749049273119de6bc4fa88b446ecf2ecfd10c59685ddedf55e3c0ddbd2f11c6
+size 1026

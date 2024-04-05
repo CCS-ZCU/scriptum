@@ -1,1 +1,3 @@
- "Tady ge nesmf chodit po trati!" "Okamžitě s námií" řvou orgáni bezpečnosti, "nám do potratů nikdo nadávat nesmí!!" x S RUSY UŽ TO LETÍ OD DESETI K PĚTI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ccfd78592d644e2e3c415d17aff93e96c321a72da07be3e29777a24091a3d3a
+size 169

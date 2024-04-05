@@ -1,1 +1,3 @@
- Rada neuniformováných, ale i uniformovaných strážců "bezpečnosti" však přehradila most.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d15c923c5341d6979ba8395deaa94ead9f27317615ae13e4c7d792373baf058e
+size 98

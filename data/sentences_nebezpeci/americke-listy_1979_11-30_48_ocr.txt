@@ -1,1 +1,3 @@
-pisatel článek vyjadřovat názor absurdní připravovat tentát upozorňovat vyhlédnutý oběť nebezpečí stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7897009a1fbad4318b38cebff4f0dce00ad143fc6b0192c5b1531f8e049fab
+size 119

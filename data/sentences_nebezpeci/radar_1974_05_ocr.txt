@@ -1,1 +1,3 @@
-muset prožít chvíle plný úzkost strach říkat vyzvednout hrdinství chvíle veliký nebezpečí vést riskovat život přijít pomoc spojovat pouto opravdový láska
+version https://git-lfs.github.com/spec/v1
+oid sha256:d280fffe2f12e52c94347339b60d44bb505d8444303869b4a3e9756bbd61ff3c
+size 174

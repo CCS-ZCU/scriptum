@@ -1,2 +1,3 @@
- Veřejné bezpečnosti pořádek v zemi.
- Dubček ztratil i svoji práci v sekretariátu strany, kde měl výslovně na starosti kontrolu nad stranickými organizacemi, jakož i záležitosti obrany a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca196324df5b94b5ab8e4c6975b3ded1ddc4e32ff10037624a53a1b8450c312
+size 216

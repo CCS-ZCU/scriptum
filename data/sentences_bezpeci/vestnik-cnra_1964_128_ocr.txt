@@ -1,1 +1,3 @@
-dokazovat americký vláda mít pravda vydávání pas upozorňovat americký občan americký zastupitelský úřad moci ručit bezpečí moci učinit země železný opona
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b69f20c2934a0adc2ef8e5f300988c4989a149436dab25502dc6944b77977b4
+size 174

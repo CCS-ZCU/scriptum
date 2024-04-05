@@ -1,1 +1,3 @@
- Přijde 1: němu orgán veřejné bezpečnosti:‘'Soudruhu,tady se nesní žebrat!" - "Vždyt, já nežebrán, já se jen tak dívám na ten dvacetník.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1089220f4da5be936876050d1149b56fb27abf2afd5636e432d9f9db247cd4f
+size 155

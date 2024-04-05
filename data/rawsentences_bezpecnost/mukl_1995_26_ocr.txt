@@ -1,1 +1,3 @@
- Jiří Málek označil za dlouholetého agenta Státní bezpečnosti Dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cbf8dd4d0493e98fc222010f2230ea4a293ac2cbfe6181a48c59a3afd3c4c89
+size 74

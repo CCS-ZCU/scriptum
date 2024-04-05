@@ -1,1 +1,3 @@
-vystähovalec rada tontat úkol Cassandra hodina lásiť nebezpeČí rozptylovat ilout
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a30f8930312b659aa87119a508103b84e3051f530e783956c2ae972a5ca57a
+size 87

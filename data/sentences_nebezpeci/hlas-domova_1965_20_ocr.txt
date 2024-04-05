@@ -1,1 +1,3 @@
-vypadat utíkat hlučný neutrál první známka nebezpečí široký křídlo velmoc mít minulost kopaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ced4f5142cb9e0f49232238a67ca88a36d25817948b614106bd8feed96beae74
+size 294

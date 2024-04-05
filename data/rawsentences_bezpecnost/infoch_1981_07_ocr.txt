@@ -1,4 +1,3 @@
- Vožení pnové, moje rena se p e s v oehno "ikanovní a výhro ov'ní :t-tní bezpečnosti /ustavičné výcl chy, zadraování na 'P hodin/ rozhodla svoji zc i neopustit a zachovat si jako spisovatelka vlastni tvéř a cvčdomí.
- Teprve tam jsem se uklidnil, protože od té doby jseai se domníval, že jsem upadl do rukou gangsterů, vydávajících se za přišlu niky Bezpečnosti.
- Zhruba za 4 hodiny jsem byl znovu naložen do vozu a odvezen k dalším výslechům do úřadovny Bezpečnosti na brněnská přehradě, jři cestx padlo n*kolik nevhdon'ch pozn' mek např.
- Jeden muž v civilu, pravděpodobně příslušník Bezpečnosti za mnou vyběhl se slovy:*0kam žitě se vrazte, to se nesmí, chybělo by nám to do 100^'a snažil se mě tla- čit zpátky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7178cf3617f04335c6e620937a3406566f79e481a4cdbc1f76c3f08a9909e14
+size 774

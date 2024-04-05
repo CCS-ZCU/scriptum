@@ -1,1 +1,3 @@
- Roztržka mezi Československem a Sovětským svazem by prý ponechala Československo na milost každému manéívru Západního Německa a Ameriky, což by ovlivnilo celou mocenskou politiku v Evropě a ohrozilo bezpečnost socialistických zemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10cdcd516b2e71985812d1d02442436c21d49ba0987fd5a7e9780a7fa602029d
+size 251

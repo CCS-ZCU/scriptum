@@ -1,1 +1,3 @@
-lostit hájit bezbranný krajan vysmívat podvázaný možnost loudný akce
+version https://git-lfs.github.com/spec/v1
+oid sha256:1faa87e929ef74ccc58aa710bd1adbb25589972d339bcfb4979d9eb3c8ca66cd
+size 76

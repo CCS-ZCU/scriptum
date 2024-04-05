@@ -1,1 +1,3 @@
- Mé osobní bezpečí bylo tehdy v sázce, ale nedbal jsem toho v naivní víře ve slušnost a poctivost naši ŠTÉDRÝ VEČER „Vůbec nevypadal jako kněz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:723b4f327035e0a3d3feb71a94bafb972284927b1c9377a9f8a6c554f4fcde00
+size 162

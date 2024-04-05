@@ -1,5 +1,3 @@
-Frankfurt Mohan
-bláhový pár měsíc státní bezpečnost vedení strana pověřený další úkol získat intelektuál bývalý politika známý rok kritický prohlášení
-státní bezpečnost usilovat přesvědčit jiný lidé
-slibovat poměry Československo muset změnit pronásledovaný intelektuál daný adekvátní profese pomýšlet rehabilitace případ státní bezpečnost ujišťovat předsednictvo strana jít cvek lování rozumět jít podlízavý prohlášení duch docent Cvekla důstojný zaujetí fundovaný stanovisko současný situace
-jít všímat komunista pracoviště spolupracovat odhalování trestný činnost moci stačit veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:1baa1c0c78da4bd9e0c1af89fa42d35bdc04fcc3d835110d5376f12e70457584
+size 678

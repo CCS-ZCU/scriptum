@@ -1,1 +1,3 @@
-vyhlídka posunout čelo strana dosavadní předseda výbor státní bezpečnost Jurij Andropov
+version https://git-lfs.github.com/spec/v1
+oid sha256:a10345dcc1c720063e903de66b49f375c1422437b29379fc0d9d677807d271f4
+size 96

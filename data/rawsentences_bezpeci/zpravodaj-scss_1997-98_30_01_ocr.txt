@@ -1,2 +1,3 @@
- Švýcarské, bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- V bezpečí byl uložen i archiv jejich dokumentů: prostory poskytl Karel Schwarzenberg, správou byl pověřen Vilém Prečan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e432a84b102d0641b9deeefe031f008c4ae87b43c8e9e37d144e93d0d0e11074
+size 238

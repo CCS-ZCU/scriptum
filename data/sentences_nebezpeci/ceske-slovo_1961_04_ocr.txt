@@ -1,2 +1,3 @@
-jasný pokračování druh vedení válka představovat vážný trvalý nebezpečí bezpečnost spojený stát
-zvýšený právo slovenský národní orgán
+version https://git-lfs.github.com/spec/v1
+oid sha256:86a54f9370148ad3e224692bd69397e26b3b19f43a9ccb39b429c1fa032a19e6
+size 158

@@ -1,2 +1,3 @@
-krátký cas nezeba zoufalý čin vzpamatovat cynický státní bezpečnost nesmyslný označit původce Janův protest plíživý konträr evoluce
-Keksov něta horší věc dotknout pražský bezpečnost zmlátit chartista manželka mít drzost jít ples železničář
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a380146e02982aa294d094e011fa4d765bbcf92d9ce656bec112ce2003f218
+size 271

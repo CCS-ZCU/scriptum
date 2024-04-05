@@ -1,2 +1,3 @@
-nebezpečí příští nedorozumění zůstávat premiér Klaus muset budoucí krok skutečnost počítat chtít riskovat vedoucí postavení ODS
-znamenat stav věc vyžadovat brát riziko potýkat překážka nechávat vyrušovat věc nový známý muset čelit nebezpečí nedostatek
+version https://git-lfs.github.com/spec/v1
+oid sha256:3181e895b6f71c83179b5e2246ac261f916ec7f52142dae1561e2bf9da136f5f
+size 286

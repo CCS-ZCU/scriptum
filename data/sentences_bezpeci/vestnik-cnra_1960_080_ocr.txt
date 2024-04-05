@@ -1,1 +1,3 @@
-nový stát uvědomovat budoucnost bezpečí ležet spojený národ vlastní blok dostávat většina pochybný přátelství Sovět
+version https://git-lfs.github.com/spec/v1
+oid sha256:77ad7a473ff8c0ad961b922c6011a20a836d3fc7e8313bb53c297f37d2d06ce1
+size 133

@@ -1,7 +1,3 @@
- Prý dobře chápe starosti Rakušanů v souvislosti s nukleární bezpečností, zejména po Zwentendorfu, připouští pražský ministerský předseda.
- Podle Charty má udržovat mezinárodní mír a bezpečnost, rozvíjet přátelské vztahy mezi národy,řešit jejich problémy a tak dále.
- Brežněv neměl pranic proti Dubcekovi a, u- ■zavřel s ním v Bratislavě smlouvu, v níž uznal vlastní cestu Československa Gazik Veřejné bezpečnosti jede za em béčkem.
- XXX SIGNATÁŘI CHARTY 77 jsou v nemilosti: Oldřich Hromádka, zamestnanec kteréhosi pražského stavebního závodu, byl propuštěn, "protože svým podpisem ohrozil zájmy dělnické třídy a bezpečnost státu".
- 1980, paralelně s druhou následnou konferencí pro bezpečnost a spolupráci v Evropě.
- XXX AMERICKÝ DENÍK "The Washington Post", proslulý odhalováním vnitropolitických afér /Jack Anderson/, obvinil izraelskou vládu, že v obsazených arabských územích porušuje lidská práva a že izraelské bezpečností orgány zacházejí s podezřelými Araby brutálně.
- Zvláštní dík patří kongresové komisi pro bezpečnost a spolupráci v Evropě, Americkému Červeneému kříži, poradci senátora Moynihana dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d5a55bbd9251e93cde1cc719103c78871ab4c7d2cb74c7d9b63ffb56a942b1
+size 1233

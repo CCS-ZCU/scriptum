@@ -1,1 +1,3 @@
-ncu péče církevní život projevit Otátni bezpečnost KoSmnrtec
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ffb1476e6c028d513bf969d83cb4702649f2fcb281860d909c6d225a60ab8f
+size 68

@@ -1,3 +1,3 @@
-dílo autor líčit podařit zmíněný dům manžel Grássliův evakuovat ukrytý osoba umístit bezpečí vyrvat nacistický vrah
-řídící důstojník dávat spolupracovník pocit jistota bezpečí ochrana
-podporovat politický společenský status quo král šlechtajim zaručovat bezpečí možnost žít soulad vlastní náboženství tradice
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df926316bc2a7bb3c7d3cffe9120ebf974d7a16c8a7aac664f07f64cdcce636
+size 350

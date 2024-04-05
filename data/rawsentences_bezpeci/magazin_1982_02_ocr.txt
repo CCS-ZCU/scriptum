@@ -1,1 +1,3 @@
- A taky bych rád zdůraznil, že socialistický stát občana i více chrání: nepouští jej do nebezpečných krajin, občánek musí sedět hezky doma, nebo uvnitř zadrátovaných hranic, v bezpečí a pořád pod dohledem, aby se mu nic nepřihodilo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aecddad1f8b704f68869c124539ec4ef1bb535932f579348bd640efe4bf65f7
+size 258

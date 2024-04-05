@@ -1,7 +1,3 @@
-vlídný postoj západní vláda zaujímat vznik válka změnit pád Daladier nástup Winston Churchill Beneš utvrdit předsevzetí poválečný bezpečnost závislost republika nutný opřít nový základ
-hranice mít poválečný Polsko zajistit odpovídající síla bezpečnost hospodářský zdatnost
-pořadí důležitost druhý otázka oblast polský válečný cíl nový organizace země střední Evropa zajišťovat oblast bezpečnost rozvoj
-středoevropský konfederace středoevropský konfederace mít stát systém zaručit bezpečnost rozvoj oblast Německo sovětský svaz pilíř bezpečnost spolupráce celý Evropa
-otevření tajný archiv bývalý ministerstvo státní bezpečnost soustředění zachovaný materiál zvaný gauckový úřad Jürgen Fuchs svazek akt věnovaný osoba dozvědět státní bezpečnost sledovat odchod německý spolkový republika přesný záznam cesta dcerka Lili chodit škola
-scinda jednotlivý oběť celý německý veřejnost začít odhalovat tušený systém kontrola státní bezpečnost pomoc agent špicl rozprostřet celý země podařit proniknout církevní opoziční kruh manipulovat
-vyrovnání minulost bezpečnost Stasi využívat
+version https://git-lfs.github.com/spec/v1
+oid sha256:63da14abdcbe3427ffae850576faaee0abd7bfd36a98e7ed69a84663de7c350f
+size 1205

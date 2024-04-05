@@ -1,2 +1,3 @@
-zaleknout nebezpečí překážka
-sociální pracovnik^dr EuSánberg prohlásit příští generace moci SSSR dohonit americký průmysl rovnat produkce
+version https://git-lfs.github.com/spec/v1
+oid sha256:901edd5eb32d3d70ce68eb0ddc24054f78d348b7723bc45bd1c1d949c19616a9
+size 153

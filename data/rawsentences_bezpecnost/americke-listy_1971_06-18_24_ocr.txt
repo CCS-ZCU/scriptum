@@ -1,4 +1,3 @@
- 20) Uvolněný obchod s Čínou? Moskva a evropská bezpečnost Ve své snaze rozšířit styky s čínskou lidovou republikou uvolnila americká vláda dlouhý seznam zboží; jež nyní mohou americké firmy do kontinentální činy exportovat.
- celoevropské bezpečnost ní konferenci.
- Kdyby senátoři Fulbright nebo Mansfield o věcech rozhodovali, neměly by dnes Spojené státy v Evropě ani jednu divisi a evropskou bezpečnost by "zajišťovaly" sovětské tanky od Československa až po Portugalsko.
- Naštěstí si žádný skušený politik svobodného Západu evropskou bezpečnost takto nepředstavuje a není tedy nebezpečí, že západní svět na poslední Sovětské námluvy naletí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c4b24fcca82c6796870eda89beb52916eed22aaa5f37f5c49d76b23554af92
+size 709

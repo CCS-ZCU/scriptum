@@ -1,9 +1,3 @@
- Bezpečnost ho prý získala pro spolupráci už před šesti lety, tedy ještě za Dubčeka.
- V prosinci 1973 se vrátil domů, na jaře 1974 šla knížka SMS do tisku, v létě vyšla a na podzim už vysílal pražský rozhlas na pokračování HDS, Bezpečností upravené telefonáty, kterými Marák vykoupil svou beztrestnost.
- Je nám lito peněz; Bezpečnost odvedla chabou práci, placenou z daní čs.
- Pražský rozhlas s Bezpečností z toho udělal: Kdyby měli kulomety.
- Nový zákon o Národnej bezpečnosti dal drábom režimu novú moc.
- V polovině listopadu vzbudil tento druh Ladislava Bitmana znovu pozornost tím, že napsal redaktoru FCI Josefu Jostenovi dopis, z něhož vyjímáme: Frolík (který měl krycí jméno Florián) popisuje podrobně různé akce proti Jostenovi, které připravovala pražská centrála tajné služby a z nichž některé prováděli členové «britské sekce» Státní bezpečnosti.
- 1969 byl Táborský-Majer propuštěn ze služeb Státní bezpečnosti pro ne dost pevný pro-sovětský postoj v r.
- oddělení Státní bezpečnosti.
- Frolík uvádí v dopise mnoho jmen příslušníků Státní bezpečnosti, kteří působili v Anglii a byli kryti diplomatickými pasy, ačkoli Jejich úkolem bylo Jen provádět špionáž, organizovat terorismus a dezinformovat naivní Západ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2baee4ce1b8c665f15369b5a446862647fd98e7380129994562be84c5d9820c0
+size 1347

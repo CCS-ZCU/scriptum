@@ -1,1 +1,3 @@
- Domov jako pozitivum, jako přístav bezpečí, který není třeba objevovat, neboť existuje jako společenství, které uvádí děti do života a do světa a pro- vází je tím nejdůležitějším: smyslem pro tvořivost a hodnoty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8eb440838633f3e574badeec0824cde7d7bbd0e79da1100081ea6959c43da0
+size 237

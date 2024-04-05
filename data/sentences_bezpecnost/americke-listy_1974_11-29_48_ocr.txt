@@ -1,7 +1,3 @@
-listopad začít Brusel účast zástupce země zasedání mezinárodní výbor evropský bezpečnost spolupráce vysoký mezinárodní instituce říci jít
-posonit opačný směr moci novodobý mravokárce ink vizitor požadavek striktní omezený činnost CIA úplný zrušení zajít bezpečný naivkový pošetilí idealista začít hrožovat životný zájem spojený stát bezpečnost západ
-vypovědět organizace vydat příkaz národní rada bezpečnost souhlas Nixon léta opozice Allende dolar
-dřívější slyšení kongres předchozí ředitel CIA Helms Kissinger šéf národní rada bezpečnost vypovědět CIA mít puč Allende dělat
-průhledný podstata možný nesmyslný tajný shromažďování informace možný nepřítel důležitý bezpečnost stát podpora zahraniční politika stát možný ilusornim
-pochopit získávání informace možný nepřítel nutný bezpečnost stát velmoc udržení rovnováha síla svět zachovaný světový míra
-spojený stát americký mít udržovat bezpečnost spojenec vést dosavadní úspěšný aktivní zahraniční politika žehnávání světový vojenský politický krize zprostředkovávat válečný strana muset spoléhat informace získaný zpravodajský služba
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a64bbb1f0bb16a79e1f6afd926ad35fbd4259d8173a24bc1aeb864f2b44972
+size 1244

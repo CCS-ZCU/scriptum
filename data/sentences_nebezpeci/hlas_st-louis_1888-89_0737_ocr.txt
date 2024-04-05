@@ -1,1 +1,3 @@
-velký rozměr požár přivést nebezpečí nádraží labský Týnica Zábor
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ddca9046327ef49716fad312b30d9e24c7a5991f0b79a0ef7f652b6c3b9cfb2
+size 79

@@ -1,1 +1,3 @@
- c) Existuje podezření, že byste mohl vaším pobytem ohrozit veřejný pořádek, bezpečnost království, R.
+version https://git-lfs.github.com/spec/v1
+oid sha256:638669595079e8f8aff9365effa5b9aaf897ed13880282403e7353b2192e91f6
+size 115

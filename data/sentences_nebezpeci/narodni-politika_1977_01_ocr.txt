@@ -1,1 +1,3 @@
-lékař vyslovit podezření srdeční mrtvice mnohý myslit vědět komunistický rozvěd řádit USA starat lidé Vít Komárek nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62f8ee21a5209c6231ad348f994fd37562306d22dfab1ef43ed48fb8a677e34
+size 144

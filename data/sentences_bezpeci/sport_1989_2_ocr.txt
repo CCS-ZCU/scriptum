@@ -1,1 +1,3 @@
-mít ochvějný symbol bezpečí pořádek bezúhonný občan ochránce bezbranný vzor spolehlivý pomocník
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae8415cb8cc95bb93bebf3ebc902835f0a3c598d28ccf79db0656f16a1428e98
+size 110

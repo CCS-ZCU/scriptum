@@ -1,1 +1,3 @@
- Zaskočena ve svém lehkomyslném bezpečí nájezdem novopohanského barbara vykřikujícího své »Blut und Boden«, s okamžitou jistotou, byť pozdě, rozpoznává pravdu bezmála utracenou, že »hranic její Británie je třeba hájit i na hranicích jejích Čech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4010ec9b483a65a5d505dab5e5bcbb00e39dacd61341cc5b67b1c72e41c2ff76
+size 274

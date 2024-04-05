@@ -1,1 +1,3 @@
-domnívat jmenovaný člen VONS vazba bezpečnost zdraví život čestný občan stát ohrožený
+version https://git-lfs.github.com/spec/v1
+oid sha256:a46668dd95de27e89b5e8b625664606d98c09e69857deaabb1592265da3b73db
+size 98

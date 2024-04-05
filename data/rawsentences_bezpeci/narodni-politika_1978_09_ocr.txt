@@ -1,2 +1,3 @@
- Jenže stát a jeho veřejně bezpečnostní systém mi nedodávají pocitu bezpečí.
- Většina příslušníků bezpečnosti by podle mého názoru ráda pro naše občany vytvořila podmínky skutečného bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58f0d5f5462169960271f752b50cc594d8ddc17c5d4fd802db6e5efbf68c72fc
+size 221

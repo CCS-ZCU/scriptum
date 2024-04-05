@@ -1,1 +1,3 @@
- Ani v československém zákonodárství není nedovolené rozmnožování textů klasifikováno jako trestný čin, pokud se nejedná o texty závadné z hlediska bezpečnosti státu a pod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42be80f9f81d71844cc390274afd220a4371769e7acb116043f19dc704b63985
+size 192

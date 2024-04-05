@@ -1,2 +1,3 @@
- ❖ Platíte vysoké daně? Švýcarské bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Pocit bezpečí se rozlézá do všech koutů, v neděli odpoledne se sotvaco nečekaného přihodí, i smrt zabíjí jaksi tišeji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c51cee2e0bb18fa77f9554ac0f0f2d1495a68448c1b991688f9ca5a7202e22
+size 241

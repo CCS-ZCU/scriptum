@@ -1,1 +1,3 @@
-nebezpečí případ nepřej cvičenec trčení noha vzpírání paže hrazda
+version https://git-lfs.github.com/spec/v1
+oid sha256:63a7cac51ecda188761dd746f7565b89d8d91da031ef55ffe5aa0c94f520f16d
+size 78

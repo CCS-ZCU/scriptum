@@ -1,2 +1,3 @@
- V této souvislosti se hovoří o jeho snaze získat větší pravomoc k provádění reforem, odstavit jejich odpůrce, zmenšit moc zlopověstné státní bezpečnosti KGB.
- Nevěděli, že musí často měnit místo vysílání, délku vln a hlavně dobu vysílání, na čemž závisela bezpečnost vysílačky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:335240c0a745f827f598bf5aeb257c64dd0ca459869bffd73cb474b33dde017c
+size 317

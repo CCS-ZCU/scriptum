@@ -1,2 +1,3 @@
-tragický smrt muž popsat paní Helfrová třicátý leden předvídat nebezpečí vystoupit druh břeh ostrov
-Hraběnka Nosticová statečný muž prožít léta plný dobrodružství nebezpečí zapomenout
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf417284d317e0e83ea90abf096af76ecc6e0ef004d636b64068ca2c0f091a2
+size 209

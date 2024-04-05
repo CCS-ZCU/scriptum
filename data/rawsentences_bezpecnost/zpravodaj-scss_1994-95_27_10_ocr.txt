@@ -1,2 +1,3 @@
- Je to důsledek nejen neblahého dědictví minulosti ve zdravotní péči, bezpečnosti práce a poničeném životním prostředí, ale také současného nezdravého způsobu života: jedí se tučná jídla, moc se kouří a pije, málo sportuje.
- Systém, který zvýší podstatně bezpečnost osobní a zvláště nákladní dopravy, bude po ukončených zkouškách, které dosud probíhají úspěšně, zaveden na více místěch ve Švýcarsku a také Německu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a6a5abe112636eb950a8634e58a39e946b2c2ca3561b6bea0b77259e3f133e
+size 474

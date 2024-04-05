@@ -1,1 +1,3 @@
- "Nedovolím," řekl pan Hawke, "aby se obchodovalo s bezpečností této země, ale jinak budu tvrdě odhalovat americkou hypokracii v obchodu se zemědělskými produkty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7157599faa42f6a1ff08b2d71acc1816311de8715d3a2b00a11bbb6dc243f233
+size 173

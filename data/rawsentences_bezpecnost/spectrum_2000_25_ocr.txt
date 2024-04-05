@@ -1,1 +1,3 @@
- No, bezpečnost především.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a53970b3e051f703454921c9cc8a1e5c5bffaf47048cffaf35a03bbff7030587
+size 31

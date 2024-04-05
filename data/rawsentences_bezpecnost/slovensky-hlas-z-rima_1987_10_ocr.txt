@@ -1,2 +1,3 @@
- Pobime to preto, aby sa pomocou autentického textu ukázala svojvoľná manipulácia cirkevnými činiteľmi u nás a beztaktnost’ slovných formulácií, aké používal vysoký štátny a politický predstaviteľ, keď hovoril o cirkevnýah veciach okresným cirkevným tajomníkom, pracovníkom štátnej bezpečnosti a lektorom ateizmu.
- Karol Hrúza tvrdil, že sú mnohí rodičia, ktorí dávajú tajne krstiť svoje deti a sú mnohí mladí, ktorí sa tajne cirkevne sobášia, a to aj z radov učiteľov a z radov členov Štátnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37f6f9bb59461a3e4bba67269c190ad787808b9ff754914ee46e3cbc4f98a336
+size 559

@@ -1,2 +1,3 @@
- „Jo, to jsme si dali, soudruzi, s lim kotelním kamenem,'’ náčelník výtopny předčítá prípis se shora; „dostali jsme pěkný nos!" Ten začíná rozkladem o nepřípustnosti plýtvání ve všech složkách železniční správy, jež je zvláště důležitá proto, že neúsporné užívání vede k nedostatku součástek, čímž sc zhoršuje stav provozního zařízení, a to pak vede k ohrožování bezpečnosti v dopravě samé.
- že jsme změ- ttli jména v zájmu bezpečnosti informátoru, o něž, budiž nám věřeno, není nouze.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8022031c5f868fec45996537dfe8f94f924075c77dd20b2176d8ec2fab317792
+size 562

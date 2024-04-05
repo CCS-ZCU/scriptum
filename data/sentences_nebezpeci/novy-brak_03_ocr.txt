@@ -1,1 +1,3 @@
-kunsthistorička
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec7d8e18982d5074463c7c536536e4332136e04af6f154abb82e34b70a954c9
+size 17

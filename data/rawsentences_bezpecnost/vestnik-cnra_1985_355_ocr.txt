@@ -1,2 +1,3 @@
- Cílem americké politiky je usilovat o mír, bezpečnost, hospodářský pokrok a svobodu pro každý stát ve Střední Americe.
- Revoluční vláda v Nikaraguje ohrožuje svobodu a bezpečnost sousedních zemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20dfe731ce3ab53d79f0c60ac12baf6be059ec68d253b1c4a748e7c0af859884
+size 216

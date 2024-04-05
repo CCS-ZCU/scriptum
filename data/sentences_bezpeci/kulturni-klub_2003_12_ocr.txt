@@ -1,1 +1,3 @@
-přijet bezpečí cítit trhat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fcefe6d48abfadc4bfb589d801ba857cf0319f3cbc9e148d4aa632a38ef4f8e
+size 31

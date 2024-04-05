@@ -1,1 +1,3 @@
-klinický obraz zůstat terminologie zvolený medicínský příměr patřit nedostatek odvaha pohledět skutečnost tvář tvář sebíci iluze lze vylhat odpovědnost iluze hrozící nebezpečí možný vymluvit rozmluvit zamluvit prostom slný víra jistý zásada mezilidský mezistátní Bill Bradley
+version https://git-lfs.github.com/spec/v1
+oid sha256:e88053b855ff88df137ff75b13d2f08259102c57a9ec931bc7cb4ee50446c699
+size 309

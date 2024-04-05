@@ -1,1 +1,3 @@
- Singapur, je- hož světla někteří z nás viděli jako poslední sbohem světa, za jehož bezpečí bojovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a453cf158c7ccf8f160661ddcc52e11da0b1d8fe1d3e5862aba9d01b19dc07f
+size 112

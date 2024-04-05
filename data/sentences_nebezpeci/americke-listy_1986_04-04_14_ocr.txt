@@ -1,2 +1,3 @@
-mezinárodní organizace lidský právo IGFM oznamovat malířka Nina Kovalenková měsíc internovaný psychiatrický klinika moskevský předměst
-upozorňovat listopadový zatýkání Morava umístění zatčený železničář Augustin Navrátil Lutopecno psychiatrický léčebna Bohnice trvající vazba Pavel Dudra Jaromír Němec nebezpečí připravovaný proces
+version https://git-lfs.github.com/spec/v1
+oid sha256:af38119f684ea737845deeab990fb8bf2f26ba2caca735036e76be485553a042
+size 372

@@ -1,2 +1,3 @@
-scenáristka režisérka Alice Nellis film výlet přehlídka uzavřít myšlenka rozvést americký hrdina příslušník velmoc území společenství národ stát mít vyřešený nebezpečí přicházet
-odpor znalec politický špička nebezpečí zaplavený republika použitý panela východ Německo hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:d475131d18c2ce009ec8654f65bbca8ce180466486dd1965c6d86e833f3d21d9
+size 314

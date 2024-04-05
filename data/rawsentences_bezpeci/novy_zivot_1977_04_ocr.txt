@@ -1,1 +1,3 @@
- Tomáš špidlík bezpečí, jež hrozí náboženství v Německu a vydal směrnice, »jež by osvětlily i slepé, a probudily ty, kdo jsou pohrouženi ve spánku«.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a306531076531d159eb3b8d10196343c83dcfed65693f17dd61e53d1d544b09
+size 169

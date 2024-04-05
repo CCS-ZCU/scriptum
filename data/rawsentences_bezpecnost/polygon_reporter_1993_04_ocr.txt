@@ -1,7 +1,3 @@
- Instinktivně se cítí, že to je, vedle příslušnosti k NATO, základem naší politické, vojenské i ekonomické bezpečnosti.
- Zdá se opravdu, že bezpečnost občana může být někdy nepřímo úměrná počtu osob, které o ni mají pečovat: zločinnost v České republice stoupá aritmetickou řadou, drzá loupežná přepadení se konají už i za bílého dne také v mezinárodních rychlících.
- On, vzorný a příkladný komunista, politický komisař partyzánů, významný pracovník Bezpečnosti, pak dokonce oběť tzv.
- V druhém odstavci tohoto paragrafu je asi to nejdůležitější: KSČ je prohlášena za zločineckou organizaci a zde jsou uvedeny i Státní bezpečnost a Lidové milice.
- Na příkaz Novotného pátrala Státní bezpečnost také po kompromitujících materiálech proti Dubčekovi z válečného údobí.
- „pendrekovým zákonem“, jímž byl umožněn teroristický postup Bezpečnosti proti všem odpůrcům okupačního režimu.
- Máme jenom jeden problém: že nemůžeme své neúspěchy svádět na nikoho jiného nežli sami na sebe, ba ani ne na tu bábu, co myje schody a donáší soudruhům od Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a16e7e0513e76e106026d885b2ba7a117706fe7d2089eecba6d9cc876dc4f701
+size 1178

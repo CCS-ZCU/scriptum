@@ -1,1 +1,3 @@
-tem žít cvoce neschopní prohlédnout jít jiný nebezpečí komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a15cf29eab59b7720123f093fd244764b5410e8e92f3651d0ce4f5cd303cf48
+size 74

@@ -1,1 +1,3 @@
-neklid svírat duše lidé obklopovat bezpečí hmotný blahobyt první znamení stísněnost vzdouvat
+version https://git-lfs.github.com/spec/v1
+oid sha256:21dcd8b2633ec4686487e1e313c3b70d5d2f0fd5ad5623069e47bcef40c3e529
+size 103

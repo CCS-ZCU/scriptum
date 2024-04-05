@@ -1,1 +1,3 @@
- Ve snaze uplatnit své iluse, vnucoval se Stalinovi každým představitelným darem včetně jedenáctimilionového zákona o půjčce a pronájmu,obětováním bezpečnosti osmdesáti milionů východních Evropanů, mnoha set milionů 'Číňanu a několika milionů životů nejlepších přátel, jaké kdy svobodná společnost měla.
+version https://git-lfs.github.com/spec/v1
+oid sha256:076d319e1e796f0a10785e6ae6e94c2c35c9a9151ba04b14f49a997e6cef67c4
+size 342

@@ -1,1 +1,3 @@
- Lidé uspokojují své základní fyziologické potřeby (metabolismus, rozmnožování, bezpečí, zdraví, růst, pohyb, atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3e462bbefe179ebdf548750e352b32f08966e7816c6a3b078c4ebc5f3e2c33a
+size 129

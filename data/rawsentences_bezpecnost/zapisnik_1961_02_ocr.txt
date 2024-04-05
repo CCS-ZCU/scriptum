@@ -1,1 +1,3 @@
- literatura už nedá jako v roce 1951 administrativně řídit z úřadoven státní bezpečnosti, komunistickým kritikům chybí společná měřítka, jasný cíl a hlavně vědecky fundovaná metoda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a72fc3c5816d421d8c5e4a1b0b087cff7f5fbf161e044f64ca53be3ff75e5982
+size 205

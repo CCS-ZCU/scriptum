@@ -1,1 +1,3 @@
- Statní bezpečnosti, kteří při výsleších utloukli našeho olympionika - tyčkařc dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:275767f51f017a52cffeb5c38760fbce61f09cea1efccfa100a9ef994adf5a1c
+size 94

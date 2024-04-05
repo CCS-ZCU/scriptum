@@ -1,1 +1,3 @@
-mše svatý třesoucí hlas místo říkat drazí krajan rodáce
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a97130d124e64f7ace531ca278767a451d26095e2ee3e7166522eacad5f5efd
+size 65

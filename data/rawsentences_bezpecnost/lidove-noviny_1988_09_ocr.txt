@@ -1,1 +1,3 @@
- Bezpečnost pak pátrá po organi- zátorech demonstrace, vyslýchá kdekoho, umně spřádá pavučinu zahraničních diverzních cen- trál a chystá exemplární potrestáni, aby se něco podobného nemohlo za dva měsíce opa- kovat, až budeme slavit sedmdesátiny repu- bliky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab648e161b33e37c6b001f0b08a272da728d2dbf326620ae3230f9513aca6bc
+size 284

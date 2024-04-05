@@ -1,1 +1,3 @@
- dolaru, kterých ma bytí použito k uskutečňovaní vojensko pomoci zapadni Evropa a svobodným národům k zajištěni světově bezpečnosti a miru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77be5c6c7006cd141b834aa63008ca914d6ff50fc3c41569b73ac261a6f2a665
+size 154

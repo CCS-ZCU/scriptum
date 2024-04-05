@@ -1,7 +1,3 @@
-odhlédnout budoucí vývoj dnešní tempo povést výroba ničivý zbraň odhlédnout nebezpečí dnešní arsenál moci použitý zkušební výbuch patrný srovnání plný nasazení veliký hrozba
-drtivý smrtelný nebezpečí hrozit československý obyvatelstvo případ atomický konflikt mít vládní činitel pohnutka jednat zájem zachránění existence lid zájem vlastní život
-zapomenout uzavřít přátelský smlouva Hitler umožnit napadnout Polsko
-západ Sovět pohrozit nadvláda střední východní Evropa záminka tolerovat nabídnout záruka německý nebezpečí
-Bebezpečí vyplývat dnešní rozďělení Evropa západ značný
-síla blok přímý styk sovětský sféra Evropa nabitý vnitřní napětí vybuchovat občasný výbuch poukazovat vážný nebezpečí vězící
-válka vypuknout skutečný hrůza skutečný nebezpečí hrozba smrt požehnání porovnaný lidský nadvláda lež přinést úleva prolomit zajetý mrtvý litera
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d23d4986a16e302bc7d23be01885de286abefe564d1c0aba35fa5e2fd36f38
+size 969

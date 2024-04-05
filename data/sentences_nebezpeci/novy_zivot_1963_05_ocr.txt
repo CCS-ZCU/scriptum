@@ -1,4 +1,3 @@
-postoj arcibiskupův číslo Jan Jenštejn stávat tíha dlouhý utrpení trpělivý naučit snášet stálý nebezpečí duševní vyrovnanost
-stálý nebezpečí život strach pozemský majetek odradit arcibiskup většina prelát přítel nabádat zapřísahat zachování osobní bezpečnost statek přecházet zločin násilnost mlčení
-vzdát srdce lidé moci uvést nebezpečí metr utvrd pravda spravedlnost láska bratr
-dovést představit noční útěk svatý rodina Egypt nebezpečí poušť plný den hledání dvanáctiletý chlapec oddaný Mariina modlitba
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8d8657e2603a188bad17d819beba74f2a5407607a4dc8216c433cd3904e005e
+size 573

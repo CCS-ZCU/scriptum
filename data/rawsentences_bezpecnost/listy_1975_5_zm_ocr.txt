@@ -1,5 +1,3 @@
- Ne, že by to bylo lehké, ale vím s velikou bezpečností, oč jde.
- Jedna gratulace k Werichovým narozeninám měla dokonce dohru na Bezpečnosti.
- Dříve však než sborník odevzdal, přijeli si pro něj od Bezpečnosti a potom ho několikrát vyslýchali.
- Ovšem sborník od Lederera nedostali, ani se Bezpečnosti nepodařilo sborník zničit.
- Rád bych tedy uvěřil důstojníkovi Státní bezpečnosti, že mi policie po prozkoumání zabavené ru- kopisy vrátí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88d812ec94f1f328fbcb537e1b75c800558038cd899c10243c1b316cd688117f
+size 480

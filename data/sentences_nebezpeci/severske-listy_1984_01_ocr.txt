@@ -1,2 +1,3 @@
-přímý nebezpečí ryba pták had žábadec savec
-druhý nebezpečí domnívat objevit scéna
+version https://git-lfs.github.com/spec/v1
+oid sha256:4025b2e31f6563ecfc0a6bd24f7be988d936c2144577446d5d442948bbd6db37
+size 96

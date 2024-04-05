@@ -1,2 +1,3 @@
- Ve věznici nalézalo so tou dobou 66 vězňů; úřadníci je spoutali jednoho k druhému a v bezpečí je dopravili do soudní budovy, kdež nyní jsou prozatím držáni.
- Rozhorlený lid chtěl Angličana lyn- čovati a policie měla co činiti, aby jej v bezpečí dostala do vězení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a92e9fde61923845699fbe37dea7ac2ac7ebf2f7a689476a53ec07b34ac8582
+size 290

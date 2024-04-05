@@ -1,2 +1,3 @@
- obyvatelům naší zeměkoule ukázaly, kdo je skutečným bojovníkem za světový mír, bezpečnost a společenský pokrok .
- Nakonec vzala konference na vědomí předem pracně dohodnuté 47stránkové prohlášení nazvané “ Za mír, bezpečnost, spolupráci a společenský pokrok v Evropě” , v němž se píše též o demokracii a o nezávislosti jednotlivých komunistických stran a o možnosti odlišných cest k socialismu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1283d2ae3033407485f73302f5c95e9bd0d1ca5201d098c2a9569de2022294
+size 443

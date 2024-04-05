@@ -1,1 +1,3 @@
-velký bezpečnost celý léta mít poc počtáře® automatický pistole nabitý
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc918aeb74f4a37a1b21fca2e95007365aa2f525228189fbab87759406160f8a
+size 82

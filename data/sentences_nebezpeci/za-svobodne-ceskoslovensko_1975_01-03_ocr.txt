@@ -1,3 +1,3 @@
-slovo détent míněný zahraniční politika spojený stát snažit odstranit třecí plocha velmoc umenšit nebezpečí atomický válka malý místní konflikt
-svobodný svět ochotný kapitulovat stávat nebezpečí konflikt stejný míra řeč détent
-dohoda komunistický vláda vypuknutí válka přát vítat postup skýtat naděje omezení zažehnání nebezpečí mezinárodní konflikt atomický válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd1a4320dca34719935e746bd3cfca0570dd37a19181d66f1de1ff3f844f4ed
+size 414

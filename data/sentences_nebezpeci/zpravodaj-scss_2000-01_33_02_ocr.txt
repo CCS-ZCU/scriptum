@@ -1,3 +1,3 @@
-zhroucení komunistický ideologie posilnit demokracie ideál humanity velký nebezpečí vykládaný liberalismus globalizace trh vytváření nový gigantický společnost vyvolat reakce nový sociální pnutí nový životní filozofie
-starost mít auto sežnout garáž nový byt garáž počítat nebezpečí krádež vědět
-autor předmět text vystavovat nebezpečí potrestání
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a85037f612cb753a0c576369c754616670120c8b34b8e2f714b0eebaac8fcc0
+size 388

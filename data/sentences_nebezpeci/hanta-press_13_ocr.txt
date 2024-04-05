@@ -1,1 +1,3 @@
-nebezpečí prodlení směnka vzpomínka
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8490dd428cd335657e3a957b75f1e1e82884477df7ca38f648409dc37f66a5d
+size 41

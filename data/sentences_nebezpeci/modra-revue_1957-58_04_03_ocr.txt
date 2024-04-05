@@ -1,2 +1,3 @@
-divit národ vidět nebezpečí mít odpověk
-londýnský zahraniční vláda československý vědomý nebezpečí piana zastřený diktatura
+version https://git-lfs.github.com/spec/v1
+oid sha256:506290e66212f613701e4a61dfa0d1acb0bcf3e8ff397df2206188395f82ba8a
+size 143

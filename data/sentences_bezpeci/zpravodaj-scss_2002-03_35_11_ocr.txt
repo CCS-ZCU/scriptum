@@ -1,3 +1,3 @@
-švýcarský bankovnictví pojišťovnictví skýtat vysoký možný záruka solidnost bezpečí
-zkusit bezpečí domov poznávat svět oko člověk věk osobní zkušenost moudrost zprostředkovat smazatelný zážitek
-útulnost bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f371ada25bfde40239cbed4a4f00321bb5cde43a0b8d74a8c05875d52a87f7d
+size 240

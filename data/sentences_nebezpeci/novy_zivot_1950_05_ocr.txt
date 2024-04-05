@@ -1,1 +1,3 @@
-možnost bučet rok špatný kamarád podnik podnik litr křesťanský lik moci příjem rok sobotní večer nebezpečí mravní úhon
+version https://git-lfs.github.com/spec/v1
+oid sha256:860200d5318b26e7fc75dabc1e23338661ae7b03b191106a94b8a470d8e4039f
+size 135

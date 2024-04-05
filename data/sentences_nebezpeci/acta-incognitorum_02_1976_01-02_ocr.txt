@@ -1,7 +1,3 @@
-září
-důležitý člověk poučený zdroj nebezpečí okolí metr způsob ochrana
-zachovávat preventivný poloha celý cesta Praha fyšel velký riziko vznikat člověk prostředí známý
-sucho recept odolat žízeň poušť mít kus igelita nádoba
-mít zajistit příslušník společnost hrozit nebezpečí soutěžit osoba jin rovný chudák cirkusák divoký indián Thorp
-skutečný nebezpečí gigantismus tkvět počet účastník sportovní soutěž tendence pořádaj město předhánět výstavba nákladný olympijský areál
-závažný nebezpečí hrozit názor oblast politika
+version https://git-lfs.github.com/spec/v1
+oid sha256:51abdd3ad29da80a21c690e6a17d5a60dde4354dd4f2bcc91b7d80ab0ee8ab1f
+size 596

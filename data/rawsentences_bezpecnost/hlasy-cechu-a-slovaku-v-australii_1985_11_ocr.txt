@@ -1,2 +1,3 @@
- Ctižádostivý poručík Bezpečnosti z výpovědí ostatních řidičů a závozníků vytušil, že ve zmíněném závodě dochází k mnohem závažnější trestné činnosti.
- Jan Urban se zatím obrátil na majora Bezpečnosti šéfujícího Obvodnímu oddělení VB v Praze 9 ve Zbuzkově ulici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3299b3d1d4da2c839ac91ea080f4b6a85f40dc6ccb113dc8355e7d61ee5ccc1d
+size 306

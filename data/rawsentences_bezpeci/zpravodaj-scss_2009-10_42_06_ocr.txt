@@ -1,2 +1,3 @@
- "Jedinou možností, jak sladit cíle obou stran, jsou dva státy, kde budou všichni Izraelci a Palestinci žít v míru a bezpečí," řekl.
- Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:368e433a38c882211085eb67a2f61417ddcbe5c11b8a5fb1fa777939accd6a06
+size 252

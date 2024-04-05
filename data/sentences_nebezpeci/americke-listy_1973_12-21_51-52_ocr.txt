@@ -1,5 +1,3 @@
-skrývat neustálý pokrok moderní společnost známý nebezpečí
-nebezpečí civilisovaný svět udušený výfuk automobil otrávit chemický odpadka průmysl hrozit
-vést odstranění zel považovaný vyhnutelný objevení nebezpečí vědět
-odstraňování důsledek průmyslový expanse životní prostředí objevovat vida známý nebezpečí zdraví člověk
-zbavit celý svět nebezpečí hlad hlavní úkol moderní společnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cfef30f6f7055d17766408f583e9983946bfa2a6b313ed35da40c2f1fea8988
+size 440

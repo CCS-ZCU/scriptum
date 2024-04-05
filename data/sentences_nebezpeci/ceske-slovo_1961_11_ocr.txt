@@ -1,3 +1,3 @@
-soused moskevský impérium Finsko jediný stát hrozit nebezpečí
-rozšiřený americký ilustrovaný časopis uveřejnit série článek historie komunismus mít svobodný svět komunistický nebezpečí bojovat
-závěr autor studie uvažovat mít svobodný svět postupovat komunistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f333c077c1ef57f74b181d866a352f98461426e364bbe78765689fbcb167c18b
+size 304

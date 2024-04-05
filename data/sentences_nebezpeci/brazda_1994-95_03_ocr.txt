@@ -1,1 +1,3 @@
-nebezpečí kolej
+version https://git-lfs.github.com/spec/v1
+oid sha256:067634b829977f69846082c2974cd419e8b2f9b7b913ac56e1ce4472231844ce
+size 18

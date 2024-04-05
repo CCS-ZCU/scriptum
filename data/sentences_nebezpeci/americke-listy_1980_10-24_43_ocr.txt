@@ -1,1 +1,3 @@
-důvod nebezpečí síla SSSR záměr uchvácení další stát důležitý zdroj surovina demokratický stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:35cb563dcca68e71807328e763501c21584bd065ce1eca450e4faf3c706ea989
+size 111

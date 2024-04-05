@@ -1,6 +1,3 @@
-nový přístup různý ideologie křesťan čerpat vhodný norma zásada zdroj víra učení církev
-návštěva dovolený nebezpečí nákaza
-Florián oko poulit ítce oheň léta div jsm zmeškat stát
-jméno církev zaujmout postoj říkat sociální otázka upozornit nebezpečí industrializace postavit právo dělník prohlásit řešení nabízet tehdejší socialismus církev přijatelný
-nebezpečí člověk stát pouhý předmět věda studovat kvantitativní jev vidět definitivní celý smysl poslání země
-protiváha nebezpečí technokracie nutný vytvořit nový forma demokracie člověk mít možnost vyjadřovat informovaný povinnost možnost podílet společný odpovědnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ecd2c63cf6ec86cf4816ff57b853c4d3fac6c20d724eef7a06a4f8a276bf751
+size 702

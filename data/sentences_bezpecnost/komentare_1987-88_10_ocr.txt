@@ -1,4 +1,3 @@
-lze prolomit status quo® mnohý překážka překonání výraz
-předpoklad sovětský svaz principiální rozhodnutí učinit odstranit psychologicko politický důsledek velmocenský váha evropský kontiněnta evropský bezpečnost lze založit historický kompromis evropský globální moc SSSR moc evropský globální svět moc platit svět idea žadovat kompromis rovnocenný partner obava pokles americký vliv nový izo lacionismus Vóda západoevropský státník úvaha vojensko mocný struktura tvořit půda západoevropský společenství cesta nový slepý ulička moci spoléhat podpora většina společnost dát přednost jistota mocenský rovnováha jistý výsledek kompromis his torický spočívat deklarace dobrý vůle
-připustit spojený stát Evropa připravený bránit pouhý bezpečnost území
-politika mít složka jednat závislý suv renní stát vytvořit trvalý hospodářský vztah podněcovat zapojení země věc Evropa celek
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18151ddd129fc18f07781fef2fd091a190829170c68d313e4dc3f3299ef20cb
+size 967

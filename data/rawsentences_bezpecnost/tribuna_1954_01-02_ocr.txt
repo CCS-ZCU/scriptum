@@ -1,2 +1,3 @@
- Demokratie má dát lidem »i svobodu i rovnoprávnost i spravedlnost i bezpečnost i blahobyt i štěstí« (tamtéž, str.
- V tom případě můžeme očekávat nové a vážné nesnáze, které nepřidají světu na klidu a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5980d4020bc0900011e8bd912e7ae2bb7f2244e65f1ba3cf1df0472b8c9e358f
+size 242

@@ -1,1 +1,3 @@
-nabourat vystavit nebezpečí technický kontrola auto odnětí technický průkaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c105ac3fdb757d61366508191d458b673a88d98c1f6fbbb88253f3744e3df14
+size 83

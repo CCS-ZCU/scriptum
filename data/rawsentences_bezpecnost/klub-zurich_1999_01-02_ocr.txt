@@ -1,1 +1,3 @@
- Nedostatek po- travin by ohrozil bezpečnost cestujících.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcd3807334869825517274ea0b252f5740483b37ad8493fd8e699c5c3e34bad9
+size 61

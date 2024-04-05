@@ -1,2 +1,3 @@
-rajský tón reformátor čelo Alexandr Dubček snit podařit uskutečnit
-zvyššít švýtarský prokuratura Bundesstaatsanwaltschaft zvát návštěvník země železný opona osobní rozhovor sledovat dvojí cíl chtít zjistit rozvědka země pokusit navázat turista styk upozornit nebezpečí návštěvník hrozit doporučovat zachovávat ustanovení navštívený země celní devizový předpis zákaz fotografování
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5a38e55fc7cae4a678f018e523ffc2407486e978ecd22d84bfc9784dac6c80
+size 427

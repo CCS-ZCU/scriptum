@@ -1,1 +1,3 @@
-vina svalovat den vinný spád pohroma přičitat hvězda přečistý nevědouce bezpečí hledávat jícen tančit opojení sopka srdce růže myslící rozpomínat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a94e4f078c7dba56b606dae29c9244936be8dceb2c5ba3f9b1d53ddc36825b4
+size 166

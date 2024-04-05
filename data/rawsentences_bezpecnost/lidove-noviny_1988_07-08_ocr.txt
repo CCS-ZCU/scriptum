@@ -1,12 +1,3 @@
- Jiří Hájek informoval zahraniční delegáty semináře o tom, že vedeni našeho státu projevuje zatím velmi málo smyslu pro nové myšlení, vstoupili do soukromého bytu, kde účastníci zasedali, příslušníci Státní a Veřej- né bezpečnosti a mírové jednání přerušili.
-  STRANA 6 JUSTICE LÉTO 1988 Zpráva o jednom pracovním sporu V dubnu pětaosmdesátého roku provedla Státní bezpečnost domovní prohlídku u Jarmily Strej- cové v souvislosti se zatčením a později (podmíněným) odsouzením skupiny katolických aktivistů v čele s Dr.
- Jaderná bezpečnost nikdy nemůže být absolutní, výstavba jaderných elektráren je nesmírně -nákladná, vznikají závažné kom- plikace s ukládáním odpadů, jejichž nebezpeč- né působeni bude trvat celé generace.
-nejlacinějši východisko ze situa- ce: posílit kontrolu nad oběhem informaci o stavu životního prostředí prostřednictvím orgánů bezpečnosti a vlastní rozhodováni ponechat i nadále v pravomoci odvětvových ministerstev.
- V nejlepším zasáhla Bezpečnost.
- Proti podpisovým archům zakročila na oficiálních rockových koncertech znovu Bezpečnost.
-) SRPEN Z dopisu stálého zástupce SSSR Malíka předsedovi Rady bezpečnosti OSN ze dne 21.
- srpna 1968: Vlády USA a několika dalších zemí, spojenců USA, zaslaly Vám dopis požadující svoláni schůze Rady bezpečnosti, aby projednala sou- časnou situaci v Československu.
- Neexistuje však důvod k jednání o této věci v Radě bezpečnosti.
- Akce Sovětského svazu a ostatních socia- listických zemí je vedena snahou 0 posíleni míru a starostí o to, aby základy evropské bezpečnosti nebyly podkopány.
- ) SSSR je rozhodně proti jednáni o této otázce na Radě bezpečnosti, poněvadž by to mohlo sloužit jen zájmům některých cizích kruhů, které reprezentují síly agrese.
- Pro Izrael je v této situaci asi jediná mož- nost: obratnější politikou než dosud pokusit se o dosaženi smíru, jakéhosi vzájemného paktů až do té doby, než přesun sil ve světě přivede jeho sousedy k pochopení, že existuje a že má legitimní náro- ky na bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff1d1ecb4fca6ac04b12e221ebe972be7f731a035ccf52ac0fa497e9e644457
+size 2184

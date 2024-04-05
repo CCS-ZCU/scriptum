@@ -1,1 +1,3 @@
- úřadů je v příkrém rozporu se Všeobecnou deklarací lidských práv a dalších dokumentů, které ČSSR ratifikovala, jakož i se závěry Konference o bezpečnosti a spolupráci v Helsinkách, podepsanými čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa61b51596b926d7252bbedfbddd1a7beff6616f37284551ed15616380a6d8d8
+size 221

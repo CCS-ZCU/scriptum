@@ -1,14 +1,3 @@
- Po propuštění byl policií a úřady neustále šikanován, a v tak nakonec v dubnu 1982, pod dlouhodobým psychickým a fyzickým nátlakem Státní bezpečnosti, podal žádost o vystěhování a s rodinou odjel do Francie.
- K lidem se nahrávka nedostala, asi skončila někde v archivu Státní bezpečnosti,“ uvedla zpěvačka.
- Zvýšení bezpečnosti trhu s alkoholem by měla v budoucnu zajistit větší kontrola dovozu metylalkoholu.
- Charta 77 byla neformální československá občanská iniciativa, která kritizovala „politickou a státní moc“ za porušování lidských a občanských práv, k jejichž dodržování se ČSSR zavázala při podpisu Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě (KBSE) v Helsinkách.
- Zároveň koncepce předpokládá, že přinejmenším 80 procent energie v Česku bude pocházet z domácích zdrojů, což umožní zachovat energetickou bezpečnost.
- Podle Dany Drábo- vé, předsedkyně Státního úřadu pro jadernou bezpečnost, ale výsledky šetření neukázaly nic nového.
- České jaderné elektrárny Temelín a Dukovany nemají žádné vážné problémy s bezpečností.
- ČTK to sdělil český vyslanec pro energetickou bezpečnost Václav Bartuška.
- Bude sloužit k vyrovnávání sezónních změn ve spotřebě plynu a k zajišťování bezpečnosti soustavy v případě výpadků dodávek.
- Svedectvá o sadistických metódach Štátnej bezpečnosti voči veriacim.
- Stejně jako Rakousku jí ale velmi záleží na bezpečnosti jaderné energetiky.
- Současně ale podle něj platí, že ČR vnímá rakouský pohled na jadernou energetiku a dbá na její bezpečnost.
- Studenti vyšli do ulic se svíčkami a voláním: „Chceme světlo!“ Pochod brutálně rozehnala veřejná bezpečnost.
- 2007 Většina lidí v České republice si podle průzkumu agentury Median pro Lidové noviny myslí, že česká společnost se dostatečně nevypořádala s těmi, kteří před rokem 1989 spolupracovali se Státní bezpečností, tedy s komunistickou tajnou policií.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6f5aa4732deeabb0942899cdfe58f5666c0a6591f0726b4fb817391085b4e23
+size 2081

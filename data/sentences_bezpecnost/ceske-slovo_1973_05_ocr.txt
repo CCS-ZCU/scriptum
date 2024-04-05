@@ -1,2 +1,3 @@
-bezpečnost práce produktivita práce
-brát kritizovat špatný pracovní doba špatný pracovní podmínka dostatečný bezpečnost práce kladivo rozbít nos brýle
+version https://git-lfs.github.com/spec/v1
+oid sha256:81670ebb627887be5052dc94b12ef59f93a42673b2cfa034495d164918f87a83
+size 168

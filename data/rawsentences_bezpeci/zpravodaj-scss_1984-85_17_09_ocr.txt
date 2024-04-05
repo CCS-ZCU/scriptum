@@ -1,1 +1,3 @@
- Tak tichá, že je nezahnala do bezpečí; nevzaly nohy na ramena jako před halasný- od loňského prosince v Praze Na Poříčí nedaleko Bílé Labuti a od letošního dubna v hornickém Sokolově.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2759e896795008ec884a6d8f737b140533e051897981dc4239dba144d9798297
+size 201

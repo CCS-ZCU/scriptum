@@ -1,3 +1,3 @@
-Václav Havel potěšit zpráva americký výbor bezpečnost spolupráce Evropa složený poslanec senátor americký kongres zaslat Nobelův ústav Oslo návrh uvádět kandidát Nobelův cena míra Václav Havel
-zdůrazňovat geopolitický bezpečnost sovětský teritorium výhoda východní Evropa případný sovětský útočný plán sanitaČní role oblast jít pronikání západní ideologie sovětský společnost
-veřejný bezpečnost oznámit vánoce obec okres nalezený studně etá zavražděný žena
+version https://git-lfs.github.com/spec/v1
+oid sha256:45cae6791e5065f9b8f4e02abf378c755e142f13d1b020e889b3961a6caa04a8
+size 518

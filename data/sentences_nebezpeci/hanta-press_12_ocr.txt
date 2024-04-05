@@ -1,1 +1,3 @@
-mít oprávněný pocit vrba potřebovat potřebovat vypovídat šrám život působit koutek paní Piskáčk moci chvíle odhodit maska obnažit nebezpečí obava zneužití moci konec stůl závodní jídelna povídat sen plán nový výtvarný výboj dobytí pevnost kultura získání titul král grafika další oblast umění absolutní vítězství
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d3e8291ad6aea05e89fce11126fa2984f996e70aecbb078785a702cd412557
+size 356

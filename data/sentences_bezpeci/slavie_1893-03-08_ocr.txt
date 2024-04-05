@@ -1,1 +1,3 @@
-sousední chodba přikvapit horník Schnth dopravit zraněný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:991ebb12a25d8e66bbfc48ecceac65f68216a9396d830772f532f3be3f02a10d
+size 72

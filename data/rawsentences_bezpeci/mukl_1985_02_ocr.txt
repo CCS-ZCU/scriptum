@@ -1,1 +1,3 @@
- Není jim zadost, že pronásledují a bombardují pomalé, těžce se vlekoucí karavany uprchlíků - většinou žen a dětí - snažících se zachránit holé životy v bezpečí Pákistánu a Iránu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c91bdc155ed484a4da9bac3dcb08152d16c0ea372a4cd94269ff5042fe833a0
+size 207

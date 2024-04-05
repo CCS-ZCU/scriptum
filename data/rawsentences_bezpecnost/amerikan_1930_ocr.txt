@@ -1,1 +1,3 @@
- O velice zajímavé té jízdě pacifickou drahou řeknu jen tolik, že při všem myslitelném pohodlí a se vší bezpečností ve vlaku, jelo se nám jako na výlet, třeba do takových ohromných vzdáleností a v tak divokém okolí, nepřetržitě celé dva dny a jednu noc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:787fa6f254ea51177c39ec045526c18d7427a41baf26c92139ef2f540f08e4bc
+size 282

@@ -1,3 +1,3 @@
- Fakt, že národ musí zajistit pře- devším své vlastni bezpečí a pak tepr- ve přemýšlet o tom, co na to řekne svět.
- Smyslem sovětských smluv je vytvo- řit iluzi bezpečí pro příští oběť.
- Ne- bezpečí zkresleného pohledu hrozí však i z druhé strany.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c24a734d4b958a9552a6e05649c6d178ffbfe3fb22e223e81b62d1f35ebcd8aa
+size 205

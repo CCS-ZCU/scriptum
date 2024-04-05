@@ -1,1 +1,3 @@
-zdůraznit orgán Československo muset pochopit nebezpečí zařídit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17ee6f7f010b73d29770e196e88959da7464459459d6e2630d626dea1a6975d
+size 71

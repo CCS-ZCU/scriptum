@@ -1,1 +1,3 @@
-” ropě a vyhnulo se tím rozvíření nové diskuse o tom ve vlastních řadách, ale nicméně se vyslovilo pro dokonalé uplatnění závěrů helsinské konference o evropské spolupráci a bezpečnosti — závěrů, ke kterým nakonec patří i otázka lidských práv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7caf36fd1854a8d32ddeefd2d7fe93aa1ac69962eb209a5b5838c8a5c7a9ea12
+size 278

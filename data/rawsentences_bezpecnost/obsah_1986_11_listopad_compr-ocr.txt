@@ -1,3 +1,3 @@
- Jenže, kdyl , jsem se dostavil na místo srazu, tak mě tam místo něho čekala Státní bezpečnost.
- Ifohl to být středně úspěšný menší hoteliér, ale i okresní soudce, před jehož stolici se zloději těší, tlumočník, těsnopisec, sekretář v ženevském Paláci národů i vzQělaný a bohatý akcionář, který obratně nabytých zisků užívá k uměleckému sběratelství a v zájmu bezpečnosti se maskuje ubohým benortem.
- Jak je to dávno, co musel vídeňský Burgtheater odříct hostování v hoskvě, protože sovětská strana trvala na tom, aby byl ze zájezdu vyl^en český herec Pavel Landovský? Mělo se mluvit o všech koších helsinského závěrečného ak- ✓ • tu, ale, jak už to bývá, mluvilo se hlavně o lidských právech, do diskuse o odzbrojení a bezpečnosti se nikomu zvlášt, nechtělo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b70b30f259bb50579fbed47bce619d36353ff3fc1f4de75dd1e9e265666720
+size 854

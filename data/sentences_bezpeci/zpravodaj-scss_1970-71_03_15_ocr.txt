@@ -1,1 +1,3 @@
-sedět teplouček bezpečí budovat kapitalismus konsumovat učit říkat ezo curyšský přízvuk lidé jetovat vzdávat vzpírat rozkládat sovětský pacholek morálka napadat pražský rádio mít pravda pravda smetiště patřit
+version https://git-lfs.github.com/spec/v1
+oid sha256:95a638d366ac910bbab98fec7d191d2c7c5d8dfa3f4b71a68a37f31900787ccb
+size 231

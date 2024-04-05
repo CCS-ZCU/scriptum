@@ -1,1 +1,3 @@
-technický stav stroj provádět nesmírný pečlivost přesnost zapřít Swissair zrodit země hodinky
+version https://git-lfs.github.com/spec/v1
+oid sha256:0932b235c9fb004b5204d93ebbc6dbb4f0629faac8ce896ecef0c54c902b5743
+size 104

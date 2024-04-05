@@ -1,9 +1,3 @@
-, a hned clodal, hrozí vám lam ne- bezpečí.
- Rozuměla bezpečí i nebezpečí ve zvucích.
- Jen pokud je uvězněn, je v bezpečí.
- (Přestane se hádat a pokusí se Hejhalovi promluvit do duše) Hejhulo, to, co cítíš jako bezpečí, to jsem pořád ještě já.
- Kdo nemá Jistotu, ten se uchyluje aspoň do bezpečí.
- Ale kdo má Jistotu, ten už na bezpečí to- lik netrvá.
- Právě v téhle tvůrčí posedlosti nalézáme vnitřní jistotu, bezpečí a snad Štěstí, když tak mnoho jiných věcí v životě krachuje a když zůstáváme nakonec sami, tváří v tvář sobě.
- Usmál jsem se, když jsem si vzpomněl, jak Rand je v bezpečí na fakuli a jak Zenkl asi balí.
- Na okamžik zahlédne do třípatrové hloubky pod sebou, zatočí se mu hlava a ochabujícími svaly pravice se střelhbitě vtáhne zpět do bezpečí pokoje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e65dc4be8296fcdd8e61b9c13b705dfdcb51cf865f3957716f447fab9ca8397
+size 808

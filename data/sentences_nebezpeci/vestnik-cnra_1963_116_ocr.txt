@@ -1,1 +1,3 @@
-učinit chvíle opuštění zrada strana západ chvíle nebezpečí Československo napadený Polák Maďar bojový silo rozlomený zrada voják sudetoněmecký reakční slovenský československý síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdfebb57e6adbbfb87baf3a684bf88520efdcdf1ae60b5bfd20d5f7e3c749a99
+size 205

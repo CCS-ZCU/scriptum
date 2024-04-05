@@ -1,6 +1,3 @@
-sovětský salámový taktika účinný západní intelektuál soustřeďovat pozornost literární pseudoproblém donismus spotřeba český emigrant zastřít reálný nebezpečí rusifý kační strategie
-zboží hrozit nebezpečí falešný paragon evidovaný přijít
-nárok vzrůstat zdát nebezpečí hrozit
-prodat ukradený kompot hrozit nebezpečí přijít reklamovat kvalita
-automobilní součástka náhradní díl nebezpečí hrozit
-chudák vedoucí moci vytáhnout obchod pata hrozit stálý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:94abc6c3c07c759388701a605db095ad07dfdc4f97ae8e6eb4b7f297b7f1d9f8
+size 518

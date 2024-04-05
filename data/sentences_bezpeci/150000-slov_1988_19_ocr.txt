@@ -1,4 +1,3 @@
-člověk mluvit moci spojenec konzervativec zahraniční politika vědomý sociální stát odpovídat základní lidský potřeba bezpečí slušnost
-pravda žid pronásledovaný jiný evropský země nacházet doba reformace protireformace století útočiště bezpečí Polsko
-dokazovat odmítavý postoj motivovaný jít vlastni bezpečí
-hovořit boj společenský skupina právo nazývat národ snaha dozrát dosáhnout národní bezpečí prvek sebejistý politický identita kulturní autonomie homogennost obyvatelstvo vymezený bezpečný hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:493bdc6a5d6e96a46697c43c9cd3c37625a62614ab602e27ac50f77acbe863df
+size 558

@@ -1,1 +1,3 @@
-moci psát překrásný dojemný stockholmský zážitek bezpečnost Jiřík uvědomovat vystřelený kotouč spoluhráč modrý čára končit sovětský branka prožívat žít Československo milejší seběsenzačný dokumentární příhoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:e12fa66ba283e9f4aac5dd04a5d99f14d41e3e332f495cb293bbae0ae87f89b2
+size 246

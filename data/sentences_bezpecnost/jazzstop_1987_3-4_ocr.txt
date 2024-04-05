@@ -1,2 +1,3 @@
-září řádný oprávnění bezpečnost rekreační chalupa
-člen výbor sekce jednat UKVČ minulý týden předvolaný bezpečnost poučený podmíněný trest moci proměněný podmíněný vzdát aktivita sekce podobný situace jednání poukaz zmíněný postup skončit
+version https://git-lfs.github.com/spec/v1
+oid sha256:295428d69d89b345892da30ae20d7e8a5e402699974d6484f56fed0061382726
+size 277

@@ -1,3 +1,3 @@
- V duchu Pařížské charty chceme usilovat 0 novou kvalitu helsinského procesu, k čemuž by nás mohla dobře inspirovat 1 okolnost, že byl do Prahy umístěn stálý sekretariát Konference o bezpečnosti a spolupráci v Evropě.
- Vedení a etická komise Výzkumného_ ústavu traumatologického a speciální chirurgie v Brně dospěly k těmto závěrům: "Hlášení z dispečinku Veřejné bezpečnosti na chirurgickou ambulanci ústavu o tom, že bude přivezen postřelený desátník základní vojenské služby Z.
- Během těchto tří minut se dostavil příslušník Veřejné bezpečnosti a oznámil službu konajícímu lékaři, že přivezl postřeleného vojáka.
+version https://git-lfs.github.com/spec/v1
+oid sha256:987cf8ad47716361e3df98f39afc060baa72b175d91e49749c3c8ea3fec0e9ab
+size 687

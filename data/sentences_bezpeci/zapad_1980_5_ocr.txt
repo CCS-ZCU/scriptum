@@ -1,1 +1,3 @@
-pokusit paralela drzost okres velký Kapušan řeka Bodrog bezpečí lok vzepřít celek osud celý svět povést opovážlivý štěstí přát
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f9773deefff6315888b917c9b0371a8e62ccf46ad86c031b1fc374a05e182a
+size 145

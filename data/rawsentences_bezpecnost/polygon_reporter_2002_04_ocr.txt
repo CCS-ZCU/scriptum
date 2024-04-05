@@ -1,2 +1,3 @@
- Rozhodně by bylo pro demokraty takticky výhodnější vyvolání vládní krize kolem Mar- shallova plánu než později kolem sporu o to, kdo bude mít pod kontrolou osm důstojníků Svazu národní bezpečnosti.
- A zaznamenejme i další zajímavost Vnučka Vojty Beneše, a tedy praneteř Eduarda Beneše, byla manželkou známého amerického politologa, profesora na Harvardu a poradce pro otázky státní bezpečnosti prezidenta Jamese Car- tera, v období 1977—1981, Zbigniewa Brzezinského, narozeného roku 1928 v Polsku, který se v roce 1949 stal americkým občanem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:819ccca683bcdf9df9b70f86dd2a068c68492549ae6d56f47285183a1c1a69a1
+size 586

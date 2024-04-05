@@ -1,2 +1,3 @@
-pětatřicátý rok vydat nistcíký internacionál heslo tvořit země ohrožený fašismus lidový fronta
-dovolený prohlásit president spojený stát přesvědčený systém zachovaný mít úspěch ohled oběť vyžádat ohled nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad34a689bd582ff697f8e9bc5888faba0602cd42b90190a42f1eccd86bc993a6
+size 248

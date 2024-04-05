@@ -1,4 +1,3 @@
-duben hlavní předmět jednání nebezpečí komunismus pronikat krajanský řada tragický dnešní postavení československý národ vůle nalézat hrubý znásilňování strana nepřítel Amerika
-rozhodnutí výkonný výbor otiskovat část zpráva úřadující místopředsedkyně Vlasta Vráz vyjádřit zásada rada muset zvýšit činnost malý pochyba dít vlastní dům americký břeh daleký svět dokazovat světový nebezpečí komuhismus šířit
-ČSNRA účast československý letec Kuba výcvik Kubánec Československo vyzbrojení Fidel Castro spojení československý vyslanectví Washington obrovský podvratný činnost americký pevnina dávat pravda nebezpečí doléhat
-mluvit stejný théma nebezpečí komunismus bojovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:454c68e6bfe1566658a4a77b1b5070b0838e51298aaa6a7ccb61d7922918b49c
+size 753

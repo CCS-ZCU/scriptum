@@ -1,2 +1,3 @@
-role sehrát hlavní účastník bývalý kancléř Brandt bývalý ministr vnitro Genscher vůdce demokratický parlamentní frakce Wehner šéf úřad vnitřní bezpečnost Nolla
-zákon základ úkol chránit plynulost bezpečnost železniční provoz objekt zařízení veřejný pořádek bezpečnost osoba majetek obvod celostátní dráha
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd9d782195deee4ca01258b5b2b5255a18871507e62cdc8b015f8c4f7aad82a
+size 345

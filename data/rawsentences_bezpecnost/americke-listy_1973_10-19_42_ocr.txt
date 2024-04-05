@@ -1,2 +1,3 @@
- světovou válkou i po ní Arabové odmítli, stejně tak i návrh Rady bezpečnosti OSN z roku 1947.
- V současné době však jejich soustřeďováni ve sběrném táboře v zámku Schönau představuje jejich ohro- žení, protože Rakousko není s to zajistit bezpečnost objektu před útoky teroristů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a4a1745971c67d5a651859a282b8905b0031cda7dd028b1b0376f9ada153c4f
+size 310

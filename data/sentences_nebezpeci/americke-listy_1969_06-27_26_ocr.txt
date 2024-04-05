@@ -1,2 +1,3 @@
-manévr umožnit zažehnat nebezpečí diskuse Československo
-zesílený ruský námluva diktovaný nutnost zabezpečit klid východní vropa doba nebezpečí hrozící konflikt Ruda Čína
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b1b74fe73c2eef086aac9eafeeb1c413493755c086e4cf1042ccea8c92bc26c
+size 192

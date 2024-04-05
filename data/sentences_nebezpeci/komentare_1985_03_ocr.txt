@@ -1,2 +1,3 @@
-válečný nebezpečí ležet západ východ
-dopis účastník kongres íeruggie napsat nedostatek spravedlivost čestnost mezinárodní vztah nedostatek vpravdě demokratický kontrola vláda zredukování jednotlivec úloha objekt vyvolávat neustálý nebezpečí válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:f22be7cdeb22b5f5979f248837e0cbde7415c8e384a0d06e8bcbe16263d38d87
+size 274

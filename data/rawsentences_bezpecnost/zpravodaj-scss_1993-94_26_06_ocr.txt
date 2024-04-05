@@ -1,1 +1,3 @@
- Ostatně u mnohých návrat je nemožný proto, že nemají kde bydlet, zatím co v jejich rodinných domcích dosud bydlí různí nomenklaturisté a dokonce i jejich bývalí mučitelé z řad Státní bezpečnosti! Z.
+version https://git-lfs.github.com/spec/v1
+oid sha256:434aa0c0b866468f70fc8ef522ae8c28a9d624707e0295a7fd496c8caaf075f0
+size 222

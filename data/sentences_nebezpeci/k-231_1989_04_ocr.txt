@@ -1,1 +1,3 @@
-týkat vzpomínání minulost vzpomínat nebezpečí komunismus svinstvo zonadý páknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:5523df2a2b8593f6226591cb0785d1013ec67947b6aa29635718e8d4353d945b
+size 84

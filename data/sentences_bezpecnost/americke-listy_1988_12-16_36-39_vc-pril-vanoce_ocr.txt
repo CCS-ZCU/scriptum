@@ -1,1 +1,3 @@
-charta usilovat vystoupení Československo varšavský smlouva ohrožovat bezpečnost stát základ zřízení
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d6392c85145fc12c003d7faf54dc2bbd6fb0214300911ca2750f023516004e9
+size 112

@@ -1,3 +1,3 @@
- režimu je v příkrém rozporu se zásadami, za nichž má dojít k připravované konferenci o evropské bezpečnosti, o níž právě socialistické státy tolik usilují.
- — Podle zpráv denních li- ' 'šťů" vyšetřuje pražská Veřejná > bezpečnost 291etěho občana, protože se nezákonně obohatil o 60.
- Cílem je dosáhnout, aby každý občan republiky cí til osóbní odpovědnost za bezpečnost socialistické vlasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b82d5612ed08e5ea203e1682acf8c7b359fc7231488fe7d8ec310c5734b67ff
+size 442

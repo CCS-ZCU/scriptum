@@ -1,3 +1,3 @@
-trvající nebezpečí radioaktivní spad
-český odborník atomový eneryie Jan Bělohlávek uvádět verze vysvětlovat překonaný trvající nebezpečí radioaktivní spad
-první hodina den možný sovětský blokáda zpráva místo katastrofa možný obyvatelstvo informovat možný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:727763a5f3ceabeb80780f33d0fc74f1faa82c992b704467c5b705cb0148e75a
+size 301

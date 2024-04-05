@@ -1,4 +1,3 @@
-sestra muset odejít rostlinný výroba zakládající podhorský JZD válka prodělat těžký ledvinový choroba stálý nebezpečí nový komplikace zajímat zajímat sestra talentovaný matematička
-hořet sousedův stodola vážný nebezpečí rozšíření požár celý vesnice
-bolševictví Kramář vidět strašný nebezpečí křesťanský morálka přestat věřit vítězství věc spravedlivý
-věřit léta společný svazek válka zanechat společný pouto vzájemný poznání doba nebezpečí strádání
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba4a7efefb77942d414dedccd7265ae431c4c8d4cebe1ca76e395573e3fa458
+size 523

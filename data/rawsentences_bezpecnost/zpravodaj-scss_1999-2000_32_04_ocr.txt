@@ -1,1 +1,3 @@
- Preferuji solidnost a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f2351062635c253d1bc3402462d2ad71b0c545f70a1c1d700d4817a6b3cf802
+size 36

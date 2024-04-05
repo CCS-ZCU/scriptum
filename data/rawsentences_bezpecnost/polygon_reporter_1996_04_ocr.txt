@@ -1,2 +1,3 @@
- Má-li ochranku, nemusí ho zajímat bezpečnost.
- tím však nejsou dotčena práva, jež st- átnímn orgánům v těchto směrech příslušejí podle platných nebo budoucně vydaných zákonů z důvodů veřejného pořádku a bezpečnosti státní i účinného dozoru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ec4a1f4010a1c240a0959b3fa68560de0a5786397c4b4c5b741c90aa46b2fc
+size 278

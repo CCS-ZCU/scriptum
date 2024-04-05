@@ -1,6 +1,3 @@
- Už nyní má Bezpečnost dostatek “průkazního materiálu” proti kterémukoli z nich.
- A právě ty šeky prý přivedly polskou Veřejnou bezpečnost na stopu pácháte lů: Z.
- List popisuje podrobně jak ustavení vyšetřující komise mělo být jedním z prostředků, kterými bojoval Gierek proti nejmocnějšímu rivalovi na vedoucí místo ve státě, bývalému ministru vnitra a tedy i šéfovi Bezpečnosti generálu Moczarovi, Vraždou se věc nevyřešila, Gierek pokračoval v čistce, zbavoval Moczarovi přívržence vlivných míst.
- Nějak se nám vrací vzpomínka na studenta Milana Choce, který “ se přiznal” k vraždě majora Bezpečnosti šrama a byl rovněž oběšen.
- London tvrdl, že se přiroai teprve tehdy, když ho usvědčili jiní, jeho íramanrádi z lEterbrigády, kteří se_ z trockistické řřnwvsH referentovi Bezpečnosti poměrně brzo vyzpovídali; Mavně Závodský, který jako pracovník tajná, poiicie včas poznal, že každý odpor je zbytečný* A jak se to dělalo? Takto třeba: “ Obkličuje mě svými sylogismy: “ Kdo peče chleba.
- A protože se syn bojí o jeho (své) peníze a o jeho (svou) bezpečnost, dodá této vzácné ženě několik udání, celkem vymyšlených: první na bankovního presidenta - to ze msty za to, že se od něho po jeho antisemitském projevu v Repre- sentačním domě pohrdli-  -8- K L A S D O M O V A 26.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a72f5e6fa743afcfbe8a457734275a61099d2738c7cba8cae5e7bf881cb76cb
+size 1416

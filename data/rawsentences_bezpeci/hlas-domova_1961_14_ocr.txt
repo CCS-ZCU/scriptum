@@ -1,2 +1,3 @@
- června oznamuje, že úroda je pěkná, ale je ne- bezpečí, že zůstane na stromech.
- Jejich přítomnost dodávala našemu výletu punc důležitosti, ne pocit bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf1e5d2687ef3449c74abb1ec8e48cbec01c8bb9f18a9520188bfe86d98a0d6
+size 87

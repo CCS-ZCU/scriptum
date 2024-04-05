@@ -1,1 +1,3 @@
- Nespokojenost s tímto stavem a jeho důsledky vyjadřují stále více i mnozí občané, kteří si jejich příčiny neuvědomují nebo z obav a bezpečí své a své rodiny na ně nechtějí poukázat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:205ca3f584940bbde34dddddf153d293a1bcad631a27ee0905bac5e4f34eb113
+size 207

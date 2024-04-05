@@ -1,1 +1,3 @@
-hudba obraz soukromý výstavní síň ilegální časopis zbraň
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e62123f0e94686eac87e0f29ffdca42902ae5c72f23d1f9edb32d8221585845
+size 66

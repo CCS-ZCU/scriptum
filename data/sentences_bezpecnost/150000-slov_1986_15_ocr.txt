@@ -1,10 +1,3 @@
-Brán muset překonávat strach bezpečnost bojovat překonat děs zůstat rodný půda
-evropský levice existovat slibný cesta vést zděděný kolej hraniční pásmo nový odpověď nový otázka moci Evropa přispět vytvoření partnerský vztah východ západ nastolený bezpečnost moci zahájit cesta evropský mírový uspořádaný
-moudrý postup zvýšit bezpečnost ekonomičnost atomový elektrárna pokračovat výzkum vyčerpatelný zdroj energie
-věřit bezpečnost existující atomový elektrárna souhlasit bezpečnost nutný zvyšovat mít dojít USA oživení průmysl výroba jaderný energie mírový účel
-základní argument článkovat bezpečnost křehký západovýchodní nex značný území vnitřní východní Asie stávat synonymum ochrana transsibiřský železnice mít pochopený rusko sovětský strategický dilema geopolitický smysl základní význam
-mluvčí vojenský velení ministr obrana Forrestal napadat židovský lobby říci schopný ovlivnit politika míra ohrožený národní bezpečnost
-základ myšlenka židovský stát potřeba žid zajistit bezpečnost Žid křesťan místo prokázat věc lze důvěřovat
-mít odpovědnost bezpečnost židovský stát řídit vojenský úvaha marný snaha získat dobrý vůle Arab možný dosáhnout
-ukončení podpora určitost zbytný předběžný podmínka celkový narovnání Izrael Sýrie
-úspěšný obrana Izrael rok vyvolat velký pokušení Žid uplatnit nárok suverenita velký počet Arab zpochybnit oprávnění narušit bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e07a627595e528be3c619e2beaf3490fb37b725e20362abefd06915764cd31f
+size 1547

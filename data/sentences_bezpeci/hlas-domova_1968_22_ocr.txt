@@ -1,1 +1,3 @@
-srpen vést útěk starat hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7d6af1359e88f92e9945dd38bf7defa264375773d3f8a8e231df2cd82008ab
+size 34

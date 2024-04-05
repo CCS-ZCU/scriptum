@@ -1,2 +1,3 @@
-nebezpečí dělat velký kapacita výrok jít krám odbyd tvrzení literární druh vysvětlit chtít
-léta Elohista pojednávat skutečnost zdůrazňovat role Mojžíš zakladatel národ zdůrazňovat exoda účastnit celý Israel upozorňovat nebezpečí Idolatrie
+version https://git-lfs.github.com/spec/v1
+oid sha256:e857f1a6e9847b69a5bb5f61b30f6659c6b258891ba8a2a7c52440013c5b50fd
+size 268

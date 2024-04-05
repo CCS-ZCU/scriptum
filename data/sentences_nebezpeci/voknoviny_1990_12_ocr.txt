@@ -1,1 +1,3 @@
-tančit uvědomovat nebezpečí sílicí hudba začínat vzpírat poslední síla stuh roztrhávat zbylý zamotavat
+version https://git-lfs.github.com/spec/v1
+oid sha256:191b17c73ddc9292447cda9b57e50555f9ba207b9a050ac381631fe1abd5e324
+size 116

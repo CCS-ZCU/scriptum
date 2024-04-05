@@ -1,1 +1,3 @@
-Theodore Roosevelt hlavní představitel imperialismus doba mít předtuch nebezpečí rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd9461bf8df89e410785fe5bc33e585250c5f8f70f006c43ccff3d198ec7801
+size 91

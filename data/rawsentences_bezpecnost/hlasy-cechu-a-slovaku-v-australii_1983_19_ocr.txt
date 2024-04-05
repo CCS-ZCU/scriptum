@@ -1,2 +1,3 @@
- 1981 visely v pracovně bezpečnosti v Klimentské ulici obrazy Stalina a Dzeržinského.
- Projekty zabezpečující zdraví a bezpečnost pracujících přistěhovalců .
+version https://git-lfs.github.com/spec/v1
+oid sha256:45a1cb9822e9077e97991ca719cb8cc5a4caa31a26cbae177ec9408fa2275cc5
+size 173

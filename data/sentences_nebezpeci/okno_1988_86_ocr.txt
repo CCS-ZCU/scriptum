@@ -1,4 +1,3 @@
-září poledne dostat Beneš druh socialista fašistický kravál kontrola zažehnaný bezprostřední nebezpečí zdát důsledek jasný silný koaliční strana trčet krk velezrádný spiknutí ležet dlaň demize kapi tulantský vláda ráno den Beran Preiss kumpán zatčený
-moci pochyba nebezpečí hrozit
-Pele pokusit výskok oblast skrývat předvídaný nebezpečí léčka skok tma
-obrátit památkový úřad město Paříž podařit ukrýt řada socha bust pomnek vypuknutí válka hrozit nebezpečí zkušenost rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:44333e59977180c3e7a73d968739791768692b16bd5de66f78bb1e074371059f
+size 529

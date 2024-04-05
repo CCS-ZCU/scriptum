@@ -1,1 +1,3 @@
-rozvažovat bezpečný poslední záchvěv násilí dokonávající režim nebezpečí osvobození stát naproský zbabělec
+version https://git-lfs.github.com/spec/v1
+oid sha256:50fac4218e5a125893d8e4effe8b343200101e8ae41e1afba110bf621ebeb98b
+size 125

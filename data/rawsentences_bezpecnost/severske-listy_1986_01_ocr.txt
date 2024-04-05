@@ -1,2 +1,3 @@
- Všechny vlády dotyčných zemí, mimo Nicaraguu, označily akci za levicovou maškarádu a vétšinou zakázaly prúchod, protože účastníkum nebylo možno zaručit bezpečnost pred nepŕátelsky naladéným obyvatels- tvem.
- Podmanený svet: Začátkem ledna zatkla polská bezpečnost jednoho ze tŕí vudcu pod- zemního vedení Solidarity Bogdana Borusewicze.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0db2a22dfe94b1d23c8f734e2567ff482c32aa58ef3df560e6433fe7be72a4d
+size 370

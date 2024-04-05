@@ -1,1 +1,3 @@
- o zpřístupnění svazků, vzniklých činností bývalé Státní bezpečnosti (viz Zpravodaj č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1b064cb204b855a9ab6474b06e976c2dc134d6379f69f1e3cea469767abab9f
+size 101

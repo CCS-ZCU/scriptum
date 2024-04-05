@@ -1,3 +1,3 @@
-září letošní rok provést bezpečnost domovní prohlídka clen výbor sekce zabavit korespondence ministerstvo kultura jmenný seznam člen rukopis
-muset zmizet ministr vnitro Barák hrožovat postavení prezident Novotný dávný čas titul ozdobený Obzin činnost ohrozit bezpečnost samotný Husák
-podstata státní bezpečnost původní název zachovat národní ministerstvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:e363cbd013628d409cc220ad6008ce1fa098b8e2c8d00df40b3e59150da7b0a0
+size 388

@@ -1,2 +1,3 @@
-další doklad nebezpečí československý občan ochotný podstoupit moci svatý žit
-dovolávat výsledek volba lidé vědět vzniknout mít určitý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4271d52ba1e6bc18c995aed575eeee58c9beb51899d580c68d876ef8ba531852
+size 165

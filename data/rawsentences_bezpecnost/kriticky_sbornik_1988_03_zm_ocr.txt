@@ -1,1 +1,3 @@
- Smlouva se Sověty bude však také na- ším zajištěním, poněvadž bude dlouho trvat, než se po válce podaří ustavit novou společnost národů se systémem kolektiv- ní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:417f481f606b9d6928a448ba1877eaac26f951683612795b8b5d0e1a5dae9d58
+size 195

@@ -1,1 +1,3 @@
-e Československo dostálo svým závazkům daným Radě bezpečnosti OSN a nyní již prakticky má připraven k použití prapor rychlého nasazení mírových sil OSN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c407cf680dd5f1a171ef825081832ed6c01990de1da22c7746f2a1b7cfad2e9
+size 171

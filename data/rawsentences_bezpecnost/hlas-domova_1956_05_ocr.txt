@@ -1,1 +1,3 @@
- Nakonec jí universitní senát zakázal "v zájmu její vlastni bezpečnosti” účast na dalších přednáškách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8af2a01e109ec27f7b86fb92f588eb77738d2fb0545866cf5da7699a3d3d6a78
+size 120

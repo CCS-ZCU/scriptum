@@ -1,1 +1,3 @@
-manipulování příroda moci zvýšit nesčetný nebezpečí opěvovaný globalizace rozpad socialistický blok přinést
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c5027d1abb46ec2833d18dbac0114127760027f96e89eb0f8bfaed983a25185
+size 123

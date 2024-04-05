@@ -1,4 +1,3 @@
-přehled situace západní Evropa dosavadní jednání evropský bezpečnost spolupráce věnovat hlavní pozornost snaha vyjádřený nadpis
-neutralizace spočívat mezinárodní právo vícečlenný dohoda ohled mezinárodní bezpečnost určitý území postavený režim stálý neutralita
-přípravný práce svolání evropský konference bezpečnost spolupráce
-státní bezpečnost propašovat zvláštní letadlo letět Husák Bělehrad časovaný bomba objevený zneškodněný zpráva hovořit důstojník státní bezpečnost zatčený
+version https://git-lfs.github.com/spec/v1
+oid sha256:25a8e187194a5f7573b283dbefae444e620c7000e5fe4aceca10be4569634f4b
+size 548

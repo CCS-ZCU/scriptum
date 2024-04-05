@@ -1,2 +1,3 @@
-národ zůstávat obsazený cizí armáda nebezpečí ohrozenost velký bezprostřední sousedství armáda západ východ pomezní čára stát blok těsný sousedství rok
-upravený knížečka pouhý výstraha výkřik smrtelný nebezpečí komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:b49b5245c238b469f551a627c0899f14074721ba1fd25898b7bd40714034ea60
+size 255

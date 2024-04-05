@@ -1,4 +1,3 @@
-moci existovat bezpečnost hospodářský prosperita lidé hladovět vykořišťovaný zbavený základní občanský politický právo
-havarijní bezpečnost jaslovský Bohunice tvrdit odborník charta zajišťovaný krytý kritický část primární okruh lze unikající radioaktivní částka odčerpat havarijní plynojem
-Karel Havlíček Borovský přijít veřejný bezpečnost odvézt exil Tyrol
-teologický moci ohrozit bezpečnost stát postavení vedoucí strana
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5f9862cf525b23aed30788c80f8138702bcd17f1d401ba25c76f1701c1d4e7
+size 475

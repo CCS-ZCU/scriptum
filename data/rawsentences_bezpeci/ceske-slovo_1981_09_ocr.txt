@@ -1,2 +1,3 @@
- Posléze však se mu podařilo dostat se za hranice a jeho rozsáhlý archív je také v bezpečí.
- DRÁŽĎANSKÝ PLATÍ JEN V NĚMECKU KAŽDÝ HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128fcaa60f40b5ebc2d3a8252e449f3252a32c13a8d6addf0b352467d57343e2
+size 175

@@ -1,4 +1,3 @@
-laviny Krkonoše Jeseník bezpečný Beska dech zatlačit chvíle pozadí vážný nebezpečí hrozit chemický zplodina rozházený větro proměnivšet místo orkaný Jihlavsko vyvrátit krychlový metr dřevina
-tflffclx nebezpečí Pacifik Jindřich Nermua umělecký reprodukce barva štětec potřebv umělec sklad velký výběr
-vidět chtít hrozící nebezpečí blízký sousedství
-hazardní hra oheň
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69177e162417439de252e26e89e91f006591ffa482d20adb71da6e9b285c87d
+size 409

@@ -1,1 +1,3 @@
-vézt
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffdbe6880b8587a116d2ad7a2d0373a10b7f0a7a06f9654b05cba14195bcc8c
+size 6

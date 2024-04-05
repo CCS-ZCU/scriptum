@@ -1,1 +1,3 @@
-ustanovení varšavský smlouva vysvětlovat stát intervenovat vzít úvaha tvrzení přijít pomoc nebezpečí zvenčí najít varšavský smlouva článek
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a6e3d45e6672cdd0853ad7027f864b4b82397815887b10306f2530bca8dde0
+size 158

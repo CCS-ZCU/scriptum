@@ -1,25 +1,3 @@
- Členem nějaké polské ilegální skupiny nikdy nebyl a státní bezpečnost ani netvrdí, že by o tom měla nějaké důkazy.
- Pokud jde o počet osob zatčených státní bezpečnosti, činil v roce 1951 2.
- obviněni ze sabotáže v ekonomice, která si vymysleli příslušnici bezpečnosti .
- Tak sePelnář brzo dostal do presu, z jedné strany tísněn sovětskými poradci a jejich domácími pomahači v bezpečnosti, z druhé Husákovým příkazem k obezřetnosti.
- Bezpečnost z něho vyoperovala jisté, podle ní „kontrarevo- luční“ myšlenky a odevzdala je k uveřejnění v tisku jako objekty ze zneškodněné časované bomby.
- Státní bezpečnost o nich byla průbčžnč informována, protože se jich zúčastnil i Vilém Chvalovský, její agent už někdy z doby kol r.
- 180  „Všimněte si,“ dodává Bechyně, „že opírám náš vztah k SSSR nikoli o věci politické nebo stranické, nýbrž za prvé o věci nacionálni, to znamená o bytí národa, bezpečnost, hospodářství.
- Hledáme svou bezpečnost a jistotu ve svém vztahu SSSR a ostatním socialistickým státům a to bez ohledu na zájmy jakékoli strany v našem státě, protože jde o zájem obou našich národů.
- Hore v pánskom sídle boli úradovne bezpečnosti, dolu pod zemou v dávnych pivniciach na zemiaky boli improvizované väzenské cely bez kúrenia.
- Z toho plyne, že kdo byl zastřelen, stal se obětí důstojníků Státní bezpečnosti, která se kryla tím, že užívala transportérů s nápisy „Veřejná bezpečnost" n dokonce si příslušnici vybraných jednotek navlekli maskovací vojenské mundury, obyčejně přilíš malé.
- Hlavní úderná síla bezpečnosti byli právě ti vybraní surovci, u nichž se však k večeru toho dne proje- vovnlo jakési vystřízlivění, jakýsi morální šok, vzájemně si nadávali a dokonce už ani nechtěli jít kupředu.
- Na venek to bylo snadné: jako za dobrých časů Antonína Novotného byl tisku a rozhlasu dán příkaz „výrazně zdůraznit“ vítězství nad kontrarevo- lučními a kriminálními silami, vzdát hold bezpečnosti a milicím, přičíst toto vítězství „dělnické třídě“ a zdravým silám ve straně.
- Interně pokládal Husák za nutné prostudovat reporty a ověřit si, jak se postupovalo nejen v Praze, ale i v krajích a na okresech; záleželo mu na tom zjistit, zda bezpečnost mu nepře- růstá přes hlavu a zda „konzervy“ v aparátu strany si nezajištují neúměrné pozice v bezpečnostních složkách.
- Bezpečnost oplývala samochválou, barvitě vylíčila jak hrůzy kontratevolucc, tak hrdinné činy svých goril a doporučovala udělit vyznamenání příslušníkům speciálních útvarů a milic.
- O několik dní později předseda Ústřední kontrolní a revizní komise Jakeš to řekl naplno na zasedání tohoto sboru : předsednictvo je rozhodnuto nedovolit, aby mu "bezpečnost přerostla přes hlavu jako v letech padesátých“.
- máj, bojíme se každého veřejného setkání a pořád musíme mobilizovat bezpečnost.
- Pro náladu (ale proti stanovám) účastnila se plena odporná klakn řvounů vybraných z krajských a okresních výboru, stranických organizací v armádě a bezpečnosti atd.
- 227  Srovnala se ovšem hlavně tím, že čistky začaly doopravdy : ve stranických organizacích „odshora dolů“, v pražském „druhém centru“ (ani narychlo obrácený soudruh Matějka to nakonec nepřežil), ve státním aparáte, v diplomacii, v armádě, v bezpečností.
- 243  Uzavřením smlouvy o neútočení zajistila sovětská vláda bezpečnost své země a splnila tak svou internacionální povinnost vůči mezinárodní dělnické třídě : udržet a upevnit jedinou socialistickou zemi světa.
- Byli jsme zadrženi naší Státní bezpečností 277  — naži štátni bezpečnosti, kteří provedli to moje zadržení s tím, že během 2 hodin bude jasné, jak se se mnou má naložit.
- Či snad je možno v současném třídně rozděleném světě budovat socialismu a zabezpečit národní a státní bezpečnost izolovaně od ostatních socialistických zemí, jen pro sobe? A zejména když jde o tak malou zemi, jakou je naše ř Či snad není v nejvlastnějším zájmu našich národů plně se opřít o silného socialistického spojence ? Či snad někdo bude chtít tvrdit, že italským, francouzským, rakouským či jiným britským či jiným komunistům by se lehčeji pracovalo — i když dneska ještě mnozí z nich dobře nechápou, co se stalo 21.
-, ale v praktickém, reálném zabezpečeni všestranné jistoty a bezpečnosti svého lidu, všestranného rozvoje hospodářství n kultur)’, A takováto jistota nemůže být nikde jinde jen v socialismu a může být jenom po boku socialistických zemí.
- Pavel, o jehož Z PROJEVU DRAHOMÍRA KOLDERA NA ZÁŘIJOVÉM (1969) PLENU ÚV KSČ 291  polít, zaměření nebylo pochyb, tří týdny po dubnovém plénu, kdy se přijalo rozhodnutí předsednictva energicky a neodkladně rozdělit bezpečnost a vzít jí Pavlovi, tentýž Pavel nám dokumentuje v předsednictvu, kteří lidé chodí na franc.
- Jenom chci říci tolik : Jestli poukazuje, žc byla odvedena v železech, tenkrát byl její manžel Chmel — velitelem Bezpečnosti v Praze.
- stran NF); d) formulovala požadavky odstranění minulých nezákonností a vytvoření právních záruk polit, demokracie: svoboda projevu (zrušeni předběžné cenzury), svoboda spolčování n shromaždovaci, zásada dekoncentrace, dělby a kontroly moci (reorganizace bezpečnosti a vůbec složek ministerstva vnitra, nepřípustnost vnjtřní „politické policie", nezávislost soudů, kontrola.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0e8513efb565ac2e590239d4f49bd173ec4c31db7a217b0c8ed0874a88566b7
+size 5743

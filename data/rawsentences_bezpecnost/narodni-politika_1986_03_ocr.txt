@@ -1,4 +1,3 @@
-“ Karel Hrůza toho zřejmě lituje a Státní bezpečnost, jak víme, z toho často trestný čin dělá: narušování státního dozoru nad církvemi! Informace o církvích Kolik divizí md papež?  Druhá strana NÁRODNÍ POLITIKA Březen 1986 Systém raketové obrany SDI „Strategická rovnováha“ v praxi Ve své knize „Vojenská strategie“ zdůraznil sovětský maršál Sokolovský význam, připisovaný sovětskými vojenskými teoretiky počáteční fázi případné vojenské konfrontace.
- Domnívaly se totiž, že fakticky bezbranné zázemí obou velmocí znamená záruku vzájemné bezpečnosti, neboť tak zvané „zaručené vzájemné zničení“ by muselo odradit každého útočníka.
- Únosy v ČSSR Příslušníci pohraniční stráže a národní bezpečnosti, plukovník Viktor Gala a podplukovník Josef Šnýdr, byli vyznamenáni za statečnost.
- Když proti násilníkovi zakročila bezpečnost, jednoho z policistů pobodal nožem těžce a druhého lehce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d92be5df239d25222ce189b4b28908d21972e49360dcaf801ab97dcefdde913
+size 1004

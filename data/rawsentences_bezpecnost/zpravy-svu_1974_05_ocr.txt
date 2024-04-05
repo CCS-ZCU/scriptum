@@ -1,1 +1,3 @@
- Pavel Tigrid zahájil zajímavou přednáškou živou debatu na ■téma ‘‘Koníerence o bezpečnosti a spolupráci v Evropě; obavy a naděje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:028d4be6daa3d339c662f6a79384b4acc6ac7dcee21aa489d93170d95857b2dc
+size 149

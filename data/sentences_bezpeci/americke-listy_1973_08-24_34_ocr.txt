@@ -1,1 +1,3 @@
-prvý použít znalost nabytý vojenský služba proplížit žádost nadřízený rozkaz zmizet bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b119b820096affe9157b2a63cf225ee17dae3f0fd76b8964115944ccba18d04
+size 107

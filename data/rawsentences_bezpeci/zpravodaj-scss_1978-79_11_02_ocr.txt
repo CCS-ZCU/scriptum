@@ -1,1 +1,3 @@
- Jinak švédská přistěhovalecká politika i zde vychází z filozofie "trygghetu", tedy "zajištěnosti a pocitu bezpečí" a bolestný rozkol mezi rodiči a dětmi v emigraci se pokouší zpomalit a změkčit vyučováním dětí matěřštině.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc968e1ef31df86f5206c36c7fcaed8c884431dd7fff6b73a884e0631f5e6543
+size 251

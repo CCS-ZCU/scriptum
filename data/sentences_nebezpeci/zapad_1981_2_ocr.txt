@@ -1,1 +1,3 @@
-pochybovat klasik nebezpečí vědět
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ecdf440de57b7fa9d663d99ddd3f489d58a69c581ca424968f54618bfe1b55e
+size 38

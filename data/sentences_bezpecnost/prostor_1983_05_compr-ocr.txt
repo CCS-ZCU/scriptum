@@ -1,1 +1,3 @@
-síla vidět střední Evropa důležitý mezičlánek harmonizující element jiný východisko strategický klíč vlédnutí Evropa Bismark vyjádřit mít Čech držet Šach Evropa Palacký federatívni idea počítat humanitní poslání střední Evropa svoboda malý národ mít zaručovat bezpečnost velký Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:50aa829aa10cce465634d50bc246b59245489bf23fb3fadd180913a15e23771f
+size 324

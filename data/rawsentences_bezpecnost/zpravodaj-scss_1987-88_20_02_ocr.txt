@@ -1,2 +1,3 @@
- Každoročně varovala bezpečnost československé občany a nabádala je ke zvýšené pozornosti při^ proměňování ne právě malých částek peněz za dárky pro bližní v přeplněných obchodech.
- Strnulost přístupu nynějšího stranického a státního vedení v Československu k humanitárním otázkám se jasně ukázala v dosa- vadním průběhu následné konference o evropské bezpečnosti a spolupráci ve Vídni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd6f26e99d27a636d2908c5687d638ce17a0c6b2c5460b17bb1cc53a8eb63e1
+size 440

@@ -1,1 +1,3 @@
- Při spouštění člunů dohlíželi na pořádek lodní důstojníci s revolvery v rukou, ale neměli zapotřebí jich použiti, poněvadž ke skutečné panice nedošlo, a nebylo muže, jenž by se byl chtěl dostat do člunu, dokud nebyly všechny ženy a dítky, jež bylo viděti, v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc2662f2ae020fd6e3cf3a82692501945cc21ffd0f84579f3905275df52d2443
+size 301

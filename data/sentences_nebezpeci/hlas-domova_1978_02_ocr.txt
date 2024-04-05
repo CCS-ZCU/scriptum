@@ -1,1 +1,3 @@
-obnovení rada omyl zanedba podcenění komunistický nebezpečí mít napravený dávný změna stanovy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b940de1f5ae3ff47e06e5bcdf167b9d946842f1952b424539b35a0503632515
+size 423

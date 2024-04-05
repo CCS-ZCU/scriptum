@@ -1,2 +1,3 @@
- června 1989 STRANA 5 Organizátoři pátého ročníku Weidenských literárních dnů jim dali název "Československo - literatura sousední země" a v podtitulu tohoto názvu přidali ještě jako motto tato slova: vzájemně se poznávat, snažit se vzájemně si porozumět! Tímto důrazem se nevelké město v Horním Falcku pár desítek kilometrů od západoněmecko-československých hranic vpojilo do současného evropského kontextu, který se stále zjevněji pokouší naplnit konkrétními činy slova o bezpečnosti a spolupráci - jak se od proslulé helsinské schůzky stále citují, ale teprve v poslední době berou opravdu vážně.
- Vlivná soukromá americká organizace Committee on the Present Danger, zabývající se otázkami mezinárodní bezpečnosti, vydala zprávu, podle níž sovětské hospodářství nadále chrlí zbraně a vojenské vybavení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:000da723d5b686378f75cd45e9a6787877f8f2c367ee8451bce684940c36a4e0
+size 890

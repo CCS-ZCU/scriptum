@@ -1,1 +1,3 @@
-sovětský svaz tvrdit poskytnout vojenský pomoc soulad ustanovení smlouva přátelství Afghánistán chránit mir bezpečnost jihovýchodní Asie přemíř asistovat československý východoněmecký sdělovací prostředek
+version https://git-lfs.github.com/spec/v1
+oid sha256:1923589672ad26ad5ce16b035c5872c495f54fb0313184a7cbad9d3bb7ca8895
+size 229

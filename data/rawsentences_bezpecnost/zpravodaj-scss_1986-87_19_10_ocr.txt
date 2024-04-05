@@ -1,1 +1,3 @@
- Státní bezpečnost sleduje jejich osudy nikoli z účastného zájmu, ale proto, aby dokázala, že i emigrant se musí živit prací, v obchodech se platí penězi a nikde není bájna země, kde by každý dostal zdarma pohádkové předměty - od oslíčka, jenž po otřesení sype zlaté dukáty, až po stoleček, který se sám prostírá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4330233a2bbbb9fbf0a4bb8262ab9fa199b67ede8874cd99e82582b459991f69
+size 350

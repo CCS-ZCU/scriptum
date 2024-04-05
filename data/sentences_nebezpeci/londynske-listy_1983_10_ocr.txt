@@ -1,1 +1,3 @@
-Československo vydatný přispění východoněmecký polský soused stát zdroj smrtelný nebezpečí celý Evropa shnilý voda zkažený vxduch ^nebera ohled ostnatý drát minový pole hranice překračovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:b39729435bb3bd3cb61d7eb1023d3b514083843f4056ff4db9c2ceb4614b114c
+size 211

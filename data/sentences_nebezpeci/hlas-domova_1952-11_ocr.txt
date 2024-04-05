@@ -1,1 +1,3 @@
-ministr financí Eadden očekávat velký nebezpečí válka rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:eade1020f37da374cc4315b8f57ed3183114cf7b505cea5f583ca6e279b1be04
+size 65

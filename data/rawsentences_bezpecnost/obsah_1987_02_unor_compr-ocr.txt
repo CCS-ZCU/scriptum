@@ -1,3 +1,3 @@
- Už na několika místech byli potrestáni pracovníci Bezpečnosti, kteří postupovali v rozporu se zákonem.
-Podřídil se,v Tišnově ei ho však z vlaku vyzvedli muži, kteří se představili jako příslušníci Bezpečnosti, posadili ho do auta a vezli k Brnu« T.
- Začal jsem zoufale uvažovat, co bych mohl udělat, abych ee zachránili Když pak zastavili před stanicí Bezpečnosti v Břeclavi a vyváděli ho, vytrhl se jim a v panice začal prchat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de04fd22e5f3a739e0e67510fa9344096b433f299311b018ddba994765939173
+size 466

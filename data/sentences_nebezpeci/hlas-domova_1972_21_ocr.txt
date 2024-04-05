@@ -1,1 +1,3 @@
-manželský otec hlučný celník nebezpečí upít smrt vychovávat
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe58a3b5ec733a784b0f71f505b6722256c4d579689328b5b9d7eef25edbc0cd
+size 69

@@ -1,1 +1,3 @@
- Jeden z nejprominentnějších jugoslávských emigrantů kominformského vyznání Vlado Dapčevič uprchl sice v padesátých letech do Sovětského svazu, ale později žil v Belgii a jako belgický občan letěl loni do Bukurešti, načež se za záhadných okolností dostal do rukou jugoslávské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aed578f226fbb0ccc5e9c192c5d8ec4a22ea4cf943e1466f0e7c9e1563e40bf
+size 318

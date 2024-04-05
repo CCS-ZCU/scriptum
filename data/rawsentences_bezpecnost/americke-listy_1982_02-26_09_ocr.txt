@@ -1,3 +1,3 @@
- Konference v Madridu opět přerušena Jestliže se zdálo, že západ byl v únoru rozdělen v názoru na poměry v Polsku, nic takového nedokazoval postup západních spojenců na opět, zahájené konferenci v Madridu o bezpečnosti v Evropě.
- Zahájení krátkého pokračování konference o bezpečnosti v Evropě, před svým dalším přerušením prokázalo jasně inspiraci a vinu Sovětského svazu na instalaci vojenské diktatury v Polsku, a také, že jednotný západ je rozhodnut tuto sovětskou “zmodernizovanou” okupací další země, neakceptovat.
- Spojené státy vyzývají Sovětský svaz ,abj' se k nim připojil ve vážném úsilí vypracovat přijatelnou dohodu, která by posílila bezpečnost obou stran a opakoval americký návrh, který žádá úplné odstranění všech raket středního doletu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca079388dcf2e19f46e79143abd9cb4f0f68b4a7bf5453d59b16d682aabdde1f
+size 838

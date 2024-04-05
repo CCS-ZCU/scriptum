@@ -1,1 +1,3 @@
-, který byl celé odpoledne a večer zadrzovan na bezpečnosti v Lounech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f007574cd91c59df52d4c1863aea7a31fcf3649e4afa32feff87f3a46e8b1803
+size 75

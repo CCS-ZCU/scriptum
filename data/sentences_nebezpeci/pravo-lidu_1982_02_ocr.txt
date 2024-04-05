@@ -1,3 +1,3 @@
-Bernard kratičký student studentský fronta fašismus okupovaný vlast vystavený nebezpečí nacistický represe
-docházet situace druhý minuta umírat svět dítě hlad plynout zbraň přinášet užitek minuta minuta zvyšovat nebezpečí válečný konflikt
-říjen článek nebezpečí hrozící válka schopnost SSSR odvrátit agrese
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5df199f19c847949770b3fb52a273f87462ea0a6eb22c20cf26bcad413b717
+size 343

@@ -1,1 +1,3 @@
- Prisahají-ti západoněmeětí rekruti na ústavu Spolkové republiky, sku- tečně něj demokratičtější ústavu v Evropě, která navíc ještě funguje a zaručuje občanu nejen sociální bezpečí, ale i spokojený Život v bla- hobytu, najdou se občané-křiklouni, kteří přísahu obránců demokracie považují za provokaci, oživování mi- litaristických tradic a vůbec jako cosi nanejvýše nemravného.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab1eef283e65767c6b726275a2edf6c1414352cf137b90718bd8274c3623d62b
+size 420

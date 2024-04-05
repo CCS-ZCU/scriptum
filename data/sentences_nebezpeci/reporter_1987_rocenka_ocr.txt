@@ -1,7 +1,3 @@
-nebezpečí hrozit polnost Arab přitahovat
-rozvinutý země svět nebezpečí stát země indust riální negramota prohlásit odborový předák William
-jít hádání profesionální Indián nebezpečí uzmát střecha hlava
-politický činnost profil záměr mínit zavraždit president známý slavný otázka americký přistěhovalecký dotazník
-nebezpečí deportace odvrácený lékař žít Kalifornie zbohatnout
-babička dychtivý tvrdý valuta vylepšení korunový důchod rozhodnout přijmout zaměstnaný vystavovat teoretický praktický nebezpečí deportace
-Cech Slovák hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bccc2aa10f8af096c38a7eba81e15454693c179a0c020289c24e940af665da3
+size 608

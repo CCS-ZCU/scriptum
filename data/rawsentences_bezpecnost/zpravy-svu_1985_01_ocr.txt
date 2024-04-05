@@ -1,1 +1,3 @@
- Zpráva se podrobně a systematicky zabývá zneužitím bezpečnosti a justice a konkrétně identifikuje několik set viníků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:001569bddce93830efd5fd7f978674a4daf89efa497c82673a5a852172d46c51
+size 131

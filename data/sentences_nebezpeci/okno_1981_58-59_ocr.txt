@@ -1,2 +1,3 @@
-strategie Sovět Polsko sledovat
-komunistický chartista exil představovat československý demokratický opozice svobodný svět svobodný svět akutní nebezpečí následující důvod
+version https://git-lfs.github.com/spec/v1
+oid sha256:d657217e55e15a2f2f321d993bec5181a6211221cad901b5724e6b45a2c472fa
+size 189

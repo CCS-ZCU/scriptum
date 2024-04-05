@@ -1,8 +1,3 @@
- Dilema generálního tajemníka, který nemůže soutěžit s Radou bezpečnosti o vliv, je nejlépe dokumentováno krizí v Bejrutu, kde de Cuellar žádá větší úlohu pro jednotky Spojených národů, které by mohly oddělit soupeřící tábory, ale zdá se souhlasit s rychleji proveditelným návrhem opětného nasazení amerických, francouzských a italských jednotek.
- Generální tajemník prohlásil, že jakmile situace v Bejrútu bude o něco normálnější, on sám s Radou bezpečnosti by začal uvažovat o možnostech řešení.
- ovšem otázka, jakou, mají cenu podobné rezoluce ve chvíli, kdy rezoluce schválené Radou bezpečnosti jsou ignorovány.
- Křehká libanonská rovnováha dostala svou, asi definitivní ránu, a vina bude svalena na Spojené státy, protože to byl americký nápad a americké provedení, které odsunulo ozbrojence PLO (majících na svědomí nejeden obdobný masakr na libanonských křesťanech, leč televizí nezaznamenaný) a zaručilo se za bezpečnost civilistů ponechaných v Libanonu i po odchodu mezinárodních jednotek, v plaché naději, že odchodem ozbrojených jednotek PLO se vzbouřená atmosféra v zemi uklidní jaksi automaticky.
- Platy byly zvýšeny A — armádě, B — bezpečnosti, C — cenzorům, D — a DOST! Keep smiling! Americké Listy/Evropské Listy.
- Na 24 nebo 48 hodin, což je nově přijatý zákon o Sboru národní bezpečnosti, ten to připouštěl.
- Našli mě příslušníci Veřejné bezpečnosti, takže je to věrohodné.
- Bruno Kreisky, razil aktivitu neutrálních zemí, angažoval se v otázkách Třetího světa, pokoušel se zprostředkovat mír v Perském zálivu a založil Komisi pro odzbrojení a bezpečnost, známo” dnes jako Palmovu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8edee541a1eaadb68170b2ec578ffb3ff03ee48c0a8f99ffd5dcb7ca0ccf8ff1
+size 1763

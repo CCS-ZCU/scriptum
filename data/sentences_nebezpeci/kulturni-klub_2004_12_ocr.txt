@@ -1,4 +1,3 @@
-existovat nebezpečí rodič volit jistota vysoký meta
-ochranka mít
-ptát hrozit nebezpečí mladý fronta přistihnout projíždět Praha rychlost kilometr hodina
-muset žit strach slib rozmyslit fotografie darovat poznámka mít celý léta chvíle nebezpečí modlit záchrana život myslit
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa733cc5180af739de811511d22c281372a7165b57066956f4c9bfebce245c6
+size 296

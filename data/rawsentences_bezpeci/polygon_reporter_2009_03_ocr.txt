@@ -1,3 +1,3 @@
- Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Všechno je už v bezpečí.
-“ Všichni cizinci byli už v bezpečí, jen Andělovi stále nevěděli, kam se vrtnout Nakonec baťovský ředitel se zřekl své kabiny na lodi, protože se mu zželelo dětí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2803ccd6ecc8e2b3ae200f8b11cb3f9102cbad476205c1eb85480eecce8d0aea
+size 320

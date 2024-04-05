@@ -1,1 +1,3 @@
-jít určitý normálnost vzornost vyznačovat duch universalistický údobí spoléhat zaručený bezpečí společný svět garantovaný osud bůh zákonitost Racionalita Objektivita zaměřený úsilí jednota pravda
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0aeb977eeae70dde74efd81f37cec8f33e9925b0036883532e5c39052612a3f
+size 220

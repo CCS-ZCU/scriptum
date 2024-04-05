@@ -1,1 +1,3 @@
-hlava stát znamenat okupant velký nebezpečí jmenovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:535c74402616636e9a57abb43e9eed0f3805c5414929c81eeae3bdba6ef6530e
+size 59

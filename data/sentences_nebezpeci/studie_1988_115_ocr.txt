@@ -1,4 +1,3 @@
-hluboký vnitřní zkušenost duchovní mistr popisovat Jan jed notlivý úsek noční cesta nebezpečí svod sebeklam duše kre deprese odpory údobí bůh odmlčet skrýt duše zmítat vyprahlost ztratit jistota vydaný pocit ochablost lhostejnost nepřátelství boženský
-Munz zaměřený pře dlouhý zásada humanity boj válečný nebezpečí hlásání lozofie úcta život aplikace denní život
-nebezpečí mravní nejistota věřící
-týkat náboženství jednotlivý církev moci vojtěšský desetiletí inspiro dlouhodobý koncepce globální pastorační záměr moci pomoci překonat roz tříštěnost izolovanost jednotlivý obec směr stereotyp zastaralý přístup nebezpečí krátkodechý experimentování
+version https://git-lfs.github.com/spec/v1
+oid sha256:b59e9bad07ee67ca2a400100d8fb69ed900bd54951c6a6b29bfdbc8dd8fbdb81
+size 726

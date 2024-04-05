@@ -1,1 +1,3 @@
-hrozit pedagog velký nebezpečí masivní indoktrinace dělit strana rodič člen různý extrémistický náboženský seknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:a676e5698456b8541064dcf1170474d4517998837288abb48967aab46a70eebc
+size 129

@@ -1,2 +1,3 @@
- Krátce po příjezdů k pří- buzným vsak byl předvolán na místní stanici veřejné bezpečnosti.
- Pozoruhodný byl jen tlak, který na něho vykonávali při výslechu dva členové veřejné bezpečnosti (jeden místní • jeden snad z kraje), při druhém výslechu ještě Sto rokov Sokola V Amerike (Dokončeni se str.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d8fca8f68f99e54f0a404c0a850f1ae9b082e2953f66e15fe71fb91740b0aa
+size 333

@@ -1,1 +1,3 @@
-prezident Carter projev národ přimlouvat schválení dohoda SALT sovětský svaz odůvodňovat apel jiný hlavní důvod kubánský krize ohrožovat bezpečnost Ameri francouzský vláda potvrdit rozhodnutí zmodernizovat léta nukleární potenciál americký sovětský úroveň
+version https://git-lfs.github.com/spec/v1
+oid sha256:192996c3516ee0ffc52ced30c0ed849b350979797ec54bdd1181f40198a070ab
+size 282

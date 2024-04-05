@@ -1,1 +1,3 @@
- Parlament schválil zákon o zpřístupnění svazků vzniklých činností bývalé Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d626b0eece497040e06615097ae7b2925339babe52c18c16afa672d7f4bf3d7
+size 109

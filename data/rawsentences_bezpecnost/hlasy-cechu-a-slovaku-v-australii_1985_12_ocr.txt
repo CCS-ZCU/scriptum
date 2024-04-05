@@ -1,5 +1,3 @@
- Na bezpečnost provozů dohlížel velitel četnické stanice ve Vrbatově Kostelci, vrchní strážmistr Karel Kněz, který se v osudných dnech střelil do úst, aby tak svou smrtí symbolicky nabádal lidi k mlčení.
-  NAMOVATEL CO DRÁŽDÍ POLSKOU STÁTNÍ BEZPEČNOST Za všechnu lásku a péči Tvoji co s vděkem dnes Ti mužem dát? Hrst krásných květů naposled a pak již jen vzpomínat.
- Čas od času se objevují v oficiálním polském poštovním styku obálky se známkami, které vyvolávají bezmocný vztek příslušníků státní bezpečnosti a škodolibou radost příjemců dopisů.
- V tisku je nová série s portréty polských vlasteneckých kněží, počínaje páterem Kolbem, který zahynul v nacistickém táboře v Osvětimi a konče Jerzym Popieluszkem, kterého zavraždili příslušníci polské státní bezpečnosti.
- Není te- I dy divu, že tato razítka Solidarity dráždí státní bezpečnost, zvláš- ' tě když se objevují na dopisech, které byly odeslány z internačních I táborů pro politické vězně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c54de51d1383f3543ad53c3400f470a9f94673ef57f0384e430cbf956549cb0
+size 1067

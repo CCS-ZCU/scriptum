@@ -1,2 +1,3 @@
-říci
-znemožnit nebezpečí plánovaný nukleární útok dát použít nukleární konvenční zbraň válečnictví
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8347fefe446392fe680d8ebf83b7ce6df4ba7b8f9ebc5320ee7bdf438cd1a68
+size 120

@@ -1,1 +1,3 @@
-československý státní bezpečnost justice uvědot zpochybňovat základ řád mít hájit kod společnost působit
+version https://git-lfs.github.com/spec/v1
+oid sha256:12de3117ae74c0f549ac64a9f7900ef8225628568389a10bcdb96f69e967dbac
+size 123

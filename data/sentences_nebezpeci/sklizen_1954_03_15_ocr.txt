@@ -1,1 +1,3 @@
-jiný snažit zapomenout drsný vojna hrubý velitel nebezpečí nálet bláto zima déšť Anglie
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ab74448e1d96e8c238ee2ac7b063fb449e89071a2211bfc67eff7d230f88f59
+size 99

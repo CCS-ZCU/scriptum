@@ -1,1 +1,3 @@
-moci nadsázka prohlásit říci Šimůnek snaha dostihnout vyspělý stá vlastní síla jednotlivý země vystavit bycba nebezpečí séo dostat proud světový teehnický pokrok
+version https://git-lfs.github.com/spec/v1
+oid sha256:930ddc6b80b5fd3e07e11da80070484b532e3254941942aeaf5ba49130a2c5aa
+size 182

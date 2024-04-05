@@ -1,2 +1,3 @@
-první místo pomyslný žebříček stát moci představovat Slovensko nebezpečí zařadit Slovák Rusko
-nebezpečí hrozit hůlka tančit dát
+version https://git-lfs.github.com/spec/v1
+oid sha256:9369be663a0ad7c64107e0ae41d398605f14778ee41595dd112223c585469e93
+size 146

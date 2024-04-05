@@ -1,4 +1,3 @@
- Falangisté pokládají Palestince za nežádoucí hosty, kteří svými proliizrael- skými teroristickými akcemi ohrožují též bezpečnost Libanonu a ruší jeho hospodářskou prosperitu.
- Mimo existenčního strachu je to strach před bezpečností, jejíž pavouci nitky jsou neviditelné, ale přece všude cítěné.
- Poukazuje na teror, který jako pavučina opředl celou zemi od armády a bezpečnosti po soudy a prokuraturu.
- Ministr vnitra Obzina vyhlásil zesílený boj bezpečnosti proti ilegální aktivitě domácích rcakČních skupin a jednotlivců i imperialistických tajných služeb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0e9061acc01e6611f87508bed7091d067eaaa58756ae49ea523ba13da47d950
+size 613

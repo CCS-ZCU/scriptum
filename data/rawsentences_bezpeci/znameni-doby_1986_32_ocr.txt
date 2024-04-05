@@ -1,1 +1,3 @@
- Svou účastí ne obou shromážděhíeh dali kardinál Joachim meisner • berlínský evangelicky biskup Gottfried Porok výraz svému spojení s touhou mladých lidí po důvěře, lásce, míru a bezpečí v Kristu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87f909ff698c6c595b0a05015fc48412efad13aee7ab47b1d0d57660c944c4e9
+size 221

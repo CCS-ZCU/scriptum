@@ -1,1 +1,3 @@
- Když ale přijedete do bezpečí, cítíte, že se ve vás něco trhá.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2863c91db0e763e28ea8f8ee1afb69790fa735af3f38712cba1e85681ffc2515
+size 74

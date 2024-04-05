@@ -1,2 +1,3 @@
- a nových grémií, aby se zajistila bezpečnost veřejnosti.
- zcela nevyhnutelně i nejinformovanější soudruzi z ústředního výboru a od Státní bezpečnosti ztratí přehled, na koho se doopravdy mohou spolehnout, a zda mohou vůbec skutečně věřit i vlastním lidem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e5d582d9138cdf60750f92d50e02e52d3b1b58777e4e041fd070d95b5c97490
+size 281

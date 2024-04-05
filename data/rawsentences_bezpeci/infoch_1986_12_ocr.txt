@@ -1,1 +1,3 @@
- Obdivujeme vás, že jste schopni obětovat osobní bezpečí svému přesvědčení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f8f35a54677e858490ae5ba94de478076de46bbc9842689e240832292ef56b
+size 87

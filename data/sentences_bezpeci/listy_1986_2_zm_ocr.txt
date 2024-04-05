@@ -1,3 +1,3 @@
-otázka pootočit humanizovat systém uvět domovat lidský potřeba vysoký princip říci snažit žít ohled možnost přání systém
-stát sociální blahobyt dát sáhnout začít navyklost sociální bezpečí otřásat dát hlas Palme
-lepší chvíle spát
+version https://git-lfs.github.com/spec/v1
+oid sha256:505461c79153468bcfc35b01a5a19092d7582841a63611211fdd0245299ef379
+size 263

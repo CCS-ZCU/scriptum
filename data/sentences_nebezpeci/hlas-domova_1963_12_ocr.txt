@@ -1,1 +1,3 @@
-přirozený politický prchlík velký nebezpečí zaspat rychlík historie odmítat zastavit obrátit vrátit předcházející stanice pár pasažer ztratit část iluse
+version https://git-lfs.github.com/spec/v1
+oid sha256:314154b95d4d31fc5f032a04c5b504dda15d1088ec0d01e3e91843689a5e7903
+size 173

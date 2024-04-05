@@ -1,1 +1,3 @@
-bezpečí bavorský Alpy vzpomínat pikantérie někdejší povolání patřit vzpomínaný rozmluva major státní bezpečnost zajímat režisér Evžen Sokolov Čech litr Austrálie vydávat studio Roger
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a12286a0e32b851da20a69ccf904f30c48a323a9b36eabeb74c4ae76703d3e
+size 206

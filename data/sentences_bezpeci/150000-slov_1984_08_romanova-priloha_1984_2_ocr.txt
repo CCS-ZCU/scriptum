@@ -1,7 +1,3 @@
-bezpečí
-bezpečí opakovat hloupý
-Winston cítit celý nesvůj vědět bezpečí
-bezpečí skrytý větev
-chvíle oddávat iluze trvalý bezpečí
-Winston přestat číst vychutnat číst pohodlí bezpečí
-samota bezpečí fyzický pocit smíšený tělesný únava měkkost křeslo dotyk lehký vánek okno hladit tvář
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0ca63f0f9a24ed74fa819c072e936bc5f859e66cb07d76b0b9aee829f6b501
+size 326

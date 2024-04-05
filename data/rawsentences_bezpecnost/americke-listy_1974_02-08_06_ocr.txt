@@ -1,2 +1,3 @@
- demonstrace v Praze na jaře 1969 (po hokejovém vítězství nad SSSR) spoluorganizo- vala státní bezpečnost, aby pomohla definitivně odstranit Dubčeka.
- Vyprávěl mi krátce nato o návštěvě pánů, kteří přišli hned po zveřejním rozhovoru s průkazy státní bezpečnosti, ale prý z pověření ÚVKSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb0b1f327efce92bb376724d5da75c3e8a7fba460e20aa3979307cf066c523c
+size 324

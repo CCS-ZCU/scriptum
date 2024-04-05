@@ -1,5 +1,3 @@
-připadat nebezpečí člověk přiblížit
-vlastnost vnuknout francouzský zoolog obava nebezpečí moci rajský podmínka teto oáza klid míra tichý oceán ohrozit
-opatřit řidičský průkaz hrozit nebezpečí zastavit strážník požadovat zaplacení pokuta
-samec kudlanka cítit číhající nebezpečí začít uctivý vzdálenost kroužit vyvolený
-moci hrozit sebemenší nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6305c518698566f327e3e91899fbb3b360e80f01e2ca9955bd1c60847c030ea1
+size 396

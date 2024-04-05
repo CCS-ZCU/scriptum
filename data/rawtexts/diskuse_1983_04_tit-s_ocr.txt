@@ -1,1 +1,3 @@
-D I S K U S E č.4 - listopad 1983 /teoreticko-politický občasník/ OBSAH tohoto čísla: Poznámka vydavatele K problematice socialistické demokracie /Vlastimila Tesařová/ Rozhovor Milovana Djilase o krizi jugoslávské společnosti [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ad60b4d933f8ffc612f87b6461bcc05dff142a3e0050289c7b07a912b10cc4
+size 249

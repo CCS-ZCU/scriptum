@@ -1,7 +1,3 @@
- března: „Okresní oddělení Veřejné bezpečnosti v České Lípě zveřejnilo výzvu všem závodním organizacím komunistické strany ve Sboru národní bezpečnosti.
- Zdůrazňuje se v ní, že je v zájmu obnovení důvěry ve spravedlnost, aby každý příslušník Sboru národní bezpečnosti, který se podílel na porušování zákonnosti, odešel dobrovolně, bez rozdílu funkce a hodností a dokázal tak, že pochopil záměry pléna ústředního vyberu strany a hluboce lituje svého činu.
- Tato israelská akce zvýšila napětí na Středním východě a byla předmětem jednání v Radě bezpečnosti OSN.
- Pokud jde třeba o příslušníky bezpečnosti, byli jsme maximálně překvapeni.
- tisk sc lážc, odkud vzal generál diploma- ; tické pasy pro sebe a svého syna< když sc tyto dokumenty po použití vracejí a ukládají u úřadu, Poukazuje se na lo, žc Scjnovy podvody byly známy již v Jednu a žc spis o jeho prípadu postoupila bezpečnost prokuratuře již 25.
- března si v pražském rozhlase stěžoval příslušník Veřejné bezpečnosti - ledy policajt.
- Je nutno říci, že to nebyly soudní procesy v pravém slova smyslu, ale procesy připravené a z pozadí řízené tehdejší Státní bezpečností, které měly jen vnější znaky skutečného soudního řízení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:496c15f463abe9ccb82bef2fff0de502fd52cc8bf54b321565d3a75a21446cde
+size 1332

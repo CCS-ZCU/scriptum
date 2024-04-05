@@ -1,5 +1,3 @@
- S manželkou a dvěma dcerami jsme tenkrát byli na třech kilometrech cesty 3x legitimováni, 2x fotografováni a jednou filmováni příslušníky bezpečnosti.
- Když; mě loni v dubnu-za- držela Státní bezpečnost a odvezla mne takovou rychlostí, že jsem si ani nestačil dopít kávu, a po čtyřech dnech jsem byl propuštěn jako obviněný, domnívali se'všich- ni tito lidé,, a i se mne v tom směru dotazovali; že jsem byl "zavřen" za rozkrádá- ní - opravuješ dům a tedy jsi něco ukradl apod.
- 1924; stať "Pros nejsem komunistou, co k tomu dodat více'" Je škoda, že orgány Státní bezpečnosti a prokuratury stíhají věřící za' to, že yi samá.
- A přijde mi podivné, rná-li o šíři mé svobody vyznání roz- hodovat Státní bezpečnost nebo prokuratura.
- Pro mne osobně se vztah státu a círk- vo odrazil v akci Státní bezpečnosti proti mně s následným stíháním.
+version https://git-lfs.github.com/spec/v1
+oid sha256:272318045f994bd6dde6b37cff5fefeae76e1372f4bffa5863369191a6e34e15
+size 919

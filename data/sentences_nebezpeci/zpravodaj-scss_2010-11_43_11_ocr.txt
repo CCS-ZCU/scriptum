@@ -1,2 +1,3 @@
-demokracie zvládnout hrozit nebezpečí anarchie demokratický síla uchopit moc
-Škvorečtí mít Billinka hrozit nebezpečí moci zahryznout holeně
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a7c79ff60daf7fbd0015640bde11f30dc4472fc239fa202ca589e0aaa72ad3
+size 152

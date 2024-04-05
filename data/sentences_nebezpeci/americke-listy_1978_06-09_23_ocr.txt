@@ -1,3 +1,3 @@
-opovážit říci soutěž chrnout zvést zaříkávač ický strašidlo rozpoznat věta nebezpečí stát
-chtít projednat otázka vyvážit převaha mít země varšavský pakt konvenční zbraň tank vyvarovat nebezpečí Sovět převaha zneužít bleskový útok západní Evropa
-nový branný program odezva apel americký prezident Carter zvýšený úsilí čelit vzrůstající sovětský nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3336a99326dbb9f35ada34e4f7ef082b8f09d8f86ec300fc745fb7fb950db5a
+size 410

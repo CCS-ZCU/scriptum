@@ -1,2 +1,3 @@
-2 sovětské státní bezpečnosti.
- Následovalo rychlé navázání nor-málních diplomatických styků s Francií, Velkou Británií, Itálií i USA, začátek navázání styků s NATO a žádost Bělehradu o vstup do OBSE (Organisace pro bezpečnost a spolupráci v Evropě), jíž je Česko také členem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45de2c2b83f8e0bacb9e6a0ddd6cdf5a49321c7196001646bea034262b1b9053
+size 313

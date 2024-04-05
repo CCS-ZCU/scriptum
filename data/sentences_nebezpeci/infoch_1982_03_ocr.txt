@@ -1,1 +1,3 @@
-sovětský model pojetí socialistic kého táborák omezující autonomní vývoj spojenecký země
+version https://git-lfs.github.com/spec/v1
+oid sha256:d043111a707ae3d3fc1c12d8072d9f1ab43e796c10b24c39020e575c5363cdc4
+size 98

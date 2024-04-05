@@ -1,4 +1,3 @@
-dát Sýrie raketa země vzduch dolet míl moci kontrolovat vzdušný prostor Izrael muž ohrožený bezpečnost
-trasa řidič východoevropský nákladní auto druhý tajný úkol vyzvídat probíhat Itálie švýcarsko Holandsko Belgie belgický list skutečnost povšimnout švýcarský bezpečnost
-současný doba bezpečnost režim starý sovětský voják kolaborující zbytek pravidelný afghánský armáda schopný kontrolovat hlavní město Kábul další oblast
-tušící polský sekretářka kancelář UPI Anna Olszewská odebrat vlak čekat polský státní bezpečnost zatknout okamžik průvodčí vlak přijmout balíček film
+version https://git-lfs.github.com/spec/v1
+oid sha256:d66507a53250569089ca770447ec1945af77d4e68e646095b16e1c60baa322fc
+size 645

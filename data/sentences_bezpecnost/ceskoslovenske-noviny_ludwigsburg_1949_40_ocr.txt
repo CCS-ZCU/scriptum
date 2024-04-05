@@ -1,1 +1,3 @@
-zvláštní způsob postaraný bezpečnost člen závodní milice
+version https://git-lfs.github.com/spec/v1
+oid sha256:857edea5769338211e9ce362d95517aebe42156780d4c4349dc90b8f9b4acac2
+size 66

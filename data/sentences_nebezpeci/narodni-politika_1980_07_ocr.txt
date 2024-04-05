@@ -1,5 +1,3 @@
-odhodlat zúčastnit charta moci nadát nebezpečí existenční potíž velký omezení právo domovní prohlídka výslech teror obvinění terorismus léčba psychofarmak tvrdý soudní postih
-energie vyplýtvat boj stranický pozice valný hromada nebezpečí strana získat monopolní pozice velký podnik jevit další dehumanizační prvek velký rozsah protidemokratický tendence
-okolnost hrozit nebezpečí reformní komunista Dubčekův orientace záhadný název dominovat
-poslední doba objevit varovný hlas upozorňující nebezpečí uzavřený gheta
-moci vadit otevřený kritika známý osobnost nebezpečí kritika mít přístup široký vrstva obyvatelstvo moci připojit
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b854a156c2c1ec86cefeb41715fa428b721d16c0849e1725733c90223a3e742
+size 693

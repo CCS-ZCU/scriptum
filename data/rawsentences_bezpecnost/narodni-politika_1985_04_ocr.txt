@@ -1,9 +1,3 @@
- Neodpíráme legitimní zájmy o bezpečnost žádnému státu.
- Avšak chránit bezpečnost jednoho státu tím, že jiný je oloupen o národní nezávislost a národní tradice, legitimní není.
- Dávno po Jaltě jedno zůstává jasné: nejvýznamnější cesta, jak zajistit bezpečnost Evropy, je učinit ji svobodnější.
- Služební vozy Veřejné Bezpečnosti se nikdo neodváží zastavit, ani u jejich řidičů případně vykonat detalkolovou zkoušku.
- Bezpečnost se tedy dopustila nezákonného porušení domovní svobody.
- vláda neplní závazky, jež přijala v Závěrečném aktu helsinské konference o bezpečnosti a spolupráci v Evropě.
- Mnozí vyhození novináři byli vyslýcháni a zastrašováni Státní bezpečností.
- Státní bezpečnost např.
- Konference o bezpečnosti a spolupráci v Evropě, její Závěrečný akt z Helsinek, následná jednání v jejím rámci či výsledný akt z Madridu nejsou jen stvrzením statu quo, ale programem evropské a evropsko -americké spolupráce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb271c7f8cc0498f2d89ee7b8bab50f5b11969e3b0dca32fcd77a611e23ee0c
+size 1030

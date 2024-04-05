@@ -1,4 +1,3 @@
-velký nebezpečí hrozit zásah zvenšit
-stupeň nebezpečí život
-dělník Miroslav Malinka Brno chtít pálit nebezpečí život
-mezinárodni scéna existovat rovnováha dvojí druh všeobecný velmoc aliance riskantní vnucovat vůle ostatní zvláštní definovat historický poměr velmoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebf15d9ac2284c6d6f828bec34576a4490bc748a7aa8d9875a32904c8c889fdb
+size 297

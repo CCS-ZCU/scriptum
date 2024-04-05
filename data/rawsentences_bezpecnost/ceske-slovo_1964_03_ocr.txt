@@ -1,1 +1,3 @@
- Pokládali jsme to za rozumnou rozvážnost, avšak pocit poněkud stísněné bezpečnosti v nás rostl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c05b7ee7a700b2c90e1501bf919f04b3928e157ba233c051072c4d287f42694d
+size 107

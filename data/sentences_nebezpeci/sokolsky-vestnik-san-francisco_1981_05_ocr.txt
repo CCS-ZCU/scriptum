@@ -1,1 +1,3 @@
-zajímavý sledovat počínání lidé okamžik nebezpečí hrůza
+version https://git-lfs.github.com/spec/v1
+oid sha256:504df60754d79397b34892076d47e20ac6769038963b71e3e3ca418173359153
+size 67

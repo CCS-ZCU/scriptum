@@ -1,1 +1,3 @@
-nebezpečí lov záludný bažina brod rozvodněný řeka vyčerpávat síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:8798c40b284bba0d119493a2bb1a1ed8bacb97be0e6971255403b9d1b54cf161
+size 77

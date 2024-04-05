@@ -1,1 +1,3 @@
-Beneš Habsburk představovat velký nebezpečí Hitler minulost zaslechnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f5de162fde8b3b2ef1bfa09b5ad0750602bf81775d564c37ffe187d93d9b75
+size 77

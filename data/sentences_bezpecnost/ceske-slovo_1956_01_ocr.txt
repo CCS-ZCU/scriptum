@@ -1,1 +1,3 @@
-národní dům Vinohrady zpustnout zchátrat zvenku ohrožovat bezpečnost chodec provoz muset bezpečnostní hygienický důvod zastavený
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fbe1bf090099b689faa1b5c7fce221a637b9c7b00926982bfacb648a5f16180
+size 140

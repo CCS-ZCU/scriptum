@@ -1,2 +1,3 @@
-současný koncepce velký nebezpečí víra primitivní odveta primitivní persekuce léta
-Padre Procházka tvrdit pomoc boží překonávat nebezpečí nákaza napomáhat nemocný podávat ruka otevírat dveře lokt šat měnit odchod leproserí
+version https://git-lfs.github.com/spec/v1
+oid sha256:125a638688b9d1dc132a005bdc3bfa39692e31b80d41ef8738c4c0c54e7e47c5
+size 248

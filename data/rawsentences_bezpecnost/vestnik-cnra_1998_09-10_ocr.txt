@@ -1,1 +1,3 @@
- Masaryka převzali z jeho rukou bývalý poradce prezidenta USA pro otázky národní bezpečnosti Zbigniew Brzezinski, bývalá velvyslankyně USA při OSN Jeane Kirkpatricková, dlouholetý předseda Svazu českých katolíků v USA a redaktor Nového světa Václav Hyvnar a pracovník kongresové knihovny a znalec života a díla prvního československého prezidenta Jiří Kovtun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99490c45b597e431c3efdf9ff04ed0f363b4fb431002a67c2daf9e2df036b3e1
+size 390

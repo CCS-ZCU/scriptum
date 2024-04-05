@@ -1,1 +1,3 @@
-vědět všednodenní zásah patrit obvyklý skutečnost život násilný způsob plný soulad platný československý zákon usilovat zachovaný lidský právo spravedlnost bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6332a176fd5ab113b11f45e341d20358d4b9d0bcc9bb0a8396a418cdadb98ee
+size 185

@@ -1,1 +1,3 @@
-možný zbraň sovětský svaz Československo pašovaný západ dotud možný hovořit bezpečí jednotlivý občan stát západ
+version https://git-lfs.github.com/spec/v1
+oid sha256:36935efd8d007d4840fa03f1300b5db692cb373dc851f075029a263c187d23d9
+size 130

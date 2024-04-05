@@ -1,7 +1,3 @@
- Když odsouzeni opouštěli síň, začali zpívat náboženské písně a v zástupu lidí, kteří čekali venku, nastal neklid, s kterým si bezpečnost nevěděla rady.
- Podle všeho ze strachu z „polské infekce" se bezpečnost uchyluje k tvrdým metodám, zvláště proti chartistům a VONSu.
- * Bezpečnost také podnikla širší akci proti hnuti hudby popu.
- Při této dvoudenní akci se hledaly skrýše s Poláky, náboženská literatura, sestry byly vyslýchány, bezpečnost zadržela kněze Hlozánka a zabavila různé předměty, mezi nimi 2 cyklostyly a 19 psacích strojů.
- Podobně byl přepaden 150 ozbrojenými muži se psy kněžský starobinec v Moravci a bezpečnost také prohledala řadu far.
- Po této události básník úporně odmítal nátlak bezpečnosti, která za ním byla v jeho bytě, aby zveřejnil jednak poděkování Husákovi a Štrougalovi a jednak odvolal svůj podpis pod jedním dokumentem, patrně dopisem Pen klubu, který se zastává vězněných spisovatelů.
- Čihošťský farář Josef Toufar, „zázrak", který se údajně stal v tamnějším kostelíku a machinace, kterými se snažila státní bezpečnost zdiskreditovat církev, jsou obsahem tohoto adventního čtení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77817e492cdf4dae240b26af99fa35c9b6c0ad519b125d9b5a2acf1bb2c61ba0
+size 1238

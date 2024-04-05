@@ -1,1 +1,3 @@
-rozvodněný řeka dolní tok dosahovat první druhý povodňový stupeň nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:37e72000d2b5b9cf2febc8812284993cbdba6ef71968ca640bfb8ff6deea1a98
+size 86

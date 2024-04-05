@@ -1,5 +1,3 @@
- Zažil jsem sílu lidského přátelství těch, kteří stáli v jedné frontě i s Vámi v boji proti fašismu, a které nechali příslušníci Národní bezpečnosti štvát, špehovat a třeba i fysicky týrat těmi, jejichž propuštění se dle pana Chruščeva stalo věcí lidského citu, zkrátka gestapáky a udavači z let války a okupace.
- Budu šťasten, neboť nebudu chodit parky a ulicemi, po silnicích a po vesnicích, kde je vidět v ta místa, kde jsou ti, pro něž odpuštění není a s nimiž jsem příliš těsně, díky Vaší justici a bezpečnosti spojil svůj život, než abych mohl nebo chtěl někdy se jich odříci, než abych mohl zlhostejnět k jejich osudu.
- Když jsem poněkud zmlkla a tvrdě na mne padala deprese skrzevá to, že jsem z důvodů státního zájmu československé bezpečnosti už sedm let neviděla své děti (mezitím se státní zájem poněkud změnil a po celkem deseti letech bezpečnost jedno dítě vypustila a druhé dospělo tak dalece, že uteklo samo), když tedy na mne dopadla chandra, kočka přišla, strkala do mne hlavou a jala se ke mně promlouvat.
- Na 24 nebo 48 hodin, což nově přijatý zákon o Sboru národní bezpečnosti připouštěl.
- Našli mě příslušníci Veřejné bezpečnosti, takže je to věrohodné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad1ce6bea1849dab6f8be0bd1cd13c1845ae17e994de1f92050300eaf8d72517
+size 1306

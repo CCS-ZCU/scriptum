@@ -1,1 +1,3 @@
-balík poznat nebezpečí rybce hrozit vyřítit kocour
+version https://git-lfs.github.com/spec/v1
+oid sha256:0edb37f3e5560db8e7f30f7d84aa1f78dae9aa905464aec33ebe38aa48964d5c
+size 56

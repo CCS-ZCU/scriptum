@@ -1,1 +1,3 @@
-průvod natáčet rakoutký tcleviae rovnčž ftdtn bezpečnost zasáhnout závěr odcizit arch iBix podpis petice manifestující nechávat podepisovat kolo doucim
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccbf30bd14a933a1140e67474a152d675dbc82906bfde7a7ea6fcb7cb6dda45d
+size 165

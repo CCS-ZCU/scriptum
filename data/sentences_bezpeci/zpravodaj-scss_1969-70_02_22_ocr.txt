@@ -1,1 +1,3 @@
-spolek Švýcarsko záležitost spojit uprchlický oddělení spolkový justiční policejní departement dostat informace švýcarský vláda projednávat žádost politický asyl osoba opuštění Československo přijít Švýcarsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:76148eeddde54c05bb1cad5a0457de2711b8af9366c9f9f5581c391244653fd6
+size 236

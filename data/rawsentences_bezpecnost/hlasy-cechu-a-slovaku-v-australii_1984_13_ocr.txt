@@ -1,2 +1,3 @@
- Kde - aký mládenček si zafarbí vlasy na zeleno, či fialovo - a súdruhovia z bezpečnosti sa tvária, že sa nič nedeje, že všetko je v poriadku, že "punkeri" ich nezaujímaj ú.
- Tak se zrodila v zájmu ohrožené bezpečnosti již v březnu 1948' Bruselská smlouva, na níž participovali Velká Británie, Francie a země Beneluxu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecfdf719d5232d8289b3351da36fea4d08d4ecd6924aed724245ff856b6dae2a
+size 346

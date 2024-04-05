@@ -1,4 +1,3 @@
- Václava Havla zajisté potěšila i zpráva, že Americký výbor pro bezpečnost a spolupráci v Evropě, složený z poslanců a senátorů amerického kongresu, zaslal Nobelovu ústavu v Oslu návrh, v němž uvádí osm kandidátů na Nobelovu cenu míru a mezi nimi i Václava Havla.
- Zdůrazňovala se geopolitická bezpečnost sovětského teritoria, výhoda východní Evropy pro případné sovětské útočné plány a sanitaČní role této oblasti pokud jde o pronikání západní ideologie do sovětské společnosti.
- Ty paměti, jež nyní vyšly v Torontu, vznikaly v podmínkách stálého ohrožení; kdyby se byl rukopis dostal do rukou Státní bezpečnosti, znamenalo to Vilém Hejl zřejmě nové zatčení, nový proces a nové odsouzení.
- Veřejná bezpečnost oznámila, že před vánocemi byla v jedné obci v okrese nalezena ve studni 421etá zavražděná žena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5702dab2e6ce0630858e4b7cbf4f0a96b2c9c8dd118ea04518cfa663fc18fb8a
+size 897

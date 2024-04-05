@@ -1,2 +1,3 @@
- Byla uschována v jeskyni ve skalách vysoko nad Rýnem, v bezpečí před očekávanými spojeneckými nálety na město.
- Okenice jsem zavřel hned, ale pocit bezpečí jsem neměl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fad80aa0e8978549b2f5f0a398bf13bb8b1518656ef2f31029802446dc8943a
+size 185

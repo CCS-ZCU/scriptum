@@ -1,3 +1,3 @@
-odejít doba nej velký nebezpečí mít přepadený varovaný
-vystavovat člověk silný stránka sociální politický slabý nebezpečí změ nit číslo pouhý ekonomický subjka
-octnout nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8cb109fa56032157c5d5282df3bff859d360362d8fbafd2bce9e62c9ddcdd1a
+size 399

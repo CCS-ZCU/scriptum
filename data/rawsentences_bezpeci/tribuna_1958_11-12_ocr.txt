@@ -1,1 +1,3 @@
- Henlein se svým štábem uprchl do Německa a z bezpečí štval své soukmenovce do povstání, aby se světu^ podal důkaz o nemožnosti dalšího soužití Němců s Čechy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:754b7ab63a065fece510bbac037e095cc46efdce0d4bf6623572d687ea9be44b
+size 179

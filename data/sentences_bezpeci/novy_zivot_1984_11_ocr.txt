@@ -1,1 +1,3 @@
-klid hrdý přímost bátat nost odnášet mámina bezpečí celý život
+version https://git-lfs.github.com/spec/v1
+oid sha256:119b28707bfba5bd1008f7fd9f644079ae9d8e8afd4f0894b4d93b8eec5f3ae1
+size 73

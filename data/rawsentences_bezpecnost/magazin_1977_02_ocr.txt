@@ -1,5 +1,3 @@
- Prorokem mínil Solženicyna, státníkem tehdejšího presidenta Forda, který Solženicyna nejdříve nepřijal v Bílém domě, a s nímž spisovatel v exilu pak již neměl zájem mluvit, protože se Ford definitivně rozhodl jet k podpisu Závěrečného protokolu o bezpečnosti a spolupráci v Evropě do Helsink.
-března převezen do nemocnice, když ho den před tím členové bezpečnosti více než lo hodin vyslýchali o jeho setkání se v Praze s holandským ministrem zahraničí van der Stoelem.
- Podle zprávy jednoho rakouského novináře bylo na hřbitově asi loo členů bezpečnosti v civilu.
- Zavázal se, Že učiní vše k dosažení omezení strategických jaderných zbraní se Sovětským svazem a zároveň varoval, že zatímco tato jednání zůstávají ve slepé uličce, bezpečnost světa je i nadále ohrožena.
- Carter označuje zahraniční vysílání o otázkách americké politiky, o americkýcn ideálech a tradici svobodné výměny informací za životně důležité pro bezpečnost Spojených států, a dodává, že by větší počet vysílačů nebyl zapotřebí, kdyby bylo zastaveno rušení amerického vysílání v Sovětském svazu, Českoslovenksku a Bulharsku, částečně i v Polsku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e61a17d79317adb26c942fa06d2369bfcf5f23e180d1e49903fc40768f7d5bb
+size 1248

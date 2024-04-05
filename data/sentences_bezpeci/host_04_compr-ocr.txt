@@ -1,1 +1,3 @@
-milovat lahodný pocit bezpečí neobtěžovaný navíjací prostředek
+version https://git-lfs.github.com/spec/v1
+oid sha256:1abe348a447f55a223c1f4fc89bb354a02b7c5de3bb0cf08135710f364fa4be4
+size 72

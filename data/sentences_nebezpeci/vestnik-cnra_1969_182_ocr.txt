@@ -1,2 +1,3 @@
-doporučovat odbočka projevit názor promluvit jednotlivec patřit majorita zúčastňovat dění dnešní historický den stát nebezpečí týkat
-dramatický způsob znázornit tragický osud okupovaný Československo vyslovit výstraha upozornit nebezpečí komunismus hrozit svobodný svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cd517de9f0c092e9d6ec717d920052c253e0a29e7f2360558aefd6a86c97f31
+size 297

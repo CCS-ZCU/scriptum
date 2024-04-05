@@ -1,2 +1,3 @@
-mající zjevný úsilí radost odvracející nebezpečí zárodek hra kte rou umět Škvorecký popsat
-život hrozný krásný nebezpečí Škvorecký sasos literární teorie pravo zanedbat časený pozapomenout spsjnSáis nost
+version https://git-lfs.github.com/spec/v1
+oid sha256:7524ce0fa269e464066dbf3c1b78bfbd56f5296d9623463a90a798919f050fd7
+size 221

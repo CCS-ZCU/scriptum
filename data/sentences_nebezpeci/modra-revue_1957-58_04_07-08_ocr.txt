@@ -1,9 +1,3 @@
-komunistický mírový propaganda volání vrcholný konference kampaň jaderný zhraní oznámení sovětský svaz zastavit pokus jaderný zbraň provést zkouška potřebovat utlumit mysl západní veřejnost vědomí nebezpečí hrozící východ
-míra zmenšovat vědomí nutnost stát moci čelit nebezpečí zmenšovat vědomí nebezpečí vystupovat západ rozpor plynoucí rozdílný zájem
-příležitost vzpomínaný tehdejší doba předsednictvo agrární strana hovořený nebezpečí budoucnost hrozit kulturní stát Evropa Amerika sovětský průmyslový konkurence
-různí odborník průmysl voják vidět různý továrna průmyslový podnik sovětský říkat Evropa USA hrozit budoucnost nebezpečí průmyslový konkurence Japonsko svět bát konkurence sovětský
-vidět říkat sovětský Rusko úžasný tovární podnik růst houba déšť celý sovětský Rusko poznat veliký nebezpečí SSSR patřit stát stát stanovit pracovní mzda nízký stát určovat životní úroveň pracující vrstva léta moci vyrat
-nebezpečí celý svět
-obava opodstatněný moci posoudit laik seriosnost tvrdit věřit nebezpečí svět hrozit
-psát nebezpečí agrární
-vznést zahájení porada dotaz věc poukázat souhlas přítomný veliký nebezpečí vzniknout dostat civilní dělnictvo
+version https://git-lfs.github.com/spec/v1
+oid sha256:56add8212eea387dbb1e192410fb9462c16f28f0f10a5e5b301d3e5aa140bed0
+size 1309

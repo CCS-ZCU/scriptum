@@ -1,7 +1,3 @@
-dokazovat vysílač svobodný Evropa posluchač nabádat redakce RFE psát telefonovat upozornění hrozící nebezpečí kontrola korespondence odposlech
-hrozit nebezpečí hovor meziměstský
-slavný fyzik moci pohybovat vyjadřovat sovětský režim určitý nebezpečí Sacharo lze umlčet násilí
-geopolitický zájem dovolovat odepsat Irán předstírat existence vidět nebezpečí íránský rozprostření celý perský záliv
-střední Slovensko chybět čistička odpadní voda nebezpečí byt mít pětiletec postavený čistička napojený
-vystačit většina hrozit nebezpečí hodit hlava
-hlavní viník psychologický omyl absurdní myšlenka Titanice moci potopit plavidlo hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:36d93429c06c43e785e79c98202f58ed8d39c447857a2f5a4feb07da59cb8ea7
+size 712

@@ -1,3 +1,3 @@
- Pavel R advan našel bezpečí v Kanadě- N enašel tam ani štěstí ani pochopení.
- A m ěl starost' o bezpečí svých rodičů a přátel- K om u z nás se »fale nestalo? K dybychom měli brát vážně autorovo sebevražedné řešení, poseli bychom celou zeměkouli nevkusně pathetickým i m rtvolam i s prostřeleným i spánky.
- K dy, jak a proč jsm e sem přišli? Co nás sem vedlo, čemu jsm e věřili a čemu věřím e teď ? Bylo to, co nás vedlo dc exilu, tak špátné, že jsm e to museli zahodit? Rozpouští blahobyt a bezpečí jedněch hlad druhých po svobodě? Je ideál dem okratických svobod pro všechny lidi něco, co se jeden rok nosí a d ru hý vyjde z m ódy?-A ještě jedna nepříjem ná o- tázká, jíž nelze uhnout.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd311bfa6bbbc548623d973b981100b8f8f4823d4ef7b2380e503ef100af2df
+size 576

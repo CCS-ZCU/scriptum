@@ -1,1 +1,3 @@
-krok krůček směr zvýšení vliv lid počin vláda oddalovat nebezpečí atomický válka
+version https://git-lfs.github.com/spec/v1
+oid sha256:0154264ea99577e5a3bf7447a96ac2649f2639591fb296015dafb4b8d3d59f28
+size 93

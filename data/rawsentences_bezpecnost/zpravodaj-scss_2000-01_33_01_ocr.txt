@@ -1,7 +1,3 @@
- Zelenka 18 Přibývá přírodních katastrof? 18 Bezpečnost ve švýcarských tunelech 19 Návštěva u advokáta J.
- 99 Bezpečnost ve švýcarských tunelech Po zhoubném požáru v tunelu pod Mont Blankem (39 obětí) v březnu 1999 a o dva měsíce později v tunelu v rakouských Taurách (12 obětí) se prudce zvýšily obavy uživatelů dálnic při průjezdech tunely.
- Spolkový dopravní úřad nechal přešetřit bezpečnost 102 švýcarských tunelů delších než 600 m.
- Bezpečnost v tunelech závisí na hustotě provozu, infrastruktuře, kvalitě vozidel a zejména na chování účastníků dopravy; proto doporučuje kontrolní skupina spolkového dopravního úřadu mimo technických a provozních zlepšení četná opatření u vozidel a řidičů.
- Dále bezpečnost v tunelu se dvěma rourami je vyšší, než v jedné rouře s protisměrmou dopravou.
- Spolkový pověřenec pro dokumentaci svazků bývalé východoněmecké státní bezpečnosti Joachim Gauck v jednom rozhovoru vyslovil v souvislosti s dešifrovanými záznamy přesvědčení, že je nutné pokračovat v podrobné dokumentaci aktivit Stasi.
- Podle jeho slov nejde o výlučně „východní téma“, jelikož v západní části kdysi rozdělené země spolupracovalo s komunistickou bezpečností řádově dvacet až třicet tisíc lidí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37178fa5b67d51edb988498b7faede913cdb28eb256fd928c5b7ad4d8d727984
+size 1347

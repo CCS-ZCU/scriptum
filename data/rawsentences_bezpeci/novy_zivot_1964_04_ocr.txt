@@ -1,2 +1,3 @@
- Bylo nutné vyklidit všechny misijní stanice v okolí ; sedm řeholních sester uvedli do bezpečí členové protestantské misijní stanice.
- Personál stanice — 25 Belgičanů a 5 Kanar anů — musel se uchýlit do bezpečí, protože komunističtí bojůvkáři stále působí nepokoje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2544dd59ed83f4438cd77cdfa0407f06da925701c985f3a94f4cd45e65f2fe3b
+size 298

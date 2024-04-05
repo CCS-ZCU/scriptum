@@ -1,2 +1,3 @@
- I v zátiší dočasného míru a zdánlivého bezpečí je proto mezi normálními lidmi daleko snaz- ší říci: přestaňte střílet, zastavte zabíjení, než stří- lejte dál a zabíjejte! Přáli bychom si proto, aby všechno bylo tak jasné jako kdysi, aby ve Vietnamu, jako kdysi v Evropě, bylá jasná volba mezi slušným, demokratickým způ- sobem života a obludnou ideologií, která znamena- la otroctví.
- Ne- krk, šlape po nohách, bezpečí barbarů v poly- chce to a chce ono, pryč estrovém balení je akut- je láska, z humanity je ní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c54e6359d72cbbbffaafede557ca6a687a2af1628341282932a5d2e35c3731
+size 552

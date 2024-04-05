@@ -1,2 +1,3 @@
-chtít laskavý soud chtít omlouvat metr pochopení dát popřít vážný nebezpečí bezbožectví metr aterialismus národ podrobený tížit sténat dát popřít otroctví jednotlivec masa otroctví obor metr yšlení otroctví jednání
-jednota knutí posílení apoštolát pravda pravý lidský křesťanský bratrství moci odvrátit velký nebezpečí hrozit svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf87f646692e3ce6fe931832d37c957dfb69e6add1249a87780785e4d171efad
+size 376

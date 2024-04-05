@@ -1,2 +1,3 @@
-německý národ smutný skutečnost uvědomit jednotný mít smířit □sudem čekat příznivý doba řešení problém vyřešení lze řešit evropský bezpečnost
-znát případ novinář Vladimír skulina jiný státní bezpečnost úkon zatýkání propouštěný udělat hra vlastní ipravidlo
+version https://git-lfs.github.com/spec/v1
+oid sha256:a62018618234d3db03b39d0a351bb55f60439dd69b2a63ccff98929a39f24337
+size 303

@@ -1,2 +1,3 @@
-zločinnost považovaný produkt detektivka omluvený zákonný norma trestající propagace násilí zavolaný vládní komise uvést funkce hezký návrh bílý kruh bezpečí
-platit vysoký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d99375abd782baf6ce48be692409e1e80dbf0fe273bc48ac5899357eac86a43
+size 198

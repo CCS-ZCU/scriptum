@@ -1,2 +1,3 @@
- V první části je zachycena kalvárie katolického duchovního a „zázrak”, který nastrojila Stárni bezpečnost, v druhé části je pak zachyceno rehabilitační řízení, přiznání vyšetřovatelů, kteří ve vládní kampani proti náboženství neváhali na příkaz „shora” 1 zabít nevinného.
- Bezpečnost, stranické orgány a pracující hledají pachatele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:369a7a3aff412134e3941b0d179290018510d28371aa1baf2ccf42ea031c451e
+size 384

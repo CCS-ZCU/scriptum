@@ -1,1 +1,3 @@
-komunista tvrdit balónek leták vypouštěný západní Německo československý hranice ohrožovat bezpečnost let
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2a4f93e165f73ae71223b333129b6768be9cb75b40021b43302008f796e04b
+size 118

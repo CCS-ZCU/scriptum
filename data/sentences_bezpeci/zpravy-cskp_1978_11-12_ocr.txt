@@ -1,1 +1,3 @@
-zvíře přerušit výbuch sopka zimní spánek opustit brloha přemístit bezpečí vzdálený oblast
+version https://git-lfs.github.com/spec/v1
+oid sha256:934272d8de0acd285612d37cca3bc83cf09b860823132e39cb40c10592a40afa
+size 103

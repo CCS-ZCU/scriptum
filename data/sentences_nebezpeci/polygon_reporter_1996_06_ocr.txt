@@ -1,9 +1,3 @@
-nebezpečí KSČM snažit přesvědčovat český veřejnost demokratický strana přestávat spolupráce sociální demokracie nabízet
-námluva směr sociální demokrat vytvářet potenciální nebezpečí
-nebezpečí mládí omezit český píseček dokázat pohlédnout domácí humna Rafael hrozit
-finanční reforma dojít
-existovat reálný nebezpečí takzvaný
-konečný platnost potvrzený lze požití kousek ementál zaklepat obuv
-lidé zahynout hovězí
-
-nebezpečí veliký nebezpečí přesahující nemoc šílený sýra křičet pomóóóc ozvat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb14f587b4f54dd62c11f6eba9890963f1957ddab23507f650072130b9aa669
+size 564

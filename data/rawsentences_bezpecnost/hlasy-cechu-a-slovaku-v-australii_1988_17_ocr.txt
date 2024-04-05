@@ -1,2 +1,3 @@
- Tvrzení, že vývoj událostí v Československu v srpnu 1968 ohrožoval bezpečnost Sovětského svazu, je bláhový nesmysl - což lze pochybovat, jak by to bylo skončilo, kdyby byl československý trpas- 4 HIASY lík napadl sovětského medvěda? Nezapomněli jsme ještě a nikdy nezapomeneme, jak to vypadalo po únoru 1948: lidové soudy a politické procesy, tisíce nevinných lidí ve vězení v Leopoldově a na Borech, tisíce na nucených pra- cech v Jáchymově; i malé děti krmeny jedem komunistické propagandy.
- I když pro bezpečnost Spojených států a jejich spojenců už šestým rokem vyvíjíme Iniciativu strategické obrany /SDI neboli Star Wars/, žádáme Sověty, aby s námi uzavřeli novou dohodu o řízeném, stabilizujícím přechodném období, vedoucím ke vztahům závislejším na obraně pro případ, že se efektivní obrana ukáže neuskutečnitelná .
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb7e817a47b3ea9c4df54eb86fa3e6dd83532010cfd5bae53c83aab71ef52853
+size 904

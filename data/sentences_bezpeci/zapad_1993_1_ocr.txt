@@ -1,1 +1,3 @@
-postarat bezpečí korý novační klenot
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c39ec0b7493b50364e4e1c708c0de1f550fbb34e8b289a0be313dade36c22e8
+size 140

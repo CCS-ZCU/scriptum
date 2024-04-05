@@ -1,1 +1,3 @@
-chvíle vzpamatovat pronést dojatý hlas věta chtít vyjádřit dojmyo ucho sněžný muž cvičený jemný slovní nuance zaznamenat nebezpečí jméno lov
+version https://git-lfs.github.com/spec/v1
+oid sha256:d678bf30f1abd6f36c5a09953706e7210743a1706cbf8f142a041a0066d2e749
+size 159

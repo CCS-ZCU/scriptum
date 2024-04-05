@@ -1,2 +1,3 @@
- Neúprosně odkrývají všechna ne- bezpečí, která hrozí dnes i v budoucnosti.
- Jeho stabilit a vytrvalost dává ženě pocit bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:361776f0837fb046af94fa6584ec012e40067379fe9bacee59fc199d0e308b02
+size 59

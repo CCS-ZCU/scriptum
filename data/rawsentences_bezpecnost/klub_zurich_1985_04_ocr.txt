@@ -1,1 +1,3 @@
-komunismu, k t e r á se také mstí za pomoci t a j n é bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c520f7d2dd644ed52fd00615428ff2c87332829bcfc7d916c9e0506dc7341d41
+size 72

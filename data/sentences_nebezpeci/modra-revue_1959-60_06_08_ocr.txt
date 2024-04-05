@@ -1,1 +1,3 @@
-redakce mít rada vyvarovat nebezpečí majorisování skupina
+version https://git-lfs.github.com/spec/v1
+oid sha256:2670faad2efba098ec38287bbe5bc2c0512dcd03d44af53dae19ff8c74c1571d
+size 63

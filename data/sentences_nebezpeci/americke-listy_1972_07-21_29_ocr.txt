@@ -1,1 +1,3 @@
-poznatek padesátý léta zpráva uvádět mít někdejší autor kumpán vedení strana přečíst Stal' zhoubný these zostřovaný třídní boj vítězství dělnický třída nebezpečí možnost nepřítel pomoc agent moci zmocnit vedený jednotlivý strana přehnaný absurdita
+version https://git-lfs.github.com/spec/v1
+oid sha256:367da80f3c5fa36a0a08fc847446b43bfde20a73d21a1947038fd4631d773473
+size 285

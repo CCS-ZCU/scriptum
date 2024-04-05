@@ -1,3 +1,3 @@
- Nemůže si dělat nárok na vědeckou přesnost a bezpečnost, ale jenom na pravděpodobnost.
- Dej také, ať na přímluvu této naší matky a královny se naše víra těší neustále svobodě a vlast bezpečnosti«, modlil se liturgickou modlitbou a do ochrany P.
- Atomové zastrašování, není-li možné se ho zříci okamžitě, a to nějakým náhradním řešením, aby se uchovala bezpečnost, bylo by morálně přijatelné jen za jistých podmínek; jednou z nich je, aby zastrašování mělo opravdu za cíl zabránit válce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e337a87fc747a8763d104257cc4101b1e927bf02f0ac904c3cc6ed96ac673c
+size 545

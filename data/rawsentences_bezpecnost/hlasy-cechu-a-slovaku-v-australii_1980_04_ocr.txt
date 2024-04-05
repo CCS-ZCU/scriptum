@@ -1,1 +1,3 @@
- Čím dříve tento úřad skončí svou přechodnou existenci, tím lépe bude pro bezpečnost Austrálie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b094abdb885ee146454dc3b2eb15fb99620e1e45617e766bcf3af18ddba3e2c
+size 109

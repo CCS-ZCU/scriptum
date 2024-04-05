@@ -1,1 +1,3 @@
- Odpovědnosti, jíž nás násilné odnaučovali, ale jíž j oco so také často kvůli svému zdánlivému pohodlí a bezpečí vzdali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e2a16faf4ed5395f4f28e68719b4abef71b743d53b7d29b9be0b9c0e01a11e
+size 139

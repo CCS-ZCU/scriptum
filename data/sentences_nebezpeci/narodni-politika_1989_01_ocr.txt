@@ -1,1 +1,3 @@
-nynější tendence centralizace hromadění moc označovat nositel Nobelův cena míra ndrej Sacharov smírný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:905e3257ff34946c4662b2b1d7de4ac2090288468d4e365ec392706b2d4050d2
+size 124

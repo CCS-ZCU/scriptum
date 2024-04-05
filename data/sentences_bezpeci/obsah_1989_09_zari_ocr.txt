@@ -1,1 +1,3 @@
-výkon potřeba cyklista předjet stát vůz přijet minout půlmetrový vzdálenost říci sledovaný ručit přesný znění promluva
+version https://git-lfs.github.com/spec/v1
+oid sha256:477e96c478eae88a1e71f242428903c78df0652346ad709045c2d801d3658b7a
+size 136

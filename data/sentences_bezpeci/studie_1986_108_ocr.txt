@@ -1,1 +1,3 @@
-zpozdilý aso ciální protispolečenský protikřesťanský stát bezpečí totalizace vzdávat vliv konkrétní záležitost spolý čenský život
+version https://git-lfs.github.com/spec/v1
+oid sha256:88ab21e4ef51ca58094a05fb8a1b2ca35f3c20a1ec3ccd1d6d26b9418e51a27d
+size 150

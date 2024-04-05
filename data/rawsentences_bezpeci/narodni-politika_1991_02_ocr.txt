@@ -1,1 +1,3 @@
-  Osmá strana NÁRODNÍ po l it ik a Únor 1991 Čtyř-až šestinásobné zvětšeni kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? Švýcarské bankovnictví a pojišlovmctví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc8d8a1a97d17b8c93f01b4e0d647218e406bfb43b02798ce6d901a73d51536
+size 106

@@ -1,6 +1,3 @@
- Avšak ze všeho nejvíce musíme ocenit odvahu a statečnost signatářů, kteří svým podpisem riskují ztrátu existence i osobní bezpečnost.
- Svobodu a demokracii v Československu považujeme za nezbytný předpoklad trvalého míru bezpečnosti ve střední Evropě.
- Bude totiž hodnotit, jakých výsledků dosáhly Helsinky číslo jedna, jinými slovy, jak sc po dvou letech uplatňuje Závěrečný dokument Konference o evropské bezpečnosti a spolupráci, která sc konala ve finském hlavním městě roku 1975.
- článku 12 prvního paktu, zaručující občanu právo svobodně opustit svou zemi; pod záminkou „ochrany národní bezpečnosti“ (bod 3.
- ledna popsal incident, který' vyvolali příslušníci Státní bezpečnosti se spisovatelem Pavlem Kohoutem a jeho ženou.
- pojistné doby ani po nabytí německého občanství (a ti starší jen výjimečně), pochopit, že osobní a majetková bezpečnost se nedá získat dodatečně, když je již pozdě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7795bc538f7e52c35c7b03a88eeb5526965300dabb9eae549219678d305cea99
+size 992

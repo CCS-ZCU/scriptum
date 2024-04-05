@@ -1,1 +1,3 @@
-říci válečný nebezpečí spočívat značný rovnováze pozemní síla NATO mít střední Evropa voják
+version https://git-lfs.github.com/spec/v1
+oid sha256:78db06e9ea42d665ff352efe08deb1a8011ac19a6eee5ba82a55385bdeb6b16b
+size 110

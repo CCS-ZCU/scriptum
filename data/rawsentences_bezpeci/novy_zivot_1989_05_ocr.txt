@@ -1,1 +1,3 @@
- Teď mi připadá, ale nevím to určitě, že se mi i možná nechtělo vracet se do dalších bo- lestí a lidských nejistot, když T A M byla takov í JISTO- TA, BEZPEČÍ, LÁSKA — ale to jsou jen lidská slova.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caed677e995734287424aa87ac9d6c91ef7f24ff2ded77c8d9b2ae6531630b6e
+size 216

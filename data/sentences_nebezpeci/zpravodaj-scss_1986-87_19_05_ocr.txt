@@ -1,2 +1,3 @@
-složitost moderní společnost přinášet nebezpečí stát projevovat odcizení občan
-uvědomělost pronikat praxe znamenat velký nebezpečí chyba omyl
+version https://git-lfs.github.com/spec/v1
+oid sha256:df4ddd05a4efb49a3cda220622fd64ee44aead3666ff9f60794f4becc5ac2aae
+size 158

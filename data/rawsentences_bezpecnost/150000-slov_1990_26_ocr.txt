@@ -1,9 +1,3 @@
- Hrstka zbývajících podpisů nebyla dostatečná, aby komukoli zaručila bezpečnost, a návrh kolektivního podpisu petice jménem filharmonie byl odložen ad acta - bylo to fiasko.
- Účastníci diskuse: Egon Bahr, člen předsednictva SPD, ředitel ústavu pro otázky míru a bezpečnosti, Hamburk; Daniel Bell, profesor sociologie na Harvardově univerzitě, Cambridge, Mass.
- Dnes se musím divit: co dalo těmto lidem sílu? Co umožnilo Sacharovovi, Kisovi, Havlovi žít po léta způsobem, kterým žili? Proč velký fyzik, vynikající filozof a známý spisovatel a esejista opustili akademické dráhy a obětovali svobodu, klid a osobní bezpečnost zdánlivě beznadějnému boji proti komunistickému leviatanu? Ani jeden z nich se nikdy nepovažoval za muže povolaného Bohem nebo za politika.
- Katolíci, kteří se vzepřeli, se ocitli ve vězení, jako ještě v létě minulého roku Ján Čarnogurský -poté první místopředseda vlády v Praze, zodpovědný za vnitřní bezpečnost.
- Jak v ekonomickém směru, tak i z hlediska bezpečnosti máme zájem na dalším snižování mezinárodního napětí a vojenských výdajů na obou stranách.
- Byli bychom rádi, kdyby se Sovětský sváz institUClbhálHě podílel na diskusích o budoUciiii bezpečnostním systému Evropy v rámci Korife- rcnce o bezpečnosti a spolupráce V Evropě.
- Sovětský svaz si přeje, aby byla bezpečnostní otázka zatím odložena a aby se pokračovalo v jednáních, jejichž cílem je nálezem "spolehlivých záruk stability a bezpečnosti pro příští desetiletí".
- Z hlediska její vnější bezpečnosti, ale i v oblasti vnitropolitické.
- Získala regionální podporu pro obsazení místa vyhraže- ného v Radě bezpečnosti OSN pro Latinskou Ameriku, když přesvědčila vedoucí představitele příslušné oblasti, aby odmítli nátlak USA na postavem alternativního kandidáta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d608780f4664a48a1b5c69006ac8beba12528e3b1b62eb8e6ae3b3d9fb3b0074
+size 1915

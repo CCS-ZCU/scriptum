@@ -1,1 +1,3 @@
-povědět vekslák součást úřední odčerpávání tvrdý valuta státní bezpečnost trpět vykupovat cizinec valuta nakupovat tuzexový bon prodávat tuzemce
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea6a7a167cc189ff3e84b820d4588567799a308c1031ab31ee98a2c351b6a74
+size 164

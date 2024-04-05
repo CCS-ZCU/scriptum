@@ -1,1 +1,3 @@
-důstojník požádaný snažit dostat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:deee56a1710c00284b3ef40fed8491c0a5c888eb2443a58fc28fed0068cd00c8
+size 49

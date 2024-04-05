@@ -1,2 +1,3 @@
- 1966 H L A S D O M O V A • 3 - Vyrovnejte laskavě PŘEDPLATNÉ Obliba Veřejné bezpečnosti Je veliký rozdíl mezi policií za kapitalismu a mezi příslušníky Veřejné bezpečnosti v lidově- demokratickém státu - tvrdili po Únoru do omrzení komunističtí pohlaváři a vysvětlovali, že Veřejná bezpečnost jde s lidem a praícuje pro lid, zatímco dřívější četníci a policisté tu byli jen k ochraně zájmů kapitalistů.
- Veřejná bezpečnost však výčitky v tomto směru nezaslouží.
+version https://git-lfs.github.com/spec/v1
+oid sha256:159aa08ac9af066dcceab657c5a7f96e15b654886bff58a70e9d865544277de1
+size 518

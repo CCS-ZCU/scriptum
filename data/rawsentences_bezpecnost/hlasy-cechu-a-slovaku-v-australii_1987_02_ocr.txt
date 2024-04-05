@@ -1,2 +1,3 @@
- Požadavků, které se ovšem vládě ani v nejmenším nesnažily cokoli diktovat, pouze ji vybízely ke spolupráci na řešení určitých problémů, očividných a chronických, až úzkostlivě přitom vycházejíce ze závěrů Helsinské konference o spolupráci a bezpečnosti v Evropě /především z těch, které se týkaly "respektování lidských práv a základních svobod člověka, včetně svobody myšlení, svědomí, náboženství a přesvědčení"/, pod něž se dotyčná vláda v r.
- vládu příliš: automobil do jejího předsednictva nikdy nedo- jel, jeho osazenstvo skončilo v rukách Státní bezpečnosti a poté události nabraly rychlý spád.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dabad51d10fabdb01d43ff52bf136967bd2fb4d8aa754a7d21443caf685a62c
+size 684

@@ -1,1 +1,3 @@
-zákon stávat smlouva potlačený zákonný čin uvádějící nebezpečí civilní letectvo šestý zákon policejní dozor propuštěný vězeň
+version https://git-lfs.github.com/spec/v1
+oid sha256:a51127cb82db55320c47347168c1af5a464855c3b62002af938bf6e0f0a122c5
+size 148

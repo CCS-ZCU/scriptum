@@ -1,3 +1,3 @@
- Západ nemůže Sovětskému svazu pomoci, jak se často naivně tvrdí, k “uspokojení jeho potřeby bezpečnosti”.
- Jestliže ani Železná opona neposkytla totalitnímu režimu pocit bezpečnosti před “prosakováním nepřátelské ideologie” (ve skutečnosti ovšem plyne pocit ohrožení ze samé existence odlišného systému), jak teprve bezbranným by se komunismus musil cítit v otevřené soutěži se svobodným světem! Puzen zoufalou a marnou snahou o stabilisaci, ohrožuje sovětský systém stále více a více holý život lidského pokolení.
- Všechny články, o nichž se politický důstojník domníval, že ohrožují bezpečnost věznice, byly vystříhány nebo bylo zabaveno celé číslo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c1fc620d4914fee182c0cfee950bcd08c629a170487594a81fc59e9bc822fe
+size 730

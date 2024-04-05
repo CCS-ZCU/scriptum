@@ -1,1 +1,3 @@
- Chce si nasilu strana upútať na seba plne ódium národa, ktorý predsa aj podľa oficiálneho výskumu je na 905% veriaci? Vari v KSS už nikomu nezáleží na tom, čo si myslí celý národ a okolitý svet, ktorý žasne nad brutálnosťou štátnych orgánov, ktoré namiesto úlohy bezpečností sa stali nástrojom násilia (bratislavská manifestácia veriacich) ? Vládni činitelia by nemali zabúdať, že nie človek je pre štát, ale štátne orgány majú slúžiť pre človeka a jeho dobro — inak sa stávajú zneužívanou inštitúciou proti samému človekovi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca85d668eba6e9d2f7a47c9e8d2a31c645e7c4ad0c015af5bce227a18c637a27
+size 585

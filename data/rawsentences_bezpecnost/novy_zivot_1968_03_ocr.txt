@@ -1,1 +1,3 @@
- * Ve státním rozpočtu ČSR na rok 1968 se proti loňsku zvyšují výdaje na obranu a bezpečnost skoro o 7%; prý to vyžadují současné vztahy ve světě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f793f90762d3bd04fbedc2dbf8dabb5ff5d622efdc531cacb67455524a4ffb27
+size 163

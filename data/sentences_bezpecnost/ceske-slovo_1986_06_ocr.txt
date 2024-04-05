@@ -1,1 +1,3 @@
-červen delegace Washington úřad národní bezpečnost bílý dům sekce sovětský východoevropský záležitost ministerstvo zahraničí úřad předseda polirický výbor senát podat zpráva současný situace středovýchodní Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:64eb9698130b304a186404e9e10ba9475da62111b7e2c5c1afaf74e94759b29a
+size 242

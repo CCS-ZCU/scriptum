@@ -1,2 +1,3 @@
-jediný skrývat budoucno přímý vážný nebezpečí sovětský svaz
-CML Melbourne rozeslat dopis anglický řeč australský importní firma odborový organisace upozornit nebezpečí škoda plynoucí navázání velký obchodní styk ČSR propagovat čsl
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec7d5288056cdb3f534da1a79e0e14f349e3f54d325b787018847872fffe32bf
+size 260

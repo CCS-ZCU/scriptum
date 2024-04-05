@@ -1,5 +1,3 @@
- Vláda schválila strategii romské integrace do roku 2020 Materiál obsahuje opatření ve vzdělávání, bydlení, zaměstnávání či v bezpečnosti, která mají pomoci zvrátit dosavadní nepříznivý vývoj a zhoršování situace Romů a srovnat jejich podmínky s ostatními obyvateli.
- Soud potvrdil podmínku členovi StB za zbití mladíka v roce 1989 Pražský městský soud potvrdil tříletou podmínku pro bývalého příslušníka komunistické Státní bezpečnosti (StB) Petra Berana, který podle obžaloby zbil sedmnáctiletého Davida Kabzana při výslechu v roce 1989.
- Toufar zemřel v roce 1950 po krutém mučení vyšetřovateli komunistické Státní bezpečnosti, kteří ho chtěli přinutit k doznání, že v kostele zinscenoval zázračný pohyb kříže na oltáři.
- Američtí vojáci podle něj nepřišli zemi porobit, ale bojovat za ideje a hodnoty - svobodu, demokracii a bezpečnost.
- Doprava plánuje utratit miliardy za inteligentní dopravní systémy Čidla a družicové systémy by měly do budoucna zvýšit bezpečnost dopravy, umět předpovídat sesuvy půdy nebo prudké zhoršení počasí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d4806e4f660744fa32467f9bcd81c2c0cb638d113a9eee04799909a8a64c9dd
+size 1150

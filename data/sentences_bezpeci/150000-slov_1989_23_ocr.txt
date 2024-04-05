@@ -1,2 +1,3 @@
-přát zdravý bezpečí duše
-Bharati Mukherdží narozený Indie žít USA rád abyste Salmane vědět záležet osobní bezpečí zachování kniha poselství úzkost zachvátit vlastník knihkupecký síť naneštěstí dostat novinový titulek
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dac1bb698122803298e25f28220d811a388073dec7b041430823ffa90052140
+size 249

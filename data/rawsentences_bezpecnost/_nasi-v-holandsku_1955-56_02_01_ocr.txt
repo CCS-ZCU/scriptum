@@ -1,3 +1,3 @@
- Čo sa týká účelu ženevskej konfercn- cie„- jednomyslný názor členov politického výboru Zhromaždenia europejskej, rady je,že pokoj,klud a prosperita sveta vyžaduje vynesenie troch hlavných problémov dnešnej doby; organizovanie vzájomnej bezpečnosti,sjednotenie-Nemecka a sjednote- nie rozdelenej Európy.
-Vo zprávě sa výslovne hovorí: ''Neutralizácia Európy za týchto pomerov je nemyslitelná z dôvodov vojenskej bezpečnosti a politickej samostatnosti,To by znamenalo koniec Európy.
-Keäže systém európejskej bezpečnosti na jednej strane vyžaduje ustanovenie pre vojenskú bezpečnosl Ruska,na druhej strane vyžaduje,aby každý európejský stát bez rozdielu mal právo stal sa členom európejskej organizácie povahy politickej,a hospodárske j.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eddb606754674e56de5dfb0afc2251192e3c76ce92cb304a793a3cb224d36f0
+size 787

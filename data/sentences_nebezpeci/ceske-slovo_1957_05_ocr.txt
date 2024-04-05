@@ -1,4 +1,3 @@
-hrozit nebezpečí satelit ztratit sovětský svaz začít důl drancovat velký ložisko vyčerpat komunistický věc konečný platnost ztracený
-pokusit satelitní stát získat svoboda závislost válka vážný nebezpečí válka vyvolat
-pravit člen strana mít správný názor základní politický ideový otázka Slovensko existovat nebezpečí bur žoasni nacionalismus západ Jugoslávie KSC vytýkaný konservativní vzít poučení
-skalnatý ples známý tatranský jezero hrozit nebezpečí léta zaniknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad27329a7a36df753e9b4949b456eade8f12232d6d18b33bba8149d20031532
+size 521

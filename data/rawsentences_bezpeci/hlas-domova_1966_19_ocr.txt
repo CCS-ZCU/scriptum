@@ -1,1 +1,3 @@
- Před ni, nebo vlastně před její majitele, byly postaveny dvě možnosti: bezpečí a zaopatřené závětří zoolo- gické zahrady nebo rizika a zápasy svobodného ži- vota venku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65aebe835e782f9b4e4ba93199c3385b11f281cc81e1315e2dfb87febeb72c10
+size 184

@@ -1,1 +1,3 @@
-bezpečnost chtít celý věc učinit atraktivní průhledný trik magnetofonový páska zaslat rudý právo jmenovaný člověk Paříž
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bfe061a9900e5c56a096e0fd6adfcbc3a555277e3cfad32227279529bcaac8f
+size 138

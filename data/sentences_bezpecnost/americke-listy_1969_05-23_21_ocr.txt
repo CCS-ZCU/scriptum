@@ -1,1 +1,3 @@
-říci president Nixon považovat evropský bezpečnost důležitý vlastní
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3f89a22f9cd3ea787164af9d016bd3a46c6e886840aa3c3698d7e7742a99a78
+size 77

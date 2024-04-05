@@ -1,1 +1,3 @@
-kletba střecha zlomit zapomeno puma město život zašumit čas povědomý žít plna trocha pocit žit myslit smrt život rozkoš ticho bezpečí vrátit dům ležet meč spát bezbraní volat spaní srdce ležet porný Březinův dílo známý
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd4295cd089a1af3626bd2ce77b0f7356aaed15b6537eb38e95067d8402cf4c1
+size 247

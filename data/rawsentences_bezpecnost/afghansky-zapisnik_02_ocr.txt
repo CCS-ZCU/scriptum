@@ -1,6 +1,3 @@
- V měsíci červnu jsme dvakrát zaútočili na heliport v Ghazní a na sídlo milice a KHADu <= státní bezpečnosti>.
- Na této formě hospodářské pomoci pochopitelně participuje i sovětská moc: vozy Tatra se používají na stavbě kábulského sídliště pro rodiny příslušníků režimní armády a Bezpečnosti a jsou k dispozici sovětským okupačním jednotkám.
- Sověti si nemohou myslet, že jim bude dovoleno ve vší bezpečnosti opustit Afganistan, aniž by uhradili válečné škody.
- Afganistan potřebuje konečně mír, klid a bezpečnost.
- Jeho úkolem nepochybně bylo připravit přímou sovětskou agenturu v afgánské Bezpečnosti na nadcházející invazi.
- Adresátům je to nejen nechutné, ale vskutku i nebezpečné, cítí v takových slaboších ohrožení své bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75887c8bf629e5ee6477e3772238defc80d04ba18550acd6346d8f761e2cf776
+size 821

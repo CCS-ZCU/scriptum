@@ -1,4 +1,3 @@
-Troubkyjsa léta voda zlínský kraj vyhlásit stav nebezpečí britský vojenský jednotka mít rámec cvičení létající nosorožec výcvik nabídnout pomoc vrtulník
-válka skončit diskutující shodovat názor komunismus představovat nebezpečí problém považovat
-současnost nebezpečí ruský hospodářský síla existovat hrozba vidět
-nebezpečí právo menšina pošlapaný sdělovací prostředek rozvášněný většina existovat pravděpodobnost akce malý případ většina parlament názor zázrak občan parlament zvolený lepší parlament zvolený
+version https://git-lfs.github.com/spec/v1
+oid sha256:98593ced028f21df8fa51281486618b65ba1eaa233da290aaeee083cf0e3668e
+size 575

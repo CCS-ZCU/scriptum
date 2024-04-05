@@ -1,3 +1,3 @@
-moci opakovat výrok západní diplomat Moskva moci jaký zákon omezit moc praktika instituce chvalný známý výbor státní bezpečnost KGB
-léta bezpečnost NKVD doba sovětský mapa řeka železnice most posunovat skutečný poloha kilometr město stěhovat břeh druhý souhlasit posunout celý souřadnicový síť
-rezoluce žádat vláda spolupracovat kongres eventuální úměrný odveta jiný porušování dohoda ohrožující národní bezpečnost ujišťovat prezident kongres ochotný zabývat kole odvetný opatření vyžadovat schválení kongres
+version https://git-lfs.github.com/spec/v1
+oid sha256:6df5eaac137e31e44dae2df1bcf700666e53177bcb35227d4d647a762ab47e34
+size 561

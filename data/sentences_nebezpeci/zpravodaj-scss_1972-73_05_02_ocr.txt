@@ -1,3 +1,3 @@
-únor prohlášení upozornit stanice vážný nebezpečí zastavení velký ztráta západ
-otec darovat syn vzduchovka vysvětlit nebezpečí napomenekopatrnost zacházení
-doporučovat dovolovat fysický práce svěřenec nebezpečí úraz nebezpečí poškození objekt
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e68ed967b700e8ed32da05b56bf1ac0d89c8ef2e50fa3bc529f672122fcca4
+size 273

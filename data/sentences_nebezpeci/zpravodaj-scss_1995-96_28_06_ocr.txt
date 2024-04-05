@@ -1,7 +1,3 @@
-poukazovat nebezpečí zlhostejnění nový generace odkaz otec burcovat varovat rodič veřejnost ústavní činitel
-poukazovat nebezpečí zlhostejnění nový generace odkaz otec burcovat varovat rodič veřejnost ústavní činitel
-Slovensko nebezpečí rozvoj demokracie Slovensko začátek květen vyslechnout národní rada slovenský republika uzavřený jednání zpráva činnost informační služba vyslovit Michal Kováč nedůvěra
-vláda chtít vzbudit dojem Slovensko vysazený nebezpečí terorismus
-ministr spravedlnost vážený pan ministr informace obdržet upozornit předseda okresní soud nebezpečí vyplývající množný dvojnásobný restituční požadavek krajan
-malý nebezpečí hrozit vlast
-vynikající státnický strategický schopnost spoluobčan vycítit doba mnichovský nebezpečí moment vypuknutí přímý ohrožení dát naprostý důvěra
+version https://git-lfs.github.com/spec/v1
+oid sha256:628c256f3cfa796f5bd25b982540cf9c9024cd64f8835a4739a4fd73e0ae08e8
+size 885

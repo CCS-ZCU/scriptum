@@ -1,2 +1,3 @@
-komunistický režim vědomý nebezpečí revoluce malovat strašák bezuzdný kapitalismus vyhrožovat návrat
-základní přeměna hodnota znamenat smrtelný nebezpečí lidský kultura vysoký cenný vyvěrat porušení intelektuální poctivost úpadek mravní duchovní síla západní civilisace
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c62bae3605d0af0e0ad2545d75006120dfb7c66f584e5b059b4860988c1a058
+size 302

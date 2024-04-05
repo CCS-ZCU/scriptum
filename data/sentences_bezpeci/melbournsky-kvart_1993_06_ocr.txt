@@ -1,1 +1,3 @@
-zmizet určitý mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fbc1288af3fdfef17a81bd06a178baa0eb81b4141959b88ab1808ffd65d71b7
+size 21

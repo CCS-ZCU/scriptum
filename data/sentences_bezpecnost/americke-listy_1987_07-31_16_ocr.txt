@@ -1,1 +1,3 @@
-učitel vychovatel přijímat den hodina zodpovědnost bezpečnost zdraví dítě mít práce provádět velký počet maminka babička jiný
+version https://git-lfs.github.com/spec/v1
+oid sha256:6112bc43e57525d230b7f3859fba23fb6c1776b6cf598a71c4da9e3dc318c871
+size 142

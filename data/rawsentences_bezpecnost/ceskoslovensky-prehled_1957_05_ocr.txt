@@ -1,1 +1,3 @@
- zákonu o ‘vzájemné bezpečnosti’.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90b30f2e2e108620e61b570a052230710022381c9fd128b4af40c3791078f31a
+size 42

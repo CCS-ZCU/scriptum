@@ -1,1 +1,3 @@
-Feierabend prezident říci muset opatrný nebezpečí Jiří Karger rozhlásek Karel Kryla léto
+version https://git-lfs.github.com/spec/v1
+oid sha256:899764313a4bd427e3bbb9c639bdf0b22bf4ce886d9643be0fc4a9cd40d070ac
+size 98

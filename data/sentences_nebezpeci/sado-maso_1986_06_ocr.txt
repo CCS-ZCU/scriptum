@@ -1,1 +1,3 @@
-pohybovat mez zašmodrchání nebezpečí moci přijít přicházet tanec rozum
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9fd958ca394d120fe90b7bd6ead7e2601e635619e61342205a3d3d7eca1f1d
+size 80

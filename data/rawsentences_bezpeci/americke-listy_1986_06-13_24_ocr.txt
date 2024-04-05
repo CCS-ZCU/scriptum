@@ -1,1 +1,3 @@
- Samotný důkaz, že tito muži byli ochotni riskovat život, majetek a bezpečí vlastních rodin příchodem do Izraele, často i v pokročilém věku, vytvořil z nich skutečně mimořádnou skupinu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2f39e0086b89f42f65ed46fcc8b05f40ceb8bb9bd2725bb6a7af657808da9d4
+size 205

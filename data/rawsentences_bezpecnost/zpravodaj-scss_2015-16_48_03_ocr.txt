@@ -1,1 +1,3 @@
- Aktivizační programy, knihovna, • Otevřenost vůči veřejnosti, bezpečnost multifunkční sál a soukromí pro klienty .
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca3e222bb22e653ab0919005e90e92d10385f3406f539c132c35c3ec028063a
+size 129

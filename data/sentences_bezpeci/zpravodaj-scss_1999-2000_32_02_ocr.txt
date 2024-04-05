@@ -1,2 +1,3 @@
-švýcarský bankovnictví pojištovnictví skýtat vysoký možný záruka solidnost bezpečí
-divoký slepice utíkat bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e3da00d3bec7677963edb51241988ae30aec3f36e9ebe2e26943d8d9e56ed2a
+size 130

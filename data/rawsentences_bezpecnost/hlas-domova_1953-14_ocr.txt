@@ -1,1 +1,3 @@
-Ministerstvu štát ~ nej bezpečnosti boly nepřetržíte podávané referáty o situácii v priemy- slových oblastiach.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7d3ce58f674806ba826675f2eeee24d4f6f54e4a5342bd0a863ceb841af76f9
+size 123

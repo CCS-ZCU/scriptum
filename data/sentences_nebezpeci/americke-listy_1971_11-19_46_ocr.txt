@@ -1,8 +1,3 @@
-vše pochyba nový kurs mít nebezpečí
-jiný kurs mel nebezpečí velký
-nebezpečí budoucí konflikt přinutit Moskva zvýšení vojenský potenciál východní oblast SSSR
-jít vstup vojsko varšavský pakt ČSSR přehánět síla význam antisocialistický živel nebezpečí vpád západní Německo
-nebezpečí existovat
-nebezpečí skutečný kontrarevoluce přehnat člen KSČ řada inteligence označit kontrare volucionář nepřítel socialismus dopustit oportumstický chyba
-nebezpečí skutečný rtunismus nej vysoký míra přehnat číslo
-říci třída poznání nebezpečí kvalifikovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:909b0e830eab00c970e6f599835ceb23116c7a5c513f65df01b524055ec63122
+size 609

@@ -1,1 +1,3 @@
- Ofi- ~ ciálně to zdůvodňovali tím, že USA neposkytují sovětským sportovcům dostatečnou záruku bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88756d7682978e13262d41a670db6c773735b70352253999ce2d30c47a5525fb
+size 121

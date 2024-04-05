@@ -1,1 +1,3 @@
- Od příštího čí'sla Voknoviri začneme o- tiskovat na pokračování poučení o právech a povinnostech občana při styku s bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e22605898ae856e0d97c4d2b305c5fef66abecc2a6dff54b8b00b8eac895f6b
+size 147

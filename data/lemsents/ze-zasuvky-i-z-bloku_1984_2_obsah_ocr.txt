@@ -1,7 +1,3 @@
-Z Á S U K Y blok Vegu hlava E Kantůrková
-odkaz budoucí J Ruml Fejeton dušičkový Šulcová Slovensko země známý hk
-chtít socialista V Vrabec
-spát
-L Kohout P Šrámek expresivní mluve stavební dělník I Kubíček
-natroubit chobota O
-Šulcová
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7febd4b2a0e415cbad5fa5d99103cd1ddc7a77f7f998d12481cb55e48d9b78d
+size 256

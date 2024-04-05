@@ -1,1 +1,3 @@
- Chruščev navrhl zřízení stálého tělesa, řízeného Spojenými Státy a Sovětskou Unií za účelem zkoumání a řešení budoucích problémů; ale jeho návrh předpokládal zrušení NATO a náhradou za to uzavření smluv o kolektivní bezpečnosti a neútočení mezi evropskými státy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac5dc97f61a66e02f521d40f4d6a3cb4a74bf576c6b51646f499c53acefef50d
+size 304

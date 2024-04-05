@@ -1,2 +1,3 @@
-velký nebezpečí mladý lidé číhat umístění instituce oplývat totalita československý vyjímat
-mnohý poslanec novězvolený parlament puokazovat nebezpečí skrývat pák stánský podpora
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb0d66b79af8dc5769141efd88bd70baf0b3533c3bebc0304ef1f83474e8c2b
+size 201

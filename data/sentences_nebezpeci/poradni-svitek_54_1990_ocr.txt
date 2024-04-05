@@ -1,2 +1,3 @@
-cilý debata terna mít silný konkurence tábor česko slovensko nekterí vidět nebezpečí přímý jednání rodič oddíl pořídit det levný prázdniny
-nebezpečí velký ^vační tábor fungující oddíl mít zájem odložený detě taká skaut
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ed015ea6a2441b586662d526437ac6348a532952a24604887263d9bf53553d
+size 253

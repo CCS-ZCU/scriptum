@@ -1,22 +1,3 @@
-ivInohý západoevropský kan clářství uvědemovat dlouhodobý nebezpečí poznatek mít odvaha vyvodit politický důsledek
-socialismus lidský tvář definovat rozumět nebezpečí likvidovat stát
-osobní nebezpečí hrozit varovat svět vystupovat obrana pronásledovaný spoluobčan
-jiný nebezpečí situace tvrdohlavý ústupný dočkat chvíle mít pocit začínat
-zachovávat starý názor zrozený zkušenost poznání říkat zhasnutý existovat nebezpečí prozrazení
-tenhle vládce moc zvyknout moc formovat hojit změna dělat pohnout změna docházet náznak změna obsahovat smrtelný nebezpečí samotný
-muset omezený malý počet lidé rozdělený patrný skupinka nebezpečí rychlý snadný odhalení
-pochybovat systém strana nést velký nebezpečí posun diktatura chvíle vnitřní mezinárodní krize společnost zajištění bezpečnost přechodný forma diktatura souhlasit stav přechodný moci změnit trvalý
-nepřítel poukazovat nebezpečí hrozící západní Německo
-zdát sovetší satrapový snést smrtelný nebezpečí demokratický cialismus
-potřeba diferenciace konzervativní tábor převažovat nutnost jednota nebezpečí zvenčí
-varovný signál Jugoslávie znít vynořit nebezpečí dostředivý potlačení nacionalismus moci degenerovat všeobsáhlý protireformace
-věc chtít zdůraznit radikální moci nebezpečí západ zapomínat
-slyšet bodra hrozivý muset podívat zoubek slovo roznítit představivost
-uvést zrzek nebezpečí láska znamenat
-Jaromil uvrhnout nebezpečí vlastní dívka milovat jiný muž milovat žena
-komunistický sympatie nebezpečí život
-ironie chtít nebezpečí dostat naci sovětský pakt
-Werich americký přítel plést ctěný vážený kapitalista pochopit akutní nebezpečí přítel
-úvodní povídka velký bílý cesta mladý voják chvíle nebezpečí smrt vracet minulost působivý líčení osud židovský dítě druhý světový válka
-francouzský intelektuál protestní slovo obrana československý kultura vystavovat nebezpečí pronášet země občan pronásledovaný politický přesvědčení formulovaný politický názor sovětský intelektuál ohrožovat osobní svoboda
-důvod eventuelní partnerství socialista komunista představovat ■nebezpečí západní socialista východní komunistický dogmatika vyznavač jediný socialismus uskutečňovaný vedoucí úloha strana skutečnost monopol moc
+version https://git-lfs.github.com/spec/v1
+oid sha256:af083ac1560716ba1cd5e6d1cc768243b04f2e09913908197ba8ec8bb026f5f9
+size 2424

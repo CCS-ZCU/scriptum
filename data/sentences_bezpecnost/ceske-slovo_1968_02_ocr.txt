@@ -1,1 +1,3 @@
-druhý ozbrojený část zabezpečovat bezpečnost závod takzvaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd381aa01ad092097f37b02cbacfa0e65bdab91fd9516c4fe864ffd788c611a
+size 68

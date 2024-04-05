@@ -1,1 +1,3 @@
-poukaz sovětský intervence Afghánistán Weinberger zdůraznit nutnost odvrátit nebezpečí Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:656f38cc26a85af3a5fd7c23adebeb3b40e9393327c266b820f049ce4ac0cace
+size 102

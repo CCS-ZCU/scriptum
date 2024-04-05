@@ -1,2 +1,3 @@
- Člověk ztratil hlubinu bezpečnosti; ztratil jednotu ; proto není ani jednoty mezi duchovním životem člověka a jeho dílem, technikou.
- Výsledek? Ztráta pocitu bezpečnosti, strach! Bez Boha vládne úzkost, panika, zbabělost, — úskočnost, nespravedlnost .
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fd0cb740efb969d8a1ed3afae98923695743484cf27947e2af78f13fa4a68e1
+size 272

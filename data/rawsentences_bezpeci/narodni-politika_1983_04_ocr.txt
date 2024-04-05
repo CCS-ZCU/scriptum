@@ -1,1 +1,3 @@
- Pro ty, kdo Pankrác neznají ani z fotografií, uvádím, že Kolínský prostě nemohl střežit Fučíkovo bezpečí na chodbě přede dveřmi jeho cely, jak o tom Fučík výslovně píše.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3b0e624cbb754a7a56004188694d32a6d07458d1e19e11f32147a475d41099f
+size 195

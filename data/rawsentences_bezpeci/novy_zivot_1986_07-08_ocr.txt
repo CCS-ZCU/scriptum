@@ -1,1 +1,3 @@
- Sníme o církvi zaměřené na tajemství, kterým je Bůh; o církvi, usilující o ustavení Božího království v městě lidí; o církvi, která se ustavičně modlí, uctivě vzdává Bohu úctu, přemýšlí o slově Božím a chce je vyjevit světu; o církvi, která je oddaná hledání Pravdy a hlubšímu porozumění Písmu a tradici; o církvi, věrné svému Pánu, který hledá jednotu a usmíření; o církvi, která je otevřeným domovem pro celé lidstvo, kde chudí, hříšníci, slabí a trpící mohou najít domov a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a494ece462dfd7344b82ab52c280c3de8605f7bec659f635b64d0eef52ba6a6
+size 558

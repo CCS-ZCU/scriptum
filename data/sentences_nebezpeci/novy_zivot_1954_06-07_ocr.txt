@@ -1,2 +1,3 @@
-staletý kulturní styk dovést tit tvář tvář smrtelný nebezpečí východ
-vítězství komunistický vojsko tvořit vážný nebezpečí mluvit katolictví náboženství Francouz nenávist kolonialista zaměňovat nenávist katolík
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf7fa117b2c80d18b2026f4c82bee4f90857b095b7e89051db03a34a65cba17
+size 240

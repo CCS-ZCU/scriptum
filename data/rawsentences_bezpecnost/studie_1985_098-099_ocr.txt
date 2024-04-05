@@ -1,31 +1,3 @@
- srpna 1975 všichni představitelé států Evropy (kromě Albánie) a také USA a Kanady v Helsinkách podepsali Závěrečný akt Konference pro bezpečnost a spolupráci v Evropě.
-« Přes obě následné konference v Bělehradě a v Madridu, kde se měly skládat účty ze zachovávání a plnění Závěrečného aktu Konference pro bezpečnost a spolupráci v Evropě, se situace věřících v socialistických zemích východní a jižní Evropy nezlepšila.
- Spíše tam je zákony udané a v konkrétní kaž- dodenní praxi zcela svévolně státními předpisy upravené ovládání celé- ho církevního života, jež provádějí zvláštní církevní sekretariáty, jež jsou pod vlivem státní bezpečnosti.
- A vše, co u státní bezpečnosti vzbuzuje podezření laického apoštolátu nebo katolické akce, má za ná- sledek vyšetřování státní bezpečnosti a výslechy.
- Navíc jsou v jednotlivých komitátech Maďarska ustaveni ještě církevní tajemníci, kteří jako důstojníci státní bezpečnosti špehují všechny kněze v daném obvodu.
- Všechny dosavadní církevní akce a slavnosti nikdy neměly protistátní charakter a ni- kdy neohrožovaly celistvost a bezpečnost naší republiky a neučiní tak ani nyní.
- 1980 byl po prvé vyslýchán Bezpečností, dne 19.
- Telefono- valy na Bezpečnost.
- Pryel jeden příslušník Bezpečnosti, ten otevřel, ani to necvaklo.
- Pak přijelo postupně 16 členů Bezpečnosti, uniformovaní i v civilu.
- Jak tam příslušníci Bezpečnosti chodili, tak se ptali jedné paní, zda to byl Špion! Odpověděla: »Na to nevyzeral.
-« Totéž sejí ptal jeden člen Bezpečnosti v přízemí.
- Vyslýchala je Bezpečnost.
- Proto Bezpečnost ihned zatelefonovala a museli hned odejít.
- Z toho pak téměř vždy od orgánů prokuratury nebo Zboru národnej bezpečnosti vychází závěr, že se trestné stíhanie zastavuje, nebo že se podnět jako neodóvodnený odkládá.
- Coufala však bude zjištění, proč byl od skončení své poslední cesty do zahraničí stále vyslýchán Bezpečností.
- Orgánům prokuratury musí přece být známé, kdo z příslušníků Veřejné či Státní bezpečnosti prováděl výslechy ing.
- Jako příklad může sloužit vražda kněze Jerzyho Popieluszka v Polsku, jehož bestiální mučení a vraždu také provedli příslušníci polské Bezpečnosti.
- Stejně jako orgány Bezpečnosti, které zabaví knězi, postiženému odnětím státního souhlasu k veřejné pastoraci, cenný kalich a paramenty pod záminkou, že doma celebruje s něčí účastí.
- Na koho se obracet? Jsou to tedy především příslušné nadřízené úřady (školské, národní výbory, pracovně právní, státně církevní), Bezpečnost, prokuratu- ry, soudy, poslanci aj.
- 431 243  Zadržení Čtyř pražských katolíků Dne 11, dubna 1985 vykonaly orgány Státní bezpečnosti se souhlasem generálního prokurátora ČSSR domovní prohlídky v bytech čtyř osob.
- Konference o bezpečnosti a spolupráci v Evropě, její Závěrečný akt z Helsinek, ná- sledná jednání v jejím rámci či Výsledný akt z Madridu nejsou jen stvrzením statu quo, ale programem evropské a evropsko-americké spolupráce.
- Trvání na těchto zákazech a svévolném výkladu zákona by bylo mož- né považovat za svévoli a šikanu ze strany orgánů bezpečnosti se snahou narušit soužití s rodinou (manželka a děti odjíždí každý víkend - především ze zdravotních důvodů - na chalupu mimo Prahu) a postihnout mě ekonomicky a ohrozit existenční a sociální pod- mínky rodiny (na chalupě chovám drobná hosp.
-1985 ve 20 hod, zmařila Státní bezpečnost přednášku Ladislava Hejdánka, která se konala jako součást přednáškového cyklu o kosmologii v jeho bytě ve Slovenské ulici I I v Praze 2, Příslušníci StB porušili domovní a osobní svobodu tím, že neoprávněné vstoupili do bytu, vyvedli přednášejícího a Čtrnáct jeho posluchačů do přistaveného policejního vozu a zavezli je na oddělení VB na náměstí Míru, Po výsleších byli všichni téže noci propuštěni.
- Máme za to, že tento zásah Státní bezpečnosti proti nezávislé přednáškové činnosti je projevem nelibosti nad cenou Jana Palacha, kterou 17.
- dubna 1985 v 10 hodin byl na Vinohradské třídě v Praze zadržen dvě- ma příslušníky Státní bezpečnosti dvaačtyřicetiletý francouzský občan, katolický kněz a člen Tovaryšstva Ježíšova Christian Mellon z Paříže, který je jedním z představitelů fran- couzské mírové organizace C O D E N E - Výboru za jaderné odzbrojení.
- V 17,30 vyjel vůz Státní bezpečnosti z Prahy, aby zavezl Christiana Mellona na čs.
- Vláda současně uložila všem státním orgánům, aby závěry madridského zasedání plnily; proto nezbývá než kon- statovat, že Státní bezpečnost, alespoň v případě Christiana Mellona, toto vládní nařízení porušila.
- 435 Zásah Státní bezpečnosti proti nezávislé kult urn i činnosti Jak již oznámila otevřeným dopisem presidentu republiky z 12.
- Se stejnou hrozbou zakázali panu Ševčíkovi, šokovanému prvním stykem se Státní bezpečností, aby se stýkal s chartisly.
- Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:443ddffc1acbabfa4963958a738858e4f8634bc70a051a2183fc118bbe871c1c
+size 5301

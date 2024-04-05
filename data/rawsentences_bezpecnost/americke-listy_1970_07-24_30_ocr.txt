@@ -1,1 +1,3 @@
- Československý vývoj prohloubil všeobecné úvahy o jednotlivých sporných evropských otázkách, včetně otázky německé a včetně evropské bezpečnosti, tolik v poslední době vzývané i těmi, kteří nezaručují bezpečnost ani svým smluvním partnerům.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5579dc3c636f4ef4d68c27a79cea70b32a2876a85968bbe0fd4da988e2b76cc3
+size 275

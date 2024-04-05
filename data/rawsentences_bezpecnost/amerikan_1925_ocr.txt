@@ -1,2 +1,3 @@
- Českým finančníkům náleží velká část zásluhy o to, že Československá republika v poválečném rozvratu Evropy zůstala ostrovem pořádku a bezpečnosti.
- BEZPEČNOST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b021560c5eeba906e452fbfa2380c113cc42cbeb77399fb4e412689be4992645
+size 185

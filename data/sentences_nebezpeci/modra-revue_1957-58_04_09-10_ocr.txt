@@ -1,6 +1,3 @@
-trik sovětský propaganda požadavek schůzka šéf vláda hlavný stát vyřešit problém odstranit nebezpečí světový válka malý válka změnit válka celosvětový
-nebezpečí odvrácený nebezpečí značný míra přivodit vůd ročník červenec srpen
-jiný nebezpečí zůstávat
-západní svět fascinovaný spojený stát zachránit Libanon podniknout útok Násirův sjednocený arabský republika Britanie zachránit Jordánsko hrozit stojný nebezpečí
-křesťan demokrat obojí zápas vyhandlovat utralisace synthesa učet křesťanský demokratický ideologie propadat omyl vydávat nebezpečí čestný památka křesťan demokrat zůstat ocitat bezpečný scest květen vzpomenout Praha Václav Talich
-nebezpečí zvětšit zakladatelka týden týden doplácet list značný částka
+version https://git-lfs.github.com/spec/v1
+oid sha256:174ef463466cdd30092444d601e074478f468ace582e1ca3b2d1d5467c69d0da
+size 808

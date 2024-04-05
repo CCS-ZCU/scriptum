@@ -1,5 +1,3 @@
- Z Rady bezpečnosti se sovětskému delegátovi podařile udělat frašku a Va’né shromáždění se stalo propagandistickou tribunou pro Moskvu a její spojence.
- m se, která má vyšetřit loňské nepokoje v Po baltí, ani o vnitrostranickém konfliktu ve vedoucích kruzích, při němž byl odstaven bývalý ministr vnitra Moczar a někteří další vedoucí činitelé polské státní bezpečnosti.
- Už před několika lety sověty za- ča ý v Asii organisovat "systém kolektivní bezpečnosti" proii Číně, a sám Brežněv s tím spojil své jméno.
- Nestačí klamat sebe sama — a domnívat se, že si je možno takto vykoupit mír a bezpečnost.
- Minulý týden, když Rada bezpečnosti jednala o válce mezí Indii a Pákistánem, obvinil soudruh Hua soudruha Malika, že reprezentuje politiku sovětského ‘‘sociálního imperialismu”, který v roce 1968 vyvolal agresi proti Československu a nastolil v této zemi vojenskou okupaci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e279cc6999f8ccf11bda10b3f2f25c9fc9b22d5e4f0beada2be24e63e8bb945e
+size 968

@@ -1,1 +1,3 @@
-zvláštní oddíl položit minový pole zaujmout posice jednotka pěchota bezpečnost zajišťovat oddíl obrněný vozidlo tank
+version https://git-lfs.github.com/spec/v1
+oid sha256:df242ca2ced1f5057f4f6d635df9b4e7059bd796de9d577602015f11a20a2211
+size 130

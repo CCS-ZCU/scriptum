@@ -1,1 +1,3 @@
- Ovšem že činnost Poradního sboru narušuje postup komunistů na konferenci o evropské bezpečnosti, kterou prý chce Poradní výbor sabotovat a za tím účelem rozesílá memoranda vládám západních svobodných zemí, dokonce i p.
+version https://git-lfs.github.com/spec/v1
+oid sha256:588e005bfe4923a3b0010e9c2782a19e23925694b1f452b5c66f8d0d9f4e4d41
+size 242

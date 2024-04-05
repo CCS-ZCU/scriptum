@@ -1,4 +1,3 @@
-lidé chápat nebezpečí podnikat strach prohlášený zpátečník
-vina mít podíl jiný západní státník omluva moci uvést převaha spojený stát porada dominující vážný nebezpečí moci postavit odpor dnešní postavení Berlín léta vrhat bezpečný stín situace zvlást
-mít důležitost historie usilovat správný pravdivý poznání nedostatek pramen vystavený nebezpečí odsoudit jiný glorifikovat podat pokřivený obraz
-víra plynoucí idealisování lidé země idealistický ideální mít původ zpětný tlak vůdčí činitel stát chtít postavit odpor úplný zrada ideál trpět umírat chtít zabránit hrozící nebezpečí moci naleznout podpora národ zaslepený iluse vzbudit živit
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e7bb6e1bb7b375d7e74e109a0c935fdfacef66d7abdd93300eacebd9db6d05
+size 724

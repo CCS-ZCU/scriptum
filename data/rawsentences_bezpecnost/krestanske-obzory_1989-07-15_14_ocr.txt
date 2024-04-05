@@ -1,5 +1,3 @@
- Coufala však velice zajímala státní úřad pro věci církevní a hlavně státní bezpečnost,od chvíle,kdy zjistily,kým vlastně ten vynikající vědec také Je.
-1980 byl poprvé vyslýchán Bezpečností a pak Již pravidel- ně až do konce svého života,často hlavně v noci.
- Zavolala tedy Bezpečnost,která byt otevřela.
-Přijelo ihned 16 členu Bezpečnosti s nimi též PfiUDr.
- V umyvadle za- krvácené žiletky,v pokoji rozbité okno,koberce i podlaha zakrvácená, všude veliký nepořádek» Bezpečnost zaslala rodičům zesnulého telegram a ti 27.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b3598c655190f9694465abd934784ee2dc82cca33ba69a6c2c3dd95b570b6fe
+size 578

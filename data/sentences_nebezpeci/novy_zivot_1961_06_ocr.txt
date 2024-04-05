@@ -1,2 +1,3 @@
-Gándhí zavrhnout marxistický teorie třídní boj vědomý nebezpečí
-uvážit odpovědět přát učitel znamenat vystavovat jistý nebezpečí rodič
+version https://git-lfs.github.com/spec/v1
+oid sha256:748d6561ba3891ecfab36d94b6a6bc6a14eb1d122333d574570fb177a7dd620f
+size 156

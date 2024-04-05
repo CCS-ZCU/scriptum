@@ -1,9 +1,3 @@
-pohled extrémní poloha herectví romantický zánik divadlo hrozit
-nebezpečí hrozit tušit je© Jan Preissová křehký blondýnka slovanský typ jasný obličej krojený ret vysedlý lícní kost úzký nos důrazný obočí dominovat celý zjev oko silný výrazový schopnost celkový dojem harmonický
-milenec Milenka mít zahradní slavnost poslání projevovat něžnost Pověet Tjstsvo ohrožený
-jediný způsob čelit nebezpečí strach
-stávat herec vědět režisérův souhlas rhrat případ jít způsob hřání předehrávat režisér smysl braní hledat nalézat vnější způsob herecký vyjádření domlouvat jistý psychologický skutečnost trát popisovat slovo lze vyjádřit akce akce provedený konvenční řecký jazyk
-přinášet ziko předstírání stát pravdo dočasný maska herec hrozit smrtelný nebezpečí pohltit jeviše prostor magický popisovaný zkušenost zkušenost návratný proměna rvní pohled zvlášet chvyklý
-Kadrián Genesius toužit byt pokrtený
-
-druhý hraní divadlo předstírání
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfffdf877287862bfb0fe4ede0641d1fd02ffbf3f87fa7d5c9e5111696b3aab4
+size 1046

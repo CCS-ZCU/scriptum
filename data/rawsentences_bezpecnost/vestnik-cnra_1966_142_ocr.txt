@@ -1,1 +1,3 @@
- 1966 převezmou hranici společnou s Východním Německem nově utvořené oddělení Veřejné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf13704f38c92927ffe4cdd94d9f5d960936d0be77f025f814c0c59d0b6dc185
+size 112

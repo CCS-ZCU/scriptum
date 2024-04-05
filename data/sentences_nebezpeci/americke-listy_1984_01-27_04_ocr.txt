@@ -1,1 +1,3 @@
-cíl dospět drobný konkrétní patření velikášský slib snížit nebezpečí válka Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:99276728791a2e861199e4cad81b4479aa84480b78c8ef5cab8d031b41eb3a3d
+size 98

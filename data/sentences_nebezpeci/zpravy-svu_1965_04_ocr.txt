@@ -1,1 +1,3 @@
-otevřený diskuse odstranit rostoucí nebezpečí SVU moci stát orga nisace presidialista moci vést činnost odsouzený člen
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d39a12dfff5b370108fb03d99957a6df7f8e32b369bc7fa18ad27cfd08dbfbd
+size 128

@@ -1,1 +1,3 @@
- Líeli jsme kdysi stát v tehdejší Evropě na závidění a ani ti, kteří sa mi užívali jeho svobod a bezpečí, nebyli schopni doprát sluchu básníkdm a spisovatelňm, kteří varovali před výprodejem jeho hodnot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd84c0b8941ea3d8b3ae187c011040cecfbbf3fe9c10748e7491d1aa1d8d47a6
+size 226

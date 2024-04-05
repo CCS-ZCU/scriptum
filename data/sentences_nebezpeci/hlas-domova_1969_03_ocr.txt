@@ -1,1 +1,3 @@
-muset začít Husákův dilema čas ohlížet názor veřejnost dělat kariéra nebezpečí stát protektor politik užitečný mít dostatečný podpora
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfdccd02db29fd4bb17cf01657512609c721bf43bc80f27fc6dc97e3bb6b7d82
+size 154

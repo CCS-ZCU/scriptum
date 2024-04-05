@@ -1,1 +1,3 @@
- čtyř- až šestinásobné zvětšení kapitálu ! Zamýšlýte podnikat? Chcete si za nízké úrokové sazby peníze půjčit a na vysoké je ukládat? Švýcarské bankovnictví a pojištovnictvi skýtá najvyšši možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:846e8d1f7f702cfdcacbbe2b2024b7993a290f2ec60efc1d06322573350dd678
+size 105

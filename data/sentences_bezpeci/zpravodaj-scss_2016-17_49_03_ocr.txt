@@ -1,1 +1,3 @@
-dávný minulost Čech uprchlík hledat bezpečí lidé jiný část svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:642beccd0fd0fc3160b45166ad50ecef1c254ce904ee73ad4d367344a1f36ba1
+size 75

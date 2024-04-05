@@ -1,1 +1,3 @@
-, o některých důsledcích ne „Hodní" a „nehodní" emigranti V současné době je pozornost veřejnosti zeměřena na přípravné rozhovory diplomatů 35 států v Bělehradě, které mají připravit podzimní konferenci o evropské bezpečnosti a spolupráci, na které se má hodnotit plnění či neplnění helsinského dokumentu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a07ccd3f2c81be03fc53a376ef75f0c3114b3282588e7ed2fe0888de8e3fec47
+size 345

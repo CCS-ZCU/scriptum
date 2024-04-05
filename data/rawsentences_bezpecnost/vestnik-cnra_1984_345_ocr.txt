@@ -1,1 +1,3 @@
- října 1985, v rámci Konference o Bezpečnosti a Spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c468fd7196ca7b9f7e96f9d34682111d30beee2e59f2279e68a10bb65d62583
+size 75

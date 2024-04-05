@@ -1,1 +1,3 @@
-" Dále řekl na adresu Moskvy, že jakýkoliv její pokus ovlivnit tento vývoj bude v přímém rozporu se zásadami o uvolňování napětí a dohod o evropské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7afcfa7d60565e6cebe9937aa56432441a3b0aa1e90d6d46596e95d07f81f206
+size 178

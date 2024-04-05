@@ -1,2 +1,3 @@
-Pavel myslit možný nebezpečí
-Australan uvědomovat nebezpečí čekat celý svět Rusko komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:4362e242194ea1c1464ca191419ee36c962fa0c260ff75e9237553b782a11bc8
+size 103

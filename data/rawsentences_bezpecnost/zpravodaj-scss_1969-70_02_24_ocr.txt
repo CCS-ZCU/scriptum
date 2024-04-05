@@ -1,1 +1,3 @@
- V zasvědce- ných kruzích se mluví o tom, že Lederer byl zatčen a obviněn z účasti na spiknutí proti "socialismu ve spřátelené zemi" - čti v Polsku - na popud polské bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f94d150b5251197a01d3597867e368b6f0aa3790a53693b6b5985b016316763c
+size 195

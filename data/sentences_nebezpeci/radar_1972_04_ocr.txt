@@ -1,2 +1,3 @@
-let nebezpečí
-mladý odvážlivec octnout nebezpečí život slední chvíle couvnout kůň hro bem otevírající bahno koňský kopyto zacha tilo pevný země brod proniknutelný bažina nalezený
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c14c0bf08596ef7442705cf21db3f7de3574920a383bdd38a29b79334ed7c25
+size 192

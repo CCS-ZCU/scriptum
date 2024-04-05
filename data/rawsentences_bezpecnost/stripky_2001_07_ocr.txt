@@ -1,3 +1,3 @@
- Odvolala se na dokument německého ministerstva životního prostředí, podle něhož zpráva o bezpečnosti temelínského jaderného provozu, vypracovaná loni z podnětu české a rakouské vlády, nedokázala rozptýlit obavy Německa, že elektrárna vybudovaná podle ruských plánů nevyhovuje německým a mezinárodním standardům.
- "Vláda nemá důvod pochybovat ani o jaderné ani o ekologické bezpečnosti elektrárny Temelín.
- Pojednává o utrpení faráře Josefa Toufara v rukách všeho schopných zaměstnanců komunistické “státní” bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c54cecd893095c09c2ff5f8bbbd3a6ef4c01157d68baa338972b4cdb03fc21f6
+size 580

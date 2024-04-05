@@ -1,1 +1,3 @@
-vidět příliv zahraniční dělník silný vést nebezpečí považovat naléhavý otázka dnešní doba prohlásit premiér
+version https://git-lfs.github.com/spec/v1
+oid sha256:56401e91d919ca3b053a23c274a9953ef854a136a677a89052d8e4ddc0908d34
+size 127

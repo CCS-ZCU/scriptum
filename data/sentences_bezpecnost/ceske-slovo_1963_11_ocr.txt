@@ -1,1 +1,3 @@
-říkat vyjadřovat odhodlání jít cesta opírat národní bezpečnost sovětský svaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf52238138bed845ab9716a8636e16871d104af8805e26f1ec5ecef90251f12d
+size 89

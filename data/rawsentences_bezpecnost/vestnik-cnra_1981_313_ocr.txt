@@ -1,3 +1,3 @@
- zaměstnává kolem jednoho milionu osob, z čehož asi 600 tisíc je pověřeno starat se o otázky vnitřní bezpečnosti.
- Rozklad o dosavadních jednáních v Madridu na konferenci o bezpečnosti a spolupráci v Evropě a o tom, co se může očekávat od jednání v třetí fázi konference, která bude zahájena koncem října t.
- Faltusová Právo odpovědi Projev velvyslance Maxe Kampelmana, vedoucího delegace Spojených států, na plenárním zasedání Komise pro bezpečnost a spolupráci v Evropě 28.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad956aa9f58359ec535ebb822eebd8020dbcf561bcd2ed35c5934066e73a95f6
+size 521

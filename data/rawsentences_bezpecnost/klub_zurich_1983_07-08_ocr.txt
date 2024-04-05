@@ -1,2 +1,3 @@
- Otce do biskupského města Lurd Tarbes a zvýšil počet vojáků, pečujících o bezpečnost hosta, o 2800.
- Na základe nového zákona o vnitřní bezpečnosti bylo v již.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb73391666f9fe2bfbd9af0f386f024160e12fa7e0e6d96c0163ae47568f4ed
+size 179

@@ -1,2 +1,3 @@
-nebezpečí podnik litr číslo podnik litr hodina
-reformovaný podnik znát nebezpečí podnik rok společnost litr hodina společnost rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecb786830192eb0908cba9f0a7a0aa089e44c94f82fad93176847189ff3a84f6
+size 140

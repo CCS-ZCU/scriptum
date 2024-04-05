@@ -1,2 +1,3 @@
-na konferenciu o európskej bezpečnosti, ktorá by sa potom konala v roku 1973.
- Ten jezdil několik týdnů pravidelně jedenáctkou kolem ministerstva národní obrany a, stoje na zadní plošině vlečňáku, fotografoval výborným československým fotoaparátem značky Pionýr okna, v nichž, jak si zjistil od uklizečky, bylo toto tajemství pro bezpečnost republiky životně důležité střeženo pod sedmi západy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caded9e5d9e116976fb7c6af478ee9517ef5189e80e1afb380b0fb054d083659
+size 430

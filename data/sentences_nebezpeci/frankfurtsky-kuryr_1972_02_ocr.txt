@@ -1,1 +1,3 @@
-zmínka tisk diskutovaný lak auto škodit mytí automatizovaný umývárna kartáč silonový vlákno naskýtat nebezpečí prodření lak škodit vůz mytí kýblo voda dům ulice
+version https://git-lfs.github.com/spec/v1
+oid sha256:86fb835c7cdf04a602fa29dc9bcc3c44bc42b0ea0dc425e67bb20d70c04279d7
+size 182

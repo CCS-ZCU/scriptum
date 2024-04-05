@@ -1,1 +1,3 @@
- Byl členem výboru Rady svobodného Československa, výboru švýcarské sku- piny Společnosti pro vědy a umění, či- novníkem Sdružení politických vězňů, účastnil se prací švýcarských krajan- ských spolků, ale i konferencí západních států o bezpečnosti v Bělehradě, Madri- dě i v Evropském parlamentě ve Strass- burku, kde předkládal dokumenty o úti- sku a porušování lidských práv v CSR, v zastoupení exilové skupiny ČSL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d357c7f548d842907f57d2c0e1362cdeec4e8ea610882b0b9117b2ce6cc2199d
+size 468

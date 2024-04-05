@@ -1,1 +1,3 @@
- Na závěr tohoto zamyšlení poznamenávám, že v českých dějinách není tragičtější výročí než rok 1939, obdobná katastrofa potkala český národ koncem léta v roce 1969, kdy při demonstracích při příležitosti prvního roku sovětské okupace již nestály proti velké většině národa tanky Rudé armády, ale zbraně českých Lidových milicí, Sboru národní bezpečnosti a čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f66e6bbe650208df32d690b1bb614e818014b010c9b3ccca2507604df41c7e1
+size 412

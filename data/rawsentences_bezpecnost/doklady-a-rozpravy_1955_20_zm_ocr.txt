@@ -1,3 +1,3 @@
- A tak se stalo, poznamenává Paul-Boncour, že ve chvíli, kdy se připravovala rozhodující rána kolektivní bezpečnosti a evropské organisaci, spor nepřišel vůbec před Společnost Národů.
- Náš officios Prager Presse na to psaní reagoval prohlášením, že měla-li Jugoslávie určité výhrady, měla pro ně své důvody, které byly druhými státy respektovány; s československého hlediska není proč na věc spěchat, kdyžtě Československo již má rozsáhlé záruky bezpečnosti ve svých smlouvách s Francií a Sovětským Ruskem, a Jugoslávie průběhem času může ještě svůj názor na návrh změnit.
- - Zůstává přikročiti k oněm rozsáhlým zárukám bezpečnosti v našich smlouvách s Francií a Sovětským Ruskem,  -26- Jak se o nich vyjádřilo připomenuté prohlášení Prager Presse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f523f4e7068cb449c073918d1fa1fdccd5debc8ab2f2fab5e8ed08cacf45bef
+size 842

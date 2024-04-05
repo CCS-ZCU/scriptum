@@ -1,2 +1,3 @@
- Vezmeme-li ne vědomí i fakt, že byla přijata i legislativní opatření usměrňující chování institucí a výrobních podniků v případě zhoršeného stavu ovzduší, a že i informace o něm jsou, i přes všechny dosud trvající nedostatky, publikovány v denním tisku, místním rozhlase, prostřednictvím vývěsek, ba i po telefonu, ač ještě přede dvěma lety byli občané, kteří o toto žádali, popoháněni před vyšetřovatele státní bezpečnosti, tak by se dalo věřit, že v tomto směru Je vše na dobré cestě.
- Je nutné uskutečnit nezávislou expertizu existujících atomových elektráren, která by určila stupeň jejich technické bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db899e246a92b01915b513528bab7de6c1ddb7c2b0cd9849dce9db6aa80a9644
+size 694

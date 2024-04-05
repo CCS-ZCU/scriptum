@@ -1,2 +1,3 @@
-skrývat určitý nebezpečí industrializace řečený přechod tovární výroba probíhat většina region desítka léta lze určit datum začátek konec
-kritika ocenit vídeňský filharmonice opera provést dirigentský taktovka Vladimír Fedosejev dokázat vyhnout nebezpečí pohádkový kýč počínat směr režisér Daniel Slater výtvarník Robert Hopkins
+version https://git-lfs.github.com/spec/v1
+oid sha256:15bef1ab5541dd6d80c56efa529fd97d52c51e4ed03cd6ecef064874693ef4a6
+size 369

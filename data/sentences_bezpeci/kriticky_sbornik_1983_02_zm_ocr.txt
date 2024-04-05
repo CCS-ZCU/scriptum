@@ -1,1 +1,3 @@
-bezpečí lékař odsoudit zanedbání povinný péče velký úspěšnost druhý strana kolegium odborník důvod přísný postup
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7e8b150b04ab4936457ce1231bc308d55ddd422a848e98ec8a085ee102d7b0
+size 85

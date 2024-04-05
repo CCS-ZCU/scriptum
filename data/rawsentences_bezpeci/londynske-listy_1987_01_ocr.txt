@@ -1,1 +1,3 @@
- Potřebujeme získávat spojence mezi stejně postiženými národními skupinami a společně s nimi se obracet na veřejnost svobodného světa a tím i na jeho vlády; připomínat jim, že také porobené národy mají právo žít ve svobodě, a podle svého, v lidské důstojnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:093ec913182204954c6d6db09a8f9f902e30b751911cc7cb7de0ea23aa19f676
+size 302

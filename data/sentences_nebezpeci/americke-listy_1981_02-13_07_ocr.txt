@@ -1,2 +1,3 @@
-napětí svobodný polský odbory sovět chráněný vláda růst den den požadavek dělník stoupat nebezpečí výbuch
-úplatek forma dárek zaručovat školák dobrý prospěch odvracet nebezpečí přeložený jiný horší škola
+version https://git-lfs.github.com/spec/v1
+oid sha256:5689c127af10d445cb5a843617490d404a0d72f80beabcdd939786e88f51d2bb
+size 236

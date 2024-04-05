@@ -1,1 +1,3 @@
- Obrněné automobily, neprostřelitelná skla, místo pro body guards, speciální v_ moženosti, bezpečnost i marnivost na objednávku, to je drahý špás a mívají na něj buď mocní státníci, nebo mocní gangsteři.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f3b06d37d66c32c748e0544d48bedc301af1cb4c2455243bd1302da9ebebf68
+size 226

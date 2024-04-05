@@ -1,2 +1,3 @@
-porušení ustanovený řád příprava provedení experiment narušení samotný program experiment
-výstavba průmyslový objekt představovat malý možný ekologický nebezpečí provedení objektivní odborný expertiza všelidový diskuse případ potřeba provedení referendum republika
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e7f3034af91c588f4a3173546dfe509d351a472c9b8932743c4df1503a9b631
+size 295

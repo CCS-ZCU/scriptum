@@ -1,2 +1,3 @@
- Bonnu se očekává podpis dohod o vědecké spolupráci, společ- né ochraně životního prostře- dí a o bezpeČnosti jaderných reaktorů.
- Tak aa roznealo, ža zadriení byli důstojníci Státní bezpečnosti, ža použili služebního samopalu, Sa pro něj jeden z nich do- konce odběhl do nedaleké "vnitřácké budevy v Sado- vé-.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48521a604b6ac3044f8d68380f48c03ba796a067c8374349e2d098f5d8dbfde1
+size 346

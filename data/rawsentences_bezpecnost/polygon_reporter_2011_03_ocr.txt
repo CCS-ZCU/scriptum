@@ -1,7 +1,3 @@
- Například rezoluce Rady bezpečnosti číslo 1973 z minulých dnů je poněkud nový POLYGON 3/2011 / 9  rozplizlá a dovoluje sice leteckou ochranu neznámých civilistů v Libyi, nikoliv však pozemní vojenský zásah.
- Jeho otec je v nich nejméně třikrát uveden jako Albert, agent československé Státní bezpečnosti.
- Zatajena byla v souvislosti s rozkazem Karola Bazíka, ministra pro národní bezpečnost Toto nařízení mělo své hluboké opodstatnění: v případě smrti agentů muselo být zachováno utajení - vůbec nikdo, ani hrobaři, nesměl vědět, koho pochovávají,“ říká Lubomír Morbacher.
- Agent Státní bezpečnosti Stehlík byl v mládí horolezcem.
- Kongres se domáhá zavedení kontrolního mechanismu (universa! electronic and monitoring system), který ale ministerstvo domácí bezpečnosti (Department of Homeland Security) si z údajně úsporných důvodů dosud nepořídilo.
- Vyšetřování orgány ministerstva domácí bezpečnosti jsou téměř nulové.
- Nicméně pro naši bezpečnost by byl ideální návrat komunizmu a uzavření hranic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3a6389c87261eaee32886241d891918170193f298878c8025b57b283c46ce6
+size 1105

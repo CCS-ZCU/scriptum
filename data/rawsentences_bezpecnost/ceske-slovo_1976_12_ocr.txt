@@ -1,5 +1,3 @@
- Všeobesně se však má za to, že na zahraniční politiku nové vlády bude mít vliv bud z Bílého domu jako presidentův poradce pro otázky bezpečnosti státu nebo přímo ze státního departmentu profesor Columbijské university, dr.
- Všichni přítomní se shodli v názoru, že šestnáct měsíců po podpisu Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě nezačaly komunistické státy uskutečňovat ustanovení tzv.
- Lidská práva a mezinárodní bezpečnost jsou nerozlučně spojen}'.
- ČESKOSLOVENSKO NA JEDNOM Z POSLEDNÍCH MÍST MEZINÁRODNÍHO ZEBŘIČKU BEZPEČNOSTI LETECKÉ DOPRAVY V listopadu vyšla ve Velké Británii poprvé podrobná studie o bezpečnosti letecké dopravy, s tabulkami bezpečnosti jednotlivých leteckých společností i celých skupin.
- Ve skupině komunistických zemí je Československo pokud jde o bezpečnost letecké dopravy na předposledním místě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f34a06907fbc7db4015905d40ca98db2995d07ba4d847d412d63b3d11c73e24f
+size 936

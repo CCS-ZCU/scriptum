@@ -1,6 +1,3 @@
- rozesílá dopisy, v nichž se ztotožňuje se Státní bezpečností a souhlasí s žalářováním Václava Havla a umístěním sympatizantů "Plastic People" v psychiatrických léčebnách! Exil je skutečně vážná duševní choroba.
- Za takových okolností je si tedy spíše přát, aby president raději nikam nejezdil, ani Gorbačova nezval a vůbec s nikým ze Sovětů radši nejednal, protože zájem o bezpečnost celého Západu je v sázce.
-« A pak následuje výčet všech důvodů proti Chartě 77 a exilovým organisacím, které loni ve Vídni podepšaly petici pro Konferenci o evropské bezpečnosti a spolupráci, »aby prosadila u vlád Československa a Sovětského svazu: 1) aby Chartě 77 byl udělen oficiální status a právní ochrana jako monitoroví plnění Závěrečného aktu z Helsinské konference (Helsinská pozorovací skupina) v Československu .
- A jsou ochránci Jiřího Hájka, bývalého ministra zahraničních věcí, který vzal resoluci západních států proti okupaci Československa v roce 1968 z pořadu jednání Rady bezpečnosti OSN jako záležitost, která nepatří soudit světu, ale ’’táboru socialistických zemí”, ještě v době, kdy Dubček a ostatní byli internováni KGB neznámo kde.
- Rok šedesát osm ho náhle vrhá do nezáviděníhodné situace »spisovatele v likvidaci«, jenž je předmětem nevítaného zájmu Státní bezpečnosti, zejména když se oslavy jeho narozenin zúčastní Smrkovský a jiní pronásledovaní spisovatelé.
- Sedmera, nesnášenlivý a záludný mužik, musel v osmašedesátém odejít ze služeb Státní bezpečnosti pro jakési dávné hříchy — proslýchalo se o něm, že prý mučil vězně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e49d54caddd3870876b0a8554e6ad29fed9a72bdb6f0ebc7e360d9273eaa6f1
+size 1727

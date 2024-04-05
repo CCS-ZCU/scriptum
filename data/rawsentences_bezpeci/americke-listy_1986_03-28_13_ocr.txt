@@ -1,1 +1,3 @@
- Společenskou jistotu a bezpečí, přátelství.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78e3ba93e01610f31ac874105ef6c29333de50cd5ff54f661ec76d7ed1d1b0e8
+size 51

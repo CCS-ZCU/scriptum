@@ -1,1 +1,3 @@
- Vzdali sa úradu a funkcii a bežali do bezpečí-.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9cafa3c702a36844fcebdfa773202714cea9482e9caba06bba031f7be5a0f8a
+size 53

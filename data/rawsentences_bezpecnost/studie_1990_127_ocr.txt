@@ -1,1 +1,3 @@
- Národohospodářský plán je vypracováván Státní plánovací komisí v plynulém procesu na základě velkých podnikových projektů (pro něž se podniky ucházejí o centrální ka- pitálovou účast) ve spolupráci s Fondem, Státní bankou a vládou (hájící zájmy bezpečnosti a ochrany životního prostředí), s přihlédnutím k názo- rům dělnické reprezentace rad pracovních kolektivů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:721a7a31d29bac8004ac60b03b8a395361b83b7b2709d84fbd210aae78b5010a
+size 414

@@ -1,1 +1,3 @@
-slýchat metafora vJm evropský dům nama blizký posloucha vyvolat pocit vlídnost intirnita bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:557b5b6d301c14f8f013b1aafe08c056467a0a46210276167acfa2df667f2ed1
+size 106

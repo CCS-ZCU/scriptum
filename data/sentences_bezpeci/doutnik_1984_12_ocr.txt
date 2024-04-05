@@ -1,1 +1,3 @@
-běžet vyslechnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:f483b30d4ec4e09944a922ac66f18dad564e97e9c4b5771016117d9a819a2546
+size 20

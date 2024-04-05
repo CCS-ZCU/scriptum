@@ -1,5 +1,3 @@
-znamenat čas odstraněný nebezpečí radioaktivní odpad velikost vědec dovést dohodnout
-vytoužený míra přijít zvláštní doba nebezpečí nový světový válka komunismus stupňovat tlak demokratický svět
-západ určitý nebezpečí
-porost polopodzimní brambora hrozit nebezpečí holožír nutný všímat výskyt škůdce zasáhnout přípravek DDT
-porost týden den sklizený hrozit nebezpečí silný výskyt hniloba hlíz
+version https://git-lfs.github.com/spec/v1
+oid sha256:246897eaa0e85057baaf123022a4ff1489983878ec70876adf004748bb6187ae
+size 442

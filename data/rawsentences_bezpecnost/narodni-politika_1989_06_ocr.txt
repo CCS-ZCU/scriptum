@@ -1,2 +1,3 @@
- Jak se nyní ukázalo, lidé dovedou samostatně myslet ce, státní bezpečnosti.
- Pracovní předpisy přesahující požadavky bezpečnosti lze často považovat i za přímou diskriminaci — v praxi pak zaměstnanci radši pracují vzhledem k předepsané pracovní době zadarmo ze strachu, aby nepřišli o místo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48292f65d1ebdec131fbe5f86205abe2ff38c3c7144bd55b75613a8e72934bd1
+size 323

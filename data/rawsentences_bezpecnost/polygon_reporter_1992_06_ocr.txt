@@ -1,2 +1,3 @@
- Údajná lékařská komise ho nechala vysvléct, aby mu vzápětí sdělila, že tentokrát státní bezpečnosti neujde; buď bude s ní spolupracovat a informovat ji o naší činnosti na dole - při této příležitosti mu sdělili několik detailů - anebo půjde zpět na uran.
- A navíc, protože mu nevěřili, musel pode- psat ještě druhé prohlášení, ze kterého plynulo, že prozrazení jakýchkoliv informací o jeho spolupráci se státní bezpečností bude stíháno podle vojenských zákonů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bb4f874936c271b369ed8638388838e501fb16e7d0725f46d4a9556a4392bf1
+size 517

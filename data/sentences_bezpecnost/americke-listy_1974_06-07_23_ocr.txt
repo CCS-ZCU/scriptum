@@ -1,1 +1,3 @@
-vést nový zatížení sovětsko munský vztah povzbudit Rumuna otázka ropský bezpečnost vzájemný vyvážený snížení ozbrojený síla výzbroj zaujmout stanovisko přímý rozpor postoj sovětský svaz obsahovat odlišný odstín motivovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:9452afdd23d2410d32aef5743c5b9769695faf927778088c4480e6891a45525f
+size 256

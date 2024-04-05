@@ -1,1 +1,3 @@
-uvědomovat nebezpečí znát rodič
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d15202b0b54bc2a5e637ad75216844e375403b72a53df8202f85c7d21eff0af
+size 37

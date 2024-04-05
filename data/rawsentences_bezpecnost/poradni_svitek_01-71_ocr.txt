@@ -1,3 +1,3 @@
-Zná zásady bezpečnosti pří topení v kamnech,naplynu i při e l e k t ř i n ě / ľ 6.
-Porazí a o k l e s t í mladý vyřažený strom do prů měru 10 cm,zná bezpečnost práce při porážení stromu ^.
- Ochrana a bezpečnost: (Punť a, Jestřáb) XIV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8f6ceaf76535475ef180afd385e6bfaa460c907d0b43a114fb82d142b183a2
+size 264

@@ -1,3 +1,3 @@
-lékař vele svědectví víra chvíle vědět nebezpečí smrt odpustit
-léta syn bert dostat nápad moci vyrábět elektrický svíčka vánočně stromek moderní dát světlo voskový svíčka vyloučit nebezpečí oheň
-zákon prohlášení onezovat dosavadní svobo zákon rok těšit
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5d99dfae2bb247abccc3b25d1be1e255c2577bbb349c1c79e47852e48ac4245
+size 298

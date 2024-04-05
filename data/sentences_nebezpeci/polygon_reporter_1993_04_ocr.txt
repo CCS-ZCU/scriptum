@@ -1,3 +1,3 @@
-spolehlivý boj možný nebezpečí takzvaný
-charakteristika odvažovat napsat reálný nebezpečí normální člověk přečtení moci stát schizofrenní
-krajina vyzvědět spojenec místo výroba německý zbraň umožnit Angličan letecký nálet zničit výroba odstranit velký nebezpečí Angličan hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc53cdffb19485a1292a73aecd89e6f1727c614e40172ace4019712f88648f2
+size 315

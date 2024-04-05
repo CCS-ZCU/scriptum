@@ -1,1 +1,3 @@
- V Arábii není vlády a správy, není stráže bezpečnosti a četnictva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab58f4249e73f155f7422deb7979f988e80495fba68039f2faec469e515a7747
+size 77

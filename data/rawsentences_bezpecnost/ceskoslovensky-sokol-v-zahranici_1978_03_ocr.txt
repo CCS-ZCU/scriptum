@@ -1,1 +1,3 @@
- Úkol Sokolstva není skončen - já proto očekávám s bezpečností, že to krásné jádro rozvine se teči ve svobodné vlasti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd60073cc7ff7b7cc8a388846dfeae644341df8061b35c98af9eee86e955a69
+size 134

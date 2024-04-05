@@ -1,1 +1,3 @@
- To vyložil Masaryk nejenom v svých presidentských projevech, nýbrž tváří v tvář československým dobrovolcům za první války, kteří z bezpečí zajateckých táborů odcházeli na frontu do nových bojů za svobodu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c01a8e9d6ad44342643e9b7f23e9e34fce68999167c5d732378069599b8bd3a
+size 232

@@ -1,1 +1,3 @@
-sovětský bluff nebezpečí současný vývojový etapa sovětský svatý podařit zmást část veřejný mínění svobo dný svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a7d16abd2f2c1239e48c4f0eabb5ef4be1c7eceb5308083b0d43240aa2e0e91
+size 141

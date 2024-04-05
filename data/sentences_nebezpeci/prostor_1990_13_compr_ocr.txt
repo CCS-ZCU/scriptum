@@ -1,10 +1,3 @@
-národ mít čelo nový vůdce humanistický politický program znamenat nebezpečí nacionalismus zažehnaný
-nej proslulý moci jmenovat novinář Ferdinand Peroutka obsáhlý kniha budování stát vylíčit vznikání československý politický systém léta otázka demokracie věnovat mnohý článek esej historik Josef Pekař podrobovat historický kritika oficiální koncepce český dějiny kniha omyl nebezpečí pozemkový reforma poukázat pragmatický zneužívání znamenat politický řád československý republika filosof Emanuel Rádla vynikající kniha válka Čech Němec prokázat základ československý státnost národní idea zaměřený idea pronikat celý politický řád československý stát činit československý Němec občan nízký statut znemožňovat přijmout stát vytvářet budoucno možnost rozbití
-další velký nebezpečí sekularismus spočívat otec rodina cítit totožný archetyp otec zatížit chování jed nak vykonávat syn drtivý snesitelný nátlak deformovat funkce souviset paternalismus osobní společenský život
-myslit stát uvažovat reálný nebezpečí lidský svět hrozit deformovaný zhuštěný struktura vytvořit
-zprostředkující vztah nevědomí narušený vznikat velký nebezpečí archeta pyjako spontánní autonomní psychický faktor začít prosazovat vznikat různý forma znevolnění posedlost
-jistý nebezpečí rozumářský střízlivost
-budoucí lékař navštěvovat teologický přednáška teolog naslouchající přednáška medicína ocitat nebezpečí ztratit víra
-hovořit nebezpečí zásah HOS Čechy myslit ohled hrozivý fakt osvobodivý proces společnost vzniknout dát zastavit
-mystérium amoris stát pouhý intimní záležitost lidé vysvobozený pouto puritánský morálka erotický obřadnost formální prostý lidský vztah pjatý romantika věcnost hrozící nebezpečí citový zmatek hygienický sex
-spokojenost maďarský menšina jižní Slovensko starý data minulý režim kulturní politický požadavek přehlížet Slovák mluvit nebezpečí asimilace Slovák žijící území maďasrský iredent zasazovat další omezení právo maďarský menšina viz současný diskuse uzákonění slovenština jediný státní úřední jazyk slovenský republika
+version https://git-lfs.github.com/spec/v1
+oid sha256:e01da847ddf7e8aaa25eb4db0ec03ad0977f5cfe6b0ebba10f39d9b36c1cf388
+size 2287

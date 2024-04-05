@@ -1,3 +1,3 @@
- „Ano, Dicku“, odpověděl Jenkins slabým hlasem, kterýž prozrazoval velkou bolest, ,,ano Dicku, se mnou jest to v koncích------ “ ,,Zavěs se na mou šíji, abych tě dopravil v bezpečí.
- ,,O Same, tys zraněn—těžce zraněný ,,Ano, missus, drobet zraněn, pes mne poněkud vlékl; však díky bohu, massa jest v bezpečí a pes u ďasa!“ Krví potřísněný, jozedřený šat zřejmě o tom svědčily, jak tuhý boj musel podstoupiti s divokým zvířetem.
- ,,Ten jest po nějaký čas ještě v bezpečí, bude však muset použiti první příležitosti k uniknutí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21564dc3b8669c06edf6485ceceba5e112c1a9a988157d2b90d7fec1bcedc46
+size 723

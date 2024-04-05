@@ -1,1 +1,3 @@
-prosadit zvýšení rozpočet vysoký škola soulad prioritní význam vysokoškolský vzděla souvislost omezování náklad obrana bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:66e274a922f2940f4fbfd3fd2a209d8d8e8ec62b15154faf4750e4173855adc9
+size 145

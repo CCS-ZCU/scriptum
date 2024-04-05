@@ -1,3 +1,3 @@
- Tato činnost společnosti Charty 77, trvající již déle než sedm let, je plně v souladu s Ústavou naší republiky, článkem 17 a 29 a opírá se také o mezinárodní uznání, jak bylo vyjádřeno zejména v Závěrečném Aktu Konference o Bezpečnosti a Spolupráce v Evropě, podepsaném v Helsinkách, i v interpretaci, jíž tomuto dokumentu dali účastníci madridského zasedání této konference.
- júla 1947 o “Národnej bezpečnosti” podriadil Štátnu bezpečnost (STB) a Národnú bezpečnost (SNB) priamo t.
- Hlavnému úradu národnej bezpečnosti u Ministerstva vnútra v Prahe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d622b1368863ba835d303605b9874a07132a951a7c0f5a00b52d68f96430ac2c
+size 611

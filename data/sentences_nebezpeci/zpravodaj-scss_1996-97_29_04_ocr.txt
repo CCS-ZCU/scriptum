@@ -1,5 +1,3 @@
-mnichovanský nebezpečí Evropa vznášet
-dostat mocnost kladný odpověď nebezpečí prohrát válka zažehnaný
-nebezpečí
-světový válka představovat medvěd smrtelný nebezpečí
-zvěř vědět autobus hrozit nebezpečí ignorovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eeddf4a243a9825591e6cb2654b560a4e2ed15dc07c7e0ef56694d02319f39f
+size 241

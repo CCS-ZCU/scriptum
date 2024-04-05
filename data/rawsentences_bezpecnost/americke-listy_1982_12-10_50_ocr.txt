@@ -1,1 +1,3 @@
- Mimořádné zákony se vztahují však i na osoby, ohrožující státní bezpečnost —■ dodal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26835d581492c405bbe082dff541b6bf30e1912bcc8992c9c2900988c0fd852d
+size 102

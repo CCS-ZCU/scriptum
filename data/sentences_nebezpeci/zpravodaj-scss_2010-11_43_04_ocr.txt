@@ -1,2 +1,3 @@
-hlava stát zaměstnaný vlastní ješitnost boj nebezpečí evropský integrace stát korupce slovo
-nebezpečí hrozit náboženský společnost pravý církev boží
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f491333884376b7b01d5be87b02379632cf3f776129ce16c7ee066d95e386d4
+size 168

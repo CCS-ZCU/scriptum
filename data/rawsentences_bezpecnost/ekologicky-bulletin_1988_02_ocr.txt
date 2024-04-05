@@ -1,1 +1,3 @@
- lí této společné akci je vedla obava z bezpečnosti provozu této elektrárny, jež bude dle Jejich názoru ohrožovat jak obyvatele Československat tak i Rakouska a kSIL”! při normálním provozu,” píší,” bude tato elektrárna vyzařovat velké množství paprsků, elementární bezpečnostní zařízení budou v Temelíně scházet, zaměstnanci budou přetíženi”ap, Dalším důvodem demonstrace byly i pochyby o výlučně mírových účelech jaderné elektrárny Temelín.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd419c3ee7ecd6127fa80a3348bb5c3f336b12aab5782abbf6965ed65534736d
+size 501

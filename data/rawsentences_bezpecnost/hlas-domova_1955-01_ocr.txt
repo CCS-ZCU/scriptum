@@ -1,2 +1,3 @@
-1955 B A R E V N A T Ř E T Í S Í L A — BÝVALÝ SOVĚTSKÝ MINISTR státní bezpečnosti Viktor Abakumov byl se třemi spo luviníky odsouzen vojen - ským tribunálem nejvyššího sovětského soudu k trestu smrti.
- Ta voda nezpívala zrádně, unášejíc listí a ostí, ubíhala tak nenápadně nad víry,nad oblázky na dně, 6,ta hlubina bezpečnosti! A jak se rděly malá třešně v aleji za pavézou vrat, kterými kdysi vyšel spěšně, aby pak na popelu v Lesně mohl si jenom vzpomínat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df976ef985462620acabaf2d03992f57178ae7aec8d0bcbe79b8c6126cebc5e
+size 508

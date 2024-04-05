@@ -1,5 +1,3 @@
- Současná nebez- pečná situace je důsled- ' kem piklů imperialistic- kých kruhů bezprostřed- ně spjatých s naftovými monopoly, pro něž mo- censké a vykořisťovatel- ské zájmy, jsou dražší než mír a bezpečnost národů.
- zachování míru a bezpečnosti v této obla- sti světa.
- rozhořče- ní nad postojem Izraele ;k úsilí S N a mírumilov- ných zemí o obnovení míru na Středním vý- chodě" a důrazně žá- dala, aby Izrael "okam- žitě zastavil útočné akce a splnil rezoluce Rady bezpečnosti".
- žad-y bezpečnosti k za- stavení palby a hrozbě Sovětského svazu Izra- ;lu.
-oval, že si Izrael klade i? Radě bezpečnosti pod- mínky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f898afae71e147081278dd90dd65422bd68f60ff3a1fc066704709a2fc2a4e4
+size 681

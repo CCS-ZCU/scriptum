@@ -1,2 +1,3 @@
-dávný návštěva mateřský letadlový loď Tara nynější společný australsko americký tecký manévry dávat dem boiševismus utíkat pocit velký jistota bezpečí francouzský vláda JCSEF
-ostatní skosit německý kulomet pokoušet doplazit nízký obilí bezpečí vrchol kopec
+version https://git-lfs.github.com/spec/v1
+oid sha256:d09713c52a5dda841dbc4a576f5e07dbdc8556c4567dc19bb48c729738a494a9
+size 293

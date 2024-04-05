@@ -1,1 +1,3 @@
- Okolnost, že jsem se narodil v Praze, ji vrací do minulosti: v třicátých letech se mohlo na dlouhém útěku před nacismem uchýlit do bezpečí demokratického Československa mnoho jejích krajanů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0f7e880b6d2655a248ea62c9c2c214d43c321e2c69669dda81397f30b7a335c
+size 208

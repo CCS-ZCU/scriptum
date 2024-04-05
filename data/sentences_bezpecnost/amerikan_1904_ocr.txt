@@ -1,1 +1,3 @@
-vlídný potěšující úsměv ret sejít přiblížit lůžko Hardingův patrný ustupovat výraz hluboký soucit úzkostlivý strach bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:85cb7735b4b7d8e2750556aade97fa06ebc615557addad60f2dfe6572f02a2a4
+size 148

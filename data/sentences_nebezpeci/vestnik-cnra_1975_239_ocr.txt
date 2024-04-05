@@ -1,1 +1,3 @@
-velký nebezpečí člen rozvědek komunistický režim uprchnout sovětský okupace léta zveřejňovat zkušenost
+version https://git-lfs.github.com/spec/v1
+oid sha256:caede909b0a57159703c9a21e65f588846a6469fd6f9463214a9e41257c1bfa7
+size 116

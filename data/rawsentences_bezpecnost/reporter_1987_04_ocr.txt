@@ -1,7 +1,3 @@
- Do doby, dokud odsouzenec nemá trest odseze- ný, nemá nejen žádná práva, ale prakticky nemůže nic — musí se stále hlásit na Bezpečnosti, nemůže jet do ciziny (ano — kriminelní živly dostávají běžně povolení k cestám do zahraničí).
- Málo lidí ve Washingtonu je připraveno zaplatit cenu za bezpečnost.
-Komenský svou »Hlubinu bezpečnosti«.
- Ta hlubina bezpečnosti je někde uprostřed trojúhelníku A,B,C v oblasti jeho těžiště.
- století, které je podle nějakých tajných měřítek hodnoceno jako nějaké ohrožení socialismu, ne-li rovnou útok na bezpečnost republiky, v ní zanechává hluboce zakořeněný pocit, že žije v zemi, kde je privilegovaná třída ateistů a věřící jsou bezohledně diskriminováni.
- Ochránci bezpečnosti nejsou na pražských ulicích vzácností.
- Orgánové bezpečnosti se tázavě otočili k brýlaté.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dd52bd92571aaa5763dda087f7075a1b2e95ee13d873b31b3a7d2d88017097f
+size 899

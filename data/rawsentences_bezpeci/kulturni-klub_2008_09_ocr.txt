@@ -1,1 +1,3 @@
- Certifikát potvrzuje, že nemocnice poskytuje pacientům nejlepší možnou péči a zajišťuje jim nejvyšší možné bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:118676efc606a3bb1822389a1ad077453b086b2b47f8f413df2853ab78b4f74a
+size 134

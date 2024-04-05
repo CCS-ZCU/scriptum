@@ -1,4 +1,3 @@
-shodnout názor vyslovený prezident republika jít jedinečný historický příležitost Evropa chopit dějiny příležitost vytvářet reálný podmínka mír bezpečnost pokojný spolupráce
-rovnocenný plat mír bezpečnost spolupráce významný helsinský dokument připojit zásada respektování lidský právo základní svoboda sebeurčení rovnoprávnost národ vyrůstající evropský tradice odpovídající cenný hodnota politický kultura evropský národ
-helsinský závěrečný akt zahrnout podmínka dělitelnost míra bezpečnost vnější skutečný mír bezpečnost moci založený rovnováha strach hrozba zničnní chystaný strana vnitřní stát vyloučení válečný násilí respektovat lidský důstojnost právo jednotlivec země
-červenec Jiří Dienstbier mluvčí charta Eva Kantůrková mluvčí charta Petruška Šustrová mluvčí charta zaslaný prezident ČSSR federální shromáždění ČSSR vláda ČSSR československý výbor evropský bezpečnost dopis všekřesťanský mírový shromáždění všekřesťanský mírový shromáždění Praha prostřednictví sekretariát křestanský mírový konference Jungmannův Praha
+version https://git-lfs.github.com/spec/v1
+oid sha256:e68042ea1796e1103d853160f0b261fa3b0a939e823bfd929c9cbe7652e83730
+size 1176

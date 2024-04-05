@@ -1,1 +1,3 @@
-víčka klížit noc utkat koberec hvězda slyšet zpívat rodný země úchvatný symfonie tón uzřit lána obilný niva sada jaro kvést ukázat cesta bezpečí zavést dát zapomenout tíha den utrpení hořký maják bloudící Královno Hvězdo mořský
+version https://git-lfs.github.com/spec/v1
+oid sha256:874b9d3d65358d71c3302a82e6497b324e7b7806da07b29df50f2b2928e9dc67
+size 260

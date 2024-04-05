@@ -1,4 +1,3 @@
-cítit mravní odpovědnost společnost ochotný obětovat život záchrana existence lidstvo současný nebezpečí uvědomovat
-celek lidé uvědomovat atomový nebezpečí reagovat zesílený snaha zachování existence lidstvo
-národ napsat Jacquier Bruěre zrozený nej nízký nej základní vztah lidský život vytvářet podnebí jazyk práce společný nebezpečí společný potřeba příbuzenství krev
-chovat nenávist touha přinést poroba ostatní národ muset vědomý odpovědnost nebezpečí uvalovat prohrát
+version https://git-lfs.github.com/spec/v1
+oid sha256:a44d32b653812babd8209a423b0ecf51b7fb6a50c6ff74ae9763553bb1b68209
+size 529

@@ -1,2 +1,3 @@
- 1981 na doživotí, Musar Cerdar Celebi, který mu dával "splátky”, a Omar Baggi, který Akžovi opatřil revolver, a Bulhar Antonov; Bulhaři Ajväzov a Vasiliev a Turci Bejor Celenk a Oral Celik, tito dva zdá se klíčové osoby, jsou v bezpečí.
- Cítím se v bezpečí a jsem velmi Štsstne.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce1b69427bc4b77a26412abc05fcda6c75d540432abcb9fa9d152ac3b37bd073
+size 303

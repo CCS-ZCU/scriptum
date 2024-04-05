@@ -1,2 +1,3 @@
-třetina stav mužstvo led odmítnout pokračovat hra odůvodnění zajištěný bezpečnost hráč
-ujmout věc ministerstvo připlést státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f933c5b0556fe04f83c6474312f0dec0c252f4db8cabf43d3acc0c79ebed7b6c
+size 157

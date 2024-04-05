@@ -1,1 +1,3 @@
- Třeba tak, že v poměrném bezpečí anonymity hlediště nadává státním representačním fyskulturníkům a že ostentativně dává najevo sympatie každému jejich protivníku, ať je to třeba jen nějaké to pražské Dynamo, v němž bylo rozpuštěno něco ze staré tradice, nebo nějaký ten vzácný pták ze svobodného světa, Italové, Švédové čí Švýcaři.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e237e2e174d0f3ed683ddae1a1a456a07e141bb3bb3036d2eb3796a8fcb93336
+size 384

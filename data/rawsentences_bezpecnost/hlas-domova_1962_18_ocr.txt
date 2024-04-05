@@ -1,2 +1,3 @@
- Neboť australská bezpečnost začíná teď být očividně spojena s politickým vývojem tohoto' souseda.
- Už proto je důležité, aby si co nejvíce Australanů uvědomilo, že každý indonéský demokrat bojuje teď nejen za svou vlastní bezpečnost a bezpečnost své země, ale také za bezpečnost Austrálie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec81fb022328c68a4f5002e6168a6f7d5287770165b4ef1c3e0dce979a051e2
+size 324

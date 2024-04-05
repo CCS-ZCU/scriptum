@@ -1,1 +1,3 @@
-OBSAH: Naše Katolická škola v Londýně — PhDr F. Uhlíř. Patron všedního života — P.J.P. Úkoly a odpovědnost kat. inteligence v exilu — JUDr St. Koutník. Báseň sv. Jana od Kříže — Přeložil K. Brušák. Katolík se dívá na události ve světě. [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3fc6dc5c67d82f7b03a94128648b75140a86f10e87bba9651f5a5d47e769696
+size 282

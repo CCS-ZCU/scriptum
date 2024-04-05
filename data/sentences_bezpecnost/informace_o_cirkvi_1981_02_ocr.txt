@@ -1,1 +1,3 @@
-státní bezpečnost odnímat bohoslov vfitfĎhna psacx stroj
+version https://git-lfs.github.com/spec/v1
+oid sha256:171774780fad234a7635d2b7959338481d665b3ea94eaccec7ab49e951f1c7cc
+size 62

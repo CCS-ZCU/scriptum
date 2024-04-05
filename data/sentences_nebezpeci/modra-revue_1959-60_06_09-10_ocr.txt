@@ -1,2 +1,3 @@
-začátek exil nutný opatrný vystavovat nebezpečí tábor Německo
-myslit nebezpečí agent komunistický vláda
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fff8e61c9cff753ab57166f369494da196fedf2f480c1e5f1c466659d7108e5
+size 116

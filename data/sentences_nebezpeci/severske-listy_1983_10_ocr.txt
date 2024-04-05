@@ -1,1 +1,3 @@
-celý průběh diskuze dokázat Čech Slovák vědomý nebezpečí ohrožení samotný existence národ chybět chuta vůle dokázat minulost svoboda zasloužit
+version https://git-lfs.github.com/spec/v1
+oid sha256:497edb826321926c47d604fe3c246c045756ec01649a727618ec6423a6b4c917
+size 161

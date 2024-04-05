@@ -1,4 +1,3 @@
-srpna
-existovat obava možný provokace strana státní bezpečnost moci drobný vyvolaný incident využít drastický zásah občanský hnutí
-vyslovit obava rozhodnutí americký senát ovlivnit vývoj Kypr ohrozit mír bezpečnost celý jihovýchodní Středomoří
-příjemný podnebí starý lidé odcházet Cleveland země původ strach osobní bezpečnost následek onemocnění náklad spojený lékařský péče nemocnice drahota pobyt
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3faaefe664f1f8568b7d83a192e67116e00e4faa835ec175e8014ca4675599c
+size 447

@@ -1,1 +1,3 @@
- Pokud byly obavy o bezpečnost - česká komunita a zvláště pak sokolové nikdy neprosluli výtržnickým chováním a o tom se všichni ochránci páně ministrovi sami přesvědčili.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22fa8f4b40257253975824b701c6dd4624381fa38f58bc8a748ce8e2f742b9b8
+size 190

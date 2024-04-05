@@ -1,6 +1,3 @@
-druhý udržovat ným vědomí hlavní nebezpečí hrozit zprava udržovaný stát quo pole hospodářský neustálý souvání odkládání populární opa tření vyhnutelný
-nej silný bezpečný katole cismus Čechy nej velký politický nebezpečí hrozit strana evangelický církev
-nebezpečí spočívat tem šířit mládež ajejírna nositel slovo vzatý fanatik
-příklad hovořit Ivda mít sociální zázemí mít náboženský předsudek řena gnoseologický radno podkat ňovat znevažovat nebezpečí
-chtít
-nebezpečí stávat stereotyp místo překvapivý otřelý invence
+version https://git-lfs.github.com/spec/v1
+oid sha256:76b8cbe8bcf41dae9fcf9a2b42806c500500207e83a954bd90836308b5bf8a26
+size 583

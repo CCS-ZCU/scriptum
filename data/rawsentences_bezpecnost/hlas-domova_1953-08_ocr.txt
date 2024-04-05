@@ -1,2 +1,3 @@
-Timašuková,jež byla ny- = ,ní zatčena/spolu se zástupcem ministra státní = bezpečnosti Rjuminem - zatčení ministra Ignati= jeva nebylo dosud ohlášeno/.
-Dodávala prý také do zahraničí zprávy,"jež v zájmu bezpečnosti státu měly zůstat utajeny" .
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ef9562349afd64a41f9f76abb23f69d0e9e642eba2e1103a29d9f0e398a0057
+size 269

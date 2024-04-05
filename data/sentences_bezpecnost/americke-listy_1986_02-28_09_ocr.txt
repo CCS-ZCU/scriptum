@@ -1,1 +1,3 @@
-státní bezpečnost chtít západ vidět vypadat
+version https://git-lfs.github.com/spec/v1
+oid sha256:787699ba38ddd19e99a5ab198cdf7e38eb89e8af0052edcf3cf9dea7a3df1ab7
+size 50

@@ -1,1 +1,3 @@
-žlutý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1907243266e174755f94744c56ce838bec09d57574d48cd9aaf2f6596bf1fb2d
+size 20

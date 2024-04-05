@@ -1,6 +1,3 @@
-druhý strana skutečný obránce právo svoboda zvyšovat tempo závod zbrojení přibližovat nebezpečí válka vropa olupovaný nadějný perspektiva otevřený závěrečný akt Helsinek ohrožený proměna bojiště jaderný válka hřbitov národ civilizace vyjít koncept lidský právo vyhlašující právo život místo předný
-utralizovat sovětský propaganda integrace Evropa jaderný pásmo zabraňovat izolace pacifikace oddalovat nebezpečí sovětský konvenční válka východní tlak svobodný svět
-vybrat rázat Haiga ministr zahraničí nasvědčovat zdát Haig první pohled horlivý nervózní James Forrestal vizionář zbláznit pomyšlení nebezpečí hrozit svět dojít rozšíření nukleární zbraň
-vyřešit nastalý komplikace hrozit nebezpečí octnout
-fakt smrtelný nebezpečí alkohol uznat člověk pocházet narkotikum
-moci doplnit konštatovaní horší Hromád kov politický postoj filozof politický idea posloužit bolševikum československý Československo vnést rozkol křestan decimovat padesátý léta hlavní nebezpečí katolík
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec3ca394c251b0d8b682d5a1f7b984d0aa83ab0b4ee480c52834608b382eee3
+size 1089

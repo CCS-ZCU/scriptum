@@ -1,6 +1,3 @@
- Ministerští předsedové spojeneckých zemí přiznávali v předběžných projevech závislost na US co se týká vlastní bezpečnosti jejich zemí i ozdravení národního hospodářství, ale zároveň naznačovali, že americký president nemůže předem počítat, že ho bezvýhradně přijmou jako vůdce svobodného světa a plně schválí jeho způsob řízení dalších společných akcí.
- Vzdor nastíněným potížím má americký president pro svá jednání v Evropě v rukou tři nesnorné trumfy: 1/ Jak západní Evropa, tak Japonsko jsou životně závislé na své bezpečnosti ochranou, kterou jim poskytuje US.
-)  O K N U 19 PROKLATEC Koncem padesátých let uskutečnila Státní bezpečnost likvidaci rozsáhlá podzemní organizace, která podle zaměstnání jejího vedoucího dostala název "Akce Houslista".
- Tak se mohlo stát, že se do organizace vetřel jeden z největších provokatérů Státní bezpečnosti, agent Proklatec.
- Stal se hned hlavní oporou důstojníkťi sovětské Státní bezpečnosti, kteří nad ním drželi ruku a dostali ho z mnoha ošklivých situací.
- Státní bezpečnost měla k dispozici dostatek fotografií pana Kašpara a na tomto podkladě připravila proti panu B.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aa19dda1d56874440a1075a5476d6077f0f389322805c13858097e456451b20
+size 1246

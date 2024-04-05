@@ -1,2 +1,3 @@
-opravdový nebezpečí Maova plán představovat •americká flotila
-možný vyrovnávat rozdíl velký malý stát zmenšovat nebezpečí sjednocení provádět Hitler usilovat Sovět
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab606211e493500d36e7a51ef0039bd39a2c808e8f5508e0d2771e1f0cf2062
+size 186

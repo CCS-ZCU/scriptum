@@ -1,5 +1,3 @@
- Mnoho lidí bezpečnost varovala, aby se v okolí soudní budovy neobjevovala, jinak že budou mít o- ni a jejich rodiny potíže.
- Jedinou složkou moci, která se Chartou 77 trvale zabývá, jsou orgány Státní bezpečnosti, případně prokuratury, a to přesto, že se tím staví nad samu ústavu.
- ledna-přesně rok poté, co policie přepadla tři občany, kteří jeli předat státním orgánům text a podpisy Charty 77, a v den, kdy jste jako poslanec vyřizoval ve svém volebním obvodu stížUDÁLOST MĚSÍCE b  nost občanů, nařídili dva anonymní příslušníci státní bezpečnosti, kteří nebyli uniformováni a nepředložili žádné předvolání, jinému občanovi, mluvčímu Charty 77 filozofovi a topiči Ladislavu Hejdánkovi, aby je následoval na neznámé místo.
- Když to z pochopitelných důvodů odmítl a vstoupil do pasivní rezistence, byl po chodbě, po dvoře a po chodníku odvlečen do vozu a ležel pak po sedm hodin v ústředně Státní bezpečnosti v Bartolomějské ulici na zemi kanceláře, kde byly za zimního dne otevřeny dveře a okno.
- února - vybraní příslušníci Sboru národní bezpečnosti do hlavního města.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ab4fca5aa7fecb187b58c0eeda89e95f607b12091168e11d1dd5e22b3c5890d
+size 1187

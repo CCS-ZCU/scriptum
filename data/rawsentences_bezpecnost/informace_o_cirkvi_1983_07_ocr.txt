@@ -1,1 +1,3 @@
- Všeobecná deklarace lidských práv další právní ustanoveni na- mezi- národní i národní úrovni vyvolávají všeobecné cítění pro důstojnost- lidské bytosti a vymezují alespoň některá nezcizitelná práva člověka, zejména práv na život, svobodu a bezpečnost osoby, právo na svobo'u projevu, vý- chovu a kulturu, právo na svobodu myšlení, svědomí a náboženství a právo na projev svého náboženství, at už jednotlivě nebo ve společenství, at sou- kromě nebo na veřejnosti, právo volit si životní stav, právo shromažďo- vat se a sdružovat atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f6d9882361a03836c209e067bf6f3066794bc447ab7c8a416124e96f2ea6c2
+size 596

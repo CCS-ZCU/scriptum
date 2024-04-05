@@ -1,1 +1,3 @@
- Tito lidé budou opatrně a podle pocitu vlastní bezpečnosti hájit po případě tam, kde mohou, v ROH, na pracovišti a jinde, ty, kterým je křivděno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c5f61cd4a08bc06b3ef6957ad9afcd1124960359861f8d2c4605af3ebcc7cce
+size 159

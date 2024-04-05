@@ -1,1 +1,3 @@
-nebezpečí válečný konflikt hrozit sovětský svaz chovat Evropa řečený situace změnit stav vyvážený zbrojní potenciál strana mít příjemný následek
+version https://git-lfs.github.com/spec/v1
+oid sha256:297ba54e59ad270398e908837dabbbea5cff5a59f2945efe351b9620235b3b0d
+size 166

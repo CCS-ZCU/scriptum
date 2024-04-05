@@ -1,1 +1,3 @@
-mnohý Evropan začít věřit síla USA nebezpečí konflikt SSSR Cina udržovat rozdělený svět prozatímní rovnováha
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae52b273013ec5330891640af7462c626ef60321d688f60760185cd17b57fcf
+size 124

@@ -1,1 +1,3 @@
- Od roku 1938 jsem se ve vlasti nikdy necítil v bezpečí a od roku 1948 mi lámala páteř.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54b27e3e188a36d88fbf96aa7ea00dca6d9142230726fe6a0d65f1b8d5588e9c
+size 94

@@ -1,1 +1,3 @@
-jasný pokračování druh vedení válka představovat vážný trvalý nebezpečí bezpečnost spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:b21798fde164e15c5e1b6b4834f0d1f3f65cb30ec4fb443ea170a8e0326b6556
+size 112

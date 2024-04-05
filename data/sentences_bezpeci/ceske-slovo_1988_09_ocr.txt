@@ -1,1 +1,3 @@
-šestlnásobný zvětšení kapitál zamýšlat podnikat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a91656652fbff2112ba771111ee0ab57fe9478269f3ebb43a149c88ce9b7bba
+size 66

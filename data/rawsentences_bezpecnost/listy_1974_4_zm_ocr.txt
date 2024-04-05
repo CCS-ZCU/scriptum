@@ -1,11 +1,3 @@
- Molek (organizační odděleni) a Ko- šiiar (bezpečnost) mají mnohem blíže k Jake- šovi, Indrovi a Bilakovi než k Husákovi, a to prostě proto, že Husák už jednou "zběhl od praporu" a proto mu nevěří.
- NOVÉ METODY Pozadu nezůstává ani česká bezpečnost.
- Pražská státní bezpečnost začala nová kola zastra- šujících výslechů a provokačních sledovaček.
- Podobně vyšetřovala státní bezpečnost Dr.
- Ale i ve Státní bezpečnosti se projevují v poslední době rozpory mezi těmi, kdo se za- sloužili o "vstup vojsk" a novými příslušníky, kteří přicházejí jako posila z armády a z dal- ších instituci.
- Avšak Husák tuto iniciativa odmítl s odůvodněním, Že "sovětští soudruzi si ted nepřejí politické procesy v Československu, protože by to mohlo narušit atmosféru před evropskou konferencí o bezpečnosti a spolupráci".
- První seznam se 40 jmény byl již schválen a orgány bezpečnosti mají využít každé příležitosti, aby dotyčným vys- větlili "přednosti" vystěhování.
- Možno také dodat, že SolŽenicyn není ani první, ani poslední obětí takových provokací a že naše bezpečnost v tomto směru nijak nezaostává za svým sovětským vzorem.
-30 hod dopoledne, když jsem byl se svou ženou a dětmi v naší chatě v obci Provodin, okres Česká Lípa, vnikli do mého domu dva policisté, z čehož jeden v uniformě s hodností strážmistra, vyzbrojený obuškem • a pistolí, a druhý v civdu, avšak hodností major Státní bezpečnosti, jménem Josef Meli- II  char.
- Takhle oslovuje dnes člo- věka jen Veřejná bezpečnost.
- Těmi byl stranický aparát, orgány KSČ v centru, krajích a okresech, masové sdělovací prostředky, Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:515b98308fb35fccd1c6994ba0dfbe0496932d62d0e36256daaaf654dae546ea
+size 1772

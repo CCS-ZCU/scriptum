@@ -1,1 +1,3 @@
-věřit moci zveřejnit utvořit představa lidé placený hlídat bránit bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:d25528f8c42038b538c8ba12084b4ef8e5344909dd0d3a7876cdac004a2fb205
+size 87

@@ -1,1 +1,3 @@
-padat uvědomovat rozsah bezpečí slázet neve děle sehazit odhodlání pole tický odvaha postavit tvář tvář
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce545df32bb8d231572381100777ad71e97b29ec67ba85442a9d96e2c734860
+size 116

@@ -1,1 +1,3 @@
-BEZPEČNOST- nich a strážních sborů v exilu se sídlem v Chicagu zve všechny bývalé příslušníky, aby se stali jeho členy a těsně s ním spolupracovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caa9b20b0cb4b5772f4e5dd3e49f1a9b33a5e8395de1ec02c6c3ebdb620e2adf
+size 166

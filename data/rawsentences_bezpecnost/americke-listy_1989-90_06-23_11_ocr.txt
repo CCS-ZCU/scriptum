@@ -1,3 +1,3 @@
- Násilným potlačením masových demonstrací za demokracii vykonala čínská armáda úkol, vytýčený vítěznou frakcí ve stranickém vedení, a to o minulém víkendu přišla řada na další součásti represivního mechanismu - policii, státní bezpečnost a masové sdělovací prostředky.
- Natáčení kameramana státní bezpečnosti provázel další policista čtením údajů z jednotlivých průkazů totožnosti.
- Na velitelství Veřejné bezpečnosti v Praze 6 byli pak účastníci setkání podrobeni osobní prohlídce s absudmím odůvodněním, že prý pracovníci bezpečnosti zjišťují, zda nejsou signatáři hnutí za občanskou svobodu ozbrojeni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2e3ec5cf85fbe75c0bbaefc43a79320ed0ddcddfad59ce87b1afcf7d04b8d0
+size 684

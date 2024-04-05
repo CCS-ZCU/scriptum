@@ -1,1 +1,3 @@
-Keň komunista Slovensko uspét zpráva nebezpečí ľudáckej podzemít činnost organizovanej
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ad1281afe59850cb416e9e0d6f44dd1398d565086ab03f7f9b7ac862ed5b26e
+size 96

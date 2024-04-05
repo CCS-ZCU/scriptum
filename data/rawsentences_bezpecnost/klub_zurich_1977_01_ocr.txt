@@ -1,2 +1,3 @@
- Popravčí pečovali o bezpečnost v zemi.
- Řada spolupracuje se Státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:002a5051951eab88923ff8352c722bd661a95c95abf9911c2687725e0eb1023b
+size 91

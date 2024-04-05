@@ -1,1 +1,3 @@
-Pekař přikazovat péci chléb rolník dát krava zasít horník uhlí vytěžit ohled bezpečí vědec vyzkoumat učitel zamlčet spisovatel moci smět psát
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2012d4473fbf82e272121eaa3c263b2dd40feb7840cdbe686db099d1027027
+size 160

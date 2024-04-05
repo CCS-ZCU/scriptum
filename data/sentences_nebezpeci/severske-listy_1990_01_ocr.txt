@@ -1,1 +1,3 @@
-třetí svět současný integrační mechanismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:133fafff040910ab28ec4747f1156bd310aadf1db59678a325b613bf6f6b506e
+size 50

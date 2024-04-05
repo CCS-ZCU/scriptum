@@ -1,2 +1,3 @@
- Takové snahy jsou namířeny proti mírumilovné spolupráci mezi národy a proti bezpečnosti, a mám-li na mysli neutrální země, jsou v hlubokém rozporu s jejich přijatou zahraniční politikou .
- Veřejné bezpečnosti (VB).
+version https://git-lfs.github.com/spec/v1
+oid sha256:536ad2ef3d90c90d6cecbde09779ef44a5663c321f5552baa9a9265bd1b3af50
+size 235

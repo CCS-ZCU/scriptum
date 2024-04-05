@@ -1,1 +1,3 @@
-častý pojídání lososa zmenšovat nebezpečí srdeční choroba infarkt
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5dc54341fb80eb812a753e11f22a77f005c6ad55934af09a4bc2dda2e0c4ba2
+size 76

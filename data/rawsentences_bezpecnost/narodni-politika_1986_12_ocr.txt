@@ -1,2 +1,3 @@
- Americko-sovět- ská schůzka na nejvyšŠí úrovni v Reykjaviku, počátek vídeňské konference o bezpečnosti a spolupráci v Evropě, stockholmská konference o opatřeních k budování vzájemné důvěry — všude došlo k jinému vývoji, než jaký si představoval Sovětský svaz se svými spojenci.
- Společné prohlášení disidentů Zahájení vídeňské konference o bezpečnosti a spolupráci v Evropě připadlo shodou okolností na 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d513491cf965d6300f95ad23151f7fe42d37310d8059b14bccee23c75f5884
+size 460

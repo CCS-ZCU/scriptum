@@ -1,1 +1,3 @@
-totalitarismus terorismus násilí představovat další nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c23da92727898c5a5d06e57b0ef8d43673ce31fa3a86069902cd7372b6845fa
+size 69

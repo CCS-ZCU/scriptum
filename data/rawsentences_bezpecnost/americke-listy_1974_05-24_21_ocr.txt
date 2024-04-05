@@ -1,3 +1,3 @@
- Pokud jde o vyjednávání o bezpečnosti mezi Východem a Západem, je podle zprávv ústavu možné, že se mezi Spojenými státy a jejich evropskými spojenci vyskytnou při vídeňských rozhovorech o omezení vojenských stavů názorové rozdíly.
- KVĚTNA 1974 Mezinárodní přehled NESNADNÝ “TŘETÍ KOŠ” Volnější pohyb lidi a myšlenek zůstává hlavní nevyřešenou otázkou na ženevské konferenci o bezpečnosti a spolupráci v Evropě, ale činitelé ve Washingtonu se kloní optimisticky k názoru, že i když je třeba vykonat ještě hodně práce, dohoda bude v létě uzavřena.
- Kdežto Sověty se nechtějí zavázat k něčemu takovému, Rumuni, Jugoslávci — Švédové a zástupci některých zemí kolem Středozemního moře doporučují, aby vojenská činnost, která může ovlivnit jejich vlastní bezpečnost, podléhala určité formě dozoru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3570b01ac50aedbc825f646d5033243a86ae0ece39d2420b08e67ed1b912935f
+size 893

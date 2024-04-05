@@ -1,1 +1,3 @@
- fíekl: "Pozdvihnu vždy svůj hlis jménem těch, kteří nemohou mluvit, jeko bvch chtSl *íci: Ve jménu Božím nebudu míčett" A potom od diskriminace až po mučení vyjmenovnl všechny svévolnosti a ne- spravedlnosti, které se páchají ve j-aénu domnělé bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec040baaac69a45d65fa8b7d0cbace48bb7afe45ba76547a016cec191dab933b
+size 283

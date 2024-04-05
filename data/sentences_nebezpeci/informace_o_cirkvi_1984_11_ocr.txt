@@ -1,4 +1,3 @@
-město hovořit pozvedat duch starý potřeba bát vědět nebezpečí hrozit
-nebezpečí ideologizace léhat církev celý dějiny
-vzniknout nebezpečí člověk dostat područí systém zbavit svoboda podrobit ateistický program program praktický materialismus oloupit vnitřní svoboda nadpřirozený bohatství
-horlivost soucit mít přebývat srdce duchovní pastý hrozit nebezpečí svedený scest zaměřit akce člověk důstojnost zhoubný bída bojovat brát určitý pokušení
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f7cdb23c770087a8686e3788d6a11f6dc33ce764efa9129760325197f8db6b2
+size 497

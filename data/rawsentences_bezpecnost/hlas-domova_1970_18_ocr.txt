@@ -1,3 +1,3 @@
- Kolem výročí srpnové okupace v Československu Fronta byla pod kontrolou Loňské demonstrace o výročí okupace Československa vojsky států Varšavského paktu si |vyžádaly pět lidských životů a — jak hlásilo pražské ministerstvo vnitra — 424 členů Veřejné bezpečnosti bylo zraněno, někteří těžce.
--r- ž0% áhý ‘Veřejné bezpečnosti byly už ovšem v "' pohotovosti několik týdnů, .
- Bor- fcovec, vedoucí úředník státní bezpečnosti, našel v Masarykově ložnici v Černínském paláci nezvyklý nepořádek, roz- .
+version https://git-lfs.github.com/spec/v1
+oid sha256:179b97fe4db2e19339e3db2c69769302f92bd62e76cab647203a000dce2692db
+size 567

@@ -1,5 +1,3 @@
- creáry bezpečnosti odesilatelce, navzdory jejím protestům a pouka- zu, že nejde o nic ilegálního a tajného, neboi za pár dní budou i tyto podpisy u České národní rady.
- Samoz- řejmě všemu asis:tovala Státní bezpečnost.
- Agregát samozřejmě neušel bedlivému zraku Bezpečnosti, která ho po ukončení bohoslužeb v nestřežené chvíli, když se lidé roz- cházeli, sebrala a "zkonfiskovala" - údajně proto, že je důvodná podezření, že je ukradený.
- Když to Bezpečnost odmítla, nasedl k nim do auta a žádal, aby oyl přítomen přešetře- ní celé záležitosti, aby nedošlo k případnému podvrhu a výměně stroje.
- Z chování příslušníků Bezpečnosti bylo jasné, že chtějí poznat jen "viníka" - majitele elektroagregátu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:272d296fed03b97915f37574e7e05dcaf5de7437b251d54124a2a513d33f997e
+size 782

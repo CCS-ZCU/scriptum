@@ -1,6 +1,3 @@
-otázický dotýkat samotný smysl činnost historik filosofie
-léta obsáhlý esej krize eschatologie oaobnost vyvolat značný pozornost viz tež recenze Vrána
-etno letošní rok univro sit© Toulouse ina udělený čestný doktorát celý poznamenaný ovlivněný filosofie citovaný
-pozadí tématika přiznávat zásadní role ruský kultura živý vědomí nebezpečí člověk vystavovat vůle emancipace ralna lost Vis člověk odmítající zákon človo vylomený souvislost řítit společní nost cizí vraždící těleso
-skutečný dialog možný vynořit účastník znát moci dialog
-další část svazek nést titul ^recenze komentář glos vsak oznámení spis zavádějící nalézat interview Alexandr Zinověv převzatý francouzský couzský časopis Espress báseň Czeslav Milosz dítě Evropa rok ^text Kantůrk Dějina dějiny jinnost spis samostatný kritický esaj pouhý komentář publikovaný Infocha
+version https://git-lfs.github.com/spec/v1
+oid sha256:0483f26842680577e5b65b38331664a7f99d9fdc8068456592a0f548575261d8
+size 921

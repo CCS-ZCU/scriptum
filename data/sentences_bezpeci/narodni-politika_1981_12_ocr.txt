@@ -1,2 +1,3 @@
-událost podobný naplňovat pocit klid bezpečí
-pondelok zatvorený
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd87b8fcae6f9a89e22628cd1c786cd68744197842ac87187c1ce3cd8c343ebf
+size 70

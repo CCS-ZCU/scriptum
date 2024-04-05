@@ -1,2 +1,3 @@
-podoba mít vedoucí činitel vědomý malý účinnost navrhovat moci přijmout vzniknout nebezpečí mocenský křeslo
-Ostrava Bohumín valašský Meziříčí Přerov nebezpečí povodní
+version https://git-lfs.github.com/spec/v1
+oid sha256:078fe4a39be2ab7b1fe8c733b743122cc734f08c92172c0692db17d9a61c9272
+size 191

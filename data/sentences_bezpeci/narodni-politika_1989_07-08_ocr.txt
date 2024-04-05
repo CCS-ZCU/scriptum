@@ -1,1 +1,3 @@
-osmý strana národní politika Červenec srpen Ctyř šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc99669ca07fb35d783c03b702f1133500ef3452d06b7074bd3760844f9faeed
+size 91

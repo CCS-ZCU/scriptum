@@ -1,3 +1,3 @@
-Matlocka poslední dobé stát poradce prezident Reagan otázka národní bezpečnost vedoucí oddělení evropský otázka americký rada bezpečnost stát
-dojít nepřístojnost začít veřejný bezpečnost
-Sovieta vetom povedat celý svet spojený národ mít robiť chtít medzinárodný morálka mier spravodlivosť bezpečnost sveta platit
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f478a5488f99427425cec105bc4f3931b4206329d54ffbabcd03314639c11a2
+size 347

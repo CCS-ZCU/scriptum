@@ -1,4 +1,3 @@
-ukázat ideologický rozpor lze překonat lidé srazit šik hrozit vnější nebezpečí
-návštěvník ukázněný častý vlna hlediště přivádět divák místo stání nebezpečí pošlapaný zraněný
-pěstitel ústřice hoteliér majitel restaurace výrobce konzerv odhodlat zoufalý čin
-cholera propuknout Afrika dlouhý okružní cesta vracet tropický jižní Asie
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8c864f3376480ea980319591cf344af869af1ff7c9166595545082c1e0acb31
+size 377

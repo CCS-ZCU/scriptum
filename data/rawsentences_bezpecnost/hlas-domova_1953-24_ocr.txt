@@ -1,1 +1,3 @@
- Bývalý president Truman odmítl uposlechnout před volání senátního výboru pro vnitřní bezpečnost a vy ložil Američanim svoje stanovisko v televisním pro- Í'evu;’Whiteovc povýšení nebylo odvoláno proto,aby se imožnil hladký průběh vyšetřování,a aby případní spolupachatelé nebyli předčasně varováni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:978aecaa7a20be1412eb85be5bf738cccd74a2f1daf21eb404ffde51fb3d4fc8
+size 337

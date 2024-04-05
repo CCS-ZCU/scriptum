@@ -1,4 +1,3 @@
- S pomocí Sovětského svazu bude dovršeno osvobození Československé republiky, aby tak s jeho oporou byla navždy zajištěna její svoboda a bezpečnost a aby za vŠetstranné součinnosti se Sovětským svazem byl národům Československa zabezpečen pokojný rozvoj a šťastná budoucnost.
- Vy přece víte, že jedním z článků „Moskevského diktátu“ je požadavek sovětských okupantů, aby ČSSR sama odvolala projednávání agrese z pořadu Rady bezpečnosti OSN.
- Je cynismem mluvit o míru, bezpečnosti a uvolnění v Evropě, dokud sovětská vojska okupují ČSSR a další východoevropské země.
- Polsko totiž není Amerika, kde současně probíhá vyšetřování CIA, která údajně — na základě podvržené zprávy od KGB — sledovala a odposlouchávala sovětské agenty a zločince nebezpečné demokracii a bezpečnosti USA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc9c25f02fcf86c8b859e59520be9e01d10b61419e2d8f0d511813c6429f3d1a
+size 872

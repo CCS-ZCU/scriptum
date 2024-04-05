@@ -1,4 +1,3 @@
-nebezpečí naÁl vánout ohnožovat
-nebezpečí řada biskup kněz vědět vnikat církev povolení předstý ivený putovat kněz středisko Eslan USA
-Německo poznat nebezpečí islam Evropa Švýcarsko Rakousko
-mina lost přítomnost vznikat vliv demagogie štva poputování lid nebezpečí krajní ostrý směr
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bfd6e6ffd1e8c839fb566b72f43764b883e516ae9d15d3a8a0503ae455887b9
+size 368

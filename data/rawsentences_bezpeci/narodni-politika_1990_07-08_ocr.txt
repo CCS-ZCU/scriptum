@@ -1,1 +1,3 @@
- Za nedostatek prostor řadoví knihovníci „Univerzitky“ zřejmě nenesou zodpovědnost; není však nutné, aby zde knihy házeli na zem naprosto nešetrně a nesystematicky jako odpad a ničili je tím ještě mnohem víc, než je bezpodmínečně třeba! (VIA)  Osmá strana NÁRODNÍ POLITIKA Carvanec — Srpan 1990 Ctyř-až šestinásobné zvětšeni kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? Š výcarské bankovnictví a pojišiovnictví skýtá nejvyšši možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fa3676b20ed9deccfdb505f5323e4ea8e36c3271cbd854b409a03f930ec40fb
+size 107

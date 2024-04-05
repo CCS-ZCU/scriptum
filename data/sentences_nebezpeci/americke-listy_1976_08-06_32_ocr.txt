@@ -1,1 +1,3 @@
-pravidlo účastník pozemek pohybovat vlastní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:de22f34d0412c4e087ca9bc182b40da429d90bfee93cbe68c64e54af5680b338
+size 60

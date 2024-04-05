@@ -1,1 +1,3 @@
-hrozit nebezpečí nůž vypíchnout oko
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc9d19fd7ba01dd3d7c75d47a938b2c8baa9c156d17027ccfe52e72cb18684e1
+size 41

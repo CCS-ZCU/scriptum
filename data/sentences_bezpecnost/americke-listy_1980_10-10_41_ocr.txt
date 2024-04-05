@@ -1,1 +1,3 @@
-státní bezpečnost jaro sdělit vystěhování Aleš povolit studium Vídeň mít nabídnutý stipendium rakouský universita
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b83aecd85760af70c94a3d0311df0984cecbb17453b2a7be8533266e12f13de
+size 128

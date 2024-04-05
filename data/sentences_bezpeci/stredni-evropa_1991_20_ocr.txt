@@ -1,1 +1,3 @@
-zůstat vágní nostalgie osamělý bezpečí lůno společenství
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ce7e8904e791ff1cdd0249c2e7bd91b9de762d13b37625df0706730dabc832
+size 67

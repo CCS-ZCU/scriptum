@@ -1,2 +1,3 @@
-soud aktér hrůzný poklidný všed nost veřejný bezpečnost výchovný zařízení
-gymnasium vystěhovaný úřadovna bezpečnost prostorní budc ymnasium roztáhnout bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5de07595a2dfd4a9c255efe241d3823437b4445430312f78f7caef335b28bc7
+size 182

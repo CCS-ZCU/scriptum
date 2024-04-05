@@ -1,1 +1,3 @@
- Do- dnes nevím zdali proto, že jsem jim přestal být statisticky prospěšný, anebo že v té do- bě ztratila veřejnost zájem o bezpečnost re- aktorů a začala se zajímat o odstranění pa- na presidenta Nixona z Bílého domu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e7ab102f8a3113f4d0af1b826fc22e45f561cfdeada3b0f0d61defa0106bbe8
+size 239

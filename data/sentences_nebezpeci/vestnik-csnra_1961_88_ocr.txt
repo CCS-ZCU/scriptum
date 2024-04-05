@@ -1,2 +1,3 @@
-přehánět velikost nebezpečí přiznat připozdívat
-květen pan předsedo výkonný výbor československý národní rada americký ústředí Chicago odhlasovat resoluce poukazovat nebezpečí hrozící svobodný svět koaliční vláda Laos zástupce komunistický vláda
+version https://git-lfs.github.com/spec/v1
+oid sha256:0da40c8e36829ebe0cd258a3f69cefb04a2dd7b89e18682bf027f5bd691de105
+size 279

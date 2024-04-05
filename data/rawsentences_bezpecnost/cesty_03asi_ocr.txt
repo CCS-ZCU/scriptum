@@ -1,1 +1,3 @@
- V těžkých dobách totality, kdy je nám vše vzato, kde život není rizikem osobní bezpečnosti, existence, bídy, práce, cti(zůstal však život ještě rizikem nalezení,udržení či ztráty živé víry, ktsáá není vírou v něco, nýbrž pouhým přitakáním, pozitivitou a která není závislá na osudech mého biologického organismu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73840f87894a41d08603aa939de15f5b834bde6edb9258b07c82c8e34aa452e0
+size 356

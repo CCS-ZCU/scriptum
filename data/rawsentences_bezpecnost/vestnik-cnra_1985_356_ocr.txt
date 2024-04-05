@@ -1,2 +1,3 @@
- Jsme hrdi na družstevnictví, které tvořilo přirozenou hospodářskou nádstavbu a zároveň podpíralo hospodářskou bezpečnost jednotlivců i skupin.
- jménu míru a bezpečnosti světa, jež jsou hlavním důvodem Vašich hovorů s presidentem Reaganem, Vás naléhavě žádáme, aby byla v Moskvě učiněna opatření, bez dalších průtahů к odchodu sovětské armády z Československa”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1a6c31db9eb471291a0feb90f9f04b2a615407a3edd3881b049c37c9351d12
+size 408

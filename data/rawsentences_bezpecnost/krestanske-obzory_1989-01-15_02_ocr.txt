@@ -1,6 +1,3 @@
- Do probouzejícího se města září desítky osvětlených oken místního velitelství bezpečnosti na Žižkově náměstí.
- V té době Již přísluš- níci bezpečnosti legitimují vytypované osoby, důležité křižovatky a výpadové silnice r>a obvodu města Jsou obsazerty.
- V Olomouci však nikdo ne- žádal úřady o povolení, nikdo toto setkání také nezakázal - došlo tedy k praktické realizaci slov kardinála Františka Tomáška, "co není zakázáno, Je povoleno!" Bezpečnost /vyjma zadržení několika aktivis- tů/ se chovala zdrženlivě a korektně, to Je třeba ocenit.
- Rád bych se zeptal, o Jaké narušení pořádku šlo,když se mladí lidé modlili a zpívali náboženskou píseň? myslím si, že bezpečnost by v pří- padě narušení veřejného pořádku určitě zasáhla.
-Podíleli se na tom i ti příslušníci bezpečnosti,kteří zabavovali archy s podpisy lidí nesou- hlasících se zákonem a podíleli se na tom i ti, kteří zákon schvá- lili.
-Není bez zajímavosti,co nám - tentokrát pod hesly demokracie a svobody - pánové,kteří se v "chartě" a dalších skupinách za jejich obhájce vydávají - nabízejí: zrušení vedoucí úlohy strany,politický pluralismus buržoázně demokratického typu,plnou obnovu soukromého pod- nikání včetně zemědělství,kultury a sdělovacích prostředků,vznik "ne- závislých" sdělovacích prostředků,nakladatelství,divadel,názorový a instucionální pluralismus ve školství, "nezávislé"odbory a další or- ganizace , odchod sovětských Jednotek z našeho území,odluku církve od státu,reorganizaci orgánů Bezpečnosti a další podobné reformy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc324c64807c8ee13ed004bd2004a13a0862890106832bdbce5d0cc43e8aa632
+size 1686

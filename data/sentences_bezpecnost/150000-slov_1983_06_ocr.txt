@@ -1,8 +1,3 @@
-civilní zahraniční politika zvyšovat národní bezpečnost nízký náklad
-hledisko východní Evropa zdát západ moci vykoupit bezpečnost
-Rus máj právo bezpečnost přátelství
-žít vědomí bezpečnost svoboda ohrožovaný žít krutý ďábel dějiny žádat bezbranný občan muset bát misto revolver ukrývat podušký vodíkový bomba
-sovětofóbie starý známý politický nemoc ohrožovat demokratický hodnota deformovat rozpočtový priorita ohrožovat národní bezpečnost perspektiva nukleární válka
-uveřejnit generál Cvigun prvý námestníkpředseda KGB zodpovědný vnútorit bezpečnost článok úspěcha KGB boj disidentom kvalifikovat zločincov
-listopad zaslat vláda Jánoš Kádár nastolený Sovět jugoslávský vláda dopis zaručit Nagy druh bezpečnost zdůraznit mít malý úmysl zakročit moci vrátit domov
-volba varovat bezpečnost západne Evropa mluvit Francie vyžadovat drastický snížený počet sovětský raketa
+version https://git-lfs.github.com/spec/v1
+oid sha256:126b4183a911866647406ab2dfeb648d3778377976b2c748492ffe1cd4045147
+size 972

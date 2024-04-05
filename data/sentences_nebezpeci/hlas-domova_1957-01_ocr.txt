@@ -1,2 +1,3 @@
-tamní nebezpečí nebezpečí pomalý infiltrace
-oyt hrozit nebezpečí dovést pustit podniknout dát sázka život
+version https://git-lfs.github.com/spec/v1
+oid sha256:89203e20f8e0b60f6c516ff25ddaeee4483ff2cec8d87d3d2499ea6bad06a54c
+size 118

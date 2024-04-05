@@ -1,1 +1,3 @@
- Leckdo se oprávněně podivuje, proč tento druhý nejpočetnější stát světa, s oprávněným mandátem na získání permanentního křesla v Radě bezpečnosti OSN, má všeho všudy k dispozici až žalostně nepočetný diplomatický sbor - pouhých 600 členů, což je zhruba kádrové vybavení Nového Zélandu či ostrůvku Singapuru, oba s necelými 5 miliony obyvatel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:698b107d8177d386502303f5501d541c5e704842f6b5f840da70b2ab6f7991d6
+size 387

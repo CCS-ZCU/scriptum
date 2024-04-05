@@ -1,5 +1,3 @@
- Slovensko, s vedúcou demokratickou stranou bolo jedným, vedľa armády a bezpečnosti, z hlavných terčov útokov.
- Už v júli 1947 sa zákonem o Národnej bezpečnosti čís.
- júla 1947 jak národnej (SNB), tak aj štátnej (ŠTB) bezpečnosti na Slovensku.
- Po prečítaní písomného hlásenia o stave bezpečnosti na Slovensku som sa po niekoľko minútovom tichu prezidenta priamo opýtal “Čo budeme robiť?” Prezident po mojej otázke chvíľku uvažoval, meral ma svojím zkúmavým pohľadom a povedal mi “budeme se bránit, generále.
- Je pokračovaním helsinkskej konferencie z roku 1975 o bezpečnosti a spolupráci v Európe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2e9e4efdb4e0793d4e4c71cff52b97fa1a7b1092a1e613de9859f257c566e58
+size 653

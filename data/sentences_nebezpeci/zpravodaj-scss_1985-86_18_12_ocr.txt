@@ -1,4 +1,3 @@
-samotný předsednictvo ústřední výbor KSČ přijmout politický hodnocení pravicový nebezpečí věc obroda socialismus
-koncept MAD zaručený zničení lepší obrana obrana protiútok nebezpečí protiútok napadený strana
-stíhačka nebezpečí vlétnout československý
-firma pracovat britský hrozit nebezpečí vedoucí Nývlt telefonát zakázat tvrdit Nývlt Angličan obchodní trik odhalit mít smysl
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d2679854341b2a65d52b45da99c83de89375571330b8ad51286bdbbe64345a1
+size 420

@@ -1,1 +1,3 @@
- Občas je nutno rozvážně i zlo napadnout, když totiž je třeba, aby bylo odstraněno, abychom 220  měli klid a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d841eba4f43d39cc1b32f0d54f94596411a72582f593ec997149cb437842cfe
+size 131

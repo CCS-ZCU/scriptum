@@ -1,2 +1,3 @@
-dospět názor národ Žižkův národ Chelčický malý národ prostý lidé hlavní starost vlastní bezpečnost
-rozprava obchod bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9e62a8c4899a69d269fd78169da9bec1ac35fa05c94b64683a3da36a34b78bd
+size 143

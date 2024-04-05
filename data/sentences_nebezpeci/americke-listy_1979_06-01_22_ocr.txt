@@ -1,1 +1,3 @@
-terorista fanatik znát strach vyhrožovat druhý ohled nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bdf7723dfaa2505244e0de5b906c542faeaedaf0a6350918450433806db177c
+size 68

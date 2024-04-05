@@ -1,3 +1,3 @@
-zručnost milý společnost formulovat tvrdit vystavovat nebezpečí usmýkaný prach blát rušný cesta etymologie
-Teň přistupovat váhání natahovat ruka
-muset mít střecha mocný
+version https://git-lfs.github.com/spec/v1
+oid sha256:704a8a0fb94418eb1bdda803f7da22305945db9a648da0dfada4882073146acf
+size 187

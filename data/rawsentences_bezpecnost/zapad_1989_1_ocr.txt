@@ -1,6 +1,3 @@
- V čísle 8/1988 se zmiňuje Honza Bořil ze skupiny Barel rock o tom, že když před časem sku- pina vystupovala na tancovačce v je- jich domovském městě Žďáru nad Sázavou, v deset večer 'přijeli pří- slušníci Veřejné bezpečnosti a lidem v sále bylo oznámeno, že všichni, kdo mají džíny, musí sál opustiť.
- Na útvary Veřejné bezpečnosti bylo předve- deno 87 lidi.
- Záměr zahraničních inspi- rátorů byl zřejmý — otevřenou konfrontací zpo- chybnit probíhající proces přestavby, discre- dltovat ČSSR jako signatáře Závěrečného aktu Konference o evropské bezpečnosti a spoluprá- ci, narušit klid a pořádek, pomluvit naší republi- ku v zahraničí.
- Jeho náruč byla opatrně a po- tajmu otevřená od poloviny třicátých let a zadní vrátka byla připravena přes celou tu kolektivní bezpečnost a velkolepou politiku lidové fronty.
- Ušli jsme sotva dvacet kroků, když nás zastavili muž a žena v uniformách výstavištní bezpečnosti.
- Státní bezpečnost je s veksláky stejně jako i s luxusnějšími prostitutkami jedna ruka.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e3bba42209898478cbddd7d64e4f50d356d7d8117b8451838d7a138dd47ff35
+size 1108

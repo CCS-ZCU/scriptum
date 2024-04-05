@@ -1,1 +1,3 @@
- VYHLÍDKY Koncern IBM nedávno provedl pokus, jímž si chtěl prověřit bezpečnost svého spojení s klienty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:884e712bd9933b5d7cbc64577e870778dc8a34ed87641ed02d5eb003c2158d62
+size 114

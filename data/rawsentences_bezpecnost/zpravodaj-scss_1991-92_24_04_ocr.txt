@@ -1,4 +1,3 @@
- Moravští separatisté ztratí pravděpodobně svého vůdce, protože se při lustracích v parlamentu ukázalo, že pracoval se Státní bezpečností.
- Na druhé straně se ovšem poukazuje na to, že je velmi nesnadné posoudit, zda a do jaké míry se provinili ti, kdo se ocitli v tenatech agentů státní bezpečnosti.
- Před rokem se hovořilo o tom, že registrovaných agentů bezpečnosti bylo kolem 50.
- Čteme stále o rostoucí křivce zločinnosti, o tom, jak ředitelé podniků zvyšují so^ě a svým kamarádům platy a premie, mezi lidmi kolují historky o korupci pracovníků bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfbcb331a544cd4de8a14aee4c161d699ff124e802c2f7b6b7558b717f60383a
+size 615

@@ -1,1 +1,3 @@
- Jak bychom si neměli přát, aby také Madridská schůzka o bezpečnosti a spolupráci v Evropě přispěla k upevnění m íru v rámci plné úcty k právům každého člověka a každého národa, a také k právu na náboženskou svobodu, na základě zásad přiznaných v Helsinském závěrečném aktu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:897150a3739408d05316fbc6d1eeb86e8068f6db834d657bfdc2034a0cfe8af5
+size 315

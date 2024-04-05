@@ -1,1 +1,3 @@
- Milovali jsme se s lahodným pocitem bezpečí a neobtěžováni mými navíjacími prostředky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb209ba261dd2bb066c41fcd613e871f891eb4aef621ca252d1c83f42a0e3ed
+size 98

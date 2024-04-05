@@ -1,4 +1,3 @@
-zrak lidé svobodný svět vytanout nebezpečí nový světový válka
-nebezpečí hrozit moci komunistický manažerský centrála pokus jednotlivý komunistický strana hájit zájem národ ovládat veliký nebezpečí hrozit nastolení mezinárodní právní řád omezit svrchovanost jednotlivý stát prospěch mezinárodní orgán omezení suverenita stát obsahovat omezení moc vykonávat komunistický strana prospěch orgán dobro suverenita stát omezený
-vystavit nebezpečí utralisovaný Německo mající sovětský svaz východní hranice možnost nabídnout poskytnout Němec chtít dosáhnout úkor Polsko Československo moci spadnout Sovět klín
-tribuna rudý Čína nebezpečí Asie
+version https://git-lfs.github.com/spec/v1
+oid sha256:85bed297edb90d5a2d7857ace54c272db0b4af29cf43f41d941a425464db2d3c
+size 705

@@ -1,1 +1,3 @@
- Jako je zajištěn pořádek ve státě a bezpečí občanů především donucovací mocí policie a soudů, tak i mezinárodní klid a mír může zajistit jen mezinárodní donucovací moc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e41dd310e9320bcff472c12dc350fac7ffa2d3269185b69d0aa3add95f036c
+size 194

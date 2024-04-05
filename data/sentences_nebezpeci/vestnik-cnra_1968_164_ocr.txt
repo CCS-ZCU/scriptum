@@ -1,1 +1,3 @@
-nebezpečí oběť vybudovat země národ stojící význam prvý místo
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba75373688fee7f328fdefe8ea3e9ff3e70ee6a66f5301d43a59a156aa561e2e
+size 73

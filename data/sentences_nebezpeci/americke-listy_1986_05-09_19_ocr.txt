@@ -1,1 +1,3 @@
-níiargápadní strana nebezpečí začínat uvědomovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:0766147b95b9f72dea4e7c73dd3ae9b03afa9483142b7d17060cf5ab4bec9d65
+size 57

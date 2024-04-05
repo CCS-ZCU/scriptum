@@ -1,1 +1,3 @@
-znovu vytvořit situaci,kdy sdělovací prostředky legálně útočily proti straně a její vedoucí úloze,rozkládaly socialistický politický systém,organizovaly morální a psychický teror proti socialismu věrným občanům,známkovaly funkcionáře,vyvolávaly nátlakové akce,diskreditovaly Bezpečnost,šířily antisovětismus a nacionalismus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79eb268926cdb4f9af76f5031fc025dbb153d4161ce5dd5bfbeb588ff8081eac
+size 359

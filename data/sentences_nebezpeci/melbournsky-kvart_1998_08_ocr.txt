@@ -1,1 +1,3 @@
-mít pocit stálý nebezpečí CTD hledat spolehlivý upřímný žena mít zajem starat postižený starý paní
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8e7f6bce600800137efd556901b941313eb144c6469827a2190699a15828d5
+size 114

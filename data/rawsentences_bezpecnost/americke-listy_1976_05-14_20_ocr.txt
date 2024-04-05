@@ -1,1 +1,3 @@
- Dále prohlásil, že závěry helsinské konference o bezpečnosti a spolupráci v Evropě by měly být uplatňovány také v Československu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59d5a9d17e73335bc2ac82ecc431ac94263fd699234163d7b40d7cc4cf8ad6d
+size 146

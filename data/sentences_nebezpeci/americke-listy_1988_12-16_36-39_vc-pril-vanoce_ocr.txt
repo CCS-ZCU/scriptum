@@ -1,1 +1,3 @@
-slovo naznačit Honecker veřejnost nebezpečí anarchie moci vést reforma jiný východoevropský stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:312955898ec7501c684483457b7225d8787caac0ded7b645cb970918522e0fd9
+size 106

@@ -1,1 +1,3 @@
-srpna americký list strana bezpečný rozma sovětský obchodní LOD STVA
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb143116386a0925236927a082e634a66d47ac7965f7e2ccad9646189da05147
+size 75

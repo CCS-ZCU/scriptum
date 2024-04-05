@@ -1,1 +1,3 @@
-docházet zpráva blížící kajnbodžský základna komunistický armáda urychlit kapitulace Američan zamezit dohoda válčící strana americký president rozhodnout jednotka jihovietnamský vstoupit území Kambodža pokusit likvidovat hřozící nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:af1efd88f7dcc26a22a6381042ab205ac63983e50a1cb4025e223daaf001a968
+size 265

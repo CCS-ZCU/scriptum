@@ -1,2 +1,3 @@
-muž dovést zlomit žalář vyhnanství Sibiř Magdeburg revolucionář sotvaž vdechat vzduch volnost vrhat nový zápas nebezpečí mít oko ideál svoboda národ
-zvýšený bezpečnost pojištění vklad nabízet
+version https://git-lfs.github.com/spec/v1
+oid sha256:906554efcbbb5ba8bcc4861d7a064ff7de270df9b25f23cf8cbc02edf732fc4f
+size 217

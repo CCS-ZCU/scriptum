@@ -1,2 +1,3 @@
-působit obtíž zapudit klam nebezpečí podlehnout
-rok oldspeak běžný nástroj komunikace existovat nebezpečí užívání wspeakový slovo pamatovat původní význam
+version https://git-lfs.github.com/spec/v1
+oid sha256:b83eccfe4729b5ea9e59da1334b4f9608b6626bd7565910b2aa1392aa2d8d7e0
+size 174

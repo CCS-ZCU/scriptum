@@ -1,2 +1,3 @@
-pronásledování katolík nový York Dongan muset uchýlit bezpečí vrátit Anglie strávit zbytek život
-pronásledovaný žít bezpečí smět vykonávat veřejný úřad moci uplatnit veřejný život
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1efc79988c3a3e5a357ff8bbaaa904f4bd101d83d91dcd7a2f321bcb0058d5c
+size 206

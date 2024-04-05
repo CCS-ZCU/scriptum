@@ -1,2 +1,3 @@
- Jak? Vraťme se zase ke starému pořádku, v němž jsme žili v jistotě a bezpečí.
- Stačilo do toho domu vstoupit a najít v něm jistotu a bezpečí proti útokům zvenku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b48f0c98851cbf03ca29f1b923f406b8089d2a1b500841c33bca6f0a91a29b6
+size 175

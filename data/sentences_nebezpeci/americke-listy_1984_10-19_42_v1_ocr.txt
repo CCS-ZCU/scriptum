@@ -1,1 +1,3 @@
-úkol potvrdit exi stenč opoziční kon trarevoluční nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4882a1ebfe6c78c9e5fb38b578a8b1fbf4c1d2f369131c29ab885d69957eccd
+size 67

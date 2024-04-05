@@ -1,2 +1,3 @@
-potřeba ospravedlňování hledání kuriózní právnický klička paradoxní stát bezpečnost silný mnohý omezený moc
-státní bezpečnost upevňovat sebevědomí rozhánění skupinka student bití vláčení bosý univerzitní profesor chodba bar tolomějský ulice
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b9ca3370782e413622b3376b8f1bd75fc5e5680b58785b68d3d1f5af75c791
+size 274

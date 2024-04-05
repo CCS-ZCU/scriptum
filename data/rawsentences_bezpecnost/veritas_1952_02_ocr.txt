@@ -1,1 +1,3 @@
- Praha,červen 1952 «-/V eritas,/- Z kláštera v Praze-BřevnovČ jsou sraženy školy pro Skór národní bezpečnosti ^/SiiB/ .
+version https://git-lfs.github.com/spec/v1
+oid sha256:14d3e1c93059e4b1eec9d67ad011e5b30daedb4d5f171f03154c8ce8b68bef55
+size 132

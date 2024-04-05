@@ -1,4 +1,3 @@
-pociťovaný zájem křesťanství mladý lidé vtažený soukolí každodenní kompromis úlitba moc zajišťovat instinktivní potřeba bezpečí materiální jistota podlamovat touha čistý život nesnadný společnost utilitární vztah heslo mít dát dát vydávat ovoce
-podivný neklid brát ruka ineditní časopis informace církev vzkříšení teologický text exilový bezpečí sledovat obdivuhodný zápas osobní nasazení malý riziko šířit český země živý Kristus
-lidé válka skrýt
-zůstat lhostejný
+version https://git-lfs.github.com/spec/v1
+oid sha256:a00c88d803012ab07fe21d513a7b6820f00a80921580b028443a6d7fbd1e624b
+size 529

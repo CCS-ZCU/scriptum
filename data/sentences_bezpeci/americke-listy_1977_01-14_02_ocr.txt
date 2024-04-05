@@ -1,1 +1,3 @@
-znamenat Ivan bezpečí USA otec PÄtek
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c3f288f492fc58f5477bc6339a4ee39cc79ae55f3f3a42ae667fa6e2248e8a7
+size 40

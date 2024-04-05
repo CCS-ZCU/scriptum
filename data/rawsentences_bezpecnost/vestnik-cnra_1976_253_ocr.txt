@@ -1,4 +1,3 @@
- Len minulý týždeň, teraz pred volbami, sme o tom hovorili s politickými činiteľmi a žiadali, aby Spojené štáty nastolili zmenu svojej zahraničnej politiky v záujme bezpečnosti, mieru a sebezáchovy.
- Promptne sme reagovali na politické udalosti, ktoré sa týkali priamo, alebo nepriamo Československa a bezpečnosti Ameriky.
- Z hlavných našich zákrokov uvádzam aspoň tieto: Pri zahájení jednania v Ženeve o bezpečnosti Európy požiadali sme Dr.
- Jan Papánek Ženevu v době, kdy tam probíhalo jednání o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e4fdb66eb403f3fedd6acf5d7de1ba394f6eca5a827710cf6b282ffabf84c0
+size 573

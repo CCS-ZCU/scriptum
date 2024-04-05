@@ -1,1 +1,3 @@
-tým rok vyhledat gynekolog bezpečí klid
+version https://git-lfs.github.com/spec/v1
+oid sha256:db04c2ee721d09a915986aedfd8a1e06c640b6c8d1323b8341dfa505346329fc
+size 43

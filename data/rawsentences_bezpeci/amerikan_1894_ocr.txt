@@ -1,2 +1,3 @@
- Ale ten byl v bezpečí, a zajisté hůře bylo by naň vzpcmínati, kdyby dlel v řadách jižních.
- Ovšem, ten šel do bezpečí, tento do války ! Z každé stanice, kde bylo jen možno, posýlal poručík Mary dopisy, jež je čítala s větší ještě dychtivostí, než zprávy o průběhu války, kterou si přála rníti co nejdříve skončenou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99f583fd02212958e7bf65b885863fff72059db1ad0290827094abc18ad22fb6
+size 359

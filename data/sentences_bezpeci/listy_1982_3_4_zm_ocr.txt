@@ -1,4 +1,3 @@
-dovolit říci doba výkon vysoký statek mít druhý význam domnělý bezpečí liberální civilizace přicházet patřit povaha uměný
-dovést zastavit sestoupit kolo jemný viditelný síla zastavovat jít dtžet rovnováha bezpečí
-kniha kniha lítost neochota evropský kultura reflektovat hrozící bezpečí neochota pochopit nutnost obhajoba inte grit evropský kultura zahrnující nahraditelný hodnota kultura středoevropský kultura ské rakouský polský
-dát zahnat bezpečí stádo jistota iluze ochrana realista
+version https://git-lfs.github.com/spec/v1
+oid sha256:728563b470fec3d1ef0e29f767f01bcb6f20de7579630ced756434295714d728
+size 388

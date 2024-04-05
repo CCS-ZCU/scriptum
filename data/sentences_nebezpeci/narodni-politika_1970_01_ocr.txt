@@ -1,1 +1,3 @@
-hodina večeře italský velvyslanec informovat situace nebezpečí republika položit fatální otázka lze čekat spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6aaabacf0bd5beb960ac0a4e48f4f61be9cd53bde22cccf3e024580a0e10718
+size 131

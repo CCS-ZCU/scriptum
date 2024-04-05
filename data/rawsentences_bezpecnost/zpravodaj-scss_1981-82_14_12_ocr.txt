@@ -1,2 +1,3 @@
-/: Právě ve chvíli, kdy svět ohrožuje nová eskalace zbrojení, stává se stále zřejmější, že úcta k základním lidským právům a svobodám je předpokladem mezinárodní bezpečnosti a základem perspektivních odzbrojovacích programů.
- S příchodem tmy se zvyšuje i počet uniformovaných a civilních strážců bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb66f40871be79d94485671ba44bb697b9e7f6d5349f382a124ad51a5292e01b
+size 349

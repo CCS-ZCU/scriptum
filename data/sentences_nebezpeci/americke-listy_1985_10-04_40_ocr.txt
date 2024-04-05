@@ -1,1 +1,3 @@
-pražský rozhlas poznamenat Československo vidět hlavní úkol všestranný napomáhání využití tencionál organizace spojený národ lidstvo zbavit nebezpečí jaderný válka zastavený materiální příprava válka hromadění zdokonalování zbrojní senál arsenál konečný platnost zlikvidovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:19dd940ddeec92ab74a4625911508e208b1faca958cf0e0c063b6acfbd9cad7f
+size 316

@@ -1,6 +1,3 @@
- To, ža se k neomezené hladovce v případě svého zatčení odhodlá^ bylo Státní bezpečnosti dobře známo.
- vedení ¡^ přestože /osobně rozhod ovalí o rozsahu represí a rozsudcích -smrti* štejně nedotknutelná zůstává úloha Čs/á sovětské bezpečnosti^ prokuratury a soudnictví/při organizování3 plnění' a zároveň zamlčování/ všech /těchto''represí.
- Další dva účastníci manifestace, Eliška Heissnerová a David položili po zásahu Bezpečnosti květiny k sose sv.
- Předpokládají, že jsou to orgány¡, ^kťeré- si , společnost určila, aby bdelý ňeď jejím bezpečími/ že jsou to ochránci zákona^ zákpň tótiž y civilizované společnosti stanoví, kde i jsou meze svobody jednotlivce/ a co nesní dělať, aby nenarušil nebo neohrozil svobodu^ majcuek či bezpečnost Ostatních, Haše zkušenost civilizace nám brání považovat po1icisty^ kteří nám dělají domovní; prohlídky, proste zá zloděje a prokurátory a soudce za dráby a šašky svévolné vládnoucí moci/ Kdyř nám ukážou povolení k domovní prohlídce, necháme je, aby nám prohrabávali brali knihy.
-Státní bezpečnosti z--' Prahý';Bratis 1 avy*.
-4,hladovku^ Vz/c^ínkoyý akt v Chomutově zmařila Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5247dc9c68a34a9e0572ba8e48a3466ea50ca070b8262ced413992dd365fc8f
+size 1271

@@ -1,3 +1,3 @@
- kultech bude brát v úva- hu závěry Vídeňské konference o evropské bezpečnosti.
- Je naším přáním, aby všich- ni, muži i ženy, aťřeholníci a řeholní sestry nebo ne, kteří přicházejí jako budovatelé pokoje na pomoc svým bratřím, mohli vykonávat své posláni v 101  ovzduší bezpečnosti a přátelství.
- — Také biskupy — jejichž hlas je jediný, který se nebojí na Madagascaru nazvat nespravedlnost pravým jménem — nabádal k obraně všeho, co ohrožu- je čestnost, bezpečnost a k šíření smyslu pro mravnost, blaho, úctu k rodině a manželství a konečně odsoudil násilné plánování rodin a imperialismus kontracepce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f29604bf341df2ff82b7e520d057e85112e1df78fb2575ed47e6f6def1cc9e6
+size 678

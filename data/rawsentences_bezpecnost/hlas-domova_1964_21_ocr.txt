@@ -1,1 +1,3 @@
- Otto Johna, kdysi šéfa západoněmec- kého úřadu pro vnitřní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b50afc682039b662fab2adb623c5c204f3ebf93f8cafdf03bf98d5b21ef7054f
+size 82

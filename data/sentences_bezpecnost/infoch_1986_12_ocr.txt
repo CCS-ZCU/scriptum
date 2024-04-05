@@ -1,4 +1,3 @@
-moci trvat dlouno soudní výrok občanskoprávní nzen promlčovat bezpečnost dostat nový nápad usilovat změnit společensko politický situace Polsko
-bezpečnost podezřívat organizovat koncert undergroundový kapela Budějovicko
-ukrajinský mírový výbor chápat úloha celkový kontext celosvetov úsilí bezpečnost zajištění míra
-odstranění vážný nebezpečí daný současný situace qtačit pou^ý opatření kontrola zbrojený
+version https://git-lfs.github.com/spec/v1
+oid sha256:be8694aadb8054a67f9c21c127d4d67a73bdc3c6837ead65f43b0b9d36c2954f
+size 451

@@ -1,2 +1,3 @@
-Europskej bezpečnosti a spolupráci".
- V Jalte sa"Sovietsky Svaz zaviazal k spolupráci "mierumilovných národov na novom světovou poriadku v znamení práva, mieru, slobody, bezpečnosti a obecného blahobytu vsetkého ludstva".
+version https://git-lfs.github.com/spec/v1
+oid sha256:a55f1698cebb08f0975156e46cbfb78355b89b3e12d1163184c3137ba9b8c1a1
+size 233

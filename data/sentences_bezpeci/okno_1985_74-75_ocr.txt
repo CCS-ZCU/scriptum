@@ -1,1 +1,3 @@
-Lát mít svoboda slušnost lidskost bezpečí tolerance sytit veselejší
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb91ab3e2f1162f6c39e47d0f02788fdaf28371af51292cc5e2abb968b9cc30
+size 75

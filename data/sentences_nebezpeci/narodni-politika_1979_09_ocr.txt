@@ -1,2 +1,3 @@
-přerušovat vznikat nebezpečí hudba dojít
-hrozit bezprostřední nebezpečí činnost možný prostředek usilovat změna poměr země uzavírat Československo malý vlastní soukromí snaha prostřednictví práce různý podvod naplnit vlastní kapsa jiný starat
+version https://git-lfs.github.com/spec/v1
+oid sha256:57c70f5ae5980e146ae6eff959a0719cfcc82045ac07297bc0b0ba4fd530ba9f
+size 271

@@ -1,2 +1,3 @@
- Maják, jenž má býti místem bezpečnosti, ale při své ne- přístupnosti bývá hluchým k volání trosečníka kolem unášeného.
- kde je bezpečnost vašich vkladů zaručena agenturou vlády Spojených Států do výše $5,000.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c642bb4164f1d06a857ecd5d62c41dc25fe73f3dc747512ca40a4274b6fe3a
+size 240

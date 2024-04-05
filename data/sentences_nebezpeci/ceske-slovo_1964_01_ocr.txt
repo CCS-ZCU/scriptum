@@ -1,1 +1,3 @@
-uprchlický výbor Německo navštěvovat nemocný spolkový republika ležet ústav pobývat řada měsíc
+version https://git-lfs.github.com/spec/v1
+oid sha256:83074c57d9d990ea1ae10f0e23a41774bb4378c0fe7250ceff6b90f539b63029
+size 108

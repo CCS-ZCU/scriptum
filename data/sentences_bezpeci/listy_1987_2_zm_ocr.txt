@@ -1,2 +1,3 @@
-Lomejko zděšený prohlásit dobrý němčina lítostivý navyklý vážit stář Ionescův prohlášený rozvít pochybný stav řiše zlo diskuse vedený duch vést zabřídnout konfrontační hádka důstojný nový myšlení celý dnešní doba činit stejný dílo zodpo vědný bezpečí čistota slušný chovaný společní evropský dům
-objektivita hledaný toužený dotyk míra moci jednotlivec uskutečnit bezpečí společenství jiný lidé zavalený objektivita falešný vnucený
+version https://git-lfs.github.com/spec/v1
+oid sha256:411db1c5dd63706a173fe49429ebe67190a8acb159a6c1b16d167e7c22d3a320
+size 508

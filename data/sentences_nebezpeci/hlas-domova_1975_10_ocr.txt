@@ -1,4 +1,3 @@
-lýdyž dostat stát nebezpečí Masaryk porušit věrnost stát přidržet lid
-chápání budoucnost Solženicyn adresovat Kreml dobrý víra pomoci odvrátit čas hlavní nebezpečí hrozit země příští léta válka Čína zkáza celý lidský civilizace nedostatek životní prostor zápach znečištěný země
-moci nebezpečí hájit chtít státní peníze
-vyváznout nebezpečí život divák místo usmrcený
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d82a4bdff91b012b5ea9e21db69f6ee181500155a1ad3028373e35b69f0e619
+size 421

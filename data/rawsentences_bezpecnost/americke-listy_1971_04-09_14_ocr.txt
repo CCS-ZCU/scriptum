@@ -1,3 +1,3 @@
- Roku 1952 ministr státní bezpečnosti Karol Bacílek vyhlásil: "Strana s pomocí orgánů státní bezpečnosti rozhoduje s konečnou platností, kdo je vinnen a kdo nevin- nen.
- Nejen doma, ale i ve svobodném světě jsou dobře známy vyšetřovací methody komunistické státní bezpečnosti — převzaté z mnohaletých zkušeností Gestapa a sovětské GPU a NKVD.
- Otázka: Která jsou povzbuzení přirozená? Odpověď: Kromě vyslovených již jsou ještě tato: že CÍSAŘ jest hlava Národu, jest otec pečující o dobro poddaných svých jako o děti svoje, které jsou dohromady jedna společná Vlast Rossie, a proto jest nejhodnější cti a vděčnosti, též od poslušenství a věrnosti poddaných závisí pokoj, bezpečnost, dobro všech zvlášť a společně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c778eb23dc4259944e7bf573774df2c2b639c3be7252ad175208f3369e3fe7ba
+size 792

@@ -1,5 +1,3 @@
-číslo říjen nový nebezpečí
-domnívat hlavní zásluha úspěch mít jarní převrat Brazílie odstranit nebezpečí komunismus hrozící převzít moc
-úsilí komunista vyvinout jistý utrpět významný porážka možný říci nebezpečí kontinent oddálit
-možný očekávat snaha ibero americký vláda vyřešit vnitřní problém uspokojit požadavek obyvatelstvo půda zvýšení životní úroveň pomoc spojený stát Evropa poslední doba oblast zajímat nebezpečí odstraněný daleký budoucnost
-říjen budova ČSA téma postoj presidentský kandidát nebezpečí komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e0486192f325f82e73452287a41f09dfee8d67e27a8fdcfa045e234c2d7d3b4
+size 597

@@ -1,2 +1,3 @@
- Poručík Angyal z bratislavskej Verejnej bezpečnosti navštívil sestričky v Jiretíne a podvodom vylákal od nich obe vkladné knižky.
- Privolaní členovia bezpečnosti ihneď usudzovali na vraždu, lebo v komíne, do ktorého vedie rúra z bojlera v kúpeľni, našli niekoľko kilogramov mokrého piesku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:092dd3c817fceb8940313d7cef6b97f83cc5f8661b518f1a367231cae7c24c17
+size 314

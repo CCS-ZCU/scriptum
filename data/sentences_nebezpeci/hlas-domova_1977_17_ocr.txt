@@ -1,2 +1,3 @@
-srpen růst nebezpečí vát vyhlášený Mezinárod léčný konflikt muž dodat sovětský svaz bojovat mír uvolnění napětí obětovat obět tuj zájem bezpečno vzorný tankový útvar organizování protest výroba neutroný vát bomba Amerika zvedat morálka domý cích československý
-utíci pře svědčený demokrat hrozit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2adc044539a8fff040984b62f0cb5221e666b28fbdf4924c69a9050e1ec6e2b2
+size 534

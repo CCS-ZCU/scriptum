@@ -1,1 +1,3 @@
- V seznamu byla jména bratří, kteří na sletu vůbec nebyli a jméno jedné z náčelnic, která z obavy o mou bezpečnost žádala sestry, aby v průvodu mlčely.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd87f00414e72ae3b2e2f786f6345d65f2d4f3eba2dca5d865eb40f07e4f05a2
+size 168

@@ -1,4 +1,3 @@
- Když je v bezpečí, ukáže přes sklo na ceduli Informace č.
- Prostě vychutná- vají společnost a bezpečí náměstí, kde je nikdo nestřílí, ani neškrtíajen krmí a děti a starouši se s nimi baví.
- Ale ta tatínkova blízkost byla záru- kou bezpečí.
- Po dlouhé době se cítil zase šťastný a v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc3d28131ebc32fc27247aad463dd14a1b64113357ac2d20e7a87db990adb27f
+size 397

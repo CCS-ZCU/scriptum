@@ -1,8 +1,3 @@
- Utíkali jsme do temnot pražského labyrintu, maskovali jsme se, skrývali se před slídivými zraky Státní bezpečnosti.
- Po čase přišla pozvánka k výslechu, o soukromý ples v Jilské ulici projevila zájem Státní bezpečnost.
- Hesla vybízela k vyšším výkonům, noviny lhaly, lidé mlčeli a Státní bezpečnost honila disidenty.
- A nejen to, osud jeho obce, bezpečnost jeho ulice, úděl jeho církve a jeho farnosti jsou mu lhostejné; domnívá se, že toto vše se ho vůbec netýká, že to patří k nějaké cizí moci, kterou nazývá vládou.
- Jeho lhostejnost k sobě samému jde tak daleko, že když je nakonec ohrožena jeho vlastní 99  bezpečnost nebo bezpečnost jeho dětí, pak namísto toho, aby se staral, jak nebezpečí odvrátit, založí si ruce a očekává, že mu všichni přijdou na pomoc.
- Ale cožpak netoužila po tom, patřit někam věrně a úplně? Nepřála si snad horoucně, aby ji už jednou konečně přelila vlna důvěry a bezpečnosti? Cožpak už tolikrát nechtěla cpát se dravě a bezohledně jako všichni ostatní o místo v přeplněném voze pouliční dráhy a aspoň tak se zařadit a spočinout mezi ostatními, patřit mezi ně? Ona, která nastupovala vždycky až poslední! Co to bylo, co ji nakonec vždycky zadrželo, jako by ji chtělo odkázat dojí vyměřených mezí? Proč nemohla dělat to, co ostatní, a tím se tak bolestně vyřazovala z jejich středu? Proč zůstávala vždycky cizí? Proč se nikdy nedokázala zařadit? Proč všude trčela a překážela? Ano, jistě, Anna toužila po tom někam patřit, ztotožnit se, splynout s ostatními.
- A tak trápení bylo jakousi hlubinou Anniny bezpečnosti.
- Trápení bylo naproti tomu hluboké údolí plné bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ac6ca401c199121e8708d0ab0b2b6940851220529c10d6c5e4464362903b86e
+size 1772

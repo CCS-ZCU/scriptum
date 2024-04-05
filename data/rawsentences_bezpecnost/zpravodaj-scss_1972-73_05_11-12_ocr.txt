@@ -1,6 +1,3 @@
- q q Iniciativa vznikla v Kanadě, ale rychle se přenesla do Evropy: jde o projekt evropské bezpečnosti vytvořením neutrálního pásma malých národů.
- Pro Švýcarsko se organisace akce a rozeslání podpisových archů ujalo Sdružení bývalých politických vězňů ve Švýcarsku / postrach 1100, 8022 Zurich/ Pro informaci čtenářů přinášíme dnes v e přetisku text DEKLARACE a několik POKYNU k celé akci, jak je otiskl kanadský NOVÝ DOMOV; DEKLARACE o evropské bezpečnosti (Vzor formuláře, který bude rozesílán spolu s podpisovými seznamy) My, podepsaní zastánci lidských práv, pozorujíce s bolestí, jak tato práva jsou lidu středoevropských států upírána, a znalí jehó/touhy, kterou nemůže volně projevit, navrhujeme jménem tohoto potlačeného lidu národům svobodného světa, v zájmu zvýšení evropské bezpečnosti, reorganised Evropy v tomto smyslu: 1.
- Že území těchto národů budou prohlášena za neutrální, a to v zóně 'vedoucí od Baltického moře k Černému napříč Evropou, čímž by se oddělily opositní systémy Východu a Západu a tím přispělo evropské bezpečnosti; 3.
- — pat — POKYNY k podpisové akci »DEKLARACE EVROPSKÉ BEZPEČNOSTI.
- Koho žádat o podpis? Každého demokraticky smýšlejícího krajana a přátele jiných národností, neboť i těch se týká bezpečnost světa.
- Předmětem jednání byly vztahy mezi Západem a Východem a konference přijala reso- luci "Bezpečnost a svobodu".
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb6c28cfb7b58f16f54ec0326a15ecba73f02b99231af46087f053b3d844e29
+size 1509

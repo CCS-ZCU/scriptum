@@ -1,12 +1,3 @@
-jiný cesta zbavit nebezpečí prozrazení
-dostat zpráva vidět dopis psaný den prvý psát vrátit Chicago nebezpečí pominout
-nebezpečí pan Carsone opakovat Irvin zklamání vysvítat nový naděje
-nebezpečí šeptat paní Studenková Dota předvídajíce přiblížit chvíle přinášející poznání osoba pan Martina Carson skrývat
-Yáno dát ovce stádo objet přesvědčit hrozit nebezpečí koyota dát úval potok směr pohoří políčený železo přehlédnout
-poledne ovce nebezpečí hrozit
-nebezpečí ovce puzený hlad zatoulat potrava tábor
-Manesca ujistit nebezpečí ovce pomísit
-hrozit nebezpečí
-novinářský zpravodaj slavný jít mobijek prosit vypravovat případ dravý šelma přivést nebezpečí život
-synovec pobídnout kůň dostat nebezpečí
-vyhnout nebezpečí chycení cesta jet Amerika přijet
+version https://git-lfs.github.com/spec/v1
+oid sha256:a159c6526529f6c90f1a718d329ae969adc8f47c6d9f04a3d9f0573b0661efcd
+size 841

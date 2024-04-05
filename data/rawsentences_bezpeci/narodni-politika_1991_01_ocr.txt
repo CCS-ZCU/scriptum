@@ -1,1 +1,3 @@
-  Osmá strana NÁRODNÍ POLITIKA Leden 199) Čtyř-až šestinásobné zvětšení kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? Švýcarské bankovnictví a pojišiovnictví skytá nejvysši možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dbea5ce546519818402275414824bf1f260acb1240cecce0888926f301e98d6
+size 104

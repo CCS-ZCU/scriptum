@@ -1,2 +1,3 @@
-filosofie Haenne Hersch vidět závažný nebezpečí malý skupinka programátor elektronický sděl prostředek rozšiřovat názor ovlivňovat moci ovlivnit společnost
-Athos antický Řek posvátný hora hledat lidé nebezpečí ochrana
+version https://git-lfs.github.com/spec/v1
+oid sha256:443bd143acab3c10ad9102a11f56a2fa520851f84b039d629bef33da24814834
+size 241

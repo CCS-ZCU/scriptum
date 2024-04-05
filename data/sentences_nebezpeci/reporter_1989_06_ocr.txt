@@ -1,1 +1,3 @@
-nebezpečí mířit oživení Masarykův památka
+version https://git-lfs.github.com/spec/v1
+oid sha256:7050b6eada6bbb828bdfcd12451060bbd4831f963e4d5973fcfaad72afd8f14b
+size 50

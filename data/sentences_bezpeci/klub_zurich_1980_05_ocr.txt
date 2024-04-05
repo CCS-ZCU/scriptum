@@ -1,1 +1,3 @@
-bezpečí varovat důstojník opat odejít chtít
+version https://git-lfs.github.com/spec/v1
+oid sha256:908fd0f4233349678be129b61bd1a1111b3a7441af452d3f73c53737dcac7f7a
+size 50

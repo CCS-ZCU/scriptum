@@ -1,3 +1,3 @@
- Nečiníme tak proto, abychom získali pro sebe, anebo pro své západní spojence nějaké vojenské výhody a také žádnému státu neupíráme legitimní právo starat se o svou bezpečnost.
- Avšak, jestliže jeden stát zvyšuje vlastní bezpečnost tím, že oloupí jiné státy o jejich národní nezávislost a národní tradice, to není legitimní.
- pololetní zprávu ve věci dodržování lidských práv na základě Závěrečného Aktu z Helsinek, kterou — podle zákona — předkládá jménem presidenta Spojených států Komisi pro Bezpečnost a Spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b34fe2e87e9debb48b8b3be9450975a6b0c6423ca333a9fdaea825aea7169bb
+size 596

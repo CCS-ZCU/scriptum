@@ -1,6 +1,3 @@
-« o bezpečnosti práce, byly překřtěny na zdravotní inspektoráty a jejich působnost byla částečně obnovena.
- Z toho plyne, že práce v uhelných dolech je v Československu spojena s nejméně čtyřikrát větším risikem než práce ve spotřebním průmyslu, pokud jde o bezpečnost života a zdraví.
- Okolnost, že paliva a energetika jsou dohromady spojeny v jednom ministerstvu, není ještě postačujícím důvodem, aby úrazovost těchto dvou, co do bezpečnosti práce navzájem tak odlišných odvětví, byla namíchána dohromady.
- — to všecko mělo pochopitelně za násle- Jek veliký úpadek bezpečnosti práce a zdraví z podnicích.
- Režim zřizuje inspekci Teprve když úrazovost vzrostla tak, že se ;tala hospodářským problémem, že ohrožovala plnění plánů, že zatěžovala podniky velkými 'ýdají a že kvalifikovaní dělníci propadali írazům rychleji, než je režim stačil zaučovat, pdhodlal se režim aspoň zčásti obnovit bývalé :ákonné a správní předpisy o bezpečnosti práce.
- Byl pronásledován, přičemž zastřelil podporučíka a okrskového zmocněnce veřejné bezpečnosti (agenta) J.
+version https://git-lfs.github.com/spec/v1
+oid sha256:974eeafa5aa4c338e0b7994a575291f43b13e7a987904d496daa2d043f3ea3f9
+size 1172

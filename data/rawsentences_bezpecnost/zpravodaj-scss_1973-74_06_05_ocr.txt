@@ -1,2 +1,3 @@
- Pevně věříme, že vláda Německé spolkové republiky při jednáních o evropské bezpečnosti a spolupráci najde způsob — v dohodě se spojenci — jak vznést požadavek, aby veškeré důsledky tohoto neplatného protokolu byly odstraněny a z území Československa byla ztažena všecka sovětská vojska.
- Neřekl, že my musíme zapomenout na minulost v zájmu mezinárodní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e5c15444bdf9063c2a9b7f84419b83becf4388dba8502db0f2fb04fe9e23da6
+size 408

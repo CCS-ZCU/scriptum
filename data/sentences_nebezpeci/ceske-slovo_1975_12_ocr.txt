@@ -1,4 +1,3 @@
-nebezpečí titul triček sen Hlavý
-skrývat jistý nebezpečí
-první krok otevřít kandidatura úřad zornit západoevropský veřejnost sovětský nebezpečí
-jedinečný služebník československý lid statečný umllévající bojovník nebezpečí lekat uhýbat
+version https://git-lfs.github.com/spec/v1
+oid sha256:477adb3fe8a35d6ddad3155138dcc7a168d3062724e59fe27df91f298761b98e
+size 271

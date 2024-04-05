@@ -1,2 +1,3 @@
-Gurumuk napadat osamocený lidé temnota cestovat společnost další lidé držet světlo táborový oheň bezpečí
-čekat centrum pozornost věc bezpečí podobný archiv vzít léta
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ddd1a6affd28a8db65e1a70cb90dee7ff0f489b51f03c2bdb4e8a48f8db61f
+size 186

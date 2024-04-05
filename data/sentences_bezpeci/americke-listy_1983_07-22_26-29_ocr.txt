@@ -1,1 +1,3 @@
-chtít zmocnit film televizní kazeta reportér chtít natočený materiál odnést bezpečí pronásledovat březový hájek zbít
+version https://git-lfs.github.com/spec/v1
+oid sha256:dabfe10fd9341170aafbc2744c6063e88c83fb0cb8dfdbeb0df5a763856aa17e
+size 141

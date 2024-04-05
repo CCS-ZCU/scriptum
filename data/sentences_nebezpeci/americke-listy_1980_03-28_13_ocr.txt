@@ -1,1 +1,3 @@
-upozornit americký veřejnost rostoucí nebezpečí plynout sovětský aktivita
+version https://git-lfs.github.com/spec/v1
+oid sha256:8de0f16362164bfa7106df26da56ea1283d6fdf2c9cb019a17bedde5aa10c8d7
+size 81

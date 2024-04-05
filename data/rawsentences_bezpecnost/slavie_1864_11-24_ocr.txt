@@ -1,2 +1,3 @@
- Tímto spůsobem, pak upevněním práva občanského a veřejné bezpečnosti, podaří se mu v brzku přivésti Mexiko do lepšího rozkvětu, a když nastoupí dráhu pokroku, bude zrůstati zámožnost, spokojenost a vzdělanost lidu, a císař zároveň získá si oddanost ba lásku národu.
- Kdyby Mexiko mělo pod císařstvím prospívali, vzbudí se nechuť k republice vo- hyvatelstvu vSeeh Španělských republik v Americe a budou si všude přáti císařství; neboť pod republikou dosud neměli mhu, neměli bezpečnosti, neměli blahobytu, a neměli také žádné spořádané svobody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:723522987679b9c2006048f53920c893d9a00fd0d8a8a8f0558b7e047b640275
+size 606

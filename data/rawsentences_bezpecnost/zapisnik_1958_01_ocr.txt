@@ -1,1 +1,3 @@
- Inteligence je přesvědčena, že smlouva o kolektivní bezpečnosti vyjme Československo ze zájmové sféry Sovětského svazu a že zvýšený odpor v současné době by vyhlídky na jednání zmařil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33225ff80e5410369ba2ce0127e5cd20e81c8e6eb398ce1390743a9a12894750
+size 209

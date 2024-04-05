@@ -1,2 +1,3 @@
- Zloději si vypomáhají odtahovou službou ve vlastní režii, s využitím lajdáckých předpisů, zaručujících bezpečnost profesionálních zlodějů.
- Gottwalda k systematickému průzkumu archivu, a to orgány státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a8f0095dd0cb9e2a87530dd84e318048fd5c50a0884c7229a85fe07ba1f74f3
+size 244

@@ -1,1 +1,3 @@
-upozorňovat nejeden nebezpečí člověk lidstvo ceotf dějinar
+version https://git-lfs.github.com/spec/v1
+oid sha256:117fdf261a407169845fc06d907bb0a809850031039f134fcc3b882a58e97eed
+size 65

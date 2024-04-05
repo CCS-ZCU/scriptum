@@ -1,1 +1,3 @@
-brakový edice vystavit nebezpečí trest nízko stíhání trenér
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a396623de17f9cc65d55f436481a76348cf1d52ab52a3e67e1b9aa03821113
+size 64

@@ -1,2 +1,3 @@
-dální bezpečnost úřad prokurátor roz kilometr svoboda
-stát způsob postarat bezpečnost vlastní obyvatelstvo ostatní země
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d282e665fb9903b0308b29d51a7a726ffae3cc1f020f0c22f01b0052b9c8ab2
+size 143

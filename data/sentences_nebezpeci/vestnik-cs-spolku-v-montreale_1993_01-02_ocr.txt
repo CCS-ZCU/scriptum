@@ -1,1 +1,3 @@
-Karlův most scinda poslední doba stát rejdiště různý kalý živel cikán den nebezpečí naň vydat
+version https://git-lfs.github.com/spec/v1
+oid sha256:92c3634afe51a8af8b9a4a14b8ae01619b7f2dac11edffd0c52f7eaf4677db79
+size 107

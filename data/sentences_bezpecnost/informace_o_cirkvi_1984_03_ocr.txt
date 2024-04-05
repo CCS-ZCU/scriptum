@@ -1,1 +1,3 @@
-bát mluvit strach osobní bezpečnost budoucnost rodina místo dobrý pověst
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3ff44344793b6c8e0c88a360a7b043f98f12e74e7b5c28be3c466958ccb335
+size 84

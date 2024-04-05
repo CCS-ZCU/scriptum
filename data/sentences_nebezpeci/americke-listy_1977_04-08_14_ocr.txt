@@ -1,2 +1,3 @@
-mít společný ideologický základna představovat reálný nebezpečí vláda léta invaze zakládat moc sovětský tank
-druhý strana jasný prudký rozvoj moderní jaderný průmysl mírový účel zastínit nebezpečí vyplývající případný zneužití nový jaderný technologie
+version https://git-lfs.github.com/spec/v1
+oid sha256:0677e7defc43b0bb51bbb1dc5c9f31fae6c3caa9eefb00c44aeb047a46a461ea
+size 290

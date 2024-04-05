@@ -1,1 +1,3 @@
- Na jednom místě na naše auto zaútočil ohromný, rozlícený nosorožec, ale naštěstí se nám podařilo ujet před ním do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec3cba7e3b2daaecf7223300dd399f2bc4f28bebcc74e98ade7642575c00124
+size 142

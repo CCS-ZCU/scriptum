@@ -1,5 +1,3 @@
-nebezpečí šíření TBC značný zákon isolace vyžadovat
-Polák první Evropa plný míra uvědomit latentní nebezpečí nový sovětský imperialismus
-Masaryk nebezpečí podceňovat Beneš vidět Pilsudski vědomý potřeba silný smluvní stát odolávat nebezpečí strana sovětský Rusko navrhnout federace Polák národnostní menšina polský stát Litevec Ukrajinec Bělorus Volyňan
-federativní rovnoprávný uspořádání žít chtít koncepce československý národ zabít moucha rána strana zažehnat nebezpečí slovenský požadavek federace Čech český Němec přidat muset vzniknout stát obdobný Švýcarsko druhý strana ráz snížit podíl Němec vznikající stát přispění Benešův machinace národnostní složení obyvatelstvo moci vydávaný stát naplnění sebeurčení Čechoslovák národ
-vědět mladý talentovaný důstojník Československo degradovaný základ nebezpečí obrana země
+version https://git-lfs.github.com/spec/v1
+oid sha256:549de6742dc973581914d46abdde578429198e36f728b33ce9e8e2f1fdaccb0a
+size 938

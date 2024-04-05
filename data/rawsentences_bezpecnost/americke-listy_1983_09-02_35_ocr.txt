@@ -1,6 +1,3 @@
- Zbývajících 31 států nyní rozhodlo ignorovat nesouhlas Malty, která se dožadovala zvláštní konference, týkající se bezpečnosti středozemní oblasti, což bylo všemi účastníky zamítnuto a má být 7.
- DIPLOMACIE VE SPOJENÝCH NÁRODECH V New Yorku se opět bez výsledku rozešla Rada bezpečnosti OSN, jednající o občanské válce v Čadu.
- V Radě bezpečnosti se o problému diskutovalo podle předem známého rituálu.
- A prokurátoři ani bezpečnost je v jejich klidu neruší.
- Výslovně uvedená ‘dočasnost” tohoto pobytu klade otázku, zda trvají důvody pro něj uváděné v textu smlouvy, zejména po úpravě vztahů mezi oběma německými státy, mezi NSR a ostatními socialistickými zeměmi, v tom i Československem, po podpisu smlouvy o Berlíně a zejména po podpisu Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě z Helsink, Obrovský význam takového kroku pro ozdravění života v Československu i pro upevnění míru ve střední Evropě, není třeba zdůrazňovat.
- Používáme příležitosti patnáctého výročí sovětské agrese, abychom upozornili svobodný svět, že bezpečnost Evropy je nemyslitelná, pokud sovětské ozbrojené síly neopustí Střední Evropu, včetně Ceskoslovenka.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c230abad220febd3ede1eaf62f3c1264059980a9107f75fc53e05c3400b1cffd
+size 1287

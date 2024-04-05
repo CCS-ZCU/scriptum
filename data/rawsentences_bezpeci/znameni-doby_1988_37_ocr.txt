@@ -1,2 +1,3 @@
- - Opravdu tedy nevíme, kam nás příští rok zavane a můžeme se utěšovat jen slovy žalmu, které nám jako přání pro rok 1986 poslala jedna paní, aniž znala naši situaci: "Pokojně uléhám, pokojně spím, nebot ty nám, Hospodine, v bezpečí mi dáváš bydlet" /Ž 4,9/ Jinak se zdá, že mi loňský rok chtěl skladatelskými radostmi nahradit starosti, které mi způsobil.
- na zdi - fotografie nějaké staré ženy Poje! domů! Maminka tě čeká! Srdceryvný pláč: Maminko! 0 několik hodin později je v bezpečí domova.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a32ca235090e97787977e03ef9b76c6eb763720c6548dc6c35f6081605fe473
+size 446

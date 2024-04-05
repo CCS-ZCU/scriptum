@@ -1,1 +1,3 @@
- rozšířeného předsednictva KSSS, lékařská aféra, záhadná Stalinova smrt a rozpuštění rozšířeného před- sec nictva, čistka ve státní bezpečnosti, rehabilitace četných politických vězňů a veřejné odsouzení Stalina, polská a maďarska krise a Dubčeka, které koncem t.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89294435c861f0a7f9c1e3d52dfeae6ef63d3b5da560f1f304441aae9e3dde34
+size 300

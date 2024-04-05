@@ -1,1 +1,3 @@
-ostrov snažit přesvědčit lovec přestat brutální nesmyslný masakr vedoucí velryba Bečka financovat vytvoření chraiěný pásmo tulený bílý břicho středozemní moři} chránit místo moci vyrůst bezpečí ielva Filipíny celý země vytvářet klinika vzteklina
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b15c32ee436aebe24cc666a3ad85ba2d41f11e95f20fcac473119ae4effe79c
+size 278

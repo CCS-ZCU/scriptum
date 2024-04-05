@@ -1,1 +1,3 @@
- Jde o tyto trestné činy: vlasti zrada, rozvracení republiky, teror, záškod- nictví, sabotáž, vyzvědačství, ohrožení státního tajemství, padělání a pozměňování peněz, obecné ohrožení, ohrožení bezpečnosti vzdušného doprav-  jf s * 4 niho prostředku, zavlečení vzdušného dopravního prostředku do ciziny, vražda, genocidium nebo používání zakázaného bojového prostředku« Připo- mínáme, že zákon nestanoví oznamovací povinnost na trestné činy podvra- cení republiky, pobuřování, různé formy hanobení, opuštění republiky, útoku na veřejného činitele, výtržnictví, maření dozoru nad církvemi a náboženskými společnostmi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1147bee56ac0b8a069fdced03be83e65719db3c39762193d46730cc221283f3
+size 698

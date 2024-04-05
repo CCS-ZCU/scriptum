@@ -1,3 +1,3 @@
- Ronchey: Úpadek imperátora /La Republica/ Dalimil: Finlandizace zemí sovětského bloku? Dopis Charty 77 vládě ČSSR k pokračování madridských jednání signatářů Závěrečného 23 aktu Konference o bezpečnosti a spolupráci 25 v Evropě /Dokument 6.
-Bujak o situaci v Polsku; Otevřenější vztah k minulosti /v SSSR/?; Bída polského hospodářství; Fran- 26 couzští socialisté o evropské bezpečnosti; Ex- tremismus v NSR; Návrat řeckých politických 30 uprchlíků; Sovětská špionáž ve Skandinávii; Mí- 31 rové hnutí ve dvojím ohni 26 32 Ivan Sviták: Konzumní existence /monology/ 29 36 V březnu vyšlo již 4.
- Liberdy 52 Akce Státní bezpečnosti proti františkánům 53 Sdělení VONS č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94f9e8cb1360aa74ceeb2ef11514e2343556551df58f359758fdd66919c2b04
+size 736

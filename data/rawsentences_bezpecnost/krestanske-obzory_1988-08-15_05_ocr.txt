@@ -1,3 +1,3 @@
- Je »let v článku zmínka, že lidé v místě vědí, jakou eftergii a co už tť> stálo, aby bezpečnost vraha bdhalila.
- Když ^jsme mě] i přes 700 podpisů, zasáhla státní i bezpečnost a oba jsme byli obviněni t trestního činu pobuřování podle / paragrafu 100 tr.
-Okresním oddělením veřejné bezpečnosti v Kroměříži,byl pak dán na psychiatrické vyšetření do psychiatrického ústavu v Kroměříži.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5181ac243af0351b5666ac9083eecc1b593b7b7cb8eb8002a8369b76f8e3e210
+size 434

@@ -1,1 +1,3 @@
-národní bezpečnost lze koupit cena výprodej říci americký ministr obrana Donald Rumsfeld branný výbor senát referát Fordův navrhovaný zbrojní rozpočet příští rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e3d9cbc4731ea84dc2ad2eb108beb2bc30e4fc8a4a11f5d71b2ae65364a854c
+size 181

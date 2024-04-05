@@ -1,1 +1,3 @@
- RIG VŤ STAVA_ PR Q TI _KULAk Sm Ministerstvo národní bezpečnosti ve spolupráci s ministerstvy spravedlnosti a informací uspořádalo v Pardubicích výs t avu, znáz orňu j í c í11 zl c činy rolníků-křečků a kulaků na naší vesnici51.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1495cdd56d65a74e8b8cdfd5ee1241279288d4197de6aebd0f63c086eb8e05c
+size 253

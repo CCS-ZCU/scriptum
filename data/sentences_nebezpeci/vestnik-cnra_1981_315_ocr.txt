@@ -1,1 +1,3 @@
-druhý strana skutečný obránce právo svoboda zvyšovat tempo závod zbrojení přibližovat nebezpečí válka Evropa olupovaný nadějný perspektiva uložený závěrečný akt Helsinek afa zpráva Československo zpráva československý zastánce lidský právo požádat povolení emigrovat Československo důsledek zvýšený represe československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:2823fc27579b82207171b6315c1ab41f7927db032a7e13df63826b94b63c6a5b
+size 361

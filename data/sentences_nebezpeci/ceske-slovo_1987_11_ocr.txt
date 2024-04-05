@@ -1,1 +1,3 @@
-přinášet srdce dlaň dobrý vůle poučit nebezpečí varovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:447e6b973be2384d0188f42c48fc5a2ee4926e541e3f2315b7a2ec74a00c6870
+size 65

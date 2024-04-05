@@ -1,2 +1,3 @@
-uprchnout domov komunistický puč moci zkusit tablovat učitel vytrvalost místo nebezpečí
-arcibiskup pražský umlčený léta zvěstný burcovat svědomí civilisovaný svět rudý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d713e2873a6114e1205c59cd9f5f243cd80985c586ca1a8c4b60c2af4f6bc3b5
+size 199

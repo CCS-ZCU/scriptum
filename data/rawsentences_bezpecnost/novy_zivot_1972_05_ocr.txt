@@ -1,1 +1,3 @@
- duchovních Pacem in terris na své první letošní schůzi se zabývalo závěry zasedání 'ÚV KSČ v oblasti ekonomiky s tím, jak Sdružení může působit na kněze a věřící, aby přispěli k plnění pětiletky a programů NF, a »p řivíta lo« deklaraci o míru, bezpečnosti a spolupráci v Evropě, jak byla schválena na zasedání politického výboru států Varšavského paktu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6b6632cdba0952fe263060b707ec314baed2d7b2d305594a444e57f4b5db2c9
+size 402

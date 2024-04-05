@@ -1,6 +1,3 @@
-vážnost nebezpečí dokazovat zásah samotný premiér Klaus poslední chvíle odvrátit stávka kompromis
-velký nebezpečí český ekonomika spočívat odbory stát silný protivník opačný zájem
-vláda stát stát vítězný strana studený válka bezradný přehlédnout potenciální nebezpečí důsledný postup rozkládající post titovský režim Jugoslávie
-možný
-rozhodovat dobrý zlý domluvit jiný právný občan mít zákon bělehradský velký nebezpečí doba vidět zmíněný post aliance demokracie etický relativismus zdravý jádro postmoderní doba
-moci nebezpečí dopr
+version https://git-lfs.github.com/spec/v1
+oid sha256:40c25db703fba2bed600cea9486a4f461778ff37f61290f4505fb9d14b867125
+size 621

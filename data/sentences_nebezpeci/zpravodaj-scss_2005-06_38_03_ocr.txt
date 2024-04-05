@@ -1,1 +1,3 @@
-nebezpečí hrozit Československo obyvatel nástup Hitler moc krutý barbarský rozpínavost třetí řiše
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ecd47672ab47f575b486f99356dcedfdf8d22d36ba52d8b1ffb83dd18a58bc4
+size 109

@@ -1,5 +1,3 @@
-doklad přečíst dovolit nabídnout další republika hrozit hrozný nebezpečí
-jít reakce imperialistický nebezpečí
-fousek imperialistický nebezpečí
-jediný okamžik hrozit nebezpečí konflikt skupina monslrant shluknout hotel kte ubytovaný sovětský tajný policie
-zvyklý nebezpečí svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:67ef55ce7a6e3f576b313050241b11727fb241c51870649f289bc7e8712e2cab
+size 310

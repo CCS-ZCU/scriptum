@@ -1,3 +1,3 @@
- listopadu mohla Bezpečnost zasáhnout jako při podobných shromážděních v minulosti.
- Bezpečnost už tentokrát nezasahovala, ale byla v pohotovosti a uzavřela přístupy na Malou Stranu, k Pražskému hradu.
- Sx Česká veřejnost považuje za latentní nepřátele ohrožující bezpečnost ČR nejčastěji Rusko a Německo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94427ecf75f342ca4e4e684877a171d90080503d5e3e0ea9664c0a3d04db1519
+size 337

@@ -1,1 +1,3 @@
- Zato však slíbil, že Bezpečnost bude dodržovat socialistickou zákonnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0640faaf8ed34e1f3c25a147e775fb7d377a2f3a26c361a76682bea8eafdf438
+size 80

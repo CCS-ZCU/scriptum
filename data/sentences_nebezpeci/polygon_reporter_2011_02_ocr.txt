@@ -1,7 +1,3 @@
-současný událost Japonsko dotknout jaderný odpad nebezpečí bezradnost přiznávat bezvýhradní zastánce atom
-český básník uvědomovat nebezpečí religiózní prvek komunismus Řím stát poloasijský byzantský Moskva moci rok léta stačit uvědomovat jiný český komunistický literát ukázat prst sovětský kult osobnost iberský braný Moskva možný vidět nápis náboženství opie národ
-film upozorňovat nebezpečí raketa odpálený obchodní loď test Irán vyzkoušet
-Afghánistán skrývat cvičit živel představovat nebezpečí plynulý těžba nafta okolní nový Polygon země
-dovolit nebezpečí upozornit obviněný rasismus umlčený
-znát údaj návštěvnost rentabilita uváděný obchodní centrum kupní síla Slovák Čech pohled vylidněný bezduchý obchodní centrum říkat den den moci situace změnit hospodářský krize skončit svět hrozit další krize způsobený nedostatek energie ekologický krize nebezpečí nukleární katastrofa krize přelidnění takzvaný
-hra mít jediný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f642b8e82f4c97a8b1cc10f9d52e1218b730a73054a4ab1c2930318c4488103
+size 1052

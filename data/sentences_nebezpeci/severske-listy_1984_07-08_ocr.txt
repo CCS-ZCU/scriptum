@@ -1,1 +1,3 @@
-Sovět odhadnout velký nebezpečí sportovec využít příležitost zůstat USA účast hra odřeknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab96a65fc26aeed5ebe48c4596a600819d1424a009849cfb2228e3f20b94858
+size 105

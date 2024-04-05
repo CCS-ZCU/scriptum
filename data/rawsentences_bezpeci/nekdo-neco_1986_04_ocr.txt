@@ -1,2 +1,3 @@
- Rozhodujícím kriteriem- zůstala bezpečnost, nicméně již ne v podobě záruky osobního bezpečí před’’násilnou smrtí" jako u Hobbese /u něhož je svoboda od strachu podmínkou svobody vůbec/, ale jako bezpečnost života společnosti jako celku.
- Odvahu vyžaduje již jen ono vystoupení z ochranného bezpečí vlastních zdí, a to nejen pro nějaká jednotlivá nebezpečí, jež nás možná čekají, ale proto, že jsme vstoupili do oblasti, v níž starost o život ztratila svoji plstnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4d7b39924cc28d5e43eaafc92b56168b480d7df921b07f40a0146198111c77
+size 515

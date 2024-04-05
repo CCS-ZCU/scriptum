@@ -1,2 +1,3 @@
-odhad ústřední americký zpravodajský služba Sovět moci umístit hlavice těžký raketa zvaný západ vystavit názor odborník systém nebezpečí sovětský překvapivý první úde
-ulice Haq dostat moc vojenský puč hrozit nebezpečí stejný způsob svržený
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e3e019d82c0d0019649ba4b3c58154c41b26b1688e480f340c4748ab940e50e
+size 273

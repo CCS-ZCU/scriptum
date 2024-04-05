@@ -1,6 +1,3 @@
-nebezpečí ztráta existovat
-nebezpečí národ ztrácet
-dovést představit mít nerv napnutý provaz žít stav nebezpečí
-křik výstřel snažit upozornit posádka nebezpečí
-nebezpečí hledět vlastní životní riziko nutit odvážlivec tajný exhibice letecký pokus dostat ústní podání
-připojený mapec vidět pás nebezpečí procházet Středomoří dálný východ další pás kolmý
+version https://git-lfs.github.com/spec/v1
+oid sha256:318cd9a11c25f8ef45f9504b4a361b4d5010c357cfed377f15258fc81b2eedd3
+size 405

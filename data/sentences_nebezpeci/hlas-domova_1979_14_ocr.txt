@@ -1,1 +1,3 @@
-mírový snaha svědčit návrh vytvoření spolek křesťanský král omezit intrika papežský stolice mezinárodní politika spěl odvrácení turecký nebezpečí zajišť mír Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:930ea137206001259cafb9ff4e887e9acd02d8171e682dad4d85fcf3d86ced8d
+size 188

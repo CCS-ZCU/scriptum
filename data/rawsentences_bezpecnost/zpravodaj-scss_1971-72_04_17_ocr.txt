@@ -1,4 +1,3 @@
-Protože žádný budoucí mír nemůže být zaručen,jestliže národy, které hrozí u- tokem mimo své hranice,disponují pozemní,námořní a vzdušnou výzbrojí,domnívájí se podepsané strany,že až do zřízení trvalého systému všeobecné bezpečnosti má odzbroj ení takových národů podstatný význam.
- KROMĚ TĚCHTO UNIFORMOVANÝCH VÝTEČNÍKŮ (vyskytly se vzácné případy slušných lidí,kteří mezi tyto vyvrhele nepatřili) přicházeli občas do tábora i civilní agenti státní bezpečnosti, aby všechno zkontrolovali a lovili nenápadně své dušičky mezi slabochy pro tajnou a špionážní službu jak doma,tak i v zahraničí, což se jim občas podařilo za cenu propuštění z vězení.
- Dále vězňové-špiclové,kteří donášejí civilním agentům státní bezpečnosti na velitelský sbor tábora a konečně poslední, kteří informují velitele tábora o civilních agentech státní bezpečnosti.
- Nejhorší jsou pak ti,kteří podlehnou a dají se do služeb státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d207812a626aaa788e40120cf1108f0cb9b672379141a60fd5bec1e728cb04
+size 1045

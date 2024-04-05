@@ -1,1 +1,3 @@
- A až si budete připíjet, učiňte tak na znamení země štěnic a jiných hmyzů zbavené, země kterou bude, možno nazývat vlastí svých, občanů, bez ostychu a uzardění, na budoucnost země, která, bude domovem, to znamená bezpečím svých obyvatel, na znamení země při vzpomínce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b8140bbbb296697ab31336b06265ecd92d82c89f71a068571f9c401bb96e4fd
+size 301

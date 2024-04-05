@@ -1,4 +1,3 @@
-nebezpečí muset začít
-Keňa řeč nutnost stáhnout hranice mezinárodní přehled rozhraní arabský svět černý Afrika trvat nebezpečí ozbrojený konflikt Somálsko Keňa Somálsko Ethiopie
-nebezpečí konflikt Africe nový africký stát Čína Rhodýsie červnový válka rok odškodnění paleta inský Arab opustit domov nutnost vytvoření domovina palestinský Arab opo dopis Jeruzalém vyvolat další neklid
-kašmírský nebezpečí Polsko východ západ sovětský německý diplomacie Polsko léta
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93b1595d328f69d208bc747130730c0ae2251f8e7bf0ac985a26189e2d8469f
+size 525

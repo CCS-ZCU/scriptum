@@ -1,1 +1,3 @@
-poslední den příprava konání zájezd ohrožený nebezpečí uskutečnit rakouský vláda zakázat
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e025270623e0300a7c83341f6c5b952376654de89611a19ba03840d0eda2a95
+size 103

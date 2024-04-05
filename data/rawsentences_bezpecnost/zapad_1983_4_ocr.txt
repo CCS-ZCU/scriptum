@@ -1,4 +1,3 @@
- Za této situace mohl inspektor kultury František Tro- jan spoléhat, že najde důvod pro zavolání pohotovostního oddílu veřejné bezpečnosti, který svým postupem vyvolá protireakcl ostat- ních mladých návštěvníků.
- Sekce se sama spojila s veřej- nou bezpečností a sdělila, že sama požádá o pomoc, kdyby dav návštěv- níků nezvládla.
- Během nějaké doby k tomu došlo, avšak Jazzová sekce okamžitě posla- la proti jeho rozhodnutí protest na Inspekci veřejné bezpečnosti, pro maření jejího výkonu pořadatelské funkce.
- 135/1982 Sb,) Jeho §2 (2) prav! dosti výmluvně pro každého, kdo není hluchý: "Občané trvale žijící v cizině jsou povinni za pobytu na území Československé socialistické republiky hlásit údaje uvedené v odstavci 1 okresní správě Sboru národní bezpečnosti příslušné podle místa pobytu; tyto údaje hlásí krajské správě Sboru národní bez- pečnosti, mají-li pobyt v místě jejího sídla," Že v Bartolomějské s obča- nem trvale žijícím v cizině setrvají po splněni jeho přihlašovací povin- nosti v deiším přátelském rozhovoru, je očividné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f54e10ad5fff534ff6794408e9cdeb4b98837d8fdf80b68a681fa33cf5dfa6
+size 1164

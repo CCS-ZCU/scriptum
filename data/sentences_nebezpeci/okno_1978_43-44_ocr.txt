@@ -1,2 +1,3 @@
-oznamovat výsledek konference zahraniční ministr bratrský lidový demokracie den konat Praha pořad nový německý nebezpečí živený schovívavost západní imperialista
-hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:be30aa93161a45c628d84887b64b820ec38c2590226dc80d0189f39292bd174a
+size 186

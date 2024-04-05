@@ -1,2 +1,3 @@
-znamenat obrana
-vážný nebezpečí pokračovat švýcarský vláda onen tápající svedený soudruh migrant vypovědět asyl nechat predisponovat Austrálie Afrika
+version https://git-lfs.github.com/spec/v1
+oid sha256:759f64824522f42faed5a66c6c374b979f2af6a867680a8683950ed05a90f4be
+size 168

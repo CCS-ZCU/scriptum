@@ -1,2 +1,3 @@
- Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Ovšem po tom všem musím poděkovat především Švýcarům! Jako národ cizí nás ospravedlnili a poskytli bezpečí, prostor k práci, k existenci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6c85961a52610415d5bb3d168d814c229c9372b4a2e03b1269bd27f74ec38cc
+size 199

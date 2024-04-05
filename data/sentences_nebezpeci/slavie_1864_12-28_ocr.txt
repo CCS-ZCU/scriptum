@@ -1,2 +1,3 @@
-banka peníze hrozit nebezpečí zavedení nový zvaný národní banka rozmnožit papírový peníze země ažio příčina stoupat
-nebezpečí ted odstraněný moci radovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:33cfe05c9274f0785a47840450d195bd11e6c2608df0937dff21790ea9c5e5eb
+size 175

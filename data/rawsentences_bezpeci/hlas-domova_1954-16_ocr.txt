@@ -1,1 +1,3 @@
-USA se proto mohly cítit až do nedávná v poměrném bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b142f09198e7a70a37a5b4e1567cc7a434fe72545e4a3d10b3eaa408aef2cdaf
+size 67

@@ -1,9 +1,3 @@
- bezpečnost /tedy po souhlasných volbách/ zátah na 845 lidí, v západ.
- Začátkem ledna udeřila bezpečnost znovu.
-bezpečnosti sloučeno s MV a jednotky PS tedy přešly pod MV« Novotný nechal PS převést pod MNO také před vánocemi roku 1965.
- Proto ona touha dovětů o svolání konference bezpečnosti v Evropě / viz poslední jednání v Fraze/', proto Rusové v Egyptě a Američané ve Vietnamu.
-bezpečnosti.
-května 1955 předložilo ministerstvo náróůni bezpečnosti, řízené Karolem Bacílkem politickému sekretariátu zprávu o množství zatčených, v jakém stadiu je vyšetřování hlavních případu a jak byli rozděleni do skupin.
-května pak posoudil a schválil zprávu vypracovanou minis terštvemQnárodní bezpečnosti o organizaci procesu a výši trestu.
-listopadu 1955 projednal sekretariát návrh žaloby na "protistátní skupinu uvnitř bezpečnosti" (Závodský, Černý, Valeš, Milen, Šmolka, Pokorný, Pích-Tuma).
- bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b6b9c8b279f6b60854272a1dbcc80a0021ca69560364ce5e94a247c0b25ac25
+size 988

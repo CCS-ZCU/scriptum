@@ -1,3 +1,3 @@
-charta mnohý brát historický reminiscence heroický období beznadějný protitotalitní odpor protiváha represe zvláštní pocit vnitř svoboda Jan Patočka zkušenost pojmenovat termín solida rita otřesený popsat účelový vzájemnost otřes zakusit hluboký dimenze život nechat vylat kata naděje víra slib nárok různý světský projekt dování míra bezpečí prosperita
-hájit pojetí svoboda bezpečí vidět charta staro nový aktuální úkol
-president fascinovat poselství dít Evropa spojený stát ztratit základna jméno usilovat nový uspořádání Evropa přátelský všecelka druhý garant bezpečí svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f96c8af329985032fb119d9be3709fdbd85fba97302b73b8fc36ec55485889c
+size 647

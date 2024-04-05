@@ -1,2 +1,3 @@
-postup Peking odsuzovat zrada socialismus zákeřný zločinný imperialistický přepadení sousední socialistický stát porušení státní svrchovanost provokace nebezpečí nový světový válka
-léčebný metoda pokusný nebezpečí zkoušený indikace mít léta zhoubný následek jiný orgán
+version https://git-lfs.github.com/spec/v1
+oid sha256:d96f36f9ff2e9da255f6b46e1583d1680809f2214d63123a586a2ff92554e95e
+size 304

@@ -1,4 +1,3 @@
-ZPŘÍSTUPNĚNÍ SVAZKŮ VZNIKLÝCH ČINNOSTÍ BÝVALÉ STATNI BEZPEČNOSTI 4.
-  V Londýně byl nejen věrným obhájcem otcovy a Benešovy linie zahraniční politiky, opírající bezpečnost československého státu o těsnou spolupráci se západoevropskými demokraciemi Británií a Francií a o Společnost národů, ale brzy se z něho stal "znamenitý společník, oblíbený ve všech vrstvách anglické společnosti", který zapůsobil i na krále Jiřího V.
- V řadě přednášek a veřejných vystoupení, z nichž к nej významnějším patřil projev v britské Dolní sněmovně v prosinci 1936, varoval před nacistickým režimem v Německu, apeloval na principy kolektivní bezpečnosti.
- Avšak místo do vlasti odletěl počátkem dubna 1945 do San Franciska, kde se od konce dubna do června konala ustavující konference Organizace spojených národů, jež do budoucna měla garantovat světový mír a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6e7f52d790aa9d72fc9ccf8f3a8cb38fb0f2c91396186aba971bc043e9857f4
+size 947

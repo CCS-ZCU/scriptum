@@ -1,2 +1,3 @@
-sesazený vůdce východní Evropa moci chtít pronést vlastní obhajoba politický program evropský disent manifest jít Chruščovův revizionismus stavět strana toužit svoboda blahobyt bezpečí Evropa Labe
-sjezd obnovit pocit osobní bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3abfeecf76f834b796fdacfd29564ffa1956ed744176dcf320fcf1562787f8
+size 252

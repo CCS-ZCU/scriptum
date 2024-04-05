@@ -1,2 +1,3 @@
- — Pod titulkem Zdařilý zátah referovaly noviny o předvelikonočním zátahu Veřejné bezpečnosti ve Středočeském kraji.
- Pak se objevil major Noga od Státní bezpečnosti: stal se mým “ referentem” , prakticky mým vyšetřujícím soudcem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fb12ffe6f67577000b035ed343fe214ba2d1c0aaa7c955e56e9d92435cb322d
+size 259

@@ -1,1 +1,3 @@
- Dalších sedm programů je následujících: Americká společnost a politika Kennan Institute pro ruské studie Latinsko-americký program Mezinárodní bezpečnost Východní Evropa Západní Evropa Zájemci mohou vyplnit pouze jednu přihlásKU a nemohou se přihlásit paralelně do dvou programů v jednom a tomtéž roce.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ce77bd243ebbec219b0cb0cabb684b93874f3bb8987161a1bb87c1f270d510
+size 330

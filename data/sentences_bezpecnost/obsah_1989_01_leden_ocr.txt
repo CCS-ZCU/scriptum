@@ -1,1 +1,3 @@
-podivín psát básio povídka protistátní obsah zajímat bezpečnost hájmství věrný vodka vstoupit
+version https://git-lfs.github.com/spec/v1
+oid sha256:59f66f5bcddbba803866fcafa925aa9b7c6f59a4e850c253fe9500ed87b9de6b
+size 109

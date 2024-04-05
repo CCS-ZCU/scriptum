@@ -1,1 +1,3 @@
-MO - Milicja Obywatelska / vořcíjftá' bezpečí a.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85337e5fc80e42af5337e0a7f5c1d26f439335cba1706e80ddc25ba43802df8c
+size 54

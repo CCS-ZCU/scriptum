@@ -1,15 +1,3 @@
- i bývalý komunistický poslanec a důstojník bezpečnosti Miroslav Pich-Tůma, usvědčený z úkladné vraždy dvou lidí; tentýž Pich-Tůma — mimochodem řečeno — nedávno vyprávěl pionýrům na Pardubicku o tzv.
- Tady by se komunista asi chabě hájil tvrzením, že československá bezpečnost nanejvýš  1985 NÁRODNÍ POLITIKA září JAN BENEŠ Z historie terorismu Ne, nezdá se, že by toto léto hrozilo nudou.
- Nemůžeme říci nakolik si toho všimly vlády zemí, proti jejichž bezpečnosti jsou útoky namířeny; nakolik si toho všimly vlády, kterých se to sice ještě osobně netýká, ale proti jejichž společenskému systému tyto útoky míří rovněž.
- Státní bezpečnosti.
- Všichni víme, že toto rozdělení je podstatou problému jak evropské bezpečnosti, tak i lidských práv v Evropě.
- Helsinky jsou prvním závažným krokem k finlandizaci západní Evropy, která projevuje značnou ochotu k dalekosáhlým ústupkům sovětskému imperialismu, protože vládám se mylně zdá, že tyto ústupky vykupují evropskou bezpečnost.
- po- depsali v Helsinkách nejvyšší představitelé třiceti tří evropských státu, USA a Kanady Závěrečný akt Konference o bezpečnosti a spolupráci v Evropě.
- Shodli se přitom v názoru,' vysloveném i prezidentem naší republiky, že jde o jedinečnou historickou příležitost, jíž se Evropa chopila poprvé ve svých dějinách, příležitost vytvářet reálné podmínky pro mír, bezpečnost a pokojnou spolupráci.
- světové války rozděleným na nepřátelské bloky, jež nesmyslnými závody ve zbrojení ochuzují jejich život, vyčerpávají jejich zdroje a síly a ohrožují je stále větším hromaděním ničivých prostředků jaderné síly, jinou cestu i perspektivu, cestu společné bezpečnosti a mírové spolupráce.
- K nim pak, jako rovnocenné, stejně platné a pro mír, bezpečnost a spolupráci stejně významné, helsinský dokument připojil zásady respektování lidských práv a základních svobod a sebeurčení a rovnoprávnost národů, vyrůstající z evropské tradice a odpovídající nejcennějším hodnotám politické kultury evropských národů.
- Tak v sobě helsinský Závěrečný akt zahrnul obě podmínky nedělitelnosti míru a bezpečnosti, vnější, kdy skutečný mír a bezpečnost nemohou být založena na „rovnováze strachu“ z hrozeb ničení chystaného z obou stran, a vnitřní, kdy státy při vyloučení válečného násilí budou současně respektovat lidskou důstojnost a práva každého jednotlivce i uvnitř svých zemí.
- Tuto vzájemnou závislost vnitřního i mezinárodního míru a bezpečnosti v Evropě Závěrečný akt dotvrdil ještě tím, že k jejich střežení a upevňování vedle vlád oprávnil i každého jednotlivce, jemuž uznal „právo znát svá práva a povinnosti a postupovat podle nich“ v duchu Charty OSN, Všeobecné deklarace lidských práv, paktů o lidských právech a podobných dohod, které se staly pro zúčastněné státy závaznými.
- Považuje za svou občanskou povinnost připomenout k desátému výročí Helsinek vládě, poslancům i ostatní veřejnosti závažnou odpovědnost za plnění zásad a závazků převzatých podpisem Závěrečného aktu a přijetím dalších dokumentů Konference o bezpečnosti a spolupráci v Evropě.
- Je to odpovědnost za poctivou a důslednou účast při všech krocích k oživení procesu přeměny Evropy ve společenství svobodných, svrchovaných a rovnoprávných národů, žijících v míru, bezpečnosti a spolupráci při respektování práv a povinností a lidské důstojnosti každého člověka.
- Jiří Dienstbier mluvčí Charty 77 Eva Kantůrkova mluvčí Charty 77 Petruška Šustrová mluvčí Charty 77 Zasláno: prezidentu CSSR, Federálnímu shromáždění CSSR, vládě CSSR, Československému výboru pro evropskou bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2dbde3e040d49a015c3954bba50f10f9600bfa892944879170077e24274881b
+size 3956

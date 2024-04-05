@@ -1,2 +1,3 @@
-Polák mladý Maďar jistý míra hrozit nebezpečí naprostý nihilismus všeobecný nedůvěra
-nebezpečí prodnout člověk vracet
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb297232f3f45d120d7fb9258e74e99cf1d91e6d39e065746117b3607bbe815d
+size 134

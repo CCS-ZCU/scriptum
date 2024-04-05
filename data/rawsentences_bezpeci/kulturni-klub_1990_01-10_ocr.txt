@@ -1,1 +1,3 @@
- Ostatně je známo, že sklony k šovinismu mívá ta generace, která v průmyslovém světě vyrůstá jako první, která opustila bezpečí rolnického života: snad jc to z pocitu "vykořenění".
+version https://git-lfs.github.com/spec/v1
+oid sha256:396f6ac97da777efdd3a5acc3652015df7ede5dc4a7dc4ab75f6ecc252d6aa9c
+size 203

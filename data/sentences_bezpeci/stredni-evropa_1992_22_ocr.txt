@@ -1,1 +1,3 @@
-pamětník uvádět najít český duchovní odmítnout splnit křesťanský povinnost obava vlastní bezpečí rozbouřený atmosféra poskytnout pomoc potřebný
+version https://git-lfs.github.com/spec/v1
+oid sha256:349a849fcbee66b5235e9e6d1792807bc45abd44903f36c0b98d53fdc21865df
+size 164

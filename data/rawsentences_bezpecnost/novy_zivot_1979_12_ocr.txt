@@ -1,3 +1,3 @@
- Až budeš raněn do srdce, budeš méně překrvený bezpečností a sebedůvěrou, budeš méně mluvit o své vůli, přestaneš pohrdat nadějí a z hloubi Tvé duše, náboženštější než si sám myslíš, se zvedne v lijavci slz utišující Miserere smrtelných úzkostí.
- Toto potlačování dosáhlo zatím vrcholu rozsáhlou akcí Státní bezpečnosti, jež se stala bezprostředním podnětem k tomuto dopisu.
- května 1974) Setkal jsem se s ním v roce 1951 ve vyšetřovací vazbě státní tajné bezpečnosti v Brně na Orlí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b591a153702dc6f5995d8ee9cc3224db9cf66f6f375cc719e5fc1b71388259d
+size 549

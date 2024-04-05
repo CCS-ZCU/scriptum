@@ -1,2 +1,3 @@
- Pán tím ovšem církev nezprostil povinnosti dalšího hledání a rozjímání o svém slově, neboť on neřekl: ,, Jsem postel, odpočívejte v bezpečí a beztarostně nýbrž ,, já jsem cesta a pravda Tedy i nás ještě zve k meditaci a studiu, k hle- dání pravého smyslu jeho slov.
- T o m u t o pronásledování je všecko obětováno, a když A h a b o v a l o ď vyplujt, pak opravdu všecko bezpečí zůstalo doma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:951e6c87e41a85ba0b37982331b9d5ff297501ad25fd4d909e2bac75376a2cbd
+size 432

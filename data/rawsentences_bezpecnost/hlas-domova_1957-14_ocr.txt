@@ -1,1 +1,3 @@
- Podle toho, klade-li větší důraz na vlastní bezpečnost nebo zahra- niční účinek, to bude popravčí četa nebo kri- minál.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ceb799e0cebaa5c7b6a67f5e7e52b09d726cc73f85bf47a5b567a5ba3973ab8
+size 135

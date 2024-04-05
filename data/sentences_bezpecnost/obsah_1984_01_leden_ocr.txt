@@ -1,1 +1,3 @@
-pokoušet pan Fialka otevřít bušit dveře soudruh Rorejs Fialka tykat házet okno shnilý jablko pomáhat navrhnout zavolat veřejný bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dbb5132f15047f392d4ca79d3a3b46695d8930995f967c3898feb26f35182b2
+size 149

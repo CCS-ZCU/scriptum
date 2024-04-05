@@ -1,2 +1,3 @@
-státní bezpečnost sledovat činnost přípravný výbor nelibost clena podrobovat šikana
-den obsadit státní bezpečnost část nejbo ížký rodinný domek majitel tvrdit podnikat akce určitý protistátní skupina instalovat kamera fotoaparát
+version https://git-lfs.github.com/spec/v1
+oid sha256:91bfe7514deb7a5138fbd410032edba8eeee8fed9c3f534c1c0005f6111e93e3
+size 252

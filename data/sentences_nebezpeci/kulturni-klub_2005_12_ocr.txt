@@ -1,5 +1,3 @@
-zůstávat nebezpečí firma průmyslový zóna zmizet využít investiční pobídka zvýhodnění země východ
-druhý strana roztáčení inflační spirála skrývat obrovský nebezpečí lze přehlížet
-celkový veřejný dluh schodek veřejný rozpočet představovat velký nebezpečí
-možnost představovat vážný nebezpečí rakouský sklářství zmenšovat skutečnost podílet společnost Swarowski
-závěr otázka budoucnost český menšina Vídeň
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae790fc14fb5259eb12d9eef6f71acafed051bbebc9607e5878274b9cb65fed
+size 467

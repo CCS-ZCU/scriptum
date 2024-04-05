@@ -1,4 +1,3 @@
- Používání těchto nesprávných metod a administrativních forem vedlo k vyvyšování orgánů bezpečnosti nad stranu a společnost*.
- Lze proto s bezpečností očekávat, že v příštích letech budeme svědky úporného úsilí Spojených států i Sovětského svazu připoutat k sobě tuto oblast, která se dosud vyhýbala spojení s jednou zápasících stran.
- 1) Nedostatek právní a osobní bezpečnosti.
- 2) Zklamání pokud se slibované sociální bezpečnosti a jistoty týče.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b157fc26d62059661ae6690e7fc02a7fb8260bba6f6e76202d7b5c68a0ab13ae
+size 502

@@ -1,2 +1,3 @@
- Komunisté tvrdí, že balónky s letáky, jež jsou vypouštěny v Západním Německu poblíž československých hranic, ohrožují bezpečnost letů.
- předseda Grotewohl navrhl Západnímu Německu porady, na kterých by se jednalo o sjednocení Německa, smlouvě o kolektivní bezpečnosti a snížení počtu cizích jednotek na německém území.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1892f1f004fff5c5df0f22a1d07e5c25a208b56a8c63e905a36c0c675db603b2
+size 358

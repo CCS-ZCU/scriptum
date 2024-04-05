@@ -1,1 +1,3 @@
-podceňování sovětský nebezpečí vlastnost vládní kruh americký mít vyskytovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a45e62b0563be376811d453b8253377507fad80451e06e9efbda7b92848ff67
+size 88

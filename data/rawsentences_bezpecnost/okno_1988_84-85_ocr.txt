@@ -1,5 +1,3 @@
-" Na dotazy dvou posluchačů odpověděli pracovníci Bezpečnosti, kapitán Vosolsobě a kapitán Hušička.
- Veřejná bezpečnost podniká opatření, aby v budoucnu mohla zlepšit činnost proti prostituci.
- Státní bezpečnost.
- Veřejná bezpečnost chce - aspoň v rozhlase - prostitutky z interhotelů vyhnat, zatímco Státní bezpečnost je do interhotelů nahání.
- A tu byl zastaven policistou a upozorněn na bezpečnost dopravy přáteským napomenutím: »Oběma rukama, pane řidič, oběma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b15387d47c43db1040c53fb65673ecb051e2b016bdb2b1df9f4144d5ff0ce6
+size 511

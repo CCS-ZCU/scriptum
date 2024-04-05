@@ -1,2 +1,3 @@
- Násilím mne odvezli, aniž bych mohla říci své spolupracovnici, že odcházím a ta pak s pomocí ostatních mne hledala po areálu ústavu a hlásilo na Veřejné bezpečnosti můj únos.
- Není tó krok zpět, alé skok hluboko"do "' padesátých let, kdy Bezpečnost byla všemocná a ostatní účastníci trestního- řízení - zejména obhajoba - byli pouze okrasnou'■fasádou, která měla dodat"zdání spravedlnosti naší justici.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bab745c85b318733116e33855fb27b29dd18ce97e5f45feb5c04af66eec369d0
+size 450

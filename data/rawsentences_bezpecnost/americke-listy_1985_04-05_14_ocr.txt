@@ -1,1 +1,3 @@
- jejich bezpečnost, ale navrhli i různá zlepšení pracovního procesu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72b15668ca0ed0958d480f4c586cde279469974149730179aa005cce9648a14f
+size 75

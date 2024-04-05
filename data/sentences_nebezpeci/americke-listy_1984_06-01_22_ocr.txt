@@ -1,3 +1,3 @@
-pokládat nutný ohradit pasáž dopis END dávat vláda zvyšovat závod zbrojený jméno obhajoba svoboda právo základní demokratický svoboda lidský právo přibližovat nebezpečí jaderný válka Evropa ohrožovat civilizace vzejít princip lidský právo demokratický svoboda
-vědomý nebezpečí skrývat rozhodný litantne postoj dít jméno obhajoba lidský demokratický právo
-rga ment smět dělat výjimka sovětský svaz moci vyložit krize společenství poukazovat nebezpečí Holandsko moci připojit Belgie
+version https://git-lfs.github.com/spec/v1
+oid sha256:26190af40250ac394edf6e328f12f43c2d67dc8d9ae6e29e51dd4831e5af8916
+size 531

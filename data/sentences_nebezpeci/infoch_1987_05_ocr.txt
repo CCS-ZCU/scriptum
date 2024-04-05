@@ -1,1 +1,3 @@
-muž způsobený mladý lidé přežít válka nebezpečí vznik válka nový nutnost obranyschopnost podceňovat druhý mít poohybnost kořen hlnbáí kumulace zbraň hro madný ničený
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bdcbc6500c1ff3c9d3ec14d0a77523a1277e21c57b619ba1e383f0cee7703e1
+size 200

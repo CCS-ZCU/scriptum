@@ -1,2 +1,3 @@
-lid autor vtip scinda zaléci nebezpečí reagovat další vtip jít rychlost blesk ucho ucho Antonín Novotný sbírat politický vtip autor
-pamatovat pokládat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f311ef0f6543d4cb564bf3b5888b8328459a85dfde3b8de44af1d1e560b67236
+size 174

@@ -1,4 +1,3 @@
-divák televize symbolizovat radikální změna kód sochařský řeč reálný nebezpečí zmanipulování člověk
-povaha mechanický svět určený televizor člověk okamžik ponechaný nejistota hrozící nebezpečí
-Gebauerův realistický zájem hrozit nebezpečí bezduchý naturalismus konkrétní situace pojetí šifra realita nazíraný živý proces dění lidský svět rozvíjet kontrolovatelný střídání skutečnost skutečnost pravda nepravda krása ošklivost vážnost vtip
-místo zvolit vidět reálný nebezpečí skrývat idea svobodný individualita vztahující skutečnost bezprostřední prožitek individuální situace
+version https://git-lfs.github.com/spec/v1
+oid sha256:a455d2dbb560e804769935b2b2cbf9daa9e1db1b705d9ba6bd1a87440b3a5618
+size 651

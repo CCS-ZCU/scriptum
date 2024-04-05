@@ -1,1 +1,3 @@
-nnctét publikovaný článek Vokno voknovimá podléhat chorá uvedený omezení respektovat právo povést jiný narušovat ochrana národní bezpečnost veřej
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa1b116b6d8736eb3e828168bd28cf64aeb9abd80bc40b7022cfb5e0e65de882
+size 163

@@ -1,3 +1,3 @@
-ohnisko nebezpečí Moskva důsledek Jalta pokládat pán východní Evropa
-jít organizovat svát válka slo muset uvědomovat nebezpečí existovat druh nebezpečí
-základ historický zkušenost najít prostředek lze nebezpečí srazit minimum
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2e7d275febf9c2ee7cd1428d115736701946ead4f5544abde31716ebd858752
+size 248

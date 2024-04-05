@@ -1,2 +1,3 @@
-nutný zabránit nebezpečí tendence kontrarevoluce dodat Fojtík
-rok ministr vnitro mluvit nebezpečí charta moci podepsat stovka občan požadavek působit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ee5e152da03da2f3fae5d2b13f8bf4d717f149775add2a43aee6d21d1302b6
+size 160

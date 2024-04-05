@@ -1,2 +1,3 @@
-odkrývat bezpečí hrozit budoucnost
-stabilit vytrvalost dávat žena pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc9052838df779af9b0e8ff8d40b8585dff50f0610beeea020eaefc7b872195
+size 49

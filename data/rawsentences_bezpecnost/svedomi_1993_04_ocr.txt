@@ -1,2 +1,3 @@
- Klár rozhodně není ve službách spravedlnosti, ale naopak z jeho jednání vyplývá, že je ve službách bývalých zločinců ze Státní Bezpečnosti.
- Tíživá ekonomická situace na železnicích, kdy zajištění bezpečnosti cestujících a potřebného sociálního zázemí zaměstnanců a jejich rodin je na hranici únosnosti, je dvojnásobně nevhodná pro takto přebujelý centralismus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad76292fd845a2fcfd018721502a05b9c9db60c0eea7952e33caa61c344c0cb
+size 408

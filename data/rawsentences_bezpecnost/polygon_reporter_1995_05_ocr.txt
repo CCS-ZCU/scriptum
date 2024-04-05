@@ -1,4 +1,3 @@
- demokratické bezpečnosti.
- Jde o bezpečnost založenou na důvěře, že země, vlády a národy se budou chovat v určitých situacích stejným způsobem v duchu respektování demokracie, lidských práv a zásad právního státu.
- Bezpečnost je kladem Argentiny.
-" V roce 1992 se Kozyrev zúčastnil „Konference o bezpečnosti a spolupráci v Evropě“ .
+version https://git-lfs.github.com/spec/v1
+oid sha256:e77d31aecfb20a07ce3a0478bfd77705d2dcbb0f5c82c25f2ff6baadba95ebdf
+size 368

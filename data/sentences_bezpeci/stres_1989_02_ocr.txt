@@ -1,1 +1,3 @@
-veřejný manifestování názor případ Václav Havel organizátorský osobní účast vyvolat YŠsk společenský napětí uvést bezpečí isoožatev mladý lidé
+version https://git-lfs.github.com/spec/v1
+oid sha256:512123bb0dbf3f52e63c47bc6ea6ef003c5d23226fc92448420c6cd5b4dd4420
+size 167

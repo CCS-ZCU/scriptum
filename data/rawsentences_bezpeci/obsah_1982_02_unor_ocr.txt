@@ -1,1 +1,3 @@
- Tecbnicltt pokrok vytřořil ekolopck6 nt-bezpečí a nebezpečí nuukleÁraí jedno či d^uhl solte ^díflt no.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2fe15e627b769625361c6ebb79baa93357f5e417fc09c2368f26cd22998d700
+size 114

@@ -1,1 +1,3 @@
-rok sovětský tank ohrozit bezpečnost objevit příchylnost svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:b94a6eaf1dd19b366d656c4a571ad8d0aa1f03a8c32cd641ec5a6005f8461370
+size 70

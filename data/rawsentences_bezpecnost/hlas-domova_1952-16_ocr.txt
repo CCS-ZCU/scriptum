@@ -1,1 +1,3 @@
-—Armádní generál a ministr národní bezpečnosti K.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25ca4c5cc008fd1efd6d4b605f8c0cbb25f96266d32d88d9fa8a9609e94822f9
+size 58

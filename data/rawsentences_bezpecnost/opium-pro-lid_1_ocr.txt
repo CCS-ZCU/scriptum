@@ -1,1 +1,3 @@
- A tak když se kdykoli a kdekoli nějaká forma vlády stává destruktivní silou života,svobody i harmonie,päk jo organickou^povinností mladých příslušníků toho živočišného druhu mutovat»přetvářet a měnit starý systém a vytvářet nové sociální struktury se základy'položenými na takových principech,které se jeví proocharanu bezpečnosti,štěstí a harmonie všech cítících bytostí jako nejvhodnější.
+version https://git-lfs.github.com/spec/v1
+oid sha256:785a095c654e83a08b9d37c596ad47dac55bfc04634fcf758ae6882970cd2a6f
+size 442

@@ -1,1 +1,3 @@
- nejdříve připomíná hlavní údaje celého problému : sociální otázka nabyla světových rozměrů, zachvacuje nejen jednu sociální třídu, nýbrž celé národy : Dnešní lidé touží, aby byli osvobozeni od bídy, aby našli větší bezpečnost ve svém životě, zdraví, stálé zaměstnání ; chtějí se více účastnit odpovědnosti za veřejný život, být prosti jakéhokoliv útlaku, být chráněni před situacemi, které urážejí jejich lidskou důstojnost ; mít rozsáhlejší znalosti, jedním slovem být více činní, více znát a více mít, aby byli něco více.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb13446683b48b892525e2681f75ba65cfc3b2d1bf813aef944bac4efcb32e93
+size 605

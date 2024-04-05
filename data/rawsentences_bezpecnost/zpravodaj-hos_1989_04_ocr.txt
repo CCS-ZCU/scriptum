@@ -1,1 +1,3 @@
- Případná omezení těchto práv z důvodu ohrožení národní bezpečnosti nebo veřejného pořádku musí být v ústavě a v příslušných zákonech definována tak:, aby nemohla být zneužita proti duchu těchto práv a svobod.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef21dee20e7232f59dbd881ab58e587ba8972135b04f3a0e6b0685679318c9f
+size 240

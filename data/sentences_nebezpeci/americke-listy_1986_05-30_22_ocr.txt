@@ -1,1 +1,3 @@
-podotknout bojovat komunismus vysvětlit upozorňovat americký vláda americký veřejnost tisk politika nebezpečí domácí světový komunismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:61190d13fae608c2a78ecb5000092f8d9f77278854be241db0e72e87c74da40f
+size 148

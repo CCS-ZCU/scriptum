@@ -1,3 +1,3 @@
-důležitý lidé uvědomit nebezpečí přelidnění
-nutný mít mysl nebezpečí přelidnění existovat růst zřejmý předpověď OSN
-zřetelný množství nikotin vyfukovaný páře malý nebezpečí vyskytující osoba zanedbatelný
+version https://git-lfs.github.com/spec/v1
+oid sha256:0356ee3558bb1a18ccae3978664703ed3fb086c61eddb2a09ab4fb9294cbf3db
+size 240

@@ -1,4 +1,3 @@
-manžel komise vymyslit nebezpečí rozvod cizoložství
-nebezpečí hrozící daleký putování vyjít svatý země sázavský opat Silvestr rok
-husitský válka pozdější turecký výboj bluboko Evropa zvýšit nebezpečí znemožnit cestování východ míra tradiční pouť ustat obnovený čas
-hrozící nebezpečí nutit západ překonat rozdíl druhořadý rozlišení národnost stav původ sjednotit společný úroveň křesťanství boží synovství tajemný tělo sjednocení chtít zdát pán vynutit sjednocení moci přesvědčit východ
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4dcb12f1bc71c45ede6fd2deb9e6543216511d8d30e08b9b6e8862ceeb28cf4
+size 558

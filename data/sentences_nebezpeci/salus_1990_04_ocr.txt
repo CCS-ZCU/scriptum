@@ -1,7 +1,3 @@
-nebezpečí celý kultura změnit technický kultura zřejmý
-velký nebezpečí budoucnost člověk pesimistický nahlížení schopnost člověk naleznout konečný smysl rozpoznat zavazující morální hodnota
-redukcionismus trend aspekt zkušenost vystavovat specializace lékařský profese nebezpečí degradující manipulace
-mít zajistit křest dítě křesťanský rodič ocitnout nebezpečí smrt
-způsobit nebezpečí smrt těžký poškození zdraví těhotný
-ukončení těhotenství brát úvaha současný budoucí životní podmínka těhotný indikovaný lékařský znalost odvrátit nebezpečí život nebezpečí těžký poškození fyzický duševní zdraví těhotný nebezpečí moci odvrácený jiný přijatelný způsob
-použít ukončení těhotenství indikovaný těhotný odvrátit nebezpečí život zdraví podmíněný tělesný choroba tělesný poškození
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c9e662b8dddf6e899d38330537e61330cde5c0ad27a7a5847510c6fb404dff0
+size 909

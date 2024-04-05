@@ -1,1 +1,3 @@
- časopisu NEBELSPALTER) Prvé výročie Konferencie o európskej bezpečnosti a spolupráci v Helsinkách O zmysel Helsinskei deklarácie Připomínáme si prvé výročie podpísania Helsinskej deklarácie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c47c42d4734f072d994345e5533537fdf4302f3897d1bd21945c93eeb8781f2b
+size 209

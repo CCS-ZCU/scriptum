@@ -1,1 +1,3 @@
-první čtvrtletí nový školní rok syn nucený nastoupit devátý postupný ročník žák propadat předmět moci přijatý nejede noduchý učební obor upozorňovat porušový správní řád příslušný vládní vyhláška stahový cích termín muset vyřizovaný podání občan doš projednávání odvolání stížnost amil Bendová pan president podařit zjistit vyžádat dok mentace případ moci pravdivost tvrzení |nadno ověřit přijímací řízení zasahovat úroveň státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d2c3a9e304a1b0dec8e1b623bdc5c69339732252cf832586beeefd3ea90c52
+size 518

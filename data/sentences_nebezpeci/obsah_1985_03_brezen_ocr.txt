@@ -1,3 +1,3 @@
-pozdrav mrtvý ••• veliký žít boj držet strana pomíjivý chvíle vydávat nebezpečí věrnost••• sozat dokázat hoinota kulturní vůle způsob snažit naplnit nasazovat
-český vzdělanost hrozný chvíle osud mít dostatek charakter veliký vítězství veliký nebezpečí lidský povaha snášet triumf porážka
-boprc komunistický huránadšenectyí kriticismus zbytný zdravý vývoj kultura mít Kuzněcovová intence sovětský kulturní politika nebezpečí ohrožovaný samotný podstata socialismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64d4e36076b580a53f78b8fc476a3dd908af0b1446c938ffa00bd88162389cb
+size 529

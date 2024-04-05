@@ -1,17 +1,3 @@
-liva lidé typ stát Amerika trvalý zvýšit nebezpečí doba studený válka zvětšit nebezpečí vznik světový nfiikt
-socialista současný doba moci organizovat mít tiskový organ časopis moci hořit sejit pohovořit otázka politický zájem nebezpečí policejní zásah
-Francie nebezpečí bolševismus velký skutečný
-sáhlý projekt evropský kolektivní bezpečnost garant mít výt Francie mít výslovný řečený neutralizovat nebezpečí
-uvědomovat nebezpečí
-úvaha jaro obava nebezpečí sovětizace
-nebezpečí liz
-nebezpečí sovětizace
-pracovat vystavený nebezpečí zatčení
-konec Moskva věřit nálada většina německý lid protinacistický podcenit nacistický nebezpečí míra
-možnost schůdný vyhlášený výjimečný stav mimořádný zákon následní cenzura sdělovací prostředek veřejnost značný umírnit otevřený řečený nebezpečí
-vedený KSČ přijet vyplísněný varovaný květnový plénum strana dis tancovat část komunistický veřejnost masový sdělovací prostředek srpnový vpád moskevský tokol listopadový plénum pravice označený hlavní nebezpečí dubnový picno pád Dubček cesta souvislý logický
-nebezpečí reálný socialismus vidět Husákův vedený masa bezpartijní předpokládat významný nutný postupovat mimořádný tvrdý
-směr představovat vládnoucí poslaný vážný nebezpečí
-místečko lapiducha vykoledovat drobný službička rok dobrota hrozit nebezpečí
-vesnický hřbitůvka svah Chřib hrozit nebezpečí
-květnový dno tušit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:551c6f97a62dce9556b2afa129b759ade736eb67a90ebfa611055a5e868d3cfd
+size 1560

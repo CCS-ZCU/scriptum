@@ -1,5 +1,3 @@
-podobný nebezpečí ohrožovat církev stejný naděje
-nebezpečí
-přínos mravní řád právní prostředek dokonalý hrozit nebezpečí lidé vyložit účinný
-církev hrozit nebezpečí trpěný uzavřený ghetto
-rodina škola mít táhnout provaz konec směr docházet nebezpečí vnitřní rozpolcenost dítě
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbc3e966815ef7ce56fefd7fc5faaa0a04e3eab07ac8b63a33b848b4ba09ef58
+size 319

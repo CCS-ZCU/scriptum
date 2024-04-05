@@ -1,2 +1,3 @@
-Preto naša armáda bezpečnost íudový milície dostat roz kaz obrana krajina
-armáda bezpečnost lidový milice dostat rozkaz obraný země
+version https://git-lfs.github.com/spec/v1
+oid sha256:d623c5edf4b9c6d8069ef046757a542ac99b08d49949c45003d4c4cd33a13408
+size 142

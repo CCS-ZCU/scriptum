@@ -1,2 +1,3 @@
-utíkat pokračovat klidný blahobyt život pokračovat boj
-horší moci sedět teplo bezpečí malý šikovnost krátký cesta dosáhnout židle posadit
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0ecef54f67daf60957781a7877afbfa07518ec23f1013bbb6773d1b89737949
+size 157

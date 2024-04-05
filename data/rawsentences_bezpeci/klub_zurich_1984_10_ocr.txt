@@ -1,2 +1,3 @@
- Jenem v řádném manželství je zabezpečeno pro dítě to, co naprosto nutně potřebuje pro svůj normální vývin nejen tělesný, ale také citový a mravní, pro bezpečí a hřejivé teplo domova.
- DÍTĚ CHCE BEZPEČÍ*.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dc6e9b18af106d082c7158913c26c216c24747dee51b871f7d3363e1c69f244
+size 232

@@ -1,1 +1,3 @@
-ú štěstí a bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:509dc808e6b64d4a9b3f47fb052ad926c407402363c87b4f11711da9a77502b1
+size 28

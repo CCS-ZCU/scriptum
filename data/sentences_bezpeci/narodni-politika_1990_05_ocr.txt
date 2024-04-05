@@ -1,1 +1,3 @@
-pochopitelný moci prozatímní parlament seskláda legitimita svobodný volba diskutovat otázka příslušet rozhodnout vysoký suverén svobodný občan všeobecný tajný volba
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3fde83c66b98f22731f1039e040a98f17a0d1b978d67e575a9298fad6136d21
+size 184

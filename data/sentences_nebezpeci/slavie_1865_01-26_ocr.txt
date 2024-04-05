@@ -1,2 +1,3 @@
-Konrado pravit Julie hlas utajený vlastenecký cit ncpudit sobota přidružit hrozný nebezpečí vlasť spět všecka pábat řilo cítit odvaha postavit zbraň Moskal vydatý první jistý záhuba nucený řada hojovat
-nebezpečí vyskytnout uzřít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8bbb4a5972ce0f489db63b6de528166f7ce8ac913615bd2da6030e52afd09c7
+size 250

@@ -1,2 +1,3 @@
- Sověty nabízená celoevropská konference a pak jakási dohoda, která by z ní vzešla, mají zajistit, aby se evropská hranice sovětského vlivu stala nedotknutelná v době, kdy by mohla být pochybná bezpečnost hranice v Asii.
- proti kolektivní bezpečnosti v Evropě a Asii, proti smlouvám SSSR a Polska s NSR; přenáší ovzduší válečné psychózy do Albánie, neboť se snaží těmito a dalšími způso by vyvolat napětí na Balkáně; staví se proti konkrétním krokům směřujícím k dosažení dohod o odzbrojení a o zákazu jaderných zbraní.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d9288d219deeb10d23c7584abe5699af247defbff06231131ce2c820cef337
+size 577

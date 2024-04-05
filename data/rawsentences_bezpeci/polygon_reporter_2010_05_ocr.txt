@@ -1,2 +1,3 @@
- Za šera zadním východem se nepozorovaně z fakulty proplížil do bezpečí.
- Hned po uzavření kláštera nastalo plenění, i když naštěstí většina posvátných nádob a ikon byla v bezpečí uschována u některých věřících.
+version https://git-lfs.github.com/spec/v1
+oid sha256:983834d1c786a0e2660cf9b1ceef755230990c237dba5dae60395f83edd904a4
+size 244

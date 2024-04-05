@@ -1,1 +1,3 @@
-námitka týkat bezpečí stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:f73130bafbffb35b038dc16270d029b7026234d4208dcbc800df5aae19956cdc
+size 32

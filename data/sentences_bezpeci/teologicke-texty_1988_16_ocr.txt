@@ -1,1 +1,3 @@
-knuto hluboký bezpečí litr podnik rok jeho^ svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aa190675ef0c15e63486116fdf419d48d27e9e22df35e8b77bd90a05add572a
+size 55

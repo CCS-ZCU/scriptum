@@ -1,5 +1,3 @@
- Již v roce 1973 přislíbil dnešní president republiky Gustav Husák přezkoušení těch- 4o případů a totéž opakoval i na evropské konferenci o spolupráci a bezpečnosti v Helsinkách.
- avšak státní bezpečnost a rozvodka v tomto ministerstvu jsou v rukou „konzerv“, k nimž mají blízko kromě Biťaka také Karel $ Při vojenském převratu v Argentině byla sesazena presidentka Perónová.
- orgány státní bezpečnosti jasně porušuji helsinské dohody, a že sdělovací prostředky pod Bifakovým vedením napadají Západ ostřeji a vulgárněji než Poláci, Maďaři či Východní Němci a kromě toho kritizují ostřeji než dokonce Moskva „revizioni- stické“ komunistické strany Itálie, Francie, Španělska, Rumunska a Jugoslávie.
- POSLEDNÍ NOVINKY Z PRAHY Naděje, vkládané do výsledků konference o evropské bezpečnosti a spolupráci, konané v Helsinkách se po několika měsících vytrácejí a lidé už přestávají věřit, že bychom se ještě něčeho lepšího dožili.
- Pravil, že tito liberálové přecházejí i nejvážnější události a zlehčují je jako na příklad před nějakou dobou veliké krveprolití v Novočerkasku, kde sovětská bezpečnost zabila šestset lidí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8404d0a4cf80271f1444fadc3f6125639a3bc06a3bbb334bcb9bb1506c8ca49
+size 1253

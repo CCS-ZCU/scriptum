@@ -1,1 +1,3 @@
- Za největší ohrožení pro bezpečnost České republiky lidé podle průzkumu považují mezinárodní organizovaný zločin, který za velkou hrozbu považuje 66 procent dotázaných.
+version https://git-lfs.github.com/spec/v1
+oid sha256:638ee2cd41b04a4ec5f4a756addd11a77edf27a1056ebcf8a6e38c606a8faefd
+size 190

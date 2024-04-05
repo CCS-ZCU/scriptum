@@ -1,1 +1,3 @@
-neděle svátek osmý strana národní politika Kviten Ctyř šestinásobný zvětšený kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:0072d32a9ce5db55cfabe911b9cf06e970f3ec68f5bd1c59c668a31dfab55ce3
+size 98

@@ -1,2 +1,3 @@
- Z událostí v Československu Praha a helsinská konference Konference o bezpečnosti a spolupráci v Evropě, jež byla zahájena v Helsinkách dne 3.
- Husákem, a dle Rudého práva v závěru prohlášení říkají: “Předsednictvo ÚV KSČ a vláda ČSSR prohlašují, že Československá socialistická republika jako pevná součást socialistického společenství, věrna zásadám leninské mírové zahraniční politiky bude důsledně plnit závěry konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc19a2d8c5c6e1c9aba71d05fb935f2f145115c6f68fb12f16af8f9c78328ae8
+size 519

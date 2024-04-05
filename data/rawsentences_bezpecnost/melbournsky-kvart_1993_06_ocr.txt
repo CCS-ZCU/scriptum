@@ -1,1 +1,3 @@
- Na uprázdněná místa v politice, hospodářství a bezpečnosti nastoupili dělníci věrní KSČ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6594544e153b168cb78675a0d0fc83c338fcfebe707647bf3d909e7ee382eee3
+size 103

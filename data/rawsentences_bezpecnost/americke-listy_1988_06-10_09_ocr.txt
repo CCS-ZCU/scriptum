@@ -1,2 +1,3 @@
- A pak je zde ovšem vojenská bezpečnost.
- Můj otec leží po těžkém infarktu v kritickém stavu v nemocnici a jeho zastřené vědomí propouští jen výrazy strachu z důstojníků Stárni bezpečnosti, kteří ho v posledních týdnech zastrašovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3075b6a81a79e461c6461522269079d333c7e5c7196dc6d1b700ef90a4d9ff4
+size 261

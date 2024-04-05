@@ -1,5 +1,3 @@
- Sprezidentem přicestovali i náměstek ministryně zahraničí John Negroponte či poradce Bílého domu pro otázky národní bezpečnosti Stephen Hadley.
- Vídeň je přesvědčena, že Praha neměla právo zkolaudovat Temelín, dokud nesplní všechny rakouské požadavky na vylepšení bezpečnosti elektrárny.
- Česko ale tvrdí, že všechny požadavky na bezpečnost Temelína plní, jen k jejich zajištění využívá jiné technické řešení, než jaké požadují Rakušané.
- „U soudního dvora v Haagu například už deset let leží spor mezi Irskem a Velkou Británií o bezpečnostní úroveň britského jaderného komplexu Sellafield," řekla LN předsedkyně Státního úřadu pro jadernou bezpečnost Dana Drábová.
- Při příležitosti návštěvy Vídně a na pozváníRakousko- slovenské společnosti, Rakouské společnosti pro mezinárodní vztahy, Rakouského institutu pro evropskou bezpečnost a velvyslanectví Slovenské republiky v Vídni promluvil slovenský premiér Fico v paláci Eschenbach na téma „Can Slovakia be an economic tiger und a welfare state?" /„Může se stát ze Slovenska ekonomický tygr a blahobytný stát?" (foto: V/aaimír Čevela) Češi a Rakušané: Společné soužití ohrožují protesty na hranicích i zloději z Česka Nejoblíbenějšími sousedy Rakušanů jsou podle posledního průzkumu veřejného mínění z roku 2004 Švýcaři.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f221c96f6118c589f89af05c8ee2997112cc96d547b6a4f097ab6bbb325ce5
+size 1421

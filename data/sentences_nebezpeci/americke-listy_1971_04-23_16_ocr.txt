@@ -1,3 +1,3 @@
-souvislost projevit nebezpečí pravicový revizionismus záminka zlepšovaný socialismus snažit kleštit revoluční podstata marxismus leninismus upravovat cesta pronikání buržoázna ideologie
-ohled žádost stranický státní činitel komunista československý pracující zřetel nebezpečí hrozit vymoženost socialismus země bratrský socialistický země rozhodit poskytnout Českoslovenk internacionální pomoc obraný socialismus
-uvědomovat nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d17931d3570b991dd06c4cc0521e134083a016d30c2bb791a1a3a06a1e49f13d
+size 475

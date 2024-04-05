@@ -1,1 +1,3 @@
- exilu v boji proti komunistické diktatuře, které se projevilo téměř nejen ve všech exilových organizacích, ale i v organizaci hostitelských zemí s českým personálem a bylo způsobeno dokonale koordinovanou Činností Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dcce53e764a38ee17dd2de47dc23b4af0efbbcafcccb8c1e28c8eb6eb2eee94
+size 255

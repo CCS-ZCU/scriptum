@@ -1,1 +1,3 @@
-bezpečí příjemný kouř
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c6174a0a0bfd5ff5ad4f56852651eaffab956d407e19e10d2ac7d1ce1fe0b4e
+size 28

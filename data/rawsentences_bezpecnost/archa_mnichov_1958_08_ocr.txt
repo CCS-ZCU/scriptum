@@ -1,1 +1,3 @@
- Není pochyby,že cesta Jiřího Ortena je hledá- ním této poslední bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:601fe1f1d924c32380ad50cc21189a6f76f70b45848af1289d6b328557c12e95
+size 87

@@ -1,5 +1,3 @@
- Reagovať, zovšeobecňovať změny světa i života v mene jeho bezpečnosti a rozvoja.
- utvárajú novu klímu nielen pre všeobecnú bezpečnost', ale aj pre tvořivý samo- rozvoj všetkých.
- Za předpokladu, že sa Akčný program, obrodný proces poprie, zlikviduje „suchou cestou'' vlastnými, vnútomýmisilami (vrátane domá- ceho nasadenia armády, bezpečnosti a irulície atď.
- P rečo ? Napokon v jeho mene (A lojza Indru) ma určená skupina štátnej bezpečnosti zatkla .
- Už realizácia doterajšich návrhov by istotne přispěla k ďalŠiemu posilňovaniu dóvery, potom k po- stupnému procesu skutočného odzbrojenia až po zachovanie všestrannej bezpečnosti na najnižšej mož- nej úrovni výzbrojejednotlivých krajin (najma vel'mocí a supervePmoci) s vyhliadkou zrušenia existujúcich vojensko-politických zoskupení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:929c770cb366a26eb277632f667d06762c138486579bd6a4b398cd39802efacd
+size 857

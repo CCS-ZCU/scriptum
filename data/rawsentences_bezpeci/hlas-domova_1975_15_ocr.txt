@@ -1,1 +1,3 @@
- 2) době, kdy je tam podle plánu chceme mít, není zaručeno, že si budou moci stisknout ruce a zaručit bezpečí a spolupráci v Evropě na věky věků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3735dea958c5dd3ba79d7f1a14daed8c923238800cd123403c02dcfbc9156fb0
+size 160

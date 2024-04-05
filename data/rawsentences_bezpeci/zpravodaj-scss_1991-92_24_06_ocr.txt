@@ -1,2 +1,3 @@
-? * Znáte výhody “třetího sloupce jistoty"? * Chtěli byste vědět, co je bezpodmínečně nutné a co rtiéně nutné v otázkách pojištění? * Vyřizujeme náhrady škod z pojišťoven ve CH, SRN, ČSFR * Platíte velké daně? Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
- Stesk ještě neměl čas skočit jí po hrdle, ale věděla, že toho se neuchráni, že až bude s dítětem v bezpečí Erikova objetí, bude se jí stýskat po jejich malém městě s kostelíkem na několik zámků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a82a8cdb451a8328818cf04a57ffa45e21a690162a4e011ef7b356a2acadd8a
+size 330

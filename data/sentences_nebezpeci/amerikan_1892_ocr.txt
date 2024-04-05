@@ -1,4 +1,3 @@
-zaopatření jeto dobrý blízek
-být moudra hrdý opatrný
-řezník cena maso stoupat nadávat lidé
-zpáteční cesta veliký nebezpečí život noc zastavit mexický tábor
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9538963795edc37db1dabd89893e4084d26842950edc35938ae508cf0c6ee6
+size 176

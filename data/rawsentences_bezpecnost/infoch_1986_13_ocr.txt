@@ -1,5 +1,3 @@
- ^ ^ Nezávislé skupiny z východní Evropy měly jen malou šanci, protože organizátoři kongresu byli závislí na SSSR a československu finančně i jinak (zvukové vybavení, tlumočníci, odborné vedení pořadatelů a "bezpečnost" vůbec).
- Od rána hlídala Veřejná bezpečnost přiatupo- ve cesty ke Skalici a kontrolovala osobní doklady^ Někoho jen legitimovali, někoho odvezli na výalech do Hrochova Týnce.
-zasahovala proti hostům, přijíž- dějícím na vimperske nádraží Veřejná bezpečnost.
- Bezpečnost zajímal způsob, jak se o svatbě doved- děli, koho z Vimperka a okolí znají a co se mělo v Zárovně dít.
- Když se pred hlídaným sálem domáhali nevěsta a ženich vysvětleni, odpověděli příslušníci VB, že si mají zajet do Vimperka na okrsek, kde na ně Čeká s vysvětlením Státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33bf1cb422f3c3edeecd95862f281eff4511264c338f1d3ab896aca4ff15b5e6
+size 857

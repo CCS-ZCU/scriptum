@@ -1,7 +1,3 @@
- Slovenská firma Transpetrol, která má slovenskou část ropovodu stavět, už sdělila, že kvůli větší bezpečnosti uvažuje o jeho obalení ocelovým pláštěm místo obvyklého betonového.
- jP Mazání ze seznamů StB Zveřejnění seznamu agentů a důvěrníků Státní bezpečnosti na internetu na serveru ministerstva vnitra sice nevyvolalo nějakou záplavu sebevražd, ale přineslo jeden důležitý právnicko - historický problém.
- Celou situaci ještě více komplikuje fakt, že většinu vlastních spisů agentů Státní bezpečnost včas skartovala a tak znemožnila v mnohých případech skutečně zhodnotit míru provinění jednotlivých osob.
- Konstatování, že pravdu o agentech Státní bezpečnosti se zkrátka nikdy nedovíme zni velice trpce, ale bohužel to asi odpovídá skutečnosti.
- Podle některých novinářů a filmařů přijatá úprava velmi znesnadní až znemožní natáčeni filmů s dětmi, české ministerstvo práce a sociálních věci však proti těmto tvrzením vystoupilo a zdůraznilo, že primárním záměrem této pasáže zákona je snaha o ochranu zdraví a bezpečnosti děti.
- V Senátu byl mimo jiné předsedou stálé komise pro krajany žijící v zahraničí a místopředsedou výboru pro zahraniční věci, obranu a bezpečnost.
- V horách platí pravidlo, že rychlost znamená bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df850f85f52c3a8a4c42fb2475618ce0d473fdce8d01fa68d9aa9a38e33214d7
+size 1379

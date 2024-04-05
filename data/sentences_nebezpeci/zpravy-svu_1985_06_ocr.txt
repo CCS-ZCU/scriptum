@@ -1,2 +1,3 @@
-profesor Masaryk lítostný odpůrce nepřítel rozpoznat český otázka napsaný nabytí samostatnost druhý vnitřní problém skutečný nebezpečí zdůraznit žít život veliký doba reformace protireformace
-potíž demokratický velmoc moci dovolit dát volný průchod rozdílný stanovisko ohrožení vlastní existence malý národ oddaný svobodný hra politický síla vystavený velký osudný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:d317694f5ac091e9f7a2f0b3d1e5fa1ccbf7b63f4d25c4bd5ba7660568d6a1a8
+size 420

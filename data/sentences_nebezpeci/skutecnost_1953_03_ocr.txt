@@ -1,3 +1,3 @@
-Skandinavie pocitovat výslraž ponaučení nebezpečí demokracie spočívat uvědomělý odpůrce demo kracie massa indiferentní volební neděle prospit jít urno stůl švédský mísa smórgasbord
-spočívat nebezpečí sovětský zátek měra
-článek nebezpečí zvrhnout seznam jméno přejít mnohý významný jméno nedostatek místo
+version https://git-lfs.github.com/spec/v1
+oid sha256:aafc824b941254b858cdac869da5b5f624c666560b672dfa9484c18d281e451f
+size 343

@@ -1,8 +1,3 @@
-únor hrozit nebezpečí buržoasní strana pokusit znovunastolení vláda bankéř majitel továrna
-nebezpečí odpor spojenectví Sovět nacista odstraněný
-držet doktrína německý generální štáb nebezpečí válka fronta
-jasný nebezpečí hrozit Čech Slovák akceptovat Hitlerův řád Evropa potvrdit nacisticko sovětský pakt vysvětlovat Gottwald usilovat Beneš společnost
-znamenat nebezpečí byrokratismus
-nebezpečí vykořisťování hladový mzda hrozit nechat starost fabrikant
-Brežněv mluvit možnost spolupráce komunistický demokratický strana boj monopol Biľak druhý strana označovat sociální demokracie velký nebezpečí
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fef838348599ea1d086e6360ec0d0d388c05f97a6c1527e11584ac673109d49
+size 662

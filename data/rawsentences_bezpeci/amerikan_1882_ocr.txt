@@ -1,1 +1,3 @@
- Byl sám — věděl jaký osud ho očekává— co však na tom, jen když Fuller byl v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84416c6aa9161fc902c88458822173b448c0c7f5aaeb584517503c4c5dcdf88b
+size 101

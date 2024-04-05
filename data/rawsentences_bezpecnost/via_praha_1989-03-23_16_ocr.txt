@@ -1,1 +1,3 @@
-za- držen Státní bezpečností v montérkách přímo u stroje? byl však po ob- vinění z pobuřování propuštěn a je stíhán na svobodě* Dne 14+3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce86c1f74510f8bc23e6372783a801d7fd1402ecb33f7b91f988ca9c18ba9a26
+size 158

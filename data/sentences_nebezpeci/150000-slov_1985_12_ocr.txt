@@ -1,14 +1,3 @@
-hrozný alej Schiller psát nebezpečí barbarský lidský splněný mravní příkaz barbarský využití svoboda
-církev uznat Čech moci upustit svazek krev spojovat hodina nebezpečí
-obec zkoušený víra dobrý pastýř jediný mít moc konsekrace svátost obětovat statek úda bydliště majetek život dlet žalář pohybovat trvalý nebezpečí upálený stávat skutečnost
-Čech zotavit zdařit úder protestant Německo Habsburk muset čelit turecký nebezpečí řešit obnovený konflikt říše vést abdikace Karel
-rozdíl Karlův čas
-říše podařit prosadit absolutistický vláda známý dědičný země zbytek
-nebezpečí dům habsbursko lotrinský Karel
-zbývat Habsburk svatý říše římský výsledek třicetiletý válka odsouzený bezmoc zaokrouhlit vybudovat dědičný země
-jediný muž vidět nový vývoj nabízet nový stát obyvatelstvo demokratický češství velkolepý šance těžkost nebezpečí
-povinnost Masarykův následník prezidentský stolec volit směrnice jednat
-nacistický nebezpečí dostatečný silný moci zmírňovat ideologický neshoda sovětský svaz anglosaský mocnost neshoda zřejmější vznikat politický režim osvobozený okupovaný země střední jihovýchodní Evropa
-skrytý nebezpečí číhat vedoucí představitel pokoušet radikální změna znát doba pracovat tajemník ústřední výbor Chruščov Brež néva
-zvýšit nebezpečí další možný íránský pokus svržení umírněný arabský režim
-muset najít způsob odvrátit nebezpečí moc pomluva
+version https://git-lfs.github.com/spec/v1
+oid sha256:04d2f8cf8677f8c99164fd4e885630efd90693883b495b0973b5dc2727a57585
+size 1542

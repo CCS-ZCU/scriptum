@@ -1,3 +1,3 @@
-pochybný potěšení vystavovat nebezpečí praštit pazourek hlava zdemolovat palcát rozčtvrtit meč proděravý kulomet
-doba velký světový krize lidé žít den den hrozit nebezpečí válka začít svět polykat vlastní druh aspirin začít svolávat odzbrojovací konference
-metr litr americký delegát čas navrhnout přímý telefonický linka Kreml bílý dům zmenšit nebezpečí nukleární válka omyl
+version https://git-lfs.github.com/spec/v1
+oid sha256:d09a033e7500a1d027c82e0afd7ce5a980339e41a240da9b88159353d35d8103
+size 421

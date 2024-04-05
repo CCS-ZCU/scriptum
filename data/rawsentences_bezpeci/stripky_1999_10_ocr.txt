@@ -1,2 +1,3 @@
- Na Slovensku začaly řádit tlupy fašistické Hlinkový gardy, kteří v černých košilích a holinkách agitovali proti Čechům a Židům a začínali je ohrožovat V zájmu bezpečí a sebezáchovy bylo nutné Slovensko rychle opustit a vrátit se zpátky do Moravy, v tenkrát již německy okupovaném “protektorátu”.
- Budoucnost a bezpečí se začínaly nacházet v ohroženém stavu! Bylo už na čase hledat si z toho nové východisko a rozhlížet se po možnosti najít si už nějaké nové a více bezpečné útočiště! Na štěstí se koncem srpna 1948 objevila v Německu nová australská imigrační komise, která začínala verbovat v uprchlických táborech přistěhovalce do Austrálie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aefc415b43341b5c456d0cd5e76daa7c5f610abd7c227e6a202a24a376718f0
+size 723

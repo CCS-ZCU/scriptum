@@ -1,5 +1,3 @@
-hrozit nebezpečí
-podmíněný trest měsíc hrozit nebezpečí případ další odsouzení podmíněný trest změněný podmíněný
-laxemburský ústav zpráva zdůraznit takzvaný nebezpečí prodlení léta podařit najít využít nový zdroj energie znamenat dvojnásobný náklad vědecký výzkum rok zbytnost spokojit rok pouhý procento množství energie svět spotřebovat letošní rok
-britský konservativní delegát Tony Kerpel předseda společenství evropský demokratický mládež říci návrat Londýn hlavní jablko svár budapešťský konference naléhání sovětský delegace zařazení doložený poznámka nebezpečí zvaný utronový bomba
-nebezpečí dojít spojení delikt
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dcb29d22a37d64273ba17a288aacbb1126d60b3e3146afdf814c2f40ce39dff
+size 708

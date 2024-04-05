@@ -1,10 +1,3 @@
-myslit obtíž nebezpečí kovat velký cesta dětma jistý zbytečný konec výsledek chtít rok metr vátě paní Svobodová starý známý počít výklad Novák hlas chvět muset Josef Hlávek český akademie věda první předseda
-Byliť počátek mínění zámek plamen vidouce nebezpečí hrozit venčí nabýt obvyklý chladnokrevnost
-Vida hrozit nebezpečí spěchat oklika zámek varovat šetřit kůň vidět
-pilný vidět moci dělostřelec prospět dbátit očividný nebezpečí vyhýbavý
-Edward vidět nebezpečí Helena hrozící vidět osudný puma letět místo Helena stát moci odvrátit
-den malý návrší spatřit malý oddíl voják přátelský hovící ohní tušící nebezpečí hrozit
-lze zneuznat rodinný svazek uvolňovat svatost manželství porušovat mnohý domácnost rozvalina rodina nebezpečí
-zavívat strana hlas velikánův duch zachrát rodina zachrát žena
-dlouhý plný útrap hlad nebezpečí trpký strádání
-vědět svízet muset přestátí nebezpečí vydaný šanc rodina odhodlat přestěhování dálný kraj
+version https://git-lfs.github.com/spec/v1
+oid sha256:89d59f438e0dd3ffcb32111286c5bbdb54172dd6dea14fdb8191f9ae44859fda
+size 1068

@@ -1,1 +1,3 @@
- Pohotový zásah státní bezpečnosti tomu učinil přítrž.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e98b54b141f040ed8854ec5f9a498791761bdba7de287ef94a8094d2e017b0
+size 64

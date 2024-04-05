@@ -1,1 +1,3 @@
-mladý fronta nazvat cesta nový taktika starý lišák pochopit moci ignorovat smírný tlak narůstající masovost mírový hnutí nebezpečí plynoucí nový raketa
+version https://git-lfs.github.com/spec/v1
+oid sha256:f849fcfcbda3889be98ff8ca2b0e424e0da5398e19093632f0a496ea586befae
+size 169

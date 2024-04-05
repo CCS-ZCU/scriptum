@@ -1,1 +1,3 @@
-jedny vidět bezpečí propast
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeabb4d8fd9d6669fcd616d97d9da3db468ab218669588b55d51eeabce518621
+size 31

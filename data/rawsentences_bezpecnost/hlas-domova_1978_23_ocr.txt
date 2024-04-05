@@ -1,2 +1,3 @@
- - A nenašel se nikdo, kdo by se zeptal: "Copak už v dubnu 191'/, kdy báseň "Země mluví" vznikla, utíkali Češi z vlasti Copak už tehdy byli kopečká- ři?" Doma bylo ovšem těžko se ptát, podobné otáz- Ky se tam dodnes platívají výslechy v úřadovnách Státní bezpečnosti.
- Americký poradce Národní bezpečnosti Zbigniev Brzezinski o svém kra- janu prohlásil: Nový papež je člověkem, který má cit pro strasti pracujících lidí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7357e53bdaee3ddbd45b33786dda56986eef55a8149593f6d714943a026a8dde
+size 464

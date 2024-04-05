@@ -1,3 +1,3 @@
-ministr Picek laděný projev zmínit ocenění jiný rozpoznat nebezpečí postavit
-hrozit nebezpečí zavinit přerušení elektrický telefonní vedení povést tyč podvléknout
-velký nebezpečí dnešní doba vidět David Steindl Rast lhostejnost lidé protiklad odpovědnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bcc5fc529e840d7c872b78ad76eaf9c182b1d6654cfb327d2a6b118a496daf1
+size 282

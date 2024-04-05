@@ -1,1 +1,3 @@
-zaměstnanec firma Sears Roebuck poslední podpis připojit chicagský stasovětský příspěvek snížení zbrojený dát výrazný zmenšení americký vojenský presence Evropa muse sovětský svaz počítat vynasnažit řešit evropský bezpečnost dřivý vytvořený společný vojenský potenciál evropský rámec konvenční síla
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa51a3fa4319e186fa1193515d5cfcac2e14ddc51d16247fbd10ca57e391abd
+size 341

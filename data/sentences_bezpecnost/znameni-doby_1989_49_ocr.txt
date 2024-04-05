@@ -1,2 +1,3 @@
-bezpečnost ujmout moci věnovat záležitost Rychnov přijet
-století moci bezpečnost stát aspekt politický ekonomický ekologický vojenský zajištěný celý systém mezinárodní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0535ba51140954d9f0819219e22af3c99543e339abfc9b0682ee88488cf04e0
+size 199

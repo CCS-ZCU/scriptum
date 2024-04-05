@@ -1,2 +1,3 @@
-mnohý výzva přijmout bezpečí pohodlí domov opustit poznání vědomí rozšířit
-vrstva lidé bezpečí spořádaný lepší smysl občanský životní dráha věc první poslední existovat druhý skupina lidé obracet nejistota nebezpečí odvážný čin heroický rozhodnutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:35dde5053d5c14a4e4dbecd67d4d6894e71c5f45b70287683d00935907c02440
+size 287

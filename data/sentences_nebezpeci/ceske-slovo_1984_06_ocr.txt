@@ -1,4 +1,3 @@
-vyjadnout jet názor souhra postačující modernizace pokračující krize zdroj představovat vážný dlouhodobý nebezpečí československý hospodářství činit postižení jistý tendence
-nebezpečí takzvaný výbuch nedostatek vznikat krátký dlouhý období výjimečný politický zranitelnost režim
-sledovat reagovat ekonomický nebezpečí velkohubý deklarace
-moci udělat velký podpora zájem solidarita svobodomyslný lidé svět těšit malý nebezpečí zavřít velký naděje volání znít prázdno
+version https://git-lfs.github.com/spec/v1
+oid sha256:28541b13c952cbc954113eeffd85617adb3407329ff4597861088da367013853
+size 523

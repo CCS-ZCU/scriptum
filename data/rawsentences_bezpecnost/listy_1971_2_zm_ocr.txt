@@ -1,22 +1,3 @@
- Karel Hofmann, Pavel Auersperg, Viliam Šalgovič, Miro- slav Sulek, Miloš Marko a někteří další členové aparátu ÚV a státní bezpečnosti, kteří byli v permanenci od 17.
- Má dnes značnou oporu ve stranickém aparátu a navázal i dobrá spojení v bezpečnosti a armádě.
-69) napsal státní bezpečnosti písemné oznámení o Hnutí revoluční mládeže, a zatýkání začalo.
- Kromě toho mu neodpustili, že ve své knize "Presidentův vězeň" i dalších reportážích vylíčil tehdejší — a tím znovu dnešní — po- měry v bezpečnosti a čs.
- Tento soud je však důležitým testem pro přezkoušení, jak jsou připraveny orgány 'uštice a bezpečnosti na straně jedné a do- mácí i světové veřejné mínění na straně druhé.
- Státní bezpečnost mezitím vyšetřovala, z jakých finančních zdrojů byla deska vůbec zaplacena.
- Na podzim 1969 však čes- koslovenská Státní bezpečnost hotovost Fon- du Jana Paladia obstavila a vydala zákaz disposice s penězi.
-000 KČs JL v V* O » Týden před Vánocemi 1970 (měsíc před třetím výročím smrti Jana Paladia) byl neu- věřitelný spor o náhrobní desku neuveřiteluým způsobem vyřešen: československá Státní bezpečnost dala desku tajně v noci dopravit do pražského závodu "ŽUKOV", kde byla odlita, a v nepřítomnosti zaměstnanců závodu ji roztavila.
- bezpečností (která tím mimochodem dokázala, že používala dále nezákonných method i v době ' československého jara") a která tím chtěla diskreditovat nejen Procházku, ale celou spisovatelskou obec a polednovou politiku vůbec.
- Za jeho smrt nesou odpo- vědnost lidé z bezpečnosti, kteří tuto provokaci vymysleli a ti z televize, rozhlasu a tisku, kteří ji realizovali a nafoukli do obludných rozměrů.
- Zprávu o pohřbu připravil spolu s orgány bezpečnosti zástupce vedoucího branného a bezpečnostného oddělení ÚV KSČ gen.
- Poukazuje na rozsáhlé Čistky v KSČ, ve státním aparátu, ve školství a kultuře a vědě, soudnictví, armádě a bezpečnosti.
- V tajně rozšiřovaném dokumentu upozorňuje KS Sudánu na "spo- lupráci nejreakčnějších elementů sudánslce a egyptské bezpečnosti", jež se spojily v represi proti komunistům v Sudánu a na území SAR, Rovněž irácký vojenský režim zuřivě pro- následuje komunisty, což však nevadí ani Moskvě, ani Praze, aby mu i nadále neposky- tovaly vojenskou a ekonomickou pomoc.
- V této souvislosti by bylo zákonité položit několik otázek, které přesahují minulost: 1) Odváží se Drahomír Kolder popřít autentičnost této zprávy, jím po- depsané a předložené ÚV? 2) Nepotvrzuje tato zpráva jednoznačně vměšování představitelů sovět- ské bezpečnosti a sovětského vedení v čele s J.
- Gottwalda rovněž s obsahem své rozmluvy se sovětským poradcem v maďarské bezpečnosti generálem Bělki- nem.
- nepřátel ve straně, byla činnost berijovských expertů Lichačeva a Ma- karova, kteří přijeli v říjnu 1949 do Československa, aby zde pracovali jako odborní poradci československé bezpečnosti.
- Sovětští poradci Lichačev a Makarov, kteří se předtím podíleli na pří- pravách procesu s Rájkem, vyslovili hned po svém příjezdu do Českosloven- ska otevřeně podiv nad tím, že v KSČ nebyla dosud odhalena imperialistická agentura, což dávali za vinu naší bezpečnosti.
- S přispěním berijovských poradců, kteří neměli nic společného s tra- dicemi leninské Čeky, byl vytvořen vedoucími pracovníky ministerstva ná- rodní bezpečnosti z různých forem fyzického a psychického násilí ucelený a promyšlený systém.
- Na zavedení tohoto zrůdného systému práce vyšetřujících orgánů i na celkové zaměření československé Státní bezpečnosti měli značný a inspi- rující vliv berijovští poradci, jako Lichačev a Makarov, později V.
- bezpečnost, byly totožné s metodami používanými Berijou a jeho společníky v Sovětském svazu.
- Rovněž Novomeský se provinil tím, že při soudním přelíčení s Šaňo Machem vypovídal v jeho prospěch a různými intervencemi dosáhl propuště- ní vedoucího protikomunistického oddělení štátnej bezpečnosti Slovenského štátu, Priekopy.
- Pracovníci bezpečnosti při procesu sledovali, zda jeho průběh odpovídá dohodnuté přípravě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6965c5ef8d2fad9a97d38a1323e8e349d516b9b2dd6a81ca538a41a3d5d63997
+size 4416

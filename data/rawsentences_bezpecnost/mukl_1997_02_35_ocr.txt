@@ -1,7 +1,3 @@
- Jiřího Šetiny - Bezpečnost republiky především - Vstup ČR do NATO K obnovení důvěry v politiku potřebujeme nové politiky - K Havlově vizi příští Evropy Nagelberg ve znamení jednoty  Mukl 2/1997 Sen francouzského básníka Victora Huga během Světového mírového kongresu v r.
- 8  Mukl 2/1997 Přísná izolace v leopoldovské pevnosti Adolf Bečvář Přísná izolace v leopoldovské pevnosti pro osobnosti s vysokým stupněm mravního uvědomění a vzdělání, znalé dějin národa i Evropy, obohacené vlastními zkušenostmi, byla zřízena snad jen díky omezenosti natvrdlých orgánů Ministerstva národní bezpečnosti.
- Komise pro spolupráci a bezpečnost v Evropě podpoří vstup ČR do NATO, avšak kritizuje restituce a vztah ČR k Čechoameričanům.
- „Podporuji přičlenění ČR, Slovinska a Rumunska do NATO v první vlně,“ konstatoval senátor amerického Kongresu a předseda helsinské Komise pro spolupráci a bezpečnost v Evropě Alfonse D'Amato během druhého slyšení, které se konalo dne 13.
- „Rusové na ně mohou pohlížet se závistí, že se tyto národy mohou rozhodnout pro svobodu, otevřenou vládu a vojenskou bezpečnost.
- Komentář redakce: Záleží ovšem na tom, koho se zmíněná komise bude ptát, protože je všeobecně známo, že mnozí z významných exilových funkcionářů byli agenty komunistické Státní bezpečnosti.
- Jeho vylíčení by samozřejmě překračovalo rámec této tryzny, nehledě k tomu, že mnohé, co Míla Sýkora prožil při výsleších Státní bezpečnosti komunistického režimu poúnorového Československa a později v koncentračních táborech na Jáchymovsku a v jeho uranových dolech, se každý může dočíst v knihách o této jedné z nej smutnějších kapitol dějin našeho národa, kdy vlastní lidé byli nejen „homo homini lupus“ (člověk člověku vlkem), ale i mučiteli s krutostí, která se vyrovnala, nebo dokonce předčila gestapácká zvěrstva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c32cd7d91abbc8a986c86ab5c4f46d0482c711f3c15c4bb0c321350dd347de
+size 2005

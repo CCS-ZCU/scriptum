@@ -1,6 +1,3 @@
-celkový politika velký britanie skupina štěstí rozhodovat nebezpečí prýštící stát hodnotit soko
-přicházet veliký úkol emi grant země železný opona statý muset ukazovat svobodný svět nebezpečí hrozit stát muset světový veřejný mínění popisovat interpretovat udat lost docházet komunistický diktatura
-první povinnost mít zdůrazňování spojovat mít postavit tvář tvář hlava ním nebezpečí civilisace ohrožovat odrazit
-nebezpečí cházet východ pomahač živený dostatek úsilí přemoci kre rozřešit hlavní problém moci Amerika učit usmíření tňk zvaný proletář část obyvatelstvo země mnohý případ blížit třetina scinda stávající spo lečenský pořádek onen základní zásada západní civ lisace chtít vzdát
-nebezpečí
-veřejný činnost posiční trpěný vystavovat člověk nebezpečí oprávněný tčen surový výslech bití jedení vlastní výkal zabavení majetek rozvrat rodina epocha český gestapismus mluvit všecek
+version https://git-lfs.github.com/spec/v1
+oid sha256:14ddc435d7bd82405d917cdd4ebc482ee54c74fa202ce8cf86ec9238216853d3
+size 1000

@@ -1,1 +1,3 @@
-psychiatrie označovaný nástroj politický represe moci značný zvyšovat nebezpečí skutečný zneužívání psychiatrie
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdfc6e8ffe4be8278cd32d8c50a1e75b79dcfb02a8acd4ce4e42bb138becf229
+size 127

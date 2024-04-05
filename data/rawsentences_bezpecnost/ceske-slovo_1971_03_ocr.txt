@@ -1,4 +1,3 @@
- Kdosi se obával o presidentovu bezpečnost.
- tajomník strany na Slovensku — a Viliam Salgovič, bývalý velitel Státní bezpečnosti, dnes vedoucí slovenský; stranický kontrolor a revizor.
- U hřbitovního vchodu slídí opět agenti státní bezpečnosti.
- Vysvětlil, že švagr oné žačky je příslušníkem Státní bezpečnosti a udělal již řediteli ve škole výstup za onu „drzost“ učitele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01e186ce103fcf9327231a85c4e941f6d6e2d3cbf9e3b42db580e2d0224061a0
+size 419

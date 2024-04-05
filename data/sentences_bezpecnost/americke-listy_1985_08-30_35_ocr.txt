@@ -1,2 +1,3 @@
-domovní prohlídka udělat bezpečnost Tomáš Petřivý zadržet
-Kusý propuštěný bezpečnost dokázat
+version https://git-lfs.github.com/spec/v1
+oid sha256:523285d6f7bfac28587a11f13083b2b09a1d777cc01082607dd1ed3407166ed9
+size 108

@@ -1,4 +1,3 @@
-chtít národ přemoci nebezpečí materialistický ideologie muset přestat Hus hledat rozdělovat vidět moci sblížit přivést positivní práce duchovní mravní obroda národ
-nestravitelnost věc skrývat vypočitatelný nebezpečí celý soustava komunistický politický myšlení morálka
-Rylo konstatovaný nebezpečí sovětský vojenský útok demokratický svět zmenšit
-komunista zastavit podpora hmotný morální ráz zmenšit nebezpečí srážka Izrael arabský soused
+version https://git-lfs.github.com/spec/v1
+oid sha256:b78ea48f2f4fb37a5991ae285756f7e1469877f585bd8adacc9d0f5715739ad0
+size 489

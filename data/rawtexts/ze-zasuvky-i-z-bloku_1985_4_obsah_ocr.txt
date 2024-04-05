@@ -1,1 +1,3 @@
-ZE ZÁSUVKY I Z BLOKU Gorbačov - a co dál? Zasvěcená studie o maďarské ekonomické reformě Několik poznámek k reformovatelnosti "reálného socialismu” Vina a trest AZ Economicus J. Hájek kkk Hlavně mě těší ta nezávislost na chlebodárcích... /rozhovor s J.Rumlem/ Druhá světová válka, Edvard Beneš a Josef Stalin Konec Emanuela Moravce /poznámka k tomu, co se stalo před 40 lety/ Tři zpěvy /úryvky z delší básnické skladby/ Jaworzno Vzpomínka na nekamarádku Recenze rukopisné práce Z.Šulce "Stát a ekonomika" Současná problematika cizorodých látek v potravinách Osudy české inteligence /úryvek z větší práce/ E. Kantůrková L. Kohout K. Kulich J. Jesenius S. Mrozek O. Šulcová R. Slánský Prof.MUDr. A.Wolf, DrSc. R. Zukal [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed683ca795a53be9a6077a5307e892514d682321a8765a26cbd00643155b81e
+size 789

@@ -1,6 +1,3 @@
-) 10 Říjen 1977 Necelé dva týdny před zahájením bělehradské konference o uplatňování helsinského dokumentu z roku 1975 v praxi prohlásil vedoucí americké delegace Arthur Goldbcrg, že americká delegace chce, projednávat v Bělehradě všechny aspekty předloňských ujednání, z nichž se mnohá dotýkají života lidí ve všech 35 zemích, které se zúčastnily původní konference o evropské bezpečnosti a spolupráci v Evropě.
- „V lam spočívají“ — pravil Goldberg — „kořeny hlubokého závazku Spojených států k evropské bezpečnosti a spolupráci.
- Přítomní mladí lidé vyprázdnili tělocvičnu až potom, co je k tomu prinútili příslušníci Národní bezpečnosti.
- Zraněných bylo kolem jednoho sta lidí, sedm přís- slušníků bezpečnosti a způsobená škoda se odhaduje na sto tisíc korun.
- Policie zadržela přes dvě stě osob, které dopravila do Domažlic, kde musely stát v místnostech Velitelství Národní bezpečnosti osm hodin, s tváří obrácenou ke zdi.
- pojistné doby ani po nabytí německého občanství (a ti starší jen výjimečně), pochopit, že osobní a majetková bezpečnost se nedá získat dodatečně, když je již pozdě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e61ed66c122f4ed0e3b455c6373d9b10741f6d0e941b4169a5990ce1202cbc3
+size 1228

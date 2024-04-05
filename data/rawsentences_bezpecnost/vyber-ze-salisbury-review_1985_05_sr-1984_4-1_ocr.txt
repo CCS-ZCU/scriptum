@@ -1,1 +1,3 @@
- Tak se stalo, že zásadním rozhodnutím ve věci národní bezpečnosti nemůže předcházet vhodně připravené období šíření "neověřených informací", díky čemuž by veřejnost mohla vnímat nebezpečí a s úlevou konstatovat, že vláda je připravena na toto nebezpečí aktivně odpověděl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55bd457cded9338a86381750b68dbdf9abb81304587d2c673749cf2566b4de2d
+size 313

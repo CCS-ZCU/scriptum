@@ -1,3 +1,3 @@
-podzemní týdeník Mazowsze věnovat protestní akce místo uznat schválení nový zákon uzavřený etapa pojem přítel vylučovat zrada nebezpečí
-piplaný dáma život vystavit nebezpečí kousnutí mravence stěžovat hrůzný škoda způsobený použití
-cestovní doklad vydávat nebezpečí švýcarský občanství odňatý
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d3436054deb9794d2f0948aff946db06ee8cb23fd0fe28199b667bb37514a9c
+size 336

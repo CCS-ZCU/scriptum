@@ -1,7 +1,3 @@
-polský vývoj hrozit hrozit nebezpečí úspěšný zvládnutí vnitropoli tický konflikt směr článek považovat žádoucí přijít smrtelný úder iniciativa síla polský hranice
-církev instita řadový obyvatel vědomý nebezpečí moci vzniknout ležet hranice možný okamžik
-větřit nebezpečí nahota ztratit dosavadní tabu dostat veřejnost další konkrétní hmatatelný argument
-muset vymýšlet důvod teoretický provádět převrat marxisticko leninský doktrína mávat strašák imaginární nebezpečí
-nebezpečí sovětský intervence Polsko zůstat nezmenšený
-vtipkovat ostatní hlídat nebezpečí dělat
-Slanina hro zilo nebezpečí MUDr Placák moci rozvrátit kolektiv spolupracovník
+version https://git-lfs.github.com/spec/v1
+oid sha256:220732a20d13fd6ecd1f1ef6669a9b5fabefce11d504a2664ed82c14b34e41a5
+size 720

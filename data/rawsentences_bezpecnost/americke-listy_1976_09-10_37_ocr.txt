@@ -1,3 +1,3 @@
- bezpečností a vráceny do sbírek Národní galerie.
- Washington Report, měsíčník vydávaný Americkou Radou Bezpečnosti (American Security Council) přináší re svém posledním čísle interview se senátorem Strom Thor- ntondem, členem senátního podvýboru vnitřní bezpečnosti, o výpovědích uprchlých vedoucích důstojníků čsl.
- Třebaže v kongresu se v posledních letech ozývaly protesty proti nákladu některých obranných programů, většina Američanů souhlasí, že náklady jsou druhořadé hledisko, jedná-li se o zajištění národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8f8790069e405bb580db8ac17a9ccea8202b275af8e94aca2702e3d9407f8b9
+size 593

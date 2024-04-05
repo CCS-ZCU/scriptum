@@ -1,2 +1,3 @@
- Na obsahu a organizaci akce se společně s Mezinárodním koordinačním výborem podílejí Stálá komise pro krajany žijící v zahraničí a Výbor pro zahraniční věci, obranu a bezpečnost.
- Hlídaná placená parkoviště bezpečnost nezaručují.
+version https://git-lfs.github.com/spec/v1
+oid sha256:313f9859e5ddf532baee5df39c08b881e845e228232e0d3bf27d79f7af013ee2
+size 260

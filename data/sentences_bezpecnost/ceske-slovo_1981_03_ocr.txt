@@ -1,5 +1,3 @@
-státní bezpečnost únor zasednout diplomat profesor
-velvyslanectví Londýn uvést tajemník řídit opilý stav auto ohrožovat bezpečnost jízda ulice
-bezpečnost násilí zadržet mladý Boleslav francouzský vojenský přidělenec podrobit několikahodinový výslech
-státní bezpečnost svazek edice petlice zabavovat narazit
-generální prokuratura státní bezpečnost najít vhodný paragraf trestní zákon moci autor postihout potřeba přítel zainteresovaný čtenář dát rozepsat rukopis dílo
+version https://git-lfs.github.com/spec/v1
+oid sha256:79d8f058d3ce21c855bb7915e59d5e03eec75334f66eebf605d7ab7b8909eb21
+size 514

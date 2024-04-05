@@ -1,6 +1,3 @@
- V několika případech se přihodilo, že při domovních prohlídkách u chartistů byla vyhláška zabavena a příslušnými orgány státní bezpečnosti promptně označena jako “ilegální tiskovina” .
-” O Zdeněk Mlynář vyprávěl příběh o odposlouchávacím mikrofonu, který našel ve svém bytě, a o “svědomitém” vyšetřování a “marném” úsilí státní bezpečnosti vypátrat “neznámého pachatele”, který jej namontoval.
- Skladník státní bezpečnosti, který tento v Československu supertajný materiál spravuje, vyškrábal na mikrofonu evidenční číslo 194.
-’ Před domem, v němž Zdeněk Mlynář v Praze bydlel, hlídkoval ve dne i v noci vždy jeden příslušník státní bezpečnosti.
- Pavel Landovský, populární herec, chtě] jednou Mlynáře navštívit, a když hodlal vkročit do domu přispěchal k němu uniformovaný strážce bezpečnosti.
- Ludvík Kavín zatím vyřizují nutné formality, rozhlížejí se kolem a jsou — jako všichni ostatní — spokojeni, že na nich už nespočívá “bdělé” oko československé státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3ce819f136c74f0ae5a83fb9a0d377f875a44deabc5351da5afa888422328e
+size 1127

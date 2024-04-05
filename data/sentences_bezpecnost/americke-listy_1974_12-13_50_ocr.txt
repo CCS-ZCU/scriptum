@@ -1,2 +1,3 @@
-spolupráce Rakousko výstava nedostatek bezpečnost zemědělství prověrka bezpečnost hygiena práce československý
-organizátor zářijový výstava Alexandr Glezer vyslýchat minutý týden Lubjanec státní bezpečnost hrozit trestní stihání organizovat společný podnik umělec informovat zahraniční činitel
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd72d7df0cc94ff5fd44cec8446333bd054638daad28f472365945b45c25147e
+size 325

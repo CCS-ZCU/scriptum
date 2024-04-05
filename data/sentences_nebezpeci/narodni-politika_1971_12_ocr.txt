@@ -1,1 +1,3 @@
-sud dosáhnout obor ství rozřešený problém voj věda technika celkový zvýšení životní úroveň nilo nebezpečí konflikt většina lidé svět uznávat zájem zachování míra spravedlivý řešení rozpor spor konflikt šit vzájemný jednání účastník spor OSN mít mít národ rozdíl početní velikost stejný právo
+version https://git-lfs.github.com/spec/v1
+oid sha256:953b4ea32e5bb411089c5269b866e8601059936de89b6086d6f4d1614307ea86
+size 342

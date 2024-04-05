@@ -1,4 +1,3 @@
- Zbigniew Brzezinski, poradce presidenta Cartera pro otázky národní bezpečnosti.
- bezpečnosti se tentokrát o plánované schůzce dozvěděly, vypátraly i místo, kde se měla konat a rozhodly se schůzku zmařit.
- Celou akci bezpečnosti pokládáme za protizákonné omezování osobní svobody občanů.
- Státní bezpečnost se již delší dobu soustřeďuje na lidi, jejichž jména nejsou ve veřejnosti obecně známá, nepíše se o nich v národním tisku, nejsou zkrátka populární.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40a10cea373512f3e7de5589b49cec74d2733883d776eb213a3bcaefc836f838
+size 503

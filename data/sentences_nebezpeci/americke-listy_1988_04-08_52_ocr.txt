@@ -1,1 +1,3 @@
-říci Václav Benda katolík nebezpečí vědomý bolestný tragický Vatikán udělat stejný chyba sedmdesátý léta jmenovat biskup prosazovat vláda Benda nadělat církev spousta škoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d2af0e5023dad42a8bfda66b33ff78510d7d172815fec4493b5b8b3011aaf57
+size 193

@@ -1,1 +1,3 @@
- Jestliže totiž Gorbačov sníží početní stavy sovětské armády, omezí funkci armády jako politického faktoru v oblasti národní bezpečnosti, jestliže bude i nadále podporovat ostatní východoevropské země na jejich vlastní politické cestě, zavede společné hospodářské podniky se Západem, povolí otevřený trh a politický systém s více stranami - mohlo by se zdát, že pomalu mizí vojenská hrozba ze strany Varšavské smlouvy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f8d07b33b8f9e6451f376595eb17f48db9f05e30abe06f4ac83646589a5c3ec
+size 463

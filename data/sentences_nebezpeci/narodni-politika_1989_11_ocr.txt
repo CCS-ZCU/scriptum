@@ -1,2 +1,3 @@
-začít myslit umět rozbít atomový jádro dokonalý hrozit nebezpečí atomový zbrojní soupeření atomový válka
-pokoušet první možnost vystavovat nebezpečí celý systém uvedený pochybnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c05a8bf3bbde49c915fdbe29f6ed2413a9c0ecdaae51779ceefbff4f5efcfb
+size 203

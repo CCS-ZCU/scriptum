@@ -1,5 +1,3 @@
-nebezpečí minout vrácený místo den
-nebezpečí hlad velký rok
-známý vojenský úřad názor příčina domnělý nebezpečí podmořský tunel změnit druhý strana prokázaný lze učinit tunel dostatečný opatření brána přepadení tunel nepřítel hledat příčina
-nebezpečí odstraHßno
-vyobrazený patentovaný přístroj použití obyčejný kerosínovy svítilna povoz jízda noční odstranit nebezpečí srážka povoz převrhnutí náraz
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce631d544cc66ad1a529036f201921f16e566ac0e4cd31c0bf811fc7df3954bd
+size 462

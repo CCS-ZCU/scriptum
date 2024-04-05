@@ -1,1 +1,3 @@
-půle březen bezpečnost rada spojený národ pořádat okázalý zasedání latinskoamerický země mocný podpora Sovět odsuzovat imperialismus spojený stát smluvní
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a3a7de4dcc12f34e3057262dc0b712eb0eca1f255dabf3c5d68d16f730d126f
+size 172

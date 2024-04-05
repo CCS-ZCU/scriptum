@@ -1,1 +1,3 @@
- V bezpečnosti pozrela oknom k studni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14391293ea2c341bad595210d4158b72e9925b1deceae2c4701fae8b7185d942
+size 40

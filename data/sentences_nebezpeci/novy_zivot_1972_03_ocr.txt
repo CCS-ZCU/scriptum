@@ -1,2 +1,3 @@
-nebezpečí smírný modlit doplížit italský řada
-obtížný posour hnutí vystavovat nebezpečí muset zabíjet lidé mít spravedlivý poměry společný
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0e0bcb419146bc24477b15c610fc96db895c8d4481aa44c5f4d584d3f6e704b
+size 160

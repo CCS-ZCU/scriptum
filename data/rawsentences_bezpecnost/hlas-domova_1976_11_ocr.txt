@@ -1,1 +1,3 @@
- Sovětská nropaganda v Praze Čím více se blíží první výročí podepsání Závěrečné deklarace konference o ěvropské bezpečnosti a spolupráci v Helsinkách, tím jasněji vyniká vystřízlivění západních politiků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:982fab4f5e01a73ce29d4710ed313b6487bd35597dd4bde535e0310dde0e6132
+size 237

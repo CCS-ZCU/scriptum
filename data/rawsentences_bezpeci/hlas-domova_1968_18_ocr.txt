@@ -1,1 +1,3 @@
- Jiří Mucha v bezpečí, Jako jeden z řady jintelfektuálů, kteří se nejvíce snažili o nápravu poměrů doma, z řady těch, které Scjvěty nejčastěji obviňovaly z "kontrarevoluce”, měl by doma mnoho důvodů k nejčernějším obavám.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4236aa807bed0b25165192736c74e31e1cd8c65491eca909e7c57b805aab8246
+size 253

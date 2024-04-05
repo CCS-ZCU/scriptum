@@ -1,2 +1,3 @@
-Zdeněk Černík Praha jednotýdenPresident Nixon předložit minulý den kongres přehled mezinárodní situace nazvaný zahraniční politika spoj stát rok nový strategie mír vidět věc prvý vláda země uvědomovat komunistický nebezpečí svět druhý znát způsob možný nebezpečí úspěch čelit
-západní země vyrůst velký problém svoboda nositelka nebezpečí vlastní zánik
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef59a10b1319c9e88d8534a216bd9763397fed70eda1be703ac5cfb3b7250d98
+size 398

@@ -1,5 +1,3 @@
-kontejner nalezený nebezpečí život
-pojetí domov minimalizovat nebezpečí zmíněný zápecnictví moci obsáhnout jemný nuance vývoj jazyk myšlení lidé žít
-Německo chráněný podřadný divize ocitat smrtelný nebezpečí boj fronta
-znít druhý část verš Fráňa Šrámek nadepsat článek
-minulý plavba mít loď zakotvit Kolumbie pamětihodný přístav Cartagena kapitán poslední chvíle oznámit zážitek dojít nebezpečí terorismus pevnina
+version https://git-lfs.github.com/spec/v1
+oid sha256:165a67ed49ba0d55cc3c99ea43631e9d155f6d5efba61e0338342befaa1704e9
+size 470

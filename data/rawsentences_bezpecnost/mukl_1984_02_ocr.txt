@@ -1,1 +1,3 @@
- Snížil nezaměstnanost, zvýšil bezpečnost Států a tím i bezpečnost a obranyschopnost svobodného světa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88721c974f732e1b9e4444d9412f972f026e22b6fb5401b1121909ff2df7a15
+size 115

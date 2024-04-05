@@ -1,2 +1,3 @@
-obojí zaměření chovat velký nebezpečí
-křesťanskodemokratický katolický strana lhostejný státní školství cíi kevní škola najít žádaný subvence
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d30bc8fec334fc7303b656296795ae434d44a5cc5256d056dcf994eb646d73c
+size 165

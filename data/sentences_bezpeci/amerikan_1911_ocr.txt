@@ -1,7 +1,3 @@
-rozsáhlý kolejiště různý dráha četný skladiště splétající dýmat zvonit pískat lokomotiva snažící možný nákladní vůz odtáhnout bezpečí
-Teresell div bezpečný místo pomyšlení vlastní bezpečí zdržet spěchat dlouhý skok konec budova volný prostranství vidět hemžící hasič kynout záchrana
-Teresell okamžik rozmýšlet mít hledat vlastní bezpečí ponechat potřeštěný hocha osud mít obětovat záchrana
-octnout bezpečí probudit vypočítavost
-rád dítě bezpečí běžet sýpka poohlédnout toba
-policista vzpomenout hocha volající tatínek odvést požár bezpečí
-vysoký míra ustrašený dívka chopit chlapečka uloživit bezpečí chvátat les oznámit
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef335a3ace30072bc1928092e22673ad0733cf387fc3ae2ab3e12a6121809e7
+size 713

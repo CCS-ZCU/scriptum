@@ -1,5 +1,3 @@
- Vyšetřující orgány prý mu nabídly, že ho z vězení propustí, pokud se zaváže k následné spolupráci se státní bezpečností.
- POMOC VÝVOJOVÝM ZEMÍM Americký ministr zahraničí Shultz řekl, že americké programy hospodářské pomoci vývojovým zemím se přímo váží k jejich vlastní národní bezpečnosti a ekonomické prosperitě.
- Shultz prohlásil v kongrese, že programy jsou nezbytné k zajištění bezpečnosti a hospodářského růstu a že Amerika pomocí poskytovanou Třetímu světu, zmenšuje hrozbu proti své vlastní bezpečnosti a světovému, míru.
- Bezpečnost a hygiena práce byly zejména v prvních létech po únoru na zoufale nízkém stupni, počet pracovních ú- razu — včetně smrtelných — se dodnes nepodařilo přesně zjistit.
- V Praze pracovali vězňové na stavbě Sportovní haly ve Stromovce, vybudovali ú- střední garáže a dílny ministerstva vnitra v Radlicích, adaptovali Masarykovu kolej v Dejvicích pro centrálu Státní bezpečnosti a dům v Benediktské ulici pro sídlo cenzury, vězňové stavěli vily pro stranické prominenty a pro jiné vězně vystavěli novou ruzyňskou věznici, z vězeňské práce vznikaly obytné okrsky ve Střešovicích, Strašnicích a na Dívčích hradech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8c8442d762f4af635d37339be0bc2a103935c2cd5f9ac7ca32ef7d550f06a09
+size 1285

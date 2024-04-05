@@ -1,7 +1,3 @@
-nový život měsíčník cyrilometodě liga rač Červen červenec
-číslo
-obsah
-jít kořen zlo
-poslat památný den červenec plán John A
-Dulles
-poslední prostředek záchrana duše národ bělohorský tradice katolický student odhalovat pražský mírový propaganda činnost CML svět
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d93c981d35e474fcf01d0404fec62314a1f9351f403c67f6c1b54c0090c291e
+size 293

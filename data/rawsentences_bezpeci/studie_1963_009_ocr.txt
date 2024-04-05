@@ -1,1 +1,3 @@
- J e - l i kolouch uz schopen se zvednout, prchá s ním od rušitele do samoty do  121 bezpečí, stále se vsak ohlíží a kolouch se drzí tak u j e j í c h zadních nohou, ze jak tvrdí LOMEN vše v y p a d á jako jedno tělo s osmi nohama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42918d341219d46cdf5701aaf9730321cd58cc9f45b6900f9d5e982589de02ef
+size 248

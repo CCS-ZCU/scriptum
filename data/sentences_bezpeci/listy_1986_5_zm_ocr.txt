@@ -1,1 +1,3 @@
-přítomný signatář bezpečí policie zadržený
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fbad050cef146e0e0f4fc3a67b88975fbbabcd74efcfc5f30da42e9d4194250
+size 52

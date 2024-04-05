@@ -1,1 +1,3 @@
- Krásná a mladá královna odmítla se svým zbabélým manželem odjet do bezpečí v exilu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb80cca33342fa50b5c9521474c673b6f58db3f64965bf1c801be106b0cfbf7
+size 96

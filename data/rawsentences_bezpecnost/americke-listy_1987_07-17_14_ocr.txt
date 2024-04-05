@@ -1,7 +1,3 @@
- Podle očitých svědků mělo jít o kapitána a majora Státní bezpečnosti zaměstnaného v nedaleké Sadové ulici.
- Nastala vřava, pachatelé chtěli uprchnout, byli však zadrženi některými občany a posléze příslušníky Veřejné bezpečnosti.
- K této události bychom se nevyjadřovali, kdyby k nám nedocházely zprávy očitých svědků, že pachatelé tohoto závažného trestného činu měli být přílslušníci Státní bezpečnosti.
- Ještě citelnější je nadřazenost, se kterou se občané mnohde setkávají ve styku s uniformovanými a neuniformovanými pracovníky Sboru národní bezpečnosti.
- Stejné stanovisko zastává také izraelský ministr zahraničí Simon Pereš, který navrhuje, aby se konference zúčastnili kromě Izraele Jordánsko, Egypt, zástupci Palestinců a pět stálých členů Rady bezpečnosti OSN, což znamená Spojené státy, Velkou Británii, Francii, Cínu a Sovětský svaz, ten však rovněž pod podmínkou obnovení diplomatických styků a usnadnění židovské emierace.
- Poslední zpráva o takovéto akci Státní a Veřejné bezpečnosti je nadepsána "Represe proti nezávislým kulturním iniciativám na jižní Moravě.
- Nedlouho po zahájení výstavy přijely vozy Veřejné bezpečnosti, následované kriminálkou z Kroměříže a Státní bezpečností z Brna a z Ostravy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea1f49023662a56f945402a9068d450c85c9050604d5c2d9478fe6600c579a9
+size 1366

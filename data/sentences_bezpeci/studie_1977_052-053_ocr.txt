@@ -1,1 +1,3 @@
-individualismus bezpečí jednotlivec existovat individualismus skupina
+version https://git-lfs.github.com/spec/v1
+oid sha256:9962e6a2ca05744b71460929db8f3374229f646b3e1ed79b116d38a796daf4e8
+size 72

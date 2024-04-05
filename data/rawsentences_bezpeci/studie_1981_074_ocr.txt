@@ -1,1 +1,3 @@
- Mám smutek v srdci, když myslím na mnohé části vašeho světadílu, kde dosud ne- umlkl hluk války, kde se třeba i mění ti, kteří jsoú zapleteni do války, ale nikoli skutečnost války, kde se myslí, že jedině zbraně mohou zajistit bezpečí, nebo kde bratr bojuje proti bratru, aby napravil sku- tečná nebo domnělá bezpráví.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e648734a4f5e41e18e15c5fa7b765cc761468b1ecd188fa30a78899c702c1509
+size 347

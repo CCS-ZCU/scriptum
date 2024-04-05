@@ -1,4 +1,3 @@
- Kdo slouží vlasti jako voják, ať se považuje za služebníky bezpečnosti a svobody národů ; když koná tuto svou povinnost správným způsobem, podává velký přínos k upevnění míru.
- « Zmínky zasluhuje změna, k níž došlo v konečném znění věty, kterou jsme právě uvedli: voják není služebníkem bezpečnosti a svobody svého národa, ale národů — v atomovém věku mravní krása vojenské služby překračuje hranice nacionalistického myšlení.
-« Která cesta k tomu vede ? Koncil chce nejdříve, aby byla připravována světová autorita, kterou všichni uznávají, která má účinné prostředky, jak zaručit právní bezpečnost pro všechny a zachovávání práva a která by učinila zbytečnou i obrannou válku.
- června demolovali zařízení, zabraňovali členům souboru v odjezdu, ohrožovali příslušníky Veřejné bezpečnosti a snažili se převrátit jejich služební auto.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8f33f864d76e91e3148131a791d93abb6f5a0b908abf192a27e776c360642d
+size 943

@@ -1,5 +1,3 @@
-souviset druhý nebezpečí demokracie vyprázdněný zópadoovropan činit zranitelný vystavený pokušení přijmout síla slibovat vykoupení
-válka boj odstraňovat nebezpečí byoj skončit zdávodňovat stálý utuchající obnova vázat spotřeba
-obsahovat mocný útok Erika Kuenehlta Leddihn nový katolický kněžstvo pocit vina méněcenost zatlačit heilige kříž
-čin bezpečný společenství muset očistit nebezpečí vystavit
-británie stát hrozný nebezpečí zanedbat jedinečný podstatný úkol strkat ruka lokt věc vyžadovat běžet
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a833f1bbdaeafc1744fbb7990ac0be8416e3d871d3ef461dcc9ad60b79b4f2
+size 562

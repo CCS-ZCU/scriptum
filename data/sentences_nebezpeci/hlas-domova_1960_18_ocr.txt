@@ -1,1 +1,3 @@
-vysoký čas pustit intení zivní příprava vzniknout nebezpečí první den týden vyučování škola nedostatek
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b83de7e3d745b578b652cc6a7784d29962a12a8534d40d8a9e849924049efcf
+size 114

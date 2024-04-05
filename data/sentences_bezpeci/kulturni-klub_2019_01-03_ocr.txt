@@ -1,1 +1,3 @@
-uvědomit důležitý dětství láska pocit bezpečí nastavení hranice
+version https://git-lfs.github.com/spec/v1
+oid sha256:603ca2f4aeab2ccddb7ea5d46fc1e74f9eee761c37929aa3e5a7fefb91e98137
+size 74

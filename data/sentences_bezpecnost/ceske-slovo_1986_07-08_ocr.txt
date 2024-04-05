@@ -1,3 +1,3 @@
-státní bezpečnost vstup dům československý občan hradba stadión Letzigrund kalný sychravý počasí déšť střídat mlha vítr vzdouvat kaluž škaredý obloha krabatit divák cvičenec
-státní bezpečnost provést den rozsáhlý akce účastnit desítka pracovník StB cíl zabránit účast recepce pozvaný chartista
-bratr obviněný pobuřování nebezpečí státní bezpečnost chtít dát psychiatrický vyšetřování vyhlásit blázna
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd5221681da8247b7635f65686e7d026140fead2f456a26f78898b1af1b4e4d6
+size 457

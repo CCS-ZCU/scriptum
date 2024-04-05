@@ -1,5 +1,3 @@
- Slovensko, s vedúcou demokratickou stranou bolo jedným, vedia armády a bezpečnosti, z hlavných terčov útokov.
- Už v júli 1947 sa zákonem o Národnej bezpečnosti čís.
- júla 1947 jak národnej (SNB), tak aj štátnej (ŠTB) bezpečnosti na Slovensku.
- Durčanským zo zahraničia a zytýkáním osob podozrelých z tejto činnosti, ani s organizovaním závodných, ozbrojených milícií a vyzbrojovaním partyzánov (bol tu zákaz povereníka vnútra), ani snahami dokázat neschopnost slovenských orgánov udržat poriadok a bezpečnost na Slovensku, ktorú sami komunisti rozvracali, presunuli tažisko príprav útoku na nezávislost Československa do Prahy.
- Po prečítaní písomného hlásenia o stave bezpečnosti na Slovensku som sa po niekoľko minútovom tichu prezidenta priamo opýtal: "Čo budeme robit?" Prezident po mojej otázke chvilku uvažoval, meral ma svojím zkú- mavým pohľadom a povedal mi "budeme se bránit, generále.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f5d4950e7e672fc616d4db0383548a07b476193e9418de7d278f3e5da4f518
+size 966

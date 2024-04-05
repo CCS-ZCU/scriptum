@@ -1,1 +1,3 @@
-nebezpečí ventil důkladný odreagování afekt ponechat místo užitečný
+version https://git-lfs.github.com/spec/v1
+oid sha256:24be01d3580e8521cc9c53031faaaf08a49dfab020c0991d5302e02b90f5cfdd
+size 78

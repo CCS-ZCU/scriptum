@@ -1,1 +1,3 @@
-zkroucení zavitý kapradí hraní odkázaní dítě očistec poznat nebe dostat hlemýžď měkký pomalý rožšlápnout domeček chatrný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:99f181954ea3e1898ccd83ed167916a75ebc710cd11244b765d6503fe7f60cd2
+size 151

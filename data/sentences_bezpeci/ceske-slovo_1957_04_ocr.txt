@@ -1,1 +1,3 @@
-vyhnutelný doplněk svévole politbyro určování cena zboží cena práce obnývo váný pocit ohrožený válečný nebezpečí existenční bezpečí irracionáleň pracov
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bf659a05e08eb54b4561ed5128730a1053d4107ea607727322639527022a1a3
+size 210

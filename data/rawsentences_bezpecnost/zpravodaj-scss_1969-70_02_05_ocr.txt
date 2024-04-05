@@ -1,1 +1,3 @@
- Jak dlouho může trvat jednota, když'vedle sebe stojí vrazi ze Státní bezpečnosti a jejích bývalí vězňové? Jakou hodnotu má jednota, když tu jsou příslušníci totalitní strany, kteří mají moc, a demokraticky smýšlející občané-néstraníc i bez jakýchkoli politických možností? Dávám přednost pravdě před fikcemi a zbožným přáním» ue třeba pochopit, že mezí vedoucími představiteli u nás a v jiných "socialistických" státech není v podstatě rozdíl: nikdy se totiž nevzdají svého mocenského monopolu dobrovolně, at se tváří sebelidštějío Je to proti jejich "revoluční" teorií.
+version https://git-lfs.github.com/spec/v1
+oid sha256:659ea0ed442dfd1c297ad569ece8ec404fef97098c7cbebca2873ebd0fd61893
+size 644

@@ -1,2 +1,3 @@
-vidět
-majitel strávní dům mít zadržovací právo strávníkův majetek zvláštní úmluva zodpovědný bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:047d3a0335d0d56432c23c592d899754770ca71975144192fe57c5b0d59d7a04
+size 120

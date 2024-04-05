@@ -1,1 +1,3 @@
-000 československých uprchlíků, z nichž drtivá většina tu našla vřelé přijeti, klid a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:835f3b61c3fbd0468d5a65db277924e57fbce08bdd73afc9c1ca381ceb2602fd
+size 109

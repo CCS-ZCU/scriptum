@@ -1,1 +1,3 @@
-Čína zet šťovat tisk manévr chvíle hodit zvyšovat útok Rusko agitovat nebezpečí sever jestý zasahovat Mao vým odpůrce
+version https://git-lfs.github.com/spec/v1
+oid sha256:b03d9bdf8c298add333698605ea5c5a980ee355cb505860f0b1ab01dfab81084
+size 128

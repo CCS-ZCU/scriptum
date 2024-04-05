@@ -1,1 +1,3 @@
-Dubček pochopit stát hlava reformátor doporučit federální shromáždění kurs nebezpečí kontrarevoluce psát pražský reformní předsevzetí tehdejší doba stát skutečnost jiný země východní blok
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb103b4d5600b161738b9119530258c9df9603e75453220b3395516d1e1da68a
+size 214

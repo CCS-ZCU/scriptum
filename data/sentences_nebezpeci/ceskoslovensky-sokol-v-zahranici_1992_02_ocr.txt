@@ -1,1 +1,3 @@
-poschodí umožňovat volejbal nebezpečí rozbití okno
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4caf20eaad732ab496ae236eecc6fa696a363704031e7b30dc401e840e5c638
+size 57

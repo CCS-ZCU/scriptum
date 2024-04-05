@@ -1,5 +1,3 @@
-přesvědčený obrana lidský právo světový měřítko nutný základ mezinárodní důvěra bezpečnost
-myslit bezpečnost vypořádat
-tajit
-návrh Nobelův cena charta zveřejnit minulý číslo patřit podpis člen americký komise bezpečnost spolupráce Evropa kongres USA
-armáda Bratislava Vecs upozomenie
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de9e5b6ee300b9b3aeaae1a3c043b5e60f7467eff8181e9df26b259a6f366e8
+size 317

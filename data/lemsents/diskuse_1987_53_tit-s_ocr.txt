@@ -1,10 +1,3 @@
-D I S K S E číslo květen teoretícko politický občasník obsah číslo poděkování Vladimír Kadlec ekonomika samospráva jediný alternatíva Zdislav Šulc vztah marxistický teorie komunistický ideologie Zdeněk Mlynář druhý poslední odpověď Karel Boroví Božena Komárková tlout otevřený Miloš Rejchrt americký anglický italský kremlolog sovětský reformní vývoj Luboš Kohout Vladimír Kadlec poděkování nadace charta ruka prof Fr Janouch Singkholm Praha duben vážený děkovat vyznamenání udělení cena MUDr František Kriegl
-cítit poctěný nadace nesoucí Krieglův jméno padat být odlesk jméno zasluhovat František Kriegl přítel starý zkušený
-sblížit člen ÚV KSČ léta připravovat obrodný proces pražský jaro
-požitek debatovat procházka Křivoklát přijet manželka Riva navštívit
-radost jiskra debata poučení mít mimořádný životní zkušenost
-srpen stát František Kriegl přítel uctívaný
-stát tichý hrdina okruh přítel většina národ
-odmítnout Moskva podepsat moskevský diktát obsazení Československo podmínka takzvaný normalizace Brežnčv vnutit znamenat násilný omezení suverenita Československo Kriegl stát národní symbol protest potlačování svoboda demokratický socialismus stát naděje příklad lidé posílit pomoci přenést ideál svoboda suverenita zlý čas normalizace čekat potkat
-národ mít střetový situace Quis linka hrdina doba obsazování Československo hrdina přední místo patřit František Kriegl
-dokázat vzepřít
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec050ac20de785fa2e79ae484280628eee7a07bc9c237985fdfbba9712d9775f
+size 1550

@@ -1,1 +1,3 @@
- a Anděl Strážný provází tě po cestách pohádkových do bezpečí spánku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5edddd262197f01ed58510e2c7c656b29c0b54167bd6c3f8c57dcc7390d6427f
+size 83

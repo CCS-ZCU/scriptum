@@ -1,2 +1,3 @@
-Partaj hrozit nebezpečí xerox psací mašiny papír tužka kopírák český knížka cizina
-pohyb společnost začínat srážet nehybnost moc růst společenský napětí začínat hrozit nebezpečí otevřený krize
+version https://git-lfs.github.com/spec/v1
+oid sha256:58a8fddaa8f7b7cc8826c051e4aef66dc897443a44ee69e07430be01f77906f3
+size 221

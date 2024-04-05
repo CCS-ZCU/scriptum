@@ -1,3 +1,3 @@
- Před americkou ministryní zahraničí Madeleine Albrightovou vyzdvihl Masarykovo úsilí o pokojný konsenzus mezi lidmi a národy a jeho péči o bezpečnost státu.
- Proto se za války věnoval studiu vojenské strategie, proto organizoval legie, proto i jako prezident trvale pečoval o naši armádu a dbal o bezpečnost státu v neklidné době.
- Evropa - jednota, bezpečnost, identita.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b29e863b67de959dcc4c7fe208a5fa3ec7a6cbd848ef80ff1a1a9fefc4b0c6f
+size 396

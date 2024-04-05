@@ -1,11 +1,3 @@
-kardinál Stepinac předtucha odebrat věčnost posílat věřící napomenutí smrt držet hrozící nebezpečí rozmnožit štěstí možný slzavý údolí
-nebezpečí exil vytvářet nový falešný tradice masarykovský
-opovážlivý spoléhání říci velký nebezpečí bezmezný spoléhání Masaryk tatíčkový úplný zapomenutí odkaz
-nebezpečí plynoucí vzbuzování subjektivní dojem stát popředí problematika údobí vcházet zúčastněný velmocenský činitel spojený stát velký Británie Francie sovětský svaz
-církev vědomý různý druh nebezpečí klást otázka duchovní budouc pohled misie JIŽN Africe působit český ctih
-manžel Lasagův nebezpečí komunismus veliký
-nutný vyvarovat dvojí nebezpečí ulpět tradiční forma venkovský hospodářství dát udržet zbytečný přítěž
-povstávat nebezpečí venkovský člověk ulpit mravní zákoník minulost nepojmout nový povinnost plynoucí nový pojetí pracovní vztah
-katolík misijní země dovést pracovat nebezpečí špatný tisk
-vybízet jednota svornost odvrátit hrozící nebezpečí
-účastník vydávat nebezpečí hruhoký urážka nebezpečí život
+version https://git-lfs.github.com/spec/v1
+oid sha256:af93e286dda8649ef7708384166c71888794a0bacec525b1f30493ee753403f9
+size 1173

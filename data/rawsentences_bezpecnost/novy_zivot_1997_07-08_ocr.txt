@@ -1,2 +1,3 @@
- 137); na 100 důstojníků, diplomatů i vědců z 40 evropských a severoafrických zemí, účastníků semináře Centrem pro stu- dium obrany a unie západní Evropy — «bezpečnost evropského světadílu nemůže spočívat jen v trvalém, ozbrojeném míru, ale vyžaduje upřímnou solidaritu, která má své základy v rozhodné oddanosti společnému dobru celé společnosti a každého jednotliv- ce.
- Bartošek ve své odpovědi přiznává krutost komunistické justi- ce, říká ale, že tvrzení vdovy po Londonovi nijak nevyvracejí jeho předchozí spolupráci s komunistickou bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08a885eca21a45c4f8e5b5896895b2c515a9cec988d65dd5dcd7e264cd07281
+size 615

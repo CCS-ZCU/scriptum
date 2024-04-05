@@ -1,2 +1,3 @@
- Eiskup je ve správě své diecéze plně závislý na státních úřadech a rozhodující slovo má Státní bezpečnost.
-Režim, který nyní končí, dokázal po desetiletí nabídnout nám mladým věřícím jen jediného partnera k rozhovoru - státní bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2241de8b72e8eea7c75c939ed4242f74276f0d41a4cf5242d75d6cf7c32b26dd
+size 274

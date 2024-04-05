@@ -1,2 +1,3 @@
- Takto lze porozumět větě, vyslovené nějakým zkušeným: "Jsem v absolutním bezpečí.
-** Na to se kriticky smýšlející zeptá: / odkud to ví? Kde jsou garance a důkazy tohoto bezpečí? - Otázka tu však není na místě; zkušenost je prostě zkušenost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49da6fe8e78183bece4f87fcc240639663b4bebd61ef547a8d7eb0dae48a969b
+size 211

@@ -1,2 +1,3 @@
- Předání baličku, filmované státní bezpečnosti, zřejmě posloužilo jako podklad к Or- ne-tovu zatčení a jeho obvinění ze špionáže.
- Doktor Harold Brown, nově jmenovaný ministr o- brany Spojených států, po svém jmenování nastínil na tiskové konferenci obrysy své budoucí politiky: “Žádné vládní povinnosti nemají přednost před udržováním míru a bezpečnosti vlastního lidu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b23a20b66cd88d4a53b21dbf9fb53a5154240980d7dc4bcd9cbb805265a6083
+size 418

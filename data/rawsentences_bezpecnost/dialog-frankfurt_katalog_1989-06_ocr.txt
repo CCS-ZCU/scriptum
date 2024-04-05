@@ -1,1 +1,3 @@
-1911 v Komora ne ch/ : Střední cesta je cestou pokroku, míru, bezpečnosti a pluralitní demokracie bez diktatury proletariatu a vlády velkokapitálu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67451b97629b51a91b3066d4a5c02df00a81484b137e96ea31d9b40f33be45b2
+size 155

@@ -1,1 +1,3 @@
- Nad pořádkem mělo během spartakiády jen v Praze bdít 3 445 příslušníků Veřejné bezpečnosti, další stovky byly mobilizovány na příjezdových trasách.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b31d13b6d208af5a60e524328ab43615bcc16c78c60b45a7a9b8ae97418004ce
+size 170

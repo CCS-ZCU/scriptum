@@ -1,2 +1,3 @@
-zájem starý čas vrátit hrozit nebezpečí kdj budoucnost muset zodpovídat přehmat
-sál francouzský zámořský loďstvo hrozit nebezpečí zaniknout
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e2ebb3c130e5e9eee356ab861623e38f6012092a6fcd6bb6069aa731d8aa3d1
+size 156

@@ -1,1 +1,3 @@
- Bezpečnost - právě v těchto dnech - objasnila sérii požárů průmyslových objektů na území České socialistické republiky a vraždy sedmnáctiletého J.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cc6d36cec871ad8682e134a6ab0bfa9b1f51db3117bd27bd97832414a164232
+size 167

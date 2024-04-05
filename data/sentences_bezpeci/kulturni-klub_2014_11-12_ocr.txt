@@ -1,2 +1,3 @@
-linka bezpečí přijmout hovor fungovat léta hovor stihnout přijmout dětský krizový telefonní linka bezpečí
-vedoucí linka Peter Porubský linka bezpečí zachránit život pomoci vyřešit vážný situace tisícovka dítě
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a4edb7d67b7e4ea8a0f6e3e7bfcc18d1023bfef3240174c23e99db83edb137a
+size 234

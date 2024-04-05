@@ -1,1 +1,3 @@
-sejít uvážit západní mecko dorůst generace mít nacismus společný druhý vyrůstat blahobyt bezpečí demokracie mít nebezpečí totalitní systém potucha
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce893a587b331f380cc22fce76e64dc382707e1776be836eb935576ea0e57add
+size 167

@@ -1,1 +1,3 @@
- Jaká záře vás oslní z těch drobných knůtků, chcete-li se chvíli dívat zavřenýma očima! Přetvořit svět, a nejprve svůj svět, ve svět lásky a řádu, bratrství, počestnosti a bezpečí, je úloha, jejíž zdar nezávisí na tom, kolika lidem je svěřena, nýbrž na tom, jací ti lidé budou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ddbe07eb9b89c15dc1e280285842decf3d3d5f88597be7d2f8e38efbefbad2e
+size 215

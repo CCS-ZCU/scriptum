@@ -1,7 +1,3 @@
- A opět nevěřte inženýrům, když vám budou tvrdit, že to všechno muselo^být obětováno větší bezpečnosti a rychlosti: u- kázalo se totiž už na prvních dálnicích, že řidiči sice nejsou ohrožováni šourajícími se stařenkami, pobíhajícími dětmi a slepicemi, že se neprobourávají do domů v nepřehledných zatáčkách, ale že zato usínají nudou za volanty svých vozů, nebo jezdí, a aby tu otravu měli co nejdřív za sebou, jako šílenci.
- Jde přinejmenším o bezpečnost návštěvníků při náhlých změnách počasí a v této situaci je navrhovaný objekt nejekologičtějším řešením.
- Zákon ukládá zařízením povinnost referovat o nebezpečných chemikáliích /které jsou uvedeny v seznamu úřadu pro bezpečnost ,a zdraví při práci/ na ’’štítcích bezpečnostních údajů o materiálech”, kde jsou uvedeny detailní informace o všech používaných chemikáliích.
- Místní výbory mají k dispozici dokument ’’Návod k plánování záchranných akcí při ohrožení ^nebezpečnými materiály”, připravený federálními experty ppo otázky veřejného zdraví a bezpečnosti.
- WWJJR 440 představuje podle závěru studie mnohem větší riziko pro^bezpečnost než RBMK, tj* onen typ, který způsobil dosud největší nehodu v dějinách jaderné energie.
- Předložená studie chce vést k vyplnění této mezery, která je vzhledem k nedostatkům v bezpečnosti provozu reaktoru WEJŘ»-440.
- V deníku Rudé Právo ze dne 23» května 1988 jsme^se v'článku "Plynulý provoz jaderné energetiky - Dozor nad bezpečností" mohli dočíst o tom, že "přísnému dozoru podléhá nejen výstavba a provoz elektráren" /míněno všech našich jaderných - pozn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a58c00d97227599c7ebcfbd0df2922b4ebe113b1902c17b2be7a63822897ad5c
+size 1759

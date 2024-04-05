@@ -1,1 +1,3 @@
-zaujetí zapomenout nutný bezpečnost^ ohled poslední okamžik uslyšet divoký funění
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d8fc4f129bb8dcdd400cb5e914fb2ed30b8047f885eb3f6589f879b8ba87e6
+size 91

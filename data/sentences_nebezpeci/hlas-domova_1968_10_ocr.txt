@@ -1,4 +1,3 @@
-razhlasa dopustit dojít tragický jugoslávský maďarský událost
-forma hodlat věnovat výrok vystavovat nebezpečí obvinění pokoušet vytrhovat citát kontext
-SSSR sjednotit objevit nebezpečí zahraničí
-účinnost propaganda klesat celý řada léta nebezpečí projevit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e755efd1b44657fc9cc8f5e7501786bfabfec3daaa10cbbc9afae32e1ed6cea6
+size 282

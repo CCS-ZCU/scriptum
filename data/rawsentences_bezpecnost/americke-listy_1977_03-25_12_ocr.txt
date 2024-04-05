@@ -1,2 +1,3 @@
- kongresová komise pro spolupráci a bezpečnost v Evropě (zvaná neolicielně Watchdog Commission).
- to je chystané vyhodnocení cesty od přijetí helsinského dokumentu v létě 1975, má soustředit na o- tázky míru a bezpečnosti v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6abf9c26b2c1294cc8e7706f7d931f4758c0b67503a6f1e9515b1f225ed39e
+size 251

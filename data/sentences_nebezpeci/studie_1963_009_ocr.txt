@@ -1,4 +1,3 @@
-vznout nebezpečí vedoucí samice paroha požČuchovat odpočívající zvíře zvednout
-nebezpečí spojovat malý skupina stádo
-zpozorovat lana nebezpečí obchý zentikec kolouska připravený zasáhnout obrana
-doba ohrožení nebezpečí prchat blízký velký stád střed velký stádo střední přitažlivý bod
+version https://git-lfs.github.com/spec/v1
+oid sha256:4495a57730e8cc05d85c6d50a3ff7722e51d95da858e06a477bf7c10d23fd63e
+size 315

@@ -1,2 +1,3 @@
-pořádat referendum existovat nebezpečí evropský ústava odmítnutý
-prognóza spět vyplnění hrozit nebezpečí účast manifestace moci postižený
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b000261c6535f8eaf2a59ab555c16a07d744f1c87adcbb075eee00a8bc9786f
+size 156

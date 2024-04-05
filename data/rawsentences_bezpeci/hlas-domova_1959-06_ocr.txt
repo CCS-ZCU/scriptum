@@ -1,1 +1,3 @@
- bezpečí, a že se to nebezpečí den ze dne při- bližuje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0eb93de54105cf3e0eac7bbbf4f5197168b922f60e22fa691f42391880d3592
+size 61

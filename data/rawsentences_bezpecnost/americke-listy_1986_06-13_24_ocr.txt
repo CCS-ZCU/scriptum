@@ -1,4 +1,3 @@
- ČERVNA 198G O ČESKOSLOVENSKU Sovětský a československý lisk nepíše o tom, co má být podniknuto v zájmu bezpečnosti Ani pod dojmem katastrofy v Černobylu a jejích sotva odhadnutelných následku, se asi žádná z průmyslově vyspělých zemí nerozhodne pro okamžité zastavení provozu svých atomových reaktoru, neboť je předem jasné, jakou neblahou odezvu by vyvolalo podstatné snížení přísunu energie v hospodářském mechanismu moderního státu, co by to znamenalo pro zaměstnanost a životní ú- roveň obyvatelstva.
- Už sám termín absolutní bezpečnosti vzbuzuje svou nevědeekostí podezření — navíc je všeobecně známé, že všechny atomové provozy v Československu jsou od samého počátku pod přímým dohledem sovětských poradců a jejich výstavba i provoz se řídí výlučné právě dnes tolik “osvědčenými” sovětskými zkušenostmi.
- Nikde v sovětském či československém tisku se nepíše o tom, co se dodatečně udělá pro bezpečnost a odstranění nynějších rizik při provozu různých typu sovětských reaktorů v zemích.
- Bahrovo stanovisko neodmítli jen křesťanské svaky a na podzimní konferenci o evropské bezpečnosti a spolupráci ve Vídni přednese požadavek po zárukách práv na informace v mezinárodním měřítku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc58220c514bea7863e10e2f2d1f3846892a2727da7f519c71e8250b37bc145d
+size 1327

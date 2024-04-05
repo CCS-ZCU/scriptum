@@ -1,1 +1,3 @@
-studie pokračovat Berlina čas otec vytýkat dopis universita sobeckost zanedbávání rodič výstřední chování tušit nebezpečí nadání tvoj srdce veliký duch napsat otec
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dbe37bd1fa595d947907aea228006bf0e782788d6201763ca25770a47ae225c
+size 182

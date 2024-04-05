@@ -1,8 +1,3 @@
- A ukázalo se zejména, že celonárodní rozhořčení a smutek nad zavražděním Olofa Palmeho pramení z náhle rozbité typicky švédské ^představy veliké bezpečnosti v neutrální mírumilovné, demokratické zemi s neobyčej- nou otevřeností společnosti.
- ministr vnitra Obzina prohlašuje, že «bezpečnost učiní vše, aby odhalila a zničila každou opoziční činnost», konstatujeme jen, že tak mluví kreatury diktatur.
- Na vojenských blocích nezá- 9  vislá zahraniční politika Jugoslávie zajišťuje suve- renitu a je důležitým faktorem vnitřní soudržnosti státu, avšak úplnou bezpečnost v rozdělené Evropě ne- poskytuje.
- 1 (pokus o ohrožení bezpečnosti vzdušného dopravního prostředku).
- Zastrašovací kampaň, v jejímž rámci bylo Státní bezpečnosti vyslýcháno i mnoho dětí, zůstane smutnou a bohužel nezměnitelnou skutečností.
- Společenská ne- bezpečnost oznámeni o pohřbu Jaroslava Seiferta byla zřejmě velmi vysoká, neboť vyšetřovatel vydal roz- 38  hodnuti ješté v nočních hodinách a prohlídka začala v 5 hodin 10 minut ráno.
- A tak se naše nebohá nakladatelství v tom ome- zeném výběru, který vůbec mohou čtenářům předlo- žit, za předmluvy a doslovy často skrývají jako za štít bezpečnosti: Ano, vydáme, ale s předmluvou -doslovem někoho, kdo to má nahoře dobrý.
- A tak se přes Státní bezpečnost, ale nejen přes ni, vede vůči mně a tisícům jiných komunistů dlouholetá psy- chologická a sociálně existenční vojna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:671ddf48841f1fd975a964e987d116d31ae752e84a8d4a263a814a68fd4568dc
+size 1554

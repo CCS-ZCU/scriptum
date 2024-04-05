@@ -1,1 +1,3 @@
-Komínkův kniha varování zapomínat vidět nebezpečí komunismus hrozit svět výzva učinit svoboda žít udržet vzdát ideál svoboda pravda
+version https://git-lfs.github.com/spec/v1
+oid sha256:42db73829a11bcc1418e668d51bb7092da44e4d34e5cabfce4fd4c3bc3eb7d7e
+size 148

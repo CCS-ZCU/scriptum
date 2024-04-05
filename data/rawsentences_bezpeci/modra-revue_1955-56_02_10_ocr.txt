@@ -1,1 +1,3 @@
-Vždy je mnoho lidí,zejména mezi těmi politiky,kteří myslí více na osobní a stranický zájem než na potřeby svého národa a státu,jež může komunistická taktika nového kursu ukolébati v pocit bezpečí,Vždy jsou lidé - a jsou velmi početmí mezi domýšlivými politiky kteří upadají do starého omylu^Ne" ville Chamberlaina,jenž šel vyjednávati s Hitlerem protože byl skálopevně pře svědčen,že to,co nedokázali jiní,dokáže on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee27663a6964894c1f87362754bd50923d1880ae5f4b943a41430e4cf67f020c
+size 466

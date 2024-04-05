@@ -1,13 +1,3 @@
- V pokročilých průmyslových zemích byly všechny společenské instituce, které urovnávají nerovnosti a zajišťují minimum bezpečnosti (progresivní zdaněni, zdravotní služba, podpora v nezaměstnanosti, cenové kontroly atd.
- Obávali jsme se, aby se naše myšleni nestalo jen negativním obtiskem myšlení a jednáni Státní bezpečnosti.
- Zas konkrétně: služby pánů už opustilo dost vysoce a níže postavených pracovníků Státní bezpečnosti, aby jejich praktika nebyla zcela neznámá.
- Celkový objem výdajů na armádu a bezpečnost včetně investic do zbrojního průmyslu v letech 1949-53 činil 235,7 miliardy korun.
- Dále tím, že v srpnu 1969 krátce po svém zatčení na dotaz vyšetřovatele Státní bezpečnosti, co soudí o kritice Luďka Pachmanna, vyřčené v Ostravě na adresu generálního tajemníka ÚV KSČ dr.
- Jaroslava Sabatu uvalil okresní prokurátor v Trutnově Doležal později vazbu a vznesl proti němu obvinění, že napadl příslušníka bezpečnosti.
- Protestujeme proti tomuto protiprávnímu jednáni polské a československé bezpečnosti a žádáme, abyste se zasadili o nápravu jeho následků, především o okamžité propuštění dr.
- V širších souvislostech je však nutno odmítnout i skutečnost, že instituce, která v Československu určuje, zdaje vhodné diskutovat o vysídlení německého obyvatelstva je právě Státní bezpečnost.
- Proto v akci Státní bezpečnosti ze 7.
-Ústředna štátnej bezpečnosti".
- Proto pokládáme odsun německé menšiny z Československa za definitivní řešení velmi bolestné a tragické otázky v zájmu bezpečnosti a územní celistvosti československého státu stejně jako v zájmu nerušených přátelských vztahů mezi Německem a Československem a v zájmu evropského pořádku a míru.
- V tomto bodě plně souhlasím s prohlášením svých kolegů, že „pokládám odsun německé menšiny z Československa za definitivní řešení velmi bolestné a tragické otázky v zájmu bezpečnosti a územní celistvosti československého státu stejně jako v zájmu nerušených přátelských vztahů mezi Německem a Československem a v zájmu evropského pořádku (a národnostního pořádku, dodávám já) a míru.
- února 1979 provedla potom Státní bezpečnost sérii výslechů, jejich smyslem bylo zanést do řad signatářské obce rozkol a případně vyvolat i desolidarizačni postoje vůči tomu, kdo se kryje pod pseudonymem Danubius.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8d5a45166ff667baadbfdcbc6d4a9e2b882a58f518b7799862b45350c36ec9
+size 2513

@@ -1,1 +1,3 @@
-jistý socialismus moci stát občan mít blahobyt hrozit nebezpečí smrt případ smrt přesycení
+version https://git-lfs.github.com/spec/v1
+oid sha256:b391c37d8b2f19d94092ed1136c5187f5e9adcb8916367649cac660385807a01
+size 101

@@ -1,2 +1,3 @@
-bezpečnosti' (bez identifikačních čísel a ochoty se legitimovat).
- Neprofesionalita FMV (páteční zcela zbytečná akce podobající se vyžilým totalitním manýrám nebyla jediným projevem zmatků přežívajících v hlavním stanu Bezpečnosti) je přinejmenším znepokojující.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d175bd834c20d38de9b33fc74b87975c0fbee2cf7d98da1f1028b13724e80c
+size 294

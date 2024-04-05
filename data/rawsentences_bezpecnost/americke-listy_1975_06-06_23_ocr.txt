@@ -1,3 +1,3 @@
- Státní bezpečnost zahájila prohlídky bytů.
- Bezpečnost vnikla do bytů ekonoma a člena předsednictva vysočanského sjezdu z r.
- byly po 10 let co do rychlosti, přesnosti a bezpečnosti nepřekonatelné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f73560e72782503b660dfa5956d893124dacdad94cab8c098c1dca8087e7787
+size 215

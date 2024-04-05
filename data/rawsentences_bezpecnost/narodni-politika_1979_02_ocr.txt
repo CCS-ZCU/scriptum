@@ -1,6 +1,3 @@
- Následovala moskevská jednání a smlouva z roku 1943, Košice 1945, odstoupení Podkarpatské Rusi, plíží vá sovětizace bezpečnosti, armády a sdělovacích prostředků, odmítnutí Marshallova planu: puč byl připraven, komunisté mohli více méně v klidu sklidit ovoce své politiky, jíž se Beneš nedovedl nikdy s dostatečným důrazem vzepřít.
- Konfidenti Státní bezpečnosti chtěli sami dobrovolně vypovědět, jak se stalo, že podepsali závazek ke spolupráci, a o všem, co potom následovalo.
- Tyto akce ostatně dokazují znovu to, j nač Charta 77 poukazuje od začátku; i žc totiž zákony neporušujeme my, t ale orgány státní bezpečnosti.
- ČLÁNEK 3 Každý má právo na život, svobodu a osobní bezpečnost.
- © provokace a provokatéři; osoby a technika práce, © denní řád ve vyšetřovacích věznicích, © vyšetřovací vazba; tamní ubytovací, stravovací a hygienické podmínky; délka vazby, © styk vyšctřovanců s advokáty; možnost vlastní volby obhájce a advokáti ex officio; obhajoby skutečné a formální, © vedení procesu; tajné a veřejné procesy; odvolání a obnovy řízení; žádosti o milost, ® pracovní zařazování odsouzených vězňů; druh práce, pracovní doba, hygiena a bezpečnost práce, • speciální pracoviště (jako byl tzv.
- Na první pohled bylo zřetelné, že jejich autoři se dali inspirovat „informacemi“ Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed8410a0baa1d26d2b93c739e4fb2164f9794c0bb0278ca4ac32badde43e1d1
+size 1450

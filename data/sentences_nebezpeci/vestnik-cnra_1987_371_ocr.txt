@@ -1,1 +1,3 @@
-Masaryk kritizovaný poznat rok nebezpečí vyplynout bolševický revoluce Rusko přikázat československý légie bojovat bolševikum
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5cea27eaac4d90e40ae58fc4357659673bc859cb49eca97501f1fdf1036a77b
+size 137

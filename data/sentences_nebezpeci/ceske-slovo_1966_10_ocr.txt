@@ -1,1 +1,3 @@
-domov opustit ztratit hlava hlava zachovat propadnout úděl Clemenris Horákův ostatní oběť komunistický hrôzovláda považovat emigrace národní program národní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:273b75925466765373d2b81dc87e9b55de639b165566ff8c668df98910b380ec
+size 184

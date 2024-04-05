@@ -1,1 +1,3 @@
-spojenec slabý moci zaručit vlastní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:2411f670e490c4dc8b61295da5a36ffc2703df58d19572149750081a81eff95c
+size 51

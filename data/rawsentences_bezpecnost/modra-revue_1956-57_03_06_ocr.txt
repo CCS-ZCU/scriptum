@@ -1,1 +1,3 @@
- V Asii i v Africe vznikla hezká řádka nových států, ale kde je jejich bezpečnost a pořádek v nich? Státy, jichž se zmocnili komunisté a jež na oko zachovávají demokratické formy, jsou ve skutečnosti diktaturami a to ještě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65b78c8a8365d4a4871fe33d67fdecf65cb56d5b918fec891faa5346c435172
+size 243

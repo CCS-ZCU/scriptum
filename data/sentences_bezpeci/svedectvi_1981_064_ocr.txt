@@ -1,2 +1,3 @@
-př^ít chvilka teplo něha lidský muset zničený
-ukazovat chápat hranice občan dělat disident český společnost možný obtížný vstoupit smysluplný komunikace nasazovat čin druhý ochotný soukromí bezpečí nasadit slovo
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1d3f102320505cd9f7c360614c019de00ae2cb6e0ca53bf333f7ba717fb417
+size 236

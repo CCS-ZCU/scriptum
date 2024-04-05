@@ -1,3 +1,3 @@
- _ PRICE 50c Slavnostní závazek USA v Madridu RODÍ SE NOVÉ LIDSTVO? Jan Beneš Madiidská konference o bezpečnosti a spolupráci v Evropě skončila třídenním setkáním ministrů zahraničí.
- Americký velvyslanec na madridské konferenci o bezpečnosti a spolupráci v Evropě Max Kampelman jiapříklad prohlásil: “Incident s korejským letadlem je dramatickou ilustrací toho, co jsme v Madridu dokazovali po tři roky: že Sovětský svaz se chová, jako by pro něj neplatily obecně uznávané zákony, a ne jako odpovědný člen obce národů.
- Na Madridské konferenci se jednalo o zásadních vztazích mezi lidskými právy a bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:479d4c0a33698a18a923e1f3e0bb2a1954ec2f18b633fd4f95d8d3dbcb4b50c7
+size 665

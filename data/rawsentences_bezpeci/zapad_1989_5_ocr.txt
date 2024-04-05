@@ -1,2 +1,3 @@
- Mezinárodně známý vědec Fang Lizhi — astrofyzik a obhájce lidských práv typu akade- mika Sacharova — který se na de- monstracích nepodílel, se musel nic- méně uchýlit do bezpečí na americké velvyslanectví.
- Člověk, který se ještě za života prezidentova vše- možně a při každé příležitosti snažil, vetřít do jeho blízkosti a se svými lánskými zpěváky chodil do zámku prezidentovi zpívat! Útoky vlajkařů neustávaly, naopak se stupňovaly a vzniklo akutní ne- bezpečí, že jejich příslušníci, vyzbro- jeni rýči a lopatami, některé z nejblíž- ších nocí vniknou násilím na hřbitov, rakev s prezidentovými ostatky vyko- pou a pohodí ji bůhvíkam "na smetiš- tě", jak vyhrožovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f9bb5bf4f1c19b5c7bb93ebff94b05829027062f043ab2241a704ce66432c37
+size 223

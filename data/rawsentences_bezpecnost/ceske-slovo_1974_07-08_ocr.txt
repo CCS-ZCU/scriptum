@@ -1,4 +1,3 @@
-dobrá věc se podařila!" Jenomže se vtírá otázka, kdo vlastně „poškodil dobré jméno Československa v zahraničí?" Manželé Pořízkovi, Icterí chtěli, aby jejich děti mohly vyrůstat jako věřící křesťané, bez obav, zda budou smět studovat nebo dělat to, nač mají schopnosti, a vůbec žit jako svobodní lidé? Nebo pár stupidních fanatiků od státní bezpečnosti, mající obavu, aby neutrpěla prestiž, kterou nikdy neměli a mít nebudou? gii — tím méně o filosofii — jako hlavně o jeho prakticky radikalismus.
- Toto řešení, spojení obou funkci v Husákových rukách, zaručuje, že nebudou prosazeny ani dogmatická opatřeni žíznících ultrakon- zorvatistů v komunistické straně, jejichž hlavní silou je státní bezpečnost.
- Novotný přece taky do poslední chvíle měl pocit absolutní jistoty, bezpečnosti, že se nemůže nic stát a že ho v nejhorším zachrání Moskva.
- Proč jinak by musely mít censuru, obrovské policejní aparáty a neprodyšné hranice? Proč jinak by se zuby nehty komunističtí spasitelé světa bránili tomu, aby se o jejich dogmatech veřejně diskutovalo, aby se jejich doktríny konfrontovaly s názory jiných a aby lid pod jejich správou mel možnost číst a slyšet, co si o jejich světě myslí jiní lidé? Komunistické časopisy v Sovětském svazu a ovšem i v Československu jsou v současné době zaplněny články a studiemi na námet, co vlastně sleduje Západ lim, že chce na konferenci o evropské bezpečnosti a spolupráci prosadit volnou výměnu lidi a myšlenek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca989902bc864b1dc1975c78685605417daa7e30913e645ea276275846a26ada
+size 1594

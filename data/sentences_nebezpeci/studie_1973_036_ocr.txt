@@ -1,4 +1,3 @@
-spodářský podmínka společneksý vztah věda zora námět moci zdůraznit nebezpečí opakovat ustálený klišé
-
-uvést nebezpečí vlastní existence
-stalinský ekonomismus připouštět realita odcizení socium lism vidět Jugoslávec nutnost zabývat problém odcizení socialismus upozorňovat nebezpečí prostředek politický moc pervertovat politický cíl
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f5f4a71b6e1fdc57e09f2f498724190a64a2bb6318cad24212a801a95f0216
+size 375

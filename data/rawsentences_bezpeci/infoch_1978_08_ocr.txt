@@ -1,1 +1,3 @@
- V naší zemi se úředně neříká policie, říká se bezpeč- nost • Místo pocitu bezpečí ve mně bezpečnost státní i veřejná budí trva- lou a stále se zesilující úzkost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2236909dcef261e14e5738171b82b21d7716311c48034828d4eaed4bb28bc76
+size 187

@@ -1,2 +1,3 @@
- {Tedy postava z Temna : brr !) A zpívá se dobře : Bože chválíme Tebe ! Pane, moc Tvou velebíme, kterouž zná zem i nebe : vznešené Tvé jméno ctíme — • když se vše v světě mění, Ty sám jsi bez prom ěny! Prostřed závrati, která nás chytá v kolotání strukturních změn a útěkú, přesunů a převratů ponořují nás slova ta v Hlubinu bezpečnosti.
- Při pohřbu byli 4 Členové státní tajné bezpečnosti a jeden ze starých posledních knězi benediktinského kláštera.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a64a7f02c54df76a25e3ce105086a3a77c60d2fca78a1a3f95b98850db75c24
+size 512

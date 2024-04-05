@@ -1,1 +1,3 @@
-Gaulle Nash ujistit svět osobní setkání Chruščov berlínský nebezpečí zažehnaný Chruščov obr tem přesvědčit znát
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dcd46f53ef36ce6c7559a813bfc5965994ce77131c4a4344e2cc08c1e835ca1
+size 128

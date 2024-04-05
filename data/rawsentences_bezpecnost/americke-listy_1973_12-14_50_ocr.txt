@@ -1,2 +1,3 @@
- Rozpalujícím tématem byla otázka, zda americko-sovítské detente podminovává, či nikoli bezpečnost Západní Evropy.
- a že by se tedy Západní Evropa měla postarat o vlastni kolektivní bezpečnost, o Nové politické fiasko utrpěla Moskva, když největší italská odborová organizace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e9ec8ef7cf01fcb85267382f9343fd3d4297bfd4818542c39b930f1fb9ee9e8
+size 304

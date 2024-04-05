@@ -1,2 +1,3 @@
- Aktivizační programy, knihovna, • Otevřenost vůči veřejnosti, bezpečnost multifunkční sál a soukromí pro klienty .
- Věci, co se běžně zvlášť necítí, ale v nouzi a citové krizi se stanou důležitými pro vytvoření klidu a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:023d0a274651ba0354694b706fe0ad093e11cbd437809031bb70d223b8959cec
+size 262

@@ -1,1 +1,3 @@
-měsíc navštívit kanadský kolega kongres přítomný říci důležitý věc četba různý esej inspirovat lepší pochopení poměry vlastní země pochopení určitý nebezpečí hrozit cesta nabízet spoluobčan odvrácení nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f057dbc342851417768bd71623a656cef07996668e440ffc2b3455c2b525bd07
+size 244

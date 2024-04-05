@@ -1,10 +1,3 @@
- Možnosti překročit daný stav však zdaleka nejsou tak nepříznivé, jak by se mohlo zdát Konference o bezpečnosti a spolupráci v Evropě, její Závěrečný akt z Helsink, následná jednání v jejím rámci Či Výsledný akt z Madridu nejsou jen stvrzením statusu quo, ale programem evropské a evropsko- 3  americké spolupráce.
-: «1 když nevím, zda v Řecku byla zřízena vskutku reprezentativní vláda, zda belgická vláda je opravdu svobodná, nevměšovala se sovětská vláda do utváření těchto vlád, protože je si plně vědoma významu, jaký mají Řecko a Belgie pro bezpečnost Velké Británie»13.
- Velení fronty dodalo výzbroj jak pro stráž bezpečnosti.
- Bezpečnost se tedy dopustila nezákonného porušení domovni svobody.
- Pane prezidente! Mluvčí Charty 77 i mnoho občanů už po léta upozorňuje na tyto a obdobné praktiky Státní bezpečnosti.
- Po válce se prý tyto dokumenty «octly v držení naší státní bezpečnosti», tvrdil to prý (kdy? komu? proč?) jeden z jejích pra- covníků, podivná postava, jménem Pokorný41.
- Celý život je spoután dozorem, uvězněn v ídeci cenzury Moci a Státní bezpečnosti.
- Nebezpečné rojení Státní bezpečnosti, nebezpečné okol- nosti, nebezpečné časy.
- Ještě dohráváme hru o bezohlednosti a zrůdnosti boje o moc, trůny a koruny, ale už bychom neměli z důvodů bezpečnosti, především vlastní, hrát s příliš odkrytým hledím.
- První otázka Státní bezpečnosti zní «Kdo to napsal?» («0, Skotsko, Skotsko!») * * «Pánové, jak vidím, jste mladí, mělo by vás zajímat, že když za nacistické okupace našli u mého strýce zbraně, sťali mu v Breslau hlavu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b531371065b65415d430653dbbcf2d2aa3ce74ec64b59820e8c847515bf7e25
+size 1714

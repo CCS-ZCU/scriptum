@@ -1,1 +1,3 @@
-cheb ská pohraniční brigáda MNB,útvar SNB Jeřáb a národní podnik Polana,0patová Č MINISTERSTVO NÁRODNÍ BEZPEČNOSTI UVE- řejn ilo zvláštní vyhlášku,v níž se sp ecifisu jí všechny informace, jež je nutno pokládat za státní tajemstvím  HLAS DOMOVA - 7 ~ Se Seifertem znovu publikují Jan Čárek* a Prantišek Hrubín/viz HD 7 /III, str.
+version https://git-lfs.github.com/spec/v1
+oid sha256:271681263da9890be1ae38607aed03244c70c5af074d18fe49fe1e11d0befe25
+size 364

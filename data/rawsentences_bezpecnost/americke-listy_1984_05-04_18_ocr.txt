@@ -1,2 +1,3 @@
- Tato skupina, patřící k takzvané “nové levici”, pořádala podobné semináře pod hlavičkou “svobodné univerzity” už po léta a Bezpečnost o nich věděla, aniž by zasáhla.
- Po jedenácti hodinách, během kterých jej Bezpečnost vyslýchala o první, osmadva- cetičlenné skupině, byl v úterý také propuštěn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f212928f50724c7a7d83d3cef9ef34f9ddb223013ca6e7351cb7225461c9624
+size 339

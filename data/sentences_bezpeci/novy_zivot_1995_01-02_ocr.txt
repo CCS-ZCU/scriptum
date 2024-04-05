@@ -1,1 +1,3 @@
-ohled zvláštní pouto vázat dítě pře dlouhý první léta život matka dávat pocit jistota bezpečí těžký roz víjet vlastní osobní identita navázat pozitivní vztah druhý
+version https://git-lfs.github.com/spec/v1
+oid sha256:18749248c0faeae736b4f1aac971ea6119263317f7d1e88b8f6e4be3f87471e5
+size 173

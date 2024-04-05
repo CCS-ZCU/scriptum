@@ -1,8 +1,3 @@
- Výsady propůjčené listinou "Habeas Corpus" smějí být zrušeny jen kdyby to vyžadovala veřejná bezpečnost v případě povstání nebo nepřátelského vpádu.
- DODATEK II Dobře organizovaná milice je nezbytná v zájmu bezpečnosti svobodného státu; právo lidu držet a nosit zbraně nesmí být proto omezováno .
- DODATEK IV Právo národa na ochranu svobody osobní a domovní, písemností a majetku nesmí být porušováno neoprávněnými prohlídkami; nesmí být vydán rovněž žádný příkaz, který by se neopíral o zdůvodněná zjištění, doložená přísahou nebo jiným způsobem potvrzení, a který by neobsahoval přesné určení místa, které má být prohledáno, přesný popis osob, které mají být vzaty do vazby a věcí, jež mají být zabaveny v DODATEK V každého občanat který se má odpovídat z hrdelního zločinu nebo jiného těžkého zločinu, musí být pod'na řádná žaloba ze strany Velké poroty - výjimkou mohou tu být případy občanů sloužící v činné službě v pozemních nebo námořních ozbrojených silách nebo v milici, a to v době války nebo vážného ohrožení veřejné bezpečnosti; nikdo nesmí být dvakrát trestán ohrožením života nebo na zdra ví pro týž poklesek; nikdo nesmí být nucen svědčit sám proti so- oě: nikdo nesmí být zbaven živote, svobody nebo majetku bez řádného soudního procesu; soukromý majetek může být vyvlastněn jen ve náhraduc DODATEK VI.
- Zahrnují statuty svobody projevu, tisku a vyznání; právo občanů na pokojné shromažďování, právo bezpečnosti ve.
- i ' Ministerstvo obrany nese zodpovědnost za národní bezpečnost.
- Dohlíží rovněž na federální zákony týkající se lovu a rybolovu, kontroluje bezpečnost dolů a je zodpovědné za blaho indiánských kmenů.
- Ministerstvo práce se zabývá pracovními podmínkami, bezpečností na pracovišti a sociální úrovní pracujících v nezemědělských odvětvích.
- Hlava státu se ovšem radí i se členy Rady pro národní bezpečnost, kterou tvoří zástupci vládních úřadů zabývajících se zahraničními vztahy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4ccd483c6ca6f6550baa73d9887fd80c4dced48af9531760752e342c99255d8
+size 2159

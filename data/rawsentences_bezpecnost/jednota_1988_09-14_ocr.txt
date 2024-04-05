@@ -1,1 +1,3 @@
- Podľa rotmajstra Daneka nenposlúchla výzvy pracovníka národného výboru a verejnej bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7304473172189eb8206dd99fa019c01654bf4b545989c63d093d7c7fb37cf94b
+size 104

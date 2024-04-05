@@ -1,5 +1,3 @@
-režim příklad vystavovat nebezpečí kopírovat sovětský vzor uvolňování otevírat nový pole chtít zavádět demokratičnost
-srdnatost podstupovat nebezpečí životní nezdar
-lid pravda žít žít Neruda Sládek Bezruč vyhnout nebezpečí ztratit vážnost lid chtít snést podkuřovat lid podplácet umět vážit poctivý práce
-najatý farář opustit ovce čas nebezpečí
-známý dvacátý sjezd podrobený kritika postoj soudruh Stalin otázka nebezpečí agrese Německo rok
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d4bcc2c3760052ea7f18993b31f6194efaf195cc13fb37fc26202fc3a4699b8
+size 489

@@ -1,1 +1,3 @@
- byl iJ i«jjüib V bezpečí přeatřelová; i ve \ í r .
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ddad2325ae02c81110f8ef9aa6e8c4af261d5ded964072f04549808bad38d84
+size 60

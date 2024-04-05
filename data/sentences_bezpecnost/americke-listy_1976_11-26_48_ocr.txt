@@ -1,1 +1,3 @@
-bezpečnost světový spolupráhyblivý zvyšování mzda plat
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd6fbc88008c20f193c3d65191ca1863c7bf855fd70cd58d078ef4e06348d6cf
+size 63

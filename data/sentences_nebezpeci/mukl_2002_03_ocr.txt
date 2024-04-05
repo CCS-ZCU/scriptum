@@ -1,1 +1,3 @@
-nebezpečí cizí vojsko dovolovat ošetření náročný technika letecký zařízení letiště hrozit nebezpečí velký škoda projít lhůta udržovací práce
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3a70eab97797cbc45fbb5108909d3cee26c5a0a6d9fcde7582071271e795a57
+size 165

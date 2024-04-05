@@ -1,4 +1,3 @@
- Jeho spolupráce s nezávislou kulturou mu vynesla zvýšený zájem Státní bezpečnosti.
- Výklad různých, často vzájemně si protiřečících nařízení a vyhlášek je většinou zcela podřízen libovůli příslušných církevních tajemníků, kteří jsou ve všech případech navíc přímými spolupracovníky Státní bezpečnosti.
- V pravém slova smyslu to byla pravda, ale Státní bezpečnosti to na delší dobu ztížilo zjišťování, o koho jde.
- Zákazy, vyslovené jednou i při domovní prohlídce důstojníky Státní bezpečnosti, na čas neplatí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:423f1c4b02aa7c8d8abd2220543843cd950bfb6c005b05821b7188e0cb827000
+size 585

@@ -1,2 +1,3 @@
- Při vzpomínce na onu vztyčenou hlavu, která dětství nás, pomalu stárnoucích, naplňovala pocitem hlubší bezpečnosti a jistoty, než je bezpečnost a jistota měřitelná dočasností: rozhrabme popel a strusku ve svých srdcích, ať vysoko zaplane oheň Prométheův pro budoucnost.
- Orgánům veřejné bezpečnosti se podařilo zjistit matku novorozeněte, které nedávno našli v Michalovcích na smetišti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83854732f59d60cf4490a401de7feb2858cc6558a4be412093386257a3bc23c5
+size 426

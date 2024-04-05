@@ -1,1 +1,3 @@
- PLATf JEN V NĚMECKU KAŽDÝ HLEDÁ JISTOTU A BEZPEČÍ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d10a61ca90e82d4acf37137c00619d090d6ebb7b787020010404883578299c6f
+size 58

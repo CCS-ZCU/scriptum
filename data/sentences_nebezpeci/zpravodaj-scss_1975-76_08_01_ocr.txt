@@ -1,2 +1,3 @@
-představovat nebezpečí další radikalizace
-práce úkolový lhostejnost ledabylost vystavovat nebezpečí zaměstnavatel kvalifikovat počínání vážný narušení pracovní smlouva propust okamžitý platnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:79d22a3e6ca3de167e1d6c6c9c8351d1405ab30e6d2d4c4ccce09029b38aa4ac
+size 217

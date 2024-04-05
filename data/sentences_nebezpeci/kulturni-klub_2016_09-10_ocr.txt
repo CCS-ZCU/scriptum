@@ -1,3 +1,3 @@
-Miloš Zeman dvacetiminutový projev mluvit nebezpečí terorismus
-zůstat slib příloha histórium magistr Ferdinandův království hrozit turecký nebezpečí
-důležitý lidé vidět strašlivý nebezpečí hrozit celý kontinent hledat zabránit nebezpečí vážený pan Žaloudka mít strkat hlava písko zacpávat oko událost poslední den měsíc nebezpečí signalizovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bdc478dbe1ae98a926ba21bd6690733f9cfdb42d3a0ca12eb64a549adcad1bb
+size 383

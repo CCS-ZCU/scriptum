@@ -1,3 +1,3 @@
- byl již sto yardů daleko a za chvíli v bezpečí, na živější ulici.
- “Pavel je v bezpečí v našem basementu,” odvětil překvapený pan Veselák své sestře.
- Abyste o jeho bezpečí byli ujištěni, zde vizte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ebf6525b8b6f1233662853a0151cf1c5e9fec9e0a155d52b0f4d7177ba7304
+size 226

@@ -1,1 +1,3 @@
-uskutečnit uskutečňovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:d755e3f9f0e75ad504e44fafde1330f0240488e47b755f61292b625306d0a152
+size 27

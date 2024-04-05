@@ -1,2 +1,3 @@
- a když byli m nim v bezpečnosti hodili mu proxaz na krk a přinutili ho, podepsati poukázku na 8U00 dol.
- Když se to sta », řekli mu chladnokrevné že k vůli své vlast ní bezpečnosti musejí ho zabiti, a vše cky prosby jeho byly mamy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a8adf5c01efc6c74e81ee4f86ddd05474d2547306542e7bb9eafd594451842
+size 248

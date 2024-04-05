@@ -1,1 +1,3 @@
-doba odvěkat prosba národ svátý Václav dát zahynout budoucí připomínat duchovní nebezpečí příští generace ohrožený stránka náboženský mravní
+version https://git-lfs.github.com/spec/v1
+oid sha256:147898a539c8b6bc712031a13d42296ce22c0c6033af4f4988f6ce84fdda2158
+size 164

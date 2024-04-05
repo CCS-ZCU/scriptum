@@ -1,1 +1,3 @@
-současný čJovo moci křestaný jít ^ého bezpečí Pohenn kísto obrsnný boj jasný vedení víra moci zničit čas gramový kooperace prospěch
+version https://git-lfs.github.com/spec/v1
+oid sha256:93906ad5faa1e47f6d2cc13bbf350509043c68c54601cfc9f3a40aa2675fdf80
+size 153

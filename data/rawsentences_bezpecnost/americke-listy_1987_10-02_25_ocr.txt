@@ -1,7 +1,3 @@
- Masaryka kytici s černou stuhou a s nápisem "Nezapomeneme — Charta 77" Na lánském hřbitově bylo přítomno asi 10 příslušníků státní bezpečnosti v civilu, kteří však průběh slavnosti nerušili.
- Zahraniční tiskové kanceláře rovněž zaznamenaly rozsudky nad příslušníky státní bezpečnosti, kteří dne 18.
- září veCer přišli do bytu příslušníci Státní bezpečnosti a vandalsky zničili některé obrazy, plakáty, další exponáty a elektrické osvětlení.
- NA PROGRAMU OPĚT JAZZOVÁ SEKCE Obdrželi jsme zprávu z domova, ze které isme se dověděli, že Pražská bezpečnost zadržela člena výboru Jazzové sekce Čestmíra Hufiáta, kterého vyslýchala.
- Bezpečnost se při výsleších zajímala hlavně o to, proč toto prohlášení bylo vydáno, za jakým účelem, a kdo na něm konkrétně pracoval jako autor a zvláště, kdo jej předal Svobodné Evropě k vysílání a kdo Svobodné Evropě předává ostatní zprávy.
- I v "nižší střední kategorii" by pak mohl být běžnou věcí třeba antiblokovací brzdový systém, protože je to zdokonalení s enormním významem pro bezpečnost jízdy.
- Příčinou tohoto neblahého stavu je podle čínského mini- stertva veřejné bezpečnosti rychle vzrůstající počet automobilistů, neznalost pravidel dopravního provozu a nedůsledný postih lidí, kteří se proti němu prohřesujiYMnozí lidé nemají prostě vůbec představu o bezpečnosti dopravyjezdí, aniž by měli řidičský průkaz nebo si sedají za volant v podnapilém stavu" cituje list mluvčího zmíněhého ministerstva.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b950753e0eebd8764ff3f3983c43b2b9d5ee245266a816f04500fd8ca40c78b
+size 1623

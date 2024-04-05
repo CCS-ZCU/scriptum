@@ -1,1 +1,3 @@
- cí- Ipei zocpovecní ar bezpečí, čistotu c 31u;;nr choř/ xí v xxxxx.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f12965812aa4af4153b85c17186c47f33a697601ab8d436321685747652e8795
+size 74

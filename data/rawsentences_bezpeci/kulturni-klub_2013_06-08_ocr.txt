@@ -1,1 +1,3 @@
-) Česká národní rada zaváděla pořádek, kolony popelených civilů vodili naši vojáci kamsi, kde je prý čekalo bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58407ffd727ac2c212932fdce7bf6fe07b71dc7f56821d3977f59f826a2cf0e3
+size 133

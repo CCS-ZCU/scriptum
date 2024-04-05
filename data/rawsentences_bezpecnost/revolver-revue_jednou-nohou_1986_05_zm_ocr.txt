@@ -1,1 +1,3 @@
- Snad aby všem bylo jasné, že pocit jakéhosi "oteplení" ve vztaftu nc- zi mocenským aparátem a veřejností je pouhou chimérou, rozpoutala /a zdá se, že i pečlivě připravila/ Státní bezpečnost další akci, namířenou proti celé československé kultuře.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9670d97ade94eaa6e8c59619cf3316365fbafea098bdb4cf54ddf6f45c48e8
+size 274

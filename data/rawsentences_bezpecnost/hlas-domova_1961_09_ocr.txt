@@ -1,2 +1,3 @@
-" V projevu k americ- kým novinářům šel pak Kennedy ještě o krok dál, když řekl: "Kdyby se jednou zdálo, že se stává meziamerická dok- trína o nevměšování je- nom zástěrkou politické nečinnosti, a kdyby náro- dy této části zeměkoule neplnily své povinnosti proti komunistickému pronikání, pro takovv případ chci říci, aby to bylo každému jasné, že tato vláda nebude váhat splnit svůj nejpředněji! závazek, jímž jé zajiště- ní bezpečnosti vlastního národa .
- Indonéský ministr národní bezpečnosti gena- rál Nasution navštívil Austrálii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64354d7d4342c494c82ded2b428e33d5deed8bf1d1918c981c08fc78c8a89f93
+size 601

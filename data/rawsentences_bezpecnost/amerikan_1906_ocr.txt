@@ -1,3 +1,3 @@
- Podivno, že v tak andělském těle může sídliti duch tak ďábelský! Není to proti přírodě? — Avšak nikoli! Což neviděl jsem dost: často, že právě v kalichu nejkrásnější květiny zahnízdí se nejhnusnější a nej- ohyzdnější červ?” filozofoval pro sebe Ostrý, pohlížeje na blondýnku, která nyní ujala se slova: “Promyslila jsem celou věc důkladně a ustanovila se na plánu který, když jej provedeme, pojistí nám vše to, co považujeme za ztracené, totiž: peníze, dívku i bezpečnost!” “Sláva spanilé naší Kláře!” zvolal Ostrý.
- Nebylo tu žebráků, ani lenošivých pobudů, nebylo tu šibalů, ani zlodějů a vzájemná důvěra a všeobecná bezpečnost byly takové, že nikdo ne- zamykai dveře v domě ani v noci, ani když celá rodina šla na pole.
- “Oho! Tak daleko spolu ještě nejme! Kde se jedná o naši bezpečnost, tam máme také my do toho eo mluvit!” prudce opřel se Ostrý.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f1f30b8f43e7c9473b113020a82ae017f6886afac4b78e33c53291bfbedde8
+size 965

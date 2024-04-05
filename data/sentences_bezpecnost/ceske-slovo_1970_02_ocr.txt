@@ -1,4 +1,3 @@
-vědět rada podstatný jméno sloveso přísudek přívlastek mluvnický zákruta věta psát scinda říkat ruka noha bezpečnost akce KSČ rozklad
-bezpečnost běžný název politický policie lednový akce znepokojit veřejnost
-leden bezpečnost zorganizovat razzie vice1
-komentář moci krátký bezpečnost republika vracet klíčový úloha mít léta
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd27dd006ded9ae578c5a79e364aa74837a0a2b70da2c0bc5147a8542e3c924
+size 360

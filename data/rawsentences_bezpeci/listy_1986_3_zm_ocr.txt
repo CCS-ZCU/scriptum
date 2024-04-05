@@ -1,6 +1,3 @@
- Mosek pochopil úlevné bezpečí rozkazů.
- Dojemně a vytrvale na nich viseli, aby se jim nerozdrobil poslední zbytek jejich malo- mocného bezpečí.
- Je sou- částí bezpečí, ne-li idyly, venkovský život bez prasete už ani není venkovský život Chlívek se každé jaro bílí a také prase je polidštěné, slyší na jméno a projevuje radost nad příchodem svých budoucích poživatelů, kteří mu přinášejí zbytky oběda, který požili, aby je požil, než ho požijí.
- Takový milý dětský pocit bezpečí u prasečího koutku a připravil mě o něj varhanní koncert, který jsem si vymyslel v první větě tohoto dopisu, vymyslel, ačkoli na druhé straně, jak se říká, já ten koncert opravdu v sobě slyšel.
- Kdykoli je spouta- ná ona složka paralelismu, kterou lze spoutat, je spisovatel — pokud nepřestane publikovat—v ne- bezpečí, že namísto dorozumění bude svým dílem šířit po světě nedorozumění.
- Divákům, kteří tomu přihlížejí zvenčí, z křesel a lóží tak zvaného svobodného světa, může ta hra připadat zajímavá a dokonce přitažlivá; mohou si na ní v bezpečí svého diváctví odreagovat svoje lásky i záští.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e0c1726856379d455525e367794ca158c6301df4511c3cfc79d5a4ffd092c0
+size 991

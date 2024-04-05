@@ -1,1 +1,3 @@
-kněz služba mít lehký farnost naplněný okra> smutek hřích drát srdce kněz pocit marnost konaný práce farnost povrch klidný kněz hrozit nebezpečí dobrý bydlo zpohodlnění zvápenatění kniha říkat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffbca0a7716243f6ede94f141ef6b8f4f5c2be6c2f1b2f96041aceb52b149e64
+size 217

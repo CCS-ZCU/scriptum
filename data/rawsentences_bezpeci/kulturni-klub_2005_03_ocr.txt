@@ -1,1 +1,3 @@
- 26  Potěší vás, když vám novináři skočí na vaše mystifikace? Třeba že jste v dětství spadl ze sáněk na hlavičku, že pocházíte ze Švédska nebo že jste žil v Mexiku? Že jste se vyučil kvasným chemikem? A víte, že to, že jsem spadl ze sáněk na hlavičku, je náhodou pravda? Já to dělám asi proto, že mám pak větší pocit bezpečí, když se tak úplně neví, co je pravda a co ne.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d4e15914b7fc94027dcac2a6e4259dab0c8542a1d210b130f03c9d2136f1f3e
+size 116

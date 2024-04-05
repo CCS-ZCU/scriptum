@@ -1,3 +1,3 @@
-další voják ležet chirurgický oddělení teplický nemocnice nebezpečí život
-uvědomit nebezpečí moci skrývat pojem
-řečený Popper nutný vyvarovat nebezpečí zkreslující historicismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:b600cb8ca144d427c8a833059652b81728f2aa9cf6cb54b529b0d6292849655d
+size 201

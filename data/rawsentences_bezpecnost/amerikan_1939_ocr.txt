@@ -1,4 +1,3 @@
- Dnes je vilděti, že svoboda a samostatnost nepřinesly naší staré vlasti to, čeho by jí bylo nejvíce k zachování národa zapotřebí — bezpečnost.
- V tom úkrytu tam byla by slečna Simpsonová ztracena, kdežto zde ručím za její bezpečnost.
- “Můj drahý, proč mě neustále opouštíš? Nezáleží ti ani trochu na mé bezpečnosti?” “Myriam, právě proto, že mně velmi na ní záleží, musím učiniti vše, abych tě ochránil.
- Ale ručíte mi za bezpečnost Myriam?” “Ručím svým životem, Mr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ad23d4835e4026c9600ad1fad78939517cbf16be0d3e8b0ca9bee9fc059ffe
+size 536

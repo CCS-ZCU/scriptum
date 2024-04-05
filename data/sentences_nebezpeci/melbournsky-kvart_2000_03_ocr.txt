@@ -1,1 +1,3 @@
-přečtení vidět spisovatel představovat velikán dvacátý století rozdíl jiný vidět nebezpečí totalitarismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f186fea5b5255c6aa275ce2f647730a5c92372c8e091b4fe454f82217c505cf
+size 120

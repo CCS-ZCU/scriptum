@@ -1,2 +1,3 @@
- ; Mně zavolali příští den na Veřejnou bezpečnost, i kde jsem po krátvém naléhání podepsal, že -jsem pranic neslyšel, a pokud jsem něco zaslechl, že jsem se ,.
- státní bezpečnosti (Bittman.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec662161cd64587ff53613fe5e7ddf0931736a6dd1be727492c8fa9c5bc9810
+size 209

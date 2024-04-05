@@ -1,1 +1,3 @@
-moci zajistit vnitřní zahraniční bezpečnost vzniklý stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:06ada1c84556686d85e4ba2fcaae39efaffd5afa0e9da68fbfac0b5e59640716
+size 64

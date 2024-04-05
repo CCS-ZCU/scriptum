@@ -1,1 +1,3 @@
- Bál jsi se stínů — vzpomínek na lidi, které jsi uštval, vykopl a zničil? Měl jsi opravdu strach už tehdy, když jsi mi řekl, že v politice není přátelství? Koho jsi tenkrát měl na mysli? Ty, kteří ti stáli v cestě za kariérou? Nebo už sis představoval, jak jednou budeš stát sám a sám, a nebudeš vědět, jestli sekyra padne zpra- va nebo zleiva? Řekl jsi si: čím víc moci, tím větší bezpečí? Bylo to proto, že jsi hromadil víc a víc moci ve svých rukách, že jsi se opev- ňoval ve své pozici — někdy nepoctivě? Za sta- rých časů jsi byl silný, zdravý — a šťastný.
+version https://git-lfs.github.com/spec/v1
+oid sha256:754cc2990c2dfbd33299fb4fb893d4c498db35386e229170fcf9cbbc0fcf18c9
+size 246

@@ -1,1 +1,3 @@
-psát opuštěný vesnice hora spolubratř muset bdít modlit
+version https://git-lfs.github.com/spec/v1
+oid sha256:05c8a7ab677b997ba303ec8ee11d7c2d46affc1a5ae913eee06dd4103c63b06b
+size 56

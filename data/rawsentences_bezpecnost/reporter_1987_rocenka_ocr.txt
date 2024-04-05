@@ -1,1 +1,3 @@
-1970 z popudu Spojených států a Velké Británie, Rada bezpečnosti toliko vypotila rezoluci o třech větách, žeteda unášet by se nemělo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc573cc7506055e723453cacce87c08335d2d8c38d62e539128f21c760623273
+size 147

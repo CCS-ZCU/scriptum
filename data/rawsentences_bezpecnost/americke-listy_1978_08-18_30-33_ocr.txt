@@ -1,13 +1,3 @@
- SRPNA 1978 Před desátým výročím okupací Československa projevila vlídní moc zvýšenou nervozitu, státní bezpečnost zvýšenou aktivitu a propaganda '.
- Naopak — všeobecně existovaly obavy před možnými provokacemi ze strany státní bezpečnost i, která, by pak mohla i nějakého drobného a také i uměle vyvolaného incidentu využít k drastickým zásahům proti občanskému hnutí za.
- Celkově však Obživit v projev naznačoval to, co se o ministru Obzinovi často soudí — že patli k těm, kteří by problémy s kritiky režimu rádi řešili vskutku jen politickými prostředky, že tyto problémy nedramatizuje a že spíše brzdí některé horké hlavy v bezpečnosti.
- Velmi příznačné je, že, Obzina nakonec zdůraznil — a to velmi intenzivně, že hlavním, prvořadým a nej- důležitéjšim úkolem všech složek bezpečnosti — včetně státní — je ochrana e- konomiky — a to všemi prostředky.
- Při tom všem se snažil ještě vědecky pracovat — a samozřejmě byl ve středu zájmu státní bezpečnosti.
- Ministr pak ještě prozradil, že kolem roku 1995 budí mil asi litrpracovníku bezpečnosti úplné vysokoškolské vzdělání.
- Vyslovila obavy, že rozhodnutí amerického senátu nepříznivě ovlivní vývoj na Kypru a že ohrozí mír a bezpečnost v celém jihovýchodním Středomoří.
- Z osobních zážitků poslední doby vylíčil Šabata, jak byl vyslýchán v době Brežně- vovy poslední návštěvy Československa, a jak mu major státní bezpečnosti nabízel, že vzdá-li se funkce mluvčího Charty 77, bude moci syn studovat.
- Kromě nepříjemného podnebí mnoho starších lidí odchází z Clevelandu i do zemí jejich původů též ze strachu o osobní bezpečnost a následku onemocnění, totiž nákladu spojených s lékařskou péčí zejména v nemocnicích jakož i drahotou pobytu v t.
- Jeho protiprávnost pinč potvrdil i Závěrečný akt konference o bezpečnosti a spolupráci v Evropě, podepsaný v Helsinkách 1.
- území ČSSR výslovné “za účelem zajištění bezpečnosti zemi socialistického společenství před sílicími revanšistickými snahami západoněmeckých militarist ic- kých sil” — viz článek 1.
- 1970), analogickou smlouvou mezi Polskou lidovou republikou a NSR (1970), smlouvou, upravující vztah obou německých států (1972) a smlouvou o vzájemných vztazích mezi ČSSR a NSR (1973), spolu s podpisem SSSR na čtyřmocenské dohodě o Berlině a zejména účasti všech států Varšavské smlouvy i NSR na konferenci o spolupráci a bezpečnosti v Evropě.
- SRPNA 1973 A’ Bonnu se konalo mezinárodní shromáždění, forum vědeckých expertu z 35ti zemí, které se zúčastnily Helsinské konference o bezpečnosti a spolupráci v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:457bc9dfcf4103bb133086cf95258b01d47d179eabb38b4d0100c7de6a055e39
+size 2815

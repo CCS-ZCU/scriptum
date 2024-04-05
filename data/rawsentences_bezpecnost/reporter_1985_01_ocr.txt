@@ -1,5 +1,3 @@
- evropská bezpečnost; 2.
- Zno- velizovali zákon z roku 1958, doby kukuřičného skorolidumila Nikitky, definice velezrady se teď natolik rozkošatila, že se do ní vejde veškerá činnost »ohrožující bezpečnost státu«.
- A tato bezpečnost, její ponětí, kriteria, zůstávají pro jistotu nedefinována.
- Většině žadatelů zastupitelský úřad USA v Praze vyhověl, jenže obdaření se většinou již neozvali, byť pod tlakem špatného svědomí, nejistot, zcela jistým tlakem uličního výboru, Státní bezpečnosti či jiné lidové složky.
- Šéfem vojenské bezpečnosti je Vozněsen- ský, zkušený enkávédista, jehož zástupcem je také příslušník této zločinecké organizace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28121e7e35d03b50a2d8631ad31c84b8969e5ede6889ac44526dc0c93c42622f
+size 722

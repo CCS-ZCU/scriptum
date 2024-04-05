@@ -1,2 +1,3 @@
- Byla to především neochota ministra vnitra, Václava Noska, podrobit se většinovému vládnímu rozhodnutí ve věci přemístění nekomunistických důstojníků Sboru národní bezpečnosti v Praze.
- Po šestiletém neúspěšném pobytu v západním Německu odvolala Státní bezpečnost zpět do Prahy svého zaměstnance, filmového scénáristu Pavla Juráčka, Nyní se očekává jeho estrádní vystoupení v Čs, rozhlase a na obrazovce Čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc99cc4d0d5b9503037586feb36f0052558962b0434f71ef8a080ef02e79ad0
+size 460

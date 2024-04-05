@@ -1,3 +1,3 @@
- Obrněné automobily, nepros třelitelná skla, místo pro body guards, speciální vymoženosti, bezpečnost i marnivost na objednávku, to je drahý špás a mívají na něj buď mocní státníci, nebo mocní gangsteři.
- Kdeže ty loňské sněhy jsou, kdy na pokyn sovětského ambasádní- ka přišly davy lidí! Woensdrechští páni radní vydali sice neslanou-nemastnou notu, ale vláda /konečně!/ jasně a nekompromisně řekla, že "národní bezpečnost je věcí nejvyšších vládních složek".
- Návštěva představitele města a Veřejné bezpečností v rodině Gajewských však fakta potvrdila.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7edf3af2d37a3a84d08af857c3d9aed9957e89faeef36226fa6c4948509a54
+size 622

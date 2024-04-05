@@ -1,2 +1,3 @@
- Zatýkání pokračuje Zpráva z Vídně oznamuje, že československá státní bezpečnost zatkla signatáře Charty 77 — 32 letého dělníka Zdeňka Rošťáka z Vrchlabí u Liberce, otce třech dětí.
- V článku se opět vylíčila zvýšená aktivita bezpečnostních složek, které měly zjevně demonstrovat svou zmnoženou přítomnost, doporučení, která státní bezpečnost skoro v podobě rozkazu sdělila různým kritikům režimu: aby se ve výročních dnech zdržovali spíš mimo Prahu; a opatření, jimiž je lidem — vypínáním telefonů a střežením bytů — znemožňována jakákoli, i normální lidská komunikace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b3f2d0ea3b17e293f9ff7a67152e809bc41d41fb252f3a13fbc2c0628685cf
+size 656

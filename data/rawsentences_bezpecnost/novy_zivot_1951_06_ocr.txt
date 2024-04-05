@@ -1,1 +1,3 @@
- Těmi záležitostmi nemůže být nic jiného než péče o dobro občanů, o jejich bezpečnost, ochranu, výživu, vzdělání, atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ab0e45ba1caf588cb95a500b3ac740c5babb9286a97efd27f0c2a17399ac6f2
+size 137

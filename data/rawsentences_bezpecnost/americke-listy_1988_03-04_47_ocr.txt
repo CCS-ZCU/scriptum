@@ -1,1 +1,3 @@
- otázky Radou bezpečnosti OSN - v souvislosti s Masarykovou smrtí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64359e0db18dd3b5f3d5650e1c3d4f891883d971f61b8dbf3c55c73afeaa81a0
+size 70

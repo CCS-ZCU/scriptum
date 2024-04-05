@@ -1,5 +1,3 @@
- Jako příklad může sloužit rozhodnutí, vyplatit všem propuštěným státním zaměstnancům, ať již z bezpečnosti či z přebujelého aparátu strany, roční mzdu.
- Nová tajná služba Po rozpuštění Státní bezpečnosti byla v ČSSR vytvořena nová podobná služba, jejímiž hlavními úkoly bude boj proti terorismu a obrana proti špionáži, zejména v hospodářském sektoru.
- Se svým kolegou se shodl v názoru, že americká vojenská přítomnost v Evropě je zárukou její stability a bezpečnosti.
- světovou válku, potvrdila existenci sjednoceného demokratického Německa a vytvořila nový systém evropské bezpečnosti bez obou vojenských bloků.
- Oba jsou ostatně o málo později rozemleti touž státní bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f2f36207a4e28d16d755c021a665f65178bb3cebc707dde7d0ba572b979632
+size 763

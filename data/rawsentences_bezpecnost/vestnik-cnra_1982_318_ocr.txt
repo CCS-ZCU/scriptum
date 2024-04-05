@@ -1,1 +1,3 @@
-’’(Leden, 1982) 2 - Věstník Konference v Madridu Před odročením konference o evropské spolupráci a bezpečnosti v Madridu, americký vedoucí delegace, velvyslanec Max M.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94bcca73365797c9ae70a927162a554a290bc341ca92a000b9d54606f96a13b
+size 182

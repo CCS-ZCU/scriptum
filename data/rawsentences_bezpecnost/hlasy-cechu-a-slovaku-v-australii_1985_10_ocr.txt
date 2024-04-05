@@ -1,2 +1,3 @@
- To je nezdravé šetření ohrožující bezpečnost národa a černý nevděk vůči těm, kteří se zbraní v ruce hájili jeho svobobu.
- 0 evropské obraně Celá evropská politika za posledních 25 let byla založena na základním omylu, a to, že jsme spoléhali na americkou ochranu, které vděčíme sice za to, že jsme měli možnost hospodářsky se rozvinout, ale současně jsme zakrněli, pokud se naší bezpečnosti týče.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e677aa4738767a7bd7330c5701a7eeee695c5a8c668f5d307a8b7d82a286236
+size 444

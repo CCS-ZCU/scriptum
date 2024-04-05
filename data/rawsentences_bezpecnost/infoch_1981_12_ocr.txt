@@ -1,1 +1,3 @@
- Jde o neomalený utok státní bezpečnosti na předního českého lyrika, jenž po léta odolává snahám učinit z něj básníka oficiální kultury se vším všudy, co k tomu náleží.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2347ad8e2370816b55731bcf104b2fe4a5eb3764461ce539d5a56874767765c4
+size 194

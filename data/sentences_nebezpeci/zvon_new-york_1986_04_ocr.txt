@@ -1,1 +1,3 @@
-vysvětlit král zaujatost těžký vina nebezpečí hrozit poddaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d246121bae58086886dfba111cfe4f93e1379058a3e93be32def8795ec20d54
+size 69

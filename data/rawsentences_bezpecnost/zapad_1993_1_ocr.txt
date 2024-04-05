@@ -1,2 +1,3 @@
- Bádání o míru a bezpečnosti v měnícím se světě nemá nic společného s jménem generála Douglase MacArthura, ale s odkazem rodiny téhož jména.
- Zvyšuje se také od- povědnost řidičů autobusů, nákladních automobilů a traktorů, kteří budou pře- pravovat na ložné ploše osoby a při jízdě ohrozí bezpečnost silničního provozu či způsobí dopravní nehodu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa09f412708b9fbec7d9ae184485e18c11a16c88d9037670780327a3806aab4
+size 393

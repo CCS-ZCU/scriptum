@@ -1,2 +1,3 @@
-starý čas obecný nebezpečí rozhoupat lidé zvon
-současný režim Praha proces signatář charta zno dokázat užívat metoda studený vát lidé přesvědčený tánec ideí opírat západoevropský civile zační kulturní tradice zadatelný lids kýt právo svoboda projev informace prá občan kritika státní moc právo zastávat politický náboženský umělecký zora nebezpečí státní moc občan názor potrestat
+version https://git-lfs.github.com/spec/v1
+oid sha256:42b022a1e1f012115069a2a0208b51be6ed9017e44afb87d0395c7d56c88385c
+size 433

@@ -1,2 +1,3 @@
- Australané by chtěli spolu s Anglií a Novým Zélandem garanto vat bezpečnost Formosy, vy- klidi-li čínští nacionalisté ostrovy Quemoy aMat- su.
- Zubožené masy, které opustily své domovy a majetky s žádnou jinou bezprostřední nadějí než výhledem na fysickou bezpečnost tábora pro bezdomovce, mají hořké zkušenosti se skutečnostmi našeho věku, zkušenosti, jež nemá velká část západní inteligence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f768073c646491a54e13b632434a24ae847bc7581ca1579a12eb2546021b34
+size 435

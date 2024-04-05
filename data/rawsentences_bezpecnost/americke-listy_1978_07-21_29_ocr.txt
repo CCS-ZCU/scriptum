@@ -1,8 +1,3 @@
- Vyjádřil přání, aby se Spojené státy na Blízkém východě více angažovaly, aby přijaly koncepci nezávislého palestinského státu a aby bezpečnost palestinského státu a nepřímo j státu izraelského společně se Sovětským svazem garantovaly.
- Jasir Arafat se v tiskovém interview snažil budit dojem, že je vůči Izraeli veskrze tolerantní — ujistil, že by neměl nic proti tomu, kdyby obě velmoci do jisté míry garantovaly bezpečnost izraelského státu — na otázku, zdali by jeho organizace izraelský stát uznala, kdyby Izraelci připustili zřízení státu palestinského, však odpověděl záporně.
- Palestinská osvobozovací organizace klade důraz především na záruky bezpečnosti palestinskému státu.
- Spojené národy mali hned’ od svojho založen ia možnost’ svoj vliv uplatnit’ a potvrdit’, že sú schopné udržať mier a zaistiť-bezpečnost’ všetkých členských štátov.
- Světové vel’moci — ktoré majú rozhoduj úce slovo v politických veciach, mieru a bezpečnosti, kto- rým záleží na tom, aby u- stanovenia Charty Spojených národov bolí za každých okolností dodržované, sa ukázali byť tým slabým ohnivkom v reťazi spájajú- cej všetky jej ustanovénia nutné k účinnému rozho- dovaniu.
- Málo to však za následek, že sa na ochranu mieru a bezpečnosti začali tvořit’ obranné spojenectví! mimo Spojené národy.
-) za udr- žanie světového mieru a bezpečnosti ešte viac zne- hodnucuje.
- To, co by v minulosti byly vyřídili mezi sebou bez jakýchkoliv problémů dva strejci československé a rakouské celní stráže, zaměstnávalo velitelství rakouského četnictva, pohraniční stráže a ředitelství bezpečnosti v Linci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:beaa21b876cb684b22ddcd4de6fadb9677dc96bbc5b856740bf25de897cf3b30
+size 1756

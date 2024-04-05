@@ -1,1 +1,3 @@
-povolaný znalec odmítnout stanovisko obviněný sovětský agent doklad ohrožovat bezpečnost Norsko poskytnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:03c6b0e05b0d975ced0f0886cb29592129ff814c25bdd89a5dea0b473d8285b5
+size 115

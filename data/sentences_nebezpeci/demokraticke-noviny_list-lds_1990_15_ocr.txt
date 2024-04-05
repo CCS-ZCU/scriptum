@@ -1,2 +1,3 @@
-hrozit nebezpečí Smíchov stát město automobil hotelový host spát
-kapela uvědomit nebezpečí moci přinést vaření recept přestavět aranže většina skladba získat nový přitažlivý podoba
+version https://git-lfs.github.com/spec/v1
+oid sha256:df702861e9145eaa854d05b47da460e6d0d81e8e021c9b79e28707d32ed4d57d
+size 205

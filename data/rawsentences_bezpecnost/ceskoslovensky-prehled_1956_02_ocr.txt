@@ -1,5 +1,3 @@
-000 balonů a více než 250 milionů tiskovin, dopravených do republiky, bylo mimo dosah státní bezpečnosti a aparatu, školeného na takovou likvidaci.
- Režim sice mohl posílat za spadlými tiskovinami stráž bezpečnosti a školní děti, ale bylo mu jasno, že tato methoda nemůže uspět.
- Zatím co v západním Německu je vytvářena vládnoucími buržoasními kruhy armáda k agresivním účelům a k potlačování dělnické třídy uvnitř státu, v Německé demokratické republice bude armáda sloužit lidu, jeho bezpečnosti, zabezpečení socialistické výstavby země.
- A proti takovým má za povinnost zakročit bezpečnost každého civilisovaného státu.
- valném shromáždění Organisace spojených národů zvolena za člena Rady bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93c4d61226fea8049f97a17e1722f683e84d00a7e73dc5309054981f5db7b27
+size 783

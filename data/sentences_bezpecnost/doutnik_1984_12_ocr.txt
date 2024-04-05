@@ -1,1 +1,3 @@
-Kažóá civilisace zajišťovat bezpečnost přijmout rámec místo úzkost chvíle moci líst mít idea
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe3b51dac693aae4ef8bcebd7070359f4bba8904fd823906404eb39f490843d2
+size 106

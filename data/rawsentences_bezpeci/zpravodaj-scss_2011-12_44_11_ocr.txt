@@ -1,1 +1,3 @@
-" "Fakt, jo? A byly tam těžký otázky?" Anonymní telefonát na linku bezpečí: "Dobrý den, přál bych si emigrovat, ale nemůžu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4776d0b84b84a86c92a15890acb11568c09ce5749cdccddb421047e1d9c537df
+size 96

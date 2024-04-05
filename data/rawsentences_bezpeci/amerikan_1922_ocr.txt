@@ -1,1 +1,3 @@
- Indiáni, snad po poradě, prohlásili, aby jeli zpátky, oni že dohlédnou na jejich bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51ab33b103f561a4c17e7440b2e7c132ad95d66ed8b7d2dca4b03455c08922a
+size 99

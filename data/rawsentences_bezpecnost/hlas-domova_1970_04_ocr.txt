@@ -1,2 +1,3 @@
- Čím je ! v úřední řeči podmíně- i no vyslovení trestu zá- I kazu pobytu? ' Zákaz pobytu se vyslovuje tehdy, vyžaduje-li i to ochrana bezpečnosti j státu, vnitřního pořádku, i ochrana rodiny, zdraví, mravnosti nebo majetku.
- Vlastní dohled nad porušováním zákazu pobytu bude patrně v rukou Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f7f32f19793a908584f90c6f133830fcbe7450dabde64f864c8a1cf7f55985d
+size 330

@@ -1,1 +1,3 @@
- Ve čtvrtek odpoledne navštívila ve Varšavě hřbitov u kostela Svatého Stanislava Kostky, kde je pochován katolický duchovní Jerzy Popieluszko, který byl v mladém věku terpve 37 let v roce 1984 zavražděn příslušníky polské státní bezpečnosti a je dodnes přímo symbolem polské opozice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a25812e0ea0d95f8926bd18cef528958e31a5ab310320b361f39b0e7fc28a49
+size 310

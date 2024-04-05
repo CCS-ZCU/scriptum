@@ -1,2 +1,3 @@
- Slíbili jí to, ale byla to"těšínská jab- tíčka!!)O její bezpečnost se staral velký pes.
- Ve víře vidíte nezřídka jen jakési rozdělování milostí a bezpečnost proti výčitkám, nevidíte v ní pravdu, nejste pokorné a plné lásky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd2969ed618571acdaea34e641ea55bd11d8bb3e480d0ed7c89b3138d0a9ad0
+size 255

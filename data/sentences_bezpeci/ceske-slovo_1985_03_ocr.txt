@@ -1,1 +1,3 @@
-pochopitelný imigrační země spojený stát Kanada Austrálie dávat udělování vízum přednost uprchlík ohrožovaný život revoluce válka uprchlík žít bezpečí tábor
+version https://git-lfs.github.com/spec/v1
+oid sha256:8700894a21afd98f783c1c43b99ddfe636815f77b17d0c119a6656f083544f98
+size 181

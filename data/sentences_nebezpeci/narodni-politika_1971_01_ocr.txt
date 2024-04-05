@@ -1,7 +1,3 @@
-upozorňovat občan Utah podnikat prospěch USA mezinárodní pole bojovat mezinárodní komunistický nebezpečí dbát porobený národ mít demokratický oposice
-nebezpečí uvědomovat věřit Sovět troufat komunistický strana troufat prosadit program většina národ žehnající ruka Sovět
-mívat závislý kandidát program liberální dnešní závislý strana pravicový vidět komunistický nebezpečí indiferentní Demokrat liknavý Republikán mít program vyhrát válka Vietnam pomoci Československo váhání
-velký nebezpečí tkvět člověk stačit vědec vynálezce vývojový technika držet krok
-vyřešit pravicový nebezpečí vyrůst
-jít zápětí upozornění nebezpečí
-sebevědomý obro nechat obtěžovat bzučení moucha jmenovat emigrace moucha bzučet komunistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa4f94a5b8630c3d7aee6baf317c9c033be3455401c82f0f05f8929ef5141552
+size 817

@@ -1,3 +1,3 @@
-vězet třetina den země vystavený ustálý nebezpečí spadnout bouchnout metan zavalit zasloužit řeč
-Moskva Praha vědět nebezpečí stím spojený
-komunistický režim znamenat nebezpečí občan stát příležitost
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fdbbfeab5794b361ec9e7cfdd554070c83db6b2c9a56c404ecf3729e423051
+size 226

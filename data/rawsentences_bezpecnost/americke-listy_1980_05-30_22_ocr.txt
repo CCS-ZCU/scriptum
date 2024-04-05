@@ -1,6 +1,3 @@
-” (USPS 023—900) Jediný československý týdeník na východě Spojených států  Československá státní bezpečnost soustředila v poslední době pozornost především na filozofické semináře, které většinou vede Julius Tomin a na nichž přednášeli nebo chtěli přednášet i filozofové ze zahraničí.
- Státní bezpečnost už několikrát průběh seminářů přerušila, britské filozofy vypověděla ze země a ú- častníky seminářů vyslýchala a jinak šikanovala.
- Tomin líčí, jak se nejprve podle obsílky dostavil na místní úřadovnu Veřejné bezpečnosti, kde s ním pohovořil starší muž o klasické hudbě, o Bachovi a o Smetanovi, jakož i o své úspěšné spolupráci s divadly a předními umělci.
- Když pak Tomin do protokolu nadiktoval, že toto varování nepřijímá, protože k zákazu přednášek neexi- ČESKOSLOVENSKÁ STÁTNÍ BEZPEČNOST A FILOZOF AMERICKÉ LISTY STRANA 2 O ČESKOSLOVENSKU PÁTEK 30.
- Na některých universitách vytvořili prý sociálně demokratičtí studenti s komunisty lidovou frontu! Pravdivost většiny takových stížností na dílčí skupiny předáci sociálně demokratické strany popírali, se vší rozhodností však odmítli podezírání, že se stále ještě neodprostili od starých socialistických předsudků vůči armádě a že nevyvíjejí dost úsilí posílit bezpečnost země.
- V parlamentní debatě se probírala též otázka, zdali napomohla sociálně-liberál- ní vláda k posílení národní bezpečnosti i svou zahraniční politikou — přesněji řečeno politikou vůči komunistickému východu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5036b2645ecfa66709d7c9c86300f24f63286ea1b54df3dc75819356f4d1b1b
+size 1638

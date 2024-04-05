@@ -1,1 +1,3 @@
-usoudit rozhodující materiální základna ponechat lidé nouze dostatek potravina obydlí možnost nasytit hmotný potřeba znamenat vystavovat nebezpečí demagogický svůdce politický
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31dbfb4b8cffc28727ad43c09bd51f89ea7623ee05acbd2c39c17446ad35496
+size 191

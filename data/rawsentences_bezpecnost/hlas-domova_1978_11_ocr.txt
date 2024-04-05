@@ -1,4 +1,3 @@
- zasedání Parlamentního shromáždění Rady Evropy stála letos znovu ve znamení posouzení dosavadních praktických výsledků Konferen- ce pro bezpečnost a spolupráci v Evropě, jak se to projevilo v tzv.
- středu) pod názvem: "Provádění Závěrečného aktu konference pro bezpečnost a spolupráci v Evropě.
- pomoci, kterou dotyčný stát ne- chtěl"!! Převaha sovětské vojenské moci v Evropě vyvolává znovu palčivou otázku vratkosti skutečné evropské bezpečnosti.
- Ptal jsem se pak šo- féra, proč tak dlouhá prohlídka právě mého pasu a ten mi vysvětlil, že dotyčný strážce bezpečnosti prav- děpodobně předtím ještě australský pas neviděl, pro- to ten zájem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31bc6cc52429cc20be995c794a670e153717a96be1fed937c5266ec8073ce986
+size 714

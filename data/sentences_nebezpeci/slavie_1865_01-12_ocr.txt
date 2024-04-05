@@ -1,2 +1,3 @@
-republika čas nebezpečí zmizet republikáneký cnost poctivost vlastenectví republika
-těžký úloha brodit krev bližní uechat krov požár aoičit vydatí počestnost jmění život milý tisícerý nebezpečí vite obnažený hrud vražedný zbraň nepřítel
+version https://git-lfs.github.com/spec/v1
+oid sha256:699ee0495000f3fc4f406833828fde3521385bb2481695be7099fa8d1acf386c
+size 269

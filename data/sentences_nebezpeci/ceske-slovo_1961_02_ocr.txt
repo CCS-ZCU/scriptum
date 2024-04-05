@@ -1,2 +1,3 @@
-stát mít vládnout Československo veřejný bezpečnost pomocný stráž veřejný bezpečnost vnitřní stráž pohraniční stráž pomocný stráž pohraniční stráž pátý sekce ministerstvo vnitro státní bezpečnost policajt policajt dávat pozor dávný revoluční flak vyvinout nebezpečí vláda lid
-nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:897d61e9ad85eb1bba1c2b7e46106781f4226c2ff8cb5541df2529b2a3ec69c7
+size 329

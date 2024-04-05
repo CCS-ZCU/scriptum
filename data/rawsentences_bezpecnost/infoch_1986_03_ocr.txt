@@ -1,5 +1,3 @@
- Ze pod záminkou Letákové akae připravuje Státní bezpečnost repreaálie proti vydava- telům nezávislých kulturmieh časopisů a jejiah apolupracovnik&m.
- Zaatrašovaei kampaň, v jejímž rámci bylo Státní bezpečnosti vydýcháno i mnoho děti, zůstaň* smutnou a bohužel neměnitelnou skutečnosti.
- Chci zdůraznit, pokud jde o > Hel- sinky, že krátce po podpis* závěrečného aktu vstoupil celý proces KBSE do ob- dobí hluboké krizet* Pokud jde o otázky bezpečnosti, je zde od roku 1975 úplná stagnace^ pokud jde o kulturní styky, došlo dokonce k mírnému poklesuj a pokud jde o lidská práva, je zde tak otevřený konflikt, že se v určitých okamžicích zdálo, že dojde k selháni vyjednávači struktury.
- Někteří signatáři a mluvčí Charty 77 byli, jáí už bylo oznámeno, střeženi operativou Státní bezpečnosti /tři muži + 1 vůz Tatra 613/* Toto stři žení bylo začátkem tohoto roku organizováno i v době návštěv rakouského spol- kového prezidenta Kirchschlggera v Bratislavě a ministra zahraničních vgcí NSR Hanse Dietrichs Genschers v Katových Varech.
- Veřejná bezpečnost kontrolovala občanské průkazy vycházejících, urážela je a vůči některým používala i fyzického násilí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9735f0636e31d46b677a104ca4911aaf96c76470b9feddd6b600c2d81ba340dd
+size 1272

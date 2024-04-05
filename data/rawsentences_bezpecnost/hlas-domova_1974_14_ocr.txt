@@ -1,2 +1,3 @@
- která by mohla u- snadnit jednání vídeňské a ženevské konference o bezpečnosti a spolupráci v Evropě.
- Smrkovský tvrdí, že ve vlasti vládnou lidé, kteří již nejsou přesvědčeni o správnosti marxisticko-le- ninské ideologie, a to platí i o vedoucích činitelích strany, hospodářského života, v bezpečnosti, v milicích a v národních výborech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2626775ea2e2b12f0ea7d94d25db141c53ef932a9621372d2f0e2596c7ed806
+size 377

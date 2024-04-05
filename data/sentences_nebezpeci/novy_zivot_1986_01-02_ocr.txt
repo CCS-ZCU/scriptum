@@ -1,5 +1,3 @@
-nebezpečí skrývat krajní materialismus
-mír hodnota uváděný nebezpečí prohnaný manipulace služba ideologie politický systém poslední cíl nadvláda tyranie
-Lorscheiter váhat zastat teologie revoluce přiznávat nebezpečí říci upozornit kongregace nauka víra
-africký biskup poukazovat nebezpečí církev hrozit litantní islám snášenlivost moha dánský integralista hraničit otevřený pronásledování
-dojít protest politický ráz komise muset přiznat situace tajný policie krizový
+version https://git-lfs.github.com/spec/v1
+oid sha256:42e9805da22cc1a718e4bfcca0bf8f7c0a3cbd3212498365d19ce6ea084a4d1d
+size 518

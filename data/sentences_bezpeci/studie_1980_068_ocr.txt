@@ -1,1 +1,3 @@
-vybrat místo společný protest katolický chrám Polsko moci lidé různý názor vystupující obrana zadatelný lidský právo sejít bezpečí ochrana církev
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb7151a9f30b605d0bdbcc7efbc5392f7b2662a055e43cb5587596ee80477ff
+size 164

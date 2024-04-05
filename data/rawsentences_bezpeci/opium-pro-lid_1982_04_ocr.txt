@@ -1,1 +1,3 @@
-Jek mnoho musíme platit za bezpečí a pouodlí ničeno přístřešky cnraněuého života naší svoboudou v nezávislostí myulenky * činu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e4602efb574c5309e1e34f7b517759d52b35f11ebce27718a45496b277006a
+size 145

@@ -1,2 +1,3 @@
-mít přijít vítaný objekt likvidace nutný považovat dobrý zpráva jevit skutečný snížení válečný nebezpečí krok míněný mírový svět
-druhý poslat studovat Oxford hrozit nebezpečí vrát hlava plný marxistický myšlenka
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ff722e0b810141f41fc0f68d253a8f38b6735fd5af51a2ce1ca8080184e02e0
+size 244

@@ -1,3 +1,3 @@
- Bez vlády by lidská práva nebyla v bezpečí: „Na ochranu těchto práv se mezi lidmi ustavují vlády“ -stvrzuje naše Deklarace nezávislosti.
- Tento velkorozměrný elegantní svět plný barev, vůní, hudby a květin mne do sebe přívětivě vtáhla nabídl mi pocit absolutního bezpečí; i při nočních procházkách městem, které začíná po setmění intenzívně žít svým nezaměnitelným, barevně prosvětleným životem.
- Důkazem toho jsou jeho náhlé odjezdy: do Paříže v době mladického vášnivého poblouznění, do osamělého bezpečí ostrova Fáro („s krajinou splňující moje niterné představy“) či devítiletý německý azyl na protest proti daňové aféře, v níž byl Bergman veřejně zostuzen a uvržen do neobvyklé role „zločince“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c441f251f594e16bfe16833a7394ae98852d3d6cf8ce68e364cdd6625fc8385
+size 803

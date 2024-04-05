@@ -1,2 +1,3 @@
- Pozor však: dopravní inspektorát kontroluje vozidlo co do bezpečnosti, nikoliv technický stav motoru či některých dalších mechanických součástí! IVAN AUDI 80 GT Sdružení francouzských motoristických novinářů propůjčilo Velkou cenu bezpečnosti firmě AUDI NSU AUTO UNION AG pro její model AUDI 80.
- Rozhodujícím pro u- dělení ceny byla - podle oficiální tiskové zprávy - obzvláštní kvalita aktivní i pasivní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee3edf5996d0bf455cb9f64d5e5f4a48e1b25500f0e020d2d41953d40adf9db
+size 460

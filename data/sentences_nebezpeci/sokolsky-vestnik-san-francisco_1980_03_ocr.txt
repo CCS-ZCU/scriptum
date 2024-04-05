@@ -1,1 +1,3 @@
-národní organizace zapojený protikomunistický boj informování americký politik nebezpečí Československo Amerika
+version https://git-lfs.github.com/spec/v1
+oid sha256:43d2219806b1c4a4a99a12776fa06e2bcb0da4175305b65278da816e8d8ca0a2
+size 122

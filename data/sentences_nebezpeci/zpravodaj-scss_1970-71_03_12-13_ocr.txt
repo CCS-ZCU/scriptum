@@ -1,1 +1,3 @@
-Kemelman rabín pátek zaspat Craig
+version https://git-lfs.github.com/spec/v1
+oid sha256:60baf766a1aaa1ff7ce4a2b959a20c0c8128952c810ca827d35bb89cc50064d6
+size 36

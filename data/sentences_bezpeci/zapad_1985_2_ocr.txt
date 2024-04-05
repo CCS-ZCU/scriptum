@@ -1,1 +1,3 @@
-charta dialog zdůrazňovat dělitelnost míra přímý závislost míra vnější míra vnitřní respekt lidský právo nutnost čelit bezpečí válka hluboký proměna skutečný příčina sféra společenský politic kýt realita dnešní svět dbající přirozený právo národ rozdělený
+version https://git-lfs.github.com/spec/v1
+oid sha256:373ac8ef5648aa42a67529135258966f20db93f422ee9c2d12c8353bac42b735
+size 299

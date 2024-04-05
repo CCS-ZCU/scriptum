@@ -1,1 +1,3 @@
- trů,které jsem měl za roh do bezpečí, snad za pih vteřiny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d7305cbe9797af61dcd02691c5db0afa9eee4750cb3af474b28e9e62b6dcbc
+size 66

@@ -1,3 +1,3 @@
- Z toho je patrný ú- mysl velmocí, přispěti tímto řešením k bezpečnosti prostoru výcbodo a středoevropského, jak to správně připomněl Heidricli.
- Vlastenci, kteří ještě dnes trvají na názoru, že odsun Němců byl a zůstává opatřením nutným k zajištění státní a národní bezpečnosti Československa si nezasluhují, aby byli nazýváni “vlastenci” v úvozovkách jen proto, že jiní tento názor změnili nebo ho nesdílí.
- Z REDAKCE “Revoluce a bezpečnost” byl název úvodní studie dra A.
+version https://git-lfs.github.com/spec/v1
+oid sha256:212630490f5802154745e83e436519750af0628739a0d0a81c20f801e2a99aa9
+size 539

@@ -1,4 +1,3 @@
-poznat nedostatek nebezpečí plynoucí politický katolictví počátek důvěřivý
-existovat jistý krize kněžství všeobecný představovaný
-život kráčet Marie celý městečko prostředek silnice úzký vyšlapaný cestička starat provoz nebezpečí
-Šeper Chorvat poznamenat celibát snadný věc mít nebezpečí manželství mít
+version https://git-lfs.github.com/spec/v1
+oid sha256:45a46ad22bc5b1c7f2bd6af579c7d950c46e7313d3dec82a39915c9514f7ec36
+size 346

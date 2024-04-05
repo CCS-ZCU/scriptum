@@ -1,1 +1,3 @@
-Oplzlost dát užít nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad2e18d050f2a98899dd581cebf117fa24d5b1ad894f1b0da7ddfc07271a527e
+size 33

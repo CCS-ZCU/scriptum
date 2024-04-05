@@ -1,6 +1,3 @@
- Peter Mišík: Ne, samozřejmě jsem velvyslancem Slovenské republiky v Rakousku, ale protože ve Vídni máme i stále zastoupení při Organizaci pro bezpečnost v Evropě a já jsem vedle funkce velvyslance SR v Rakousku současně i stálým představitelem SR v OSN a dalších mezinárodních organizacích, např.
- Protože v roce 2019 bude mít SR předsednictvo v Organizaci pro bezpečnost v Evropě, padlo rozhodnutí, že budu vykonávat obě funkce současně.
- Ministryně obrany Šlechtová misi označila za velmi důležitou, připomněla, že se koná na základě rozhodnutí Rady bezpečnosti OSN.
- Dohodli se zejména, že budou společně prosazovat posílení ochrany vnější hranice, vybudování azylového systému odolného proti krizím, odstranění podhoubí násilného extremismu a terorismu, posílení evropské policejní spolupráce s důrazem na pašování lidí, podporu digitální bezpečnosti a tzv.
- o možnostech posílení spolupráce svého úřadu s českou ambasádou ve Vídni, a to vzhledem k významu problematiky vnitřní bezpečnosti v čes- ko-rakouské relaci.
- Jihočeský kraj a spolková země Horní Rakousko chtějí v souladu s touto strategií spolupracovat v oblastech digitalizace, bezpečnosti a infrastruktury s cílem vytvořit mezinárodně konkurenceschopný region.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1f4208a641d9ef9c11859da93e900ce7a987608a87e268c03137f798ab0fa2f
+size 1341

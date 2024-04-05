@@ -1,2 +1,3 @@
-deska ukradený zbývající deponovaný bezpečí trezor zemský banka
-obyvatel ohrožený území vědět nouze muset plahočit Evropa žebrat pomoc prchat hořící útulek urazit pár desítka kilometr octnout bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:5423018b4f69e09ab1e14e268a6f72c1183e0acbc779d6fd6c9f1e857b52c32d
+size 224

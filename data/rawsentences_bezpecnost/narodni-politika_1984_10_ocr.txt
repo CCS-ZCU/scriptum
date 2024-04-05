@@ -1,2 +1,3 @@
- srpna 84 od časných ranních hodin prováděla pražská Státní bezpečnost, posílená Stb z dalších krajů, domovní prohlídky a výslechy, které byly zaměřeny proti Chartě 77 a jiným nezávislým aktivitám.
- Státní bezpečnost automaticky předpokládá, že vůči ní neexistuje žádné lékařské tajemství a že její rozhodnutí o tom, zda je někdo nemocen či jak má být léčen, musí mít přednost před objektivní diagnózou a stanovenou terapií.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d5a2dadb0b0c6907e1b6478394efa449fcd6c2f09cadee4c1edbce4f13e274
+size 484

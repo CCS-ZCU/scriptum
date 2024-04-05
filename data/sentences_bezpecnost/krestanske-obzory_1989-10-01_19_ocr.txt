@@ -1,2 +1,3 @@
-bezpečnost zásah nedel svatý
-stát úvaha slovenskú bezpečnost pútnlkom odňat národný symbol
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1af98572e07b720b2a2d7e624a210a383d6bc79d70f8169d47ec8d7591b296c
+size 102

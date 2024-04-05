@@ -1,1 +1,3 @@
-Peks ochota dát dispozice farma muset poslední chvíle změnit místo pořádání ^tábor pro_no bezpečí lesní požár letošní mimořádný sucho hrozit plánovaný Sokil
+version https://git-lfs.github.com/spec/v1
+oid sha256:b72d7d82435f5484f7229675db7b1098d520070277e8ebc7d0d4186304e0b059
+size 179

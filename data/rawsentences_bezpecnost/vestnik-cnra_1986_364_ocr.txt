@@ -1,1 +1,3 @@
- * ♦ * Od podepsání Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě v Helsinkách se v Československu v oblasti lidských práv nic nezměnilo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95026c0aa6e11fd32c430abf35f134ccd559f16b844c9bdd1582789908c16145
+size 172

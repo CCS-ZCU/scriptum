@@ -1,1 +1,3 @@
- Mazzini a jeho pomocníci včas vyvezli část své kořistí do bezpečí-do Londýna-ale při tom se vychloubali, že Rím neopustí,spíš zahynou pod hradbami.
+version https://git-lfs.github.com/spec/v1
+oid sha256:811b3de0d8438e3445b65a875c403ea7a91f550c70e1caba48d2f7880a25e2e1
+size 165

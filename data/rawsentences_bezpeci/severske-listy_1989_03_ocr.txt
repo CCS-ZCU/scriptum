@@ -1,1 +1,3 @@
- Tam, kde se cítite v bezpečí - ve Vaši posteli, iste nejvlce ohroženi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6086daeb469e6b344b5e03ed1a07a51935937883c21c228e564eba14f10ae59e
+size 77

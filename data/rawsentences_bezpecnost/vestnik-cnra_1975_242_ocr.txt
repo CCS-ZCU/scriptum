@@ -1,1 +1,3 @@
- Kelley řekl: “Ztrácíme půdu,” a uvedl, že pravděpodobně bude musit požadovat 250 nových agentů pro práci v oboru vnitřní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a30d4a9ff87865cdcc08d6ee690c36e842977e3a355d3e2cdca5b621c4ce6eec
+size 153

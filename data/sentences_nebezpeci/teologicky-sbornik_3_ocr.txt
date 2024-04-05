@@ -1,5 +1,3 @@
-krajní případ nemocný zklidnit vyřazení porušený psychika zbavit vědomí uspit popřát oddech zmenšit nebezpečí předložený čin sebevražda
-známý rub tišící prostředek přímý zdravotní riziko představovat nebezpečí návyk vytvoření závislost léce malý velký život ohrožující následek
-nebezpečí člověk vyrovnaný utvrzený
-prostředek alkohol agresivita okolí vypočitatelní deprese nebezpečí sebevražda
-smět dojít střetnutí použití racionální odůvodňování rovina ssba dát pomoc lze sledovat nemocný trýznivý představa kněz uvědomit rýsovat nebezpečí sebevražda začít temný představa odstrašovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d0c6381dca9322eb43a93c6353f62c32ffd3f7b59ba7588400507b6ec8332f
+size 671

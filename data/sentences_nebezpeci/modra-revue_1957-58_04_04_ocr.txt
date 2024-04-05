@@ -1,1 +1,3 @@
-omezený diskuse mít režim nebezpečí odhalit rouška mnohý tajemství vyvracet mnohý tvrzení
+version https://git-lfs.github.com/spec/v1
+oid sha256:120b1db62aeea4a006728b43d8be1d3c4a257351b6b73b129e3f19fdc0b353c4
+size 100

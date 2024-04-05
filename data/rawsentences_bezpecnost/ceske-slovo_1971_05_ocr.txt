@@ -1,1 +1,3 @@
- Jeden z jejich prvých pořadů se nazýval „My to víme“ (později „Vzkazy domovu“); stanice v něm konkrétně uváděla předem prověřená jména příslušníků Státní bezpečnosti, vězeňské i pohraniční stráže a jejich pomahačů, kteří se surově chovali k čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf7cbaaf7f708a2b657e6d0bae0b6a1906386668a215eaa1d64d2722e2d15986
+size 291

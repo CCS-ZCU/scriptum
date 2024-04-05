@@ -1,2 +1,3 @@
- je historický a rul turni celek, jehož politický vývoj a bezpečnost musí být zájmem všech.
- Tento n vý politický přístup, který požadujeme od naší vlády a od NATO, musí mít následující cíle: rozpuštění vojenských bloků v -vropě, tažení všech vojsk z území jiných států, vytvoření sy t ímu o rany a bezpečnosti v Evropě, který by nebyl založen na jaderných zbraních nebo jiných zbraních hromadného ničení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61e6f4c135ff50e980e7377afe29382cc66152e806f6b0cabb53538b2e3c0b91
+size 458

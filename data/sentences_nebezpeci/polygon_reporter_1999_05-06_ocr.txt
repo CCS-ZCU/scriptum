@@ -1,5 +1,3 @@
-situace komplikovaný přesvědčení mnohý rozhodnutí president Clinton učiněný vliv pokles autorita důsledek dávný mravní selhání nebezpečí možnost křečovitý snaha zlepšit president skaý pověst promyšlený riskantní krok
-nebezpečí hrozit ekonomický posuv vyvolat blbější nálada posuv akcentovat stav hospodářství schopný řešit navozený krizový stav
-Rom tušit nebezpečí hrozit
-souviset obecný pokles válečný nebezpečí
-nebezpečí emise omezovat provoz zařízení pouhý kapacita
+version https://git-lfs.github.com/spec/v1
+oid sha256:046ca28500bf6b9ecfd4695f15158c227b69736dab0f27250dd303351b80b98c
+size 525

@@ -1,2 +1,3 @@
-pozornost vracet Formos lidé vidět velký nebezpečí vznik světový celoasijský válka
-bývalý labouristický ministr Bevanův příznivec Harold Wilson dolní sněmovna nebezpečí válka dálný východ vzniknout čínský americký agrese
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fb6c7dfb89993cb8e0bc30db6cef189da975c8b2b0c87e8b6a087684e36e62
+size 248

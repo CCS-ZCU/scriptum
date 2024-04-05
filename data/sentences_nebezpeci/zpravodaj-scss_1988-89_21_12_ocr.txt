@@ -1,4 +1,3 @@
-vadit vadit eventuální nebezpečí pouhý nadstavba ideologický diverze
-opačný případ nebezpečí národ osvojit filozofie přežití kolaborace
-počítač hrozit nebezpečí vážný poškození esenbák lidé znalý složitý přístroj Havel dostat nakladatel cizina
-blízký přítel shromážděný Smíchov přijít zpráva obrátit horší velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f0160939f97792ff9da76165d0af96d158397aebb4e3e42c9d915b31ef5e1b
+size 373

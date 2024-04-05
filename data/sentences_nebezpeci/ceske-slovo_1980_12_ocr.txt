@@ -1,3 +1,3 @@
-listopad trvat nebezpečí sovětský ozbrojený vpád Polsko
-Polsko hrozit sovětský vpád dost oceňovaný nebezpečí brutální akce vývoj dotčený zdravý jádro pamatovat Československo
-přístup zvěř dálnice znemožňovat kilometr oplocení valný výsledek zvěř vzít nebezpečí dálnice vědomí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d92da48c4202f17b35876e802b751ec04ebffc8015b92a2ce0a24b3e1d999be
+size 315

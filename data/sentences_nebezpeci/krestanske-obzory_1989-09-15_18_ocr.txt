@@ -1,2 +1,3 @@
-nebezpečí usilovat spravedlnost násit jiný konat násilí
-domnívat poskytifj dostatečý informace stát okraj odstraňovat nebezpečí něktfff pustit věc vědět
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7a5b768e098360805bf2d581a2232e6fccb48bdb6a9873a19b238e8e8a71235
+size 189

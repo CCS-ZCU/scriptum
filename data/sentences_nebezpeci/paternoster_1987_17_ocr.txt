@@ -1,2 +1,3 @@
-duchovní domov kul turna strukturovaný ohnisko evropský dění
-mýtus mýlit vyprávění setkat ních nebezpečí přílišný oddělování sféra posvát ného profánní mířící metafyzika patro skový tečnost stupňovitý zmaterializovaný pojetí bytí zastření univerzální rovina ukazování
+version https://git-lfs.github.com/spec/v1
+oid sha256:a445e3c97a6b36b762a4e97e95e7cd121278899793b6f649a1c39984eb480829
+size 290

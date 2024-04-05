@@ -1,4 +1,3 @@
- Sem patří také perspektiva větších obchodních a kulturních styků, pro Američany cestující do československá pak také větší bezpečnost.
- Kromě toho Praha velmi účinně překáží úsilí Sovětského Svazu o zmírnění napjetí v Evropě, ohrožuje bezpečnost vlastní i sovětskou.
- června 1965: “Někteří naši lidé pomluví při setkání s cizinci v naší zemi vše, co by jim mělo být sva- Onehdy večer, krátce před sedmou, připomínal pracovník veřejné bezpečnosti divákům československé televize: “Buďte pohostinní ke svým příbuzným, přátelům, kteří vás ze zahraničí navštíví, informujte je, jak si naši pracující u nás žijí a jak -se náš stát o ně stará.
-” Kapitán bezpečnosti HoUý odpovídal nedávno na otázku redaktorky Vranove z bratislavského Večerníku _ - jak došlo ke zvýšení kriminality mladých: “Způsobil to i turistický ruch, který přinesl módní extrémy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32b728f1df07190e9cc4bb686347efebbb24d950308b6e2d8b90d2ddfc9c7a5d
+size 972

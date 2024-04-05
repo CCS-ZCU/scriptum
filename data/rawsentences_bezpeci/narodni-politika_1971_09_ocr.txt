@@ -1,1 +1,3 @@
- referenti místních organi- sací NV budou v budoucnu oceňovat bdělost nad bezpečím „socialistického řádu“.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52dd7670c4925cbc4dfc8bc870dfa51c39f50dd843f3b7b31f57e7c23846572a
+size 119

@@ -1,1 +1,3 @@
-rozdíl rok komunistický strana hrozit nebezpečí občanstvo volit komunistický kandidátka
+version https://git-lfs.github.com/spec/v1
+oid sha256:562ef02799413c9e91a67cfba97e6e2b32562a495e9c5eee3dd9572212e74df9
+size 95

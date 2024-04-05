@@ -1,1 +1,3 @@
-vzpomenout bolest léta odhalovat pomník symbol utrpení národ starý vlast láska Československo zlomný touha svobodný lid moci žít Štastno bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4057f6a9de5ec1ed4925b39e552903c8d6c5ac6f07699b0b23fd71fc4765c52
+size 159

@@ -1,1 +1,3 @@
-schůzka dohodnutý případný konference evropský komunistický sírana zabývat námět boj mír bezpečnost spolupráce druhý sociální pokrok Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:98d5e73dd02ad7b0a7b8c95b10601d12cf053a5dd898b0352cac1da651260cd2
+size 157

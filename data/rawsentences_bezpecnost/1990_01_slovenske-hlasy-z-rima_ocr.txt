@@ -1,1 +1,3 @@
- Verte mi, že s velkou bolesťou som konštatoval hrubé násilie našich bezpečnost- ných zložiek, vykonané na pokojamilovných ve- riacich 1'ud'och dňa 25.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca93cc651c9eda688a9434481054a817800f86b608185e74272a6428e82066e
+size 164

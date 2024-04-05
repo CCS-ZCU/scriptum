@@ -1,3 +1,3 @@
- Na horizontální úrovni se samozřejmě vzápětí dostanu do oblasti naprosto neproniknutelné - do informaci o armádě a bezpečnosti.
- Ještě tajnější (a tajemnější) je to s údaj i o naši v n itřn í bezpečnosti, o je jí struktuře, kádrovém a materiálním vybavení; vidyt jde o formu veřejné kontroly, která by jenom prospěla k: upevněni "svazku mezi lidem a státem", jak jsem nedávno o tomto zamlčeném rozdvojeni č e tl.
- Navíc je úspěšnost tohoto systému podporována efektivním systémem p r iv ile g ií a v podstatě garantovanou bezpečností v případě osobního selháni, (což má vazbu na korupci a td .
+version https://git-lfs.github.com/spec/v1
+oid sha256:056436280d3b3c28846a46a75666db3fff94b48d48b5e20fe686441563a7711e
+size 656

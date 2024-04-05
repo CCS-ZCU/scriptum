@@ -1,1 +1,3 @@
-brouček mravenč moci nebezpečí přejít ulice
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a22d3bc2f5e5b0f732b219287eb2f8501b3e5c416a07988b7c16461eef53136
+size 50

@@ -1,1 +1,3 @@
-účastník jet závod vlastní nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7067f26faba4faaf320602c1feb42ba0db4127c617cb7f880c4c432bd5c180fa
+size 44

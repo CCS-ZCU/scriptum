@@ -1,1 +1,3 @@
-západ rozumět chtít rozumět situace chopit možnost považovat rozhodující element SSSR jednotný síla snažit postavit jiný materielní protisíl případ pomáhat sovětský svaz boj žlutý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1621cc6094054171013e86cc71822acb8cfa4ac93c2a973e9c9a63b7302aff55
+size 213

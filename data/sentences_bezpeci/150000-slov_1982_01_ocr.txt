@@ -1,5 +1,3 @@
-znamenat konkrétní hrozba rival odpůrce soukromý život tradiční rutina mlčící menšina zásah bezpečí
-přikrývka teplo cítit bezpečí
-Rubašov hluboký vydechnout ruka složený prsa těšit skvělý pocit svoboda bezpečí
-švagrový bezpečí
-bavit mít diplomatický pas pravý mít vepsaný pravý jméno večerní oblek muset zúčastňovat recepce policista salutovat nápadný muž černý buřinka sledovat činit dojemný péče bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec1c03beee777624cc5dc839306f03e807d99919416ffdea03abef06e6684319
+size 463

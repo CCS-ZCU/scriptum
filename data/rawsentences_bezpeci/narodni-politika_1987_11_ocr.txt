@@ -1,2 +1,3 @@
- Praví vinníci se včas přesunuli do bezpečí a nyní byli většinou nevinní jednotlivci předmětem zlobné msty místního obyvatelstva.
-  Osmá strana NÁRODNÍ POLITIKA Listopad 1987 Čtyř-až šestinásobné zvětšení kapitálu! Zamýšlíte podnikat? Chcete si za nízkých úrokových sazeb peníze půjčit a na vysoké je ukládat? S výcarské bankovnictví a pojišlovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cff5f54d251e2dfa2d524e5dc301f7269be52fd77e00dadcdf6c8a11e0b5ea0
+size 252

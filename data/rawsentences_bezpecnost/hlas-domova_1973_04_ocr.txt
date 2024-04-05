@@ -1,1 +1,3 @@
- Z nich západ výslovně uvádí svobodu cestováni, volný koloběh informaci a ideí, nezávislost států a co by mělo být pokládáno za jejich bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6311759588ddc8a03963969a3ffd0e5e652ad8ef2c2fb7ef6caadaac34ef173
+size 164

@@ -1,3 +1,3 @@
- října o šesté hodině ráno vnikla do jeho bytu StB a odvezla ho na vyslíchací oddělení Státní bezpečnosti v Děčíně.
- Několik band už bylo zneškodněno, tile podle přiznání in- donéských úřadu se přesto nepodařilo zajistit plnou bezpečnost námořních cest v této oblasti.
- Jsou strkaní z bezpečnosti do JZD a odtud do kultury, a není třeba fantazie, abychom si představili, jak se tito univerzální odborníci na každý rezort a na každý úkol usnášejí o kultuře, na příklad o místním divadle, vystoupení hudebních souborů a tak podobné.
+version https://git-lfs.github.com/spec/v1
+oid sha256:486911f0c608b2a0d749fd7188643509cc3d31b069191de99aac41ca02f01cea
+size 591

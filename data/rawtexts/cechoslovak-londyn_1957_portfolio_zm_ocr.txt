@@ -1,1 +1,3 @@
-Nejlepších výsledků dosáhnete, když toto portfolio PDF otevřete v aplikaci Acrobat 9 či Adobe Reader 9 nebo novější. Opatřete si Adobe Reader nyní! [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb2c5ce05d676d9e4656c77b6c932cc33e64621a2c4916d7fb57087aa5373251
+size 171

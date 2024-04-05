@@ -1,1 +1,3 @@
- Myslím, že (posuzujeme-li exil pod dojmem těchto dopisů) otupení blahobytem a poměrným bezpečím pokročilo dále, než očekávali i největší pesimisté.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc277cdcf241b36f3215781192c0b538ba851ab104d5750aea580caeb9d48fa8
+size 167

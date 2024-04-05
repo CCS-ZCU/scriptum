@@ -1,4 +1,3 @@
- Když však přišlo pozvání na důležitou poradu do Polska, vytáhl Husák Kasku ze Sanopsu, aby se zúčastnil této porady s ministry bezpečnosti Polska a NDR a experty jiných zemí Varšavského paktu.
- Jak známo, Kaska zahynul spolu s vedou- cím oddělení státních orgánu Kudzejem a dalšími svými nejbližšími spolupracovníky a spolu s polským ministrem vnitra při ka- tastrofě zvláštního letadla, když přistávalo ve Štětině, V Polsku je dosti rozšířená verze, že nemohlo jít o nešťastnou náhodu, neboť zvláštní letadla bezpečnosti jsou vybavena nej modernější technikou a nelétaji za nepříz- nivých okolností a že šlo spíše o sabotáž, způsobenou lidmi generála Moczara nebo jinou skupinou v bezpečnosti.
- Na den jeho pohřbu byla vyhlášena pohotovost bezpečnosti, která se obávala demonstrativní účasti četných Pavlo- vých přátel.
- Avšak tato intervence měla opačný účinek: "zdravé síly" ji pochopily jako potvrzení kuloárové fámy, že Haubelt je špehoval jako spolupracovník bezpečnosti a jeho vyloučení z KSČ bylo potvrzeno.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e43624e8128b1cb769618fcc02b42be2d15d1db1ef85bad530c77a7c96c701e
+size 1125

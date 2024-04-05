@@ -1,8 +1,3 @@
- Státní bezpečnosti se stal podezřelým proto, že byl jako kněz činný v neoficiální církvi.
- Byt otevřel zmíněný údržbář a jen on byl bezpečností vpuštěn dovnitř.
-“ Státní úřady zakázaly čtení tohoto listu a faráři byli orgány bezpečnosti žádáni o jeho vydání.
- V arcibiskupské rezidenci na něj čekali dva příslušníci bezpečnosti, kteří mu oznámili, že od této chvíle budou pečovat o jeho bezpečnost.
- Hlavním nástrojem na zostřováni třídního boje se stala Bezpečnost.
- Nabídku k sepsání pojednání jsem přijal, kniha však vzniltla za neustálého strachu, že by orgány státní bezpečnosti mohly objevit manuskript a zabavit mi tajné dokumenty.
- českými a slovenskýmu občany, kteří po obdržení německého občanství poznovu přebírají občanství československé a jako majitelé dvojího občanství stávají se problémem vnitřní bezpečnosti západoměmecké- ho státu.
- Tyto zločiny komunistického hnutí u nás doma jsou stále v živé paměti obětí komunistické státní bezpečnosti, pociťujících dodnes následky třídní „spravedlnosti" a marxistického pojetí humanismu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a32e72c17c6f0892fdb24276e089c7161d9c77a367d07f26ae66bb72a583db
+size 1188

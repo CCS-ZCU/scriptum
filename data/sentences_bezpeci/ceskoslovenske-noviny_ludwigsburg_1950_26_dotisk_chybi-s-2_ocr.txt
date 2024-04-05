@@ -1,1 +1,3 @@
-tvnd lijže vin hrůza vycházet
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa9a8e98160f80fb9bb1528942cb6461957856e38e3493dc16d52c661e66210
+size 33

@@ -1,2 +1,3 @@
- bezpečnost v minulých 18 letech o odhalení a zne- škodnění 617 "protistátních a ilegálních skupin, kte- ré měly víc než 8.
- Klí- ma: "V poslední době má bezpečnost nejvíce práce se špionáží vojenského, politického a hospodářského rázu, kterou provádějí V rámci turistického ruchu západní agentury.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d067db7c80db9c13cf75470904e215501848f6f157cf63e3a069f4f0acc11c
+size 337

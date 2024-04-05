@@ -1,1 +1,3 @@
-lidé utíkat panna Marie bezpečí život všeobecný zkušenost
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d243e0ed8bd655998e6dfd4f31eb512bd950d185d09d84636b9999974b7cc3f
+size 66

@@ -1,1 +1,3 @@
-komunista bezpečnost odmítat násilí stranický šlechta život buržoázna smetánka oko přijmout korupce Československo svět hýbat western ztratit místo současný socialistický kultura
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b29d7887febd69cafa47979f8c025440762424322f79395504fb1809ba3b013
+size 197

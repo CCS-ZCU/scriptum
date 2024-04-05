@@ -1,4 +1,3 @@
-zvyšující počet raketa taktický takticko ope rační patřit raketa raketomet dělostřelectvo jaderný granát strana varšavský smlouva nebezpečí jaderný konflikt vylučovat
-pominout Evropa nebezpečí jaderný válka snažit různý pacifista dokázat pominout nebezpečí válka
-jednat nebezpečí kontrarevoluce ohrožení socialismus
-upozorňovat nebezpečí vyplývající myilenkový připravenost mlhavost exilový loyálna opozice domácí občanský iniciativa zastaralý myilenka
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d774583e27d4867c4b724fa6626584a2c80a61cb016ac9fb6f445b795712c4
+size 500

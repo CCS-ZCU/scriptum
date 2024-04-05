@@ -1,1 +1,3 @@
-smíchat sebevražda najeanout pohřeb hřbitov Vaganskoja docřs utajený poenik poslední moment dozvědět západní zpravodaj ščolokov stát sovětský ministr vnitro ucmátný rok československý aféra zapletený moci hácat ministr vnitro mít SSSR starost hlídání koncentrák pohraniční stráž kriminální policie politický policie spadat pravomoc předseda státní výbor bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:f467e3caa6fd03c7d8507e2a7f7ef0e68513a01fb96b14699d0e1f6b419d6c18
+size 405

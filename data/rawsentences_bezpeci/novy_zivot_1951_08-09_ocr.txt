@@ -1,1 +1,3 @@
- Žádná jiná kniha, nauka nebo ideologie, žádná jiná politická pravda nebo polopravda, žádná dohoda nebo nedohoda mezi námi nezaručí natrvalo bezpečí jedince a národa, neboť všecky tyto lidské snahy a pokusy, názory a kombinace, byť sledovaly ty nejlepší úmysly, jsou jenom lidské, proto menohou být dokonalé a už proto jsou a budou vždy sporné a nemohou míti pevného trvání.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3803f03f63b421371c41efb9dace8a49d8370933f691d948e05c5ffca7ec3540
+size 411

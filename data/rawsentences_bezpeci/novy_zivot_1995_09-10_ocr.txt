@@ -1,1 +1,3 @@
- Chadimová se odvolává na kupní smouvy od premonstrátů z roku 1939; soudu předložila kopie smluv, podle odborníků zfalšované, originály prý jsou v bezpečí, v zahraničí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5729605692bdaf80c3a093df73ee0d13704ae4ffe13db4607092ce624dc2aa5
+size 187

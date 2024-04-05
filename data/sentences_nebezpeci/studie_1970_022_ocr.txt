@@ -1,10 +1,3 @@
-slovo BonhoefFer chtít chom dívat sekularizace křesťanství nebezpečí vyhnout nový zvláštní úkol plný pozitivní obsah smysl
-víra svázaný tradiční způsob život vnější čanský zvyklost nebezpečí stát vněj šímý zvyk způsob život sociální projev
-stenberka doprovodit zabavený zásilka berlínský tiskovina poslat Vídeň vysoký kancléř svědčit vědomí pruský nebezpečí
-Fiirstenberkův poznámka jistý politický nebezpečí zednář ský lóže namířený Prusko charakteristický vzpomenout doba odpor nekatolictví pcrlinčan podbarvený Prusko Berlín
-propastný hořkost bytí mnohost světový názor další pře kážka nebezpečí víra společenství věřící církev
-druhý strana konvencionalita vystavený různý malý nebezpečí nebezpečí isolacce zužovat myšlenkový horizont mít pružnost pochopit stanovisko smýšlit
-konvenční morálka
-vidět dnešní krize víra náboženství výraz nebezpečí interpretovat krize růst vzestup nový autentický křesťanství znít hlas feno zaměřený metoda lkající nadšený tón
-teologie naděje mít nebezpečí udělat vztah bůh pouhý vztah budoucno
-čtvrtý dialog marxista mít nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3e74c1251dfebb58f0002278b0004f879d07e13a8bb8460700e5f6d2c49c6f8
+size 1273

@@ -1,4 +1,3 @@
- AZ Tower bude měřit 109,5 metru a je oproti původnímu plánu 111 metrů snížena kvůli bezpečnosti letového provozu.
- Do exilu vyslala Státní bezpečnost několik tisíc lidí s úkolem co nejdříve se usadit v nové zemi, získat její občanství, navázat kontakty s exulanty, získat jejich důvěru a vetřít se do vedení protikomunistických organizací.
- Státní bezpečnost je vedla ve fasciklu s nápisem „uloženky“.
- Kvůli bezpečnosti jsem jméno a některé malé detaily pozměnil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef5da54d2aa525c3e2f1464125d854f4fda9debfa86379a7774d88f4cb2f311
+size 516

@@ -1,1 +1,3 @@
-hrdina vábný nebezpečí varovaný zdravý rozum
+version https://git-lfs.github.com/spec/v1
+oid sha256:1582fcc3dc4fffd7e63ffccd08147dbc1d83ca8527e28d6918672ddc7c9b565a
+size 51

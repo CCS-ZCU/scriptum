@@ -1,7 +1,3 @@
-jistý nebezpečí generalizující úvaha obsahovat exkulp tupost nekulturnost politika státník sociologický zákon průměrný chtít úspěšný státník
-Bialer upozorňovat nebezpečí restrojka SSSR hrozit strana dělnický třída inteligence rezervovaný odpovídat absence rozvinutý populistický postoj sovětský inteligence
-nebezpečí
-mít varianta hnutí Memoriál spojovat úcta kulturní památka volání památka oběť komunistický teror
-představovaný politický aparát strana spatřující probíhající proměna nebezpečí osud socialismus zrada marxismus leninismus odklon hodnota třídní morálka
-oceňovat práce podařit vyhnout hrozba viset paralelní kulturní aktivita mít mysl nebezpečí jazykový involuce soukromý jazyk vznikat důsledek absence veřejný dimenze
-filozofický časopis nebezpečí vylit čitelný
+version https://git-lfs.github.com/spec/v1
+oid sha256:3973cb23a7b01fb611a4a96fd2c302be9af2815256f8e59e426b2b1cb4700e43
+size 866

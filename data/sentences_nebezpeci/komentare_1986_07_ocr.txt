@@ -1,6 +1,3 @@
-vnější pozorovatel společenský pohyb východní polovina rozdelený Evropa hledat narušování jaltský systém nebezpečí destubilizace sympatizující
-tíněně vztah
-pole stdnout nebezpečí revize hranice léta vnitřní strašák vrabce různý důvod strašit generace Polák
-vážný nebezpečí soudržnost stát varšavský ffa pakt sysán
-nebezpečí budoucnost
-vznikat doeda nový nebezpečí člověk slyšet otázka útrata provozovat taktika
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d7d2ce744c47920d10a0d1c7170594f195f2a858b99060935c23e464745263
+size 463

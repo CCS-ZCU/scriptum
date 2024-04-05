@@ -1,1 +1,3 @@
-Kažóá civilisace zajišťuje bezpečnost těch,kteří přijmou její rámec:není tu místa pro úzkosti od chvíle,kdy se nemysi lí na to,co nemá ideu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5942871c47e5a9065d90a111effdb9982ea416767d758d154f6c184acad958d0
+size 159

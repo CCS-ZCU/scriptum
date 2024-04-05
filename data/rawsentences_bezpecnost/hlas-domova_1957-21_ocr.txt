@@ -1,1 +1,3 @@
- Ve jmé- nu bezpečnosti světa je však nutné, aby Spojené státy zmobilisovaly všech- ny prostředky, které ma- jí k disposici, k vyrovná- ní sovětského náskoku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca5268d2e11742f1ee5ea968ebd6538b02089919a81ea7a0260e9bf5475aaef1
+size 175

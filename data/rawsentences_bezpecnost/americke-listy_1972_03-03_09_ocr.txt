@@ -1,2 +1,3 @@
- Přesunem sc sníží hladina podzemní vody a zvýší se tak bezpečnost plavby v punkevních jeskyních.
- Vysvítá z toho, že některé zá- k’adní věci byly dohodnuty předem a terén prpraven — aby na něj americký president mohl vstoupit s poměrnou poHťckou bezpečností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3985090b2219e2d250c11c5785d54446140ad4e26ef05926a6308b008cf34ef4
+size 291

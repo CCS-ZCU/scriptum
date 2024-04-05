@@ -1,1 +1,3 @@
- ledna další interview se Straussem, v němž bavorský ministerský předseda varuje, že pokud Západní Němci zcela odmítnou instalaci amerických raket středního doletu na své půdě, mohou Spojené státy přehodnotit svou politiku spoluzáruky bezpečnosti Spolkové republiky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd680c9ed739b2857ebef692b3190c51c89cb3419ddc2b76bc3c38ae36e1e92
+size 291

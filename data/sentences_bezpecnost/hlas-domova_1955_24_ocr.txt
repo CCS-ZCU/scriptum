@@ -1,2 +1,3 @@
-listopad vypršet lhůta návrat sjednocený Německo ohrožovat bezpečnost SSSR satelit
-evropský bezpečnost odzbrojený svobodný amnestií
+version https://git-lfs.github.com/spec/v1
+oid sha256:f003fc7dc55e7838b601b6f18f69063ccb700e4f70954d57a0ca5c8963bfa907
+size 147

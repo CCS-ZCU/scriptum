@@ -1,1 +1,3 @@
-hrozit Moskva nebezpečí možný úspěch případ sovětský blitzkrieg
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29391c88ed6dd45629a2268efec9d36cdb50c9f1a70ce3516b2ff237cbb23e0
+size 74

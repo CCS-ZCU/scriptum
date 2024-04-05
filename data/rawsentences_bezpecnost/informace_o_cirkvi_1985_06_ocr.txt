@@ -1,2 +1,3 @@
- Neclý měsíc před tím, než zazněly fanfáry 9- května, vyjely skupiny příslušníků Bezpečnosti v týž den a hodinu /před polednem 11.
-" Toto "poslání" konali manuelní prací v dílnách, továrnách, na polích, Valeších a lomech pod dozorem příslušníků Bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cf4f4c11372af7b71232692b7b6a5fe148957db7cd0ca4ea230ae25500b1b65
+size 293

@@ -1,4 +1,3 @@
- Českoslovenští komunisté už od roku 1945 a tím spíše od únorového puče do omrzení omílají tvrzení, že spojenecká smlouva se Sovětským svazem, jejíž výročí se ostatně každoročně bombasticky a devotně oslavuje, je jedinou spolehlivou zárukou bezpečnosti, samostatnosti a jednoty Československa.
- Odbylo se to, podle jejich slov, pouze důrazným upozorněním příslušníka Státní bezpečnosti, který bydlel v Praze v jejím rozděleném bytě: „Dovedeš si, Marie, představit, jaký život bychom připravili tvému Honzovi, kdyby ses nevrátila?" Honza byl její 19-letý syn, student.
- „Slavnosti" přihlíželo několik náhodných zvědavců a po nej- kratši možné ceremonii přišel mladý příslušník Veřejné bezpečnosti a prohlásil, že se nesmí překážet provozu a vyzval shromáždění k rozchodu.
- Máme v tom směru zkušenosti a víme, jak hrubě dovede odpovědět šofér nebo jiný zaměstnanec, když je požádán, aby dbal bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8503974444597870668c9d0eaaf6af607e4d57f8d20fdeb06aea8627867aadbc
+size 1011

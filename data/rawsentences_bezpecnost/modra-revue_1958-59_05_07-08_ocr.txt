@@ -1,1 +1,3 @@
- Je poměrně snadné si domyslit, že národ zavrhuje komunismus, jeho diktaturu, osobní nesvobodu, odstranění občanských práv a zrušení veškeré osobní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca4ade67dbd691af3dbb33efd2ceb2f94923325731f0cb24decb780e8aafe6d
+size 178

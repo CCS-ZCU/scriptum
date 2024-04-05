@@ -1,1 +1,3 @@
-mít vodvah sát bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5dc110de04cf0752b60a0097b9f4bd683dfd38556e64cde700567071b39e1fe
+size 27

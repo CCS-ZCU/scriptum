@@ -1,2 +1,3 @@
- Za dvě hodiny přišel Kasič znovu, ale už s hlídkovým vozem Veřejné bezpečnosti.
- Ve výpovědích příslušníků Veřejné bezpečnosti, kteří zákrok prováděli, byly rozpory' a nesrovnalosti, předseda Místního národního výboru uvedl, že zákrok policie nežádal, protože se obžalovaní chovali slušně, nicméně to všechno dr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a05c458d71962a4224688ebaf7a445c24c0753d95601df70e15b2a788cb7c5
+size 358

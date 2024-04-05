@@ -1,1 +1,3 @@
-Australan lehkomyslní nebezpečí všímavý svoboda hájit chtít věřit
+version https://git-lfs.github.com/spec/v1
+oid sha256:40445a46a116b1f693ce803e82fd090eb42bfc094a387a4062806ba00f52e6a7
+size 76

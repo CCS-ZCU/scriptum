@@ -1,1 +1,3 @@
- o Místo ČSFR v řídící trojce Konference o bezpečnosti a spolupráci v Evropě vystřídá Slovenská republika, oproti tomu, co Slovenská republika vyjádřila souhlas s tím, aby kandidaturu na místo nestálého člena Rady bezpečnosti Organizace spojených národů přijala Česká republika.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fd7dce33c7d9ff7561abd59b28cf750d7a724d8c8c3c5084bce0f9e76f6d1cc
+size 307

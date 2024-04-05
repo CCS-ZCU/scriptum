@@ -1,1 +1,3 @@
-utíkání draft spojený osoba uprchlík velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:693784f8c816c58682c2ba6a6a505733d8404ef8992faa20134c3f5033da1fed
+size 61

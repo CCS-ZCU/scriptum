@@ -1,2 +1,3 @@
- možnost zemi volně opustit a zase se do ní vrátit, avšak v zájmu klidu a bezpečí--čs.
- Ne bezpečí v této politice se neshledávalo, vždyť byla moderní doba, nikoho v moderní době nenapadne válčit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0df5576eb783b1ac6d52c8fa283e07b170a774e4208df5d1a91fc407ce907d
+size 217

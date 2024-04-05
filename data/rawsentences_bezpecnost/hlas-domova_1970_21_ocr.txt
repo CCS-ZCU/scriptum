@@ -1,2 +1,3 @@
- Ve stejném smyslu se řečníci - včetně referenta - vyslovili, pokud se týká eventuální konference o "evropské bezpečnosti” .
- konference o evropské bezpečnosti, zdůrazňuje re- soluce, že je nutné trvat na tom, aby zabezpečila rovnost státních suverenit a práva všech národů, aby bez - jakéhokoli nátlaku nebo zákroku zvenčí mohly samy svobodně určovat svůj vlastní osud.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6262da693900355abdfbbca38f502c4e25287d90416dd7a5de8ed58120e6573
+size 407

@@ -1,2 +1,3 @@
- Příslušníci bezpečnosti po prohlídce jeho bytu zkonfiskovali bibli a „nedoporučili“ mu během zájedzdu do zahraničí nosit řetízek s křížem.
- Kobliha, Londýn) polemizuje znovu proti Radě svobodného Československa a jiným organizacím, žádajícím vídeňský sekretariát Konference o bezpečnosti a spolupráci v Evropě, aby Charta 77 byla uznána za neoficiálního pozorovatele helsinských usnesení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb54f27bee9ddb27fb5a7d77b20cbd3ff66d65aef588c4f820b34662a82411d
+size 432

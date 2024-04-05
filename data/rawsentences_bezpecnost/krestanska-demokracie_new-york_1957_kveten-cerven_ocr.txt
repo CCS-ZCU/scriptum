@@ -1,1 +1,3 @@
- Ti, kteří chtěli bojovat a kteří čekali na pokyn, ti se dočkali místo , signálu k boji - Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad73149337a13690a0b7a5d529679f132b50cea7e770884be61abef7ca5c571
+size 122

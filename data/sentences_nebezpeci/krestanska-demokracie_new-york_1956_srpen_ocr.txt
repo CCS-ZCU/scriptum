@@ -1,1 +1,3 @@
-stud skrývat Masaryk zpívat moci sokola zavolat ^udat žižka volat —nepřátel lekat množství hlesmout pokrokový pivní hlas provolávat Hus kBranout poznaný pravda smrt západní pkryfcj ^pfcotektor usmívat radost naučit národ umět hrát
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc4409575f38de60e612e2c79a5a046d79129888e905c1cc3a32c4fbbc9602b1
+size 252

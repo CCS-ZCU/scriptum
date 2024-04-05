@@ -1,1 +1,3 @@
- Ostatně, pokud jde o bezpečnost, my divoká zvěf , nebereme život tak vážně jako ledi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0549f053c95b15de24d04cd5a8a35832b18ed28fc95d407c4a6de28d3e17840e
+size 95

@@ -1,2 +1,3 @@
- • Z Caracasu se oznamuje, že venezuelská vláda začala vyjednávat s partyzánskými skupinami aby složili zbraně, za což jim nabízí záruky osobní bezpečnosti a veškerá pol.
- Spojené státy nebyly nikdy útočníkem, avšak jsou stále zárukou bezpečnosti malých národů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90a70f78ddb7ccbd9bc1a0718a20ba17d4f3b51fb4ab05bf7b7f6d570503c4ab
+size 293

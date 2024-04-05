@@ -1,4 +1,3 @@
- Jenom v rámci této strategie může se stát životně důležitým článkem v americké obrané, článkem, jehož ztrátu si Spojené státy v zájmu vlastní bezpečnosti nebudou moci dovolit.
- Jestliže toto a podobné uvažování hrálo skutečně vlivnou úlohu ve výsledku' posledních australských voleb, pak se snad dá říci, že Austrálie opravdu začíná odko- pávat staré koloniální peřinky, jak si její občané pomalu uvědomují, co je pro jejich bezpečnost nutné, co je pro ně zbytečné a co je pro ně škodlivé.
- Laco Novomeský V době Stalinova kultu se přes formální hovory o významu práva a zákonnosti v samotných státních orgánech, ve sféře trestního i občanskoprávního soudnictví, v prokuratuře i v bezpečnosti, v orgánech státní správy vůbec, připouštěla libovůle, kterou určitý kádr veřejných činitelů považoval přitom za politicky oprávněnou, která se kryla za pojem diktatury proletariátu.
- Připomněl po- depsání smlouvy o "přátelství a vzájemné pomoci mezi ČSSR a SSSR”, která se stala "základním kamenem naší svobody a bezpečnosti, svobodného rozvoje naší vlasti, šťastného života našeho lidu”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e3ca99376df4c8ffee1e2808e1ed2400f042afd3770d168597d833dd17d65d
+size 1216

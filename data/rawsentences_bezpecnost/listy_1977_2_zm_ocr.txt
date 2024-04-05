@@ -1,20 +1,3 @@
- ledna 1977 před polednem obklíčily vozy státní bezpečnosti uprostřed normálního provozu osobní vůz, ve kterém jeli spisovatelé Václav Havel a Ludvík Vaculík s hercem Pavlem Landovským, aby doručili vládě ČSSR, Federálnímu shromáždění a ČTK text Charty se všemi podpisy a zaslali jej poštou i jeho signatářům.
- Jmenovaní a dále spisovatel Zdeněk Urbánek byli pak řadu hodin vyslýcháni, ačkoliv už z obsahu zabavených obálek muselo být bezpečnosti zřejmé, že její akce je nepři- měřená i neoprávněná, protože Charta 77, jak dokazují i právní expertýzy, které si dala vypracovat, neporušuje v nejmenším čs.
- ledna před polednem, neboť bezpečnost vlastně sama dobrovolně převzala úlohu pošty, což je v daném případě jistě rychlejší instituce.
- Urychlit diferenciaci ostrým zákrokem bezpečnosti (strach z protistátní činnosti, však kdyby bylo třeba, prokuratura to odklepne).
- "Inkriminovaní" jsou veřejně vytahováni uni- formovanou bezpečností ze svých pracovišť, jako by právě ukradli soustruh, eskorty je vodí po ulicích jako prostitutky Či notorické alkoho- liky a na obvodních odděleních, kde čekají na odvoz, také tak s nimi zacházejí, za hluboké tmy se v domech rozléhá řinčivé zvonění u dveří bytů, je vyhrožováno násilím, jestli ne- půjdou ihned, jsou vyzýváni Jménem zákona, v budovách státní bezpečnosti jsou zastrašováni všelijakými floutky "že by se měli řezat bičem", množí se nezákonné prohlídky prováděné až devíti "pracovníky".
- Podle zpráv dobře in- formovaných kruhů jeho samotné zadržení bylo motivováno snahou Státní bezpečnosti zabránit mu v činnosti, která souvisela s Chartou 77.
- O popularizaci se postarala horlivost severočeské Státní bezpečnosti a její snaha vymýtit v kraji Chartu 77.
- Jestli ovšem vedoucí pracovníci bezpečnosti jsou tak neinformovaní, že si nedvedli představit skutečný "dopad" tohoto snímku na západní veřejné mínění, pak to překvapuje u Jana Zelenky, ředitele Cs.
- Kanadský diplomat by se k tomu vyjádřit mohl, ale neví se, zda existuje a kde je? Mohla by to říci bez problémů naše bezpečnost, ale ta právě mlčí a mluví raději o špionáži a o Ornestově spojení s "anglickou rozvědkou".
- Bezpečnosti a oficielní propagandě stačí, že Ota Ornest za války, jako účastník odboje, pra- coval v českém vysílání BBC, že po válce překládal z angličtiny četné divadelní hry, že do Anglie jezdil a měl tam mnoho přátel, aby byl "usvědčen" ze špionáže.
- Hájek, Václav Havel, Pavel Kohout, profesor Patočka (který tragicky skonal po příliš důkladných "výsleších" státní bezpečností) a další byli po týdny a měsíce "odhalováni" jako rozvratníci, kontrarevolucionáři, zrádci, Špioni Západu, perverti, práskači, vyvrhelové a kriminální zločinci.
- Existuje pro KGB, oro státní bezpečnost, pro zastánce "tvrdé inie", pro skalní stalinisty.
- 38  D O K U M E N T Y : Oznámení Ludvíka Vaculíka Obvodní oddělení Veřejné bezpečnosti Fr.
- ledna 1977 Správa Sboru národní bezpečnosti hl.
- i v Závěrečném aktu konference o bezpečnosti a spolupráci v Helsinkách 1.
-1977 byli Státní bezpečností ne- zákonně zadrženi občané, kteří jeli předat uvedený dokument s průvodními dopisy vrcholným státním orgánům ČSSR.
- Havel se "vzdal bezpečnosti" a byl zadržen z jiného důvodu, než je Charta 77.
- orgány dostaly "Prohlášení" teprve poté, co se o něm psalo v cizině, je zamlčována skutečnost, že právě zásahem orgánů bezpečnosti bylo zabrá- něno řádnému předání "Prohlášení" jak Fe- derálnímu shromáždění, tak vládě republiky a že právě tento zásah i další represivní kroky proti signatářům vyvolaly zvýšený zájem a zostřenou kritiku v zahramičí.
-r, obtěžován několika osobami, dávajícími najevo, že patří k státní bezpečnosti, aniž ovšem se mi jakožto takoví představili či legitimovali.
- bezpečností, fysicky napaden a podroben osobní prohlídce, při níž mi mimo jiné byly odebrány i 4 výtisky deníku Morning Star ze dne 9,10,11 a 12.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25189cd810297728c0c8e63e4c0298243fb31c55dd79148a78c8f56c42dde923
+size 4267

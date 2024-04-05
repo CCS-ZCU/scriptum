@@ -1,4 +1,3 @@
-většina obyvatel středoasijský republika obávat nový srážka čínsko sovětský hranice válka Čína napsat vedoucí redaktor hlavní list tadžický komunistický strana Gajip Kalanda rov dodat usilovat bdělost připravenost zveličovat nebezpečí
-SNR přihlásit myšlenka společný stát odstraněný nebezpečí Slovensko plynout skončení válka považovaný přátelský poražený stát jednaný
-nebezpečí přímý konfrontace supervelmoce zažehnaný skutečnost dojít dát křehký politika zmírňovaný napětí
-sovětský veřejnost moci kontrolovat jednání vláda hrozit osudný nebezpečí vláda jed noho den noc roztrhat mezinárodní dohoda ujednání
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6b98cb04604e9dc7e1be647c2b58ca0c8ab017a6056299544a9e606b3bc8daf
+size 686

@@ -1,2 +1,3 @@
-žák přicházet zformovaný život poskytovat pocit bezpečí zázemí jistota
-archa pokus vytvoření fungující společenství postižení moci najít bezpečí láska domov pocit patřit rodina společenství moci růst velký vnitřní svoboda říkat Theres Vanierová Jeanův sestra
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdb8f84db0876625b0f1ede652f7c9f96781d87c619d0156373e28492ae6e797
+size 292

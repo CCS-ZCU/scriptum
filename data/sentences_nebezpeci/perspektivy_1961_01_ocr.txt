@@ -1,4 +1,3 @@
-časopis pojatý Leibnizův monada getto dívat bratr druh společný cesta společný nebezpečí nepříjem nesympý cko konkurence
-rodinný přátelský svazek zpřetrhaný sladký bezpečí domov ztracený teplý kouzlo mateřský jazyk umlčený samotářský myšlenka živý rostlina vykořeněný nebezpečí zahynutí
-projít zkouška ohrož nost ocitnout paradoxní nebezpečí shovívavý sebeuspokojení
-dobrý připomenout čínský písmeno krise značit velký nebezpečí velký příležitost
+version https://git-lfs.github.com/spec/v1
+oid sha256:488e05ebf18ea097c92601b5bccc53e78f567c203806ff06f9ee278a791e4ff5
+size 508

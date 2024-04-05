@@ -1,1 +1,3 @@
- Pôjdu s ním stále a stále — až do skončenia času, lebo v ten deň sme zahodili žiale, a z dejín, ako ružového puku vylúpili sme krásu MYSLÍTE CESTOVAT DO STARÉHO KRAJU? Hláste 5a ku mne Mary Lipchák Je ibb vybavím letenku, re bezpečím pre vás vízum do Česko-Slovenska.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce0fb2644c501966c8d750b497c8de68dade3ea9b9f3ad6284ea78204492ea43
+size 109

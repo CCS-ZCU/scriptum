@@ -1,1 +1,3 @@
-dokázat domyslit nebezpečí hrozit mladý generace
+version https://git-lfs.github.com/spec/v1
+oid sha256:970af1e2bea0111233f5e3866d89463b58d31e0e99bba9acd266ec780949b7a7
+size 53

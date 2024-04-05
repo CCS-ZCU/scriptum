@@ -1,1 +1,3 @@
- Zájem měla náhle i bezpečnost Státní, která i mě předvolala a žádala informace, o jakouže to imperialistickou velmoc vlastně jde a co to má v rajónu za diplomata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b1fcaf991f3b19aaa3466ea7fcb7242dee032d25e52b5f6218175d5cd7a35ce
+size 179

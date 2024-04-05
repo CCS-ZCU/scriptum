@@ -1,2 +1,3 @@
-bezpečnost zaručený výše vládní agentura
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:809db2c7068b8215fa3954b3216cd73d550874e1061719361510389a8addc2ee
+size 49

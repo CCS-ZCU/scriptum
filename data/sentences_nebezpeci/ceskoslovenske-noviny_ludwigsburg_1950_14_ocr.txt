@@ -1,2 +1,3 @@
-svět svoboda svoboda nýcba názor šikovat boj jmé lidství bolševický nebezpečí zotrodující imperialismus
-ideologie alfa omega výkon roz hodující činitel litický komisař větský svaz úzkostnout dbát číhat nebezpečí přísný obje ktivismus západní rozhodčí centimetr nep^e
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6289c2310c7a20a3fc0b81e0fbce765c47477d8fb79ed5b4dc9d9ca4bc514fd
+size 300

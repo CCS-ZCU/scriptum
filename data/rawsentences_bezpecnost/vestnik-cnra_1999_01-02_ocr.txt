@@ -1,1 +1,3 @@
- A tak manželka jezdila skoro denně do Prahy vyřizovat si cestu za mnou na ministerstvo vnitra a stráž státní bezpečnosti, kde často stála dlouho ve frontě než přišla na řadu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deea4b18c665e8fdb56c9d52d9e628e3d6be96481a3260a9a65b263142e9ec9f
+size 191

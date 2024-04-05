@@ -1,2 +1,3 @@
- Když člověk už sedm let žije v atmosféře absolutní akademické svobody a legálního bezpečí, ztrácí dejme tomu jemný smysl pro jinotaj, podtext, pro minuciézně zašifro- vané poselství, jejž tak úspěšně v čtenářích pěstuji sofistikované diktatury.
- Mnozí z nich se na ve1- řejnosti projevuji jako stoupenci oficiálních norem a kánonů, zatímco jejich skutečný Život — život kulturních činitelů — je přímo fantasticky a neuvěřitelně "oddělen" a odeh- rává se (probíhá) ve snovém světě fetišů & pokladů v bezpečí absolutního soukromí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7accd13935687b960c6a7daf7129274c9998b5d6641a004c3765a0a0636a4d61
+size 594

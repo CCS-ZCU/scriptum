@@ -1,2 +1,3 @@
-Prag matista domnívat konference moci zmenšit nebezpečí atomický válka strana připravený důsledek strana jistota předvídat
-odsun Belgičan země zhroutit ustat výroba zásobování potravina pitný voda elektřina doprava objevit nebezpečí hlad epidemie
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3f1485a04a307dd3daae2de5346f797a3123b2b2f7506b271612b15535e26e4
+size 267

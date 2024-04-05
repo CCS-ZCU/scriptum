@@ -1,1 +1,3 @@
-malý míra zásluha politický emigrace munistický nebezpečí stát hlavní bod politický program poválečný Austrálie
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e2acfee3154e9715da2c41a26e2d79337a18130bc87cbbba192d586d8146dc1
+size 128

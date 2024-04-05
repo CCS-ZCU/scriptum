@@ -1,3 +1,3 @@
-vzít úvaha psychoanalytička interpretace nebezpečí přeceňování hledisko upozornit Hnila Mikuláš Medka rok druhý anketa surrealismus
-úspěch prostora metro solidarita skupina pomáhat Crivracet nebezpečí
-ukazatel vydávat nebezpečí eso stan Moáda
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3dac89180c19f12216558990583faf8743fec63eaf745fa512cd1e39ac847e1
+size 264

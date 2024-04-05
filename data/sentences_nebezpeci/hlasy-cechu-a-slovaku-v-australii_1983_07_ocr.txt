@@ -1,2 +1,3 @@
-židovský vězeň Oskar Schindler nebezpečí skončení válka nařídit zastřelený
-chtít zřídit PLO stát znamenat smrtelný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e9a8e371a254c1435ab897504cee8af8f4ddf1db9840e26f1deb1074b9fc0ec
+size 145

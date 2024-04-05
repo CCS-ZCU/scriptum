@@ -1,2 +1,3 @@
- Vžydyť chrám také chce ustavit v nebezpečné oblasti bezpečí zákona číslem, vyvážeností svých proporcí a bytost- nou redukcí forem.
- A jestliže dnes musí planeta čelit ne- bezpečí vymření, je to jen naší vinou, vinou nadměrné spotřeby a otravy vzduchu a moří.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff59d3af6874967d2655660245559995d6637eae422e9cc50f0fa257f9567b4d
+size 147

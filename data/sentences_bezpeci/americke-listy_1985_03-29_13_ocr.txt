@@ -1,1 +1,3 @@
-západní Evropa bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:dace8019567fb03359332f7bfadb1eb7adc641efd120472cbee36a5a4067960c
+size 27

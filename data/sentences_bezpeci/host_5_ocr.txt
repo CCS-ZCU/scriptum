@@ -1,6 +1,3 @@
-jediný místo takovéhlý poklad bezpečí ostatní pacient
-Ivan Blatný churavý člověk považující ústav místo cítit bezpečí
-HUS
-Napoleon
-vyvrhnout stav bezpečí žít
-další den pršet cítit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:87452ad2e1607be5b5ec9279bdb1ddb7fdadac6ece5d17fe8bf53b0da0f5047a
+size 217

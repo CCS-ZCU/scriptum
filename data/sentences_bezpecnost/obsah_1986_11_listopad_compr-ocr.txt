@@ -1,1 +1,3 @@
-kdyl dostavit místo sraz čekat státní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b286e8991afd0feaf8dac5ec71114d03c0c2ff0388c8e0742736b2f655b422
+size 54

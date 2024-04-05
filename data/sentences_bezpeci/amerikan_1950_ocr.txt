@@ -1,1 +1,3 @@
-vědět lze úvodí Mapoča dostat území tehdejší náčelník akonkagujský Indián odmyslit fysický námaha směr poražený Indián zajistit bezpečí možnost jistota setkání vracející vojenský moc guvernér Valdivie
+version https://git-lfs.github.com/spec/v1
+oid sha256:665b7d225f69240d171dbc204757c0c4995bf9a1b5573bf084c3cdb1da4c758d
+size 230

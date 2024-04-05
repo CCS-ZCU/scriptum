@@ -1,2 +1,3 @@
-nesvatý návštěva poctít Praha šéf sovětský výbor státní bezpečnost oficiální název sovětský KGB
-prokazovat způsob československý státní bezpečnost pracovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6b56f06b8bfeb27673eeeed1bdc787ad279986238ceda5218a20c68cdc2caf
+size 180

@@ -1,4 +1,3 @@
- listopadu zaútočili agenti státní bezpečnosti na vydavatele GL t.
- listopadu, blízko bydliště žurnalisty Vladimíra Pimo- nova, příslušnici státní bezpečnosti napadli redaktora EXPRES—KRONIKY Alexandra Podrabinka.
- Případ byl publiko- ván v časopise “Kriminalistika”, vydávaném hlavní správou Veřejné bezpečnosti pro potřeby Minister- stva vnitra a stal se součástí exposice muzea krimi nalistiky.
- To, že vrah byl až do svého zatčení place- ným agentem plzeňské Státní bezpečnosti bylo opomenuto asi omylem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d971f9c0f7359e7d139e3e1cb7b3a92b5120447a4e027ca9bbd7d6309defc6
+size 557

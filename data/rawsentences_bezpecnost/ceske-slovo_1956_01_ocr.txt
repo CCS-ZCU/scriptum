@@ -1,2 +1,3 @@
- Národní dům na Vinohradech zpustl a zchátral tak, že zvenku ohrožuje bezpečnost chodců a provoz v něm musel být z bezpečnostních a hygienických důvodů zastaven.
- S hlediska požární bezpečnosti je v domě tolik závad, že jen stavební odbor rady ONV Prahy 12 je vyjmenoval ve 22 řádcích.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e2e18d35e4dca326751175e0125557201dcf3c59926f0ad1b51aefd4bb2f803
+size 312

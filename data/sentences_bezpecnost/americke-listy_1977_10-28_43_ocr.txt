@@ -1,2 +1,3 @@
-stát národ chtít vyzbrojený zajistit bezpečnost
-závazek spojený stát jít bezpečnost pochybnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:639991f8700adce7eaba75a58dd86d058be51ea88224fc93e573f037b4b54eea
+size 112

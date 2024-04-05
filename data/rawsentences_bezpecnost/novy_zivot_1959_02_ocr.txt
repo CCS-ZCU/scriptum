@@ -1,1 +1,3 @@
- Podle f e p rozprášení tělesných pozůstatků může tedy nařídit Státní bezpečnost, zemře-li na příklad politický vězen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:487ebb77544b964bd5d311a4c94a435b588f28fba2ee78a6519af1fcff53a793
+size 138

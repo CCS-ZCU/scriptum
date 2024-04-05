@@ -1,4 +1,3 @@
- Vedela poskytnút svojim členom všetko, čo potrbnvalL a na druhej straně člennvia rodiny narichád^ali v nej svoju hmotnú l osobnú bezpečnost.
-Neodůvodně- ný zásah příslušníků pohotovostního pluku Veřejné bezpečnosti.
-ktorý byl proveden na příkaz Státní bezpečnosti jen proto,že tato mu potřobovala zadržet,znamená ve svém konečném důsledku popření práva na svobodu shro- mažďování a potvrzuje tak to,že v Československu stále platí,že moc přeó ché.
- vos tni stíhání,které zapoci: t státní bezpečnost v Bratislavě proti našim rpolnubeanúm,Jánu Carnogurs .
+version https://git-lfs.github.com/spec/v1
+oid sha256:388bb40c253dca74d6a3864db0190c2f14aebacdd1173fff14417bfe96c55122
+size 618

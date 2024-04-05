@@ -1,1 +1,3 @@
-lodní siréna boskat matka transřuse hlavní bezpečí loučit
+version https://git-lfs.github.com/spec/v1
+oid sha256:b34a2c4c6fb49018a78c5a2eb30b74b1c8af3ba80d34855b9696e90cfdf9f208
+size 65

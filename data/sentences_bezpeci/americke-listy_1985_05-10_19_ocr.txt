@@ -1,1 +1,3 @@
-spojený stát poskytnout Evropan záruka bezpečí Němec naděje sjednocení slm přítomnost Evropa
+version https://git-lfs.github.com/spec/v1
+oid sha256:398ce014797b8cab8153fe221ea9287d6f5f4e4fcdc36ae81effca6865595f58
+size 103

@@ -1,3 +1,3 @@
- z\ když soudruh velvyslanec ČSSR, Ilja Hulínský v Radě Bezpečnosti Spojených národů v New Yorku tvrdí čínskému delegátu, že afghánský lid je vděčný Sovětskému svazu za bratrskou invazi, podobné jako byl vděčný v roce 1968 československý lid, pak to vzbuzuje jen trapný úsměv a otázku, jak hluboko může mravné klesnout člověk, který si říká inteligent.
- Protivník se prostě pozval na poradu a sovětský poradce mu čestným slovem zaručil bezpečnost.
- Taylor v tom vidí chybu, protože Francie přestala podporovat skutečné úsilí o odzbrojení a Wilso- novu myšlenku kolektivní bezpečnosti pomocí efektivní Společnosti národů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99bbbcf76aed9fcf9029f192404fa25c07ac3ed19f5603901584e9a4a83f25dd
+size 686

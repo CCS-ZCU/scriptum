@@ -1,2 +1,3 @@
- Jako se to stalo v roce 1948, kdy jsme chtěli tolik být sví a Samými sebou — obrátivše se zády k hlubinám své Bezpečnosti.
- Každá země, která se chce postarat o bezpečnost svých hranic — jak je to její právo i její povinnost — , musí mít vojsko úměrné svým potřebám, vojsko, kterému nic nechybí z toho, co je nutné k obraně, kdyby země byla nespravedlivě ohrožována a napadena .
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bf30470b50dd104b769f9b05a1896a0bd7435add41bbb5c320c7c58193ff83b
+size 421

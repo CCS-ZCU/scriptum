@@ -1,1 +1,3 @@
-Templ vydat nebezpečí kontradikce
+version https://git-lfs.github.com/spec/v1
+oid sha256:096154c001fe57bd0fbc3b9460fef92792f04dd2284e13bcd8416c47fadd7d87
+size 36

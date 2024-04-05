@@ -1,5 +1,3 @@
-starý plast zůstat pevný nový měkký poiaal ohýbat nebezpečí uzavřít přístup buňka spodní plást
-moci udělat
-pochopit nebezpečí
-pozorovat zaujatý misijní práce nebezpečí hrozný opouštět země mít mysl velký věc zabývat dobýt celý svět Marie myslit
-jiný vidět nebezpečí blížit chtít věřit přijít odejít
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa187e71c8d3762a3724bdab9751dd83de96a9779eedd80b0ba59bc26c79a32
+size 346

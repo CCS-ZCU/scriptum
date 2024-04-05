@@ -1,2 +1,3 @@
-litr Tení ústřední základní myšlénka stat zaměřovat hrozit nebezpečí diskuse stát amorfní utvo rem objektivní váha jednotlivý subjektivní stanovísk lze zjistit
-přílišný váha autorita vést nebezpečí auto uritativnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9446877380437b48434733010f8d51351adcb0500eb2e74bcf4bd1c45622409
+size 246

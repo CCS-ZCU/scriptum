@@ -1,1 +1,3 @@
-počet přátelský posezení soukromý byt stávat shromáždění zákon stanovit mít host zákonný zákonný
+version https://git-lfs.github.com/spec/v1
+oid sha256:56869efdd306055c91985572c8c47fc24718ee175dddc94b6feab2ef109b6f48
+size 114

@@ -1,2 +1,3 @@
- Zbyněk na králova tvrdá opatření odpověděl z bezpečí roudnického hradu: 677 i i  2.
- Betlém praská vc švech, Praha si vůbec musí připadal jako králem osvobozená k reformě, arcibiskup jc zahnán do Roudnice, kde jc na pevném hradu sice v bezpečí, ale odkud ztrácí naprosto vliv, spálení Viklcfových knih jc zabavením kněžských důchodů draze zaplaceno, třebaže asi spíš do královy pokladny než do míšků postižených mistrů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b784381416e9a4b0a4a3fb3a92311cbfd7e17946af6365affbd88e77d8064479
+size 467

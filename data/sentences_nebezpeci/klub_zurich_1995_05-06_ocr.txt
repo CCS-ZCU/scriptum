@@ -1,3 +1,3 @@
-třetí nebezpečí rozpad církve
-lidé ohrožení podceňovat nebezpečí jednat přepad zdravý rozvaha
-chev zmocnit panika uva domit nebezpečí hrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e61fc841942eab3868cb719f7951adb8327cfb9eddd2b6ac9053f30f9787ed
+size 156

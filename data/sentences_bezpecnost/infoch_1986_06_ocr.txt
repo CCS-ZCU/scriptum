@@ -1,2 +1,3 @@
-zasahovat státní bezpečnost tvr život františkánský řád domovní prohlídka odňatý liturgický potřeba samizdatový náboženský lite ratura výslech stálý sledování
-odsouzený údajný kriminální delikt mít zpochybnit Házžt&m náboženský aktivita řeholní způsob životao státní bezpečnost používat dostupný prostředek zabránit vzrůstající vliv františkánský řád
+version https://git-lfs.github.com/spec/v1
+oid sha256:22292ee0409b44800225b75b4f4d58801979417130b1bf999d220d465767cc18
+size 401

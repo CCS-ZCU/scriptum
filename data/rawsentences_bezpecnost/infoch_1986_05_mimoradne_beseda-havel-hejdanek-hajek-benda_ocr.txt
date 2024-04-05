@@ -1,1 +1,3 @@
- Požadavkem pravdivosti a dásledné obhajoby i lidské osobnosti, důátojnosti a základních práv i v mezinárodních vztazích připojuje se k onomu proudu evropského myšlení, jenž se mír založený na rovnováze strachu mocenských bloků snaží nahradit mírem společné bezpečnosti a spolupráce při vzájemném respektováni jak stát- ní suverenity a sebeurčení národů, tak i ixáská^ýx lidských práv ve xx všech zemích; a jenž také stanoviska a návrhy obou mocenských bloků a seskupení posuzuje nezaujatě jen z tohoto hlediska.
+version https://git-lfs.github.com/spec/v1
+oid sha256:412552daa83662ac7c2cdec32139081ee5e8908928411c4f78efaf4b3a5223b6
+size 567

@@ -1,5 +1,3 @@
-nastalý mír nebezpečí pomíjet růst
-jasný důkaz rostoucí nebezpečí Evropa
-Václav Beneš upozornit nebezpečí návštěva obhájce komunismus jméno známý protestantský fakulta Komenský Praha
-kulturní výměna upozorňovat nebezpečí žádoucí host skrývající pravý poslání rouška umění náboženství sport
-rámec výše uvedený program vykonaný člen odbočka zaměstnání okruh americký přítel upozorňovat nebezpečí komunismus osud porobený národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b74c2d53515e03f0ec0dabd3f423781642bfc7b1f47e0630dcae1fabefdc35
+size 488

@@ -1,2 +1,3 @@
-připadat určitý otevírat prostor bezpočet rozmanitý nebezpečí nebezpečí postihovaný pravit nahodilý osobní prohlídka prohlásit rozhodnutí český prezident
-událost zajímavost Černobyl hrotý trest Štrougal léta výbuch ukrajinský atomový elektrárna Černobyl přiblížit šance potrestání zamlčet informace hrozící radioaktivní nebezpečí Československo
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b726ec6155b466780fb168a92d668feb0ff07d85f28e0ba1bb22412a9c35ee
+size 387

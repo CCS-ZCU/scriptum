@@ -1,8 +1,3 @@
- Pred vstupom do súdnej siene číslo 127 na prvom poschodí stáli príslušníci národnej bezpečnosti.
- Dovnútra vpustili iba príbuzných Gondovej a Novajovského, a celý rad « študentov », vraj poslucháčov právnickej fakulty, ktorí boli však v skutočnosti preoblečení príslušníci štátnej bezpečnosti.
- januára, v deň vyhlásenia rozsudku, sa námestie pred Justičným palácom hemžilo príslušníkmi národnej bezpečnosti, ktorí mali pre prípadných « výtržníkov » pripravené autá.
- do Čiech, aby sa jej členovia stali poradcami a či vodcami štátnej bezpečnosti.
- Na základe tohto udania štátna prokuratúra nariadi verejnej bezpečnosti domovú prehliadku.
- Konfrontácia sa teda štátnej bezpečnosti a komu- nistickei strane nevvnláca.
-: Ponajprv treba spomenúť, že veliteľstvo štátnej bezpečnosti premiestilo do oblasti boja proti tzv.
- Prípad doktorky Márie Sládkovičovej je charakteristický pre nový postup štátnej bezpečnosti v tomto ohľade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e229276c4d50f3e0651366fe5a35d32f20aa91ec42cc59c461de472029a827e5
+size 1018

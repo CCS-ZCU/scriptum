@@ -1,3 +1,3 @@
-dostat výpověd nastat vedro nebezpečí lesní požár
-štír Markéta
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b3032ce04d717801ffc2d31deddd907a3d53043eb88c1794d2d0801897db6d
+size 93

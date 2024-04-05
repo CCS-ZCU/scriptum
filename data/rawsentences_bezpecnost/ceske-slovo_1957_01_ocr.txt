@@ -1,5 +1,3 @@
- Bylo to zkrácení pracovní doby na 46 hodin týdně, nová úprava zákona o národním pojištěni, zvýšení důchodu pensistům, zákon, který má zvýšit bezpečnost horníků, dále nový bytový zákon a nejnověji snížení cen spotřebního zboží.
- Jeden z pavilonů patří komunistické státní bezpečnosti.
- Jsou tam na léčení lidé, kteří se buď při vý- slešíčh u státní bezpečnosti nervově zhroutili, nebo jinak jsou nervově narušeni.
- „Co dostáváme za uranovou rudu? Dostáváme za ni víc než světovou cenu — dostáváme za ni bezpečnost republiky i možnost rychlého rozmachu čs.
- Zato však přišla před několika dny návštěva orgánů státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:864d7feed4268828469789d0d089bbe98225c0435504647a33b4d4a9ad157b51
+size 720

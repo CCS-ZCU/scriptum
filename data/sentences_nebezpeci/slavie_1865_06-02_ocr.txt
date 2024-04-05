@@ -1,1 +1,3 @@
-kůň fintit cítit nebezpečí začít íždě okamženit kdyř
+version https://git-lfs.github.com/spec/v1
+oid sha256:9210be36c3b08bed99bce4d5285625a5c4507b56ad70c061fbe9880359d58fb9
+size 65

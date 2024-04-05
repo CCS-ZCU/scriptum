@@ -1,1 +1,3 @@
-naprostý bezpečnost úspora
+version https://git-lfs.github.com/spec/v1
+oid sha256:576bd181c5bb54de50bbc56aeff6ecaf81e87da06877bf1072dbc1312d13ef97
+size 30

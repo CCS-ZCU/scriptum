@@ -1,2 +1,3 @@
-nadějný pozdrav prostor poslední léta kombinace nemyšlení zbabělost zaručovat občan bezpečnost život kariéra
-bezpečnost zasáhnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:653cb1fb673164d31e035ec3f53f1fb67773dc062ac9c790759fe9bb6f69616b
+size 144

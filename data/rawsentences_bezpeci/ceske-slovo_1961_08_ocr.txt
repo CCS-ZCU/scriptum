@@ -1,1 +1,3 @@
- Také Polsko a Československo jsou sousedé Německa a mají stejný nárok na bezpečí a ochranu, jak řekl prof.
+version https://git-lfs.github.com/spec/v1
+oid sha256:352d038ef4458984d97f1f47a3ef75b2627e254bb119bc4b64f88667fd04eebe
+size 118

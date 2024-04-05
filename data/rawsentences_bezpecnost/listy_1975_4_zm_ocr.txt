@@ -1,11 +1,3 @@
- 1/75) Dopis č, 5 O policejním státu neboli fízlokracii Pomineme-li sovětské tanky a bodáky, nejdúležitější "politickou" silou, ^o kterou se opírá vedený normalisované KSČ, je Státní bezpečnost.
- Bezpečnostní aparát v současném Česko- slovensku má dvě hlavní složky — Veřejnou bezpečnost a Státní bezpečnost.
-000 (Obávám se, že ani pan ministr vnitra nedisponuje přesnějšími údaji: ministrům se totiž tolik nedůvěřuje -—> ministři přicházejí a odchází — či jako pan ministr Kaska, poněkud záhadně oadají z nebe — kdežto základní kádry státní bezpečnosti zůstávají nedotčeny po desetiletí pouze zub času — pense — působí pomalé personální změny v tomto strašném aparátě, (Podle posledních důvěryhodných údajů z Prahy má StB pouze v českých zemích na výplatních listinách 14.
- Nejistota v Praze panuje pouze okolo Chňoupkovy šarže!) Státní bezpečnost je organisace, které je všechno dovoleno: množství kriminální čin- nosti, které páchají její příslušníci, je nepo- chybně srovnatelné s celkovým objemem kriminality v ČSSR.
- Stát ni bezpečnost stojí nad prokurátory a nad soudy — žádná ze složek, pověřených její kontrolou, se neodváži odpo- rovat či zasahovat do činnosti této sociali- stické Mafie.
- Činnost státní bezpečnosti a úkoly, které plní (spíše: které si dává) je natolik rozsáhlá a rozmanitá, že i člověk znalý poměru se nepřestává divit.
- Nejvyšší politické orgány —• a vlastně politické orgány všech stupňů, se bez služeb státní bezpečnosti nemohou obejít: dostávají od ní informace, vyslovují jí svá přání a používají ji výhradně též pro svůj styk s lidmi, kteří patří k nižším kastám.
- Státní bezpečnost slibuje návrat do zaměstnání, do funkcí (plní tedy funkci zaměstnavatele i kádrového referenta), slibuje vydání cestovního pasu atd.
- Státní bezpečnost sleduje způsob obživy lidí z "gheta", dbá, aby si příliš nevydělali, kon- troluje jejich majetkovou situaci a finanční zdroje: v roce 1973 byla vyslýchána řada akademických funkcionářů o honorářích (a jejich výši), které byly v letech 1968-1969 vypláceny lidem, kteří byli potom, v roce *) Od ledna 1974 v cizině.
- Všichni víme, že v rámci boje proti třídním nepřátelům a západním imperialistům a v rámci výchovy našeho lidu musí státní bezpečnost poskytovat tisku k uveřejnění materiály, jež jsou pocho- pitelně přizpůsobeny potřebám tohoto boje a nemohou se řídit falešnou objektivitou a po- klonkováním před fakty.
- Státní bezpečnosti netrvalo ani týden než zjistila, kclo je autorem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3284e8cd67f9912be1b832da2389ec9096dffaceab3d3ba4759c793f12c539fd
+size 2764

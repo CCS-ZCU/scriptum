@@ -1,4 +1,3 @@
-strana koaliční opoziční sociální demokracie odmítnout možnost spolupráce strana potvrdit vůle zachovat demokratický charakter stát zbavit jednání budoucí politický tvář nebezpečí podezření anti demokratický zvrat
-velký úskalí instituce ombudsman nebezpečí úřad bedra převzít odpovědnost nedostatek špatný fungování dosavadní justice
-další případný odborný výzkum rozbor nový nebezpečí čelit mít přehlédnutý jednoduchý princip platný svět lidé jít považovat silný
-jistý nebezpečí různý skrmovaný zvíře zdravý nemocný nemocný část skrmovat zpracovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd0818b2373205b16f31b03f7827143d8db99f162d773894b2fc33282449c66
+size 623

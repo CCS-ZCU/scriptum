@@ -1,2 +1,3 @@
-nebezpečí válka válečný zpěv šení prsa strana ješ znamenat oprava dovat válečný nebezpečí
-lékař zdaný beznadějný stav nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:208e76c45978ea8864e12ef66613ab5d88ed5240c9a9b8432d0702d2f68aae5a
+size 138

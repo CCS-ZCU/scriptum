@@ -1,2 +1,3 @@
-z nich přišlo z bezpečnosti.
- Když jsem v roce I960 odmitl spojit svou práci s činností agenta východoněmecké špionáže, zavřeli mě na dva roky do sklepní cely ministerstva státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8680a2502960a662c36a5046db5b83d0b4210e23b9646521d3e228671b7a78f1
+size 211

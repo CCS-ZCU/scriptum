@@ -1,2 +1,3 @@
-jíst scházet bezpečí svoboda
-pravidlo zůstávat zásada šeď jediný hlubina bezpečí režimní hlídač
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b054c114588e01d4fbe4713bb5fea498d47a364043064c946154030b5867cf5
+size 112

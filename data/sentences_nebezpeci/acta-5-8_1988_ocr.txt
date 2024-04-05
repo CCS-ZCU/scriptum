@@ -1,8 +1,3 @@
-vznik samostatný československý stát rok rozpad Rakousko uherský monarchie vést zásadní změna politický mapa Evropa předznamenat budoucí perspektiva nebezpečí
-český slo venský inteligence doba rozdělit skupina přesvědčení oportunismus přijmout kulturní pole tik nový režim druhý uvědomovat nebezpečí hrozit chovní identita jedinec celý národ nízko společenství pokoušet čelit pokračovat práce vlastní vědomí svědomí mít vyhlídka uplatnit práce
-další nebezpečí mít kultura sloužit společnost minulost sloužit strana ideologie
-inteligence hrozit nebezpečí utkvět ghetto ctnost
-děj zasazený doba předválečný válečný rozerový diň hrozit nebezpečí nacistický zákon zničený
-socialistický společnost uskutečnit praxe etický ideál hlásat hlásat podoba nabývat transformovaný nebezpečí spotřební člověk
-hluboký zájem nalezení rovnováha duchovní citový prožívání eli nuj povídka náznak autobiografic kůs motiv nebezpečí sentimentálnost hoto typ próza obvyklý
-říci dobrý víra souhlasit vystavit nebezpečí soustředit pozornost StB
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0c5632c57c949ea1be5f3e51cedf127aa336c7819bc0621fe2e83c606464d4
+size 1127

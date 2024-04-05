@@ -1,4 +1,3 @@
- Ty by zaručovaly bezpečnost jedna druhé.
- V Ženevě se velmoci dohodly na bodech, o kterých se bude jednat, sjednocení Německa, evropská bezpečnost, odzbrojení, styk Západu s komunisty.
- V otázce sjednocení Německa nedošlo v Ženevě k dohodě a velká čtyřka přešla k problému e v r o p s k é bezpečnosti.
- í’o schodišti, které vroubí jako čestná stráž členové Sokola v zahraničí a Sboru bývalých příslušníků Strážních oddílů národní bezpečnosti v exilu, vstupuje právě velitel orelských divisí, jejichž šiky mohutni od Aše až po Ural.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd5886fa527bb628c78345ec0b65c2e5424829496d0003f2df585baee22f866a
+size 597

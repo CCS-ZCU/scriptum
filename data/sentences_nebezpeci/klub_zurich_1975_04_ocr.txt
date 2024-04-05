@@ -1,7 +1,3 @@
-sopka vybuchnout nebezpečí akce Baader Meinhof banda
-udět církev
-Gomez domnívat Portugalsko velký nebezpečí komunismus
-ústava zaručovat svoboda rodič vychovávat dítě vůle poukazovat nebezpečí státní monopol výchova
-nebezpečí kapitalistický obklíčení SSSR trvat nutný budovat komunismus rámec litr nořit
-celý národ nebezpečí upadnout barbarství horší brodit velký část svět příchod vykupitel
-nebezpečí církev mlčet smět mlčet
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e7e969718f0d3454a86517560bb0b96db0ec0e7095fd689e6f712899bf7b39
+size 473

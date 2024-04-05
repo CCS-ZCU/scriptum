@@ -1,3 +1,3 @@
-československý republika nastávat čas zvýšený nebezpečí
-hrdelní nebezpečí tkvět jméno Krč Motol znamenat lepší motolik působit obrovský novorozený velkoměsto
-nákladný úprava Labe změnit charakter město zmizet nebezpečí jarní záplava ohrožující severní okraj Pardubice
+version https://git-lfs.github.com/spec/v1
+oid sha256:6df2254ba6f878536cdc44acc5907ced8d1ccf282f0ee9e30ce817e2dfbf1902
+size 302

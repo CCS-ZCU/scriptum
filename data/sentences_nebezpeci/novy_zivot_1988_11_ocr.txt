@@ -1,1 +1,3 @@
-legenda vypravovat Kri stus poslat edesský král Abgar plátno otištěný tvář doba nebezpečí zazděný
+version https://git-lfs.github.com/spec/v1
+oid sha256:96a69864f20542b4fc64723a87c7f07473cd3e9f922f658666d198b4df1acc80
+size 109

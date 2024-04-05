@@ -1,1 +1,3 @@
-chtít matka pán bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:44a5f8f947f09a8c65576327ecf0a36fedef89efbf32b138d1e020f5f723a286
+size 28

@@ -1,1 +1,3 @@
-Z OBSAHU Metoděj panonským a moravským arcibiskupem • Středa: Co je církev? • Vrána: Experiment s pouští • Zahradníček: červen • H.: Lěonid Brež- něv »Hrdinou ČSSR« • špidlík: Jan Hus v době ekumenismu • Veselý: Lidé a zvířata • Dacík: Křesťanský život prýští z milosti 9 Stalo se ve Vatikáně, ve vlasti, v exilu a jinde ve světě • Píše sestra Emanuela • Naše povídka: Racek, Strach R. XXII • ČERV EN-ČERVENEC 1970 [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:914403431de89e01fdadeae715975b2c825da79912fc6bba4d16d1f4b91e62fe
+size 487

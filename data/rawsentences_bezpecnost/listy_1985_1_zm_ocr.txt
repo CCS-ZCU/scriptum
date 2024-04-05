@@ -1,16 +1,3 @@
- MYŠLENKA KOLEKTIVNÍ BEZPEČNOSTI V EVROPĚ Proto se ani nesetkala s velkým úspěchom my- šlenka uvést do politiky znovu Evropu v jejím plném zeměpisném rozsahu, přednesená sovět- skou vládou po Stalinově smrti v rámci pokusů obnovit dialog mezi velmocemi a jako prostředek proti vyzbrojení západního Německa.
- V návrhu na kolektivní bezpečnost v Evropě počátkem 1954 spatřovala druhá strana jen manévr mající uplat- nit v této celé Evropě mocenskou převahu SSSR, vytlačit, popř.
- Nakonec odmítavý postoj Západu vůči tomuto návrhu byl uváděn jako důvod podepsání Varšavské smlouvy, která ostatně v samém textu podmiňuje svůj zánik zříze- ním systému kolektivní bezpečnosti v Evropě.
- V Evropě na základě Jalty a Postupimi v rámci velmocenské «čtyřky», zajišťující převahu západ- ních mocností proti SSSR, a v celosvětovém měřít- ku naopak blokováním Číny, udržují izolaci Sovět- ského svazu v Radě bezpečnosti OSN i mimo ni.
- Deprimující je stagnace jednání mezi státy NATO a Varšavské smlouvy o sníženi vojsk a výzbroje ve střední Evropě, zahájené para- lelně s Konferencí o bezpečnosti a spolupráci v Evropě 1973 ve Vídni, a povzbuzující není ani dosavadní průběh stockholmské konference o opatřeních k posílení důvěry, považované svého času za nejvýznamnější výsledek Madridu.
- Autoři 1 obhájci těchto opatření na obou stranách mají pro ně zdůvodnění, znějící přesvědčivě, vezmou-li se na základě oněch úvah a výpočtů, založených na tezi, že jen rovnováha ničivého potenciálu a strachu z něho může být základem bezpečnosti a «míru» (jakožto pouhého stavu bez války).
- Bezpečnost, pojímaná vládami evropských států z hlediska vládnoucích ideologií, nedovoluje jim se zcela oprostit od toho- to faktoru.
- Důstojníci bezpečnosti, kteří emigrovali, jsou nevinní, i prominenti politického života se zřídka kdy zabývají vlastním podílem na chodu dějin.
- V tom období k mnohým z nás soustřeďovala bezpečnost zvýšenou pozornost a je- den z prvních signatářů Charty 77, doktor František Kriegel, přirozené, byl poctěn zájmem sledovačů vrchovatě.
- Tehdy v činžáku na Vinohradech, kde František bydlel se svou fenou Rivou, pracovníci bezpečnosti své řady notně posílili a uspořádali představení a i okázalé.
- A znovu pronásledování s kratičkými záblesky naděje, celý ten čas téměř Čtyřiceti let, se zatímním vrcholem v podlém zabavení Františkova archívu pracovníky bezpečnosti, v opakovaných a marných žádostech jeho ženy o navrácení písemností.
- Zmírnění vnitřních tlaků na československou společnost, náznaky jejího smíření, by jistě positivně působily na tehdy se rýsující konferenci o evropské bezpečnosti.
- Předmětem výměny informací a názorů byly vztahy mezi Východem a Západem v Evropě v souvislosti s obnoveným jednáním mezi USA a SSSR, vývojové možnosti v zemích sovětského bloku, zejména v Československu, a problémy spojené s úsilím o dodržování zásad Závěrečného aktu Konference o bezpečnosti a spolupráci v Evropě z Helsink 1975.
- Ani na bezpečnost si pro legiti- maci nezašla, až daleko později se dozvěděla, že ji humenský policista neoklamal, legitimace tam sku- tečně na ni čekala.
- Hned otevři, nebo přivedu bezpečnost.
- A bylo úterý, den, kdy se měl povinně hlásit na bezpečnosti, neohlásí-li se, přijdou poliši za ním domů; a bylo už odpoledne a nikdo Jiříka dosud nezahlid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f03aefd9209ef2d8299a0f1eb6110bd4fcf19c10cc16b9f0b36c95ddd5119ed7
+size 3650

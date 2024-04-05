@@ -1,1 +1,3 @@
- Co platna byla lidská pomoc proti rozzuřenému živlu! Mnohý usedlík v domnění, že jeho majetek nalézá se v bezpečí, pomáhal druhému, leč v tu samou chvíli i jeho nalézal se v jednom plamenu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ce1ae94e2333130e955244c95184c04a5d7797ea56e14291cfa385e643c192
+size 152

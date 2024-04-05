@@ -1,4 +1,3 @@
-vědomý nebezpečí věrolomnos komunistický vůdce vědomý komunismus Evropa trvalý host lze zbavit ignorace silný slovo je^nutný žít
-čistka padesátý léta vedený heslo nebezpečí studený válka imperialistický agrese západ
-nebezpečí živel
-Kčs autor upozorňovat nebezpečí tktej tělesný zdatnost připravovat moderní doba
+version https://git-lfs.github.com/spec/v1
+oid sha256:0828f08cedb5ffb0d9c8f1f126ecc94e1e20f9300bb9a75fe0d1a4c375386c88
+size 349

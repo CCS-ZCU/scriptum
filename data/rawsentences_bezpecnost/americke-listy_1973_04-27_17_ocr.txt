@@ -1,1 +1,3 @@
- Neřekl, že my musíme zapomenout na minulost v zájmu mezinárodní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa66e730ada7a8c0e762de66a597cf4fe65744dcb67ec4d49a2fcf909741791
+size 85

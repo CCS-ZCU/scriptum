@@ -1,1 +1,3 @@
-mezinárodní organizace vyzývat vláda pečovat bezpečnost ostatní kněz
+version https://git-lfs.github.com/spec/v1
+oid sha256:10b2be49511b39e5e5816f60d373de7d3b9967cd14402259cc9d9855adaf18cc
+size 77

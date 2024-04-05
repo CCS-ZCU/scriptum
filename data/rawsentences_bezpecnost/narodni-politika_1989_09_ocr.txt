@@ -1,2 +1,3 @@
- Kromě toho řada objektů byla zničena požáry úmyslnými či nahodilými, dále výbuchy munice a granátů v nich uskladněných bez jakýchkoliv bezpečnostních opatření nebo jako výcvikové objekty pro cvičné trhací a destrukční práce pyrotechniků vojenských, Veřejné bezpečnosti či ženijního vojska.
- Avšak místo jejich údržby a obnovy jsou věnovány prostředky na výstavbu nových sídel pro KSČ, Bezpečnost nebo na obnovu bývalých pohraničních opevnění, ve kterých se uskladňují hlavice pro atomo- Kdy bude zpustošený kostel v Romanově obnoven a kdy se jeho dveře pro věřící opět otevřou? vé rakety, neutronové pumy nebo binární chemické střelivo, jako např.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a16934067faada11d7de70036af9e77bfed29f0069066f91da20cae77047b1
+size 724

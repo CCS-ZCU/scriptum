@@ -1,1 +1,3 @@
-mít snažit léčit rána duše menš nebezpečí udělat jizva
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1d3ea30562dffabc06bed89856787bae362a5179d3ed0110f9c4015592b158
+size 65

@@ -1,1 +1,3 @@
-ministr zahraničí Gyula Hom říci tiskový konference postavení rumunský činitel tvrdit země schopný vyrábět jaderný zbraň začít výroba střela střední dolet mít význam bezpečnost sousední stát Maďarsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5b2cf8cf17587619c9583934ce1b326783a049ea4c73e93c50cd8a0538a644
+size 226

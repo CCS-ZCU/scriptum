@@ -1,1 +1,3 @@
-zkušenost ukázat vychovaný dítě zaostávat vychovaný rodina dítě potřebovat vývoj individuální péče vědomí bezpečí milovaný
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffe7f89b64c89eb0746bf83265ff4026e6856d8a17477a6cdb32208fd0be89ef
+size 143

@@ -1,8 +1,3 @@
-povit
-veliký nebezpečí svět nebožtík Adolf pomoci Stalinův přípitek stát svět bezbranný šílenec vládnout stamilion potřebovat kořist moci hodit váha zásluha cesta světovláda Moskva nazývat světový revoluce
-velký nebezpečí
-případ sedlák vidět blížící nebezpečí politický profe
-babička dychtivý tvrdý valuta vylepšení korunový důchod rozhodnout přijmout zaměstnání vystavovat teoretický praktický nebezpečí deportace
-pan Zdenko zasluhovat uznání rozeznat smrtelný nebezpečí hrozit Evropa celý západní svět ohled rodinný reminiscence dát vynikající osobní vojenský schopnost zkušenost výhrada služba Evropa
-sedět pohroužený myšlenka kámen kus břeh řečiště uvědomit nebezpečí hučící proud
-sjezd KSČ odsouzení stalinismus teorie zostřování třídní boj událost Maďarsko určitý míra Polsko upozornit nebezpečí moci skrývat strana veřejnost nabýt převaha kolísající intelektuál chápat chápat zákon dialektika kolísavost vyzdvihovat zavrhnout stávat hračka nástroj kontrarevol
+version https://git-lfs.github.com/spec/v1
+oid sha256:78ba5a0ec2e2ae8b6907cf782a222037b60c36fa04ef939711d8649581ac1c56
+size 1087

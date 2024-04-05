@@ -1,26 +1,3 @@
- O třicet let později, v roce 1968, zaujal Eugene Mcčarthy stejný postoj, když mávl rukou nad sovětskou okupací Československa a prohlásil, že to není „žádná velká světová krize“, která by stála za půlnoční schůzi Národní rady bezpečnosti.
- Z hlediska fyzické bezpečnosti a ekonomického blaha obyvatel byla politická roztříštěnost oblasti iracionální.
- Podstatu ideálního Wilsonova pořádku je možno redukovat na tyto zásady: národní sebeurčeni; demokracie, ve které má každý občan jeden hlas; všeobecná lidská práva; hospodářský liberalismus; odzbrojeni v mezinárodnim měřítku; a kolektivní bezpečnost.
- Zatímco národní sebeurčeni bylo v nástupnických státech všeobecně populární, Masaryk a jeho krajané realizovali v československé ústavě demokracii, ve které každý občan měl jeden hlas, a zastávali kolektivní bezpečnost ve Společnosti národů daleko rozhodněji nežli jiní středoevropští předáci.
- Češi nebyli jediní, avšak stejně jako jejich sousedé měli sklon ztrácet ze zřetele vzájemnou závislost ekonomiky a bezpečnosti.
- V každom prípade v Pekingu vznikla myšlienka zvolať Konferenciu o európskej bezpečnosti.
- decembra 1954 bola v Moskve Konferencia o Európskej bezpečnosti.
- To znamenalo, že môj byt strážili mladí príslušníci bezpečnosti, ktorí si plnili prezenčnú službu.
- Boli v nej dôstojníci Štátnej bezpečnosti, ktorí chodili v civile, hovorili sme im „sprievodcovia“.
- Mladi príslušníci bezpečnosti strážili môj byt vo dne v noci.
-: Nemal si čudný pocit, keď z vašej víkendovej zotavovne rad za radom mizli rodiny? Napríklad, hlavný veliteľ Štátnej bezpečnosti Gábor Péter s rodinou? H.
- V představách o otevřené společnosti hraje stát úlohu ochránce bezpečnosti občanů; v modelu uzavřené společnosti je stát pánem a dozorcem, který určuje všechny formy společenské existence.
- Potřeba rozptýlit současné sovětsko-ame- rické nepřátelství je pro ně velmi naléhavá a budoucí evropskou a středozemní bezpečnost, stejně jako jugoslávské strategické jistoty, si nedovedu jinak představit.
- Washington by také měl oživit dialog o otázkách mezinárodni bezpečnosti.
- International Herald Tribune, brezen 1986 Autor, bývalý člen Rady pro národni bezpečnost, je ředitelem výzkumu na Institute for East-West Security Studies v New Yorku.
- Když se Allende roku 1970 nakonec stal prezidentem, „Rada pro národní bezpečnost přidělila CIA asi 7 miliónů dolarů na fajnou protiallendovskou propagandu, na finanční podporu opozičních chilských sdělovacích prostředků a soukromých organizací, které stály proti Allen- dovi“.
-“ Kdyby odstoupil, vynořil by se rovněž problém jeho bezpečnosti.
- Zkrátka a dobře, musí se orientovat co nej- opatměji, ale nevyhnutelně směrem, jenž by ji v budoucnu zajistil rozumné předpoklady jak stability, tak bezpečnosti.
- Dá-li se opravdu mluvit o změně, pak může ovšem probíhat pouze v rámci vymezeném třemi klíčovými hesly režimu, jež zní: nezávislost, bezpečnost a stabilita.
- Sekretariát má autoritativní vliv zejména na činnost vlády, přičemž pravomoc ministerského předsedy je striktně vymezena a nevztahuje se například na obranu, zahraniční věci a bezpečnost, které spadají přímo pod předsednictvo strany.
- Armáda a bezpečnost Pokud jde o propagační a informační služby, ty zřejmě ještě nezačaly brát na vědomí, že uhodil čas změn, ale jejich představitelé nepatři ke skupinám, které mají zvlášť velkou a rozhodující politickou váhu, a tak se o nich nebudeme šířit.
- Skutečný černý mrak vyvstává podle všech svědectví spíš ve sféře bezpečnosti, přesněji řečeno politické bezpečnosti.
- Tato vojenská a ideologická konfrontace nabývá ovšem pro odpovědné představitele bezpečnosti zvlášť konkrétního významu, uvážíme-li, že podle množství souhlasných informaci se příslušné „služby“ Severu a Jihu navzájem tak silně „infiltrovaly“, že máji co dělat, aby uchránily svá vlastni tajemství.
- S potěšením konstatuji, že na Západě moje spisovatelská činnost nezajímá ani veřejnou bezpečnost ani celníky.
- Namísto dosavadní cenzury by mohla nastoupit formální cenzura, která by legálním způsobem stíhala aposte- riori spisovatele nebo nakladatele v případě, že byje prokurátor obvinil z rušení bezpečnosti státu.
- Když se říká válce „mír“, když se potlačováni a pronásledování nazývá „bezpečnosti“, vražda „osvobozením“, pak taková profanace jazyka předchází a připravuje profanaci života a důstojnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef3e9869184b921809f37b60c876c2dc7dddb464d465513fb34fff9ccce65863
+size 4800

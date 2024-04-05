@@ -1,3 +1,3 @@
- Posud však nebyli oba v bezpečí.
- Věděli že Mrštný Jelen jest v bezpečí.
- Mrštný Jelen byl slezl skálu, a v některé ůžlabině byl ukryt v bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8502d1917a738170b0f48733c3b81d67a69feca68aa77ce9e16582f85161ed02
+size 279

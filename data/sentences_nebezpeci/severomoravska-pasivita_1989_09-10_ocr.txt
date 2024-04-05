@@ -1,1 +1,3 @@
-propagovat dílo
+version https://git-lfs.github.com/spec/v1
+oid sha256:41fbfaa19840e5e53fab9f33967e7da84cff4901b608d3c238bd238fab747def
+size 17

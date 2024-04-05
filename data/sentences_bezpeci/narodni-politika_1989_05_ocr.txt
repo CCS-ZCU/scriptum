@@ -1,1 +1,3 @@
-štýrský látající mul osmý strana národní politika květen šestinásobný zvětšený kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:af0c4fcf0bd8fa4191dbc8205ee5b314de9afa92644858a60a4fc1a9a78c712f
+size 104

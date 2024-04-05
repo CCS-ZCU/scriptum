@@ -1,7 +1,3 @@
-foto nebezpečí mnohý nasvědčovat hrozit SPD západonč mecký vládní polititika východ
-nebezpečí únava malý připomcncit historický prokletí veřejný život Čechy spočívající uznávaný mravní politický autorita mluvit upálený upálit zemřít
-nebezpečí hrozit zdát záběr pozornost dokument široký široký
-případ nutný podat důkaz pracovník dopustit čin ráz uvádět nebezpečí bezpečnost stát bezpečnost stát rozumět neporušenost státní území neporušenost způsobilost stát organizovat obrana neporušenost státní instituce státní tajemství zápis číslo
-surveylsvědectví psalit zeď Jiří Boreš
-obnovovat národ něha nebezpečí spis nebezpečí začít rakovinný přerůstat lhostejnost
-Kapek vědět revanšismus představovat doba velký mezinárodní konference potenciální nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8e80a26f94bf454c95e0be0aa43e69ab728e73c3be8d3a15c3a0ec4e9806a8d
+size 857

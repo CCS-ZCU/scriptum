@@ -1,1 +1,3 @@
-polovina první půle hrozit nebezpečí Slavie soudce nařídit penalta mlouvání střelec Alton minout horní břevno slavistický branka
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba2b358bc60fd0814e0690f60032009db1055f541a7d8e0db37c9125345c193
+size 143

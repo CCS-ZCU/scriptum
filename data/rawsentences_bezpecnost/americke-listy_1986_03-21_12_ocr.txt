@@ -1,6 +1,3 @@
- V téže době ale byl podle mínění Státní bezpečnosti “reálný socialismus” ohrožen ještě jinde — v severočeských Teplicích.
- DALŠÍ Z ZÁSAH STÁTNÍ BEZPEČNOSTI? (>.
- Blízcí přátelé rodiny v zahraničí se obávají, že případ souvisí s po léta trvající perzekucí Šimečkovy rodiny a považují za pravděpodobné, že se doktorka Šimečková zmizela bez nej- ho zásahu Státní bezpečnosti.
- Butyka v bytě jeho syna v centru Budapešti, kde se po celý rok 1982 bez zákroku státní bezpečnosti prodávaly nezávislé maďarské časopisy a knihy,'byla v lednu 1983 — tedy před 3 lety — policejně zlikvidována.
- Ke druhému zákroku maďarské státní bezpečnosti došlo v pondělí.
- Scházel se tam s prezidentem a jeho poradcem pro národní bezpečnost Kissin- gerem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb6054a2046e9db42a2f1400d5ce27589321791378b0b33197125c7b5169c22
+size 827

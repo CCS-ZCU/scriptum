@@ -1,2 +1,3 @@
-napsat dtt chovní eticko nábozenska povaha seho národní povědomí rušený hrozit nebezpečí kultura nutný dům bojovat erose brož splátnout nout povrch země
-Masaryk naznačit úkol československý zahraniční politika podobný osud stejný nebezpečí vést přátelství soused východe jihovýchod
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e900d6ad56904698624f1f5162976d410df952ce58d5f4a853bed39601ef393
+size 315

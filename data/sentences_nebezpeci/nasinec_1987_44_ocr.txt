@@ -1,8 +1,3 @@
-nebezpečí marxistický doktrina moci zapomenutý
-argumentace zbytnost jižní Afrika západní svět strategický poloha bohatství nerost minerál poukazování komunistický nebezpečí pronikající okolí popisování chaos smírný chudoba jiný takzvaný
-doba změřit pominout povyk nebezpečí
-bohdat pominout nebezpečí námitka politický přezaměření našinec oprávněný věřit doufat psát krásný žít jižní Afrika
-výjimka vláda země uvědomující nebezpečí komunismus výzkum důkladný bádání naleznout způsob zamezit šíření úplný likvidace nákaza provedený
-důvod skrovný analogie upozornit nebezpečí západní země vystavený shovívavost aktivita komunista
-druh neschopnost neochota rozpoznat skutečný nebezpečí
-nebezpečí krok
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0838d5644a760c2ed58916ed7d7dde8438c171ed56e50f8313102e225e9071f
+size 786

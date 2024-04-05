@@ -1,6 +1,3 @@
- Pachatele zneškodnili příslušnici polské Bezpečnosti.
- Důvodem této akce bezpečnosti bylo to, že v samizdatu vyšla nová Hrabalova autobiografická trilogie “Svatby v domě”, “Vita nuova” a “Proluky”.
- Li- sův syn, 10-letý Martin, prodělal už v Praze několik těžkých nervových o- třesů při nočních návštěvách příslušníků Státní bezpečnosti, kteří se domnívali, že musí vychovávat Lisa a jeho rodinu především tím, že je neustále vyrušují, mírné řečeno vyrušují, doslova přepadají- Kdyby se policejní šikanování a tyto přepady týkaly jenom Lise, bylo by to trochu něco jiného, ale Lis není sám.
- Šťastnější byli jiní tři občané Německé demokratické republiky, muž, žena a teprve osmiměsíční děcko — jedna rodina, které se Jako každý rok se i letos pokusila Státní bezpečnost v Československu všemi prostředky zabránit vydání dokumentu Charty 77 k 18.
- Přesto se ale mimořádně zvýšila pozornost československé Státní bezpečnosti vůči řadě nekonformních ob- ŠIKANOVÁNÍ OBČANŮ BEZ KONCE úspěšně podařilo v nákladním automobilu projet přechodem v místě nazvaném “Checkpoint Charlie”.
- KONEC KONFERENCE REZ DOHODY? Devatenáctého září má skončit ve Stockholmu konference, která se formálně označuje za “konferenci o bezpečnosti a posilování důvěry v Evropě”, ale prakticky se omezuje, na problém, jak v Evropě omezit nebezpečí konvenční války.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eca8d4025d40a55579d23c3aafbe1ab3c67786e5e5945b830c5fa9c6285f902a
+size 1516

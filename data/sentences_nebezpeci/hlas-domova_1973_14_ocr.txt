@@ -1,1 +1,3 @@
-podotknout existovat nebezpečí opačný extrém znamenat riskovat nařčení fašismus zpátečnictví duševní zakrnělost
+version https://git-lfs.github.com/spec/v1
+oid sha256:072b5ab48e625d62872183a8db217d77b33794bec5d99169285b7941555ddd24
+size 127

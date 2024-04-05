@@ -1,1 +1,3 @@
- Kaplan popisuje, jak tuto úlohu převzaly odbory ve spolupráci s bezpečností a národními výbory).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9222f0c712e4c789f388c13b6cbbf6011ebb686c71cd5d0881c7f9f3d384e9b5
+size 106

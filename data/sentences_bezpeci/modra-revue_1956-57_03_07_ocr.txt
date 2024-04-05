@@ -1,1 +1,3 @@
-historický povolání říše zabezpečit národ nepaměť spojený žezlo dynastie klidný rozvoj bezpečí venek svoboda
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee2932504a543c52fa0a21591d7f6bbf82a7cfe6dbc688c39203b219e596ab87
+size 124

@@ -1,2 +1,3 @@
-nebezpečí vidět torre přesvědčený vyvolenpst
-mít likvidace ■komunistického nebezpečí síla odpoutání krajní pravice zmenšení vliv řešení Alžírsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:13cafd7b965fb3fba849dddcba99f9f76a9fdeba00e56d8cecbca839c20be091
+size 169

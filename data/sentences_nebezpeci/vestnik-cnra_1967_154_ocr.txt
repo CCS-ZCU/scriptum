@@ -1,2 +1,3 @@
-mluvit nebezpečí nenasvtný sovětský rozpínavost prorokovat studený válka tenkrát věřit padnout Československo začít svobodný svět bránit komunistický dobývání
-druhý světový válka vzniknout nebezpečí Irán ovládnout Němec spojenec země okupovat dodávka americký materiál Irán pomoci Sovět ubránit německý nápor
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0c3e7361044633889e2a77b133986c01823b1788cd44ce6e509c5a696f1c00b
+size 349

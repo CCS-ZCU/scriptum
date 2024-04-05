@@ -1,2 +1,3 @@
- Bezpečnost občanů ve státě byla ohrožena.
- Při zatýkání postřelil Brožek příslušníka veřejné bezpečnosti a sám spáchal sebevraždu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ac272502f59651a3bab043f704401eb80fb324287e383670abd9d55a05bc6be
+size 154

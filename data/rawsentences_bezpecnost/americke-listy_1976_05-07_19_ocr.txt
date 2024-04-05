@@ -1,3 +1,3 @@
- že Rudolf Rössler měl zásluhy o bezpečnost Svý- cárská ve druhé světové válce.
- Karel Sedláček — “strýček Tom” — nebyl, tak jako třeba Bartík a Strankmüller, zatčen československou Státní bezpečností.
- Až do ledna 1975, kdy jej sovětská bezpečnost zatkla a při zatčení našla u něho 170 pytlů konfiskované literatury, která již byla jako zničená plně odepsána.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e7512474a393142fb6e438366554a81d47d3faf87280b0fd71246eda7636cf
+size 411

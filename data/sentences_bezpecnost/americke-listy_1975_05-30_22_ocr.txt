@@ -1,6 +1,3 @@
-informovat celý řada lidé konec duben provedený domovní prohlídka státní bezpečnost zabavit řada tiskovina
-Československo chybět automatický spojení bezpečnost armáda mít přímý linka Praha
-bezpečnost určit tajemství vyzvědačství poškozování zájem republika cizina
-května zůstanat VAMI první odstavec minutý vyjoko projev městský zastupitelstvo západní Berlín prohlásit americký ministr zahraničí Kissinger éra polevující konfrontace Evropa určit osud Berlín úspěch další snaha zajistit bezpečnost vyjednávání spolupráce
-celý dosavadní období uvolňování napětí sdilet spojený stát západní spojenec přesvědčení naděje velký bezpečnost spolupráce Evropa muset Hechte ¥aše peníze pracovat VásS
-bezpečnost západní Berlín zůstávat důležitý zájem spojený stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:94a084f679f93bf9d37f75a3570a8f3d8ae214be829dc9570593d273ac1ba9f4
+size 586

@@ -1,4 +1,3 @@
- Odsun byl ve veřejnosti pocitován jako cosi tragického, co se možná zdá být politicky z hlediska bezpečnosti státu nevyhnutelné, ale co je nicméně zlem.
- Na  114 otázky menšinové budeme vždy pohlížet! po zkušenostech z let 1955“1959 s hlediska bezpečnosti státu a národa.
-” Němcům bude dána možnost, aby prokázali svou věrnost československému státu, menšinové právo Jim umožní zařídit si soukromý život podle vlastní libosti, ale v mezích bezpečnosti státu, který musí "míti své staré přirozené hranice a nemůže už míti menšin v tom pojetí Jako dříve.
- foktu dva- • náctileté existence nacistické vlády v Jičoscku e Hosti let světové války, eu s í vzít v úvahu a poznat potřeby bezpečností jiných nárečí, rosun^t jejich nedověro std.
+version https://git-lfs.github.com/spec/v1
+oid sha256:105a5e1a590cf0267419af28ee2169d44acf9774b355c90b743b2aee4311333c
+size 820

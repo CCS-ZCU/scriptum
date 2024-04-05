@@ -1,1 +1,3 @@
-nebezpečí hra dobrák žert moci převrátit člun vydat pospas krokodýl
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b0f4aa68a57062dc6e81f2413de3f7c6f1ab74819b465c03abffb6a2bdc5a4
+size 76

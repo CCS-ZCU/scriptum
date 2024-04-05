@@ -1,8 +1,3 @@
-lidé žít celý desetiletí strach nebezpečí život hlad chudoba stávat krutý násilný
-nebezpečí politický činnost moci nastat nezaměstnanost
-vlivný hlas zastávat názor nutný vytvořit ovzduší důvěra uvolnění dohoda nastoupit upřímný mezinárodní spolupráce odstraněný nebezpečí osudový střetnutí blok
-levý extremismus Švýcarsko jiný země představovat nebezpečí lze podceňovat
-odpor svolání konference zdůvodňovaný poukaz smutný trapný fakt západní politika diplomacie SSSR koordinovaný trvat nebezpečí konference zástupce západ postupovat rozdíl sovětský blok mluvit jedny ústa ústa sobota větský delegát
-vyslovovat svolání konference evropský bezpečnost spolupráce přesvědčený celý západ vystavovat velký nebezpečí ústupnost sobota větský nátlak kamuflovaný cíl znechucený
-dojít obsazení ČSSR prosadit Brežněvův doktrína atlantický společenství začít reagovat začít schopný nový situace obdobný atlantický společenství založený
-zmínit doba odvrácený nebezpečí přestávat spojenectví účin ztrácet smysl založený
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d9d8ab78ec884775d35b2fba4530b5cde25589af26f22ba9f62ba767c80069a
+size 1400

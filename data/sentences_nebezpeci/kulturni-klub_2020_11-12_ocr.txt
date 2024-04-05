@@ -1,2 +1,3 @@
-společenský utopie skrývat nebezpečí ujmout politik politický hnutí obsahovat záruka sebereflexe reflexe zvnějšku hnutí
-chod zjišťovat hrozit nebezpečí přátelský vpád země dojít posouvání hraniční mezník bavorský soused těžit český území dřevo usazovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e460c4aa231364e08f9da77688a316d2935e964c1017d7725d6d0288bbc8fcf
+size 287

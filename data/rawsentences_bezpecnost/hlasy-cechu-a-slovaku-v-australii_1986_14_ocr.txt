@@ -1,1 +1,3 @@
-" údivu, stejně jako Státní bezpečnost, když mě v roce 1977 "odhalila".
+version https://git-lfs.github.com/spec/v1
+oid sha256:72aa616517cfe8887d95cdfc6662e47be87268363e3c4cf7371dae23e38fd442
+size 79

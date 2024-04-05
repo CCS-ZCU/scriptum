@@ -1,4 +1,3 @@
-Tereza mít sestra zedíta muset mít pocit bezpečí
-potřeba patřit pocit jistota bezpečí
-mít pocit bezpečí jistota
-dítě mít poučit bezpečí jistota pocit rozebírat uvědomovat rozum
+version https://git-lfs.github.com/spec/v1
+oid sha256:91af7066423cddbaf07d77ff3e9a1c16c29fe033bb64d70ac97ae1a8dc061402
+size 197

@@ -1,4 +1,3 @@
-vědět sankce Itálie britský levice dožadovat nést mít účinný nebezpečí válka celý tíže válka připadnout připravený britský válečný loastvo
-spotřebovaný míla pásek psací stroj stůh papír diskuze mnichovský dohoda vydat Hitler požadovat padnout jediný výstřel přesvědčit moci nebezpečí napadnout Polsko
-uznávaný selhat stát obrana svrchovanost vystavovat nebezpečí situace vzedmutý naděje protivník život stát doba probíhat podmínka zvýšený nejistota
-člen spojenectví Norsko Turecko hraničit sovětský svaz stát tvář tvář soustásdění vojsko vojenský tenciál upomínat nebezpečí schopnost bránit pomoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab2aefd2b6204822037f8921e77c687fcdee13f89102306ffa79ba44f1893ab
+size 672

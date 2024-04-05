@@ -1,27 +1,3 @@
- Bulharsko ruší úřad pro státní bezpečnost, ministr vnitra ohlašuje, že policie bude reorganizována podle západoevropského vzoru.
- Československo navrhuje všem 35 zemím Konference pro bezpečnost a spolu- práá v Evropě zřízení stálé Evropské bezpečnostní komise.
- * Rádio Kabul hlásí, že povstalá zastřelili v afgánské provinái Herat náměstka ministra pro státní bezpečnost a jednoho z vládních generálů.
- ♦ Polský ministr obrany Siwicki oznamuje, že 50 tisíc sovětských okupantů odejde z Polska definitivně prý až po vytvořeni evropského „systému kolektivní bezpečnosti".
- ♦ Ministr vnitra NDR oznamuje, že komunistická státní bezpečnost měla spisový materiál o více než šesti miliónech obyvatel, tj.
-) Evidenční odděleni ústředního sekretariátu KSČ, které plnilo roli jakési stranické bezpečností, vymezovalo 23.
- Bezpečnost i komunistické instituce hledaly objekty perzekuce a oběti politických procesu mezi sociálními demokraty jak mimo KSČ.
- Bezpečnost sledovala a zaznamenala jejich přátelská setkání.
- Orgány Státní bezpečnosti v okresech a krajích sestavily zatčené sociální demokraty do "protk státních skupin" a procesy s nimi končily většinou vysokými tresty vězení.
- V přibližně stéjné době bezpečnost uvěznila několik bývalých ústředních funkcionářů sociální demokracie, včetně poslanců.
-" Dva ze zatčených (Zdeňka Pešku a Vojtěcha Dundra) začlenila bezpečnost do největšího československého politického procesu s Miladou Horákovou a spol.
- Bezpečnost Vojtu Erbana jednak "nasadila" na gen.
- Od chvíle, kdy komunistické vedeni vyhlásilo boj proti sociáldemokratismu — jako odpověď na nepokoje v době peněžní reformy — bezpečnost se snažila rovněž prokázat správnost této linie a zároveň ji realizovat.
- Za několik týdnů projednávalo první zprávu o výsledcích vyšetřování, která prováděla bezpečnost v Plzni.
- že právě záměr politiků, ukázat mezinárodni impuls nepokojů přivedl vedoucí činitele bezpečnosti a sovětské poradce k nápadu unést bývalého předsedu sociálně demokratické strany Bohumila Laušmana.
- července 1953 vydal ministr národní bezpečnosti Karol Bacílek rozkaz o aktivizaci protititovské agentury československé bezpečnosti.
- Orgány československé bezpečnosti unesly Laušmana z Rakouska do Prahy v druhé polovině prosince 1953.
- V té době už běžela další akce, a to provokace československé bezpečností proti bývalým funkcionářům sociální demokracie.
- Rozsáhlou organizaci vyrobila bezpečnost; většina obžalovaných odmítla agenty-provokatéry, vyslané k nim bezpečnosti.
- Není dosud prokázáno, zda vůbec a jak se podílela sovětská bezpečnost na Laušmanově únosu.
- První byl odpor vedoucích kruhů sovětské bezpečnosti proti linii XX.
- Proto kladla sovětská bezpečnost odpor proti jejich osvobozování, což se setkalo se sympatiemi pražských bezpečnostních činitelů.
- Armáda z povoláni a všeobecné ozbrojení lidu - podle švýcarského a jugoslávského vzoru - zaručí bezpečnost lépe než Varšavská smlouva.
- Úřadující prezident to dostal dokonce písemné od svého ministra lidové vlády: ★ V zájmu národní bezpečnosti věřím, že bývalý ministerský předseda A.
- Nu a soudruh Serov, pokračuje se, byl zastupujícím komisařem pro otázky bezpečnosti a komisař třetí třídy.
- Ač náčelník bezpečnosti, skutečně jednu knihu napsal - a to pod názvem .
- Vchod obsadil Sbor národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40b8724f017f2614534c8f37d414dc6f022cb21dcd3b074f3c487a112cd75f6
+size 3654

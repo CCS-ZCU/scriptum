@@ -1,1 +1,3 @@
- Ala i tak se do Říma nedostaly všechny podpiaová archy, nebot je známo, že asi tisíc podpisů bezpečnost zabavila na Oravě; podobně se dělo třem mladým lidem jinde na blovenaku (viz podrobněji č.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95baacd78e30a52a7d09f273461302e92124e2d59671d5c778cf57542b333846
+size 212

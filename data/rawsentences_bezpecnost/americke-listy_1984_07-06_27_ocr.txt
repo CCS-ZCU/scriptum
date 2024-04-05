@@ -1,2 +1,3 @@
- Bezpečnostní opatření na Olympiádě v Los Angeles FBI vyslalo 800 svých zvláště cvičených agentů do Los Angeles, aby zabránili jakýmkoliv pokusům o rušení bezpečnosti a teroristickým akcím.
- Praha jako vždy centrem všeho protizápadního Parlamentní mluvčí západoněmecké křesťansko-demokratické strany pro otázky odzbrojení Jiirgen Todenhofer odjel clo Prahy, aby se tam na pozvání československého výboru pro bezpečnost a spolupráci v Evropě zúčastnil fóra, na kterém se bude hovořit o problémech odzbrojení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee470422f2d861466a61c084945d75be22ea4643b673ce7d077bc1ea81a594ea
+size 559

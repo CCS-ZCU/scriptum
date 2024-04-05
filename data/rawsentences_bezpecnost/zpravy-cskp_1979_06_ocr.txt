@@ -1,2 +1,3 @@
- MEZI ČESKOSLOVENSKÝMI CHARTISTY a členy Výboru na ochranu nespravedlivě stihaných řádila Státní bezpečnost.
-Po změně vládních režimů v Portugalsku, Řecku, Španělsku je nyní posláním této komise sledovat poměry ve státech s komunistickým režimem a plnění "helsinské dohody" o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe09064b8acc9c2361ecf9b0b4785eeece1c40949f4a3e91d66b04ec61733607
+size 345

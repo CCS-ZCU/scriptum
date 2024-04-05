@@ -1,2 +1,3 @@
- Mnozí tvrdí, že my tady, v bezpečí demokracie, máme našim doma málo co říci.
- Nechť se Vám, Vaše progresivní Vysokoblahorodi, jenom podaří, dopravit Vaše bri- lianty do bezpečí ještě o kus dál, až se budete muset zachraňovat před dopadem Vašich moskevských známých.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee4fa196835acf680cdfbc3805541126a0c88a6e20c85da3a9a6b8bf21afba5
+size 294

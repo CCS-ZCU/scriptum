@@ -1,1 +1,3 @@
-důvěrný manželský život přerušený muž ohrožený věrnost poškozený dobro dítě
+version https://git-lfs.github.com/spec/v1
+oid sha256:d756fa4b860220e4a918f6b3047d9060c861dbaa347fd026ba89b11dc9f48fb4
+size 93

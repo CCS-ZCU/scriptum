@@ -1,3 +1,3 @@
- Než vyjedou estébáci na kopec, budete v bezpečí.
- Jezdili k nám a riskovali vlastní bezpečí v době nesvobody.
- Nakonec vždycky zbydou i ve vlastní zemi jen cizinci, kteří nehodlají vyměnit svou obtížnou nezávislost za pocit přináležitosti k celku a za bezpečí přesvědčení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcd3b539281c46e3b22f062969f1c94439c7c8581e3e5b671bcb0398e78f6221
+size 302

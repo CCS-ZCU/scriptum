@@ -1,8 +1,3 @@
-vědomý nebezpečí vydávat
-Horák tuše blížící nebezpečí dlouhý čas naléhat společný útěk
-vláda spojenec rozpoznat bolševický nebezpečí
-lid zbývat věřit pán senátor politický příslušnost rozpoznat nebezpečí výplod kolega demokratický postrk slušný člověk zvédnout hlasování ruka
-stát zamyšlení existovat sympatie Klaus Zeman mnohaletý souboj promyšlený hraný lest
-český republika země benelux hraničit Německo vědět volný konfederace společenství volný obchod velký členský stát rovný jiný malý země moci znamenat nebezpečí politický ekonomický nadvláda
-socialismus bratrský stát nebezpečí mít ostatní socialistický stát právo zasáhnout
-dít současnost podobný Rakousko
+version https://git-lfs.github.com/spec/v1
+oid sha256:edc70f84c97751d1d3d91d33fea414b9d42dbcfe7063b2a4eb89331ad292075c
+size 755

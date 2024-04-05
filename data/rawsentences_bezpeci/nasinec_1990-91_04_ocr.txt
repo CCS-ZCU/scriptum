@@ -1,1 +1,3 @@
- Válku přežil od počátku 1941 v bezpečí českého rozhlasu v Moskvě díky protekci jeho kumpána a spřízněnce Slánského.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d67c5b83df7f8da9ea765b7fea26fecf1ef1cf75967eed65a3a4ebde2dae3c9
+size 134

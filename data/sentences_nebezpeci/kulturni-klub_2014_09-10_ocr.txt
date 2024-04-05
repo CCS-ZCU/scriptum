@@ -1,2 +1,3 @@
-okolí třemošný vápenka Závratec výjimečný jediný celý střední Evropa přístupný nebezpečí
-expert doporučovat umístit vícejazyčný upozornění řadicí pruh dálniční odpočívadlo aktuální nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e38992360459f010e5c7e4c53d1510beddbc28348b72cc9ffd1b42102e677b
+size 227

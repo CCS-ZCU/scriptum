@@ -1,4 +1,3 @@
-únor
-ukázka nahlodávání exilový demokracie plíživý nebezpečí ztráta imunita nákaza demokratický ideologie
-plíživý nebezpečí vzrůstat
-mít celý řada doklad politický omyl RSČ doba léta omyl představovat plíživý nebezpečí ztráta imunita ideový nákaza reformní komunismus zmínit doklad poslední
+version https://git-lfs.github.com/spec/v1
+oid sha256:e048a5f6929ee0fc169afeef537854985533ed59d73ff1b3e74d584c69d82d3c
+size 329

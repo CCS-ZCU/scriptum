@@ -1,1 +1,3 @@
-vyzývat vláda zmíněný země nebezpečí uvědomit vlastní zájem vyvodit patřičný důsledek
+version https://git-lfs.github.com/spec/v1
+oid sha256:7508962a523cafcc8c5336c691ee2d3084fa7b2599c65e3a23e63c9f42797ec5
+size 101

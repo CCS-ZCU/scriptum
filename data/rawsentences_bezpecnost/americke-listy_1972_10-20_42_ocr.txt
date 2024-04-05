@@ -1,1 +1,3 @@
- Václava Melichara s názvem “Varšavská smlouva — záruka bezpečnosti ČSSR”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a972d1d29547b50cf9e18ffa18193339f24b6b70be8892915b8ba94e151dd45
+size 88

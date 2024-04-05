@@ -1,1 +1,3 @@
- Zarmucuje brutální zásah Bezpečnosti na Národní třídě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32acc963a85355895a0fea070729a0a884dce85f8bb0c0052caa2a5001a3e687
+size 65

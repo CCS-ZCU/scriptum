@@ -1,1 +1,3 @@
-svrchovaný stát hrozit trojí nebezpečí komunistický ideologie zvaný letářský internacionalismus znamenat podřízení republika sovětský svaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa673bde47afd9abaa8dc88958fe0ce2edad026fe3f2b142f4c0d74837af2a4
+size 157

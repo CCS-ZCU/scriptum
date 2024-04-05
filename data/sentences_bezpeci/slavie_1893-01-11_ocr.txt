@@ -1,2 +1,3 @@
-svědectví svědek vyznívat prospěch obžalovaný soud skončený řízení průvodní vyhovět žádost obhájcový přidat otázka zločin zabití Novák jednat nutný obrana braný vybočit otázka další eventuální znít přečin bezpečí život
-následek Novák sproštěný žaloba zločin zabití uznaný vinný přečin bezpečí život odsouzený vězení čtyr měsíc
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc9c10fef267e055764ef336108116c634bd3579f00afdd8b3ea697e1f45ddad
+size 387

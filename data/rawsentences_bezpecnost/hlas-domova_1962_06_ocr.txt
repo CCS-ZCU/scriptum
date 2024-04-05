@@ -1,1 +1,3 @@
- Z výdajů státního rozpočtu připadá na rozvoj národního hospodářství 52,6%, na školství, kulturu, zdravotnictví, tělovýchovu, bytovou výstavbu a sociální opatření 36,4%, na obranu a bezpečnost 8,8% a na státní správu a soudnictví 2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ea45be264fdf21edd80cf492972143889359fa72777e4150601498de0b9560
+size 260

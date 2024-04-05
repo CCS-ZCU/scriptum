@@ -1,1 +1,3 @@
-bezpečnost mít pohotovost ohled sraz pátek
+version https://git-lfs.github.com/spec/v1
+oid sha256:2518c4ef7e72f90cb1123d15023ab5bb628f491c985d22bc39a2c01dcfe372d8
+size 40

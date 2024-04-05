@@ -1,1 +1,3 @@
- Bylí ve stálém »«bezpečí 44t se otí jiných asimilo- vat, splynout s ostatními, zapadnout beze stopy ve vlnách dějin, A přece nikdy ani v těch nejtragičtejších situacích nezmizeli z povrchu země.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f05748ab77690e99c3b0e375b3c540e7558df39f38bf860bc23bcb2fa942cbc
+size 213

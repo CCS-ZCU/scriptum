@@ -1,1 +1,3 @@
-)Tím současně vymezujeme i předmět našeho  zkoumání: je jím celá oblast lidských vztahů,která dosud nebyla socialistickou zákonností (a bezpečností) zcela podchycena a kterou někteří západní dekadentní autoři nazývají "lidským soukromím".
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a0e8e8b3f9db118e32125e3522ce1cdab65100f362fe1f91a3a2d6fc486895e
+size 267

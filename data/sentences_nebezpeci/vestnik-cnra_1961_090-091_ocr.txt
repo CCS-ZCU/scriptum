@@ -1,2 +1,3 @@
-říkat Amerika smrtelný nebezpečí
-berlínský krise poslední symbol trvalý nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b8330204fafb111aade6d42493fe0fad7d8161af9600565d3457f64becd14db
+size 93

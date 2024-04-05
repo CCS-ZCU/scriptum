@@ -1,1 +1,3 @@
-všemožný ujišťování stát dojít vhodný přejmenování vědecký úsilí mít obor věda klimatický změna směr nebezpečí mýlka
+version https://git-lfs.github.com/spec/v1
+oid sha256:1654c081372e67c5de08b10fd0843353b7aa3102edb113a805e27f6b3c3ce136
+size 142

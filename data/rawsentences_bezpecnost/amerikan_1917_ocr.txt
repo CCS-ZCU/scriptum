@@ -1,2 +1,3 @@
- Zbavil stát celých smeček banditů a jiných lidských stvůr, dlících tu jen na úumu bezpečnosti lidu poctivého.
- K získání peněz k půjčování na farmy, stanoví zákon způsob, dle něhož ti, kdo mají peníze k půjčení, mohou nalézti bezpečné uložení na dlužní úpisy nebo bondy, na malé i velké částky, vydané bankami a založené na bezpečnosti morkyčů na farmářské pozemky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e250c959ae45a3b5817fd2facdf49463dbf88c2db60eb83988549ab832d56ef2
+size 418

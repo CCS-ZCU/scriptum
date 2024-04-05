@@ -1,5 +1,3 @@
-socializace muset zůstat rámec mravní řád člověk nebezpečí hrozit
-námaha děkan Jiří Bílek Paládium zažehnání nebezpečí navrácený marný
-postoj oběť posvátný oběť činnost moci odstranit nezmí iřitelný nebezpečí plynoucí jiný užívání intelekt vůle
-říkat pronásledovaný Sovět kom unism vážný nebezpečí život
-hrozit skrytý žid nebezpečí gestapo
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac5fa2476fe27dd4a19dbb90d3b492cac6e239a1388db523053a7a0717d36a94
+size 397

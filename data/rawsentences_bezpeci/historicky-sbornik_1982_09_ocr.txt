@@ -1,1 +1,3 @@
- Je to kniha spíše publicistického žánru, ale každopádně zajímavá a podnětná! Kulkovým leitmotivem, Jak ostatně vyplývá i z názvu, Je snaha vyvrátit antisemitské pomluvy, že židé za války se bud- to snažili uprchnout do zahraničního bezpečí před nacistickou perzekucí anebo trpně, bez odporu se dávali zabíjet v plynových komorách, Kulkovi - přes všechny naše výhrady - se podařilo shromáždit dosti průkazného materiálu, aby ukázal, že židé například v československé Svobodově Jednotce hráli významnou bojovou úlohu, ba dokonce, že bez jejich účasti by bylo vůbec nemožné odeslat prapor v roce 1943 do boje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe8879cec854b1b67724e76daa55b7e7c05338f16497da8475701170f25ea19
+size 581

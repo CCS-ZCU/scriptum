@@ -1,3 +1,3 @@
-června americký list strana
-poznatek nebezpečí moci vést vývoj nový námořní branný zbrojní systém
-skutečnost miniponorka proniknout zanechat dojem nový nebezpečí lze odhadnout Švédsko rozhodnout
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0f32d376c70e89271614c2df57a4bb0731bc8de70781b0e0931b0549a54271e
+size 215

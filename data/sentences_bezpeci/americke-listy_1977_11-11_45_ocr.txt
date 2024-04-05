@@ -1,1 +1,3 @@
-demokratický země volený vláda vláda odpovídající bezpečí život občan
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e62abb3ff52954cf26c3bc6825eba891be81370bd2a3f5f24d63ac84b15b0d8
+size 82

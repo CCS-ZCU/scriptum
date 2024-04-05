@@ -1,2 +1,3 @@
- Z prvého pojednávania sa vrátil však smutné, hovo- riac, že hoci režim sa ako- si mění, štátna bezpečnost’ a súdy sú tie isté.
- V tom čase si však ani štátna bezpečnost’ nemohla dovolit’, aby Juráš zomrel vo vážení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17367d3242c5158996eab0b371e11cde281d0b67f2bdaf2772ad72ce2b1d7e4d
+size 248

@@ -1,1 +1,3 @@
-uvádět nebezpečí domácí hnutí vystoupit veřejnost vést občanský iniciativa
+version https://git-lfs.github.com/spec/v1
+oid sha256:225e017cfc29ee44e44fe2b0b80b001beb75417fe81e01795ed5e90373ef235f
+size 86

@@ -1,4 +1,3 @@
- Němci se tak brání zlodějům z Česka / Václav Janouš 12 Šéfové MUS jsou doma v bezpečí / Tomáš Syrovátka, Jana Klímová 14 Ze Švýcarska 14 Beobachter: Vitajte v Koruptistane / Conny Schmid 14 Kto sa stará o ľudí v azylových centrách? 17 Boj Ameriky a Švajčiarska má novú obeť.
- Václav Janouš Šéfové MUS jsou doma v bezpečí Švýcarsko na ně nemůže a Česko je nevydá Exmanažeři Mostecké uhelné společnosti (MUS) odsouzení ve Švýcarsku za vytunelování společnosti k nepodmíněným trestům jsou v Česku v bezpečí.
- Jako čeští občané jsou doma v bezpečí.
- tedy budou v příštích měsících nejvíce v bezpečí doma v Česku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb6bb5175d16b47e6f25516dadfad6b9aac2a82a95e79e84bcf2b23a280797c2
+size 690

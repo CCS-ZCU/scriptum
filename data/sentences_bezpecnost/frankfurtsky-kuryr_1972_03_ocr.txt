@@ -1,4 +1,3 @@
-Moczar mobilisovat bezpečnost
-sesazení klíčový funkce stranický šéf bezpečnost armáda projít náznak puč likvidovaný přispění Sovět
-brutto Kčs dokreslení situace Polsko pár poznámka prosinec provést bezpečnost domovní prohlídka starý člen strana vězněný léta bezpečnost pátrat polský samizdat brožura známý autor nazvaný společnost žít Silvestr Polsko zkonzumovaný bývalý množství alko rok hůl
-bezpečnost kontrolovat byt ostatní prostor
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1998d41f5d7c21a45c309391240f87b132dba929ba377d943d3a20acf14b32
+size 486

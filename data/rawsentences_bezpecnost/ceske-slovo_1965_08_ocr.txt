@@ -1,1 +1,3 @@
- — jich bylo 180 havarijních případů! Bezpečnost pražských občanů je vskutku vážně ohrožena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7285efbe1bd8fb90a73304222d35ea0dcc9cb3fa02f10871dc00ae1d34ac338e
+size 108

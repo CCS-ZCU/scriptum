@@ -1,1 +1,3 @@
-Gorner chtít vrátit práce opustit ošklivý budova červený cihla léta cítit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c153d477fb4033b0a4c475c82764f57b563c137c7b58179399d5dcc987bf50b
+size 93

@@ -1,1 +1,3 @@
- Česká republika se nevypořádala se svou komunistickou minulostí, nekonaly se soudní přelíčení s představiteli bývalého režimu na všech úrovních, s tajnou bezpečností, se zaměstnanci věznic, kteří týrali a i zabíjeli politické vězně, s pohraničníky, kteří dali rozkaz střílet do uprchlíků, atd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:482396b9117195a5359fe55312bb4f6e4b60c76b248199e24ddcac38c7158b10
+size 331

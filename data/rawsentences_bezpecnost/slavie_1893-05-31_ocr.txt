@@ -1,2 +1,3 @@
- Nyní Čechy skutečné ohrožují bezpečnost rakouského císařství.
- (proti bezpečnosti těla) a po zastavení řízení postoupeny spisy o- kresnímu soudu na Ovocném trhu ke stíháni manželů pro přestupky §§ 335.
+version https://git-lfs.github.com/spec/v1
+oid sha256:668ecd2e6b5864a99d97b899731c2d4a2a62b52f26c8e95120c2727ddc7b86e2
+size 229

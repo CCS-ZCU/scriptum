@@ -1,4 +1,3 @@
-kresomysl rovnováha střední Evropa sovětský zbrojení ohrožený velký nebezpečí představovat sovětský jaderný raketa střední dolet namířený západoevropský země
-zjištěný násilný revoluce moci čelený komunistický nebezpečí
-Chamberlain velký Britanie vědět Mnichov přiměří poslední příležitost poskytnutý spojenec částečný vzchopit tragický neschopnost pochopit ■nebezpečí hrozit vlastní život národ
-činní muž konktrétní nasvědčovat odpovědný Amerika uvažovat hitlerovský nebezpečí hodlat postavit hodlat zachránit evropský americký demokracie
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c25a28213ff03c24a9de65b403d9d97144d4d152fb9c4e9643649d7c41024a
+size 612

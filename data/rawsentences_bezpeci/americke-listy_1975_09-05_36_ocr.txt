@@ -1,1 +1,3 @@
- Ozývá-li se tedy tato výzva k jednotě tak často, zleva i zprava, jednou s tremolem idealistické utopie, jindy jako operativní příkaz omezující se záporným předznamenáním, a potřetí v oné vele- známé tónině staré fráze o tom, jak “se ještě více a ještě pevněji semkneme”, je jistě věcí rozumu a opatrnosti, abychom za prvé přezkoumali obecný i historický obsah samého pojmu jednota, abychom pak za druhé uvážili a ověřili předpoklady, za nichž dnes vůbec může vzniknout nějaká sociální jednota, ať už jako účinný nástroj odporu proti nenormálním a neudržitelným poměrům, ať už jako konstruktivní sociální síla či konečně nástroj, s jehož pomocí by si velké množství lidí mohlo vskutku vydobýt prostor hmotného a duchovního bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:376e23568628a157fcbadc7a4a4fbd0eea77bf447363d17f7405063630d7933d
+size 820

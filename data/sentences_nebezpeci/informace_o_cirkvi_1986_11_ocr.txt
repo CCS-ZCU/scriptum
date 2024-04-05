@@ -1,1 +1,3 @@
-existovat konkrétní nebezpečí víra uvězněný prostředí snažit vytlačit odsunout pouhý sau kromý život jednotlivec
+version https://git-lfs.github.com/spec/v1
+oid sha256:26faf29ef96c0c0e4c09dc28dc6a012c455b60f4cbfac63b443938073fd01541
+size 127

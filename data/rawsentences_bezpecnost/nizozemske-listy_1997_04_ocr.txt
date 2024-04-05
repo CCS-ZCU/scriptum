@@ -1,3 +1,3 @@
- Vidina jak „vnitřního ráje" jako středu bezpečnosti, tak i náboženská mystika a rudolfínská alchemistická symbolika mu byly blízké.
- Zamezí trhání vzácných květin, které jako na potvoru rostou tvrdošíjně pouze podél tratí, a dodá pocit bezpečnosti pasoucímu se tam dobytku, který není zaháněn lovci květin pod kola rozjetých vláčků.
- Tohoto finále soutěže na téma bezpečnost v silničním provozu se zúčastnilo 19 evropských zemí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1977933ef9f2fb317b48bc03a80a3d6d90612acad85ebbe8aa78250032ef60de
+size 480

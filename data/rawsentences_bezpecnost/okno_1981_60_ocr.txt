@@ -1,2 +1,3 @@
- Beňo sa zachránil pred neokrôchaným obvinením bezpečnosti a dnes sedí v Ústrednom výbore KSČ ako jeho tajomník.
- Je to jen otázka času, než se o těchto lidech roznese, že jsou rizikem z hlediska bezpečnosti státu i z hlediska přínosu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24d40bcc15130081affdfab2d70ddb84756638cba16593e3087f2697cf4c7987
+size 256

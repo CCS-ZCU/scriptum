@@ -1,2 +1,3 @@
-útočící Čechoslovák připojit hlavní ruský síla selhat vítězný zahnání Rakušan musit československý útok zadržený nebezpečí obklíčení
-vážný nebezpečí valný většina veřejnost uvědomovat
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe41e621e09dc8ec8f9b37066c2364cd7ac62c43144f8ba0e42aaca8c11e3efb
+size 220

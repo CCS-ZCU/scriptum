@@ -1,1 +1,3 @@
-naléhavost otázka podtrhnout letošní návštěva prezident ČSSR NSR návštěva předseda prezidium nej vysoký sovět SSSR NSR zřetelný uznaný mírový charakter vztah země ostatní země varšavský smlouva NSR učiněný zmínka nebezpečí zdůvodňující text smlouva dočasný pobyt vojsko SSSR území republika
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb066060e575fe71f8a9baeb1e83dec543b28b93039ec6da9fdeab8e1ef5852
+size 329

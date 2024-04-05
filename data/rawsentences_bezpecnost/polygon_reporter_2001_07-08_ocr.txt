@@ -1,5 +1,3 @@
- S povděkem později politici přijali zprávu EU, že Brusel bezpečnost Temelína nebude zpochybňovat Takže na řadě byly zase akce rakouských skautíkú na hranicích.
- Silné železobetonové jádro přináší vyšší bezpečnost výškové stavbě, ubírá však využitelné plochy na jednodivých patrech, která může být pronajata.
- „Nová vojenská rozvědka navázala kontinuálně i personálně na svého předlistopadového předchůdce, žádné zásadní změny tam neproběhly,“ vzpomíná dnes šéf výboru pro obranu a bezpečnost Petr Nečas.
- Před dvěma lety při prověrkách, zda se důstojníci armádních služeb mohou podle nového zákona seznamovat s utajovanými skutečnostmi, zjistil, že osmdesát šest důstojníků obranného zpravodajství pracovalo před listopadem u Státní bezpečnosti.
- Amerika nebyla připravena, protože po vítězství nad komunismem začala šetřit na výdajích spojených se zajištěním své bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57cd36ab5b1d9ea4f07c6341ef682e884110fd4022c6c32d53103b73b43570c
+size 992

@@ -1,4 +1,3 @@
-President prohlásit iniciativa snížit válečný nebezpečí
-voják pivo říci jmenovat velitel vystavovat nebezpečí vězení výše léta
-spokojovat válka zastávat aktivní mírový pcSitika usilovat odstranění nebezpečí konflikt
-nebezpečí označit současný situace Československo zdůraznit Rakousko mít dělat mírový neutrální politika moci zůstat skutečnost lhostejný
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62c1493493d00725d5a0f9994a8d705bdab25caf02fee7d0cd137d01679d25a
+size 397

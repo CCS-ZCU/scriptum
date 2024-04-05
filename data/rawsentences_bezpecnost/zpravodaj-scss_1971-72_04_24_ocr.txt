@@ -1,12 +1,3 @@
- Ja: Čo sa s nimi stane po eventuálnom uzavretí európskej dohody o bezpečnosti? Nebudú musieť sovietske jednotky opustiť 2 proti komunismu na všechny fronty tehdejšího světa, a padl o dvacet let později jako plukovník americké armády ve Vietnamu.
- OTÁZKA MEZINÁRODNÍ BEZPEČNOSTI A SPOLUPRÁCE V EVROPĚ (Výňatky z referátu Edmunda ŘEHÁKA.
- "Konference pro evropskou bezpečnost a spolupráci".
-"zajištění evropské bezpečnosti", jsou už data daleko staršího a byla jich celá řada,hlavně ze sovětské iniciativy.
- Brzy na to, v únoru 1954,učinil první sovětský návrh k dohodě o kolektivní bezpečnosti MOLOTOV na konferenci "Velké Čtyřky" v Berlíně.
- Po dalších čtyřech letech polská delegace předložila znovu svůj návrh na zajištění evropské bezpečnosti.
- Pak koncem dubna 1967 přišlo prohlášení z Karlových Varů od "zástupců evropských komunistických a dělnických stran" k zajištění "kolektivní bezpečnosti na základě mírumilovné koexistence" a s úvodním útokem proti "Spojeným státům, hlavní agresivní a reakční moci, která usiluje o zvrácení běhu děj in a o zbavení práva národů,aby rozhodovaly o svém vlastním osudu".
-Konference se měla také zabývat návrhem na zřízení zvláštního orgánu,který by byl pověřen otázkami evropské bezpečnosti a spolupráce.
- ® Jak se jeví souhrnně stanoviska k proponované "Konferenci pro evropskou bezpečnost a spolupráci"na východě a na západě Evropy.
-Tím hospodským, • Odmítavé stanovisko,jakkdosud prováděné "détente", tak k proponované "Konferenci pro evropskou bezpečnost a spolupráci" sdílí velká většina politického exilu,a to nejenom ze satelitních zemí, nýbrž i z exilových zástupců různých národů ze Sovětského svazu.
-evropské konference pro bezpečnost a spolupráci,podal Edmund Řehák z Paříže.
- Jeho rozhovory se švýcarským kolegou se týkaly především Evropské konference o bezpečnosti, hospodářské integrace a otázky u- znání rozdělených států.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3362d6ae01694a398dbf2e201a5c94a757526de79ae2b7293e8e52a12106dba
+size 2083

@@ -1,2 +1,3 @@
- zdravou,Evropu,kde si všech ,iy národy budou rovny a konečně Evropu,která zaručí jistotu a bezpečnost svým občanům a kte rá- bude schopna ji obhájit.
- je si vědoma, své odpovědnosti a poslání ve světě, jehož tak veliké části jsou odpírány základní svobody, na které má každý moderní člověk^právo,Všichni s celým srdcem stojíme za myšlenkou nové a sjednocené Evropy,poněvadž jen tak budou moci její jednotlivé národy žiti ve svobodě pro své národní cíle a jen tak je možno vrátit našemu kontinentu hospodářskou a sociální bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae69f931eb40b44a7fc2690b22c4ac2e7fb80c79cc8a239d41f1376d1c696812
+size 595

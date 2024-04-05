@@ -1,4 +1,3 @@
-Rakousko poznat hrozící nebezpečí
-mladík odpovědět umět plovat odejít nebezpečí moci probrodit voda
-malý Schäferův naříkat proud dívka chvátit nebezpečí strhnout sebona rozmýšlet statečný Beatrie chvíle skočit voda
-vyobrazený účtovaný přístro jem použití obyčejný keroeinový svítilna povoz jízda noční odstranit nebezpečí srážka povoz
+version https://git-lfs.github.com/spec/v1
+oid sha256:9386de0181dbc0d1939798b1315c61ba6498458d07452f58396a2af43b01d091
+size 378

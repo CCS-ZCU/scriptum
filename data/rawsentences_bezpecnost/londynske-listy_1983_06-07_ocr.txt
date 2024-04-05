@@ -1,2 +1,3 @@
-Naái míroví činitelé a neveřejná bezpečnost byli ostatně kolem a pcmohli radou nebo přispěchali s vysvětlením.
- z Za mimovolné účasti několika (desítek) soudruhu z neveřejné bezpečnost i, kteří se vyjeli náhodou slunit do obory Hvězda,kde se setkaní konalo,došlo k diskusi o míru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51c42aa967b9371e6939f01d424f6d88d4c5c7ceb778c0a5067ddef1920c7283
+size 309

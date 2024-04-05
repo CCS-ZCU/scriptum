@@ -1,2 +1,3 @@
- Kulturní Fórum v rámci Konference o spolupráci a bezpečnosti v Evropě (CSCE).
- svazku knihy: armáda-bezpečnost, diplomacie, věda.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2dbb968128555646ac2d735e6c81226ce819d7cfd66400cd465d566ef66b530
+size 140

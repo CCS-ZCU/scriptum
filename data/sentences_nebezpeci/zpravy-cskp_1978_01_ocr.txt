@@ -1,2 +1,3 @@
-úvod autor uvádět požádat zveřejnění západoněmecký liberální časopis známý kritický postoj východ západ
-nebezpečí válka vycházet imperialistický centrum pokračující zbrojení
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce648faca7e67ba0dcae9884549def81c0de92be99a4a9472304918540c3825
+size 202

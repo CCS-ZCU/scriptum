@@ -1,2 +1,3 @@
-podniknout citátní bezpečnost řada akce spojený domovní prohlídka výslech zadržený velký část člen výbor obrana spravedlivý stihaný
-cov što bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:37517bdd642b9c195ce7cc9c3eb8f33b00e47c27accd40e93dd6a9c767e38d74
+size 170

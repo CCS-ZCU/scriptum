@@ -1,1 +1,3 @@
-prognóza příznivý rok skupina pravicový důstojník pokusit puč nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e7f17d112eb65ca1b0955397e1762a38571a45113eb46ffdec3812009c818a3
+size 82

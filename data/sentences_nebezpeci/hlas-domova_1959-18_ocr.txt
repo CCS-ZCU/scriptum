@@ -1,1 +1,3 @@
-severní soused vidět valný nebezpečí dát první jediný ozbro jený mocnost pochod
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff617b862b128b2e8eae7de6dd2ab11671726cc803fd5f0677fbcee64ccfa3c2
+size 88

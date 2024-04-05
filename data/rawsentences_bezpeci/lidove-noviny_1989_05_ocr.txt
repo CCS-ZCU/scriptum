@@ -1,1 +1,3 @@
-" Gizo Andrapharidze, přestože mohl uniknout do bezpečí exilu, zůstal, aby sd ílel tragický úděl svých spolubojovníků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fd668c3f97dbd85317cde5cadd4c8923fc355ce549753db383eba22d22e69c1
+size 131

@@ -1,2 +1,3 @@
-chtít dát odpověď rok Jeronýmův
-moci sedět
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b1f81e259937784105d6abf34e810568af9132e06a1c6531655884693463d54
+size 50

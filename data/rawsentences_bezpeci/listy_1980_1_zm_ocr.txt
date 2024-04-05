@@ -1,2 +1,3 @@
- Starý muž, který prožil svůj život v bezpečí, klidu a tiché důstojnosti v této politicky zmítané zemi mi prozradil s jistou hrdostí recept na takový život.
- A tak statečnost a prav- da stojí proti bezpečí, klidu, práci, hmotné zajiště- nosti, proti rodině a normální budoucnosti dělí, proti vyřazenosti, veřejným pomluvám a desítkám jiných příkoří, které znají nejlépe ti, kteří se už rozhodli.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d5014481a639547b425f76d1d3e5e5338743de5c8b2471b9c41348fb796936d
+size 438

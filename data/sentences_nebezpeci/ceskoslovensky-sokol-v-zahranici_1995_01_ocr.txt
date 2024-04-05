@@ -1,1 +1,3 @@
-věřit krajan uvědomovat nebezpečí konzumní způsob život
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a78cf44b46d7d1edbeafb67f70119f4285ed140b955c8194122b4cd096e516
+size 64

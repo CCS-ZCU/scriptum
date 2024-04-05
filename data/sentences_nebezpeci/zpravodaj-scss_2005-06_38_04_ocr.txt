@@ -1,2 +1,3 @@
-místo Madrid teroristický nebezpečí dělit Londýn
-ozvěna minulost událost výročí vzpomínka nasazený služba fašismus komunismus léta život práh smrt Jiří Sochor život strašný plný nebezpečí stálý blízkost smrt
+version https://git-lfs.github.com/spec/v1
+oid sha256:3de1ec333f8e6bb27d29d0b3ab296a4668dd435e5bdf9a383d759ebf709a0e57
+size 237

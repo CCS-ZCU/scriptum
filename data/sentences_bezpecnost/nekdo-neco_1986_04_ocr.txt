@@ -1,2 +1,3 @@
-sedmnáctý osmnáctý století ztotožňovat politický svoboda bezpečnost vysoký cíl politika účel vláda záruka bezpečnost bezpečnost umožňovat svoboda
-rozhodující kriterium zůstat bezpečnost podoba záruka osobní bezpečí násilný smrt Hobbes svoboda strach podmínka svoboda bezpečnost život společnost celek
+version https://git-lfs.github.com/spec/v1
+oid sha256:757fd01962dae520a6d73630e98ae25e24e301511674cf70a03307ddd4095e87
+size 333

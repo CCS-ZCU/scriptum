@@ -1,5 +1,3 @@
-večerní Praha pokračovat zahájit rozsáhlý šetření bezpečnost
-překlad dokument čeština němčina ověřování provádět Ilse Lóffler Frankfurt telefon
-naděje bezpečnost proměnit čas záruka bezpečnost
-dítě dát Vertikál bezpečnost jistota moc
-základ získaný informace základ vlastní dílčí vynález moci Vertikál překročit vývojový období zlepšit bezpečnost zalidněný západní Evropa žít
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a678c4af2555cda2be82a3744def31a6f871ff47b9408c47189ad2b8d50819a
+size 432

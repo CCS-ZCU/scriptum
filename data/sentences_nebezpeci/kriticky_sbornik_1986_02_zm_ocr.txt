@@ -1,1 +1,3 @@
-jediný skutečný nebezpečí společnost monopůl zace moc
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03308fc4603157c9dac5dd5103ea741881484abdd76146862cc9373b63c7919
+size 60

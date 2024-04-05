@@ -1,4 +1,3 @@
- Bezpečnost především Americké Listy  STRANA 2 AMERICKÍ LISTA’ PÁTEK 22.
- že je doktor Husák stále rozhodnut zabránit zavrženým liberálům, aby jakkoli ohrožovali jeho Bezpečnost především .
- 1) ské bezpečnosti! Sám president Nixon nejlépe odpovídá na tuto otázku.
- pokud jde o vyhlídky na zlepšení bezpečnosti Západu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:051ac383125b75ca5ad2a7a1a840d11916cf3cf79b2a00bb85f08de91ec503a7
+size 352

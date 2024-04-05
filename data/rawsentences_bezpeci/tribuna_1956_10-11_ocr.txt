@@ -1,1 +1,3 @@
- Řekli jsme již, že člověk ze své zkušenosti z mládí, či přesněji řečeno, že většina lidí, jimž se dostalo štastného dětství a dospívání, čerpá pocit jistoty a bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d74a2d169985a8fdf2175427ad47d15732b27a3162df2a09f0131270c6b4633d
+size 199

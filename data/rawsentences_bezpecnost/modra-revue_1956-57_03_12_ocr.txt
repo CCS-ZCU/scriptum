@@ -1,1 +1,3 @@
-" A tato domněnka stačí realistickému politiku,aby na ní založil zcela dobrovolně a proti varování západu svou koncepci poválečné bezpečnosti státu a obětoval jí "ideály,z nichž se tento stát zrodil",beze zbytku.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7393530480faee49fa9c4780fb5a32f4907d191b1243d15187628186e8fef8bc
+size 233

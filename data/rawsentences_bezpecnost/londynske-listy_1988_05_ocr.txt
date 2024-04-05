@@ -1,14 +1,3 @@
- Když se kolem třetí vracel z obchodu, dva přísluJníci Veřejné bezpečnosti ho napadli, tvrdili, že mají příkaz předvést ho na policii a když žádal vysvětlení, žádné mu nedávali.
- Když to nemohli zvládnout, přivolali posilu Státní bezpečnosti.
- Přijelo několik mužů, kteří násilím nasadili Devátému okovy a vsadili do auta, jež ho odvezlo na okresní Veřejnou bezpečnost.
- Velmi necitelně se Veřejná bezpečnost chovala vůči rodině Stanislava Devátého.
- Když se v sobotu nevrátil z' nákupu, jeho sestra zatelefonovala na Veřejnou bezpečnost a tázala se.
- Když sestra volala v neděli, oznámili jí, že Devátý u nich byl, ale že nevědí, co ses ním stalo později, že odejel včera V neděli večer volala na Bezpečnost matka Devátého, mluvila s kapitánem StB majorem DaAkem, který se jí vymluvil, že nic neví.
- V pondělí ráno zatelefonovala matka opět a major Daněk jí oznámil, že Devátý z Bezpečnosti odeiel v sobotu, že byl zadržen (o příčině zadržení zase ani slovo), a to že je vjechno, co jí může říci.
- Takhle si počínaly orgány Bezpečnosti, jejichž povinností je ozná-1 mit příbuzným, co se s každým zadrženým děje.
- Po předvedení na okrsek Veřejné bezpečnosti žádal Devátý, aby tyl přivolán lékař, ale kapitán Prosunovský žádost striktně odmítl.
- Na zákroku proti němu — včetně ostrahy — se podílelo deset až patnáct pří- sluJníků Státní bezpečnosti a mnohem víc pří- slujníků Veřejné bezpečnosti, takže zákrok proti němu přijel na dost velké peníze — a naprosto bezdůvodně.
- Dovolenou na den nedostal, místo toho přilli na jeho pracovijtě přísluJníci Bezpečnosti a bez jakéhokoliv odů- vodnění odvlekli Záieského na Okresní správu Národní bezpečnosti ve Zlíně, podrobili nezákonné osobní prohlídce a dodatečně oznámili, že ho vyietřují pro jeho činnost ve Společnosti přátel Spojených států, Záleský odmítl vypovídat.
- března ráno byl vyzván, aby se dostavil na Bezpečnost a podal tam vysvětlení.
- Bezpečnost proti ní, jak zdůrazňuje kardinál, "bezdůvodně uplatnila drastické násilí".
- Státní bezpečnost mu však zabránila přijet do Vrchlabí a proto jeho projev pronesl v zastoupení mluvčí Charty 77 Stanislav Devátý.
+version https://git-lfs.github.com/spec/v1
+oid sha256:146014ab9f19e6a934347c81729e15d28f3f9ca99b1668039ed3120553b9e8f5
+size 2363

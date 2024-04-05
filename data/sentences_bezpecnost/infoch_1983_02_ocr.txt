@@ -1,7 +1,3 @@
-Ivan Jirous MVÚ Valdice zpráva Palme komise odzbrojení bezpečnost měsíc dostávat pozoruhodný dokument zpráva závislý komise odzbrojení bezpečnost nadepsaný spo leěný bezpečnost
-objektivní posouzení problematika závat lidstvo bludný kruh soupeření velmoc vojens politický blok ovládaný vzájemný nedůvěra podezírání obava vlastní bezpečnost
-muset místo doktrína vzájemný odstrašování nastoupit jiný alternativa komise společný bezpečnost
-zpráva dovozovat pojetí enský síla základ bezpečnost statý pochybný dostatečný zbrojí bezpečnost malý
-pochopení vliv technický vývoj mezinárodní bezpečnost opož ďovat vývoj
-politika vláda áeeaé&fa prosadit pochope vzájemný závislost bezpečnost existence národů® komise formulovat zásada společný bezpečnost vyhlašovat zákonný právo národ bezpečnost odmítnutí vogenský síla řešení mezis
-uznat bezpečnost dosáhnout vojenský převaha
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca727a091c97e26e19a24296d48a3990e19ee9b7d24a05db1141887b22b2c311
+size 971

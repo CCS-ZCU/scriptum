@@ -1,2 +1,3 @@
- Druhá konference o evropské bezpečnosti a spolupráci svolána na 4.
- (3) Směrnice porušují Závěrečný akt Konference o bezpečnosti a spolupráci v Evropě, který českoslo- venská vláda podepsala v Helsinkách 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1145615091c57c36ca2aab51fbd659639b77bef659fc74825b5dcaea62f1e0b6
+size 228

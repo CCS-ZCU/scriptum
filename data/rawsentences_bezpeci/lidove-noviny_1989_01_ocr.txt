@@ -1,1 +1,3 @@
- První altern ativa (polská) v sobě nese n ejvětší ner bezpečí v tom, žo vytvá ří patovou situ aci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e245b352c0cde8b4549f68349c51676aebd4a61f3a49958e953eec7709fd6efc
+size 112

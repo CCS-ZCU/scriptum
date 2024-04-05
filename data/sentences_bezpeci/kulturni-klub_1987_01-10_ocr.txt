@@ -1,2 +1,3 @@
-užitečný zvíře bezpečí zbývat čelit šelma
-zájem bůhví ohrožený bezpečí muset ustoupit zraněný odvážený sanitka nemocnice
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf222513aeea6838cc56495d984c14a49faa909ec367fdaa42710f918519ec10
+size 143

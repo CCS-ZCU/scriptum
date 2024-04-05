@@ -1,5 +1,3 @@
-nebezpečí oholer
-nebezpečí hrozit cholera spojený stá tům vyslovit
-den proslulý lékař badat profesor Virchow Amerika nebezpečí velký
-Bulharsko hrozit nebezpečí navštivený nákaza
-zpráva inženýr Sedláček město Veselí Morava obec Zaraži Málokosť stálý nebezpečí voda protrhnout chranný hráz
+version https://git-lfs.github.com/spec/v1
+oid sha256:af927bf85e46f570ab345ab7ac2ca7ec77d4d06f2adc34c5f445a8e915b4faa3
+size 325

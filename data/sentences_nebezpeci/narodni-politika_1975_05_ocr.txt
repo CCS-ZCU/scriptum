@@ -1,2 +1,3 @@
-Karel Havlíček Borovský vytušit strašný nebezpečí komunismus probouzející národ Slovanstvo lidstvo
-lze doufat snaha probudit americký lid představitel uvědomit nebezpečí falešný détent
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c3d52322dfae8022fe679bda40598da1a7226e8f26823c4733b0d43d7417c21
+size 204

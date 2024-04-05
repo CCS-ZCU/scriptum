@@ -1,1 +1,3 @@
-čínský režim náboženský svoboda soukromý podnikání demokracie státní závislost ostatní země
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea44bacdf4327b048a348ed66556ac04a49f545a7c263ae8b4b0f803fd3b309
+size 107

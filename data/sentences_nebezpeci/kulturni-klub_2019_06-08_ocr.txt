@@ -1,1 +1,3 @@
-moci hovět Finsko nebezpečí odbýt chtít vymluvit
+version https://git-lfs.github.com/spec/v1
+oid sha256:b639317f05370a849840ef9950137603288e9891ed330bac6b3a433479072775
+size 54

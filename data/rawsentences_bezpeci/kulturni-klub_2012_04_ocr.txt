@@ -1,4 +1,3 @@
- Pokud se ve svém vývoji chceme od někoho nebo od něčeho odloučit, můžeme se za normálních okolností vracet zpět a dotýkat se své základny bezpečí v rodině, u přátel, v domácí kultuře.
- Ve vnějším světě nebo ve svém nitru se podržíme něčeho, co je naší kotvou bezpečí, abychom nabrali síly, abychom mohli dál.
- Blízké je vzdálené Z psychologického hlediska je domov základnou našeho bezpečí, a proto si po návratu z emigrace jen s obtížemi uvědomujeme, že nejsme již v důvěrně známém prostředí, nýbrž v prostředí, jehož mnohé charakteristiky neznáme a s nímž nemůžeme žít v souladu jako dřív.
- Svědčí o tom výčet míst, kde Radimský působil: v roce 1904 Bombaj, následovala Smyrna (Izmir), revoluční Teherán (zde Radimský nasazoval vlastní život při zajišťování bezpečí pro místní česko-rakouskou kolonii, jeho statečnost ocenili i britští a ruští dopisovatelé), Craiova, Cařihrad, Varšava (zde se oženil s polskou univerzitní studentkou - svatba se konala 23.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c696c7fc27218ac178447c600c894b3311ee73aa83030d54ab9c37db06d9d6
+size 1071

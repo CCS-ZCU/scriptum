@@ -1,7 +1,3 @@
-ministerstvo spravedlnost řídit hlavní zásada váleční vinník spoluvinník souzený mimořádný právo mimořádný lidový soud nést normální trestní právo moci předvídat děj země německý okupace německý okupace rozpoutat přihlížet čin vtiskovat trestný povaha nebezpečí ocitnout vlast trestní sazba přísný
-Briand —Kellogův pakt ratifikace protokol zmařený ukázat nebezpečí válka zvýšit
-muset zajíždět oceán nebezpečí letecký útok německý
-cesta záchrana pás nebezpečí smrt
-zjistit mapa okupační pás sahat Mauléon Oloron ležící trať bezprotřední nebezpečí okupace
-nebezpečí začít nadávat zlý osud
-moci nebezpečí řečený krajan vzpomínat
+version https://git-lfs.github.com/spec/v1
+oid sha256:37f93313c22586c1cd88954e2e1789101b0a351dc5b1a1e96c4877bce94e6bf7
+size 717

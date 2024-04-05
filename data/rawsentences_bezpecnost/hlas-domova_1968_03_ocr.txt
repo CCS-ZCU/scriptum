@@ -1,2 +1,3 @@
- 67 v článku "V eřejná ne- -bezpečnost” , p.
- bezpečnost o 6.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e67f69608eaa22c3f87a74573990c260360ee79604f6fd9003a06c0e023a42
+size 70

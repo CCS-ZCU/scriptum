@@ -1,1 +1,3 @@
- Uvědomujeme si, že Sovětský svaz je přesvědčen, že vývoj v této oblasti má přímý účinek na jeho bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eddc40bfc6d86c95edf96446105bc7b7960d51ea7f6e7a9b6a2c06c5540a0c6
+size 126

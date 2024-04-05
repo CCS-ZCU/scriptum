@@ -1,2 +1,3 @@
- Nemůže být ani řeči o bezpečnosti a míru v Evropě, dokud srdce Evropy — Československo — je v sevření sovětských vládců a jejich okupačních armád.
- Na úkor svobody Československa a ostatních národů za Železnou oponou nelze sjednat trvalý a spravedlivý mír a bezpečnost v Evropě! Ustupování sovětským násilnickým vládcům v Kremlu může mít za následek další agresi, jejiž obětí nemusí být jen malý stát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:857e67f22e4e2bde414102279c26838a6b622cd25f91fc1fc828ea42ea197557
+size 457

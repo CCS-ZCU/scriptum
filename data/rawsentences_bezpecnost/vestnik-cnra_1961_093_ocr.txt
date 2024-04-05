@@ -1,2 +1,3 @@
- Vnější bezpečnost Ameriky dnes již nelze úspěšně hájit na břehu Atlantiku či na Rýně.
- Neuvediem miesta, ktoré tento krajan navštívil z dôvodov bezpečnosti jeho príbuzných doma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba9efb28bbbd4070e348c9cfb20d9daf34e24c36b6b59ce3a387117f052b84b
+size 200

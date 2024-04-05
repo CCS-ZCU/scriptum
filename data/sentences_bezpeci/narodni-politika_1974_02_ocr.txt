@@ -1,1 +1,3 @@
-povzbuzovat směr domácí oposice občanský kuráž bezpečí chtít sebeobětování ústava zákon znalý využívání omezený možnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a353cc1b32c852179e1dd0ba0d9e8fb9d7c0d2dbaef1ad8dc661e1b09f3d89
+size 142

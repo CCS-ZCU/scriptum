@@ -1,1 +1,3 @@
-drtivý nástup set minuta vést utkání trvat minuta nebezpečí ztráta wimbledonský prvenství
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2fc088a9d94dab5ba7e768acea41755f7ce9ef9902ad9ffa9962326eb441ab
+size 100

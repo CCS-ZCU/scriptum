@@ -1,4 +1,3 @@
-český národ zalýkající bezmocný vztek hnaný obětní zvíře lepší krev pokrok úspěch poslední půlstoletí úmorný práce položit oltář široký vlast sobecký spravedlivý citelný Rakousko dát zabít čest bezpečnost trůn degenerovaný křivopřísežný nenáviděný dynastie Habsburg
-hodina dojet bezpečnost postaraný
-bezpečnost nad
-nutný bezpečnost králův celý rod záležet nepřítel zmocnit tělesný odpadky královský
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fe98f1503f7dc4164e8c4e949fab4d92fd57a7a28b25a3d23943635da38fa28
+size 459

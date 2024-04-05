@@ -1,2 +1,3 @@
-senátní resoluce navrhovat senát setrvávat charta spojený národ zásada sebeurčení respektovaný územní dotknutelnost druhý země zřejmý svět sovětský vůdce senát uznávat platnost Brežněvův doktrína doktrína považovat vážný ohrožení světový míra svrchovanost spojený národ senát rozhořčený skutečnost československý představitel nucený sklonit vojenský politický nátlak sovětský moc uplatňovaný způsob znamenat vážný omezování československý svoboda
-věstník událost Československo nebezpečí normalizace Rus přát Československo dojít normalizace poměry rozdíl poměry Československo poměry statní země varšavský pakt ČSR poměry horší potrestání troufalost československý
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b87ed139dfaa97178106d03b5d285c4b003da50f8064dfb118871447cfcd22
+size 756

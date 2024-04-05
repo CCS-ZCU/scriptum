@@ -1,1 +1,3 @@
-teplý zář osvěcovat pokoj pronikat srdce potěšit osvěžit zahrnout pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:9818032724ec0571fd7b0306cd066c616a8babfa18c7d378f6f983c72d29012d
+size 90

@@ -1,2 +1,3 @@
-státní bezpečnost mít vysoký škola komunistický policejní aparát zvláštní fakulta ordinář docent asistent vymyslit žák nový
-zájem národ internovaný skuipina lidé hrožující bezpečnost stát
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c4c22448c11defc150b4af06042746c496749128115a5951ecea140936d71a5
+size 215

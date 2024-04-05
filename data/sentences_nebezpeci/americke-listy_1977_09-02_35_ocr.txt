@@ -1,1 +1,3 @@
-země Afrika dík politika sovětský svaz pohyb hrozit nebezpečí krvavý konflikt snažit Amerika zájem vlastní rozdíl sovětský svaz tamní zmatek vidět velký příležitost zabránit
+version https://git-lfs.github.com/spec/v1
+oid sha256:d815842c2e6e90821a07aeb7ef0415a58933c7c62c11a120f9aba9e8b6187b29
+size 194

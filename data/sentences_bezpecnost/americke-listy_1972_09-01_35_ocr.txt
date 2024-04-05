@@ -1,2 +1,3 @@
-myslit bezpečnost spolupráce Evropa moci zajištěný národ upíraný právo rozhodovat
-bezpečnost jedny moci vykoupený smíření nesvoboda druhý
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9bae12fdd7303542d83990043de2e6f2b8d36a9b70c5e10611994669d7b603
+size 153

@@ -1,1 +1,3 @@
-chtít ostatní svobodný národ maximální bezpečnost snesitelný cena
+version https://git-lfs.github.com/spec/v1
+oid sha256:f316ab464d58efdd3e6697cf03fe74871315375fb85de68e186a24ce0176741f
+size 74

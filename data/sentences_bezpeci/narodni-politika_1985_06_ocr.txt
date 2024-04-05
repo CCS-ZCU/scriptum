@@ -1,2 +1,3 @@
-domov znamenat bezpečí prosperita jistota vřelost vztah pocit společnost vytrácet
-pocit bezpečí ochromovat raketa vůle většina obyvatel objevovat území
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b618852235bf73bba11351604c165042ec0fc44dbc96379ba10a79046aa56e
+size 164

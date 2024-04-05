@@ -1,7 +1,3 @@
-namáhat přílišný přívětivost nadměrný přetvářka dokázat otřást odhodlanost veřejný mínění západ čelit rudý nebezpečí
-Chruščov pracovat heslo nebezpečí jaderný zbraň nákladnost zbrojení únava nutnost stát ustavičný střeh čelit nebezpečí lidé věřit věřit chtít
-svět nebezpečí Chrušcoven začínat diskutovat sblížení dohoda
-stát moci dohodnout stát druhý moci civilisovaný svět dohodnout barbarský civilisovaný rudý církev
-spor vyřešený nebezpečí vojsko
-profesionální britský diplomat vidět nebezpečí italský fašismus německý nacismus přezíraný politický správce britský zahraniční politika
-Německo mít zvláštní pochopení německý mentalita dovést vidět nebezpečí německý vývoj politik znalý jediný slovo německý tvořící představa Německo Němec přání tužba
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc1ae517f77b3129e9d8e433b4563e141d7dd443fd15dc75b5d6e7b37626ff0f
+size 869

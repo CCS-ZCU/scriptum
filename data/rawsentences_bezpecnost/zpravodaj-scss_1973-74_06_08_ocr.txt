@@ -1,6 +1,3 @@
- Na dotaz novináře, zda nemá obavy o svou osobní bezpečnost, Sacharov odpověděl: «Uvědomuji si riziko.
- září se v Ženevě rozběhne «druhá fáze» evropské konference o bezpečnosti.
- Konference o evropské bezpečnosti leží kremelským vládcům na srdci už dlouho.
- Avšak současně obdržel Tan Pulin spěšnou depeši z Pekingu od Čou En-laje, aby »zajistil veškerou bezpečnost» zmíněnému letadlu .
- Novým momentem v oficiálním hodnocení Srpna je souvislost mezi vstupem vojsk a konferencí o evropské bezpečnosti (to je v dnešním politickém kontextu módní): kdyby prý internacionální pomoc nepřišla včas, uvolnění v Evropě by bývalo nebylo možné a mír na našem starém kontinentě by byl ohrožen.
- Švýcarské občany zaujal poukaz Edmunda Řeháka na to, že první «všekřesťanská konference pro evropskou bezpečnost a spolupráci» se měla na návrh českého krále Jiříka z Poděbrad konat v Basileji.
+version https://git-lfs.github.com/spec/v1
+oid sha256:964c57d4d91e0a01e53f40333a81a3a56572d5ae6eeec58eb187d47c5d776c13
+size 975

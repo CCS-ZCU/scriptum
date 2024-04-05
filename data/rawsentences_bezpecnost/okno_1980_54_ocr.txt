@@ -1,10 +1,3 @@
- Uvedl, že Dubček má prý bankovní konto v Kolíně nad Rýnem, ale k soudu se s touto závažnou dezinformací státní bezpečnost přece jenom neodvážila.
- Pelikán je ovšem pro státní bezpečnost prvořadým objektem.
- Státní bezpečnost dostala za úkol okamžitě zakročit a vyrobila několik falešných verzí Charty, které měly vyvolat zmatek a zároveň odhalit spolehlivost adresátů, od kterých režim očekával, že padělaný dokument odevzdají neprodleně policii.
- Dokonce i několik bývalých důstojníků státní bezpečnosti jako na př.
- Rozhodneš-li se k návštěvě Československa, vezmi v úvahu, že tě státní bezpečnost může vydírat - bez ohledu na to, zda máš či nemáš od čs.
- My jsme spokojeni se životem v Norsku, ale mám dojem, že zámoří skýtá větší pocit bezpečnosti před rozpínavostí Moskvy, resp.
- Podle ní musela duše, nyní vtělená, žít už někde dříve, ve světě idejí a znát předem vše, co v daní m životě s takovou bezpečností poznává.
- Ryze duchovní díla Hlubina bezpečnosti, Listové do nebe, Via Lucis a jiné navazují na tradici českého duchovního myšlení Tomáše ze Štítného, Petra Chelčického, Jana Husa a Jana Rokycany.
- Je u nás sice ”prý” asi 30 tisíc milionářů, důstojníci, veřejná bezpečnost, stranický aparát jsou velmi dobře placeni, ale i tam dochází k rozkladu.
- To jsou | ti dobří muži v domečcích u trati, starající j se o návěstí, závory a všechno, co na vy- [ hraženém úseku trati zajišťuje bezpečnost I dopravy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0318ef88cd28c99e323db593ae2685b344a48a4deb1976449e2ad042de8dbdd4
+size 1595

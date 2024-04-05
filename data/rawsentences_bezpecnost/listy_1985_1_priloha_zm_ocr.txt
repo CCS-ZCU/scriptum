@@ -1,5 +1,3 @@
- Státní moc, jak známo, odmítla Chartu 77 uznat za legitimní, smysluplnou a konstruktivní složku společenského života, odmítla s ní jednat a na její iniciativy přímo a věcně reagovat, a veškerou svou komunikaci s ní vložila do rukou Státní bezpečnosti.
- Postavení Charty 77 a její práce byly předmětem jednání na půdě různých mezinárodních organizací (napří- klad Mezinárodní organizace práce nebo Konference o bezpečnosti a spolupráci v Evropě (KBSE) v Bělehradě a Madridu).
- 120/76) Charta 77 se už několikrát vyjadřovala k porušování tohoto práva v Československu, a zejména v souvislosti s Madridskou konferencí dokumentovala, že československá vláda neplní závazky, jež přija- la v Závěrečném aktu helsinské Konference o bezpečnosti a spolupráci v Evropě.
- Mnozí vyhození novináři byli vyslýcháni a zastrašo- váni Státní bezpečností.
- Státní bezpečnost např.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4763b6982eca8c963afde9316510f1c46e4e5ffcf30e92b82103b9604ce866b3
+size 954

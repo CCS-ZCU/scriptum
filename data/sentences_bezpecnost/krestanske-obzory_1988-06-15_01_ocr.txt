@@ -1,1 +1,3 @@
-bezpečnost uplatnit drstický nási lik masový podpora petice pokračování utuchající snaha věřící svoboda víra církev
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f20bdf40996a616f172906277d47ef55b5246e8acd5acde103775f0bbe8616
+size 130

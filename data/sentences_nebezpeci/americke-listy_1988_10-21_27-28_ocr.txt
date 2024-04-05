@@ -1,2 +1,3 @@
-vyvozený důsledek právní řád nčkteřit vystavit nebezpečí trestní stíhání
-existovat nebezpečí současný reálný hodnota přecenit
+version https://git-lfs.github.com/spec/v1
+oid sha256:efde58652781c610ff736de9f6d93e720e05057bfd73b9f8b652f0e9076bd08a
+size 147

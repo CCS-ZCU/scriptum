@@ -1,6 +1,3 @@
- Leč legraci stranou: po potupně kvapné, Hitlerem uštědřené porážce a kapitulaci v roce 1940 a po rozpadu koloniálního panství, Francie se jako velmoc nevzpamatovala, vzdor poválečnému uznání v podobě permanentního členství v Radě bezpečnosti OSN.
- Zatímco se ozývají nikoliv neoprávněné hlasy k reorganizaci Rady bezpečnosti (jejím rozšířením o Japonsko, průmyslovou velmoc, a o Indii, nejpočetnější demokratický stát světa, s druhým největším počtem muslimů, a Francii jako permanentního člena s právem veta vymýtit), Francie zejména v poslední době projevuje nutkání prezentovat se jménem celé Evropy, spolu s Německem dominovat ostatním státům kontinentu s odříznutím Velké Británie.
-“ V současné kauze, co podniknout s Irákem, víc energie se spotřebuje na to, jak zabránit Americe, aby jednala a ne na donucení Saddama, aby přestal ignorovat prozatím již sedmnáct rezolucí Rady bezpečnosti.
- Saddam už beztrestně ignoroval 17 rezolucí Rady bezpečnosti, přikazujících, aby dostál svým závazkům a odzbrojil.
- Musíme být smířeni se skutečností, že jsme se stali hlavním cílem jejich nenávisti, že zbožné přání nemůže být odpovědným politickým programem, že nemůžeme svěřit naši bezpečnost do rukou OSN.
- Bush slíbil odzbrojení Saddama ať už s podporou či bez podpory Rady bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e462649320c33a787773f22233c67578678c59bc40457f4e8e2a05913cea92
+size 1417

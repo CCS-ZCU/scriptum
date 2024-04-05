@@ -1,2 +1,3 @@
- 1) socialismu, obranou zájmů evropského míru a bezpečnosti.
- v období krátce ■ před helsinskou konferencí - aby nemohlo být socialistickými státy obviňováno z rušení příprav konference - vydalo vedení mnichovské vysílačky příkaz zásadně ne- polemizovat, nepřinášet vlastní polemické komentáře, nýbrž používat citátů ze západního tisku jakož i “ maoistic-ké útoky proti myšlence evropské bezpečnosti a spolupráci a maoistické pomluvy na adresu socialistických zemí”, Kladný postoj k helsinské konferenci neprojevil prý ani jediný pracovník čs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:305ee04923eeab8ec669c9a1a2f02fd2f4504970fe3b02b7ade876904edd0535
+size 607

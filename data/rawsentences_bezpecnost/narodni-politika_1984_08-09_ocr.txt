@@ -1,3 +1,3 @@
- A naviac — do tohto stavu nie sú zahrnuté zvláštne jednotky ministerstva vnútra a bezpečnosti, ktoré však charakterom svojho výcviku a úrovňou výzbroje tvoria nezanedbateľnú zložku ozbrojených síl.
- Bezpečnost soudí, že šlo o zručně vyrobenou nálož, která byla schopna v určený čas způsobit explozi.
- Avšak ani pečlivé prohlídky za účasti několika desítek pracovníků bezpečnosti další bomby nenašly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:910eb88426df836bf7ad2636169457f3b7470d71e436e443cc3d21cbb32bacbb
+size 447

@@ -1,3 +1,3 @@
-“ Zřejmě však neví nic o tisících lidí mučených, ubitých při výsleších, popravených, zabitých při nucené práci v dolech, bez elementárního zajištění jejich bezpečnosti a ochrany před uranovým zářením.
- V květnu 1951 byl Václav Renč zatčen a se svým přítelem, básníkem a překladatelem Josefem Kostohryzem, zatčeným v tutéž dobu, separován Státní bezpečností pro chystaný divadelní monstrpro- ces.
- O ubitých v kobkách komunisty prolezlé Státní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbbcb754c8de0a0ef1a0ae393482d274066b289730242e4ad6537334cc962f60
+size 515

@@ -1,6 +1,3 @@
- Aby budila žárlivost a podezřívání, státní bezpečnost si vybírá.
- a ponechal tak tajemníkům pro věci církevní, orgánům bezpečnosti a soudům, aby aplikovali ustanovení £ 178 za extenzivního výkladu a libovůle na jakoukoliv činnnost bez úředního schválení a to jak kněží, tak dokonce i laiků.
- Při výsleších se orgány Státní bezpečnosti snaží zastrašováním, vydíráním a korum- pověním přimět věřící ke spolupráci.
- Státní moc dosud prakticky nenabídla věřícím k rozhovoru jiného partnera než vyšetřovatele a Státní bezpečnost.
- Tato fakta zřejmě nebyla neznáma Státní bezpečnosti.
- bezpečnost) nejpozději v roce 1948 věděly, že Vaněk o své válečné minulosti (i o „odbojové činnosti“ Herty Vaňkové-Hónigsfeldo- vé) vypovídal nepravdu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d8e832d3c82ce6e35e4d1a6a866624266beeebfa566c0dfd26185d25ebec37
+size 834

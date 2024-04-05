@@ -1,1 +1,3 @@
-přísahat západoněmecký rekruť ústav spolkový republika demokratický ústav Evropa fungovat zaručovat občan sociální bezpečí spokojený život blahobyt najít občan křiklouně přísaha obránce demokra prvotřídní pražský šunka domácí játrový knedlíčka smetanový klobása výborný šašlík dostání mladý krmený kachna kuřata
+version https://git-lfs.github.com/spec/v1
+oid sha256:333b3ee7e70732f6624f28890b6f6bc35291485cd5ed7992a182bda498bb5855
+size 360

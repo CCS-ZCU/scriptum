@@ -1,4 +1,3 @@
-čas přijít pozvánka výslech soukromý ples jilský ulice projevit zájem státní bezpečnost
-heslo vybízet vysoký výkon noviny lhát lidé mlčet státní bezpečnost honit disident
-osud obec bezpečnost ulice úděl církev farnost lhostejný
-lhostejnost samý jít ohrožený vlastní bezpečnost bezpečnost dítě starat nebezpečí odvrátit založit ruka očekávat přijít pomoc
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc74a44427b74ea6c2ac31e9f204270baf279af472b86836bc4f24387a305f4f
+size 396

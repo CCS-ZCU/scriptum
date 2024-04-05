@@ -1,1 +1,3 @@
-docházet paradoxní jev pohled defilující raketa divák rodit pocit bezpečí vzmáhat silný pocit nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:e00e703e3c52e35416bb5d2ffdb974a3561333e7b642c17e039d129d313bb78b
+size 115

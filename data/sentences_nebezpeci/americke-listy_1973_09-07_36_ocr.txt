@@ -1,1 +1,3 @@
-ohrada nápis pozor nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:207fa3c6e8bb51d1f20de2540509cd767891c0bb2e55d6cd368357ae525d8719
+size 32

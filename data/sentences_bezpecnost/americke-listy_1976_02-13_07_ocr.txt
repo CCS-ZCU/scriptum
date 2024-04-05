@@ -1,3 +1,3 @@
-Španělsko americký smlouva společenský sebeobrana
-vnější bezpečnost koncept všeobecný lidový obrana mít stát vnitřní bezpečnost systém společenský sebeobrana
-občan dopis podepisovat činit dopis příbuzný západ muž státní bezpečnost obvinit Minařík používat korunní falešný svědek
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6d6e9e93e6cc1bf0b0f315256d154c5f271238933b1c670b484c9dc6fe45e5a
+size 317

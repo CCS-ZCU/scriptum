@@ -1,1 +1,3 @@
-sokolský manifest anglický znění rozeslaný řada vládní jiný význačný veřejný činitel spojený stát Kanada zvláštní upozornění odstavec žádající svobodný svět chystaný konference bezpečnost Evropa navrhovat sovětský svaz bezpečnost Evropa ohrožovat nazapomenout Československo porobený okupovaný sovětský svaz konference bezpečnost Evropa požadovaný odvolání sovětský vojsko zotročený stát střední východní Evropa stát připuštěný svobodný volba dozor spojený národ
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7cae352f50d2d73bff6c2fcda05e9f017f61ea6b93e25fe6875e00fc2cb4d56
+size 524

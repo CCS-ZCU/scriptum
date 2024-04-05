@@ -1,4 +1,3 @@
-Sheen pevný víra dělat zázrak člověk mít mít možit
-předseda Chlodwig Hoherulone snažit přimět vláda nebezpečí koncil zasáhnout
-domnívat dokázat práce domácnost udělat
-přenocovat křoví nebezpečí sehnat lev
+version https://git-lfs.github.com/spec/v1
+oid sha256:92e793913a51b7ac0a4fad98a7172dc545f7508f3be0ab1d3329e9af2ba20966
+size 232

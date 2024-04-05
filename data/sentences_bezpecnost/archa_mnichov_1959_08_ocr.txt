@@ -1,2 +1,3 @@
-útok Jaroslav Seifert tvorba utok surový ohrozit osobní bezpečnost báseň kov lid brát utok opovržení mít padnout dílo milovaný básník padnout hlava novatel
-snít závadový verš umět dělat pohřeb kra sná pohřbívat živý
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db5a5974ed0e8572230468f462698bec8a5338715b8bec978a842c96ee82093
+size 252

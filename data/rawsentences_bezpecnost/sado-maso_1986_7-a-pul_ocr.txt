@@ -1,3 +1,3 @@
-března 76 přichází ze skupinou Plastic Peolple státní bezpečnost aby zahájila sérii "tvrdých-interview", jež vrcholí pročešeš proti české "2.
-To samo o sobě stačí,a nebo by m'To stačit /dekodérům bezpečnosti/ aby se kolem tohoto podstatného základu ovíjely a rozvíjely další asociace.
-Cranly autor knihy "Silence íears" strávil většinu svého dospělého života v Dublinu,kde se zabýval navrhováním takové kryptografie jež by propůjčila “ dar dokonalé’ bezpečnosti při komunikaci mezi všemi národy a lidmi ".
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bc537f8a9c1ab9ff8d0e4dd4ad6182149a3a9aaa3edededf3c957ddbedf8c77
+size 560

@@ -1,5 +1,3 @@
- Dobře ví, že za své relativní bezpečí a za svou relativní prosperitu vděčí své občanské poslušnosti.
- Západoevropané mohli mít pod střechou svého spojeneckého systému a vlastního obranného úsilí celkem pocit bezpečí; dokonce do té míry, že mohli svou pozornost obrátit k perspektivám celoevropským.
- Je Bůh odcizený člověk nebo je spíše člověk sebeodcizeni Boha? Je postava syna Božího imaginární povzneseni pozemského otcovského vztahu, nebo spíše jeho archety- pické paradigma? To všechno má svůj původ ve stejné obavě: je svět, jak jej vnímáme, konečná realita, kterou si lidé okrášlili neexistujícím „smyslem“, v souladu s různými obrannými psychologickými a společenskými mechanismy, a sami si tak těmi umělými ozdobami znemožnili vidět svět takový, jaký je? Je nepomíjivá realita snový výmysl naši touhy po bezpečí? Neboje svět spíš jako plátno, skrze něž nejasně vnímáme smysl a řád, odlišný od toho, jaký nám může poskytnout racionální zkoumání? Samo vyhledávání bezpečí přece zdaleko není fantasmago- rická sublimace přirozeného a všeobecného strachu z utrpení, ale spíš příznak naší účasti na věčném smysluplném řádu, našeho statutu metafyzických bytostí, statutu, na který bychom mohli téměř, ale nikdy úplně zapomenout? Zastírá přízrak Boha naše vidění věcí, nebo naopak zakrývá svět Boha našemu pohledu? 87 Pokud Jeden není, nic není.
- Takto lze porozumět vědě, vyslovené kýmsi zkušeným: Jsem v absolutním bezpečí.
- Nato se kriticky smýšlející zeptá: A odkud to ví? Kde jsou garance a důkazy tohoto bezpečí? — Otázka tu však není na místě; zkušenost je prostě zkušenost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d760b5e9f1de57741f79b6d1c5d987a34281fcf040374832fbd2b7be5a2f4aae
+size 1205

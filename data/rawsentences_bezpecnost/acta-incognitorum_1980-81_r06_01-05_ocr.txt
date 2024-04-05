@@ -1,1 +1,3 @@
- Proto se v zájmu osobní bezpečnosti omezí pouze na tuto všeobecnou informaci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1915e97e01bc94768b872f34c3e061dad4e591ba6658c94103854f4b982f022
+size 84

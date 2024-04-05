@@ -1,2 +1,3 @@
-březen poslání vytvořit dílo pracující nabádat velký opatrnost práce dodržování bezpečnost předpis
-jiný význačný vládní mluvčí poukázat četný ústupek Sovět učinit strana jednání SALT říci nový smlouva spojený stát zajistit velký bezpečnost uzavřít velký záruka dát předběžný dohoda Vladivostok prezident Ford Brežněv
+version https://git-lfs.github.com/spec/v1
+oid sha256:634df4d11e4519d824d697cbb972da96ba030c26a5a4f667659949a6f697ff35
+size 366

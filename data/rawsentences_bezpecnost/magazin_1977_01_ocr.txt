@@ -1,3 +1,3 @@
- Pod záminkou ochrany národní bezpečnosti je toto právo spojováno s různými nemístnými podmínkami.
- 30  Volný překlad článku Hanse Weigela, uveřejněného v NEBENSPALTERU pod názvem "Der Tragodie zweiter TeilM« Možná, že by byl vhodnější název KOMEDIE POKRAČUJE Na předběžné konferenci o přípravě předběžné konference pro přípravu druhé konference o bezpečnosti a vzájemné spolupráci v Evropě byl vypracován návrh resoluce pléna k velkorysosti a oboustranného porozumění Západu a Východu: - Všechny zúčastněné státy se zavazují ke svobodné, nikým a ničím nerušené výměně informací o členských státech NATO.
- Jejich konstruktivní snažení úspěšně vyústilo na helsinské konferenci o evropské bezpečnosti a spolupráci.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edfaadce09b704c8944583fde9c21ad3b4c2ec8139dd33784cdf29babf64f978
+size 800

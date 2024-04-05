@@ -1,17 +1,3 @@
- Státní bezpečnost.
- Tři příslušníci bezpečnosti, zatčený a šofér snadno zaplnili malý automobil.
- Pak mě zavedli do velkého domu osvětleného zářivkami, zřejmě centra Státní bezpečnosti,“ pokračuje Niels Barfoed, který přijel do Prahy 20.
- Svoboda slova a tisku se siřila; ustavovaly se dělnické rady; studenti a intelektuálové bili režim hlava nehlava; církev směla opět promlouvat k veřejnosti; nenávist k Sovětům rostla na každém kroku; zemědělská družstva se rozpadala a nikdo ani nehnul brvou; političtí vězni se vraceli domů; díky odhalením plukovníka Swiatla, vysokého činitele tajné policie a strážce přisně důvěrných spisů, který přešel na Západ, vycházela na veřejnost tajemství archivů bezpečnosti; stan komunisté, osvobození ze sovětských koncentračních táborů, i ti, kteří prošli mučirnami stalinismu, začínali mluvit; stranický aparát zkrátka nevěděl kudy kam, jaká ideologie je „správná“.
- Nedlouho po říjnu se polští činitelé rozhodli, že v Radě bezpečnosti OSN budou při projednáváni sovětské intervence v Maďarsku hlasovat se Sověty (mohli se zdržet), ač sami ruské invazi ušli jen o vlásek.
- za ideologii, státní bezpečnost a zahraniční politiku.
- Tereza Toranská: V letech 1945-46 byla rovnováha sil následující: na vaší straně bylo 300 000 vojáků Rudé armády, 230 000 lidí pracujících pro bezpečnost, 200 000 mužů v polské armádě ,120 000 policistů, rekrutovaných většinou pod nátlakem, a 350 000 členů komunistické strany.
-: Podle odhadu bezpečnosti bylo v Polsku v letech 1945-46 uvězněno 100 000 osob.
- Automobilová kolona, v níž městem čtyřikrát denně projíždí prezident na trase mezi svou rezidencí a úředním sídlem, sestává z devíti vozů — při těchto přesunech zajišťuje ovšem jeho bezpečnost ještě neznámé množství dalších automobilů, které nejsou součásti oficiálního průvodu.
- Pro ostatní svět se klade otázka: bude na naší planetě víc klidu a bezpečnosti, když po zuby ozbrojené, vystrašené a zoufalé Rusko bude ještě víc zaostávat za zeměmi s pokročilým hospodářstvím, nebo bude svět bezpečnější, když Michail Gorbačov uspěje s reformami, které povedou jeho zemi do 21.
- KSI tím spíše reagovala na nový zahraničně politický kurs a nové chápání bezpečnosti sovětského vedeni a na skutečnost, že KSSS ve svém vztahu k druhým komunistickým stranám klade menší důraz na zachování ideologické ortodoxnosti, než na politickou podporu jeji.
- Jako partnerům „rovnoprávného dialogu“ se Spojenými státy připadá západoevropanům úloha — říká se v tézích — zasazovat se v rámci spojeneckého svazku za politiku „oboustranné bezpečnosti ve světovém měřítku', „v jejímž rámci získají převahu politické faktory nad faktory vojenskými“.
- Bundy byl vletech 1961-1966 zvláštním poradcem prezidenta USA pro otázky národní bezpečnosti.
- Dnešní ministerský předseda Nakasone pochopil, že J aponsko nevyhnutelně bude muset hrát svou úlohu v mezinárodni politice a v otázkách světové bezpečnosti.
- Bezpečnost Japonska bude jistě i v budoucnosti zajišťována a financována ze Spojených států, a tak mají Japonci v oblasti konkurence ne zcela oprávněnou výhodu.
- I když Japonci své antihrdiny nenávidí s velkým zalíbením, sestupují tyto postavy z plátna na ulici jen zřídka a japonská městajsou proslulá svou „bezpečnosti“.
- Použití pracovních sil je podřízeno poměrně přísným kritériím ekonomické rentability a řízeni a ještě přísnějším kritériím národní bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:745b52cb9c4268a04571a57172fc483bc6303f02c77b7650b20f6b0cad77688f
+size 3762

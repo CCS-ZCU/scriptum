@@ -1,2 +1,3 @@
-bezpečnost svoboda
-nej lepší způsob bojovat komunistický nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a3583b75a6c0ce249a94f11f2799a67d8e0847766d006263bab409a3909c15
+size 70

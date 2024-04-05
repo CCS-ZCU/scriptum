@@ -1,1 +1,3 @@
- ‘‘Bili Rhodésa- né, kteří si myslí, že vpád do Mozambiku jim zajistí větší bezpečí, uvažují stejně nerealisticky jako Jihoafri- čané, kteří svalují vinu za vlnu násilí v černošských městech na mezinárodní komunismus a domnívají se, že proto mají reagovat ještě tvrdším útlakem” — píší například New York Times.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9effdc6563d18840e324e47087787b7ad71d273f2fa07fa26beed98c0cabbffa
+size 359

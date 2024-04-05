@@ -1,1 +1,3 @@
-život nožička poběžit Ježíš pan přímluvný moc Marie matka Josef statečný ochránce prosit život narozený dítě nebezpečí zabití lůno matka přijímza dítě duchovní adopt Ace
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de848033562847f9a9108c7bbb20ff423d4a11853c23c94a45d8dea8dbca1c7
+size 197

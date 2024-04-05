@@ -1,2 +1,3 @@
- Jan Papánek, jak došlo k podání první noty, dožadující se, aby "znásilnění Československa komunistickou menšinou za pomoci Sovětského svazu, jakož i ohrožení míru a bezpečnosti světa,bylo předloženo Bezpečnostní radě k projednání".
- Keď k tomu dôjde, nebude to už problém nový, ako sa to stalo v maďarskom pripade, iba konečné riešenie nedokončenej záležitosti Bezpečnost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f524b9c28d7dbf431b6e5e5b6e35d6fa6cb0d48030c13c025b564d737d24028
+size 415

@@ -1,1 +1,3 @@
-nebezpečí vznikat néuvědomění slo bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e6edb6e720de88a7520f9defa05c7576fbcd716ea039d720de08c9cba76810
+size 50

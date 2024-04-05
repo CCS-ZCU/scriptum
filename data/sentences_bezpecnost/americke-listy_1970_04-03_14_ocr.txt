@@ -1,1 +1,3 @@
-armáda Evropa rozhodnutí anglický vláda bezpečný politika sovět Evropa vrátit zaručený bezpečnost Záp
+version https://git-lfs.github.com/spec/v1
+oid sha256:57b1df8dcd0cf9a3ef18b205df710e37189f485af245bb41f238c058b866187a
+size 114

@@ -1,1 +1,3 @@
-moci vážný nebezpečí lidský společnost smířit fakt právo četný stát zraňovaný slavnostní prohlášení
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f22fffd5937264c2382336b789083fe2bfb4a2bcb36d166080aac55da763fb9
+size 119

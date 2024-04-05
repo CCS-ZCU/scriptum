@@ -1,1 +1,3 @@
- kde se člověk cítí v bezpečí a může svobodně dejchat a pracovat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a96841e49517fadf658fb6d792b22b8fc8e01b84718d99f7354888262af2054
+size 75

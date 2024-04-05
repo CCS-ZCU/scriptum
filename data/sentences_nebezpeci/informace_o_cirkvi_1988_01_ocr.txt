@@ -1,2 +1,3 @@
-platit osobní životěe duch člověk usnít láka dobr®t štědrost očekávat církev šlechetný matařBkost docházet skleslost vydávat nebezpečí nuzaolechno evangelijní volání katolicita svět moci uvěřit srva
-nebezpečí upozorňovat Jan Patočka polopravda moci stát celý lež
+version https://git-lfs.github.com/spec/v1
+oid sha256:9996db3cb575eabc2d55f2743749473a6768c6538a14ace9c63f44f909deb92b
+size 299

@@ -1,2 +1,3 @@
-jiný pravit základní právo občan velký Británie právo bezpečí zatčení věznění rozsudek soud svoboda přesvědčení náboženství svoboda projev spolčování tisk svrchovanost lid platnost zákon
-trvat demokracie Československo bezpečí kontrolovaný ovládaný smysl Rusko
+version https://git-lfs.github.com/spec/v1
+oid sha256:83169dc40982ab9574c55cdea42f3029aae32f1282ef8cbefbb956c52616e240
+size 293

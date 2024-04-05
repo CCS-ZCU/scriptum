@@ -1,1 +1,3 @@
-tuzex zasielat bezpečí rydlo odkladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:694a3d67cad5297aac9ae677de7f7fcc1bb28d22922b922d1e4b3953822212d0
+size 40

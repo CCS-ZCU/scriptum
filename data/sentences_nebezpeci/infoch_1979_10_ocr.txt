@@ -1,2 +1,3 @@
-uštědřit políček přísluš ník bezdůvodný zadržení napadnout snažit upozornit orgán stát vážný nebezpečí občan demokratický právo ústavní instituce plynout fakt soud instance řídit pravidlo uniforma právo
-zatčení \ena výbor obrana stíhaný nebezpečí zvýšit
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fba1630ed9c8ac79f075a741021642d2d95bf19dbe150033c5a1b57a9e94920
+size 291

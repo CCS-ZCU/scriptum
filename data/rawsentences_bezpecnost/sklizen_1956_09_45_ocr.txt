@@ -1,1 +1,3 @@
- Shromáždili zde, velmi piotně a názor- né, ve více než 100 sálech, s velikým vkusem a bezpečnosti úsudku, bohatou doku - mentaci a vzpomínky na vývoj české literatury od IX.
+version https://git-lfs.github.com/spec/v1
+oid sha256:281f7ff90629bf1e8201cb24a1b29de9fcb2afbd21ce04599af59c44819c4d27
+size 190

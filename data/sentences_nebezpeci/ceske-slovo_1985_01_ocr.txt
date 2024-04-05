@@ -1,2 +1,3 @@
-počínání státní moc potvrdit pravdivost úvodní prohlášený charta konstatující jiný země občan nucený žít trvalý nebezpečí projet názor ztratit pracovní jiný možnost
-charta dialog opakovaný zdůrazňovat dělitelný míra přímý závislost míra vnější míra vnitřní respekt lidský právo nutnost čelit nebezpečí válka hluboký proměna
+version https://git-lfs.github.com/spec/v1
+oid sha256:de72dec5b223a31e1cb19250b265891220cfebb4457a9165a423031b46cec26c
+size 375

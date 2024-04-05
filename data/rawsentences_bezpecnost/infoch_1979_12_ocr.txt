@@ -1,5 +1,3 @@
-00 byli na nádraží na pokraji Varšavy pol- skou bezpečností zadrženi čs.
- Když jsme ř e k l i , že jsme se rozhodli pro autobus, v e l i t e l h l í d - ky VB prohlásil, že autobusy jezdí každou hodinu a že naá s půl jede- nácté nechce vidět v Příbrami« Těšíme se 5 že za rok půjdeme v hojnějším počtu« í?«9ol979 provedla Státní bezpečnost rozsáhlou akci s cílem znemožnit f i l o s o f i c k ý seminář d r .
- Bydliště Ivana itejmala obklíčila -eiieíe Státní bezpečnost.
- Thorolfu Rafto, JoTominovi a jeho synovi Lukášovi znemožnila přístup do bytu« xodařilo se jim o d e j í t do blízké kavárny; když z této kavárny po půl- hodině odcházeli, napadli norskéno hosta t ř i p ř í s l u š n í c i bezpečnosti, surovým způsobem ho odvlekli do připraveného vuzu a odvezli« Při této akci b;yly ngi dvě hodiny zadrženy Jana a Petra Hejdánkovi.
- Punkcionáři olavie takto rozhodli na základě nátlaku s t á t n í bezpečnosti« oakub Ruml působil ve Slavii Praha dva roky a žáci pod jeho vedením dosahováL i vynikajících výsledků.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36714108fb251c2e6e7bdff5c0c99646f0e2a674098efd9600c9d0cebb1aea60
+size 1125

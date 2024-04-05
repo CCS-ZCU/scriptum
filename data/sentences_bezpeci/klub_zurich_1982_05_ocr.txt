@@ -1,1 +1,3 @@
-vyslovit obtížný umění hovor přítomnost dovést cítit jistota bezpečí štěstí
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa7820346c9cff0f6d034c41b56193629d0ffdab148d8c4b5339b26f6351c252
+size 90

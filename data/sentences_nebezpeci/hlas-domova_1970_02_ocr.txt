@@ -1,2 +1,3 @@
-mírový řešení spojený patřičný diplomatický nátlak znamenat zažehnání válečný nebezpečí naděje zničující konflikt dojít
-Fidel Castro utralizovaný nebezpečí sovětský infiltrace jižní Amerika valný část odvrácený dálený
+version https://git-lfs.github.com/spec/v1
+oid sha256:95f8887a7cf2227e155c474bbd522648329bb01139666952ead7fa9f6281d609
+size 144

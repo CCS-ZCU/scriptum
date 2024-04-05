@@ -1,1 +1,3 @@
-prohlubovat prodlužovat permanentní revoluční situace demokracie velký nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d2aebd9a4a390f0e9141b639186523c702312288d0a5c3af839ba6400da22b1
+size 88

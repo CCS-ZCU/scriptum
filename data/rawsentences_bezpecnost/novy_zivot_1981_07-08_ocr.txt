@@ -1,5 +1,3 @@
- Proto tě prosím, máš vlivné známosti, jistě i mezi pracovníky bezpečnosti a u soudu.
- Prý to je sprosté vydírání, to bych měl oznámit bezpečnosti.
- Nenapadlo mne ani Irenu, že by hoši od státní bezpečnosti dokázali jít tak daleko.
- Stejně tak státy od velmocí až po nejmenší se stále více vyzbrojují nejnovějšími zbraněmi, ale nikdo z nich nezískává pocit bezpečnosti.
- Není divu, neboť bezpečnost nezávisí na střelné zbrani nebo atomové bombě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4b585b87c0f84ac9afeda05c0a24c4559a4ff228dc472fca09cc48891c2267a
+size 496

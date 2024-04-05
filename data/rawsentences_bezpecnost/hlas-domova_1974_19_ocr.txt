@@ -1,2 +1,3 @@
- září zahájena výuka na nové Vysoké škole Svazu národní bezpečnosti.
- Stalo se již, že policie vytýkala veřejně, že ve výzkumných ústavech a v některých továrnách i institucích se nedbá dostatečně na bezpečnost a ochranu rozhlasového vybavení.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c94c98ae683faedb373fda2411350e168a5528b32e541c101019dc4847b4f9ab
+size 275

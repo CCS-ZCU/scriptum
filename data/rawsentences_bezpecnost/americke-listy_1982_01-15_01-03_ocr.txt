@@ -1,2 +1,3 @@
- I v jiných zemích už žádají o asyl polští turisté, kteří se nechtějí vrátit do Polska buď z obav o vlastní bezpečnost, nebo na protest DR.
- Leč tam byly záchody, na základě jeho zvláštního záchodového rozkazu, uzamčeny a opatřeny pečetí, svědčící o tom, že bezpečnost záchodů nebyla narušena.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a34420a71d43d4682d956add6b8ebf9ce294de204d0bd0274521bab9ebb359
+size 333

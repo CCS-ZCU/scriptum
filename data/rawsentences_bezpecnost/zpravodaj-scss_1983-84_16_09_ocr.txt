@@ -1,12 +1,3 @@
-" O funkcionáře nekomunistických stran, nejen o bývalé, ale i o nové, se stále zajímala bezpečnost.
- Nosek ani velitel Státní bezpečnosti a jeho podřízený vůbec nevěděli, kdo Krajinu zatkl a kde je.
- Ve vedoucích kruzích Státní bezpečnosti převládala představa o rozsáhlé protistátní aktivitě bývalých i nových funkcionářů nekomunistických stran.
- Podobné názory měl i velitel Státní bezpečnosti Veselý a ministr Nosek požadoval zvýšení stavu bezpečnosti o pět tisíc příslušníků.
- Ale i členové komunistického vedeni z vlastní iniciativy doporučovali rozšířit Státní bezpečnost o nové útvary, nebot vznikají nové oblasti její činnosti.
- Šlo o skupinu zkonstruovanou bezpečností, která do ní zahrnula dvacetosm bývalých funkcionářů národněsocialistické strany, v čele s generálním tajemníkem Krajinou a několika poslanci.
- Vojenský prokurátor současně žaloval dalších třicet členů domnělé Krajinový špionážní skupiny, kterou bezpečnost složila z příslušníků národní bezpečnosti a armády.
- V druhé polovině května zatkla slovenská bezpečnost osmnáct osob, bývalých funkcionářů demokratické strany, které prezentovala jako členy rozsáhlé špionážní skupiny na Slovensku, pracující pro funkcionáře v exilu.
- Dozvěděl jsem se, že si je zajistila bezpečnost pro důkladné sledování cizinců a odposlouchávání jejich rozhovorů u stolu.
- 1981 visely v pracovně bezpečnosti v Klimentské ulici obrazy Stalina a Dzeržinského, Husák tam nevisel.
- Mluvčí Charty 77 Anna Marvanová odvolání vzala na vědomí a zároveň upozornila, že "Bezpečnost dala neúplnou adresu.
- Vše, co se může označit za ohrožení státní bezpečnosti, spadá pod nově upravenou cenzuru, a to i cizojazyčná literatura, posílaná do Polska.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c1f74fb099ce07a29949477e2b91e3d8858e72a18fb80c59e030f02e96f295
+size 1880

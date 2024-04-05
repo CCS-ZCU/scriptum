@@ -1,1 +1,3 @@
- bezpečí nukleární války, třeba válku za válkou, až s níž si Rusko obratně dostanou co chtějí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1da73a2b6bcf8c23bc12c8f6907376f92aa444d2abe7c0dd542c396938fe7b12
+size 109

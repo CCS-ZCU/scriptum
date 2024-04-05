@@ -1,3 +1,3 @@
- Smetana — toto drahé české jméno — je nejen v dnešní době hlubinou bezpečnosti pro náš národ, ale jedním z největších tvůrčích duchů, z něhož může český člověk čerpat sílu a vědomí velikosti a heroismu národní tvůrčí myšlenky.
- Vojenská moc vždy bude základně důležitá jako faktor, který rozhoduje o bezpečnosti státu.
- J-estliže naše diplomacie, máli být aktivní a účinná, musí mít základ v silném vo- jensko-mocenském postoji, a jestliže stát, má-li zůstat bezpečný, musí mít prestiž, založený na vojenské síle, proč připouštíme, aby naše vojenské loďstvo klesalo na podřadné místo ve srovnání se sovětskou flotilou? Proč naše armáda rezaví ve falešném domnění, že naši bezpečnost zaručí celodobrovolnická armáda ? Zjistí Spojené státy, že se duly vlákat do nepřipraveno- stí jako Britové a Francouzi, když konečně přišli na to, že to Hitler myslí vážné? Thomas Arthur Mesercau.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d96644027c515d7be17b94b02693578effab5d3377bf060cb4bc14af0d5e553
+size 1005

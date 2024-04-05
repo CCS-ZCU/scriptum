@@ -1,15 +1,3 @@
- Ale na rozdíl od padesátých let, kdy se doma na pokyn Kremlu strašilo možností třetí světové války, má Husákovo vedení v ruce jen text závěrečného dokumentu Helsinské konference o bezpečnosti a spolupráci v Evropě.
- článku 12 prvního paktu, zaručující občanu právo svobodně opustit svou zem; pod záminkou «ochrany národní bezpečnosti» (bod 3.
- ledna 1977 dopoledne obklíčily uprostřed normálního provozu vozy Statní bezpečnosti osobní auto, v němž jeli spisovatelé Ludvík Vaculík a Václav Havel a herec Pavel Landovský, aby odevzdali čs.
- Jmenovaní — a s nimi spisovatel Zdeněk Urbánek — byli potom po několik hodin vyslýcháni, ačkoli z obsahu obálek bylo zřejmé, že akce Státní bezpečnosti je nepřiměřená a neoprávněná, protože Charta 77, jak dokazují i právní posudky, neporušuje nikterak čs.
- Státní bezpečnost filmovala také v bytě a v chatě Václava Havla — přesto, že vlastník důrazně protestoval — a v bytě Zdenka Urbánka.
- O tříkrálové noci a den poté se konaly u jmenovaných domovní prohlídky, při nichž bylo zabaveno mnoho věcí, především knihy, korespondence, fotografie a ryze osobní předměty, jak je Státní bezpečnost zabavila už v dubnu 1945, aby s nimi vydírala několik občanů.
- Později se státní bezpečnost už s detaily nezdržovala.
- Tak před několika dny proběhla západním tiskem zpráva o tom, jak spisovatel Pavel Kohout popisoval do Londýna telefonicky zatýkání manželky, k němuž právě docházelo na ulici před jeho domem, a jak mohl ještě hlásit o bouchání na dveře příslušníky Státní bezpečnosti, kteří přišli pro něho.
- Těmito opatřeními dokázala Státní bezpečnost jasně oprávněnost Charty 77, protože jsou v Československu porušována občanská práva.
- Cestou do nemocnice byli zastaveni dvěma policejními automobily, z nichž vystoupili uniformovaní a civilní zaměstnanci Bezpečnosti.
- Když to úředníci Bezpečnosti odmítli, zamkl se Kohout ve svém autě.
- 15  TRAGÉDIE DRUHÍ DIL Hans Weigel V predbežné konferenci o príprave predbežné konference o príprave předběžné konference o přípravě druhé konference o bezpečnosti a spolupráci v Evropě, byl vypracován návrh na rezoluci pléna o uvolnění styků mezi Západem a Východem: Všechny státy, zúčastněné na konferenci, se zavazují k svobodné, neomezené výměně informací o státech Severoatlantického obranného paktu.
- Svobodu a demokracii v Československu považujeme za nezbytný předpoklad trvalého míru a bezpečnosti ve střední Evropě.
- Skupina "odborníků" - mezi nimiž ovšem nejsou zastoupeni uprchlíci - formulovala tuto zásadu tak, že se "stát má podle svých nejlepších sil vynasnažit o záruku", že uprchlík vrácen nebude, a toto znění se skoro na vlas podobá konvenci z roku 1951, v níž byly jako důvody k odmítnutí jmenovány "národní bezpečnost" a "ochrana obyvatelstva".
- SPORT - Pravidla bezpečnosti na sjezdových tratich, která vydala Mezinárodní lyžařská federace/FIS/ roku 1976, platí ve všech zemích, které jsou členy federace, tedy i v Československu, a jsou též podkladem pro stanovení právní odpovědnosti za nehodu: 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b25b2e361e41b2d65751ad23bf3dadcd0d44b565547e41e75ad965ee1638c46e
+size 3301

@@ -1,1 +1,3 @@
- Dalších 57 osob, bydlících v domě, bylo včas vyvedeno do' bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a66a81ceb5759236bc59c4a0f60ecebf3bee327b8e2f199a80d4ee8ed29a8d4d
+size 76

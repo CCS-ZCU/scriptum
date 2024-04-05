@@ -1,1 +1,3 @@
-Urbankův velký nebezpečí silnice Slovinsko Itálie
+version https://git-lfs.github.com/spec/v1
+oid sha256:411f2484b539da436ecda70430ae0db929118eb5f467ee4fd944a7e69e051efa
+size 55

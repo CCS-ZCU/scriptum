@@ -1,5 +1,3 @@
-zrada mít chamberlain podceňovat muslimský nebezpečí vyučovat americký škola pokřivený svět učit komunismus
-sužovat vytrvalý déšť místo probíhat evakuace liberecký hejtman vyhlásit stav nebezpečí lidé mrtvý pohřešovat pomáhat armáda
-život projít desítka léta nebezpečí národní zánik minulý den pobouřený výrok předseda lékařský odborový klub Martina Engela kolega smysl český lékař skládat slib léčit český pacient
-kritizovat feminismus rozklad rodina zaujmout jednoznačný systémový postoj vymírání evropský etnikum islámský nebezpečí
-zveřejnit kniha celý drtivý břemeno paměť najít smysl vydaný nebezpečí padnout zapomenutí
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eb51ad4342a7a0fbf94f4a6f3b9eca5f42128c5e4809119ded4f276a43980bb
+size 704

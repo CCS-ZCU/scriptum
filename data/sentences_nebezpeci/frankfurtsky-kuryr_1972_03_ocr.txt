@@ -1,1 +1,3 @@
-mít cena jezdit Praha vystavit smrtelný nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cbedc15ba1ab46acb06e8a4b25acee48e2fc852bf63354d2a7516e4e030a36c
+size 54

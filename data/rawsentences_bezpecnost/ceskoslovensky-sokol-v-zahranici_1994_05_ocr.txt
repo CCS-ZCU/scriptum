@@ -1,1 +1,3 @@
- bezpečnosti - tedy STB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccbc0a671ad452c0e66c3ef8c3929793d9e0734f480e0d2eb937f7eb70066897
+size 26

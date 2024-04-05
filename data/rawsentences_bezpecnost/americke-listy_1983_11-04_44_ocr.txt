@@ -1,2 +1,3 @@
- V HELSINKÁCH SE OPĚT POKRAČUJE V minulých dnech byla v Helsinkách zahájena přípravná schůze stockholmské konference o budování vzájemné důvěiy a bezpečnosti v Evropě.
- Tento stav věcí znepokojoval pochopitelně hlavně Evropany, o jejichž bezpečnost tu především jde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1eb76804d25930fa1cb38e8ae5131b7760cbbe00e77e01f4b6bebe5de8b9f95
+size 295

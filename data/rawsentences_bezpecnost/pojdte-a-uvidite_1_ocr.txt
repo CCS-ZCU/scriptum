@@ -1,2 +1,3 @@
- Z toho důvodu i když křesťan zakládá svou bezpečnost jedině na Bohu, je ve své svobodě současně velmi křehký, protože ji ztrácí, jakmile se pokusí Ji pre sebe získat, Jakmile se sám považuje za zt zdroj.
-  Pro své povolání je církev lidem poutníků, který nehledá svou bezpečnost ve zjevné snadnosti, kterou nabízejí materiální zdroje, který zůstává svobodný edem ke všem mocím tohoto světa /ačkoli tato svoboda v žádném případě neznamená nedostatek solidarity s hledáním a zranitelností každé lidské bytosti/.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aecbd0e415b92756799144286bacd5eb1f70c34b70cc7a8e339fa9ce9d21cb0
+size 568

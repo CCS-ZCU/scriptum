@@ -1,3 +1,3 @@
- O šikanovaní orgánmi bezpečnosti profesor Skilling v torontskom Sunday Star, napísal, ako ho na rakúskej hranici cestou do Viedne vytiahli z autobusu a eskortovali na výsluch do Bratislavy.
- — Podľa správ z domu mal sa viezť v aute ťažko alkobolizovaný, nielen sám, ale aj s niekoľkými členmi štátnej bezpečnosti.
- V Římě máte papeže, ve Washingtonu presidentova poradce pro bezpečnost Brzgzinskiho, ve Francii pravou ruku presidenta knížete Poniatowskiho a v Izraeli ministerská» předsedu Begina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf2ad397d8e31f6d87e2362971ca865384cd147d11a2bc713e4053cbdf4cd8d1
+size 532

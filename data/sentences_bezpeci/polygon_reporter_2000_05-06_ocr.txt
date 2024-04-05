@@ -1,2 +1,3 @@
-Husův pře stupňovaný zahraničí Čechy Hus bezpečí
-platit vysoký daň
+version https://git-lfs.github.com/spec/v1
+oid sha256:e66430dff8c156636a279c865263d1c4e933467674110755c78b522dda95fd1e
+size 78

@@ -1,1 +1,3 @@
-leden dvanáctý hodina přerušit státní bezpečnost prednáška Ladislav Hej daný
+version https://git-lfs.github.com/spec/v1
+oid sha256:222f432e5081e465c5629b5678f7c13abbdd0b7bec10b81e59bd2f6423f1f584
+size 85

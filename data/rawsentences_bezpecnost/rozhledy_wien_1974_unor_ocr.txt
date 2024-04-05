@@ -1,1 +1,3 @@
- Stát se tedy stará: O naši práci, o jídlo, o obranu a bezpečnost, o krásné silnice pro naše auta.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f30feb2b10386e49efbb271aefa560d3c42e38f8c552808717dd15cc05512bb
+size 108

@@ -1,2 +1,3 @@
- Pokusem o nový podobný atentát, ať již to bude československý prorežimní tisk svalovat na italské neonacisty či na jiné exilové skupiny (k tomu viz citát z výše uvedeného Matoušova článku z ledna: “Pelikán a jeho skupina jsou za zvláštní podporu a přízeň, které se jim na Západě dostává, předmětem závistí a řevnivosti jiných emigrantů") se pražská Bezpečnost opět ukázala hodným žákem sovětské KGB a nacistického Gestapa.
- výročí státní bezpečnosti NDR vyslovil díky “bojovníkům na neviditelné frontě, kteří jsou tak často vzdáleni od své socialistické vlasti a odkázáni jen sami na sebe k prokázání vynikajících hrdinských výkonů”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e7447154c43e371d0a24eb6d105d7c5088f9f5f7944a2f0d3fa62481fe720d9
+size 718

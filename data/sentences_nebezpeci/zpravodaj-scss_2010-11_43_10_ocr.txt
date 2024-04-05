@@ -1,1 +1,3 @@
-odstup případ nebezpečí možnost vymanévrovat vyrazit červený červený
+version https://git-lfs.github.com/spec/v1
+oid sha256:e44f9f083f74c048f653b2d1a5df314052aa957ec3bb40ff25e3dd3a7f225186
+size 79

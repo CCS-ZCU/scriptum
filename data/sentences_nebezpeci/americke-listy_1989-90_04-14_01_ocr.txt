@@ -1,2 +1,3 @@
-hlavní problém muset sovětský společnost čelit spočívat maximálne muset integrovat propuštěný voják civilní sektor soba moci skrývat jistý nebezpečí růst spokojenost lidé
-sjet potvrdit zásadní reformní opatření mechanizmus RVHP
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ee6ca5bb04c5e5b77c2084c30fb052edd644737f50333e6afd696a72d18bf32
+size 253

@@ -1,1 +1,3 @@
-zajištěný pořádek stát bezpečí občan donucovací moc policie soud mezinárodní klid mír moci zajistit mezinárodní donucovací moc
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d4124891f37af273edb85e3aa15afcc9aebad997cc1b43601d8735bddb5076b
+size 143

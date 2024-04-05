@@ -1,4 +1,3 @@
- Očekávat dosažení blah a a bezpečnosti v to m to světě cestou rozvětvené byro kracie, ukládající všem uniform ní systém není nic jiného než pověra.
- M inisterstvo státní bezpečnosti zavedlo s okam žitou platností zřízení t.
- Sbor národní bezpečnosti se snaží pod pláštíkem noví akce „D ružím mládeži* a S N B ” získat i školní mládež do 14 let pro udavačské služby.
- President prohlásil, že „se nebude nikdy poko u šet usm ířit p rotivníka falešným a hříšným vyjednáváním, kdyby tím měla bezpečnost býti vykoupena ctí".
+version https://git-lfs.github.com/spec/v1
+oid sha256:154e7e46b2adb9f48e35417e3888ac989d21cbcbcd18f69948e6d28474ff0424
+size 595

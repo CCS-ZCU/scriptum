@@ -1,3 +1,3 @@
-stát požitník výhoda muset prohlásit opustit vlast politický důvod morální přesvědčení nebezpečí pronásledování trestní postih
-prohlásit sovětský budování raketa způsobovat vojenský masivní nerovnováha vyvolávat značný politický nebezpečí
-zdát Evropa začínat uvědomovat nebezpečí vyplývající Evropa horečný zbrojení sovětský svaz chtít ztratit příležitost další jednání moci přinést závěr určitý úspěch
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab0be0f6bda11ad1143588f11095a214d38bf7044b3771f3890338f26effa6ba
+size 467

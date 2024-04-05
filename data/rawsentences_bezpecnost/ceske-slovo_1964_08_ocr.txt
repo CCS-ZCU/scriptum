@@ -1,8 +1,3 @@
- delegáta v Radě bezpečností.
- Na zasedání Rady bezpečnosti v New Yorku dne 7.
- Vcelku to byl nejtrapnější případ vystoupení československého delegáta na významném mezinárodním fóru, kterým Rada bezpečnosti jisté je.
- (K žádostem o rozšíření sportu sděluji úředně: Moc rádi bychom ,ale on by se nám KDM upsal, což řeči na nesprávnosti v projevu, ba dokonce i sovětský delegát Morozov se nečekaně přihlásil o slovo a snažil se zahladit velmi nepříjemný dojem, který vyvolal v Radě bezpečností zástupce Československa Jiří Hájek.
- Jiřího Hájka, nebyli jeho vystoupením v Radě bezpečnosti příliš překvapeni.
- delegáta v Radě bezpečnosti Zaznamenala DANA POSEKANÁ VYSLANEC VLADIMÍR NOSEK ZEMŘEL V Rio de Janeiro zemřel ve věku 69 let vyslanec Vladimír Nosek, jeden z prvních čs.
- Takový zdravý poměr by přispěl k míru a bezpečnosti Evropy a celého světa.
- Musela zasáhnout hlídka Veřejné bezpečnosti, již se podařilo rozvášněné hlavy trochu zchladit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc2773890cd69a0f50e4551eac6ff537e49471793132ed8b52ea40abbe3f382a
+size 1048

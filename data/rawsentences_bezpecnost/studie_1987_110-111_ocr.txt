@@ -1,26 +1,3 @@
- záři orgány bezpečností odesilatelce, navzdory jejím protestům a pou- kazu, že nejde o nic ilegálního a Lajného, neboť za pár dní budou i tyto podpisy u České národní rady.
- Se záměry této občanské iniciativy můžeme souhlasit, nesouhlasit či k nim zaujmout zdrženlivý postoj- ZceJa nepochybnou však zůstává skutečnost, že jde o naprosto regulérní využiti petičního práva, zaručeného Ústavou ČSSR, a že jediným nezákonným prvkem v celé záležitostí jsou intervence a represe Státní bezpečnosti.
- Nehledě především na z4jmy svého státu, na z^jmy své církve, na zájmy své rodiny, na svou bezpečnost, vrhá se za tím hlasem - jak řfkíyf mnozí opatr- nější - i hlavou proti zdi.
- Potíž současného popírání lidských práv v Československu není v první řadě v ústavě a zákonech, ale v zneužívání těchto zákonů a hlavně v přímém porušo- vání zákonů pracovníky státní bezpečnosti a justice.
- Proti terorismu Státní bezpečnosti.
- Nelidské, hrůzné metody byly běžnou praxí Státní bezpečnosti hlavně v 50.
- Po novém upevnění moci v roce 1969 neklesly vyšetřující orgány Státní bezpečnosti zpět k hrozným praktikám dřívějších let.
- Tento teror státní bezpečnosti líčí Jan Dus v mnoha dalších případech a žádá nápravu.
- Podává žalobu na neznámé pachatele z řad Státní bezpečnosti.
-« Od- pověď: »Na tuto otázku odpovím plně a otevřeně vyšetřovateli Státní bezpečnosti, o kte- rém budu mít jistotu, že byl odpovědnými pracovníky kanceláře pana presidenta ČSSR pověřen vyšetřováním trestního stíhání pana Heřmana Chromého.
- Jste nadřízeným těch, kteří rozhodují o osudu Heřmana Chromého i o osudu Juna Duse, jehož následné zatčení nás jen utvrdilo o možnosti intrik Státní bezpečnosti proti oběma signatářům Charty 77.
- Jeho nepřátelé v Státní bezpečnosti pochopili obojí jako příležitost k nestoudnému podvodu a zločinu.
- Další obětí zločinu jsem se stal já, a sice tím, že dva listy strojopisu s pobuřujícím podvrhem byly tajně vneseny do mého bytu jedním ze tří pracovníků Státní bezpečnosti, kteří u mne provedli dne 9, t.
- Šlo přitom o ojedinělé výpůjčky, mnozí svědci vypovídali odlišně než v přípravném řízení před vyšetřovateli Státní bezpečnosti.
- 2 2 3  vyplynulo, ze vyšetřovatelé Státní bezpečnosti kpt.
- Během hlavního Učení se mnohokrát ukázalo, že zaujatá a neoprávněná svědectví byla výsledkem mnohahodinových výslechů Státní bezpečnosti v přípravném řízení.
- Dus se ho měl dopustit tím, že ve svém otevřeném dopise prezidentu republiky měl křivě obvinit pracovníky Státní bezpečnosti, že vyrobili falešný důkaz - vulgární dopis G.
- Každého pracovníka Státní bezpečnosti, s kterým jsem se setkal, jsem se zachováním nezbytně nut- né opatrnosti vždy také dlouho pokládal za poctivého policistu, dokud mě on sám nepře- svčdčil o opaku.
- Nepochybuji o tom, že někteří pracovníci Státní bezpečnosti, s kterými jsem dosud jednal, si zaslouží tento můj vztah zásadní důvěry k pracovníkům tajné policie (10) Vychází bez vědomí autora.
- I nejtvrdší kritika pracovníků Státní bezpečnosti, obsažená v tomto dopise, má přispět k zlepšení práce této instituce (Jan Dus: Dopis prezidentu republiky z 22.
- Daniela Bežucha a jeho společníků ze Státní bezpečnosti, takže mi 9.
- Tím se moji pronásledovatelé ze Státní bezpečnosti a z krajské prokuratu ry v Praze jasně usvědčili jako přívrženci sektářsky násíl- nlekóho pojetí socialismu.
- Všech pěti uvedených trestných činů se však měl Jan Dus dopustit a pomstu příslušných orgánů na sebe přivolat tím, že na jaře roku 1986 se zastal svého uvězněného přítele Heřmana Chromého; v otevřeném dopise prezidentu republiky Dus prohlásil, že hanopis, který byl u něj nalezen při domovní prohlídce a jehož autorství bylo přičítáno Heřmanu Chromému, musel být do jeho bytu vnesen příslušníky Bezpečnosti.
- Do domu Jana Patoč- ky se ještě téže noci dostavili dva důstojníci Státní bezpečnosti.
- Navázal jimi na iniciativu Julia Tomina, jehož semináře Státní bezpečnost soustavně rušila zásahy, perlustracemi a šikanami.
- Po období zásahů a šikan ze strany Bezpečnosti následovalo období zklidnění, kdy se zdálo, že převahu získává rozum; to však netrvalo dlouho a následovala další vlna zásahů, z nichž nejtrapnější mezinárodní ohlas mělo zatčení předního francouzského filosofa Jacquesa Derridy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f96932a5d68eb8c663fbaa8aa3fcabac6853159b523f88da9d27e5811937720
+size 4743

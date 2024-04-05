@@ -1,2 +1,3 @@
-autorka kniha dělník atomový průmysl článek nebezpečí atomový válka uznávaný autorita odborný politický kruh
-nebezpečí požár ještý dřevený loď kalkulovaný jistota scházet lodní případ potřeba vypomoci plachta
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1843fbb699e4188d2cdf14c7012566ccdf65a5548a100c7fe512cd618d39bd4
+size 238

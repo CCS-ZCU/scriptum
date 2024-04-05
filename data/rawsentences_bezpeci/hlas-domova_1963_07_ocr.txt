@@ -1,1 +1,3 @@
- Byly pronášeny tak ohnivé řeči, že dědečkové z vedlejších pokojíků rychle opouštěli své stolky, aby se uklidili do bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0a7501b9b0fa674c6453ef587e3615a4ec5317ab7db2f6031a310e6ca24803
+size 143

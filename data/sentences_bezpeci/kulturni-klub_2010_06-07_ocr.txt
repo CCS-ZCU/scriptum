@@ -1,1 +1,3 @@
-považovat důležitý členský stát mít pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:36ecccda2ec89b3db997f0fb28395d70361a5fd4223940aee72b2f9843e18b1f
+size 60

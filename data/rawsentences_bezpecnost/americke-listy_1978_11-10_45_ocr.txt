@@ -1,2 +1,3 @@
- Přes lékařský zákaz se dva příslušníci bezpečnosti pokusili zraněného Kasala vyslýchat v nemocnici.
- Když odmítl vypovídat — bezpečnost ho odvedla k výslechu do své úřadovny a do nemocnice se mohl vrátit k dalšímu ošetření až příští den.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b1b7995dfe250704d95f8f31ebe20a58e5ee417d242a71bed540124ec0c0b6
+size 273

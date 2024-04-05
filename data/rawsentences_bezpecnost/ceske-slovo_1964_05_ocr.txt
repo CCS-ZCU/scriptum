@@ -1,2 +1,3 @@
- Pocit roztoucí bezpečnosti vedl k uvolnění spojeneckých svazků a prosazování národních, nad kolektivních zájmů.
- Západ si upřímně přeje vyjít vstříc všem legitimním sovětským požadavkům pokud jde o bezpečnost Ruska, ale právě v Evropě musí mít záruky, že nebude zatažen do ještě subtilnější a proto nebezpečnější fáze konfliktu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee3e59d893fcbabf4e5d743c57aae84a8bfbf951c7e753f79457921e92c0fb64
+size 376

@@ -1,6 +1,3 @@
- Nezaměstnanost, bída, bankroty, jsou pokuty, jež moderní lidstvo platí za porušení této hlubší právní jistoty, jež znamená nejen řádné soudnictví, ale hlavně bezpečnost před politickou demagogií, konfiskacemi, sabotáží a podobně.
- Manželé Holubovi byli totiž nastrčenými agenty československé Státní bezpečnosti a pomáhali tak KGB kontrolovat a také usměrňovat Solženicynovu činnost v zahraničí.
- V roce 1975 bylo švýcarským úřadům jednou Češkou důvěrně sděleno, že má k disposici dokumenty o sledováni Solženicyna českou státní bezpečností a také o činnosti manželů Holubových.
- agentů státní bezpečnosti.
- Od svojich novinárskych začiatkov v NZZ v búrlivom šedesiatom osmom roku zaznamenával pre tento denník situáciu v škandinávskych krajinách v rokoch vedúcich k helsinskej konferencii o bezpečnosti a spolupráci v Európe, potom vo Francúzku, v čase nástupu prezidenta Mitterranda.
- Otevřené však zůstávají tamější banky, nikoliv však s dřív totální jistotou bezpečnosti a anonymity vkladů.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a2dfc60a4dbb460efd317612af656a06ea7434f75bed6b4a631e5abbc5e1ead
+size 1103

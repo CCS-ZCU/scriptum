@@ -1,1 +1,3 @@
-ZE Z Á S U V K Y I Z BLOKU /I/ Jak odchází český básník /Věnováno památce básníka Michala Sedloně/ Travička zelená Kde jsme a kam to vlastně spějeme? Expresivní mluva stavebních dělníků Doplňující návrh k reformě psané češtiny Stopa mizí na Pankráci? Zádušní mše O. Šulcová L. Kohout I. Kubíček —ul— K.K.Kulich O. Šulcová [pageend1]
+version https://git-lfs.github.com/spec/v1
+oid sha256:819ae2c25942863ac3ad19b1c15a823d9654097a3b30ebcca05ff65dcff2f89e
+size 378

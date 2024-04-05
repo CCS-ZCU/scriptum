@@ -1,2 +1,3 @@
-pohovět odsouzený neklid nejistota ostražitost nebezpečí nový světový konflikt
-rok ptát Němec zločin vláda vědět moci západní část země přesvědčit nebezpečí znovuzakládání koncentrák nchrozit
+version https://git-lfs.github.com/spec/v1
+oid sha256:a95658acc56043f1bc6e1041f5127f178b2d1667c6510a6b8567e6ab0f712225
+size 220

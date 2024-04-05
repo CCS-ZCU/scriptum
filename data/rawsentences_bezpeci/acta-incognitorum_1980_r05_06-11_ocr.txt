@@ -1,2 +1,3 @@
- To strach rozechvívá svět a mate obrazy* Už nác tady není v bezpečí.
- Nikdy nenajdeme něžnost ani bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83287127a12a7e50443708c50d22f4aab2e289fb344891200fcb2bfb0944ea6
+size 120

@@ -1,2 +1,3 @@
- Ohlášené změny v m in isterstvech :vn itro a bezpečnost Barák,spravedlnost d r .
- Národní výbory byly vy ňaty z pravomoci m inister štva vn itra a bezpečnosti a podřízeny jako stá tn í úřad přímo předsednictvu vlády.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30f8190540713e6d8c9800a4ff9954a09b45e8df5782029d9a8028631469e87
+size 240

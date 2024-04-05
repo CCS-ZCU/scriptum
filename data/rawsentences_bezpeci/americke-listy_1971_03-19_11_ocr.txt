@@ -1,1 +1,3 @@
- Co si myslí jiní Times (Londýn) Tages-Anzeiger ( Сиrych ) Po dostatečné špatných zkušenostech trvá Izrael na bezpečí.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d09dd2d61c07c89fa457982ec168e13594abeb967a7f4dbc2ab372a38f13ca64
+size 132

@@ -1,4 +1,3 @@
- V diplomatických kruzích společenství se nevylučuje, že se Moskva obává omezeni pravomoci Rady bezpečnosti, v níž má pět stálých členů právo veta.
- Bruselské kruhy však zdůrazňují, že cílem návrhu EHS není oslabit Radu bezpečnosti, nýbrž rozšířit akceschopnost Spojených národů.
- Loni v květnu navštívil Čínu prezidentův poradce pro národní bezpečnost Brzezinski, aby zdůraznil dlouhodobou strategickou, povahu americko-čínských vztahů.
- Účelem nebylo nic jiného, než snadno a rychle opatřit byty pro nově jmenované důstojníky armády a bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9cd6d54f2e1342eda2ffa5fc79a31c153a4eb387b7cc56cfa2dcf7aaae83997
+size 611

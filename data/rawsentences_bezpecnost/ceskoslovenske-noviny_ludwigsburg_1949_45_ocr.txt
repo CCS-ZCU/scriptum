@@ -1,1 +1,3 @@
- VEDOUCÍ STÁTNÍ BEZPEČNOSTI /STB/ nasazují na nekomunistické poslance a jiné »kolaborující» politiky konfidenty,jednak placené,jednak dobrovolné a jednak okolnostmi přinucené.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0577bd7c84642acb1d4c18eb8efd4f021f5491a02857128785b286eeae9dba4d
+size 191

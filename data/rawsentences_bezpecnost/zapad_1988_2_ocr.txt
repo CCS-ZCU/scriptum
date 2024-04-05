@@ -1,3 +1,3 @@
- 6  O práci Sboru národnf bezpečnosti Na dotazy čtenářů Rudého práva a Pravdy odpovídá ministr vnitra ČSSR soudruh Vratislav Vajnar Rudé právo, 30.
-, že věc (v tomto případě zejména tuzexové poukáz- ky) nakoupil s úmyslem se spekulačním ziskem je prodat nebo směnit Slyšel jsem, že Bezpečnost prověřuje zájemce 0 devizový přislib.
- Předseda kongresové komise pro Bezpečnost a spolupráci v Evropě v uznání k vydání těchto dokumentů výslovně vyzdvihl práci Anny Faltu- sové, která dobrovolně od počátku shromažďuje a překládá pro tuto komisi tyto dokumenty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58476a751a5d590bd45d8e15014f6a7946598f24bc799088d3ff8a0ad6f73195
+size 614

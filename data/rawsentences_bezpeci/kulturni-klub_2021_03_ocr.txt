@@ -1,1 +1,3 @@
- Zájemci mají možnost užít si výstavy z pohodlí a bezpečí domova.
+version https://git-lfs.github.com/spec/v1
+oid sha256:286cc04050b442668799c0fd4266166b7748fc856f9925c5aba8d546a285dff1
+size 75

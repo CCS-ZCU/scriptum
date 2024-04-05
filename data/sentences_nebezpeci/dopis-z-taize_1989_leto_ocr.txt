@@ -1,1 +1,3 @@
-přijtom ^to hledání vlastní identitý nebezpečí odpověď zužovat zastiňovat možný výklad objasnění s®be poznat zvát Jan upřít zrak bqha
+version https://git-lfs.github.com/spec/v1
+oid sha256:516f829e803127ad4293e4c9c87dce383f679406895b1957658cf10c8ad9399d
+size 154

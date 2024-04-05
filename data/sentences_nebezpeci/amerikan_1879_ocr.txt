@@ -1,14 +1,3 @@
-dlouhý zářící ostří zablesknout kmit lampa tušící žena podezření hrozící nebezpečí prostý chtít vzpřímit ucítit vroucí dech úkladníkův týl
-dát znamení nebezpečí spatřit jet
-mít potlouch
-člověk bojící nižádný nebezpečí místo
-sběhlý milovat nebezpečí výnosný plat spočívající kouzlo
-přítel potěšený nález zhrozit nebezpečí očekávat ubohý sestra ruka divoký milosrdný kančí
-přesvědčit číhat nebezpečí ulehnout odpočinek
-
-paní Pe· raultová spěchat dcera spěchat ptáč ochrana mladý rozvažovat nebezpečí
-shledaný přítel vypovědět obrátit Louis mrštný jelen pozornost hrozící běloch nebezpečí dozvědět vzbouření rioux sedící Býk
-Chuďas vztýčit lína vidět nebezpečí lína ulehnout
-Louis skřípat zubama věda málomocný varovat krajan blízký nebezpečí oddělení překonaný ztenčený stát malý síla vůj sedící Býk
-vlnit mohutný řeka uhánějící mexický záliv dávající východ země národ
-rok stáří vstoupit vojsko nebezpečí mravní zkaženost tělesný zmrzačení vrozený síla mravní tělesný báječní anděl strážní provázet vyvést nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ceef94acaaf7c9591379d0a1363492c3fdf5d62ff9717c389cccdf5b05d50a6
+size 1193

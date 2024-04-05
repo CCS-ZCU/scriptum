@@ -1,3 +1,3 @@
-představovat malý nebezpečí demokratický svět schopný rozpoznat pravý význam událost
-snaha upozorňovat svět nebezpečí komunismus přinášet Československo Angola Nicaragui
-schůze září sestra Ottová předat člen výbor společný prohlášení československý organizace svobodný svět sovětský reforma příležitost nebezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa08ea235f66b03f3d2cb807f2eed9b34bb1bdfd797ecf6a11b414d92d7e6115
+size 355

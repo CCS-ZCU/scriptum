@@ -1,10 +1,3 @@
- Západoevropští politici (zejména francouzští, britští a západonémečtí) naléhají, ahv se n redukci raket Rodinný život nadporučíka Státní bezpečnosti Praha Bylo, nebylo.
- Tato správa pochopitelně sdružuje pracovníky VB a StB, kteří "brání" faktickou a pomyslnou bezpečnost občanů hlavního města Československa.
- Aby vše mohlo probíhat nerušeně , bratr Radovan nabídl svého osvedčeného agenta "MEDVÉDA", který na každém večírku zajišťoval osobní ochranu a bezpečnost pracovnice SNB, paní Táni.
- Opravdu, kvalifikovaně prováděná práce průměrného, ale ctižádostivého pracovníka Státní bezpečnosti.
- Ale naléhají výlučně na zlepšení v oblasti vojenské bezpečnosti a vzájemného obchodu.
- Celkem bylo předloženo 140 návrhů na zlepšení spolupráce, Varšavský pakt položil důraz na vojenskou bezpečnost.
- Je téměř jisté, že také Západ předloží po obnovení jednání ve Vídni svůj návrh na prohloubení bezpečnosti v Evropě; ovšem s připomínkou, že by jednání měla být oddělena od helsinského následného procesu.
- Pořizovací cena tohoto zařízení - dva milióny liber - není pro společnost BRITISH AIRWAYS z hlediska bezpečnosti dopravy nikterak vysoká.
- To znamená, že je možná kontrola bezpečnosti bezprostředně těsně před startem.
- Tímto způsobem se dá kontrolovat bezpečnost v hotelu či letištní hale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:434da75c109cbaf800069e101eb31e9af2888230f149a193151c057594bf183d
+size 1442

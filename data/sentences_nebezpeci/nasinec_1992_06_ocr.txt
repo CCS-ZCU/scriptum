@@ -1,1 +1,3 @@
-spád rychlost přehlednost chaotičnost událost poslední měsíc vidina nebezpečí směr ubírat moci souhlasit faktor vzít vítr plachet
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dd0cba2bac2f105b7fb0c88d7a536948254150d6d9a3797bba1e274112505b6
+size 143

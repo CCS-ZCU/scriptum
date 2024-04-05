@@ -1,2 +1,3 @@
- Děláme první kroky "po souši" Pocit bezpečí nás opět rychle opustí, když za svými zády (na chodníku) slyšíme hlasitý projev motorínky.
- A tak vlastně m ůže člověk kdekoliv, při jakékoliv příležitosti žít v ha‘ are šalám, v m ěstě pokoje, kde vládne mír v jeho hradbách, bezpečnost v jeho palácích, kde jsou v bezpečí, kdo ho milují (srv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea968853f3cf2b30b062f3f7eb3c8da087bbf4f73b54745be8e57e8a87572f4f
+size 383

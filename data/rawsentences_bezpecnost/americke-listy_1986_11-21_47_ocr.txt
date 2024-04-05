@@ -1,6 +1,3 @@
- Dnes se tato nezávislá kulturní organizace obrací na ■ vás, účastníky vídeňského jednáni Konference o bezpečnosti a spolupráci v Evropě, s žádostí o morální i právní pomoc při řešení složité situace, do které se v poslední době dostala.
- Za této situace nemá jazzová sekce jinou možnost, než požádat signatářské státy Helsinské konference o bezpečnosti a spolupráci v Evropě o to, aby z titulu své kolektivní odpovědnosti za splnění Helsinské deklarace i paktů o politických a občanských právech, působily na ČSSR v tom smyslu, aby — zaprvé — došlo k okamžitému zastavení trestního stíhání a k propuštěni vězněných členu Výboru jazzové sekce, jmenovití- Karla Srpa.
- Britský list Guardian se ve svém čtvrtečním vydání pokusil dát zadrženi sedmi československých občanu do souvislosti s nadcházející vídeňskou schůzkou o evropské bezpečnosti a spolupráci.
- listopadu tak zvanou poznámku, s podtitulkem Pod pláštíkem “milovníků jazzu”, ve které její autor Václav Doležal se snaží dokázat, jak oprávněná byla akce režimu v případě likvidace Jazzové sekce v Praze, jejíž představitelé se ve své obrané obrátili na mezinárodní instituce a tiskové agentury, které se také jejich problému ujali a celý případ politické i osobni persekuce se dostal dik jejich protestům, až do Vídeňské schůzky “o evropské bezpečnosti a spolupráci”.
- Nehledě na to, že vedle pouliční prostituce existuje v Moskvě mnoho žen a dívek, které toto řemeslo provozují pod ochranou státní bezpečnosti jako její potřebné spolupracovnice.
- Tato složka byla a je do současné doby vždy samostatnou správou Státní bezpečnosti ČSSR a je (podřízena přímo náměstkovi federálního ministerstva vnitra ČSSR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acfbe9ea73786c17dcd4c3b1bf67d40b12c7c22cac8cddd997edb00dadfc7963
+size 1858

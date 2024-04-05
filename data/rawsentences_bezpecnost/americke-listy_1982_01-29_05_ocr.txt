@@ -1,2 +1,3 @@
- Je otázka, zda Čína vskutku pokládá Thajwan za ohrožení své bezpečnosti, ale je jasné, že využívá tuto otázku vojenských dodávek ve svém vztahu ke Spojeným státům.
- Kdyby se z Namíbie stal další marxistický africký stát, považovala by to jižní Afrika za ohrožení své bezpečnosti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d40a099da8e68ac20e8e4c5f73e9a74946610d0e96ae35e7a562dd7741c972cf
+size 315

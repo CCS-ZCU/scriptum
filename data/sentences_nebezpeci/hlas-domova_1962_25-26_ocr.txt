@@ -1,3 +1,3 @@
-chvíle odstraněný bezprostřední nebezpečí srážka
-srovnání dálost nebezpečí
-souviset pokus odvážný postoj umělecký úkol mít silný vykladač klestit cesta pojmenovat cíl snaha vytknout nebezpečí zaměřit směr zápas
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2cc619865edb30a932bac4041a6f8258ea83e396cbb9e742a04cf9bc715e44
+size 242

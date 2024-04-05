@@ -1,1 +1,3 @@
-Schlag šťastný duch litovat uklízení přefiknout duch duma hrozit nebezpečí vynětí sklo rozpadnout tyt isíce možnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:46fefd5c48235e3f7cfe8b77a73b29934c7e5034b5be01ec9b88bc187ab8708c
+size 128

@@ -1,1 +1,3 @@
-předčasný dez integrace polarizace protifrankistický síla onkládat španělský komunista hlavní bezpečí vybudování fungující demokra tický systém troska fraukismus
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a175b821d8758f818f17392f80679bd821c7e7e64ff603ca849f96fdaa5cd05
+size 180

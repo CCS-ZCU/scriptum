@@ -1,2 +1,3 @@
-zákon trestat republika vydat nebezpečí válka způsobit porovat ozbrojený povstání účel spolčit cizí moc zmocněnec republika porušit povinnost zradit státní tajemství cizí moc podniknout atentát státní činitel tělo poškodit použít násilí ústavní činitel vyhrožovat násilín urážet hromadit zbraň pobuřovat stát samostatnost ústavní jednota nost donokratioko republikánský forma popuzovat násilnost jed notlivý skupina obyvatel národnost jazyk rasa náboženství vyznání vybízet hromadný plnění zákonný povinný stát akce schvalovat
-příští číslo vyjít prvý den březen
+version https://git-lfs.github.com/spec/v1
+oid sha256:15a6dfc237c3f0718397cfd837c9a9a3d1874826053b0685f2fc93a5e369ac0a
+size 625

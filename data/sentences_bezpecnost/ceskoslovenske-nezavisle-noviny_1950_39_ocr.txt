@@ -1,2 +1,3 @@
-člán druhý pisatel vytýkat Gráf udavačský způsob zveřejnit část značka jméno ohrozit desítka život drahý osobní bezpečnost vydat ruka komunistický agent paní noviny rudý právo naznačovat Otto Gráf bolševik
-rudý armáda připravený Labe pokusit překročit panika západní zóna moskevský pravda telefon tvrdit západní demokracie pohotovost brána ohrozit bezpečnost svět mít rumilovný úsilí sovětský lid mít mít úmysl ohrožovat zápalní mecko světový mír
+version https://git-lfs.github.com/spec/v1
+oid sha256:45e7283ad47cf9c8f669bb2e797335f76910a9a755229a1bce5a3717b0670d60
+size 502

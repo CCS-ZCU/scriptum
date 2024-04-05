@@ -1,1 +1,3 @@
- Na konferenci ženevské v červenci Spojené státy opět zdůraznily své přesvědčení, že lidu východní Evropy odpírání práva na vlastní vládu je vážnou překážkou míru a bezpečnosti v Evropě.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be2b2a1cedc327eb7d3a512e3beb31c9aefdf36109fc87174edc24997352bfcd
+size 216

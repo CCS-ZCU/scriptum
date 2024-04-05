@@ -1,1 +1,3 @@
-dávat definice míněný název zkušenost tělo
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeb7c5e394ced0cfbd50bf353e89184e4990178ab4536adecc407495183661f0
+size 50

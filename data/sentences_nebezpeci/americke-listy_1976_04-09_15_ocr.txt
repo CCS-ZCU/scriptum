@@ -1,2 +1,3 @@
-společný jmenovatel dodržování bezpečnostní předpis podceňování nebezpečí vznik požár
-pozadí nový veřejný kampaň Dubček podivný Husákův umírněnost úspěšný hospodářský politika podstata odstranit politický ideologický nebezpečí vyplývající pražský jaro
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e4cd19a84bc99b1ff821f06ba45e9674124df17b74f02eaeafbfa95a0a56cc9
+size 294

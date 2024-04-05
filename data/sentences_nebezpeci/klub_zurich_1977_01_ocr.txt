@@ -1,1 +1,3 @@
-taktní rada přátelský pomoc laskavý upozornění nebezpečí patřit zdravý kritika
+version https://git-lfs.github.com/spec/v1
+oid sha256:962bcf08198994ae1f281d5a91036bc6658607a8e64e432c6c204fe00417ab6e
+size 90

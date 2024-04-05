@@ -1,2 +1,3 @@
-ČNB Rusnok vyhodnotit boom hypotéka možný nebezpečí stabilita banka
-nebezpečí přijít vniveč pokrok potírání nemoc dát vakcinace předejít
+version https://git-lfs.github.com/spec/v1
+oid sha256:74fc15c6d646879a1735002bfce9043cd298cb656a117472a3bb53bc6aeceb12
+size 154

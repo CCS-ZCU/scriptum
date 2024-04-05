@@ -1,1 +1,3 @@
-skupina mladý lidé vzít odvést bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fd72872c279f365c0188a38c1e029ea55c29c2a08223655c0453a1395dd3d11
+size 45

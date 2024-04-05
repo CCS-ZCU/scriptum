@@ -1,1 +1,3 @@
- Je bez sebe starostí, po- stavi-li se i on do tábora bojovníků za mír a jestli odmítne svody krvežíznivého ministerského předsedy a "těch zdvořilých hochů od státní bezpečnosti”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dbb0fe9ae8452701269141767e1ea6ff2922d93db7f2827d32336eacce113e7
+size 200

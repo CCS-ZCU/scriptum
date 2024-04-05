@@ -1,1 +1,3 @@
- „Můžeš vytáhnout černocha z buše, ale obráceně to nejde - však si na tuhle moudrou zkušenost ještě pamatuješ,“ dodal našinec a pokračoval s varovnou informací, že dřívější vlády sice nedodaly, ani nepředstíraly občanskou rovnost, ale bezpečnost v ulicích zaručily a ta již totálně pominula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2ca397e87fcc4d5c7e02153a241e9d2f6812a44f2e5f78d0520db18fae5cb9
+size 328

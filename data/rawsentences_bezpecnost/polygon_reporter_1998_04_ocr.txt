@@ -1,5 +1,3 @@
- Sněmovna schválila ústavní zákon o bezpečnosti republiky, formulují přesněji kompetence např.
-1^ Jinak se ovšem soudruh Grebeníček neopomenul zmínit, že je proti vrahům bratřím Mašinovým a že marxismus je zřejmě v pořádku, když se studuje i na západních universitách, právě tak, jako že zákon o protiprávnosti a zavrženíhodnosti československého komunistického režimu není správný, protože Československo přece bylo v Radě bezpečnosti OSN, což by při protiprávnosti režimu nebylo možné.
- Všimněte si, jaký mají vztah k obraně vlasti, jaký mají vztah k její bezpečnosti, jaký mají vztah k samotné naší státnosti.
- Jaký je vztah k bezpečnosti státu, k jeho svobodě, k jeho nezávislosti, k hodnotám, na nichž je založen, k lidským právům? Je velmi chladný.
- Vedeni motivy bezpečnosti a hospodářské stability snažili se již od středověku ti prozíravější z našich panovníků a státníků začlenit naši zem do rozsáhlejšího evropského společenství.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0748135b762190e393e65254fc8dd53f31e7ea253c47bf6b4d97a956b8bb486a
+size 1048

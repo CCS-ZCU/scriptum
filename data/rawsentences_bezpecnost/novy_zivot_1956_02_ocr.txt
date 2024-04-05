@@ -1,9 +1,3 @@
- Jen On může lidstvu zaručit opravdovou bezpečnost.
- Základ bezpečnosti — lidská přirozenost.
- Existuje totiž přirozený řád, a i když jeho vnější formulace se mění s dějinným a sociálním vývojem, jeho podstatné rysy však jsou a byly stále tytéž ; jsou to rodina a vlastnictví, jako základ osobního zaopatření, a k nim se druží jako druhotní činitelé a záruky bezpečnosti: místní organisace, odborová sdružení a konečně stát.
- — Těmito zásadami a pravidly se dosud dávali lidé vést v teorii i v praxi, opírajíce se o křesťanství, a tak uskutečňovali podle svých sil řád zaručující bezpečnost.
-« Modlitba a dnešní člověk » Na rozdíl od dnešních lidí naši předkové věděli, že lidské síly, aby dokázaly vybudovat bezpečnost, jsou vnitřně omezené, a proto brali útočiště k modlitbě .
- Příliš mnoho je dnes těch, kdo se nemodlí za bezpečnost : myslí, že technika udělala zbytečnou prosbu, kterou Kristus Pán vložil na lidské rty : » Chléb náš vezdejší dej nám dnes« (Mat.
- I dnešní člověk tedy potřebuje modlitbu, a je-li rozumný, nebude váhat rád se modlit i za svou bezpečnost.
-« Svoboda ohrožená na Východě i na Západě » Ti kdo v dnešním průmyslovém období právem obviňují komunismus, že zbavil národy, kterým vládne, svobody, neměli by přehlížet, že i na druhé straně světa bude svoboda velmi slabě zajištěna, nebude-li zabezpečení a bezpečnost člověka výsledkem takových hospodářských soustav, které odpovídají pravé přirozenosti člověka.
- Spíše je vybízíme, aby budovali takovou společnost, v které bezpečnost a zabezpečení člověka se stavějí na základech mravního řádu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59ce8d104f7b38df9a0cba540f7d09a05e93383ae016e272b501dbec927d30ab
+size 1766

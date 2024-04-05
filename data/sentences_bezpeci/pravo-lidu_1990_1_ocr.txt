@@ -1,2 +1,3 @@
-výtisk Annonce prodaný zájemce hlásit inzerát
-Florida telefon těšit Lajoš Janet Naňákovl šestinásobný zvětšení kapitál
+version https://git-lfs.github.com/spec/v1
+oid sha256:e79cca5f5ccaf98251485930a4811a8dfbef5e64c3747e713a015993df8b3289
+size 67

@@ -1,10 +1,3 @@
-mocenský establishrment oblast tušit nebezpečí hrozit situace reagovat utahovat šroub
-sklonek šedesátý léta západ začít pochybovat rovnice objevit odborný analýza odhalující hranice růst nebezpečí hrozit kapitalistický hospodářství růst daný jistý limit
-poukazovat nebezpečí vyčerpání obnovítelný surovinový zdroj mít lidstvo dispozice
-kapitalismus odhalit smrtelný nebezpečí hrozit možnost obrana přežití moci blízký budoucnost použít
-vzdalovat pragmatismus krozit nebezpečí upadnout utopie
-Ivan Klíma předvolaný přijmout varování smysl nový román mít protistátní obsah
-žít doba zvýšený nebezpečí
-Klofáček
-stát upozorňovat nebezpečí národní demoralizace šovinismus vyplývající provedený důsledný rozhraničení ruský komunistický vést ruský národ šovinismus
-další občan odpíraný svoboda strach preambule první pakt nucený žít trvalý nebezpečí projevit názor ztratit pracovní jiný možnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:58b21f3d46e4a61b341ae426069f8a358bf926b682d629f0c70b848931c90001
+size 992

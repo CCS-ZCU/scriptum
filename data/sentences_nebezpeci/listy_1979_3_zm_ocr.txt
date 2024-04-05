@@ -1,10 +1,3 @@
-srpen hlavní nebezpečí hlavní překážka celý obroda socialistický politický systém
-český strana poukazovat jít centrální federální orgán podmínka nový soustava ekonomika vznikat nebezpečí rokratický centralismus úroveň republikový znemožňovat realizace nový stý řízení národní hospodářství oslabo narušovat existující integrační vztah československý hospodářství brzdit možný hospodářský vývoj
-souvislost vznout kalo dvojí nebezpečí
-hrozit nebezpečí hledisko další vývoj dosažení určitý kompromis jít ekonomický kompetence federace vystříza livění uvedený iluze obracet kritika skutečný příčina iluze federace mít ekonomický funkce národní orgán moci dostatečný kompetence ovlivňovat politický rozvoj republika hledisko skutečný třib
-Husák předseda borný vládní komise odmítat názor český strana sporný problematika předložený posouzení předsednictvo KSČ
-zaujmout lišný stanovisko vystavovat nebezpečí dělit národní společenství
-doba odpad nebezpečí komponenta rozpustný pohybovat spodní voda
-vývoj charta diskuse charta praktický projev demokratický pluralismus nebezpečí plodit různý sektářský přístup rozdílnost situace český země Slovensko rozvoj československý literatura kul tura účinný informace problém domov zahraničí dosáhnout pozornost osud nositel známý jméno spolupráce demokratický opoziční síla různý stát sovětský blok další konkrétní otázka předmět mnohahodinový diskuse
-popsat židovský nebezpečí proslulý román mšice láska nenávist jméno otec syn
-počítat hocha vojenský materiál zpomalit odsun spřátelený vojsko
+version https://git-lfs.github.com/spec/v1
+oid sha256:a09e171219b2fc6828c710caaf0800ea13b56587f2e491fdcd46313afdbed297
+size 1820

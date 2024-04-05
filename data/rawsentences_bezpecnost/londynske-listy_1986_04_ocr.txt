@@ -1,2 +1,3 @@
- jedného miesta na druhé je známym trikom cirkevných tajomníkov a štátnej bezpečnosti.
- V tmavé noci podnikla Státní Bezpečnost zátah proti klášterům v celém USSR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b0a58f5c24406624d5f3ca9dc5eb47c9d99d414664a7dbe4200bf3eeedcb473
+size 181

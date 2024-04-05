@@ -1,1 +1,3 @@
-vystudovat dívat veřejnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:af144f837d6a26a089e0244c7d7e1b132f1577e49125e4a28541a637855a9e01
+size 29

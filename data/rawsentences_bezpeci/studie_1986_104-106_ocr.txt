@@ -1,5 +1,3 @@
- V duchovní rovině před námi podobně úděsně vyvstala poprvé v dějinách možnost ateizace celých zemí, ne-li kontinentů, Zatím nepřerostla v pravděpodobnost, ale už není poctivé žít si v pocitu sa- mozřejmého bezpečí s odkazem na to, že církev už přestála nesčetně bouří.
- Adam je bytostně člověkem vztahů - »není mu dobře býti samotnému« - a ze základního vztahu k Tvůrci rodí se intimita a pravdivost jeho vztahu k ženě a důvěrné spočinutí pralidského páru v bezpečí a přátelskosti přírody.
- Jako by si oni duchovní ani nevšimli, že za staletí evropské lidstvo trochu dospělo, že z »Božích dětí« raného křesťanství a středověku, z 178  děti důvěřivých, bezelstných a náladových, leckdy divokých, ale vždy toužících po bezpečí domova a autority, se stali - ne dospělí (jak si někdy chceme namlouvat), ale dospívající - vzdorovití výrostci, kteří sice ve svých světlých chvilkách jsou přístupní argumentům a schopni i rozum- ného uvažování, ale současně jako všichni adolescenti trpí utkvělou představou, že vědí všechno lip než jejich otcové, že musí změnit svět, výrostci, kteří ve svém dospělém těle ukrývají nejen úžasnou samolibo st, ale i dětské sny, divošskou pověrčivost se sklony k vandalismu.
-  chodívali pro potraviny a léky, přitáhli nyní železná kamínka, takže ne- bezpečí zmrznutí jim nehrozilo.
- M;\ií ho všude spousty, toho bezpečí! Ale třesou se o ně.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a523994ed985cf026af2305b80ec1a8609b69dd4397afad41d79891a08394b4a
+size 1716

@@ -1,1 +1,3 @@
-Šarlat Madarí prohlásit mít dodat mít srdce říci cítit Qom bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c96e7c619e25cf3b507ee93a6c3635d78341fd3f212b1b35b248026ff0bf16
+size 77

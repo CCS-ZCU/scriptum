@@ -1,1 +1,3 @@
- Čuřica, zavolejte na oddělení! Ať si to s ním vyřídí bezpečnost!» «S tou kurvou taky!» zvolala Ludmila, nezapo- mínajíc na svou věc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a030572858e4a2fd3f12e985d33c48d4ab7b597854edbee4dcc688c6c0f706
+size 150

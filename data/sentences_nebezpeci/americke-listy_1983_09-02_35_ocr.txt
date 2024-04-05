@@ -1,6 +1,3 @@
-západní sdělovací prostředek pravdivost zpráva pochybovat připomínat znamenat nebezpečí Husák Andropov Dubček dopisovat
-pražský bratislavský další tajemník další vedoucí kádr podobný nebezpečí hrozit
-zdát Káesčá moci dělat politika zájem společnost odvrátit nebezpečí tank
-Podkrušnohoří dít odpovídat trestní zákon definovat pachatel trestný čin obecný ohrožení citovat vydat lidé nebezpečí smrt těžký újma zdraví
-citát dopustit jiný podobný bezpečný jednání obecný nebezpečí zvýšit ztížit odvrácení zmírnění
-desítka léta jeskyně uzavřený veřejnost návštěva turista ohrozit mikroklimum jeskyně hrozit nebezpečí zničení nahraditelný hodnota
+version https://git-lfs.github.com/spec/v1
+oid sha256:f078812fdf6f7858820769b764015229b7c548f0f3592ea7b7fa04aa3fda3184
+size 729

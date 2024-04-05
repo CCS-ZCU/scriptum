@@ -1,1 +1,3 @@
-  72 Jednota byla jenom po nedlouhou dobu právně chráněna, kdežto jinak její bezpečnost závisela ponejvíce na přízni světských vrchností.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9894f84681c80a81fcdaa8c8c48a48d26f8d530495999edf330749fd0802a0
+size 152

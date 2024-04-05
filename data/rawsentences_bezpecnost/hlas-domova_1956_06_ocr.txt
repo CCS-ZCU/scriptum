@@ -1,1 +1,3 @@
- Anglo ■ americko ■ francouzská politika neexistuje a Američané kladou příliš velký dúíaz na "vojenskou bezpečnost ” .
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d0f5b22aec626b2a1b73b17d62c05145951ccf2779cb2660b5264dea43b83d
+size 135

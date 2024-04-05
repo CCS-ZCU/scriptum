@@ -1,3 +1,3 @@
-začít hádka psát stížnost kuchař zavolat veřejný bezpečnost
-vykonat Štátno bezpečnost Bratislava mojom
-právqa život svoboda osobní bezpečnost
+version https://git-lfs.github.com/spec/v1
+oid sha256:636c1c3caa99b0e981e5f41c69cf892269542352d9beafa8ba612acb06836484
+size 159

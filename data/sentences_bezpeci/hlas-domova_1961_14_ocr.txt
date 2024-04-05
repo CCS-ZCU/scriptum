@@ -1,2 +1,3 @@
-červen oznamovat úroda pěkný bezpečí zůstat strom
-přítomnost dodávat výlet punc důležitost pocit bezpečí
+version https://git-lfs.github.com/spec/v1
+oid sha256:08c0f93f313b6b63038d8a1395494a0120228d2db22c1845396b6cb115775fbf
+size 63

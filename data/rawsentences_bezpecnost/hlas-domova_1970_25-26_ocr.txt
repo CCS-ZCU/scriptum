@@ -1,2 +1,3 @@
- Ale to by byl politický boj, ne fungující právní systém, a občané zajisté by nechtěli záviset svou bezpečností na tom, zda v komunistické straně zvítězí ten nebo onen.
- Ghápáli jsme ovšem, že za své peníze nemůžeme vyžadovat kalorné jen pro sebe, ale že z toho také musíme přispívat na aparát Státní bezpečnosti a podstatnou mírou přispívat na kalorné našich ochránců.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efda2a8b5ebe9e3857b5c386effd9ac79caf7c149448d2d5c34a8a833bc991b8
+size 414

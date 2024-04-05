@@ -1,1 +1,3 @@
-Po odjezdu Američanů příeluaníci bezpečnosti zabavili negativ filmu Michatu Vaňkovi z Plzně a několik osob legitimovali.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31982fb5e5afbcec8135618dc1d323adf656a15612eae84dd56380218d42e4af
+size 130

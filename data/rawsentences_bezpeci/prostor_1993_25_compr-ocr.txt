@@ -1,2 +1,3 @@
- Právě tyto hodnoty vytvářejí hlubinu bezpečí, stálosti, pevnosti, spolehlivosti i důvěry, které říkáme domov.
- V tom se do pokoje vlámala sousedka a volala: Paní, vstávejte, volá váš pán, že vás nemůže vzbudit, už volá podruhý, přej chcete jít ke kadeřníkovi! Pod sušící helmou jsem se marně pokoušela vyvolat si znovu ten pocit bezpečí, lidského příbytku nebo jak bych to řekla - marně; přišlo mi tak líto, že to mohu pocítit jenom ve snu, že jsem se rozplakala a z pod helmy mi tekly slzy, protože jsem teď přecitlivělá a ve špatném nervovém stavu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b87742a17268a8d7bd49d8b497522f9502eb39ff24ac89fa93b3712ae42bdde1
+size 443
