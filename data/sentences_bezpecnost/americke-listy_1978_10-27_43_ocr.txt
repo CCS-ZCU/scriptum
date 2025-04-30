@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b5267af0f4df6301e9831733bf54a5cd259546f3573ab34d2a451ed9a651bcd
-size 60
+vznesený obvinění útok odpovědný státní bezpečnost

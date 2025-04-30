@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5f78a0b9b30b71bdd60bf992f5b00ef58677bae683288bf86b1ef2d50e2084e
-size 54
+nebezpečí vrhat stín častý zpověď spravedlivý

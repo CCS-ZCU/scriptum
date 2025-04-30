@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7ca5d2e9e16db2a1ec022d7d68a53370ae32ecb8b900ec2479dee2f42502763
-size 244
+ Žádost o jeho vydání vyřizuje oddělení pasů a víz okresní správy Sboru národní bezpečnosti, kde má žadatel trvalé bydliště.
+ Bezpečnost mluví o “závadové činnosti” dětí, psycho- logové o “nezájmu rodičů”.

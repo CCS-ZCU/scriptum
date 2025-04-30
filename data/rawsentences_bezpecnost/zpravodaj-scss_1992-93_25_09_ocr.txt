@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d30809d409c5fe6e16d5688661368a3b6357d955af2711abbf941b696b2ffe3
-size 189
+892 údajných spolupracovníků Státní bezpečnosti.
+Je samozřejmé, že takto získaní “ agenti “ žádnou konkrétní práci pro StB nedělali, ale bezpečnost je měla v hrsti.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b411fabecbab3e33197cf31e26ef0b25d27304e60cd3514b1ef37539b5e2c151
-size 57
+ústít jít věc zabránit vyžadovat bezpečnost lidé

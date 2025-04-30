@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be8ffe5c98f2de17a065895820cd700f62c6ab8625bc65b3fbbee563c92cbb8d
-size 22
+Cincinnti nebezpečí

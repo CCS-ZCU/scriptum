@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:141412cc5f8c2b873fcccf25af79bab20f0b4a8420b87619b95bc6428be98b2e
-size 85
+muset pečovat bezpečnost házet směr prázdný vodní hladina
+bezpečnost nácvik

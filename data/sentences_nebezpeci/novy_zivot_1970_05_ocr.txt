@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a35ee23e1a6d3131a39feda4a460f6ead16060d257585e32f23b282d5b74f94b
-size 41
+žehnání chléb voda nebezpečí oheň

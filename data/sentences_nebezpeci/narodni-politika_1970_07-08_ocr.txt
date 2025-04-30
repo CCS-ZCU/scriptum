@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b440e5fe85dce8f1f9a7f60bf327600e5f4da787c0c22556554def9182bdf167
-size 82
+říci uvědomovat risiko nebezpečí odbojový činnost
+preventivní nebezpečí

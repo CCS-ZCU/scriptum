@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a7699c73b486309f85d968e35b620ec4102e7965ec6844e0a04bc8dfd3140d4
-size 213
+ Chystaná konference o evropské bezpečnosti a spolupráci může přinést Čechům a Slovákům ulehčení a nevídanou míru liberalizace, mohla by však také zpečetit jejich neblahý osud na dlouhou dobu.

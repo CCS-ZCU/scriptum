@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3edc06f08200f4f536f73ca0ce47882ef57d0b80db3821c46d79454f701d80f
-size 175
+ Zbývá jen otázka, zda bylo v RSE uděláno dostatek opatření, aby lidé typu Minaříka neměli možnost ohrozit bezpečí lidí, kteří se špióny v SE nepočítali.

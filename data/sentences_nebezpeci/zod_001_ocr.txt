@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bddc120b24b5730a057f5dc3a2143740e6f1e4c5140ad3ac82b109e71e90b113
-size 41
+nebezpečí strázeň pasta cesta svést

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31e334dbaaf0aeefdcb1301ce6b55b6fe7d6b78c958fa7810a6b855b8d0fc937
-size 36
+nebezpečí hrozit Vávra Staříko

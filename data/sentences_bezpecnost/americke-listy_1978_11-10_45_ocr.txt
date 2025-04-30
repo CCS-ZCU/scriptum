@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8887852f0bf6e76c6ab23b93a027cb87d12a1a021e8d47bf459b3feceb9594a
-size 120
+odmítnout vypovídat bezpečnost odvést výslech úřadovna nemocnice moci vrátit další ošetření příští den

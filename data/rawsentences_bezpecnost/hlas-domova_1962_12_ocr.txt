@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de9454a73800cb294147842197495619d83a4e06cb2cc01b731c2677a2111cb0
-size 170
+ výročí trvání Pomocné stráže Veřejné bezpečnosti.
+ Pravil: “Pomocníci Veřejné bezpečnosti s modrou páskou na paži mají hrdou bilanci své činnosti.

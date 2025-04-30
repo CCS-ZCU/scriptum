@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41f0e56ed55776c5a5c0040e4da409279b98da18f5be769d34f9ff199aed6848
-size 561
+cz REZIDENCE RoSa Rezidence RoSa pro senionry Praze otevřena Praktický lékař a psychiatr přímo v objektu Aktivizační programy, knihovna, multifunkční sál Kavárna, restaurace, kadeřnictví, manikúra, pedikúra 24h tísňová péče a ostraha objektu Byty 1kk, 2kk - nájemní bydlení se službami pro seniory Otevřenost vůči veřejnosti, bezpečnost a soukromí pro klienty Výborná dopravní dostupnost do centra Prahy (trasa metra C, zastávka Kobylisy) Asistenční pohotovostní služba Střeiničná 1680/8, Praha 8 | info@rezidencerosa.

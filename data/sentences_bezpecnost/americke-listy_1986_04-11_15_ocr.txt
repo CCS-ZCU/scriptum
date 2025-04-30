@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28ca6b88739bce85a6f3be56f054b010afb165543fa8e81c2cae6dab73417ad1
-size 156
+vojenský odborník zdůrazňovat zvýšený bezpečnost pilot nutný mezení konečný výsledek
+řešit přeprava dítě rodič mít starost bezpečnost

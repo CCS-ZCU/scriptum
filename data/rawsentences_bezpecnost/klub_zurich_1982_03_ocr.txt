@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95826203ab726c9ba54f91afcd5caab2ce3b08871bb98f0d4c049f8911ba5953
-size 190
+ Vedení odůvodnilo tuto výjimku tím, že Walesa se mimořádně snaží o svobodu svého lidu, nedbá na vlastní bezpečnost a bojuje za ideály spravedlnosti, o kterou Polsko usiluje.

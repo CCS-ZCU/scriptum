@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:132431fb2c5717e63ab168a542b5168e0780f692db05d420615ac9ef09b63a43
-size 94
+ Mnohé veci robíme ncprezierave a na úkor daňovníkov a bezpečnosti Spojených Štátov.

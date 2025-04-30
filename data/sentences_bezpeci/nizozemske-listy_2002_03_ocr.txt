@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7ab2e9a947bb5127a797290dd4eabd4fd089c940a3811ea57c3cc5bb6741f27
-size 59
+použít podchod přechodník převést bezpečí chodník

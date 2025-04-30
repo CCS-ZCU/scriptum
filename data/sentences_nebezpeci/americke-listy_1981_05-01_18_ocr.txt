@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91e0ecc7fb28ecec4d6aed5fdfcf69e00ddc59262806af3ece75a9b037e1d0dd
-size 96
+naděje trvat ipouhý rok poválečný léta snozřivec uvědomovat velký nebezpečí válka

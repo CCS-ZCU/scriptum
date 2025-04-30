@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f2b0944347e432b0d722ec17caa6eee90ad8f32317dc762908bab5c12915eb6
-size 184
+použitý zkratka národní bezpečnost SNB sbor národní bezpečnost ONB okresní národní bezpečnost OSK okresní správní komise okresní komisař SNR slovenský národní rada

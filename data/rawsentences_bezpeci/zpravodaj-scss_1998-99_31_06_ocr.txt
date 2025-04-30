@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6796a9548489a3129affe96743631fed081f4fd4875f6bcc9fe4164d4a51e6f5
-size 547
+ Švýcarské, bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+ Unie svobody: Uvádíme názvy kapitol, které charakterizují ducha programu: Odpovědný občan ve svobodné společnosti, Řád a spravedlnost pro pocit bezpečí, Hospodářství ve službách společnosti, Vzdělání pro třetí tisíciletí, Důstojné podmínky pro odpovědné občany, Naše země (Venkov a zemědělství, Péče o životní prostředí, Energetika) , My a svět (Zahraniční politika, Vnější bezpečnost).

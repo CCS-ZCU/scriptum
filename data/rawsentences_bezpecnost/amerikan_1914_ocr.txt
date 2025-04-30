@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2062a2d5b1d97609b9d9eded38c5d5a6829322409fa9ddb9e101c37f7b093f9b
-size 223
+ Věda nekoná zázraků a bádání její pokračuje obyčejně pomalu, ale z toho, co již vykonala a vyzkoumala, můžeme soudit s bezpečností, že rozluští také mnoho záhad, s kterými si dnes lidstvo neví rady.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b51d93fca614f001c544cfa46a72b71662e8802c588adf9f7cbcb6efb335c43
-size 148
+ Oblast, ve které vily stojí, je prohlášena za vojenské pásmo a o bezpečnost prominentních rekreantů se stará vojsko ministerstva vnitra.

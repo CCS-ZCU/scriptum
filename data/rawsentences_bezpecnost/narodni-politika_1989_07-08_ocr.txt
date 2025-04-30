@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:447de8a55283676a21aef0007f0f9f16666582efd885af9da1e3319179dd8ad7
-size 600
+ Příběh se odvíjí na několika časových rovinách zároveň: v soudní síni při procesu s mladistvými vandaly, během policejního vyšetřováni (případ vyšetřuje postarší vousatý policista, který má být zřejmě ztělesněním lidskosti a slušnosti a který vůbec nevypadá jako příslušník státní bezpečnosti) a pak zejména ve vlaku během osudové jízdy, při níž došlo k výbuchu násilí.
+ Ke dvoustému výročí založení Anglické zahrady by mu vypasení plukovníci Státní bezpečnosti měli umožnit, aby si aspoň jednou přišel zalévat svůj strom.

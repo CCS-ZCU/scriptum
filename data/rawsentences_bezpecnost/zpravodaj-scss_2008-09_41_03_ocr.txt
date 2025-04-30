@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8571ac592613fdf7f8d1668e863c6b2fb8dcdb98bcdb70dbc8c7ced0677e829
-size 112
+ Sokolové střežili budovy, hlídali sklady s potravinami a jiným materiálem, dbali o bezpečnost občanů.

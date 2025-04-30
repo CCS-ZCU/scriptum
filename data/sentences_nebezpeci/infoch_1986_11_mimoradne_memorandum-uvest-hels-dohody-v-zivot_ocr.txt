@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4d647f34d6410bdbf32624107ca18ecc7e7f7012617694ea0d9d9d50e35b4a0
-size 170
+odstranění vázna nebezpečí daucho aoučaára situace atsčit pouhý opatření kontrola zbrojení

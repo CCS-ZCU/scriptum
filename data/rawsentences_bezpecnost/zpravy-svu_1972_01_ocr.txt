@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f21509001ff6dda76cd6e730148896be721529662dfaec85faebdae006cea19c
-size 354
+ ČsL Státní bezpečnost připravuje podklady pro politický proces proti několika bývalým pracovníkům zrušeného Historického ústavu Československé akademie věd, kteří mají být potrestáni za svou účast na zpracování tzv.
+ Státní bezpečnost se pokouší svalit veškerou vinu za tuto publikaci na několik vybraných historiků.

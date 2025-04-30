@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0722bdcfafb427792753f754dedcd8f5576d1d06b61919fb3ac6650c09cf3eba
-size 25
+ Národnej bezpečnosti.

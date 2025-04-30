@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2ea4f151050a180fe324fec9a51fe5dc941aeb26ef6252ecc4785ad96cd2c05
-size 51
+Athanasius počátek vidět zřídnout nebezpečí

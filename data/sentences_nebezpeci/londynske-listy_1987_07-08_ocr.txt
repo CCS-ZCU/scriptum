@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f74212f136f2f99b47470623b0d2386ce95014a924b0d7a9dd1c8a21190f76f3
-size 41
+Tarnův rolník shromáždit vyslechnout

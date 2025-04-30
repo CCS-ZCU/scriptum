@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:083d723995b1f45ce5bcd2f91d533dff9f924e1912b5a9fd4956e987d692127c
-size 72
+ Pavla Zenklová vytvářela Petru Zenklovi bezpečí ve svém domově.

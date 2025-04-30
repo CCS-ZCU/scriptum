@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09846eec7b4405c85345d6e313829158edeab973526adef3d54bd6f046e24c0b
-size 204
+ Tři postavy si oddechnou, jsou v bezpečí.
+ Ve zbabělém bezpečí.
+ A proto nyní ona, Anděla, plní tu malou povinnost dobrého anděla-průvodce, který má dovést dvě spolusestry do bezpečí.

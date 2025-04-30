@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97d6513d3ab7a6c606eafba0848eae4b3cbfe4b27b1bea7ff930024409019441
-size 213
+ Dovede v sobě spojit řád, pevnost a z toho plynoucí pocit bezpečí se spoustou malých zákoutí a křivolakých úzkých uliček, které na vás jakoby vybafnou na místech, kde byste to nejméně čekali.

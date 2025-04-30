@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94d43ea1df7f0a58ff9ff0db4bd27944f5855ba9ab3c0cfb963498db82cd783b
-size 307
+ Vojáčci asi rozumně nedostávají střelivo do svých zbraní, ale stačí to k pocitu bezpečí? Na Srí Lance nedávno majznul prověřený voják z přehlídkové roty cizího premiéra pažbou pušky: musí tedy i náš pan prezident žít v nepřestávajícím napětí, připraven včas uskočit.

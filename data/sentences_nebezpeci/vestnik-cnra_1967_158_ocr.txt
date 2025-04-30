@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0bc279ca3d53b6443c6ecde4529895a62a18417f59f5a6249f991307f0afef26
-size 14
+zima zítřek

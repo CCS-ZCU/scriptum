@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04d82ffc6ad65cffe18afca66d847d4647b37241f400b81def34a8e5e6a18411
-size 30
+bezpečnost silniční provoz

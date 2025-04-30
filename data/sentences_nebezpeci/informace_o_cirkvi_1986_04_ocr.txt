@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1829e28977ddd8a8bdad45aae56f7540dcc823d0645de8845f3b6ea4b01e011
-size 56
+čerpat zdroj hrozit nebezpečí služba přinést plo

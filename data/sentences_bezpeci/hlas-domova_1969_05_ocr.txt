@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4d35f4a5d0aac678ec40ff1b1058617e1a6a48a05761376a9813b986786dd72
-size 28
+naplňovat obyčejný pocit

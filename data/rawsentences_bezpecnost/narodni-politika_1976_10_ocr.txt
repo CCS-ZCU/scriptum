@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09cb40466b18596a0c57e9cd2656427a28ab0527bfd8009edf5e75a8aba009cd
-size 262
+ Jsem přesvědčen, že ani pečlivá sbčratelka — státní bezpečnost — všechny nepochytala.
+ Někdy mám dojem, že by každý autor — pro jistotu — měl jednu kopii zasílat státní bezpečnosti, aby se to všechno aspoň bezpečně archivovalo.

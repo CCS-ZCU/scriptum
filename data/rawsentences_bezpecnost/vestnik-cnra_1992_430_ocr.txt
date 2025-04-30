@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f78718eaad78ea21cbc2a52c0ca0642d7d9261e01f85969c0deeae597f3ef33a
-size 355
+ 2 — Věstník  V sedmdesátých létech pomáhala morálně i finančně členům Charty 77, i když tuto činnost s ohledem na jejich bezpečnost veřejně nepublikovala.
+ Před příjezdem do Československa působil tři roky na washingtonském ministerstvu zahraničí a v Radě národní bezpečnosti jako ředitel jejího evropského oddělení.

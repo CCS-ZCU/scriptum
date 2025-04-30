@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da6e7418982a385748782757cb7c44898295c1d7687e8852dd791c8fd9db9e70
-size 274
+ Budeme-li spojeni naprostou vzájemnou důvěrou, nenecháme-li se uspat osobním bezpečím ve změkčelém prostředí, v němž žijeme, a nezapomeneme-li na své drahé, kteří zůstali doma, reprezentujeme sílu, která může ovlivnit vývoj světových událostí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d85fd223b0e7af66a667a0f11e4c2a282105f82f0b6e1644998588ad43b1a6e8
-size 266
+ To je ovšem velice nebezpečné počínání — a protikladné: proč člověk, který touží po bezpečí, sám sebe ještě víc ohrožuje? Protože nejenom chlebem živ je člověk, potřebuje i potravu duševní, bez niž je ponížen na úroveň zvířete.

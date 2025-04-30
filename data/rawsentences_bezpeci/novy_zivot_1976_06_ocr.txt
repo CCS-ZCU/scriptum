@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2ffab2a632317c3e4fb1e1a9c9d433846d35b5effc3ee4c81d1f21f8fa17612
-size 164
+ V cizině zase kolovaly zprávy, že kvůli nedostatečnému zajištění bezpečí poutníků a nedostačujícím zdravotním opatřením se Svatý rok odloží.

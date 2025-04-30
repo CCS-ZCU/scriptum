@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4f4cecb5dd8333f3ec73fd817769b20621b323c1eed06240982bf4edf382b5b
-size 63
+postel lůžko člověk zes lesňovat intimita pocit bezpečí

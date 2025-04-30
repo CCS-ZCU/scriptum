@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a67c3f45d4b89641798213ecdb56916af542720f0d33abd06ff9ef6182da239
-size 44
+USA moci cítit dávný poměrný bezpečí

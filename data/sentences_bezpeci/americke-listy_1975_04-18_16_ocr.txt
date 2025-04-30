@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5973089ed5f249a5ef24d4cec9aea6ca1e20e1e957cca4ad967c7b294a6a4a7
-size 47
+Spinola mít odlet prohlásit cítit bezpečí

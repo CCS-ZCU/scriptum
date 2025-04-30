@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f80584fabefb9d37cdd85389846f2c41c194bd68d5906353726b4b7092fc5a81
-size 1399
+ Slánek 18 1* Každý má právo na svobodu myšlení, svědomí © náboženství* Toto právo zahrnuje v sobě svobodu vyznávat nebo přijmout náboženství nebo víru podle vlastní volby a svobodu projevovat své náboženství nebo víru sám něho společně s jinými, veřejně nebo soukromě, prováděný náboženských úkonů, bohoslužbou, zachováváním obřadů a vyučováním* 2* Hlkdo nesmí být podroben donucování, které by narušovalo jeho svobodu vyznávat nebo přijmout náboženství nebo víru podle své vlastní volby* 5* Svoboda projevovat náboženství nebo víru může být podrobena pouze takovým omezením, jaká předpisuje zákon a která jsou nutná k ochraně veřejné bezpečnosti, pořádku, zdraví nebo morálky nebo základních práv a svobod jiných.
+ Může proto podléhat určitým omezením, avšak tato omezení budou pouze taková, jaká stanoví zákon a jež jsou nutné; a/ k respektování práv nebo pověsti jiných} b/ k ochraně národní bezpečnosti nebo veřejného pořádku nebo veřejného zdraví nebo morálky.
+ Výkon tohoto práva nesmí být žádným způsobem omezován s výjimkou, jež stanoví zákon a jež jsou nutné v demokratické společnosti v zájmu národní bezpečnosti nebo veřejné bezpečnosti, veřejného pořádku, ochrany veřejného zdraví nebo morálky nebo ochrany práv a svobod jiných.

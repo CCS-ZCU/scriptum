@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c59a47e35303cb913a894caa952fb414917297984a10372d15a81fd73acffce4
-size 152
+ Uvnitř - zaostření na úsilí získat co možná největší pohodlí dosažitelné za daných podmínek, jako jedinou hmatatelnou míru bezpečí.

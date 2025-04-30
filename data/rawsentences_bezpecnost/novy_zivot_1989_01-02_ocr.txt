@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20e533d76ec176b9984bf72549b867e5432861d5e6144b6158f00aa635cc0fb0
-size 93
+ bezpečnosti sděluje, že nevydal žádnou expertizu ve věci pravosti či nepravosti rkp.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4995596016dbe4f14811a58dbc4e7d82aff41f7b081fdbf590fe04ad5ba163da
-size 36
+mít povaha snado milovat bezpečí

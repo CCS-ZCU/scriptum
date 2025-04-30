@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e4fa9cea2bdff312268b809fb5fa18b2d35c821594ed968a421d8c06c086e65
-size 108
+? ♦ Znáte výhody "třetího sloupce jistoty"? ♦ Chtěli byste vědět, co je nezbytné a co více čí méně nutné v otázkách pojištění? ♦ Vyřizujeme náhrady škod z pojišťoven ve Švýcarsku, SRN, ČR, SR ♦ Platíte vysoké daně? Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.

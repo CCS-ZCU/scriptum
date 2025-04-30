@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ce0fa22234e68da6da1e40b96adee283f5aaee0b8df9a32e7f6387b18790b13
-size 97
+ Začal zase pracovat pro Wall Street Journal a psal články na témata národní bezpečnosti.

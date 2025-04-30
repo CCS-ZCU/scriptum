@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:675ca0bb01809a17c77eac9683eb35ea28f94f832a8549ac525ceb55e9f3a589
-size 41
+Gallen upozorňovat vážný nebezpečí

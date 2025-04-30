@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17bf3716f63b7e28bed4479c22b77a9771acb20822ee842e8cea667c1e2b35c2
-size 78
+auto přijet bvto kontrola přísný host sdělený jít vlastní nebezpečí

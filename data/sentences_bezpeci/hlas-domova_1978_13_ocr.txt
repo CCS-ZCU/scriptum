@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3af518388da0651f2a0978fa3a3640a773fc5eb7f481c108689ab3c4bffff60
-size 121
+další obava nejistota opatrnost zbytečný celý dokumentační materiál bezpečí okolnost ponechaný povolaný ruka

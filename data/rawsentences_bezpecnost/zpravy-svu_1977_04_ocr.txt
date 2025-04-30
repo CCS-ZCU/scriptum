@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d58e76e5c7593020f3dff7e8ee3cabccf8af0cc02e779d3ae8e12713101c1b11
-size 78
+ Tříska je nyní také poradcem Amerického výboru pro bezpečnost státu.

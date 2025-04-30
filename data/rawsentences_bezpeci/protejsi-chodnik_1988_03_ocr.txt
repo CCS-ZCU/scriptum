@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81a516ea0f50552317979789c6dafa00cb831d8c5ae33a5be00eb5df7e77be10
-size 161
+ Ale zajímavá věc je, že tedlencten nejpřísnější - potom, když jsem se chystal vyklidit pole a dostat se ven do bezpečí, tak mi chtěli odebrat pas.

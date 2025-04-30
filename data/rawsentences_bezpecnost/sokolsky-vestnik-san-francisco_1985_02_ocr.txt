@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1711b9a58a54a4a7bea63aee8ce0a3ddeb0415330c06120c767e2f70549a7331
-size 52
+ jako protest proti komunikaci statni bezpečnosti.

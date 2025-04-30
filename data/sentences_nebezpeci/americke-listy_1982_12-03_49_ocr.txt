@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e699e3cddfd32eac23f0fe2c96dc2a36c8b76c9eabd35bbe74c2302d29c47960
-size 74
+procento zdát blízký nebezpečí naznačovat podvědomý obava ztráta

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28841f7d15ee4603526b0f8f5cc57bd6cb84622fadd1b49036ed4688a2c5e9d4
-size 79
+jihokorejský student mladý hurá intelektuál hlcdat spojení severní Korea

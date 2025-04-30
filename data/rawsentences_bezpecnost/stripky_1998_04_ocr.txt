@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30810230d867a5da72508eb435c15c969aded23fe9c8a7041e64b174e369684a
-size 643
+ 2 zmluvy znie, že "spoločný program koaličnej vlády, súčinnosť zmluvných strán pri jeho realizácii a vzájomná spolupráca na všetkých úrovniach budú smerovať v duchu Ústavy SR a ďalších zákonov SR ku: prosperite SR a jej občanov, ich kultúrnemu a duchovnému rozvoju; stabilizácii politického systému, zákonodarnej a výkonnej moci; naplneniu občianskych princípov, národných a štátnych záujmov SR; posilneniu vonkajšej a vnútornej bezpečnosti SR a jej suverenity, ako aj ku zapájaniu SR do medzinárodných inštitúcií a vzťahov, najmä európskych a transatlantických integračných zoskupení".

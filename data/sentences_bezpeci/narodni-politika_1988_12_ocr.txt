@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a92b29b6617c4685102b0fb16acc748a4312043ffbb545ee86814f6d160e16c
-size 28
+Pavel Červíček Darmstadt

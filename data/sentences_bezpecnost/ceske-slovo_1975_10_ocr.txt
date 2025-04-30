@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:360ed9388fffab7e485cfbb8f13beb84997c7a15a5fc927a27aee4b07a8e2443
-size 51
+dodávat státní bezpečnost pokusit akce zmařit

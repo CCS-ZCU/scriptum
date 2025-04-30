@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d085827a00e4fcdc49080113cd7002a223c6ec8ad02e58e5998ea240817ba178
-size 108
+ ★ * * Všude na světě jsou národy, které touží a usilují o právo na život, svobodu a bezpečí.

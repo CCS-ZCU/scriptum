@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e82621c49f19068c0f94712239357ce54f0ee34e57d136f400a67f0c7048d8d
-size 86
+buletin vydaný zdravotní stav nebezpečí zažehnaný pan president věstník čís

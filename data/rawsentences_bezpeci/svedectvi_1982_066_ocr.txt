@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f28a9f86ad8b97f04c183ae59b2975bfaa61bb3d8c3792da2933ee959db5663
-size 437
+ Masaryk i Salda ostatně museli mít v lůně habsburské monarchie devadesátých let pocit nemalé národně politické jistoty, nebo aspoň neotřesitelného bezpečí.
+ O tomto pocitu národně politického bezpečí a jistoty, ba zabezpečení, vydává názorné svědectví manifest Česká moderna.

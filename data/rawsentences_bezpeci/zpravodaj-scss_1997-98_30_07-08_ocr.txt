@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abc4dc9e191473c68b9833b771c18d0929b0d3c2be6d0bb93071ea876b7a897e
-size 571
+ Švýcarské, bankovnictví a pojlštovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20f497f106a8916fa5b8393e364470d1ba38d9a1095b5db9d06a4e683929d1cb
-size 47
+dojít bezpečí strom posmívat hloupý husý

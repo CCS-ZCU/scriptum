@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79a2e1f248bd744847777fe453950422b91d4c63687bb0bc97189e3844f0b9b7
-size 148
+ A pritom, nechceme až tak veľa, žiť v bezpečí, môcť milovať, pracovať a nemať pocit, že nič z toho, čo sa nám deje, nedáva zmysel.

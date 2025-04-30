@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a93a9f29e90c57e913c81cdf8e9d6619f6171f2fe6b5dfad086502ceb23ebff
-size 59
+úsilí najít společný základ víra dobrý nebezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84dfb4cab103075288e17ad0b2fcae8c915ca4c2611b0138ec021d1e6a886b2f
-size 65
+Husák řída sovětský vzor hrozný nebezpečí poddaný lhát

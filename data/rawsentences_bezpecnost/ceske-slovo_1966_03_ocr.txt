@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b257489ae423d3ea2e0317945d058ba70856c54f4d63657a45b2795b3b325fc1
-size 187
+ Příslušníci veřejné bezpečnosti z Kladna a Lídic zadrželi vraha pražského taxikáře Antonína Krále, který byl mrtev nalezen ve svém autě u Lipenců, okres Praha-Západ.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0701a3ee5a55bf3f00b6dc79059d6ae6403681f174ecb72320b3342a094de636
-size 124
+ O Jelikož bylo důvodné podezření, že mrtvý nevychází několik dnů z bytu hlásil jsem to veřejné bezpečnosti.

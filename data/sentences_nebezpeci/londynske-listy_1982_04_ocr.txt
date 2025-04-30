@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1665b269212d8df736558cc4510c8749866a3ae7cf477f5c3b3a8c69396a959
-size 27
+uvrhnout nebezpečí ptát

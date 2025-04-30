@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76055af9faa209ede86572c33599cbcd29ea8287be98069868946356d806ccdf
-size 95
+divadlo Brana zavřený nebezpečí zbořit střecha
+výzva slovo chtít upozornit nebezpečí

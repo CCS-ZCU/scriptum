@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:566d3f954a4997fe1cee56412c0eb118ef815215e4a13947a209eaa78c1b5185
-size 327
+ Kůže, k "soukromí" se v naší mysli zpravidla váže představa uzavřenosti, důvěrnosti, domácího bezpečí, kdež- to "veřejnost" v nás vyvolá představu odkrytosti, neza- jlštěnosti, představu cizího, spíše nehostinného světa, kde je člověk vystaven všelikému riziku a kde musí o své uznání bojovat.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:492b5246fc4fd67a492d417ce31e64b465e0b8e261086d93cca7245bfc23c288
-size 172
+ Řekli mu, že informace jsou nadmíru důležité pro naši národní bezpečnost — avšak od té doby federální úřady neprojevily o této otázce žádný zájem.

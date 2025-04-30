@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d094af50d675557539342a47cee19ca57f321b68ecb92645e21ad2572cc3b3d7
-size 124
+trpět teoretický myšlen znemožňovat včasný rozpoznávání nedostatek nebezpečí spojený starý řídící systém

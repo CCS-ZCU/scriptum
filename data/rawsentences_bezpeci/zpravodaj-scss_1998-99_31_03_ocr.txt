@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e38d2e441c7dfe91c7185f786cbc59afc1a6755426c64dc6f00066731ea767a
-size 66
+ Navázal spojení se střediskem OSN a byl odvezen do bezpečí.

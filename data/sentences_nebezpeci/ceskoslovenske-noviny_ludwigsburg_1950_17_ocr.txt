@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8f07582cefb46fbe82cf43795a11502a597f1f126184a9382b279ad112a02b6
-size 47
+néjvý hrozba vetkýto nebezpečí strašidlo

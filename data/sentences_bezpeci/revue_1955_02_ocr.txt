@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bfb2d5241c1112d24f75edd68c84ee9f6c06df15ee77a0648c2832569e13dde0
-size 63
+pocit bezpečí vyrůstat Goliáš doba očekávaný přihodit

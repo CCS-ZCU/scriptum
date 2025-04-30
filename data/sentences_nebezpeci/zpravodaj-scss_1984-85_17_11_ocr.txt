@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02a22cd6e274a8f1207ef3d98ae39cb0b0b6a585967e1ca3c3464b690096c024
-size 87
+jméno voják agent uvedený nebezpečí sestřelení nouzový přistání vyloučený

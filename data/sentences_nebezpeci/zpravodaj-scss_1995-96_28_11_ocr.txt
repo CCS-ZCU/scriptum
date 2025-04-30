@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c7ffa5c2882776ba7ff0288a140da313693899790478ef9f168d88a12bdbeb9
-size 42
+večerní směna nebezpečí informovaný

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7fc112b348b9cef2cdcda14286a17ce50a4a5ab05bbf612eb5e63d161bcd1e2
-size 47
+" na ředitelství národní bezpečnosti/odd.

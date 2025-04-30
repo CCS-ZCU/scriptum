@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7089afa79f58cf906fc331d6439580071c6ca2e632e486252eb8b4972c48764a
-size 207
+ Plánom do budúcna je vytvoriť plne automatizovaný elektronický archiv, ktorý by umožnil pracovníkom ÚPN a bádateľom rýchly prístup k jednotlivým dokumentom po bývalej štátnej bezpečnosti.

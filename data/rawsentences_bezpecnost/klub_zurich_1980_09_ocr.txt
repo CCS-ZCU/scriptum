@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0defc902d73593a7c04513ccec91bae3684e4a10a78c6fa1013d3dd803926d92
-size 130
+ shromáždění/a často i Rady bezpečnosti/,jsou tak nesmyslná, že se dají vysvětlit jen krátkodobým pomatením smyslů.

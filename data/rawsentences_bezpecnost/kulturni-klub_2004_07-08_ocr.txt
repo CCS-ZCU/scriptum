@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5bd7aac8fca9711c07e8c975a4398424acf5077e54e77fa811405593d7e93e0b
-size 246
+ Pan Zachariáš, poučovala nás Jitka podle připraveného výkladu o zámku, se snažil o tři věci: o bezpečnost města, hospodářský výnos a krásný vzhled.
+ Ztracená bitva znamenala konec klidu a bezpečnosti Českého království.

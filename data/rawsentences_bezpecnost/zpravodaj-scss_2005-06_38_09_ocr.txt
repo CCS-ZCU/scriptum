@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01db772629b79a2d789b6fcc85979241614f85426059053db898d8d41f6fda32
-size 270
+ Tábor Vojna, postavený již v roce 1947 jako zajatecký tábor, se však již v roce 1949 proměňuje v Tábor nucených prací pro muže, o jejichž likvidaci rozhodovala Státní bezpečnost prostřednictvím akčních trojek při Okresních národních výborech.

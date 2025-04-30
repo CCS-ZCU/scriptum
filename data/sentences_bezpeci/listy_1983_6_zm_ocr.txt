@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f5b3061be673ca87a6433de37501ad00dda84208c4016d1bb994e01c7da0b7a
-size 61
+
+houfa jistota bezpečí jed notný skandování zranitetnout

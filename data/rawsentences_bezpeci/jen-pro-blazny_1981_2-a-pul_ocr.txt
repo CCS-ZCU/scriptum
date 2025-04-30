@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0264663fd6b7edac6edc25646a641d95021206179bbc70e08592abb3e134dfab
-size 28
+síly a bezpečí pro lidi.

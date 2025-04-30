@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b289a4a2fe007dc17545d8f717d3215148d67328b5b5c5380712f6148f177f56
-size 179
+ Švýcarské, bankovnictví a pojištovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+ Byl útočištěm exulantů, ostrůvkem bezpečí v oceánu neznáma.

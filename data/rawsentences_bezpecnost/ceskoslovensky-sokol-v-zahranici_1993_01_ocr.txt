@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43e82887da7e600b986573c68e4b4d251b65416ac01ed877d2cb66757036e353
-size 127
+ Len jednota nám zaistí bezpečnost a možnost slobodného, kultúrneho, sociálneho, hospodárskeho a politického vývoja.

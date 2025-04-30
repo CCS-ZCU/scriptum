@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e99f671f4ab60ac4c09f32f320bbb78ebeb545b9b7e70d7ff0274b9e5debb953
-size 303
+ Paní Černá se nám nakonec svěřila se svými obavami o bezpečnost svého muže.
+ Vedle řady bytových seminářů a přednášek nám při své první návštěvě poskytl interview, jehož záznam se částečně nedopatřením a částečně v souvislosti se zásahem Bezpečnosti nezachoval.

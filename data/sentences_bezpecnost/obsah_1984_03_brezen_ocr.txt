@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86f1ac46a1f510f4226c5f8a0727686517ff9c3e9a1ec82f84b04312d2ec7a68
-size 114
+udomácnit iada táto vrstva pomalý vise pluralizmus pravda nie hlava nehlava muset strachovat svůj bezpečnost

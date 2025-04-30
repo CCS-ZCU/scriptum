@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1827bf846a66fd7672c55183310452dae8cb9909255b131591c7ceaa7ce0a011
-size 294
+ Vychází v dopise ze Závěrečného aktu Konference o bezpečnosti a spolupráci v Helsinkách a z jiných mezinárodních úmluv a dovo- zuťe na základě těchto dokumentů podepsaných i Československem, že žádný důvod neospravedlňuje použití síly a tedy ani vojenský zásah.

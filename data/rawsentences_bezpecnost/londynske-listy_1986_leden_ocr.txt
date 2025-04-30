@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b817c2f3b809eef3ef4717d4b2db8677bda4e59cb1227535bdc031d31cc542c9
-size 568
+ Vědomy si svého místa v srdci Evropy a svého podílu na zodpovědnosti za mír, bezpečnost a blaho osvobozené střední Evropy, českosloven^- ská a polská vláda v Londýně se rozhodly připravit plán na konfederaci svých dvou sousedících států, který měl být uveden ve skutek po válce, a jehož konečným cílem bylo vybudování všeobecné, přátelské a mírumilovné unie středoevropských států.
+ Vstupujeme do tohoto závazku v přesvědčení, že takové společenství zajistí svobodu, bezpečnost a blaho všech našich národů.

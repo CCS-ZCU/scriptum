@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d781510540635b3e22676c0474a5c00f24a98522388a72258c578d63dc5398f
-size 68
+ Byť tento domov neskýtal bezpečí jaké si od domova slibujeme.

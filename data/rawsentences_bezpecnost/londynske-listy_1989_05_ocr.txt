@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46dfa7ddc9ea0c80ff013f0dcf597bc44a493adf23c03cf597928510e7d5b090
-size 456
+ Teprve Charta 77, vycházející ve své činnosti z obou Mezinárodních paktů o lidských právech, které se staly po jejich ratifikaci naším státem v roce 1976 nedílnou součásti našeho právního řádu, a ze Závěrečného aktu Konference o bezpečnosti a spolupráci v Helsinkách v roce 1975, usilovala o účast našich občanů, formou nenásilného dialogu se státními orgány, na obhajobě lidských práv a svobod v našem státě.

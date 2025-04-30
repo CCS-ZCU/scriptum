@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b92fcdff531489eff6feb26ddeed4f292da1a6098944d0db450993bb2d07b37
-size 63
+obdivovat schopný obětovat osobní bezpečí přesvědčení

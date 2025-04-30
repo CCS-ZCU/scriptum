@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44962514ef988c6e09a84812332da56cdcfe277fefa1422ef4942fa3f5237506
-size 50
+velký nebezpečí jmenovat zoufalství resignace

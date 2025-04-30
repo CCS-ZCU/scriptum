@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13bc69e1e7c6a44afe3678b91ae1a6e3d899152801d41d3f1bb1eb5db95efb63
-size 89
+ Somálci chtěli odklidit do bezpečí vozidla a letadla v blízkosti stroje Lufthansy.

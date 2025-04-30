@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54d512f2627914301997925edc54f5c0169ef90c245bab929e17013568824a3e
-size 474
+  Sovětský svaz ve Spojených národech V roce 1961 Chruščov prohlásil v Moskvě: “I kdyby všechny národy světa přijaly ve Spojených národech rozhodnuti, které se neshoduje se zájmy Sovětského svazu a ohrožuje jeho bezpečnost, Sovětský svaz takové rozhodnutí nepřijme a bude svá práva hájit třebas i vojenskou mocí .
+ Za třetí, v zájmu své bezpečnosti musí komunismus odstranit všechny neovládané zdroje myšlení, i za jeho hranicemi.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3250a226ec4386c61b17932312b6e95a0ad07eebde522e4f5e8d3408a1ad749d
-size 60
+lira nebezpečí
+Trockij nebezpečí podniknout bezpečnost

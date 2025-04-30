@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f381d047d4fff7490448b2eb7af2c40591a28f0490413bbc42caeb0bb0b47b26
-size 36
+den republika smrtelný nebezpečí

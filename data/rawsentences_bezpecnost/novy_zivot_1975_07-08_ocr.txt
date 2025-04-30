@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e65508c898ed945c383314c4dd7a2753918e4417e28c688cf9f4a734bc62043
-size 205
+ Tímto opatřením se sleduje především zajištění bezpečnosti dopravy, neboť v některých stanicích metra jsou jen pohyblivá schodiště a psí tlapka může zapříčinit poruchu zařízení.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b31891a9a679cf5e7050a25d932f2801d4653f502df59d44703270f284ca4bdf
-size 122
+ Využívajú ich ustanovení len pokiaľ sú im užitočné vo veciach bezpečnosti, hospodárskej pomoci a technologie.

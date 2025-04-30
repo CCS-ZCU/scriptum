@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51e7e0912dd7389a8e1e5a2249b838c339203dbc036f01835b3c3c1fe954f5d2
-size 42
+domácí nebezpečí zdát chvíle velký

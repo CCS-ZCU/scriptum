@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13bff5bb791646ac7854baac79cb48a42efe2e9de56109e94794c8e28d26d92f
-size 136
+ Záchranné mužstvo ihned jalo se pracovati, ale dosud se pohřešuje 50 horníků i zavládají vážné obavy o jejich bezpečnost.

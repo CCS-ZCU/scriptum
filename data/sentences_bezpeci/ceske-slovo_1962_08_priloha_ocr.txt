@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fdf128bd715518711cae498090b76de9aca3245ff7f11bc2c5994295d9e84b98
-size 66
+záře oslnit drobný knůtek chtít chvíle dívat zavřený oko

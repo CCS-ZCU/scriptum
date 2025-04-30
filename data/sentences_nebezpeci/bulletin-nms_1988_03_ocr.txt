@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5060947fdd5ea5af014af0fa6f7a420cc41371e8c0861169cff1e284030606c
-size 81
+exist valo nebezpečí afgánský konflikt opakovet
+

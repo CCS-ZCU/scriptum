@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b65e4a69af70a60eb0847220159fb2d08a3c001907dcc07da862d9f3ef8aa18
-size 79
+text Král psaný spontánní způsob nebezpečí prodlení Král text škrtat

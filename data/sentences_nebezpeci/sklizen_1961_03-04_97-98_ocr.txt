@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3352a67c2e36b236d489c6639682e17fb1f71d1f22d7b0b1df3c63ef9a52530
-size 82
+podoba nebezpečí němčina hrát čeština podoba sloveso předpo benützen

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:427035aca620d23b14d2084948cae8e515bb896e9da1359e45e368551fec90e0
-size 36
+ Západní Evropa byla v bezpečí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba46f058d2e410313838f5da638dcaedbc351f7403642e9a82463743b7f1f842
-size 96
+ Juraj Kalina vysvetlí možnosti sprístupnenia dokumentov po bývalej Štátnej bezpečnosti.

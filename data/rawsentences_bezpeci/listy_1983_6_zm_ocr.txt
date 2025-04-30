@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1358bc6daa7459c71c7f00f437fffab1e73d046aeb1a59bff077716e50067717
-size 134
+ (22ž) - Asi nejvíce mi tady chybí pocit bezpečí.
+ V houfu je jistota, bezpečí, za jed- notného skandování jsme nezranitelni.

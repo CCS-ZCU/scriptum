@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:965a87993d11853aa0e80bfd444265c436c942d5812efdb5a737bb47b610a041
-size 270
+ Na okamžik to byl obraz vzpomínky, staré plátno, kde proud světla naplňuje tváře důvěrností a bezpečím, kde gesta postav a tvary předmětů jsou věčné a pravdivé, a kde v každém nově objeveném znaku nalézáme důkaz jednoty a celistvosti světa.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd9fc378361c0cd5c732a1c38822c263ff2d20a343ba8c2c64a37c4f7b0ea9bb
-size 64
+znát vynášet kuklo slunce sebemenší nebezpečí dopravovat

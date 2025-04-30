@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7af9c3fcb43e2a8f2eebbb5cae97e0d3a85b3b9133ff094220933a5047c62427
-size 70
+duben jiný pravit považovat bezpečnost Kanada svoboda samozřejmý

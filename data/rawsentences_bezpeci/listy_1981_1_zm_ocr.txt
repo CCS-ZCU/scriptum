@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12e3a1a7ce99f79fee0eb411af9d12f429a0998e6e2e82963dd3ffea8495830f
-size 478
+ Neu- stálé připomínky, vinoucí se celým textem, že toto vše se děje Západu na očích, a přesto to západni mysl nezaznamenává a nerozumí tomu; nezapome- nutelná scéna se dvěma Švýcarskými prosťáčky popíjejícími pivo ve svém západním bezpečí, cha- rakterizujícím jejich život od kolébky do hrobu, zatímco Razumovova tragédie se odehrává jim na doslech - tyhle postřehy a pozorování, bohužel, neztratily dodnes nic ze své platnosti a ceny.

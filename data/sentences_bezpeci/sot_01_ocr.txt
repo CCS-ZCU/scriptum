@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43299e79773f47c4bf04ad5c3609ecc5ee902fe24278ef178533562c595d48d1
-size 41
+Jausserand bezpečí mikroklimat značka

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a6d7a09447b746d23df5b92d990007aa47c34d84b702d16895b099067515865
-size 340
+ KARLOVSKÝ V posledním čísle Magazínu čteme hned dva příspěvky bývalého agenta československé státní bezpečnosti - Josefa Frolíka.
+ S jejím představitelem, bývalým ministrem zahraničí Jiřím Hájkem, byl natočen rozhovor na vyšehradském Slavíně, mimo doslech jeho věčných nohsledů ze státní bezpečnosti.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bc76e237d932daa20d99838d1e8e16ccb6a11f5f641110a22d20c305eeef353
-size 74
+státní bezpečnost prokurátor konfident stálý styk vsak dostatečný

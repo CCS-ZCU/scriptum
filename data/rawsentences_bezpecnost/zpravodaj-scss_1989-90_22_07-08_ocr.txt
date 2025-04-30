@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7470bf18714a3e85624143627f3a3c877e7735ebaa6d2d561b78b1a0feb7e3b2
-size 70
+ Je pravda, že Bezpečnost, ta veřejná i ta utajená, neselhala; .

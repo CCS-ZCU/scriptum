@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a270e5978d1557d73c2db33aff92639b090a61994691e31b876bb1203a2b16b
-size 404
+ V iden- titě smyslu a účelu člověk nalézá bezpečí, čas tu plyne vstříc velkým a zajímavým cílům nebo alespoň zábavným cílům.
+ Když se neočekávaně vynoří rozdíl mezi cílem a smyslem, je to pro nás drásající zkušenost: porozumění tomu, že smysl je něco jiného než lidské cíle, že leží za vším, co může být cílem, nás vyhání z bezpečí všední- ho dne.

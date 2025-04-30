@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:749f5a131011a51848b393fbea7e05401164310563bf5a281b232742220a3ffb
-size 50
+demokratický svobodný svět mívat pravda řít

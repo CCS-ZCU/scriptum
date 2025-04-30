@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b4450970d7e9b0cd8ea5ed2daae02018c3ee425add0386231aba2ecee07ab50
-size 10
+tělocvik

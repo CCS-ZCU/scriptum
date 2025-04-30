@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7cd372ef9ef3f8af8eada3497ede37735b282ed7f200f2762f8afb082846b6fa
-size 72
+nudný meteorologický ast ronomický zpráva střídat hudební vložka

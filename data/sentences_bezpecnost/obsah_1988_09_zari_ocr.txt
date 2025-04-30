@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70e9f8753a3d301823b8cadc9cb000e48004ddda6f3ecf38f4de52088bfcbaff
-size 25
+lidé hrozný postavení

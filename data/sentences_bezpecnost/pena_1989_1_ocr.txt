@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:180841d88617ee1504fc89f80c60e489ddd81eed026892ff9cf5ecc5431c5262
-size 49
+výhled litr podnik rok společnost litr armáda

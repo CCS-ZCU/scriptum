@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:061a2823a10a639309ba617eded8072af6a4675b873b17c1db2d65fcd1ccbd9f
-size 55
+analytik současnost podobný nebezpečí zatim hrozit

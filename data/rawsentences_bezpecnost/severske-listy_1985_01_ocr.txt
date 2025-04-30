@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b89fea74ee5d53bf70e84811af3502532c1dc05266fd35ec0effe66a8aec36a
-size 388
+ ----- Průzkum veřejného mínění v Norsku ukázal, že více než dvě třetiny občanů jsou přesvědčeny, že účast v NATO je nejlepší zárukou norské bezpečnosti.
+ ------ Americká "Komise pro bezpečnost a spolupráci v Evropě" označila ve své půlroční zprávě československý režim za ten, který používá nejvíce represí ze všech zemí východní Evropy.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:457ab98ee341615ea5d05e1257dfe790b3b1d530414301689acf968f513f8129
-size 67
+ Pečlivá práce - diamant je v bezpečí! Loupež je vyloučena.

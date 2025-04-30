@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1eb647d5141c253be12328b8b3675ebf08d356c931d6659fd03888dab4bd3e8
-size 89
+ Proto ani naše armáda, Bezpečnost a Lidové milice nedostaly rozkaz k obraně země.

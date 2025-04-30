@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a21971d901dfa2a240e5e90d612a5827f8ba392458eb33842e72637f5bd65e0
-size 2863
+ Bezpečnost zasáhla pokaždé.
+ Třetího shromáždění ae vzhledem k začátku prázdnin účastnilo jen asi 200 lidí a stejně jako při předchozích na něm byl nesen transparent "Nechte stromy žiti", a stejhě jako při předchozích jej bezpečnost sebrala i a jeho nositelkou.
+ Tendence některých států vydávat licenci na stejný typ reaktoru různým výrobcům či kon- sorciím/Belgie 4 výrobci PVR, Velká Británie 6 výrobců GGR, Francie 3 výrobci PVR, Japonsko 6 výrobců BWR, Korea 3 výrobci PVR, USA 3 výrobci PVR/ Je nutně pochybná vzhledem k technické bezpečnosti, nebot silná konkurence mezi výrobci může vést k zanedbání bezpečnosti v konstrukci JE.
+ Meziministerská ko»ise pro nukleární bezpečnost a bezpečnost státu koordinuje jednotlivé projekty.
+ Výbor se radí s komisemi pro radiační ochranu a nukleární bezpečnost.
+ Hlavní zásada filosofie bezpečnosti reaktorů v Kanadě Je "obrana v hloubce".
+ Hejdůležitější charakteristikou kanadského přístupu Je, že primární zodpovědnost za zajištění bezpečnosti je jednoznačně připsána vlastníku JE.
+ Zemské oddělení konzultuje s různými týmy expertů a na základě jejich posudků posuzuje žádost o stavební povolení, která musí obsahovat správu o bezpečnosti a popis elektrárny.
+redakce: Nyní je v NSR za JE zodpovědný ministr pro životní prostředí a bezpečnost jaderných reaktorů/ řRANCIE - Odpovědnost v povolovací proceduře Je organizována centrálně.
+ NDR - Radou ministrů je ustaveno centrální atátni odděleni ^>ro bezpečnost a problémy ochrany aouvisející s využíváním ionizačního záření a jaderné energie:/Statlichea Amt fůr Atomsicherheit und Strahlenschutz/ SAAS.
+ Tyto JE nepotřebují licenci od Exekutivy zdraví a bezpečnosti, ale musí odpovídat bezpečnostním standartům platným pro licencované JE.
+ Je však třeba ět, že nevyhraněnost schvalovacích standartů vede k vzrůstajícímu počtu modifikací JE, ale ne k jejich bezpečnosti.
+ Inspektorát je pověřen schvalováním, inspekcí a jednáním v otázkách bezpečnosti JE.
+ Vydáni stavebního povol nl musí předcházet veřejné slyšeni týkající se otázek bezpečnosti provozu JI.
+ Závěrečná zpráva o bezpečnosti JE musí být předložena spolu s žádosti o provozní povoleni.
+ USA - Federální agentura pro řízení bezpečnosti - FEÍÍA /Federal Emergency Management Agency/ je odpovědna za veškeré havarijní plány vně JE.
+ Je předpoklad, že tyto bloky "nové generace" budou mít vyšší jadernou bezpečnost, delší životnost, lepší než současné tech- nicko-ekonoalcké parametry a modernizovaný palivový cyklus.
+ Není zmíněna otázka bezpečnosti přepravy skládkových materiálů obcemij komunikace jsou úzké, pouze místního významu.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f239296f1424070626cc4fe1ecdaf9ae922fab0f53e975b599817a9c04e0ea1
-size 84
+vědomý bezpečí hrozit budele zmíněný připad vyšetřený pachatel dopadený

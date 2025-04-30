@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc6092c45d4517155b9744bc95f03267cb52ab8ea2a696847e2ee47e2ff10b6a
-size 273
+ --- V poslední době švédské sdělovací prostředky přinesly řadu zpráv ze kterých vyplynulo, že při rychle rostoucí datorizaci se dosud zapomínalo na bezpečnost.
+ září v Radě bezpečnosti rezoluci, která odsoudila sestřelení jihokorejského letadla.

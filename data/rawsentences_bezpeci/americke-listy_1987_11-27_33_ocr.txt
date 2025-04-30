@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3903a883f601b967e08edc1392ac25d7e6de29ae25b31352e69d0baa4470f50c
-size 47
+ Naše zbraně zůstaly v "bezpečí" na lodi.

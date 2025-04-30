@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8961395ad912ae7d527ab07e1d6e1386a6774ff0038a69c8874c9a793d51288
-size 105
+první březnový týden místo Čechy metr sníh hlavní oblast Krkonoše uzavřený nebezpečí lavina

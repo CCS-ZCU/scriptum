@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a48f92a0cc2e0babae447e588194e7c6b0eb6d5fa305a835dc9c4425c1b83dd8
-size 118
+ Minulý pátek byl však pozván na okrsek veřejné bezpečnosti, kde mu bylo sděleno, ze do Maďarska jet nesmí.

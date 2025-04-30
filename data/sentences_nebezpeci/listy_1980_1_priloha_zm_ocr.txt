@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40cea3f5f3f5e2452b3e01accd5ae0d75ab3d3ddce721646325cf21d1ac5f151
-size 26
+Odtucl nebezpečí hrozit

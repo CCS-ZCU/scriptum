@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51f3b4752b3f1cd035f3eeaf80591817fede6e016048bb1a584e11f2aeebecc4
-size 25
+jmout nebezpečí velký

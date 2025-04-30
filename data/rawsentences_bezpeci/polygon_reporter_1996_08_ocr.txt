@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f2c74a1c01ee77e443dcb45b6027ce4fd79b5d0846c22204eb5390eb056c386
-size 210
+ Právě toto - spolu s otázkou bezpečí občanů - představuje základní cíle našeho programu.
+ ♦ Platíte vysoké daně? Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.

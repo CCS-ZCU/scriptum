@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13030384d01a54d4d11f4700ce5bec92c26895ae2f31eb2cd401c60934cbc32a
-size 112
+sdělovat cesta Hrádeček cestovat veřejný dopravní prostředek legitimovat dopravní veřejný bezpečnost

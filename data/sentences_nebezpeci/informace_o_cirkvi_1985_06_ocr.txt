@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5858fdfd69ff9df84f2b72bdda41ea2e23a19e79d3ec2c78cfa5f845dcf6f21c
-size 52
+svět uma hrozit nebezpečí stát svět láska

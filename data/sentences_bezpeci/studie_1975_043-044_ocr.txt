@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:662ebacfd331375bd805d3518de451d368a88481a196f05f8b9f6ecc22a43d4e
-size 28
+bezpečí nedělní poledne

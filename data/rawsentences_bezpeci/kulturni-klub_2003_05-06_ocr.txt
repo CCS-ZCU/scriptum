@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aba77669c995e99e84f9f99101aaf9973d78edf8849946b5cc89ef64b46f6447
-size 79
+ Celek dělal dojem naprostého bezpečí a neznalosti nějakého provinění.

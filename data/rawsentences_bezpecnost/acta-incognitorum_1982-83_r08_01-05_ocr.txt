@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d0b3191a7ddf447913ebce5177526c23edd41e2b72cfdb799b94d4e945a25b1
-size 95
+ /Jinak by nemohl zajistit ani vnitřní ani zahraniční bezpečnost nově vzniklého státu.

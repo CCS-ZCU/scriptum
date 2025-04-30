@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:212f4e4a6d20dd4f233b8ea5b5e76a726bbdc7282d90fcae963309163bc705da
-size 44
+nutný mít představivost kniha porozumět

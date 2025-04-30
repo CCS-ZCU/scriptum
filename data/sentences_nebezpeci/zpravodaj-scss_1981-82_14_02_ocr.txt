@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a471d5ef7a1a18beec3fe97d3e61f8d4eefcf68e89a997c21482db46380b1d4
-size 146
+práce úkol umožnit definovat vztah moc samý národní tradice
+původní otázka znít hrozit jiný nebezpečí sesun půda lupičský přepad

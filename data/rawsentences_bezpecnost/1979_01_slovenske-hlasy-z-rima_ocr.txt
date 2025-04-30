@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e14ee89d4ddff6da7e95c1f6de25f7e3ca393e3d42fb1c24ea1ad3b6bcd9c1e
-size 93
+ Aby sme nimi vedeli sprostredkovať pocit istoty, bezpečnosti, vzbudiť dôveru a radosť.

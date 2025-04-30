@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4698549b08760b6f521aeb9defca748182799e921be4541115070ec35e951951
-size 47
+veřejný bezpečnost snažit pachatel polapit

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b8760f6997b55226e39b4298792e4c5a4874665f612d457199e3ac6d681e265
-size 32
+ochrana opustit bezpečí domov

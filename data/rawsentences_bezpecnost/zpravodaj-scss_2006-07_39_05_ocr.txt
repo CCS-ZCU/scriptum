@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a5770107b102b5d8f20fdcf89d2e2f5ebfb5e5dec895d5d76975db601e7830d
-size 230
+ Kdo a kdy z technicky fundovaných odborníků obzvláště těm mladším vysvětlí, co se tam skutečně stalo a jaký je současný stav znalostí o bezpečnosti nukleární techniky ve Švýcarsku a okolí, odkud budou tzv.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59a48faaf4d97c904329a21893945c76f735449daf30bb0581b294721ee896e9
-size 45
+duch hledat výzva nebezpečí park lákaný

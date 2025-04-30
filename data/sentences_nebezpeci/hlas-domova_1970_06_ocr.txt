@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62e9303bcd18cf31df2b481178675d70a14ba369bba85f9a990a66921a4d0e53
-size 61
+naslouchat sovětský hrozba znát hloubka nebezpečí SWISS

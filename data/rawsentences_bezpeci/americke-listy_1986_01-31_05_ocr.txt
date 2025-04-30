@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1706bccfcf2c014e9a69d3311bed5cc4f8129cee988439ad47d73b6d29f202a4
-size 221
+ Když v bezpečí bavorských Alp vzpomínal na pikantérie svého někdejšího povolání, patřila k nim i vzpomínaná rozmluva s majorem Státní bezpečnosti, který se zajímal o režiséra Evžena Sokolovského.

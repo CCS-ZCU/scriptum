@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:531ef505a4e3f1e5197e1eccada2bc887df0d61009b3e056435ed7e92f974fb3
-size 27
+zamhit tátní bezpečnost

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b88d9e1149830e3778d4cda6466f2b0d972a379f63f3be25b86a32428012e81b
-size 83
+člověk chtít věřit společnost krotký neškodný zajímat tajný bezpečnost

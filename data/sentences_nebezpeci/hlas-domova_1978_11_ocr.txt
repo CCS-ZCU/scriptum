@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee88fdd18d40fd045931e7f961aaee9a679c0ff7334f1042a523dc0c96696126
-size 30
+člověk vážný nebezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09d60a7b9cf3b6ab803cf8359821bb6c99ab8c27f0bba29d2e6fb468a4ed3422
-size 191
+ Něco nám však napoví slova jednoho z otců zakladatelů Spojených států: Občan, který je ochoten vyměnit kus své svobody za větší bezpečnost, nezasluhuje si jedno ani druhé.

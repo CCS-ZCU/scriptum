@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54e61119b1039d9be8400ad4fa0430dd229ab5584ea37b15e9043291a0e1a8ac
-size 48
+vidět nebezpečí starý špatný čas vrátit

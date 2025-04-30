@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fa23b73b6669886e4ea70d5c505c9b5f8addb321dbc05fc722de2e45d7ac246
-size 116
+ Systém tvoří dvě malé nosné rakety, které mají v případě nehody dostat kabinu s posádkou do bezpečí.

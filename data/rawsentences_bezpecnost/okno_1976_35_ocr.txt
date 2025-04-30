@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1adca7a5040f2e3ba92037073e207887f4448373d4f14df2fc517495633809ac
-size 78
+Státní bezpečnosti, kam nebylo lze pohlédnout a odkud nebylo nic slyšet.

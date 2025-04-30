@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1de0d73bfee51ca73e0ec3cf9047fb690b638c11b3b05d4c6f8e6a3cef7c434
-size 56
+Čína mít právo bezpečnost prostředek zajištěný

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd1cca5433ba5c6295010a66a37ec0ccf58c1ebb330fbf2dd44a5c7ae16ff725
-size 230
+ Britský delegát v komisi Jíro lidská práva Vincent Evans se ptal zda musí Sovětský svaz skutečně vynášet tak přísné treaty nad zastánci lidských práv, aby mohl zajistit bezpečnost v zemi a veřejný pořádek.

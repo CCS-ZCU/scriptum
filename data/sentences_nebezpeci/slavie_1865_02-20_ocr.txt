@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ee695f3d358b74b7d77ab16dbccb2fe31d38b0516a5d1ff72551f8bdc255551
-size 41
+zajatý muk véztnout nebezpečí život

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39aaeaa4d77862c37369862845d0afbf47e282890dfd3255a9450e0080c8815c
-size 197
+ Ti, kteří chtějí řešit palčivé problémy dneška, hledí zpět, hledají Hlubinu bezpečnosti — Centrum secu- ritatis, jak se vyjádřil český představitel baroka Jan Amos Komenský.

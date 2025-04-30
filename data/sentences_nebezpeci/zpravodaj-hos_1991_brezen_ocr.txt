@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75bb713a159105257fa914b146ac32f669f19b8573ec5c93367fa37589f6dbc0
-size 47
+reálný nebezpečí příklad mladý generace

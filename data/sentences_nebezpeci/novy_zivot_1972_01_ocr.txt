@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d3119ff6ee6b03b470efd7da40b6f84e288d99a99b03addcdc9b0e05630e031
-size 46
+situace zdráhat odpustit nebezpečí lidský

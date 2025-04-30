@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:404ff1da38d897c3d290e1dc105feda6d947cee1148625dee31b8930e53ab6cd
-size 104
+ Seznamy připravilo podle pokynů úředníků sovětské policie ministerstvo národní bezpečnosti.

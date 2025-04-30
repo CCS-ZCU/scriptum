@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdd243dc1a2b7e9032736e8f78dba0b3f29e70a8f0fb7b5577ef01cff058cc0d
-size 59
+ A když v pohodě, v pocitu bezpečí si člověk myslí.

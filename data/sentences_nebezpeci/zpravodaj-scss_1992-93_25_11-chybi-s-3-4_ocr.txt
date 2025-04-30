@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dab8ca47ee9be1967770671a0817dda91cd2f4ec4948bcabcef208286089aea
-size 95
+administrace zpravodaj
+mít urážet hezký výraz bříza válka užívaný místo puška

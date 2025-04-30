@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6e2feaf1db9f8113ebe6e8388af99229c9d6ac5498728ee9efaa34e3ae0d189
-size 168
+ Podobná učebnice češtiny by se zřejmě hodila Veřejné bezpečnosti, protože heslo "Kdo nekrade, šidí rodinu" není zapomenuto: V roce 1973 vyřídila VB 29.

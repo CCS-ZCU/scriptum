@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:debbc4784def3ba06c1a94bab53394f33b64c8a398234044a7a1d8fc1d3c8555
-size 61
+zjistit většina dokument padělek stát nebezpečí hrozit

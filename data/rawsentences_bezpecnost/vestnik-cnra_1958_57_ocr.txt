@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bcfe38bc619edcc3b4ec7c4aed75bfbf8441f4ef566199b8e442c7b8ead2e50
-size 87
+ Vidíme ako sa s námahou budovaná stavba mieru a medzinárodnej bezpečnosti-rúca.

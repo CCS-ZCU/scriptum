@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7af251b2afa4ca9e0bb6c9c068475e4c074dd86f6f0460514f1d00a64de9fd81
-size 248
+ [Memorandum Svetového Kongresu Slovákov o europskej bezpečnosti, zaslané vládam NATO.
+ [In- tervencia, bezpečnost’, zákonitost': Sovietské záujmy vo východnej Europe ohrozené, 1964-1968.
+ [Ko- existencia proti europskej bezpečnosti.

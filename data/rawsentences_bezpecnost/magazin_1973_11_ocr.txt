@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:859ab99cf7e0f1667b66b5d025a6addb84518414043574af63bfb7a503b58b54
-size 392
+ A ti všichni dohromady se pokusí seznámit vás se zásadami správné jízdy, bezpečnosti i se současným stavem automobilového trhu.
+ Mustang II byl konstruován se zvláštní pozorností na jízdní vlastnosti, odhlučnění, pohyblivost, bezpečnost a spolehlivost.
+ Vnitřní vybavení vozidla doznalo značných změn a přispívá k bezpečnosti a pohodlí řidiče i posádky.

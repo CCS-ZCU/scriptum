@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de1d8bc3458845b6b5e26bdb92099d4198ff95674c5b489b1d6a78712b68ab1d
-size 260
+ Censory, agenty tajné policie a Veřejné bezpečnosti i konfidenty KGB, kterým se tento dopis bezpochyby dostane do rukou, chceme ubezpečit, že je psán v souhlasu s tradicemi vánočních svátků: přejeme zdraví a štěstí všem lidem dobré vůle.

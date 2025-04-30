@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4c1800234463cf009180b981aff43206fdc81f32d56712cbee09eee1f1ecdad
-size 268
+ Vtip je v tom, že si musíme poskytnout vnitřní spokojenost, bezpečnost a důvěru, abychom se, poprvé v životě, mohli přestat trápit sebou samými a otáčet se v bludném kruhu, a mohli tak vykročit kupředu a dosáhnout nějakého tvůrčího výsledku.

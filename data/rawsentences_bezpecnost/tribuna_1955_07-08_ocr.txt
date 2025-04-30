@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cf636dc5cb1089ea8657d5687c48a9df0ff18dacac04af4bb76007a1efb350b
-size 319
+ Původní závazek byl abstraktní a jeho praktický výraz v nekvalifikovaném systému kolektivní bezpečnosti byl utopický.
+ Mezinárodní organisace přestává být ručitelem nekvalifikované kolektivní bezpečnosti a namísto této úlohy jí připadá role nového jazýčku na vahách mezinárodních sil.

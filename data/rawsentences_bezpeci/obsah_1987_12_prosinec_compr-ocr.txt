@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b48e3770e3a5bdf581c6674d7514471a0de19d8797ec69b09a70b25ea53b183
-size 38
+bezpečí před zlem světa, ale hlo.

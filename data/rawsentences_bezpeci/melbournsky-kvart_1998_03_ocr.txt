@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59a99b5923072fa9abfb4684f4358876de9cc3b986ba2700def70474d0fb037f
-size 209
+ Moře je zrádné, loď se houpe, jednou je dole, jednou nahoře, fouká pokaždé odjinud, a tak by bylo nejlepší napnout všechny síly, chytit plachty i vesla a plnou parou spěchat někam do bezpečí.

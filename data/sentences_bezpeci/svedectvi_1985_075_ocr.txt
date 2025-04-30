@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99fae2f3d480b99fdd9d0f4bae317ae0101844ea596261ad73d92e02ea1efdf9
-size 39
+hluboký údolí činit klid bezpečí

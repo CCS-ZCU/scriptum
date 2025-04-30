@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1c186bff5cb30b2df3467ccd9e455454f1204b56df9098e00021dd411f1067e
-size 176
+ - Největším "hříchem" Eisenhowerovy vlády, hříchem, který ohrozil bezpečnost celého, světa, byl však nedostatek předvídavosti v otázce "dostihů" do vesmíru.

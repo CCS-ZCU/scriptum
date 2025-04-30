@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5489eb8c7595185dc80fef8272fe9a06e51660953b69bee2650d481b15c991fb
-size 361
+ Jsou to : právo na život, na svobodu a osobní bezpečnost, na volnost projevu, shromažďování a náboženského vyznání, na slyšení před úřady a soudy, na uzavírání sňatku a zakládání rodiny, jakož i zákaz mučení, nelidského zacházení, otroctví a nucené pracovní povinnosti.
+ Zvláštní palácová stráž pečuje o bezpečnost.

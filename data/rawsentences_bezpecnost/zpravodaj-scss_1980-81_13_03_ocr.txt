@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e9f058849a4f530c02a21cb6261bc74a32a10a0fde4a6f72eb4e8f809445f17
-size 470
+ Toto potlačováni dosáhlo zatim vrcholu rozsáhlou akci Štátni Bezpečnosti, jež se stala bezprostředním podnětem k tomuto dopisu.
+ Tři měsíce po sovětském útoku na Afghánistán se s vážnou tváří klade obvyklá otázka: je tento vpád aktem holé agrese, nebo jenom přirozeným důsledkem legitimních sovětských obav o bezpečnost vlastního území? Výsledek debaty se dá předvídat.
+ To všechno z legitimních obav o vlastní bezpečnost.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a56194bca627e81a2b9b17e42abdb70bb92866e88a9acfcb397b4a1294b30ef4
-size 90
+budovatel společnost omyl zásadní otázka člověk nebezpečí lidé jednat riskantní

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbbe62e46eb64e27a8da527ca0abedd650de1001bb74a2f9f86b06f40dee98f5
-size 122
+redaktor zpráv hovořit Karel Husa český skladatel dlouhý pobyt cizina hrozit nebezpečí muzika ztratit český nota

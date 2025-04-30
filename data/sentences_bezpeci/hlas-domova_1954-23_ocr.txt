@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:227ff1235236cdf5aed53e70b1796c391860cbb6951139d9fadd47565986a054
-size 80
+rok míra pochybný přinést západní občan silný pocit falešný bezpečí

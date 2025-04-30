@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d03a855cc2f7a8103522fdc081f4417945e9cc9f3cdd7b169ccd20aef224a13e
-size 70
+opačný případ nebezpečí osvojit filozofie prežitium kolaborace

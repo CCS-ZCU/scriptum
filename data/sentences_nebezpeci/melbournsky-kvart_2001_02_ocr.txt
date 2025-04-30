@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:328dfd30220d97abce8217b66fe34b6930eb025c6601a2809287008fb7b89326
-size 65
+napadnout moci nebezpečí
+vědět nebezpečí příboj podcenit

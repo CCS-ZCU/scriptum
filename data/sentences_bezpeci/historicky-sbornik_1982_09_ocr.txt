@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84e3b880aaac2dabad35063dc762fc3deb042bde748e1583fccfa3ebcdbcdefe
-size 50
+kniha publicistický žánr zajímavý podnětný

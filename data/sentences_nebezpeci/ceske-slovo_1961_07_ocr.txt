@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6717619370275d6e55171f95907c00654e63126d7e184221be47717484e5c1df
-size 116
+sloj hrubý nedbalost odborový předák horník upozornit hrozící nebezpečí ohrožený desítka lidský život

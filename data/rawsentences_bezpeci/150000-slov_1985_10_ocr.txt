@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95cedb5c16ebb5ac9c3948d9cc3a731493d7a50fc25d95477909ed017f098cf8
-size 1055
+ Neklid, hledáni, ztráta bezpečí, riziko, samozřejmě i v uměni.
+ Vy i my můžeme být v bezpečí jen tehdy, budeme-li se cítit bezpečni.
+“ Střední Evropa měla být, podle Palackého, rodinou rovnoprávných národů, z nichž každý by měl v úctě ostatní, sám žil v bezpečí, chráněn silným jednotným státem, a přitom rozvíjel svou vlastní osobitost.
+ Člověk má někdy dojem, že Francouzi po své vládě nežádají reformu, společenskou změnu ani společenské projekty, ale fyzickou ochranu a bezpečí.

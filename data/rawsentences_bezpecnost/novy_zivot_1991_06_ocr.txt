@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2df20a41edba05e398a8259553728633681d58f0a779c2ec5c8815d5f02d72f
-size 259
+ dubna se konala v Praze mezinárodní konfe- rence o bezpečnosti v Evropě v souvislosti s rozpuštěním Varšav- ského paktu, který k 1.
+ V zahajovacím proslovu prezident Havel řekl, že si nelze představit budoucnost bezpečnosti v Evropě bez Sov.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:123dfbf368b807ea824905a9f53b4db27bd77884dc233cf1fe6ca37d5be1a908
-size 53
+bezpečí zahrada rozklepat zima
+lid míra bezpečí

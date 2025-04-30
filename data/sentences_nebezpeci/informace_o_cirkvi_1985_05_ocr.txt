@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41ee5aca4ea3a7d2869aedf5b69b9cff60261b1616beff3613ab382b1e5aa1cd
-size 71
+výslach sdělený činnost vystavovat nebezpečí trestní stíhání

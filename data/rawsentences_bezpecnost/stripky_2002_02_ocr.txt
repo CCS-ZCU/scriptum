@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01a532221852bb3ea3e464315b754008d13c01805824c119bb122e6a7216cac9
-size 632
+ V ní se Státní bezpečnost (StB) snažila nátlakem donutit některé chartisty k vystěhování z Československa.
+ Soudkyně předčítala ze svazků StB, které podrobně popisují způsob, jak se tajná bezpečnost snažila přimět k vystěhování například manžele Tominovy.
+ Byl členem KSČ a ocitl se na Cibulkově seznamu spolupracovníků Státní bezpečnosti (tvrdí však, že s StB nikdy nespolupracoval).
+ Potvrdí-li se jeho výhody i bezpečnost uložení dat, rozšíří se projekt na všechny klienty Všeobecné zdravotní pojišťovny v celé republice, řekl šéf realizačního týmu Pavel Hronek.

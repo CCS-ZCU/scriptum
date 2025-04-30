@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af80edbaa9e485ecb3d48e64c1bab25f8e8c8789ac5b5b696111b1fc812274b0
-size 455
+ Henrymu Kisingerovi, poradci presidenta Nixona v otázkách národní bezpečnosti.
+ Současně demokratičtí Češi a Slováci i Podkarpatští Rusmi, krajané i exulanti, důtklivě apelují na vlády a veřejné mínění zemí svobodného světa, aby nezklamaly oprávněné naděje československého lidu a aby, pamatujíce i na svou vlastní bezpečnost, trvaly na okamžitém odvolání okupačního vojska z území Československé republiky.

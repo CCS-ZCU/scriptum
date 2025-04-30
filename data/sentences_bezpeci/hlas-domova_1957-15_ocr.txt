@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12d125c8209a2ad119e78232b86d57b347dec5b5f3707e65bcab3d175be0ad54
-size 33
+tuna dostat skutečný bezpečí

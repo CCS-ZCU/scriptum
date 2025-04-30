@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63dedfc720179590fac87d93be3da7bf2de1b5fb60c05a1b3c5bbd414b0d687a
-size 67
+lidé poznat ustavený řád bezpečí zhroucení vyhlídka líbit

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbe173135ddf8a2da7582098c6eb77e8d40a506bc0f701b3d293983e0d4e768f
-size 52
+rozhodnutý malířko vlákat raka ský území

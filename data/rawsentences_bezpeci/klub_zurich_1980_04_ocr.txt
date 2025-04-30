@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:950c7453c8a65cd0185aeff5bd87837057b8e80e404baf85828829fa243211b1
-size 35
+Roubaut odnesl do bezpečí Nejsv.

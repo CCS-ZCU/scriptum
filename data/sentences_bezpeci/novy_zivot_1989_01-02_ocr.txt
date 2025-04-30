@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61e6249d4edab2975c4a48cea35d1b65fa4438bdf2eb579fbc596482008861b7
-size 40
+prosinec církev obrana život člověk

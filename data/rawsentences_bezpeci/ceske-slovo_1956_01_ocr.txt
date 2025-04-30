@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e16460cc2967a06de5859d9e54ee640ab2638b5064e882a194f34e2911361425
-size 199
+ Crankshaw v New York Herald Tribune Gangsteři obyčejně řvou, zuří a vyhrožují, když cítí, že je jim zle; jsou však obvykle klidní, veselí a plní ohledu, když se cítí v bezpečí.

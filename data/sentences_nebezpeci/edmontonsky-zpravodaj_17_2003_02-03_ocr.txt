@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e8169c43de420e7f9f567b93f80b5cc8a975801906b9d9e85abe71497a70d78
-size 55
+vysoký nebezpečí lesní požár moci mít táborák

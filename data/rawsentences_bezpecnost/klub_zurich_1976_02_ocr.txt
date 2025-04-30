@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:036fa9a018c2f1a25459049ecdbdff85ae85194d3c2127824fad73c1c7847bc5
-size 233
+ Do příjezdu policie se nesmějí na místě nehody provádět jiné změny než které jsou potřebné k zajištění bezpečnosti cestujících a dalších účastníků silničního provozu a k zdravotnické péči o zraněné.

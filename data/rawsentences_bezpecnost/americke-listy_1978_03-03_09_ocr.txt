@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ecb791e6f120d1d21376518f4ad0a05b0072b7af2d2ed36095c140a3a455421
-size 385
+ Britská tisková kancelář Reuter přináší obsáhlejší informaci o československém hnutí na obranu lidských práv, při čemž cituje mluvčího Charty 77 — který označil zaslání dokumentu Charty přímo bělehradské konferenci o evropské bezpečnosti za nevyhlášený, ale záměrný posun v boji, jenž zastánci občanských svobod vedou s pražským režimem.

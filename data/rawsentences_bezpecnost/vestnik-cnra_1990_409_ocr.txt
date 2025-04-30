@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f1b4db4f75e8f97c47a44f508be6fb8ab48c7010155190996d836cffa629e59
-size 226
+ Bezpečnost není založena pouze na ideálech, ale na ochotě a schopnosti ji bránit nezbytnými vojenskými prostředky.
+ Rada bezpečnosti OSN jednala rychle a účinně, tak, jak si to představovali její zakladatelé.

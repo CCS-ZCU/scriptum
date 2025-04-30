@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92e13faa6928f63dddc8081b23233168f4dd27d77994a59e56630364119e1439
-size 51
+1983 — nová iniciatíva štátnej bezpečnosti.

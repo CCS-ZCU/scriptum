@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30a9ce3e3a4860fa5efad49d0968322b5bc9236940ccd3ee5fcdf07524d7a058
-size 43
+ Městská správa Veřejné bezpečnosti.

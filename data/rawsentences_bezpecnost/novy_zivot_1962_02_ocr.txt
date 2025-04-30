@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3939fed34e5d5d8f00642625d9dfd91e5f00e2c07e79c21834949ac8000d639
-size 828
+ Ať využijí všech prostředků, které jim dnešní pokrok dává k dispozici, a hledí pozvednout blahobyt a upevnit bezpečnost ve světě.
+ Byla vám dána velká moc, ne abyste ničili, nýbrž abyste budovali, ne abyste rozdělovali, ale sjednocovali, ne abyste zavinili, že potečou slzy, ale abyste dali lidem práci a bezpečnost.
+ Nemůžeme pomlčet o úzkosti svého srdce nad tím, že vánoce, které se už sklánějí nad světem, najdou zase národy bez pokoje, bez bezpečnosti, bez náboženské svobody, národy plné strachu z přízraku války a hladu.
+ » Spojené národy byly založeny k udržování světového míru a mezinárodní bezpečnosti, a ne k nadržování tomu nebo onomu podvratnému proudu, « prohlásil nedávno britský zahraniční ministr v parlamentní debatě o kolonialismu.

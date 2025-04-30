@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:639ae8bb55e1e16ec6c32d8171020d5529405f0dee82e8d8d787f6c762275cf3
-size 156
+lekat námaha nebezpečí
+tvůrce novot změna hrozit nebezpečí pohlcený rozdrcený výtvor ruka
+otec Jan věnovaný nebezpečí termonukleární válka

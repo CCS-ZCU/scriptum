@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5d55f25b0bddc5944164614f0dd0a40dd27a8998caac1ccdc4bd397d40f0ec8
-size 181
+pochyba Brežněvův úsudek vyplývat nebezpečí mnohý vliv země velký víiv jiný
+pravit následek nebezpečí obskuratismus
+existovat nebezpečí obskuratismus obskuratismus

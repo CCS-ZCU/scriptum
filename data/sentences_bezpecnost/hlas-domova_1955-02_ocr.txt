@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a1bf5cb7d88ed7965645c16c8b4fc9e012461f093fdff56c8cbd85362b98aa8
-size 75
+učitel ředitel škola obávat vlastní bezpečnost pokusit žák trestat

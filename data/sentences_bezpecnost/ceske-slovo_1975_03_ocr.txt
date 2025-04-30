@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a88a6a75f5ce0f40d7af0ac646481f76fd5fdbbd352f7e1181dd3d1eb9a981de
-size 55
+klid pořádek bezpečnost jediný věc smět zajímat

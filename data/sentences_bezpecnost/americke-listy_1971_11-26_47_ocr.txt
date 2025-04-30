@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41b203d85525d328078a58d7c05c3f3a47ab3fd8d70e10e1948bdd6eed65c48e
-size 28
+rovnost bezpečnost chudoba

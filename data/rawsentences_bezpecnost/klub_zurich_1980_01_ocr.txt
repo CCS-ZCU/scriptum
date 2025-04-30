@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36bf40165c5b56f04f9a68c8f98e32fa05faf6ad9019baa503d6c6b6c39da2ad
-size 150
+Pri hovoru potřebujeme teorii BEZPEČNOSTI .
+ Na základe nových pramenu osvětluje autor i případ Babice, vyprovokovaný státní bezpečností.

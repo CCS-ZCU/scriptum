@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d9498ba25a7420b892507693def38aa85341a0957440f44f9668464862865ab
-size 45
+Joshua Eilberg zveřejnit poznámka rozhovor

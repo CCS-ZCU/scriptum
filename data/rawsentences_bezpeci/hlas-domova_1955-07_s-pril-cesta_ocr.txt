@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ed16b60c49a7beb8fa00c8a21f28d6eb34591ee8413874f4a2bd2b9155e6308
-size 105
+,, Siam bude stále ještě v poměrném bezpečí,dokud se nevyřeší krise na Formose.

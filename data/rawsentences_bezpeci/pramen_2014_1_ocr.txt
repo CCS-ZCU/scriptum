@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0952e30f38b0a5d201989b42475713b0c193debe87047f33c8c0225ead5a08f2
-size 182
+ Pak někde v bezpečí v klidu železnou pokladničku rozřezat, peníze vybrat, obálky spálit a železný šrot odevzdat někde do sběrny, za každý kg je momentálně 6,-Kč.

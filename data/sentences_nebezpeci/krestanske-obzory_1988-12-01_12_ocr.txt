@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6666e91d3727da3c312e9410cdc03584e053911262b8eb14cabdd8427c34ec27
-size 143
+upozornit společenský nebezpečí spočívat posuzování údajný trenér
+způsob skýtat mimořád šance bývalý nebezpečí úskalí

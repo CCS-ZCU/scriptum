@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:269a4c4d50138cd25b8199370e9dbc33e93e07cefec5774c85d76bf31b8014c8
-size 125
+ „Dohlédneme, aby byly opravdu pokáceny jen ty stromy, které bezprostředně ohrožují bezpečnost silniční dopravy.

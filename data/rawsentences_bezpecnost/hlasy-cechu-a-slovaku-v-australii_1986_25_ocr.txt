@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5b9cd83e2ea1f65e33aed23db317dc57a6c6d96a294961ce873573487cfd267
-size 1835
+ Posel míru a naděje jezdí světem ve zvláštním automobilu opancéřovaném neprůstřelnými skly, protože tentýž svět, který má míru a naděje dnes a denně plná ústa, mu jiným způsobem nedokáže zaručit alespoň částečnou bezpečnost.
+ Já osobně, přestože jsem nikdy necítil potřebu si v zájmu vlastní bezpečnosti podobné případy evidovat a zajímat se o ně, vím velice dobře o jednom, starém jen několik let, kdy byl na labském nábřeží v Hradci Králové, vlastně jenom pár kroků od středu města, ztlučen sám vedoucí tajemník Východočeského KV KSC v Hradci Králové, soudruh František Tesař.
+ krajanských a exilových organizací zúčastnili mezi nevládními organizacemi zahajovací fáze Konference o bezpečnosti a spolupráci v Evropě /KBSE/, aby u vládních delegací signatářů Závěrečného aktu z Helsink a na veřejnosti prosazovali, aby se Konference zabývala porušováním lidských práv a základních svobod v Československu.
+ Ale lidí se tam každým rokem stejně sjíždělo i scházelo dost, třebaže ti, kteří přijížděli v autech, museli počítat s tím, že je někde poblíž hřbitova zastaví hlídka Veřejné bezpečnosti, dá jim fouknout do balónku a pak bude dlouze kontrolovat jejich doklady, zatímco pěším bylo zase stejně dlouze listováno v občanských průkazech, z nichž si Veřejná bezpečnost beze spěchu opisovala jména, data narození a adresy bydlišt i zaměstnavatelů.
+ A tak v zájmu bezpečnosti .
+" V parčíku před hřbitovem, blízko pamätníčku místním rodákům, kteří v obou posledních válkách položili životy za vlast, postávalo několik mužů v uniformách Veřejné bezpečnosti.
+ "Tak máte ty občanky?" tázal se mladík od Veřejné bezpečnosti poněkud netrpělivě.

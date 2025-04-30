@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8b2de3667b323b633342425e00baf798571b942939527f10154fa4006d185db
-size 28
+veřejný bezpečnost ČSSR

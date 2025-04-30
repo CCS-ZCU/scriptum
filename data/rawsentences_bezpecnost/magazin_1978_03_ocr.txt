@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d92728fb7f53e8c57df38d390e0b6c95713739b565c1327d2603f12d7a3df37
-size 116
+ Dva příslušníci veřejné bezpečnosti ho odvedli na strážnici a ptají se velitele, co s ním mají dělat.

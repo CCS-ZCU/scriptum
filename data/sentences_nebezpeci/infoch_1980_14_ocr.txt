@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8380cba8d5c7f5615822b3ddd6a32fb6146cfc58a2f559c191ba9acde123f604
-size 52
+občasit odvrácený nebezpečí konflikt vrať tno rok rok

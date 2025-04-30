@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9334d328d98a634345bf9b8841fbdfceb161b58bae6b0a623fc3a8597f3be90
-size 73
+velký sněm ptačí čas skřivánek sova přeštěbetaný jaro vrátit

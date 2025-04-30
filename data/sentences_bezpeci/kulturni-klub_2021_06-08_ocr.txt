@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af263aca8e92e317edd939d71c8be91b3a8788fa8848a6eef38e3534c14727cf
-size 59
+hrad opatření hájit potřeba zajistit bezpečí turista

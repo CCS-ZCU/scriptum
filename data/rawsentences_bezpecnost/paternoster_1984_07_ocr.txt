@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0121c15c8733362359da5f7d769efed8e84bfa451ba179ced35ce6d07c12e858
-size 110
+ Ke konci soudu říkal: "Je škoda, že Veřejná Bezpečnost vytahovala z fotoaparátů filmy a ničila je.

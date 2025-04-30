@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f15edd06ace93db4ab6a823acac2bc769086e9b3a310bb54f71ab8b7f20c2e9b
-size 37
+Passau svetoznat pondelok zatvorený

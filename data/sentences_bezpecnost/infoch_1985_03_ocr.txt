@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1bb1f58a9f81dd3b757b3574266cdd54c3b5168d9c4a200ca0e92a0f9b74ef3
-size 50
+atěbí střela plochý dráha let raketa Prsking

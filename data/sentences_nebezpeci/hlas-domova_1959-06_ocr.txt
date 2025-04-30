@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e4f0aeab0f46a8963e54183631d4a63321858f85a05ffcba2c8649e2306d4d6
-size 44
+bezpečí nebezpečí den den bližovat

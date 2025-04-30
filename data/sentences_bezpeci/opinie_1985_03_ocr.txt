@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ea14b03711fdc99855d692d2d9f49f8909c8462f9c13b08e4e9173336d938c6
-size 24
+Kiszczak stát pachatel

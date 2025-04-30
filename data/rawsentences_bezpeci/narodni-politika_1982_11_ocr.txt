@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24e20977e8662fde5a8fb252b1ffb9928b6bca5c2b21882328e062417d7721f0
-size 80
+ Smyslem sovětských smluv je vytvořit iluzi bezpečí pro příští oběť.

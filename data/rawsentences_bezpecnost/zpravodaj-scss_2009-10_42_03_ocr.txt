@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7af42fb0e52752d9119bf4f4272a6338de63524f3b0a6f11518e48d2cb54a22e
-size 88
+ Je veden jako bývalý spolupracovník Státní bezpečnosti s krycím jménem Falmer.

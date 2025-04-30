@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbcbdeda1659ea08bbd3d4ecfe7a3f958bcc17b996a3c3ec3b4aa3c2bf04d477
-size 24
+nebezpečí hrozit krok

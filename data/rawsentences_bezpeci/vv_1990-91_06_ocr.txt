@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb0c88efbf1ebc173a2c567bd329992e26b274a95b645bef8f32dc3a8eadd9fe
-size 406
+ Žáci totiž stále méně přicházejí z pevně zformovaného života, který každému poskytuje pocit bezpečí, zázemí a jistoty.
+ "Archa je pokus o vytvoření fungujícího společenství, kde mentálně postižení mohou najít bezpečí i lásku, domov i pocit, že patří do rodiny, společenství, kde mohou růst k větší vnitřní svobodě", říká Therese Vanierová, Jeanova sestra.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b9ab0acbb9a91c816e1149b6735e263ad3a3a0b9758824dc1f7197676ebe454
-size 186
+ Významné změny v budoucí úpravě sníží podstatně náklady při zachování pokroku v cílech bezpečnosti a životního prostředí, přičemž úspory se dohaduji na 500 mil.

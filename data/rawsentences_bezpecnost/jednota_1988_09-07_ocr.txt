@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:515d4db991c4a860472a9ba8f2c7f7a50f7ecdcf95b4808f688f3c6fd4e1fa8c
-size 74
+ Sú bezradní, lebo cítia, že nebezpečenstvo hrozí od bezpečností.

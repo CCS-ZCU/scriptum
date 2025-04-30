@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57189b0a2a9cbb34ab81bc47f412649e18c82ed0ab668858b8731067c2e87bbe
-size 55
+odvézt bezpečí volat
+naskot volat odvézt bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7191c1ea6c3b7732e1e406315ffe54b431563c79fd19a96629f9344e0f125519
-size 42
+vdávat muset rasBera zamýšlet podnikat

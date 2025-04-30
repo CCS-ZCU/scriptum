@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1bb65b10d220515bf1634525a6b3b7db8a58712830c51d8cff6a67d7e64215e
-size 80
+ Drát vedl do sklepa, kde se uhnízdili příslušníci Státní bezpečnosti.

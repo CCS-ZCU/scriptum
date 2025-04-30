@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d7edd4cfa49d76c46b081d4c0a1e68dca24e2af6b01da2e99da0083fe9718be
-size 53
+) bezpečí, které vyrůstá v Západním Německu.

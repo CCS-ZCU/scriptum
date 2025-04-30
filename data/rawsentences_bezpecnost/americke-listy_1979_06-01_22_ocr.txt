@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97219832547c9d4db1b505d41b3060babc8c846f764bb0fccaf3d2dabea03a20
-size 98
+ Rakouský ministr vnitra už sdělil, že'o bezpečnost účastníků schůzky se bude starat 5.

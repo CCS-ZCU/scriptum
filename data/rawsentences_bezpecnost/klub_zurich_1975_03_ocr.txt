@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07f6ac14f1fc0b99d616b52953c24b39594b887f43a66ef7f5762a2ffad0500b
-size 47
+ Jedná se tam o evropské bezpečnost K 70 r.

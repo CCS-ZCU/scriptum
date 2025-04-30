@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7596d182736d928e6d7654eb9eab878313f1bc7771e07bd62110f0e9765b16bb
-size 151
+ Mladá fronta přinesla článek o zbytečných přípravách Bezpečnosti a názory kluků a holek, kteří měli to štěstí, že sehnali lístek.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9b34411ef83be72ccf1c636105a2f807927b15ddee42c2240f74f850ee5f36e
-size 147
+4; KAREL KYNCL: STATNI BEZPEČNOST.
+KYNCL: STÁTNÍ BEZPEČNOST Když jsem odjížděl z Prahy, byl můj orgán pan Vanek policejním poručíkem.

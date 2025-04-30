@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34924e48c28b276b6850478d0e94a98003e67f7162dea2b501da9939e3fe84e2
-size 29
+dav hrad odvedený bezpečí

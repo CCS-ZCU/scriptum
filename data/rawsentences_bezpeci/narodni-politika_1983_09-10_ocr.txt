@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88bc2f86dbc43904bbd90f0c8b27c4eb4b299dfdb236518ac326df760d6b4262
-size 186
+ Janýr v době jeho prvního věznění, snad nám to prozradí, v době druhého Fachmanova věznění, při kterém tento přišel málem o život byl — snad — v bezpečí exilu.

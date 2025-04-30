@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c6c25d29b83126cbfe5199f69ab2a2598fa5f7861368cffd6efd86379418717
-size 128
+Boj a konflikty nepřestanou,neexistují opravdová bezpečí, útěcha,hranice naší existence je příliš klau- strofobická.

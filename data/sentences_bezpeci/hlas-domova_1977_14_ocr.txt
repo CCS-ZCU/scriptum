@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bfcd32e7151530b5833f426985171b1fbf4d8191bef47d66fc797b566d1e3dd
-size 19
+chilský Koniáš povést vyčistit redakce zbudat novinář nátlak neschopní schopný

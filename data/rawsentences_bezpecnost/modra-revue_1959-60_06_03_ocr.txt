@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fb532beb89f9faa99d8566e62c50f4a869afb502d1018ec3e1e8cdcad4b0aa2
-size 218
+Společnost národů, fikci kolektivní bezpečnosti, nechuti zasahovat proti diktátorům včas,, v naivní víře, že diktátoři jsou jako jiní rozumní lidé, s nimiž je možno se dohodnout v klidné rozpravě.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23a3b56982700d9af0f0076c17faa7e9947432181b58b60607a603e5191f56fc
-size 35
+Ivan Petr vědět vypsaný odměna

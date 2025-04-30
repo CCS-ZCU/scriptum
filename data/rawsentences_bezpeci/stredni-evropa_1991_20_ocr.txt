@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0acee881459ac825ebb843971d31727e355a86df3fd9c95fc5907840fd3e961
-size 87
+ Co zůstalo, byla vágní nostalgie osamělého po bezpečí v lůně společenství.

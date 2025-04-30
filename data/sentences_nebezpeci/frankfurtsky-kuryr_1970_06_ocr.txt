@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee26fbb182478594e4819e27febdefa84c8bd04835d5077270ff148116421400
-size 51
+zveličovat nebezpečí třídní nepřítel kalka

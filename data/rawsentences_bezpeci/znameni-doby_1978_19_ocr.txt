@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e92d741d7685481e149754052935b5c33d3e6c436d98f503bc13da7ef2538c44
-size 76
+ Taková bezprostřednost je výrazem pokoje, smíření, bezpečí, zdaru.

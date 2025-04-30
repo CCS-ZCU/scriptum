@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86152c4afdaed247178c46e08e8037f4bb92aa0831be8481a0f616338ac1477f
-size 80
+nebezpečí ^rbzet svo jboda čsl národ vyvezený sudetský Němec orientovaný

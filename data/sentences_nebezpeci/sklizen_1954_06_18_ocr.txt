@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6669c9b218776a9864bd464d3b40dd0394e4d93a802883481ac781df37998ec0
-size 82
+pravit vlak navštívit strýc Garro upozornit nebezpečí spojený cestování

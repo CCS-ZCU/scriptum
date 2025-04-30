@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb7a6a7765afcf44eff75b76d4e0067f900e7363b114ba6efbe2b5474e845e08
-size 66
+dodatek pověst Faustův dům Praha premiér režie Jiří Menzel

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46257baad840315b0bb61088856c359a17494c81cc24779fba502c3e440f7f78
-size 59
+div rád slyšet myslit číst nebezpečí možnost válka

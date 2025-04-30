@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a70f82a33bc1e3bfa9d1ce74a8d8afacb09b8e210942bce5baf1c014feac2bf
-size 16
+ministr kultura

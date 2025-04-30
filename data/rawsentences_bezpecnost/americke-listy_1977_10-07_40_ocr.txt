@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8f60256f4fdea1d192f1a19fc0bbdb8a349c304f56a5da6941a0a4d6f855466
-size 350
+ Bezpečnost: protože americká vláda stanovila, že musí být automobilisté chráněni při nehodě i v případě, že nejsou připoutáni ochrannými pásy, bude v budoucnosti i v evropských automobilech samozřejmostí známý air-bag čili vzduchový pytel, který se automaticky nafoukne a měkce zachytí tělo při případné srážce.

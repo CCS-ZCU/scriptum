@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e82b2f2475a58834e73dbfd4b92bd594a99f33f2521b5024ca005f434677b49
-size 299
+ * V ČSSR stále dělají velkou propagandu pro konání celoevropské ^konference o bezpečnosti; horší se však nad tím, že na Západě na konferenci chtějí mluvit také o » volném pohybu myšlenek « — v Praze v tom vidí » legalizaci špionážní aktivity a ideologické diverze«.

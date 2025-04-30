@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a875f0133a936cb427f96b83b3697c72a6b62ee3bf30d533e9589fb3aec10923
-size 76
+odpadat nebezpečí přehřívání baterie zkracování životnost výbuch

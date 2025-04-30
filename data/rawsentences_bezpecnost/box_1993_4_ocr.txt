@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:539ed4fd6a6ab95e6bf24435f6e24de04c38579a1e8e2488958112bc36db4a09
-size 277
+ Naše časná práce je neustále ohrožována, žádná pojišťovna, žádná koalice, žádné zřízení mezinárodní nemůže zaručit jakous takous bezpečnost, neboť způsoby boje ďáblova jsou tak mnohé, že na podrobná opatření síly celého světa nestačí.

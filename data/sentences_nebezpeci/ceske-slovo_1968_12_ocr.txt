@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39340aabf5b07f471e6a18e48e25ec498272f65a5102ddba81582c257e2a626f
-size 57
+síla vytvářet nebezpečí vznik horký kontrarevoluce

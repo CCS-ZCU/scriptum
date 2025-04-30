@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a88c026b76e1004cf1cd1f645831a3e0659f0d2ac03136dd046e89396f5988d9
-size 113
+názor schůze přítomný zástupce spolek shodovat dohodnout společný postup čelit stávající nebezpečí

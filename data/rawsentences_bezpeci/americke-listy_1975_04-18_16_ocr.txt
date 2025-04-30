@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21e213746ac25c532d6a7d331582206943de0ed34ffa532ac8d7240c35fba6ff
-size 75
+ Spinola měl před svým odletem prohlásit, že se necítí v bezpečí.

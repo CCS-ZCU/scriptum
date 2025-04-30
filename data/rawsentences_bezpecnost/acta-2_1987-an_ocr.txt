@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54da78452a4f2c9c9e175741e0328c7948e985fb688d2bbc14ebe4f2ff3a2df6
-size 71
+ Hlubina bezpečnosti a Cusanus (The depths of security and Cusanus) .

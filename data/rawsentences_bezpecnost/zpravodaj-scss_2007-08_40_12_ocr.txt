@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16a9672f5f107cb416c00f8f6693c59effe3c5cfe59b99d41489dda6ad293cd2
-size 150
+ EP sa chce takto ubezpečiť, že zrušenie kontrol na vnútorných hraniciach nebude predstavovať oslabenie bezpečnosti schengenského priestoru.

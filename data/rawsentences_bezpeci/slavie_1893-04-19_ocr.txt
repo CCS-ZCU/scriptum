@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9bc95b68f7b85b300aa907a37bac424a4ae952f57479684d77e5492f9a76c62
-size 41
+ Nalézá se již zase doma v bezpečí.

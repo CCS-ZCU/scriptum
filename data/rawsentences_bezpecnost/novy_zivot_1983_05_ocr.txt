@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:356cca385111c9d6b30d2d6527d3757ce4b58a5594aeb3110cb5558a42749af3
-size 108
+ věci, které by mohly ohrozit lidskou bezpečnost nebo lidské zdraví nebo poškodit jiné věci (např.

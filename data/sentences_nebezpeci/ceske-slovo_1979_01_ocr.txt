@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efaea61b2f5044792465a4f1264be6fcae21cc034d0f8c16ad14453d415ee2fb
-size 70
+další den vazba zvyšovat farář Simsa nebezpečí tragický konec

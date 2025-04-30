@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0caf469fc8e5f6110e3d01e352e94db85b7fcace5f9d658847adc6b63052084e
-size 87
+jaro zorganisovat bývalý stoupenec puč zdařit nebezpečí další vzpoura pominout

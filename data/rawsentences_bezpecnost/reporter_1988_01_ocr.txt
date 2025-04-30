@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b38b1bfcbb01cd33b7f75ebe5e14a7b5c30a87e407347ff891988e08b3d5b7b5
-size 584
+ Uveřejňujeme dopis Václava Havla, adresovaný vídeňské konferenci o bezpečnosti a spolupráci v Evropě a sdělení VONS o rozsáhlé policejní razii na »Den lidských práv«.
+ Vaše konference se zabývá bezpečností v Evropě.
+ Prosím Vás snažně, pokuste se udělat něco pro bezpečnost kultury a tím i národfií identity Čechů a Slováků.
+ Jednou z mnoha ilustrací zcela absurdních, ba směšných zákroků represivního aparátu může být gigantická akce náchodské Státní bezpečnosti proti jedinému char- tistovi, Standovi Pitašovi ze Šonova.

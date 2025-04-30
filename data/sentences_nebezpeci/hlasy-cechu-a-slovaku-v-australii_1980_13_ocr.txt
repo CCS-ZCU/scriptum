@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5e4f6219885a838540fc68a4fdf4ff379fe520d717bf21ab9e0caaac5c3ac7c
-size 107
+moci dovolit pomoci Polák hrdinný boj bát nebezpečí mezinárodní střetnutí vyvolaný úspěch akce

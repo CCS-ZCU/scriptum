@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7609c7d4d3e79411eaef9006745737268bb333af7f68cad85619724b43a0b47
-size 177
+ Prosadit zvýšení rozpočtu na vysoké školy v souladu s prioritním významem vysokoškolského vzdělám a v souvislosti s omezováním nákladů na obranu a bezpečnost.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35156cbec64b9754a9af5a6e6db80a6e229219c1c0ae6169fea43b1be19c1220
-size 89
+malý veliký bohatý chudý svobodný služba porobený mít znamení pravý ruka čelo

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eda19dc5624c511b3fdafdc6e9671bdccaecdf3ca7047f7c2f2163f0a226b1fa
-size 47
+listopad
+znát výhoda třetí sloupec jistota

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e7c5749253bf6d95b10af3a0102e84c045ed604ea3cf1e1da357353c860dc77
-size 30
+muset pracovat bezpečí duse

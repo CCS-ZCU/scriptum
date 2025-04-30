@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18f1d35b7045943e366fac910502d35de6b2f771d1cca636145e19f14ee89314
-size 123
+ Odm ítá žít v bezpečí a v hojnosti zajištěného domova, když m á platit svým lidstvím anebo svým svědomím.

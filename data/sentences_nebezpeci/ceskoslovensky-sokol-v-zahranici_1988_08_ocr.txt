@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0dbb07ab5e221e7a6e0722846be5297a6eea8bc658efcea7ae0a93439a5d54b6
-size 117
+záchrana přeskok nízký bradlo důležitý počátek nebezpečí zachycení žerd možnost pád zranění veliký

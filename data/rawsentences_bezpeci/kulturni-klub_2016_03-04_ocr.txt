@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1bb4b4f7edfa899863bc41ecc1faec1ed05792cd63663c2a2785c1fc883989c
-size 235
+ „Domov je více méně ucelený obraz okruhu blízkých, známých lidí svázaných s hmotným prostředím, ve kterém člověk delší dobu pobýval (byt, dům, krajina), naplněný pocitem sounáležitosti, zázemí, bezpečí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6376a37dca6a6adc3fd6b2e96408c7a0c6e642282dbfd7bb5f542fddaed55d0c
-size 28
+ v pařížském bezpečí.

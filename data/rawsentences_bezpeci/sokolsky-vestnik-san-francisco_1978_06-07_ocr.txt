@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25b7f65dd88c1b2e1e3e3e62a56754146c284afb13377cabb02db8e5affd55f7
-size 271
+ Obchodníci šetří papírem a potraviny vám často nezabalí a protože jste si nevzali tašku, máte plnou náruč vašeho nákupu a přecházíte ulici, po které se řítí spousta vozů a nejste v bezpečí ani na chodníku, který patří také automobilistům.

@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5fb96940988d1d914d29811790258a373e6fe53fb4cb2c3ee0e26b00d5d5833b
-size 159
+ bezpečnosti 1 čs.
+ V tomto světě nelze dosáhnout absolutní bezpečnosti.
+ Štátku bezpečnost: policajti ai -t:a zi- denti!ikujú, preveria, ohlásia.

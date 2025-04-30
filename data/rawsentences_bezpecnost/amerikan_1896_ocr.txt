@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41f1a09159313f6cc43cf2e22011c31ae4dc37aaf99e0d79a02e9d21c7d3473f
-size 266
+ Spojení horníci, shledají li, že se v dolu nešetří pravidel bezpečnosti, ihned se o to postarají, aby zlo bylo napraveno.
+ Nejdůležitější jest bezpečnost na prostředcích dopravných, kdež tisíce lidí může býti zahubeno následkem nedbalosti.

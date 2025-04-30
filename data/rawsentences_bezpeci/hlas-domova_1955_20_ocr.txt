@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f0e69544fe2ac4a37386003b1594a9a5a4510c203cbabe48f2cd02f37a2b03e
-size 504
+ Jestli své svobody sám prodal za ma- terielní bezpečí, pak se na něho v plné míře vztahuje výrok Benjamina Franklina: ”Ti, kteří se ■ '••zdají zásadních svobod, aby za ně získali malou dočasnou bezpečnost, nezasluhují ani svobodu, ani bezpečnost!” -kw- Published by Fr.

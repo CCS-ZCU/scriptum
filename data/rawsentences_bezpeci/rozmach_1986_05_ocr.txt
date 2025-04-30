@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad84b6d37dc539d0f7fbd4df509ff22818de3c60048f98f98b716a2632e8c5bd
-size 104
+ Než k tomu došlo, tito již byli v bezpečí nějakého stromu a posmívali se těm hloupým husám.

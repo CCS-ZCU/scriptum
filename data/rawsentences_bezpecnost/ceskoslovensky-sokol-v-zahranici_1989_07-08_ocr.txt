@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:080652a60fb7a5336bcec47e27c72f862658cc59625ef2063d77ace7906a8687
-size 454
+ Důležitým činitelem je jejich důvěra ve vedoucího, jejich přesvědčení, že vedoucí cvik zná, že je v nácviku vede nejlepší cestou a že jim zaručuje bezpečnost.
+ Jsou dobře známé příklady, kdy cvičitel, sám silný, vysoce nadaný a odvážný typ, kterému šlo všechno hračkou, jestliže si důkladným studiem neosvojil teoretické vědomosti, často podceňuje strach cvičenců, bezpečnost i metodický postup nácviku.

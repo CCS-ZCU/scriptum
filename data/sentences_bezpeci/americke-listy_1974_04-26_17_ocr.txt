@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:212cd9af449f689a00cf5aae8aaf0b39709ded8e04be8af2f76275120b0d9c73
-size 41
+způsobovat zvýšený bezpečí požár

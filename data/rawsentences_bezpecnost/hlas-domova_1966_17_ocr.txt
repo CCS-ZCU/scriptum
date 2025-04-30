@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c5680a4d617116daeae4004350e0bbc32312d37d980677a8feb3bf969956dd0
-size 61
+ — Veřejná bezpečnost vyšetřuje každoročně na 100.

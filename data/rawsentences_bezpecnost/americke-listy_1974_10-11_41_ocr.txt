@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:363d544f0422fa331853d56dc6969d59ef54a7e31d45bbab3f6a3881aec8d628
-size 223
+ Řecka vystoupit z vojenského svazku Severoatlantického paktu vyvolalo na Západě neklid; noviny a časopisy přinášejí články a úvahy expertů o tom, do jaké míry by to ohrozilo bezpečnost západního světa.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3222112c22d8df5e8827ba03a5e8afff1cedd021097bcc99b93b743756c96f7
-size 20
+ Kam? Prý do bezpečí.

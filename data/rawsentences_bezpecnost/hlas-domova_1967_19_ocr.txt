@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bbe36c5bb239a3144f8de5978cf9b1e29e6f86fdbdcf9b513173c3c5500b180
-size 45
+ bezpečnost- ními a pohraničními čluny.

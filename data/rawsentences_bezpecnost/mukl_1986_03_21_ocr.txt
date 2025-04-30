@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fc8e437df7c35951ca9bf1ed85d133a0ba97114e6738361b31250be9ea57781
-size 260
+ * * * Americké raketoplány budou v budoucnosti vybaveny novým záchranným systémem, který má zvýšit bezpečnost astronautů na palubě.
+ Jeho smrt byla připisována členu politbyra KSČ majoru Schramovi, který byl vedoucím státní bezpečnosti.

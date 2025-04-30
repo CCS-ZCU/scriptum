@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b96268ca9766814e6e50f33fd17d2d8773fcf47a31734bb96fc36288b75d845b
-size 62
+ntát bezpečnost legitimující celý hudební hluch pódium

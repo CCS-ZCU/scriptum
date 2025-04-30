@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f2ebd498020ae9b0a0eb6d6ab591e49d8cb27752b6807ebb55719c730cc3f33
-size 58
+stávat nachomettout vážný osoba pokývat hlava říci

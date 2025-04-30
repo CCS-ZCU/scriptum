@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eca66c280ce1b927a9e1a1c0f4314835e2f932ccb3cb7a3e5f64a948ea362780
-size 146
+ S úkoly, které vyplývají pro Sbor národní bezpečnosti ze závěrů říjnového pléna ÚV KSČ, seznámil esenbáky sám Gustáv Husák.

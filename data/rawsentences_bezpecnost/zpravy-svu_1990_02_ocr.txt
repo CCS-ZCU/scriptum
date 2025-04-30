@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa9c9773b266ed1cc527603d49cdff222fe2825ae5750b105d174ee6928618c2
-size 92
+ Miessler z brutálního zásahu „bezpečnosti“ proti průvodu studentů se svíčkami.

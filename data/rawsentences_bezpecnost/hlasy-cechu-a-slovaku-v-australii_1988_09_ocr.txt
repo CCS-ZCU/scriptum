@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e54d4a81f4a1c242b082645a7a58a59ba6eb302387517d4b07dfbeeb856b93e
-size 258
+ Policie může zatknout osobu bez zatykače, chce-li zajistit, že se obžalovaný dostaví k soudu, jde-li o zachování veřejného pořádku, aby se předešlo dalšímu přestupku, v zájmu bezpečnosti členů veřejnosti nebo v zájmu obžalovaného.

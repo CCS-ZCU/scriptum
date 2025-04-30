@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e798d6bb108e065f4450d6eafaa16d049436a204f90471b5d945b7961d1d1e0a
-size 338
+ Kdyby totiž volného času a bezpečnosti užívali všichni stejně, pak by se velká masa lidí, normálně otupených bídou, stala gramotnou a naučila by se myslet vlastní hlavou; a jakmile by lidé jednou dospěli až sem, uvědomili by si dříve nebo později, že privilegovaná menšina nemá žádnou funkci a svrhli by ji.

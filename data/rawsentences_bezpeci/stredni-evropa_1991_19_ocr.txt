@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d48b9f0b2d4c27cde8840993b67cf6fa8b9c53562cb2a88124daad443ceb63c5
-size 368
+ Kdo na tuto možnost čekal, ten ji také využil, pokud se vysídlencům nepodařilo již dříve ukrýt zbylý majetek do bezpečí.
+ Už jsme se domnívali, že pro tentokrát jsme v bezpečí, protože kolem jedné nebo půl druhé obvykle nastal klid, ale v tom se nám přímo před nosem rozletěla jedna vrata a my jsme vběhli šťáře přímo do náruče.

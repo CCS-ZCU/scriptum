@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5568807245ff6d3796e1ae377dab20a24d4d871e2f9aef93329b29772561b18
-size 130
+skladba komplet příprava sebraný spis diskuse prověřený nebezpečí subjektivní pojetí číst točka snížený minimum

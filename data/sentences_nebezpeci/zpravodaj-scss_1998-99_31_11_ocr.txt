@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce36499b9c520c3aaf8f75b5d5965b6404910dde66bbc605ab710bbdc3f45cb3
-size 84
+lze hovořit akutní nebezpečí
+průzkum nebezpečí uklouznout vzít silný proud

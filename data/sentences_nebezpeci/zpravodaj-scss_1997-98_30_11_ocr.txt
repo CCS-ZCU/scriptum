@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b8cd56659e5fdbfdd59d6d90bd51888c0d778fde42dc9c38e8b9748af336b13
-size 12
+pámat svat

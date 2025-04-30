@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b714d12485f0765902873fe3b78637cd53ffdcbcc27c5a23006ccd55f4cbe636
-size 84
+ Našly tam práci, bezpečí a nový domov, protože starý je uživit nedokázal.

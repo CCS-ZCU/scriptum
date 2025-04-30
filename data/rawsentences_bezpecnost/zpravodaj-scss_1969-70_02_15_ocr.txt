@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e8369ead6567c21e20ed3bba7fc8d3825cf45351c0dd19a7206037de77b3dc2
-size 312
+ Vstup spojeneckých vojsk za situace, která vznikla v létě 1968, byl motivován zájmy obrany socialismu v Československu proti pravicovým antisocialistickým a kontrarevolučním silám, společnými zájmy o bezpečnost socialistického tábora, třídními zájmy dělnického a komunistického hnutí.

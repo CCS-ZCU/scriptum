@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1ff433560646d5af4381521ebf6cb0b540692a8b64bd4dc358b15a862206a0e
-size 87
+Macek popřít systém veřejný podpora přinášet nebezpečí nadržování korupce

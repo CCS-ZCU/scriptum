@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af1456a50c539abbd67ca219eff3886a41197856df83f8d9840f9012d24f17c4
-size 69
+originální český kuchyň různý maďarský specialita reportér

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21487e3f1b9e7f6bcfe8e1d6f7e46a48333af68e72e5baf05269eb052e5fd5bc
-size 88
+ Na veřejném záchodku v Horní Liboci se potkali dva orgáni Veřejné bezpečnosti.

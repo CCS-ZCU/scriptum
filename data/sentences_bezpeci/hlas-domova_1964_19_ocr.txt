@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17ebb41240043013fc1e56f8de0937ac556fe38a7b5143e29336a04ad0331c20
-size 85
+Remhold Niebuhr
+technický pokrok odstranit vzdálenost období relativní bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c19faedd697b04d9ad17c5a455fffb973cc5fc0c63bbff85f7c034ebe7a1afae
-size 33
+organizace koexistence vyplácet

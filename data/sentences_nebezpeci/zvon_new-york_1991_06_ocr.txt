@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:283613bf6d160265ce3fd74075293f078305b05606917f359b786e72f5954057
-size 52
+budoucí osud svět nebezpečí litr lidé moudří

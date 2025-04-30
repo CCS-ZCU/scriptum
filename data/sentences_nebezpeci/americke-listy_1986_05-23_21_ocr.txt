@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d35b46f068d0534072cd5368fed81cff61064645458b28afd7959ffc121b595a
-size 54
+svět konstatovat nebezpečí jaderný mrak Černobyl

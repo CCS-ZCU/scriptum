@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16463df7acff95a3bf06017bb1997dc3781d4bb4216088f9bbf7e90acd0992e0
-size 131
+ Lát by měli na to, že je málo svobody, slušnosti, lidskosti, bezpečí a tolerance, aby nebyli jen sytí, ale i veselejší.

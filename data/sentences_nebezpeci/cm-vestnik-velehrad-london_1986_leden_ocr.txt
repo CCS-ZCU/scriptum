@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:83a90ccfdde2ffa0664ad94c48513235f77343d2244b5bf47eb1e3abc9ba5e20
-size 79
+kardinál Tomášek rozhodnout pozvédnout hlas vydat nebezpečí ostrý útok

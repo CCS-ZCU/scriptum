@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b151de222ed8cf12ffc59b68fc84e8ce07e02f6273eebeb5a34bfbdd837b14e6
-size 101
+Mit vlastní bota znamenat nej náne pohlavka kopance nebezpečí
+spiklenecký hlášený pripojovat

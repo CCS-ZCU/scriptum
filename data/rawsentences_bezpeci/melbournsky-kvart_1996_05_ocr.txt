@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0801fafffb7e8c9897e7fb6dd5e0ad8d52c5e020a411f2f7b36dc0d59bd05fde
-size 59
+ Osamělé ženy se ve svých domech necítí v bezpečí.

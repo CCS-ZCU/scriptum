@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2420275353f7a8a84fbd05dd6211d7e98b03b3f02c2d407dedab406bcdb10c6d
-size 540
+ Jeho poslání je výlučně utilitární: bezpečnost lidského života, bezpečnost majetku a vlastnictví, mír a pořádek, štěstí a blahobyt bučí společnosti vůbec anebo její vládnoucí části, jež uvádí v život a platnost toto sensitivní právo, Jeho normy jsou relativní, pozměnitelné' a podmíněné; není na něm nic věčného ani posvátného.
+ Jeho tresty jsou zcela smyslové, jeho poslání není odpykání, nýbrž pomsta, převychování viníka, bezpečnost společnosti a podobné utilitární cíle.

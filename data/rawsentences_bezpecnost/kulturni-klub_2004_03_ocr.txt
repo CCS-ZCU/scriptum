@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a423635097c595c182a9f7f39ce72fe59c5e6dc5bb9f4e91cb3a1319892c23fa
-size 395
+ jp Na seznamech chybějí jména stovek agentů StB Zveřejněné svazky agentů a spolupracovníků bývalé komunistické Státní bezpečnosti jsou neúplné.
+ Lze jen doufat, že se spory neprojeví na menši bezpečnosti na českých železnicích.
+ Podle prohlášení tiskového úřadu vlády má mít toto opatření za cíl zajištění veřejného pořádku a bezpečnosti občanů.

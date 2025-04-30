@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc4bcfee648ba6c657de08ab58f92b131fa63c4c19659f3e3519382069b13d59
-size 22
+pravda žít fantazie

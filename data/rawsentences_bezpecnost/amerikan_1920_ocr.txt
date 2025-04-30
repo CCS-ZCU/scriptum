@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fdb68fd96b3b38459f2022718bafdb2ee65849bc250f8f6916b31753ce16e793
-size 65
+ Vyhlášena výjimečná opatření v zájmu bezpečnosti čes.

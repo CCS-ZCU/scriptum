@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f888457fcd023e3fd875fe780a8e25627c2b81b62811e0ed1a9aacf7570a889
-size 27
+tonuto spojenectví dojít

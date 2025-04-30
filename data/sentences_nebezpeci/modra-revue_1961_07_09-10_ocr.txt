@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec560b01f56ecbcbdd36f818ecae642a2a535145d2f84a3e32635ea343baf68e
-size 82
+demokracie mít velký sociální tradice demokracie anglický mladý nebezpečí

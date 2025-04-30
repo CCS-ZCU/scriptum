@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2bb7181277cfbc515a7f7b98eb9dd747e21b83a05227f742bdf66367fa10fd93
-size 44
+ Měla vnitřní pevnost a pocit bezpečí.

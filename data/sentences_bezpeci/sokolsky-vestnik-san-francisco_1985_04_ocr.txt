@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:820caa7dbf9216db7de99005b74fd15fb0bee6dd301524159d326804dbb0e4bf
-size 40
+mnohý namítat žít Amerika bezpečí

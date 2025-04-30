@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:884da09dc6fd1e4c68e7fc5cb9f13d7722ca4967dfe4493677befc91f1327d73
-size 64
+bát strašák hlava přivést strach doopravdický nebezpečí

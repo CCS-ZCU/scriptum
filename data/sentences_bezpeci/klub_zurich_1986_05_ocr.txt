@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2951290b494d448b6f099467109eea55db093ddbd336bc8a14cdf78fde0c3d08
-size 60
+Gustin Chambonniere vyrábět dřevák říci Guy bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f9560f6109f56fbdc1a914a714704c22a19d8f3166390ea87b61c7279f9cb4d
-size 373
+ Korčák v Prahe na zhromaždení z příležitosti osláv karpatsko-dukelskej operácie opakoval šlová predstavitel’a ZSSR na valnom zhromaždení OSN: « V našom jadrovom storočí musia myslenia v ka- tegoriách 'sila’, 'zastrašovanie’, 'převaha’ vystriedať pojmy nepoužitia sily, dóvera, rovnost’ a vzájomné rešpetovanie záujmov bezpečnosti ».

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb48271520b4e2cb5b8f2e205047491e82f5d755e4de75ec57938be4dc063cd6
-size 187
+ Ministr státní bezpečnosti pan Bacílek učinil svůj klasický výrok: “Strana s pomocí orgánů bezpečnosti rozhoduje s konečnou platností, kdo je vin- nen a kdo nevinnen”.

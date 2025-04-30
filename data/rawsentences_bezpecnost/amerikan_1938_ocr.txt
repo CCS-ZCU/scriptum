@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f58104e2f873310e1c3107c01009f0bc8cd16f5cdecca7377ea1896a5524ff2e
-size 198
+ “Svatá trojica” však při nesporné chtivosti kamarádů dovedla uhájiti pořádek a bezpečnost, takže sousedé si nemohli stěžovati, že by se jim bylo něco z bohaté úrody ztratilo.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64215a2fb493bef8c194fea6c5c7bec4dd7935e674d99632c452fb9ce4acf9c6
-size 90
+VSe statno bezpečnost usnesený strana tisk dalsa vefejný sdelovace prostfedek

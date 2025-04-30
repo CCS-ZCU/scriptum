@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:714fe8e74b1487db907d0deb83ff4065b553a47cd352b7d3fe9934cd1ec93acc
-size 60
+ 8lověk nemá vůbec nikdy a vůbec nikde pocit bezpečí.

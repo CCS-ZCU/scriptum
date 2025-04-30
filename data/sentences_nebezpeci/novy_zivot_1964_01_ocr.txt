@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21a03911dfcdf406d3e5c06a81487de890626d3b08525709b3180b4f8856487b
-size 21
+otec dodat nenávist

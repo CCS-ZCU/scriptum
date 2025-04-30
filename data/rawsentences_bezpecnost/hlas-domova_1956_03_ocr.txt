@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de0240730d36abda35ac225daf6a493ec28bdbf33490292edcd77ffb39a08719
-size 86
+ 1/ špatné viditelné balónky ohrožuji bezpečnost dopravy, a stěžoval si na r.

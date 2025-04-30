@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b54b3a5c67c54dcd59aa69742326f5d58a794c3f6ff6c8d953e0e4cd9de68f23
-size 65
+ Nový systém má přispět ke zvýšení bezpečnosti provozu.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:165e55754f52fd5908dee8dee986066bbf6437724c726705a4cee58ea29b053a
-size 671
+spolků ve Švýcarsku se v této záležitosti spojil s uprchlickým oddělením spolkového justičního a policejního departementu, kde dostal tyto informace: ’’Švýcarská vláda tak jako dosud velkoryse projednává všechny žádosti o politický asyl u osob, které bezprostředně po opuštění Československa přijdou do Švýcarska» Švýcarská vláda však - vzhledem k tomu, že umožnila již více než 13»000 Čechoslováků pobyt ve Švýcarsku, odmítá udělovat povolení k usazení ve Švýcarsku osobám, které se již delší dobu - směrnice mluví o více než 10 dnech - zdržovali v bezpečí v některém jiném západním státě.

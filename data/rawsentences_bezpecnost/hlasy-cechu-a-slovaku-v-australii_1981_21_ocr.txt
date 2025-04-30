@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eea3e2bcff6182ecdc0037098b8aeb86df06daeb26e60b31d7caa40fccbf45fc
-size 252
+ Když po "úpravě poměrů" spěchali do Československa, aby se před svými rodinami a známými blýskli vším co mají a nemají, mnoho z nich čekalo překvapení: byli navštíveni příslušníky Státní bezpečnosti a odvedeni do vězení.

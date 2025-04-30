@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98d4955bb78e12fc369fa25393b740c0e4c36ed31891a3e2bb1c8f19a9cf66cd
-size 78
+hezký dobrý kuchařka rád sezČtyř šestinásobný zvětšení kapitál

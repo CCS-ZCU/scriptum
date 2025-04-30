@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65524e6ec147f3b2a991e704c077ad70be516789a4976860d1190fcc2cbbc836
-size 63
+ Správná byla další myšlenka: KGB - státní bezpečnost.

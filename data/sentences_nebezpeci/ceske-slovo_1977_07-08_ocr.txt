@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5f36159a37266ddb4b1f80d7d2f8d2a0af2228fae9a27b11c38765905693aaf
-size 160
+SVU vědomý československý případ ilustrovat akutní nebezpečí čelit dnešní svět naléhat lidé dobrý vůle stavět základní lidský právo svět

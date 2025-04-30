@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87ab39d81e91a668722fcedd0576d46cc7654dd22c162540287febf7bce86d4c
-size 202
+, Podle mne je tedy definice současné ignorance snahou žít v bezpečí, klidu, pohodlí, zapomenutím na vše Špatné, ukolébáním se v myšlení, že vše je v pořádku, že to tak musí být.

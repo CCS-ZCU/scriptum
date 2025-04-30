@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9575835c6f6f27c977c320258063b5636a5746f70e1d04b8d207f394f4873685
-size 99
+druh mírový linutí požadovat určitý úprava mezinárodní vztah zvýšit bezpečnost ochrana

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:016b536e28ae49683a2895780212a4a6b44002fc66873a43b16256aab9824081
-size 161
+ Patří sem potřeba bezpečí, sociálního kontaktu, sebeu- platnění, potřeba vědění a porozumění, po- třeba estetických hodnot a sebeaktualizování".

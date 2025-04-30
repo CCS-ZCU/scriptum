@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:452d1cbac1961f849be2c72af2391f86d211dd003ce07d594c533252556a245b
-size 31
+rodič ptát možný pozorovat

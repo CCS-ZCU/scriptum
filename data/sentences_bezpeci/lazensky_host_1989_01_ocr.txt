@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:221ae790f3b5a233d85804fbaae6bb4ed49ddb32a535ebe09dcc30a21c86cd81
-size 48
+pocítit lehký závan pohoda bezpečí útulna

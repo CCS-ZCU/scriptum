@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c08dd935528b33c86ad90a6cf50608820c92c62b76791943840f50de6fc819df
-size 50
+ 1911 za- jištovaly bezpečnost plavby kanálem.

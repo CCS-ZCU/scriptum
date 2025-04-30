@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:445c12dd57027d8d95c418df85f3a6e6461043163c43840b6cb791fc9c3cca2a
-size 83
+Ježíš damašek bezpečí snažit ochránce ně^onalézt bezpečný útočiště

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c632d9e6b67c52a4d89fc8b3387821ae43d1c11bd7769cf63f7daee9006651d
-size 53
+Laušman udělat zajistit bezpečnost Ceskoslovensko

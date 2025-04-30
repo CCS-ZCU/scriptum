@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7b09ffcc63b1f5ec0acf206c2e1925ae39767a92116e5c1cc0c8a73c6df63bd
-size 68
+budoucí osud svět bezpečí vyvstat moudří lidé radost naděje

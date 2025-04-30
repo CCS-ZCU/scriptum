@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee566dab4145d6214780d0deee8218d1c0cc1f1b2f9657506eef01013ae05c88
-size 206
+ Záverečný akt helsinskej Konferencie o bezpečnosti a spolupráci v Európe, podpísaný v Helsinkách 1.
+ Záverečný doklad viedenskej schôdzky o spolupráci a bezpečnosti podpísaný vo Viedni 4.

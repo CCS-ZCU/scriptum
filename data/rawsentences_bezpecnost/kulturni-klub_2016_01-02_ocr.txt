@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a70ee4592800fe2052cd16ec5394558b1b2234bdca802b3fb93ef3b7af4e110f
-size 876
+ Ve studii proveditelnosti byly mimo jiné stanoveny následující cíle: výrazné zvýšení propustnosti tratě pro dálkovou i regionální dopravu; zlepšení přestupních vazeb mezi železniční a autobusovou dopravou s přiblížením zastávek sídlům; vhodnější obsluha území se zařazením do Integrovaného dopravního systému Jihomoravského kraje, dostatečná kapacita pro vedení regionálních vlaků ve špičkovém intervalu 30 minut; vytvoření podmínek pro konkurenceschopnost železnice při spojení krajských měst Moravy (Brno, Ostrava, Olomouc, Zlín); zvýšení bezpečnosti železniční dopravy; umožnění zapojení trati do systému Rychlých spojení - zajištění návaznosti na vysokorychlostní tratě Brno - Praha a Přerov - Ostrava optimalizace trati pro nákladní dopravu - umožnění průjezdu vlaků délky až 740 m.

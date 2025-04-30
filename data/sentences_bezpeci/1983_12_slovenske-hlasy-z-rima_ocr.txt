@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e652344c6563fe3aa13ba61f38d058bfd1fe6b29e3b2722321761d74b068e60e
-size 75
+spomínat som vybehávat ústret cítit bezpečí zobrat svojho náručium

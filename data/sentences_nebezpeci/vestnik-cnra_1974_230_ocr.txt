@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c0e44f70c93f10ea294615ddce067e49ab2bc81511d085b9421d4aeb8978103
-size 205
+citovat řada Masarykův projev nutnost boj velký nebezpečí celý svobodný svět projev ukončit zdůraznění muset Masaryk pomáhat práce národ nový svoboda každodenní drobný práce rozhodnout

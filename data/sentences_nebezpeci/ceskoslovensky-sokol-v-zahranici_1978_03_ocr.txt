@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7fc745c1c813f9582c019ba19f31f0d516045b28b897165a3daf4d2b0b1ed0b
-size 71
+rozlehlost zatímní posádka nebezpečí shromáždit pluk železnice

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:faad392fe943c1698045f7aab332f286054768a6a4a7a4587c30fa3246586a25
-size 78
+ Statisíce civilistů opouští své domovy ve snaze dostat se do bezpečí.

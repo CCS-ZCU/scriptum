@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5484421b6fd0af3d6240b536034dcd6a89f3eb9c3fda715159e2e894a483b758
-size 175
+ Nesouhlasím jménem Jiřího Konopáče, vězně z tábora Nikolaj, který zvolil raději sebevraždu, než by se nechal přimět k podepsání spolupráce s bezpečností.

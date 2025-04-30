@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53ac185220bff5d533b74bf7b84502a5e087eef49c8130154ea840e856d37044
-size 106
+ Jeho úkolem je jít před ovcemi, vybírat cestu, ukazovat směr, poskytovat pocit ochrany a bezpečí.

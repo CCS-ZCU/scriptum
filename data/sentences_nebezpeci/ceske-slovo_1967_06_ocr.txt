@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8607ceea9f1330584fa542403e332cb99865db98f66be4a8a599f9ee527e805e
-size 64
+padnout první výstřel nacházet Israel smrtelný nebezpečí

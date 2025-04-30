@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da77a8c20515cbabc43865dd64d7beee3f4a0259cc897f3dbc16ecc5cc36e5f0
-size 37
+rokokový lantkraba cítit bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d37b5be3bc82bebab1efa73a73e2af5c8716f239311bf296257bf57d0e322f4
-size 49
+jít nebezpečí moci znamenat temný budoucnost

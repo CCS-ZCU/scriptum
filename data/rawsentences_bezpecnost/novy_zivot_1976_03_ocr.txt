@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c72988e30c4e2916174150e7ea5f7dacfd17eb362e090e77e98042f04a5e939a
-size 409
+ Francouzské vojenské síly, chránící papežovu bezpečnost, byly už dávno předtím staženy a nedostatečně vycvičené obranné jednotky, vytvořené narychlo většinou z mladých katolických dobrovolníků z evropských zemí, nebyly s to nápor zastavit.
+ Ale brzy začal znovu: »Jsm e přesvědčeni, že povinnost zvěstovat druhým víru je důležitější než naše osobní bezpečnost.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b09993f71b616e4de665b2d732e40af8470b8e49d9a796df1e823d1d98b2e2b
-size 58
+bezpečnost navrhnout různý zlepšení pracovní proces

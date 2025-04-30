@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:baa9b2a1c95e0af929341b9fb68de74adcc921b058b5b3f9a10bbf53a9f00e4f
-size 139
+ Chce to napravit a říká: v "Pořád na stejnem hřbitove? n Veřejná Bezpečnost vypsala konkurs na přijímání^ policejních peů.

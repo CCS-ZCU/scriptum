@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4991187c8eaf874e426c6e42432518c739fd39bef45f7c9540e7192beb09af10
-size 29
+den útrap bezpečí svoboda

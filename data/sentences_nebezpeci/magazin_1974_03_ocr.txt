@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9539ba580b03bb9c8fcd5ce3ff81cf5362025ea47818552c4ad09bd646ecfc9f
-size 55
+ticho plný tajemný přítomnost určitý nebezpečí

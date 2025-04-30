@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96db7ec7ae3cd96ba157b84b959571e0a053742b536ec17a6480509ea4c115b1
-size 221
+ V roce 1964 jsem se stal spojovacím důstojníkem u sovětské špionážní služebny v prostoru Jáchymov-Karlovy Vary, a za pár měsíců jsem byl poslán do Leningradu na školu KGB (Výbor státní bezpečnosti).

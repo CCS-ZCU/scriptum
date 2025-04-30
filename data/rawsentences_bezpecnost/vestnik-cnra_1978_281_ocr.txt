@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6ceb7a8d44250d134c35577079e0592a1010f6a6d9c848d5b2c6ca5b1745839
-size 191
+ Československo odpovědělo na původní obvinění, že je možné propustit občany z práce bez předběžného varování “když jde o státní bezpečnost nebo pracovní kázeň”.

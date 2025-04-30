@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bec64443354f2c0f748c1a0bac541148b550c38006713825257f362c05189353
-size 26
+budova velký nebezpečí

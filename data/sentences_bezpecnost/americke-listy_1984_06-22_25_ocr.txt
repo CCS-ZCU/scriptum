@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09f32f763464a720d72d9879f615c9f40b21da16262e4ff8260847ed8ba6a49c
-size 88
+ustavit zvláštní komise mít zabývat vyšetřování abnormální atmosferický jev

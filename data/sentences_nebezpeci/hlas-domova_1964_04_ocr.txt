@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ef38c1c888ebb4bcf7397202150058fd78d109f2f7d6de0c444a01113419bf1
-size 28
+nebezpečí podnik zřejmý

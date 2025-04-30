@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17dfb2ae49641ff65e2329f6106915affa8dbde47f041c4145e114ed959c3f32
-size 40
+platno lidský pomoc rozzuřený živel

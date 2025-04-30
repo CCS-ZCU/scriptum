@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2808bd4858f11c5ec40e144fd3f2f850c2c7460ca12e4a361586ee5e79e02cf6
-size 67
+veřejný bezpečnost zadržet pachatel naleznout odcizený zbraň

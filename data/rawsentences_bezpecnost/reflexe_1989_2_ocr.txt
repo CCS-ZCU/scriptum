@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4194512c8154c5e23de082995ca7ca01751f2281912834155a0cd78af05b9df4
-size 284
+ Pokusím se ilustrovat to na Hájkově kázání nadepsaném v knize "Hlubina bezpečnosti".
+ Nerozebírám tu teď některé jiné aspekty Hájkovy stati Hlubina bezpečnosti, kde například zasvítí věta: "V Boží vítězné ruce jsme svobodni od osudu, okolností i od lidí.

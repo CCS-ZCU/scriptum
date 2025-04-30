@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff4b95b2a69dc2f36c089555daed312eaf3d5e6c0aab756e99d0ab6ac6259231
-size 22
+vojenský bezpečnost

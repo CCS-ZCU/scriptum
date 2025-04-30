@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05fc919667e873bdbc4c04ab743821ad78cdf518e4b3d26d31d1adaae01607a0
-size 52
+veliký mala Josef Koenigsmark
+kresba Karel Helmich

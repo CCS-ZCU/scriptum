@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31b3afd1a20d6bd718846d4bf9b7bc7401ea4de81871b422f8cf11a2f01c315d
-size 174
+ že celá činnost trvala dlouhá léta; na což se zlobí hlavně bezpečnost, která si je jistá, že má všechno pod kontrolou a že jí všechno někdo “píchne”.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8be7dc90f7bf3c21d44185c266ae8e0065c16620402f9cd4a8858a9ba71d1579
-size 42
+rybička uchráněný možný nebezpečí

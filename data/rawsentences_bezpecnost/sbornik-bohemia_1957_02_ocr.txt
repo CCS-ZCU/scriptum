@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbcc8ef895d4c2a658d9c5df6720400c8b5e38914445636016d23053a564328a
-size 223
+ Němci zle žehrali na české hraničáře, kteří přicházeli do jejich jazykově souvislého území jako representanti státní správy, a Češi odpovídali na jejich námitky s hlediska prý státní bezpečnosti.

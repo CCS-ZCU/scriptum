@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75b1d3987e55d8904ce31c7776672dcf56cfb5049e81131c621f7c5eb594d36a
-size 229
+ — V paláci "Dunaj" v Praze byla otevřena "putovní výstava činnosti veřejné bezpečnosti".
+ Když přišel toho dne náš navrátilec domů z práce, čekalo na něho auto s dvěma příslušníky Státní bezpečnosti.

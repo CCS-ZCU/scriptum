@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8478f59bd1d5740f7c702ac8533b1108a8dd91ced7816ca646d12c90f1cfbaa
-size 41
+doba žít pronásledování nebezpečí

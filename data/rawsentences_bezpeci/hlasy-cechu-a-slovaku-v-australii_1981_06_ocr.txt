@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbae487132806e2e438120bc779a4cf51f711f16ed67f9361b32b9d3864c9936
-size 138
+ Pokud je mu známo, chce-li někdo stavět dům, musí předložit magistrátu plány ku schválení - kvůli bezpečí,aby to nespadlo.

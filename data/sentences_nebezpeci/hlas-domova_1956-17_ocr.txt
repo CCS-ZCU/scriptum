@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dda147f5f621f828ef634071bd495da649a20330dd316bd1a0404c4c45fa8429
-size 142
+nehoda uvědomit nebezpečí pobyt pevnina

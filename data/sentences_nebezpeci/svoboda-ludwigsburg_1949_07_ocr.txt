@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd1ed1cc86a355d781271b3bc0adafaaa630b32e14bad54a81531ecb406bd492
-size 80
+jméno tre znamý svět pouhý návštěvník džungle nebezpečí padnout

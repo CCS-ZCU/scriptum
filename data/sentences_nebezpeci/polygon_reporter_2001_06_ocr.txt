@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36c2ee94bdb8dbf870c03e5432372ff568b447da521d943be711d189ea22268b
-size 53
+ČNB ukázat uvědomovat nebezpečí růst cena mzda

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:046e5a85799cd06302108834ef9857ef62389bda9b52c98e8edafbeb4d0371a2
-size 89
+ «U mě je v bezpečí.
+» Všichni víme, že v bezpečí není člověk vůbec nikde.

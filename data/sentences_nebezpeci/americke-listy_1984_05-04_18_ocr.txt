@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a31457c3ec396036b6942369298042065d58033cec17254e36ec56d8b2ec4f5b
-size 85
+robot znát základní lidský pojem vědět nebezpečí zaváhání zřítit skála

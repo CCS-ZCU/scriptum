@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9411132267584a8d45626e97daa727d6ac6c3f078c9730b9d69832a5e628b471
-size 40
+skrývat nebezpečí lidský pohodlnost

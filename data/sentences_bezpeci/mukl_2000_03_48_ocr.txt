@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bdba1a9e189a7ab5a0782a0d6779cc0a830b94756dff1536729b625a43bce21
-size 72
+pomoci dostat bezpečí ostat živa
+cela cítit klid bezpečí čistota

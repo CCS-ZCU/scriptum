@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a459025a5a592ae485d801167ea5a3f9578c1bb3cd0ba46d1058716bf89f2541
-size 37
+300 mil jsou v naprostém bezpečí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2ad455f846115bb914f68fc908282ed17c8b3bef5dcdb29de7aa36bae3fed8d
-size 43
+rčec chtít pominout mlčení nebezpečí

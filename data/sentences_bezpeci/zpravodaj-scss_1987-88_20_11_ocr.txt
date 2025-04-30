@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8d4bf00146914307a68aecba77aada516698e1320e22542706701b6666b3de0
-size 71
+část bezpečí klín začít posbírávat věc naraz vysypat podlaha

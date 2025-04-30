@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9b73f1ea30e1817ab9103d3258669ee28cc823db30097469ea8ae128553becb
-size 31
+bývalý vězeň zaměstnání

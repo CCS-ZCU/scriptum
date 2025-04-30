@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a0c09f5806697449dc6f6cdb0fec9f7f52f2bbac0988cbdbf7b8683f9d5c068
-size 200
+ Bylo znovu dovoleno sloužit mši svatou i ve všední dny — dřív mohla být sloužena jen v sobotu a večer v neděli, prý z důvodu veřejného pořádku, bezpečnosti a vyšši produktivity.

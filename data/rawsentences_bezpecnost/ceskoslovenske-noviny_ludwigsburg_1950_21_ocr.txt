@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a790dfb680dddaa8038972e2ac55708ef4304465c4ce1533f46081ba86d62820
-size 52
+ To stráže NKVD žjiš/tu- jí bezpečnost ohrad.

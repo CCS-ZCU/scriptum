@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b11720e0b6724bea07f6afbd39f101994329e52781c24c5164a6b082fd99d372
-size 66
+zimní olympijský lira detail běžec závod běžich muž lyže

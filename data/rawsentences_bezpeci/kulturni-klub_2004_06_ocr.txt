@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57aa10ccb9f95fb6e4af2e3be46fd8c406c729c3edbdb62a00ed2e81afc654e3
-size 23
+ Snad jen za války by! uklizen do bezpečí.

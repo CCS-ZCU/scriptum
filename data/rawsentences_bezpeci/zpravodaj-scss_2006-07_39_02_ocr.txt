@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b0ecd66a8c4858f7ad19d0a88b50a0a06f740e1ade4089ea0908834422030c1
-size 254
+ Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+ Obetavá záchrankyňa všetkých, keď hrozilo nebezpečie, sama previezla z Bratislavy do Hasprunky a tam sa v bezpečí dočkali oslobodenia.

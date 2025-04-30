@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71eba397c0b492823f6ec6b4de57a99fe4f21c427fb4a68b6a0876d7b04682bb
-size 91
+státní bezpečnost prokuratura vedení strana dokázat slátat upotřebitelný obžaloba

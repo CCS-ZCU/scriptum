@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:523871ff81eed70f5d5d25ea8b8808b4f28396b047dfeb33cfd7eb9cf1bd8952
-size 14
+Milan zelený

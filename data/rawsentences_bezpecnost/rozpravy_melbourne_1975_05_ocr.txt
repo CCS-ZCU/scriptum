@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39034d692b54a427cfaaf4d5cb21bc4fa1a512fd66e59648eb5dbe26971979bd
-size 168
+ Konec éry Konference o bezpečnosti a spolupráci v Helsinkách byla, uzavřena dohodou, kterou podepsalo třicet pět nekomunistických a komunistických států 1.

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5bc9d8ea9d511b4f384bfa906c8f328c1d5a6a9b5f8bfe95861a73f409da3e8
-size 811
+ Teprve pocit míru a bezpečnosti přináší rozklad národní jednoty, která je zachována v dobách vážných.
+ Účelem nebylo nic jiného, než snadno a rychle opatřit byty pro nově jmenované důstojníky armády a bezpečnosti.
+ Mnozí z nich spolupracovali i později se státní bezpečností.
+ Další fází čistek byly v roce 1949 tak zvané prověrky, o nichž vyšlo 1968 najevo, že o vyloučených rozhodovaly často pokyny státní bezpečnosti.
+ Pod názvem "Document of Helsinki- Dissent From the Soviet Union and Eastern Európe" vydala Komise pro bezpečnost a spolupráci v Evropě při americkém kongresu ve Washingtone publikaci o 127 stranách, v níž jsou uveřejněny dokumenty o politickém odporu a boji za lidská práva ve východoevropských zemích a Sovětském svazu.

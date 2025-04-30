@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4745728a873dfc7fde8985b382fc7a1f400e36a4c6e05a8ee44895fb4bc9fb3a
-size 88
+patero nebezpečí hrozit komunistický režim psát funkcionář Jan bezpečný druhý

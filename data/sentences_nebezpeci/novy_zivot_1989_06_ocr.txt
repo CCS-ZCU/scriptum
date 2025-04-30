@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6769d2516ceda8ac0ea92875dd9d4bbc94cc99b49fed28f0898f6ed96f3f2e99
-size 165
+drtit smutek milovaný osoba upřímný pracovat

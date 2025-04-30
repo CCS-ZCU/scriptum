@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d1ce34f2eb6004991180d29413ca72f3e28f3191f61bda00ca1010bb7f1e2ff
-size 142
+ Okrem desiatky slovenských fyzikov v centre pôsobí niekoľko ďalších expertov, napríklad v oblasti bezpečnosti či IT špecialistov.

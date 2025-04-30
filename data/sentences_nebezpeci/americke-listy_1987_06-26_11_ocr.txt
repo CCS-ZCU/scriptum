@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6848c41fe0303236aaa7bf021381742d6351e44636d14ad94c39179a97a307a
-size 140
+Jaroslav Dresler novinka moderní medicína
+nedostatek vitamina vést měknutí kost zvyšovat nebezpečí zlomenina obratel kyčelní kost

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d7ae0f5aa164ec70d26a7745a6963405ecaabe4d056666099d299be6442e35a
-size 176
+ Nikdo mne neodmítl — žijeme ve svobodném světě, kde má každý, neřku-li profesionál, právo na totální informaci, pokud se nejedná přímo o bezpečnost státu.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30ef97498feb3cf5a1ec08bcfcbfd638c912ffe86badfbe91cc735ea55d70a51
-size 191
+ Domov, ten kousek světa, který si člověk vybojoval a vyhradil pro sebe a své blízké, kde - ať obestaven zdmi či chráněn pouhým stanovým plátnem - nachází úkryt a bezpečí.

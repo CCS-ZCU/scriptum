@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e02a5577ed8ddfbcf28bda24fbebd3b8e2be80b9ae3a520121c2190ebf4fd1d4
-size 712
+ Sokolský manifest byl v anglickém znění rozeslán řadě vládních a jiných význačných veřejných činitelů ve Spojených státech a v Kanadě — se zvláštním upozorněním na odstavce, žádající, aby svobodný svět při chystané konferenci o bezpečnosti Evropy, kterou znovu a znovu navrhuje Sovětský svaz, který jedině tuto bezpečnost Evropy ohrožuje, nazapomněl na Československo, porobené a okupované Sovětským svazem, a aby na konferenci o bezpečnosti Evropy bylo důrazně požadováno odvolání všech sovětských vojsk ze zotročených států střední a východní Evropy a aby v těchto státech byly připuštěny svobodné volby pod dozorem Spojených národů.

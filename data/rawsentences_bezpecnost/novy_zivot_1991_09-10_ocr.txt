@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db8e97ec25eb55863e0ba4375c76ccb7e82a61c79c45178e995a7e101ac6ba9c
-size 97
+ Lebeuapin v Praze na zasedání, svolaném Konferencí pro evropskou bezpečnost a spolupráci.

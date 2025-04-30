@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6d5770c5c9ecb7d25b7031c438eb9b70bb02d472fa538e3e3f7f83e7bb11953
-size 35
+celý činnost trvat dlouhý léta

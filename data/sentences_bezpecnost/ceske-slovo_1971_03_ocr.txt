@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c10a8e04101da5f75c601b4c6a6992e1cf188c915068c885de32250178a85ec9
-size 33
+obávat presidentův bezpečnost

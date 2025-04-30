@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1de9b96b19d8be5e7a7dcbc25b6dee69d67c91d2201d017979cdfd09e8aa054
-size 54
+klokan mít břicho vak schovávat hrozit nebezpečí

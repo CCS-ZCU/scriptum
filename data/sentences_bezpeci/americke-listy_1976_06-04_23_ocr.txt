@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee59d6e6a7cf824989fb78f8f100754e0f7067b9c922f5431926fba3d1daab4d
-size 46
+pocit bezpečí jistota mít další setkaný

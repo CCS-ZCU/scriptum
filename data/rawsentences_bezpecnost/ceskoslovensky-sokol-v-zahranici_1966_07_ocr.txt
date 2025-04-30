@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d6e75678439df013d2dafd10d6263d8f905127e67b4abd0428a42a90a482420
-size 118
+ Odchod od jednotky i odlet z Anglie byl bez rozloučení, protože bezpečnost i povaha úkolu vyžadovaly utajení.

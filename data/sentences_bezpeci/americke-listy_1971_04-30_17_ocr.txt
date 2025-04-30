@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09be4c14fe5bfcd4f4c8464476dc78c37415da70a426bf2613576c18c438a9da
-size 68
+bezpečí chybět měřítko správný posouzený dosažený pokrok

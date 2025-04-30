@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bcddf664592c42f681282935b683ecbcb3762bb3f0cc0b06a7e6c59115a04dd
-size 75
+ Ani doma bys nebyl v bezpečí.
+ Byl v bezpečí jenom na jednom místě.

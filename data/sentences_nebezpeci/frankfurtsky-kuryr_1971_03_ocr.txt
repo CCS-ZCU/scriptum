@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e15c684aa2c4754c71dfa05034c1803d96544994a8b677acb0cdb9f097aff580
-size 65
+potvrzovat nebezpečí pohádka článek hrozba olympiáda éter

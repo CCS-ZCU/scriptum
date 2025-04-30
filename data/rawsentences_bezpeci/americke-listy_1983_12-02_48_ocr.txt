@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19079e8d6771ea553b6d98419c417a5cd5d50927cdcc82bfc2d6a40c4a04301e
-size 222
+ Všichni vyzývali světovou veřejnost, aby nezůstávala lhostejná k osudu tohoto velkého humanisty, který nikdy neváhal riskovat své postavení, bezpečí i život za každého, kdo trpí, kdo nemlčí k útisku.

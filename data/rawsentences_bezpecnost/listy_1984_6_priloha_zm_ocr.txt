@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:592d17b9d2ff8f38e071143ddded7c1efef817d78f92364d8e7aaec67c37915d
-size 555
+ Zároveň je třeba řešit otázky prevence: je nutný dozor nad hygienickými podmínkami života, nad nezávadností potravin, chemických výrobků, nad bezpečností práce; i nejliberálnčjší společ- nost musí uplatňovat represivní opatření k ochraně životního prostředí.
+ Státní bezpečnost automaticky předpokládá, že vůči ní neexistuje žádné lékařské tajemství a že její rozhodnutí o tom, zda je někdo nemocen či jak má být léčen, musí mít před- nost před objektivní diagnózou a stanovenou terapií.

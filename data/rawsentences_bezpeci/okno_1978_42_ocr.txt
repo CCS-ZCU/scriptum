@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84431abce094159fd756713c9f0a633e852b10a0a6064910a8a2c7f5e0412425
-size 140
+ Přesycený člověk chce pro sebe a další generace víc: jistotu, bezpečí, smysl života, opravdovou svobodu volby a přesvědčení.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:116076f8d600ee099d13a93dc0b10ef071d0edc2b4aa644096d73042281242b9
-size 84
+ Zpřístupnění svazků bývalé Státní bezpečnosti je umožněno zákonem č.

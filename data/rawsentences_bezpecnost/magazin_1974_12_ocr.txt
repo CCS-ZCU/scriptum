@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76ef0ba826d3605cb69a8b1697a17983533bace199d14093adb3fa089fd5afef
-size 167
+ "Čihošťský zázrak" byl v roce 1950 dokonale připraven Bezpečností proto, aby vládnoucí komunisté měli v rukou důkazy o "nebezpečné" činnosti církve.

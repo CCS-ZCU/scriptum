@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc36969e43d1f1591b2e5c202073920d6e6090a345040a16dbe7dcbe87633e87
-size 85
+ normalizaci země i ve vztahu ku konferenci o bezpečnosti a spolupráci v Evropě.

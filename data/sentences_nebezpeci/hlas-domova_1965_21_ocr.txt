@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0208b5caf02e3dd9f259d154249ea99a761617dec1affdd45c5e68e96f17bc6
-size 39
+pilota akce mluvit možný nebezpečí

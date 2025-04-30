@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe49044fc72298f0c4a4f71dafef22f7e1ff18ab09b13b67c9bf49d2def8b7a0
-size 33
+Roubaut odnést bezpečí nejsvo

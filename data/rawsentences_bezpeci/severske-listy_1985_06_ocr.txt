@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81a5714077e264f720390a051d157a3833e0105a3bd784951f1e21fef0d140dd
-size 88
+'- Pro matku je bezpečí jejího dítěte důležitější než její vlastní život.

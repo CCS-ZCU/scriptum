@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e57a44a87dbf84bfa14e5c28e9d9e5d0560ab7c86ce8c46033419c2ab098a6c
-size 589
+ Kvůli své tvorbě byl několikrát vyslýchán Státní bezpečností ve věznici a vyšet- řovně v Bartolomějské na Praze 1.
+ V posledních letech byl nezávislým komentátorem a analytikem v oblasti bezpečnosti a mezinárodních vztahů.
+ Babiš: Česko by mělo v květnu uspořádat další kyberkonferenci Česko by mělo zorganizovat další konferenci o kybernetické bezpečnosti, řekl premiér Andrej Babiš na tiskové konferenci po jednání s estonským předsedou vlády Jürim Ra- tasem.
+ Klíčem ke zlevnění je podle něj snížení požadavků na bezpečnost.

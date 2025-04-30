@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae0083708daf191c17549a1718a6b7f08a18f7a7f5fc579b974cf5b4f76ada36
-size 70
+dát říci nebezpečí zažehnaný přijatelný řešení čekat roh

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7307d07e19c945fd33e076aae068468916e61def070f094e9b1346e8e943914
-size 55
+nebezpečí válka nenřnházet zbraň mvšlenka lidé

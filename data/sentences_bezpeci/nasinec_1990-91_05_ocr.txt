@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9666ee0ab8698f608d181d6edde9f3bdafbe87d240d2becb299613fc5bc596dd
-size 24
+zabíjený vinný lidé

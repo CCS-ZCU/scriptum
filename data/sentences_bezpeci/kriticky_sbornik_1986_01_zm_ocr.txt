@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:431360a3064c24cd45e6d00678962cb81595216545476525529b1e1e06876708
-size 61
+kon šedesátý léta zhroutit jistota Lenka Procházko

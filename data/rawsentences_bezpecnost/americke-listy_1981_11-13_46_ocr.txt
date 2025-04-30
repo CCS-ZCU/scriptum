@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90469e1876c0d6a6be584286dfba8cf410abeca8cc174710075927f89edf794f
-size 132
+ října zahájeno v Madridu další kolo Konference o bezpečnosti a spolupráci v Evropě (KBSE) za účasti delegací 35 státu.

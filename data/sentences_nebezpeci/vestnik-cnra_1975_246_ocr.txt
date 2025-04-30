@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0e9bef1f78dc0f91ed438d996c4d2c554ffe0bb95887b5d6ebbe161059ad683
-size 54
+ČSA soudit hrozit nebezpečí vystěhování obávat

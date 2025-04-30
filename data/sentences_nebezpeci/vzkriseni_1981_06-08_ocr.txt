@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec2680b9f709c861dd6ef63c8d1ececf75900e35e1fdcc2d833a37c83b9e0caf
-size 120
+třetí lana Pavel značný míra změnit styl papežství uzdravit chodit bratr vystavovat další možný nebezpečí

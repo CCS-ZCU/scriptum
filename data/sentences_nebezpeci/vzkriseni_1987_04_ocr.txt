@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59d4ceff101f3dc762be0c9cd3479317f7cb5eac38561bbe1d12927669731bb4
-size 227
+svědomí kompas ukazovat správný cesta radar signalizovat nebezpečí
+moudří rodič snažit klást požadavek atát vysvětlovat vnitřní zdůvodnění svědomí neustálý nebezpečí vlastní prospěch povolný mírný

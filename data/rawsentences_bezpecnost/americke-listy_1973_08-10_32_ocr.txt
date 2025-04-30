@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb12fbbb0291d4f9831e46277f0a77067f770f033780a5037e32ea7a02b5ac50
-size 196
+ Technika v nepořádku Při červencové kontrole technického stavu motorových vozidel bylo na více než tisíci stanovištích v českých zemích přezkoušeno Veřejnou bezpečnosti na 60.

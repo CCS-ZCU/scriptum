@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17c1a3d29ed112f256ad32221d6a55f4bccdc8a8e09ae3b44074ae07df0b56e8
-size 47
+ tczka: Veřejné bezpečnosti byl předen sr.

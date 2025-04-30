@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c41904471cf5856b20375b54b5ed100f13a7f62b19160f50e021c66797600d99
-size 248
+ Nebudeme vinu svalovati na dny nevinné, spád pohrom přičitati hvězdám přečistým, nevědouce bezpečí hledáváme v jícnu hadově, nevědouce tančíme v opojení po sopkách, a naše srdce růže myslící se rozpomíná tak málo jen.

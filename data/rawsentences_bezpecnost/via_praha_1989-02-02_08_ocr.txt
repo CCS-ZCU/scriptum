@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:008551deb151152c02878747ee780aceb598109668cb301066e22bdc6067aaad
-size 110
+ V druhém do- pise ještě důrazněji požaduje, aby tylyusměrněny zasahující bezpečnost- ní složky.

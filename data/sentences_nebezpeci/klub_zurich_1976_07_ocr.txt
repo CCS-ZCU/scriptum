@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b31ed5eb3f1fe3d91c81eb8ff6438cace402b128a0c0d8cb38a66719f4f1094
-size 21
+holedbat nebezpečí

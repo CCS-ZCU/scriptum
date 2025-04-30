@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9abc1dadf59ad7da36cdcb78d64d3ca7d925fac0178acc2fe7932a4c97d588cd
-size 44
+problém nebezpečí další exploze město

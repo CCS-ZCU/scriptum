@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:173e037c9d957b47aad6fd0fc43f5fb73f9e5df69bf761ed5a52a23ca912f550
-size 43
+hro zentikec veliký nebezpečí nelásek rozkol

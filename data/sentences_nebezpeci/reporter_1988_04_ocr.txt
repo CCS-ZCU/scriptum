@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df997f7a31daf7b0c4e9d1f5c8fa7924d73e18c763c30c7b1928f89b19396092
-size 86
+moci spolehnout lidé poznat správný rozhodnout cesta chtít jít samostatný stát

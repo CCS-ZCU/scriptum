@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b98e2d717efd344665dff0e6567ab213574d2190889fd5a7d1cc4325df06b6f0
-size 40
+nos ponechat zdravý vzduch nebezpečí

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0896a4028827f4013501ce557cedf09f6b3f2d08598c19eaea992c3b80a26ec2
-size 260
+ Uprchlému českému králi Fridricho- 1626 1632 dopsal v Bílé Třemešné na panství Jiřího Sádovského ze Sloupna Hlubinu bezpečnosti.
+ Hraběti Rafaelu Leszczyriskému věnoval Hlubinu bezpečnosti, k níž připojil traktát Renuntiatio mundi, tj.

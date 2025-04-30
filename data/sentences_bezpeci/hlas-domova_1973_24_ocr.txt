@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a953e8752f3e7836cbc1d79b218615907f3ef0d63a28323587bd5b11b9d15100
-size 44
+poschodí telefon mluvit dodámat lék druh

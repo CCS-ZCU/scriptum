@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2de1c778c6b8d48828ea4c3445f293cd2bbc7e25de4d91d913a07196ec22c48c
-size 75
+vědět past mít pocit zvláštní bezpečí pasta moci ochranný skrýš

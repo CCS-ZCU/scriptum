@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ef9517f52510bf8e3ace3fceddf9cf19ff2b658c49a199901a269d71b04974f
-size 428
+ Přehnaná snaha policejních orgánů o bezpečnost nevítaných návštěvníků způsobila na příklad, že Shromáždění porobených národů bylo donuceno přeložit svoje obvyklé vztyčování vlajek porobených národů na budově proti sídlu Spojených národů na První Avenue do bočné ulice 47.
+ Bezpečnost, zvláště pak zajištění existenční, zaujímá stěžejní místo v životě každého z nás.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f1f7e27525649e904f1a34a9a726bffc715b02d9efd3a5e56a6c25d2e9cc637
-size 88
+pritom chtít veľa žiť bezpečí môcť milovať pracovať mít pocit nič deje dát

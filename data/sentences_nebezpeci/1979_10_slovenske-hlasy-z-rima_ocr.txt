@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ba49ead48d924145f07a86c7991aa65353a7ecd9d850dba6d1b3e10502aedfb
-size 107
+čítat príbeh vojak prvej svetovej vojna každomý nebezpečí modlit ruženec vysmievaný zlý kamarát

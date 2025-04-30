@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f55579dc92f7819daf3732e6d3210ac091714af5357bd38d43de629b86c84802
-size 44
+modlit hrozit nebezpečí okamžitý reakce

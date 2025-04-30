@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:128ebbd23826fcaaf6349e75911389dd2001df44d35c92e2234440679dd0bee7
-size 54
+; pří slu šn í ci Státní bezpečnosti- dveře .

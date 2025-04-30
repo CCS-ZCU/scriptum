@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2ecf223d96a50843edf7be8f94025f03b6d382932f24edcf46451c9cf4f9f539
-size 20
+černý černý rok

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cdbe76e12e5a4fcf46592901d39ca414b8a1a2d5264f4319aaf7975a93f04af2
-size 511
+A SPRAVEDLNOST PRO VŠECHNY ČLOVĚK VERSUS POLITICKÝ ZÁJEM V pravidelném publicistickém pořadu Československé televize MAJÁK jsem shlédla záznam rekonstrukce zásahu Sboru národní bezpečnosti v případu, v němž dva pachatelé odcizili střelné zbraně ostraze jistého průmyslového objektu na Moravě, údajně s úmyslem jich případně užít při nelegálním opuštění československého území.
+ O celou záležitost se začala zajímat Bezpečnost a posléze církevní tajemník.

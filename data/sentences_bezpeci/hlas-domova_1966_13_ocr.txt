@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1f6dc56e1653dbae4200a5eb9a6935f45ab0f13938d1360d2c8f5282e04ef7e
-size 59
+udělat dinace mít vystavovat bezpečí vyřídit pacient

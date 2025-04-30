@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27acbc214ff3cf0c7b7ea30e877da302336f0c9eb304669bd83b85530ff850f3
-size 29
+moci moci odpustit mel ptát

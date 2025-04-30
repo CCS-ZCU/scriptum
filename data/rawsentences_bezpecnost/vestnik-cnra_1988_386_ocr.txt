@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31f8dead761326c185802dafe351182e0f7df9544c3e71c2b5a2a5fe809ca042
-size 1584
+ Frowick KONFERENCE O BEZPEČNOSTI A SPOLUPRÁCI V EVROPĚ A ZÁPAS O SVOBOBU ČESKOSLOVENSKA (Projev amerického velvyslance Roberta Frowicka proneseném na banketu 22.
+ Tomáš Masaryk zosobňuje jedinečné ideály, které mě motivovaly a motivují v mém povolání a v práci naší delegace při vídeňském následném zasedání Konference o bezpečnosti a spolupráci v Evropě.
+ S vaším dovolením bych se o ně s vámi chtěl podílet — zejména pokud jde o zážitky, spojené s Konferencí o bezpečnosti a spolupráci v Evropě.
+ V roce 1966 jsem byl pověřen přípravou zpráv o bukurešťské schůzce hlav států Varšavského paktu, která byla povzbuzením pro de Gaullův koncept evropského uvolnění a pro sovětský návrh, původně předložený v roce 1954, na evropskou konferenci o bezpečnosti.
+ Budapešťské výzvě Varšavského paktu, která vyvolala zvýšený zájem o svolání evropské konference o bezpečnosti.
+ V roce 1972 a 73 bylo dohodnuto všemi účastníky, že by měly být zahájeny předběžné porady o Konferenci o bezpečnosti a spolupráci v Evropě (KBSE) a souběžných jednáních o Vzájemném a vyváženém snížení sil (VVSS).
+ Československá tragédie roku 1968 inspirovla nás, kdo jsme se podíleli na tomto procesu, abychom trvali na tom, že při kterémkoliv jednání KBSE musí být zahrnuta nejen sovětská agenda otázek evropské bezpečnosti, ale také přiměřená pozornost západním námitkám proti potlačení lidských práv a základních svobod v celé východní polovině Evropy.

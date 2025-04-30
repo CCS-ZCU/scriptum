@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:506abbe8ca8e59c327f093ce008b8af896a8b7dfa544f8bff90e13276cbe1777
-size 114
+certifikát potvrzovat nemocnice poskytovat pacient lepší možný péče zajišťovat vysoký možný bezpečí

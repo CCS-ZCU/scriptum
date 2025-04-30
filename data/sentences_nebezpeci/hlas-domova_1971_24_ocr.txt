@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae89af271be5be3192d2adcfcfbaa6992c1f01372e1471ee8cf98a8a34a84eef
-size 137
+titul dlouhý výstižný permanentní boj pravicový nebezpečí opřený zdravý jádro strana úspěšný dovršení konsolidace
+več

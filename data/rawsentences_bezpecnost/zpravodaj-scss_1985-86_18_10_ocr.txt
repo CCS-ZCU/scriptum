@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:583b7dc1b9971e12ff78c68b7e0354f24a100315ce8843968cdf176b2453475f
-size 627
+ Považuje za svou občanskou povinnost připomenout k desátému výročí Helsinek vládě, poslancům i ostatní veřejnosti závažnou odpovědnost za plnění zásad a závazků převzatých podpisem Závěrečného aktu a přijetím dalších dokumentů Konference o bezpečnosti a spolupráci v Evropě.
+ Je to odpovědnost za poctivou a důslednou účast při všech krocích k oživení procesu přeměny Evropy ve společenství svobodných, svrchovaných a rovnoprávných národů, žijících v míru, bezpečnosti a spolupráci při respektování práv a povinností a lidské důstojnosti každého člověka.

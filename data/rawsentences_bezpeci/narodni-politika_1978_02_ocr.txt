@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae443a4f6e0e2665b5eb693433035d5af2e840de635eef64e06e985ba9ee1949
-size 35
+ V hloubi pralesa jsi v bezpečí.

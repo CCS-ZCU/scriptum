@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70feae7b38e76f1d304bcbda1c9907ad48f14a1bffe48186861340f243cdf8e8
-size 129
+povězt snížit léta starý bohatý bezpečí puzený svědomí pohnutý zpovědník povědět pravit dopustit nízký zločin

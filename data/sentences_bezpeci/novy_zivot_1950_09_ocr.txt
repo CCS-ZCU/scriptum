@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:566d8105e2ff07d755ad01b0f32a1644710629df2b324cc011a8d82517de48c5
-size 31
+bolest utrpení doba nejistota

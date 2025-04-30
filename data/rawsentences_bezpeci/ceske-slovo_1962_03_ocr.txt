@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a02d8089f34af047b21957437988a7643ce5125df937d6ee18fc39d169cfc7e
-size 170
+ Ale víc bychom uvítali, kdyby Chruščov konečně už přišel s nějakým návrhem na spolupráci, která by zajistila bezpečí stamilionů, které chodí po zemi.

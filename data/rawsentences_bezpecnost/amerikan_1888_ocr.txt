@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f689bfe74b6e693849a42d2dcad06cce9ea4ed0d61a190773be1b3ed1649164
-size 198
+ Doufal jsem, že takto hlas svůj s důstatek přetvářím, abych v příchozím vzbudil pocit bezpečnosti a jej tak přiměl k tomu prozraditi vlastní účel tohoto tajuplného dostaveníčka.

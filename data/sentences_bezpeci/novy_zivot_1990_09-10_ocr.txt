@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:198190e0b0b0ba35bb05bcdea08b0279aeb8bbf1264c3b5ce17f712bc9f825ca
-size 79
+spekulovat prokazovat služba poukazovat možný bezpečí blízký budoucnost

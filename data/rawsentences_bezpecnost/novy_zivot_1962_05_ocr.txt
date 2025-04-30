@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55c883aa2d46264b55f9c6f017ca28574620588fc5a8340cd3a863fec2fa3ee2
-size 74
+ Katolické organizace pracovaly s naprostou přesností a bezpečností.

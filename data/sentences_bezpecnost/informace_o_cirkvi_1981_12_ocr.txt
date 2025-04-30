@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0b54ab4cb10c28baf8a6253383def2be46b875f2e9e3f708466b5bb8238d233
-size 45
+říjen vyjít časopis bezpečnost článek

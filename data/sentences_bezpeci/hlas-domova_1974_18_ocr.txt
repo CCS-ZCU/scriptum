@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:168bc1e418096b227a22602d84cbfc37bdc60e4f942bcdefd85745e811b3d650
-size 28
+myslit bezpečí mít radit

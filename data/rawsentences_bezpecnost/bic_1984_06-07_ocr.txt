@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:439309839125864401e8c38cf5be989ed20ed2b9c85ffa07bf7f86a7e2739fb4
-size 44
+" ' ' wirw WWW Nebezpečná “bezpečnost.

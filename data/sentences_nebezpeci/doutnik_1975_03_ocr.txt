@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2153b87567380ee4dcdbe7382bf0969fbc91a8a897fe9fbd30096ebb3fb958b
-size 51
+vést hrozit nebezpečí dům hnout ráno znsmeiat

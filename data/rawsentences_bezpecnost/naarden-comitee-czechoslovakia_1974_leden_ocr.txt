@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dae91d323fb4d00b705b92d2d50078dc6a1217be85daeb5a389afd96e6f7f64e
-size 63
+ Každý má právo na život, svobodu a osobití bezpečnost.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c127143aa2e847c1d83fa4c01cdfd429568f316626f7bd70202a9df15e9c079
-size 91
+pokusit téchtý prístav zmocnit útok kontinent vystavovat nebezpečí atomový konflikt

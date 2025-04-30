@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40d72241d5731a98a4b85e3689b8ef2e6ec264c81e7841751a3b91283b01a068
-size 74
+ Hrob TGM byl onoho dne pozorován příslušníky Státní bezpečnosti.

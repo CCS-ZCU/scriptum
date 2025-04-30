@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8dd3ff9865dcec02f2b9050ee8e9e783779419ae5624c8cecac3678af951d99
-size 167
+ Prošli lékařskou prohlíd- kou, dostalo se jim od příslušných referentů podni- ku všech rad a informací o bezpečnosti práce, byl jim slíben výdělek 5.

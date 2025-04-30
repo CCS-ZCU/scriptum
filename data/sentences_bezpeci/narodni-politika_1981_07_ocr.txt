@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75868e59a8a243d5c78dd27d5308cd4d88942eb5172e80ebb1a75a0e1f493a53
-size 26
+chtít hodinky drahý kov

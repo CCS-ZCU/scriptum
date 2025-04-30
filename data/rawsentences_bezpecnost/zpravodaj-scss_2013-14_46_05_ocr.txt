@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7da4b6fd427b5f9d7908fddfc904e86e88c532896ca506394d5fa341d697fe63
-size 110
+ Dnes je k dispozici 28 milionů digitalizovaných stran svazků, spisů komunistické Státní bezpečnosti.

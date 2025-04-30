@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5534ef1894d78389cef71b1e9079466ddd49d7db13a2dde5c26db95c15a55e2d
-size 104
+soudem k pobytu v psychiatrické léčebně-Praha Bohnice, pavilón 17, vedený státní bezpečností.

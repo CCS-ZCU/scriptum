@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9155768f911193c3a386b090c6bb110698b5f6b3e1d391209291e82706331211
-size 190
+ 18  zpravodaj 11 / 2000 Vojenský obvodový súd v Bratislave zastavil trestné stíhanie bývalého námestníka ministra vnútra ČSSR a riaditeľa Štátnej bezpečnosti Alojza Lorenca.

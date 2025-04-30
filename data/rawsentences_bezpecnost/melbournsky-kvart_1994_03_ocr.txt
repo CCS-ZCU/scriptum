@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7afed72b02cb5015fbd22ae697d8939a6bd83f1bf86734cb3e401aeddfd2a3be
-size 57
+ Předsedal Radě bezpečnosti na počátku tohoto roku.

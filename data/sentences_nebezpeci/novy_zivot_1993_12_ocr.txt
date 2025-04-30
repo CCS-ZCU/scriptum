@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14cd98d8534ec0567397e70deffa172e1a61ed556e9cd3d0bf0ef040a12d1a7a
-size 58
+rozpojit stránka znamenat nebezpečí formace člověk

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f5a89aaa275ef08712fc178c8a9b6d760c06a92262482bbc5f5e8e5d0c7d854
-size 328
+ připomenout zprávu, kterou nedávno dostal Výbor pro ochranu a bezpečnost od Policie ČR a chtěl bych vám připomenout, že v této zprávě se uvádí, že celkový rozsah ekonomické kriminality v ČR z hlediska majetkového postižení státu je od roku 1990 do současnosti 618 miliard Kč - opakuji 618 miliard Kč.

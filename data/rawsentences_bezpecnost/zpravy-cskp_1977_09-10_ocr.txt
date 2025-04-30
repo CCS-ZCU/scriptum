@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4db760c3418fabb7f96ad4c17939ef27d8f867f71b649fb9d77b3b9b5a958eb
-size 229
+bezpečnosti a spolupráci v lxel sinkách.
+ Hltám očima velkolepý přírodní zjev a setrvávám celé hodiny na místě,jež bych označil za krajní mez bezpečnosti,avšak ještě dost daleko od sopečného žároviště.

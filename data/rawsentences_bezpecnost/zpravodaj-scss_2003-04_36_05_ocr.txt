@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f6488b1f41893d271bb89219d01f5c517cc0559bc0d2155b89c003338a3c5bf
-size 224
+ Československé jednotky dohlížejí na odchod Kubánců z Angoly, na volby v Namibii, na rozdělování jídla v Somálsku nebo na bezpečnost Kurdů a Šíitů v Iráku, kde také hledají zbraně hromadného ničení.

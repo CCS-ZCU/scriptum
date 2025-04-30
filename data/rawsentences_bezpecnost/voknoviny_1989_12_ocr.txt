@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eed71b927fe18b7773c50698b308dde1218661aea519a9e1788b432db0ad433b
-size 89
+\ ústil, anebo jde-li o věc, u níž zabrání vyžaduje bezpečnost lidí na • '-'.

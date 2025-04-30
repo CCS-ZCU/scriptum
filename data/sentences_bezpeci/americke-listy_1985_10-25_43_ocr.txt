@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:103f6d642425bc5492b94299e7d72cf023f694955ac6bf88c47dce8e049e1d85
-size 24
+Lišák štěkot koupit

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d8a221dc4e6f4389d2a5bee8b1b3374b68e34f093c122e982f8c2ef2a14b3cb
-size 63
+neděle svátek šestinásobný zvětšený kapitál

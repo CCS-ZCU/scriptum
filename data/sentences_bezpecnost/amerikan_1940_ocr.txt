@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b2341fb59c47984ffb288b8b7277b7b66d7196d83b9641082d8cdcc8344d117
-size 79
+pomyšlení jít bezpečnost zbystřit pozornost přejít druhý strana

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec14c9896d8389bafe9c32ce767d6331d5c347f957d3e21dd910e5c3a9ab997a
-size 147
+— česk:slovenská vláda vydala,stejně jako ostatní satelitní v l á d y ,prohlášení na podporu Kolotovova plánu evropské bezpečnosti.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93d1c95107a537b464ce777570ab8448b4240e2e4718597839c737f464710ba2
-size 71
+osmý strana národní litr únor šestinásobný zvětšený kapitál

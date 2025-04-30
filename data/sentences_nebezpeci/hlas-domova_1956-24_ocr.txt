@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0bad777b3dc3c512e3d3cfe55a39322a1751d784d691950fc108f55e744989b
-size 31
+vystavovat nebezpečí návrat

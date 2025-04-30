@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3435499d9efd24bebcb46a8719a75fd86d16e81a92ffaa8c07abd8b598adda28
-size 346
+ Aspoň jednu vetu, která jc pro tento dokument, plný frází, typická: „V politice KSČ se spájej boj za sociální osvobození s bojem za demokracií, za národní svobodu a bezpečnost republiky.
+ Tak především se vyhýbají spolužákům, jejichž otcové slouží u Státní bezpečnosti anebo jsou příslušníky Lidových milic.

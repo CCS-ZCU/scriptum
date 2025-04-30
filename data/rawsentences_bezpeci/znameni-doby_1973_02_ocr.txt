@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:428b5e9da6a19254bcba66aeafc1d3889ccd87d1d2bfe39a4fe46735338392a1
-size 109
+ "Nemohu udínit pravdivé rozhodnutí, dokud žiji v bezpečí* - zdůvodňuje své odhodlání k návratu.

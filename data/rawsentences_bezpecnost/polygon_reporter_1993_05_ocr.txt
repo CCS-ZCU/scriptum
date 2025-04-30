@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf7ded4fe44d97ff0be4bca28c17eb46de624fe5ca8e3c885e0bd699125a333f
-size 124
+ Budou zdůrazňovat hodnotu přináležitosti ke skupině, nápadné chování, solidární bezpečnost a hrdinské činy.

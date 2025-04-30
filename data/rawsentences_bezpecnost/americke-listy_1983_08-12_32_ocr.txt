@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:349c1ad2aa3db5e0ecb911c4a71f61349729f0bf37db383ad69e3beaed041ec1
-size 194
+ Krize, o které ovořil Mitterand, se může podle těchto komentátoru zmírnit sérií konferencí a setkání navazujících na madridskou konferenci o bezpečnosti a spolupráci v Evropě.

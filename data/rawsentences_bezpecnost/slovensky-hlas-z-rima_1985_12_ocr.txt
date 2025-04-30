@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21a04eb56b687e9b24fbd28d7089fe491509626f34a01cb6c02c71d51aaa218e
-size 180
+ novembra tohto roku prebiehalo v Budapešti kultúrne fórum, ktoré bolo naprogramované v záverečnom dokumente madridského stretnutia o bezpečnosti a spolupráci v Európe.

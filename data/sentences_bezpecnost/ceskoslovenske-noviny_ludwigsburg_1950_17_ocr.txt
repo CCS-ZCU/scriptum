@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5962b7d4fe5e90f2b7bc62ac12fa256b23802fbe3a26c6af0489b62a42eeb889
-size 25
+vzniknout důvod věcný

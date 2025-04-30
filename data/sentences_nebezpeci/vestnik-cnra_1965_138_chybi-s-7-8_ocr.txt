@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:625000b8e3b583955520b9f4852fee5955a9acbcf477bdce0e5dedf0b9499355
-size 72
+československý národní rada léta nebezpečí upozorňovat pracovat

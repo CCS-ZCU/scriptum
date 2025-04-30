@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:618a59fa25e71f063a8bbf9a619cab4515aaff85fa217e45bb5e058a2bd7a23e
-size 85
+nebezpečí obecný znechucení ztráta důvěra vnucovat otázka vývoj mít zájem

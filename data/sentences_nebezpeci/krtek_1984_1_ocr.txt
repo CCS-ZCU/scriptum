@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8fd90a118d26629c942c0691d75dec793ed3a56a07a46f61986cfa5be11cab4e
-size 46
+charta znamenat zvládnout volký nebezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:baa3612e63db6d956705e0ce7be954279c33fdd86039dc3ded7273c62990284e
-size 91
+další věc pan Kojzar psát ulice Bratislava plný příslušník sovětský bezpečnost

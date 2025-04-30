@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d5b76110a6656e2765297aa7fe4f27aca062e5a1c267dba25a82712b8a0d58f
-size 195
+ Není možno odhadnout, co stojí vydržování tajné bezpečnosti KGB a jiných takzvaných orgánů s miliony informátorů a udavačů; lze předpokládat, že to jsou jistě ohromné sumy.

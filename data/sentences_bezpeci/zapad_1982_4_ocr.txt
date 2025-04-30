@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:579a31a4deb70a71dfb48ee057d76a718ff6645b660542d61000b0be1f1955e2
-size 35
+bát žlutý bezpečí strana SSSR

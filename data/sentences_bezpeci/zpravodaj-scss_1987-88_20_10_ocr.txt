@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44851779b9cfebf4956451b2ec2cf13225b7d813f20cd912418d3856be120eb5
-size 61
+Vojáček dostávat střelivo zbraň stačit pocit bezpečí

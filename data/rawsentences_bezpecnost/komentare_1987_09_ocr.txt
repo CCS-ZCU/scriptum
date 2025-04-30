@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b33284f08a3b95c28f31cf8f4ab9a5d97fe10a9982cfb5c23bc10afe71956180
-size 584
+ /4/ Odborová organizace v podniku má právo pozastavit rozhodnutí podnikové rady nebo ředitele podniku, jestliže jejich rozhodnutí je v rozporu s dohodami uzavřenými s odborovou organizací v podniku, popřípadě ohrožuje-li bezpečnost života-nebo zdraví pracujících.
+ Zástupce státu má právo poza- stavit rozhodnutí ní zájmů obrany a rady, kterým by bylo ohroženo zabezpeče- bezpečnosti státu nebo konkrétních závazků z mezistátních smluv; o právních následcích pozasta-  za vení a o jeho, účinnosti platí obdobně ustanovení § ZQ odst.

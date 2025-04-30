@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:03041a67218e6e2ce7830184b17cc178489f42a0fc705b5e291569f9595a2afc
-size 291
+ 173  Z retrospektivy se nám československá dvacátá a třicátá léta mohou jevit jako nenásilný ancien régime, který od občanů úspěšně odvracel extrémy politické brutality a jestliže jim nezaručoval rovnost, poskytoval jim aspoň bez rozdílu své lidumilné bezpečí.

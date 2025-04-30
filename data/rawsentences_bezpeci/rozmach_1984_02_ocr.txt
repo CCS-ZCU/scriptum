@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ceaddd7741fd095c47f5d943729bf7c066e5c50fe4d135761a46bea8bc3e84c8
-size 49
+ Vidím je u stolu, srkat čaj bezpečí, tepla.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36496ad944e170b0d5f5f2015cd933796d7b3ce6629a5d67953b545d8c2edab9
-size 58
+článek upozorňovat nebezpečí sever hrozit Austrálie

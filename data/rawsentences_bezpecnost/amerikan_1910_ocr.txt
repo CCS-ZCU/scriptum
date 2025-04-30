@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:50d0750229c1fe79cc3b7e905b0a5db5bf43f21ef1b44be0f930b16cfd3a44e4
-size 229
+ Kdyby jen městská rada z ohledů zdravotních vydala nařízení, že dílny musejí býti prostorné, dobře ventilované, pro zdraví a bezpečnost dělnictva různá opatření učiněna, bylo by tím již mnoho učiněno.

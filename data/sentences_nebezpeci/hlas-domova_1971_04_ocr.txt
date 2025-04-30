@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4de4f97a6f9786272e4e12c2cc4b995f7ac2ca33b4693ca573663bc360c4770a
-size 104
+emigrace skládat lidé mít vyhraněný ideál hrozit bezprostřední nebezpečí jít dobrodružství

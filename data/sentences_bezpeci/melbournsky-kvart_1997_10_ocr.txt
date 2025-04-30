@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70ea3de91a518ce34528b43c87b1a890efb04d146a3abe6f2829f7f3b7a4183f
-size 110
+zaostření úsilí získat velký pohodlí dosažitelný daný podmínka jediný hmatatelný míra bezpečí

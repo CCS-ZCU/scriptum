@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e1c6d209dfffc0c0a7c4370e6988717f4655c8771d4363202d26f38d50e971f
-size 37
+nebezpečí deportovaný Solženicyn

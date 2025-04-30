@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4275b2d7ae35aaaf9431337e2516dce2ed739b64d323565a6aa9a16f67fcf424
-size 51
+stalinský hrozba horší hitlerovský nebezpečí

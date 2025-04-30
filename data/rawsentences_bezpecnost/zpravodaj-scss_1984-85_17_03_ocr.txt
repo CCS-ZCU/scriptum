@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abbf5d0acd0c58a0c3d38c5b3cd19f0d321d5333f6d803f339fbd956d4ce0446
-size 81
+ září, Rada bezpečnosti OSN.
+ výročiu vzniku Zboru národnej bezpečnosti.

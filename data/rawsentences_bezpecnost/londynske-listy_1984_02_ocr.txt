@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:622b2b01cc4c40997c6cfe468bbfe86b26ab1dedb21782de46eacdd608239bde
-size 352
+ vnitra, komunisty Václava Noska podrobit se většinovému vládnímu rozhodnutí ve věci přemístění neko- munistických důstojníků Sboru národní bezpečnosti v Praze.
+ (RSC> Po šestiletém neúspěšném pobytu v západním Německu odvolala Státní bezpečnost zpět do Prahy svého zaměstnance filmového scenáristu Pavla Juráčka.

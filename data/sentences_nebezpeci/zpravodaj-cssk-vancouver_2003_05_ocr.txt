@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:384eb93dcb9091ccd5942ca837db72d2caf4359c8970980213e1e5b4b6d2ca08
-size 62
+konec konec přestálý nebezpečí vinit
+další nebezpečí

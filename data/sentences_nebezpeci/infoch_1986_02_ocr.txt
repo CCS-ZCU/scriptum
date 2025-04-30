@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2285ef749a8b84617c835737d8aa94092e0497f6895d31ac5f0fb753b63e9e66
-size 46
+kadlo básník filozof větřit nebezpečí

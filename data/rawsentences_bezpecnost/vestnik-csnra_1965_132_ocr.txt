@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd750529a57f41d0af0b801f84a42e07adddc29ca50486e2d644211d8a0091f9
-size 351
+ Stižen slavomamem začal Vráťa porušovat základní pravidla bezpečnosti a tím se stával nebezpečným nejen vlastní organisaci, ale i jiným, s nimiž její členové přišli do styku.
+ Stal se velitelem stráže národní bezpečnosti (SNB) při ministerstvu vnitra a když se vrátil do armády, vypudil velitele ženijního vojska, gen.

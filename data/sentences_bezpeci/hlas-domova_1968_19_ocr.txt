@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2dd5494e154100e04e226b7d95f1535041263f6d84e6d3d5e909f82c7b666c2f
-size 18
+pozvednout zbraň

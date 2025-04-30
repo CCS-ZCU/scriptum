@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e132a5052638ca6b4a6e31e9a149467f84cdc7f749a87d35ab8a886dfc44b4f1
-size 488
+ Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+ Pánové už měli připravenu bezpečnostní službu pro převoz těch našich 2,8 milionů do bezpečí.

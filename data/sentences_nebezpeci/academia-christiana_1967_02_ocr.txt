@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba3a75a02cc8f48d725ba5ee376f221eb93ed896a0c468ea03947969284f399e
-size 24
+vznikat druhý problém

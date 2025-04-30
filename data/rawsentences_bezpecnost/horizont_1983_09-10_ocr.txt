@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:893c54efa688d4fccac5ba5409e113af2e6b8a7c28a57377a2f54c205d26bd0c
-size 224
+ Ak sa v plnej dôvere spolčíme a nedáme sa zviesť pocitom bezpečnosti, ktorý vzniká v exile, a keď nikdy nezabudneme na bratov, ktorí ostali vo vlasti, nájdeme ohlas a silu, aby sme zmenili beh svetových dejín.

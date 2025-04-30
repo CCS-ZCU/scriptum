@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbc2c4e11beaf8f96842d2c60c935d3e44b4b0f8e02f2262a2328abc270f6d55
-size 185
+ Preferujeme silný stát, schopný zajistit bezpečí a právní jistotu svým občanům, schopný účinného působení v oblastech, které jsou mu jako verejné službě vyhrazeny.

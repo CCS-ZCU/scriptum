@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e52e7bce1a96d9c1acbd1b78ffd757f1622d21e9dc18c2f05ead69b176ff558
-size 94
+ Octl jsem se v prostředí vyšetřovny státní bezpečnosti známém mi z dří- vějška.

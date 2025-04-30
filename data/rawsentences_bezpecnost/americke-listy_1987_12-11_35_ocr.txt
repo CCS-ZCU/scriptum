@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:741c95dfc5a93898ca374a1234df6002edf42a5df501944ab6eb6f3f46d083f6
-size 79
+ Akce bezpečnosti proti schůzce kolektivu mluvčích Charty 77 V neděli 22.

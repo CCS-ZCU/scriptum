@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a600fa05f080f31d49845690e987e3bbbe8f6aea6e48ce676ca87625084989a8
-size 171
+! Páni docenti daktyloskopie, psychologie, pathologie, nemoci zhoubných, nemoci zjevných, nemoci latentních, vynálezcové zámků patentních, včetně bezpečnosti.

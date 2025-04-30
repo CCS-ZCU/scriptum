@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:017f8edf0c601d6b5df85a31cc3e1c3de71dd9cdf972df8bdae681a965822eb4
-size 58
+Klinger Klinger Čížek zaručovat naprostý bezpečnost

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a33f3a702643205479ce85ba0afad2842c2b2de37c5e3bcd3b2cec694aaa57c
-size 109
+ Gustáv Husák si opět jednou zabásnil a nazval československou armádu "pilířem naší bezpečnosti".

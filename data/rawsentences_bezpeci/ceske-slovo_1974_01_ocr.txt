@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7eda9f5ef43e31cda3b4aa8e91db0c601b343677730d16b26934c7a3a634cb64
-size 117
+ kde lidi obklopuje bezpečí a hmotný blahobyt, je jen prvním znamením stísněnosti, která se všude vzdouvá.

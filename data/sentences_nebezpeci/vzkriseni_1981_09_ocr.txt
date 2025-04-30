@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d9c7619d09a7fff3b373beeba816cb9dd2ba8d609b27685afe8512163a8bd95
-size 65
+budoucí osud svět nebezpečí vyvstaiit lide sxutnout moudří

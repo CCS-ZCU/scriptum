@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29011a69d4330dd0d7adc47334027c1533d55f9ae8c8101d91019c03acb7bd58
-size 204
+ Jsou opět zabíjeni nevinní lidé; starci, ženy a děti, silnice a cesty se opět zaplnily ustrašenými lidmi, kteří se svými ranečky zbylého majetku prchají kamsi do imaginárního bezpečí.

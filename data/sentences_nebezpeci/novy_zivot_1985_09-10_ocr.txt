@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0665a66255be6fade193c69d85935669eb4c651a6e4cdbd9acb935971630041f
-size 74
+nebezpečí stát závislý mít muset cvičit schopnost dovést odříci

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30961489e187e28f6fb33e6ffaff2c4f915960f1627485800eed995a6073c9fc
-size 73
+ Trest nadto má za cíl bránit veřejný řád a bezpečnost občanů.

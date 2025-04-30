@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a8958abcb744fe8bc365503a535eca491a71b548d7af1e0fee34ae3d532a65a
-size 123
+vydávat nebezpečí rozpadnutý muset rozeznávat
+muset brodit pás sníh nebezpečí upadnout propast pasta nastražený

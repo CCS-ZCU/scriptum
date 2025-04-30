@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9d1cde287183208f14bf596b25ee65059726fe9d345d9d7703aa8371080021d
-size 180
+ Podle sdělení městské správy Veřejné bezpečnosti se motiv činu vyšetřuje.
+ Rakouská bezpečnost přitom odhalila organizované pašování a přechovávání zbraní.

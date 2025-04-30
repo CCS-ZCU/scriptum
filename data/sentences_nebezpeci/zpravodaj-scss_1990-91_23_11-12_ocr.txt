@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cd9c0ba31b49ee224febb47ee7c0c0ce5954b201ff8b37395682720d4fcd44e
-size 48
+Švejnar zastánce volný plovoucí kurs koruna

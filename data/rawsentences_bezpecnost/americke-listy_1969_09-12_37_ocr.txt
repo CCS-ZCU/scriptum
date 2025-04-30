@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6fc5892dfe617e30139e43575e1bed3c593587f0912367016acf57877ca8694
-size 173
+ Loni byl sepsán a na ÚV KSČ uložen 300 stránkový seznam lidí, kteří se dopustili na druhých křivd v padesátých letech a kteří dosud slouží u bezpečnosti.

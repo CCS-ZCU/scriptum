@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30717d2deca40e702dd5a197c7f0ae0cb4372a45ba36ab59f09e4719c50f062f
-size 214
+ České slovo bylo až do podzimu roku 1989 terčem různých dezinformačních akcí špionážního oddělení komunistické Státní bezpečnosti, jak o tom napsal ve svých článcích a knihách v USA např.

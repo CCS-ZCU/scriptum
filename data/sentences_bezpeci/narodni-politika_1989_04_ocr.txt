@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34eb739d07f06d5e68feeec3c9cb6a1df48782363bb573b86d9afa4b8a0acd14
-size 54
+osmý strana národní litr duben zamýšlet podnikat

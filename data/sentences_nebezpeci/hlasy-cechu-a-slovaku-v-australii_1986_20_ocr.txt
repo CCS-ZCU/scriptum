@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25c8261f7c9317819871b42660507115249d48fef2a4b3143511f480b0442201
-size 65
+přečtení Běženec velký optimista položit otázka vydržet

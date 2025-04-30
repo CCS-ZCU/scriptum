@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e469abe3e348eaa9cc2661b0f38e15730130211dc36513a9d60cea1fdccfe090
-size 249
+ „Předměty z pokladu byly ukládány do depozitáře muzea, které mělo dbát o jejich bezpečnost, než bude zjištěn majitel.
+ Nejprve bude nutné pořídit nové rámy a také zajistit bezpečnost tak, aby se krádež už nemohla opakovat.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3118f67f6440c057eedce9ff2ede70aff8d9f76c70ed881e888d7b5714f9b10d
-size 104
+otec prohlásit slib dát hodlat vydávat nebezpečí život fronta jít podzim vyhlédnutý stromečka

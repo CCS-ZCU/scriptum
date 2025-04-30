@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1726fa363cd8a6279b7ec3035c161cd99deceb250e41999ffb4e06b9a290524f
-size 81
+Ivan Blatný nemocný člověk považovat ústav jediný místo cítit bezpečí

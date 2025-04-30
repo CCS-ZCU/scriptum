@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99af367aa0117bafd5900a8e9493921e9c37b6949bce417daeb93dd7793f54f1
-size 58
+vyměňovat byvatel vydávat nebezpečí stát smrtelný

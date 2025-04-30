@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db2b0592b6c5fd09c6aafaa9484988df7132599923b632f15c97d2d93f0b3b4d
-size 78
+jít živo tem znát propast bezpečí ohrožovat cesta bezpečný bezpečný

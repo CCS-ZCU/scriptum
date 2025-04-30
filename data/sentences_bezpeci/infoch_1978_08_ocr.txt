@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55e119147216e4ee8db95f3f4ecf582354cfd9f76dde60d565498b3b1d95d8df
-size 42
+země říkat policie říkat bezpeč nost

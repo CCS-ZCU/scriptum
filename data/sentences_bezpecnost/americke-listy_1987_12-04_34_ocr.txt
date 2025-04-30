@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b78f7a8bf70dbc1a68f1e86a8983ffadfc08dac510d19ad3aa89ee37075fdfa
-size 65
+státní bezpečnost případ jednat požehnání nej vyssí místo

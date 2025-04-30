@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f441f2f8ab5ddbefef4b89597d63dc95cb4924aed35675ca21492dd0e1657d4d
-size 31
+března strana americký Elsto

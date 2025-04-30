@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d8a0382b0afdc4aca6ffb3fa3bdbfccd58cbcecb4c7a5b151c39a767a8976e7
-size 59
+koupat jistota zdraví přežít gorbačovský nebezpečí

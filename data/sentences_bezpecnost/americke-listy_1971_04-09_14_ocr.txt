@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd6eb6c56a0327fd326856573e80f3e08e861a795a6ae2fc04dfb6ea73826e8a
-size 32
+otázka povzbuzení přirozený

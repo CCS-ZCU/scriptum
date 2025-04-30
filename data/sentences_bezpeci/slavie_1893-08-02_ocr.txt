@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:962f8e4449eb2c885e2ce3c8e32f9b7d7e8145117573e3930c72e738d4f485f4
-size 39
+Navzdor velký obtíž zachrafiování

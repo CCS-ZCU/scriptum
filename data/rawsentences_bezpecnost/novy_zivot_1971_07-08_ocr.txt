@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49303c178184dc927a7ae66ac1887db54716d3234a4a3aabe6562d09423b5038
-size 393
+ * Pod titulkem » V letadlech bezpečněji« Večemi Praha referuje, že každý cestující se musí kdykoliv legitimovat, před nástupem musí odevzdat věci ohrožující bezpečnost leteckého provozu, jako zbraně, výbušniny, žíraviny — a tyto předměty lze přepravovat jen s předchozím souhlasem dopravce; tak se mají znemožnit »úmyslná či nahodilá dobrodružství«.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:623102e2f65d9bb8162893ca9a2f01f57ef8a973a85a945ae0dd7d5ed7610f63
-size 108
+ Tedy už nejenom kvůli "normalizaci", ale v širším aspektu i kvůli "bezpečnosti" ostatních států.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:243d3e79708edf8a1ce07da7a2910a787575e7bbeafd3e65c6b643627bf23b9e
-size 122
+ Několik majitelů digitálních hodinek se stopkami začnou měřit čas a po minuto vyzývají Bezpečnost, k zásahu.

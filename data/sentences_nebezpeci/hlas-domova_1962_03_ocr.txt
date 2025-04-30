@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3939ef1660ee097c092a783542bea1784cc41acc8efb13817fd929946e83358f
-size 50
+budoucnost plný nebezpečí chvíle moci zklamat

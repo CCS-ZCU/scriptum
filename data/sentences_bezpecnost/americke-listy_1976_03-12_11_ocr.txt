@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7443feb86a19e51716efcf6c59615a5ac800dcb409d3c91ccd9895fff83b5a63
-size 18
+vážený soudruh

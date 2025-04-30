@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f18e6d3241198a8159dce262cfda17988bf5c8a5382ed5335099c819e3fa5885
-size 54
+
+milovat rozesmátý dav ohrožený bezpečnost hlava

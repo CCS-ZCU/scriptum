@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:145b5d089b2458641a317e3c1724e8b7ae7acb90a2c85474cc1dc6c105e82be7
-size 54
+bezpečnost vykázat potvrzení národní výbor obec

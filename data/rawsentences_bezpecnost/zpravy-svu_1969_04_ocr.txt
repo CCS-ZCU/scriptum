@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c59e48bb9b4ad37158742374afecd86cfaf1281c4949e5c610049c2512b26a80
-size 78
+ ZNB (Zbor národnej bezpečnosti, predtým SNB), alebo ZSSR (predtým SSSR).

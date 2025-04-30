@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ff135b9275c1bdc53bc9adb6b419c624d03d38eaf68b223e398656433fbc07d
-size 39
+bezpečí vyrůstat západní Německo

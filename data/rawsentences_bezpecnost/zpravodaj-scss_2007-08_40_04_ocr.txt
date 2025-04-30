@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8aa6460bfc51e3efcc7c9d3ff07d0ad6c549d1004bbf6d29f8ea32493d97f43
-size 158
+ Podľa oficiálnej štatistiky Úradu bezpečnosti práce sa na Slovensku v posledných rokoch stáva priemerne 100 smrteľných pracovných úrazov ročne.

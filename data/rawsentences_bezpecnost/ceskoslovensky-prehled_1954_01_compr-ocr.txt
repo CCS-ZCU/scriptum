@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9904f7b948b2646517e1741cdac2a5fae2498b45b9034f2d464ab96ff1d5dba
-size 96
+ "Chceme pro sebe a pro ostatní svobodné národy maximální bezpečnost za snesitelnou cenu.

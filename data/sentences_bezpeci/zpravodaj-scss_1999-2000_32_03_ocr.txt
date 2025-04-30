@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:498a746fdb227376f57b6d9ba32f9941dfc4580975f9f3cb0636a7b914ad623f
-size 51
+švýcarský bankovnictví pojištovnlctvl skýtat

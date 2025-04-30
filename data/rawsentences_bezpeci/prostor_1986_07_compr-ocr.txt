@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9678a15ffba79f09e1c1938fad2cc100dd76e5223ee00af28d57489b62c28311
-size 858
+ Protože dítě musí být před světem chráněno, je jeho tradičním místem rodina, jejíž dospělí členové se každý den navracejí z vnějšího světa, stahujíce se tak do bezpečí soukromého života uvnitř stěn svého domu.
+ Tam, kde je lidský život vystaven světu důsledně, bez ochrany soukromí, bez jeho bezpečí, tam se jeho schopnost žít ničí, Ve veřejném světě, který je všem společný, mají váhu osoby a rovněž práce, tj.
+ čím důsledněji a radikálněji vkládá mezi soukromou a veřejnou sféru oblast sociální, v níž se soukromé stává veřejným a naopak, tím více ztěžuje život svým dětem, jež svou přirozeností vyžadují k tomu, aby nerušeně dospívaly, bezpečí skrytu.

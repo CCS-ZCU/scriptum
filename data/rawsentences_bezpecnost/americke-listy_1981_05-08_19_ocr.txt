@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7117144f30e82f8f5a07866930fe354234ac0bd1e22b630eab9c8b6d968a339d
-size 279
+ Chvályhodné však je, že výrobci se snaží o stále větší bezpečnost jezdců a o ochranu životního prostředí.
+ Co se týká bezpečnosti, nezůstal vývoj rovněž stát.
+ Že by mohl přispět k bezpečnosti řidičů motocyklů, v tom si jsou odborníci zajedno.

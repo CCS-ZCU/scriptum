@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b9c755e412ef475949ad0b6e92724a32548fbcb59c3564ec6d37f9aa8bf7f19
-size 103
+ Toto ohrožení pak často vede k potřebě vytvářet si jakési názorové bezpečí, svět jistot.

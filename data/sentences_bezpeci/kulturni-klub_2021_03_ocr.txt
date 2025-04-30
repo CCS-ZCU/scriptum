@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2ae99f081411475290dddeeb1e7dc55327a2ec1da5d3a997cbe19f752f605745
-size 64
+zájemce mít možnost užít výstava pohodlí bezpečí domov

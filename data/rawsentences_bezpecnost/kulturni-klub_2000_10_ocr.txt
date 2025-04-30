@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2315b2dcd4fd38630379fb4ffcee3e9035df082bbcc635e2e86063f30b3eb48
-size 1840
+“ zajím avo sti události 19  u d álo sti Úřad obvinil důstojníka Stß a hrozí mu zánik Vyšetřovaní případu německého občana Petera Placha, který byl na základě zfalšovaných dokumentů obviněn tajnou bezpečností z vyzvědačství a v roce 1979 odsouzen ke třinácti letům vězení za špionáž, nabralo nový směr: Úřad dokumentace a vyšetřování zločinů komunismu (ÚDV) obvinil důstojníka tajné bezpečnosti, který byl pravděpodobně za Plachovo odsouzení zodpovědný.
+ Je podezřelý, že jako vyšetřovatel StB - Krajské správy Ústí nad Labem, pracoviště Litoměřice, opakovaně v úřední místnosti vyvíjel psychický nátlak na občana Spolkové republiky Německo Petera Placha a donutil ho podepsat protokoly sepsané lajnou bezpečností.
+ Úřad ve stejnou dobu obvinil ze zneužití pravomoci veřejného činitele další dva bývalé příslušníky komunistické Státní bezpečnosti.
+" Překážkou lepších vzájemných vztahů je podle ni otázka bezpečnosti jaderné elektrárny Temelín a česká neochota o tomto problému jednat.
+ Výkonným orgánem by podle této představy i nadále zůstala v upravené podobě Rada bezpečnosti.
+ Rakouští experti: S informacemi o Temelínu spokojeni jen částečně Rakouští odborníci studující bezpečnost a rizika české jaderné elektrárny Temelín jsou s tokem informací, které jim poskytuje česká strana, spokojeni až v poslední, relativně krátké době.
+ Prohlásil to na tiskové konferenci ve Vídni představitel skupiny rakouských odborníků zabývajících se bezpečností Temelína Wolfgang Kromp.
+ V řadě oblastí proto spoléhá na expertízy německé strany, která rovněž bezpečnost Temelína hodnotí.
+ Stalo se lak například v oblasti celkové protipožární bezpečnosti.

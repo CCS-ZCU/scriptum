@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:097f2c03a643d9f444eaae5a7c8ee1dacca8002cbb3a6c5a32992a9e27330e58
-size 228
+auto přijet kontrola přísný host sdělený jít ‘‘na vlastní nebezpečí
+dotazovat nebezpečí dům hrozit informace mít nárok sdělený příslušník SNB vybavený příkaz hrozící nebezpečí něiak specifikovat

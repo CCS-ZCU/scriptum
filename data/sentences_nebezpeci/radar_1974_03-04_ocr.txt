@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57b629ea334a9b0cfa80c63aabaf7f8b60dce295fb3ab9826a7fe2ea1d8732e3
-size 40
+hrozit nebezpečí zahrát mžik hlína

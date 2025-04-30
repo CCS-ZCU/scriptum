@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb6d7fd11fa3821acb1eb5b4fae44a647961cb90eccd49979a8cd205cd303201
-size 48
+nebezpečí vrátit veliký postavení Hendrych

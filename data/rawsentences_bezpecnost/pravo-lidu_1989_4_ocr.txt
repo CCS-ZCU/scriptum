@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be2844a05cad2372b868098fdd29e84213f5585a256c01bb70a446d680c5e9e1
-size 153
+ * Glasnost prý se nevyhne ani KGB, tvrdí Moskovski Komsomolec v článku o diskusi mezi vedoucími mládežníky a pracovníky státní bezpečnosti.

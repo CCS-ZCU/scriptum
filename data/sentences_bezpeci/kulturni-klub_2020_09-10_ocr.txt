@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f58f8e8117bb764e8daf834e15b9e1fc8f1492ca5e74ec6df8ec5e9ee6dde25
-size 63
+hledání výchozí bod souviset pocit domov bezpečí vzejít

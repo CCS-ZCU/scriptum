@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86a18d5a6b4169c905ca762d7662868de32bb200b1b53c2d69a095d378c1f8cd
-size 60
+ukazovat cestovní bezpečí osoba československý vis pas

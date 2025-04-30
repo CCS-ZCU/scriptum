@@ -1,3 +1,1912 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59bb1fcbf687ee58dbd0607912f23c5120af8c67b2b65c6d8ee5be184043f929
-size 170272
+apad časopis Čech Slovák cena $ ročník číslo únor západ časopis Čech Slovák západ bi ISSN vydávat Collegium Bohemicum dvoumésíčník redakční rada Eva Limanová Stanislav Reiniš Josef škvorecký Miloš Šuchma Ota Ulč redaktor Miloš Suchma Administrátorka Milada Reinišová grafický úprava Věra Držmíšková Ctirad Smolík sazba tisknout dopisovatel Kanada Vladimír Cícha
+Jan Drábek
+Richard Drtina
+Pavel Kantorek Jiří Krupička Marta Procházková Jaroslav švestka Arnošt Wagner
+Aleš Zeman USA Blanka Jičínská Bohumil Krčil
+Vladimír Křiž Ivo Pekárková Eva Rheinwald Ivan Sviták Jiří Sýkora Leoš Zeman Austrálie Petr Hrubý Jan Jirásek Jaroslav Kováříček Miloš Ondrášek Německo Antonín Brousek Zbyněk Ceřovský Ota Filip Vilém Hejl
+Karel Hvížďala Karel Kryl Antonín Měšťan Ján Mlynářík Jan Pulda Pavel Taussig Karel Trinkewitz Skandinávie Robert Lamberg Dánsko Michael Konůpek Norsko Helena Kosková Švédsko Jan Kristofori Norsko švýcarsko Dušan Šimko Vladimír Škutina Holandsko Radek Kučera Josef Staněk Anglie Jan Křesadlo Francie Ivan Kraus Itálie Stanislav Auský Rakousko Ivan Medek adresa redakce západ box Terminal P O Ottawa Ont K G článek muset vyjadřovat názor redakce
+redakce vyhražovat právo zkrácení úprava příspěvek
+redakční uzávěrka únor duben červen srpen říjen prosinec adresa administrace západ box Waterloo Ont N J
+předplatný příspěvek tiskový fond inzerce změna adresa zasílat adresa administrace
+předplatný rok rok $ Kanada $ US $ USA US $ US $ ostatní země US $ Československo devizový poštovní předpis cena jednotlivý čisla $ odběratel USA Kanada moci platit osobní šek
+ostatní země bankovní příkaz mezinárodní poštovní poukázka evropský předplatitel
+předplatný Evropa lze poukázat poštovní účet číslo poštovní šekový úřad Hamburg BRD
+bankovní směrový číslo
+předplatný lze poukázat přimo bankovní konto západ středa N Ont N H TSA no
+ročník číslo
+obsah unor Československo Č e litr e n rozcestí
+Václav Písecký devizový b litr o á d držet vepře d koryto Martin Kincl létat volný j pták Ota R metr b o e kůň
+lidé Fjodor H n Kacíř H e metr n C hodina rok o metr ý svět E podnik o T o metr á š Novotný Polsko československý solidarita Krzysztof T rok kůň w společnost exil exulant kolaborant dějiny vec národ
+Ján Mlynárik W litr d e metr rok zpívat Vladimír Kříž interview Pavel Landovský S rok metr á vzpoura rozhovor Karel Hvížďala divadlo český pokoušení Igor Hájek právo pokoutní právní porada Ota Ulč literatura Opustíš metr n e Jan Vladislav katalog číslo t e n á ř společnost ý c hodina záznam Ivo Kotrlá Sedmihlásekek J Křížová dopis
+obálka fotografie Daniela Havránek redakce nazvat pražský zeď D a d hodina číslo litr litr á d á metr e podnik rok podnik g číslo n kůň rok t Z Á P A D U
+P rok společnost í metr e podnik ř e d e j t e d á litr společnost metr n á metr metr n c hodina ž metr y litr t e ž e b y o Z Á P A D metr litr á j e metr
+západ světadíl Československo Václav Písecký Československo přítel Praha psát česko slovensko Gorbačovův éra zo stávat starý
+listovat československý oficiální noviny časopis poslední doba zjišťovat pravní
+porovnání sedmdesátý léta první polovina osmdesátý léta československý tisk znít neúko ideologický řeč docházet jistý pohyb
+řada československý oficiální perio dik určitý mir ustup kompromisní neostalinis tický ideologický pozice
+tisk objevovat různý názor začínat formovat výrazný novinářský osoba nost
+kritika diskuse odehrávat takzvaný kon socialistický platforma
+samozřejmý odvážet kritizovat komunistický stra nu útočit podstata systém
+kritizovat dílčí jev jed notlivý osoba instituce
+nejsporadní ný případ druh objevovat rozumný stranický činitel tajem ník zasáhnout zájem pravda spravedlnost
+tisk kritizovat dokazovat úřední obviňování protisocialis tický podvratný postoj opodstatněný správný oběť byrokratický zvůle komunis tický úřad zločin socialismus dopustit
+Novi náři dnešní Československo dojít obvinout vání protisocialistický tendence marxistický ideologie moci odmítnout nesmysl
+míra kritika československý tisk případ zoruhodný
+liberální časopis uveřejňovat zřejmý zaštítění marxistický článek zabývající svátný historický téma únor
+komunistický verze historie přepisovat
+lepší oficiál ních československý periodikum týdeník mladý svét
+časopis pravidelný přinášet původní reportáž rozhovor důsledný odhalovat drsný aspekt dnešní česko slovenský skutečnost
+myslit stát časopis chvíle zastavit
+mladý svét zabývat palčivý problém trápit mladý lidé nedostatek byt
+MS číslo vyjít uvěřitelný článek fotografie manželský dvojice dítě rozcestí mít byt Praha nucený bydlet dodávkový auto
+zátek chod chodit stanice metro Kačerov
+konec minulý rok mladý svět uveřejnit kritický článek chmelař ském JZD Cítov funkcionárka zakázat diskotéka mladý česáč chmel
+místní činitel mla dům svět byrokratický linie snaha časopis přivést průšvih zorganizovat celý tažení složitý podpisový akce protestní dopis poslat ÚV KSČ
+pozoruhodný MS číslo redaktor Jiří Franěk celý funkcionářský spiknutí halovat
+MS číslo psát redaktor ka Dana Emingerová jiný souvis lost žejesmutný Československo stěžovat štandartní reakce svítit došlápnouc
+Anastázie Kudrnová shledávat MS číslo návštěva brněnský Fruta zaměstnanec dotazovat zkušenost zavádění nový způsob práce dělník mluvit
+chtít říci říci moci moci psát noviny
+redaktorka vydobýt konkrétní odpověď chtít kapitalis tický morálka komunistický pe níze
+Kudrnová psát číslo podobný důvěřivý postoj setkávat návštěva gottwaldovský Svit dávat jméno
+vyhodit
+mistrový jet uzený vydělat
+Uka zojít šička dostatek byt nucený bydlet Gott podnikový internát žít pracovat volnický poměry mášteplota sedma stačit mistrový změřit depsat kontrolek doktorka
+stačit dojít mistrový moci sednout telefon zavolat doktorka uznávat mít lidé
+číslo mladý svět uveřejňovat reportáž fotografie shro máždění mladý lidé Kampa hrob John Lennon
+událost znevažovat snažit otupit politický ostří
+mladý svět číslo otřesný článek havarijní stav městský památkový rezervace Olomouc zřítit část dům
+obyvatel mar žádat rok oprava
+mladý svět číslo vídat vážný nedostatek lékař severočeský kraj
+odmítat sever Čechy stěhovat vyhláška ministerstvo zdravot nictví rok rok zakazovat lékař působící severní Če cha přejít místo jiný část republika
+reakce mladý lékař možnost zaměstnání severní Če cha dnešek zůstávat logický vězení jít
+mladý svět ekologice káno situace severočeský kraj mír zlepšovat pražský ekologický situace špatný
+ekologický námět mladý svét zabývat
+číslo dovídat zpěvačka Marie Rott rová muset odstěhovat Ostrava Praha Ostrava trpět chronický zánět dýchací cesta
+číslo prosit redakce mladý svět výmluvný dopis severočeský čtenářka časopis ekologický devastace severní Čechy psát kri tický nedostatek odbor ník kraj prohlý bítě
+číslo uveřejnit hrůzo strašný reportáž únik bifenyl vodní tok jihočeský kraj dlouhý nezájem úřad ka tastrofa
+číslo protestovat dop spisovatelka Jindřiška Smetano vá plánovaný stavba hotel pražský Kampa
+MS číslo referovat praž výstava architektonický návr hů soutěž nový staroměstský radnice
+návrh ubohý
+výstava návštěvní kniha adresa československý architekt poznámka svině
+bydlet jižní město vyprávět dr zapadnout jednotka intenzívní péče donošený kojenec mocnice Praha
+Podolí dělení dovézt Švédsko Zápa dě dlouhý léta používaný zařízení umělý plien ventilace donovat nýcha kojenec rok odvázat lo použít lékař jistý přístroj správný zacházet stačit pár lidé poslaný půlroční stáž umělý plien ventilace naučit naučit ostatní
+mladý svět číslo brát pozastavování film československý kraj
+film centrální úřad povolý ny distribuce krajský kulturní stře diska promítání oblast prostý muset povolit
+číslo uvést řejňovat interview válečný stiha Pavel Kocfeld rok smět létat část vát ky strávit Anglie
+interview zet ňot Kocfeld kolega léta bezdůvod vězněný
+rozhovor český rockový zpěvák hudebník uveřejněný mladý svět vyplývat podstata poslední léta československý úřad perzekvo váně
+rok Václav Neckář Hana Hegerová pozvaný turné NSR pražský agentura Pragokoncert pozvání odmítnout Necká ře Hegerová pozvání informovat
+rok Prago koncert znemožnit vystupování západ lepší česko slovenský rockový kytarista Vla dimíra Mišík
+Mišík mít rok rok zákaz veřejný vystupovat
+překvapující dostat hluboký deprese
+rozejít první žena skončit mocnice
+dílčí dlouhodobý zákaz postihnout Michael Kocáb pražský výběr skupina zakázat rok skupina Barel rock Pavel Váša brněnský skupina kopec další
+rockový zpěvák mladý svět vyjadřovat potíž úřad otevřený
+číslo zmiňovat Honza Bořil skupina Barel rock čas skový pin vystupovat tancovačka domovský město Žďár Sázava večer přijet slušník veřejný bezpečnost lidé sál oznámený mít džíny muset sál opustit
+lidé začít nadávat dojít strana kanice výsledek skupina zakázaný vystupovat
+MS číslo říkat Petr Váša brátní něnský skupina Zkopec Zkopec původní záměr stát litický kapela
+udělat sluchač úředník
+vadit průšvih mrzet říci
+vidět bigbít pouhý lidový zábava
+
+lidé mít bát bát
+mladý svět kritizovat neústup nost českovenský rozhlas tele vize odmítat vysílat kvalitní rockový hudba vyse MÔJ
+Optimizmus čerpat
+vysychajovat Prameň Pavel Taussig lánit souhlasit klást ab surdní podmínka zpěvák přepi sojit text
+mladý svět chápat úřad Československo zvát významný západní rockový skupina skupina moci vystupovat východoevropský země
+československý fanoušek hromadný jezdit Maďarsko
+kontroverze otištěný mla dým svět vášnivý číslo lo uveřejnit ostrý výpad starý čtenář rockový hudba
+mít mladý rád jazz psát čtenář rock Československo plýtvat drahý deviza
+mladý český hudba níc vybavený moderní techna kao kapitalistický stát naký pena dolar mládež vydělat
+dopis následovat bouř livý reakce široký čtenářský obec
+část dopis uveřej něný MS číslo autor plést jazz swin psát fandit
+pisatelův generace oznout čilo hudba produkt třída ního nepřítel milost vzít dixieland hudba utlač nýcha černoch
+názor chtít táta děd vydělat vale dolar zábava lze odpovědět mládež nést vina vydělávat směnitelný koruna
+popiratelný hu debník podivný tvor výrobní prostředek muset vydělat trh moci koupit
+zbývat podniknout strastiplný ponižující cesta probojovat byrokratický agený pasový politicko přehravý kový systém vydělat zahraničí
+návrat odevzdat agentura polovina honorář val ta
+zbytek odečtení náklo dů cestování strava ubytovaný moci svolení úřad dovézt hudební nástroj
+hranice vyměřený čtyřicetiprocentní clo poplatek
+dočíst MS žeren vydělat táta děd ukradnout
+podívat další oficiální československý tiskovina
+zajímavý hospodářský noviny týdeník ÚV KSČ
+číslo letošní ročník uveřejnit kontro verzní článek odborník otázka výživa Tomáš Husák název jít jít
+článek mít veřejnost smírný ohlas
+mít Husák jinésrovnávý stav zdraví československý obča nů zdraví občan členský stát OSN
+zjišťovat českoslo venska současný doba stát vysoký úmrtnost rakovina koronárna nemoc srdeč cévní příhoda mozkový nemoc srdce céva
+číslo vyjít říjen hospodářský noviny otisknout pozoruhodný článek Valtra Ko márek ředitel prognostický ústa vu ČSAV
+Komárek varovat dojít československý hospodářství hluboký strukt rální změna československo ztratit možnost odbyt zboží západ země sovět ský blok
+Komárek zdůrazňovat Československo trpět hypertrofie těž kého průmysl rozvíjet auto matický samopohyb vytvářet zdání ekonomický prosperita falešný
+Československo vyrábět vyrábět
+československý hospodář ství nutný zavést tržní princip
+trh Komárek dokonalý civilizační mechanismus obsluha běžný třib lidé
+těžký vidět smyslnost zestátnění formální združstevnéní holičství kominictví klempířství instalatérství taxíkářství jiný malý podnik
+velký nika mít vyrábět ovzduší konkurence mít zajiš těna participace mezinárod níchy trh
+ekonomický reforma muset bíhat ruka ruka politický změ namě demokratizace psát Valtr Komárek
+podnik pracující základ tržní mechanismus muset mít možnost formulovat nabí zetutá cena zboží českoslovný sko muset bezpodmínečný usilovat zahraniční konvertibilita zboží ména
+dosáhnout možný cena obrov skůho dovoz technologie západ
+dovoz západ mít budouc nost ztrojnásobit
+import mo derní elektronika dát zaplatit Česko slovensko muset niknout západní trh
+moci proniknout komplementární druh zboží střední jakost
+špičkový trh kvalitní zboží proniknout
+československý vývozce ničit dosáhnout úspěný nutný naučit mít možnost reagovat pružný zahraniční poptávka
+dosavadní pra vidla styk československý obča nů cizinec umožňovat
+Komárek zabývat ekologic ký otázka
+současnos závažný vidět problém konto minace potravina jedovatý látka problém synergický působení řada škodlivina karcinogenní tagenní toxický účinek rok stavený celý populace početí
+upozorňovat zátěž populý škodlivina poslední doba zvyšovat dodávat podrobný analýza vliv škodlivý látka obsažený potravina obyvatelstvo tajný
+západní pozorovatel čes koslovenský vývoj vyskytnout názor uveřejnění Komárkův článek hospodářský noviny doba Jakešův vedení nový československý vláda poměry utužovat svědčit mocenský boj československý vedení
+průbojný týdeník svaz český spisovatel kmen začátek rok oso mostatnit kulturní týdeník tvorba
+nabízet zajímavý čtení
+autor psát časopis kmen velký skupina lidé nazvat liberál
+pře oficiální český spisovatel mladý dé střední generace pře spěvek poznat rád československý kul turní scéna zavládnout plný tvůrčí svo boda
+bát překročit povolený mez
+klima stránka týdeník kmen připomet ná atmosféra absurdní hra Václav Havel
+havianá lovský nositel moc dát rozkaz svo diskutovat
+český oficiální spi sovatel příkaz plnit svoboda diskuse
+jít ohlížet rameno
+mnohý autor kmen tvůrčí kritický impotence časopis vy dům
+číslo psát Petr Cincibuch zveřejňování kritický skutečnost mít dráždivý nádech připomínat mrskačství masochismus otravovat děsit
+děsit dostávat polovičatý rekognoskace terén dílo umě lecký dělat dílo úplný
+trh zboží vědět
+ignorance pohrdání strana úřa dů znát
+chtít slyšet
+zajímat věřit většina liberál mladý střední gener zřejmý mít mlhavý povědomí hrát český literární scéna šede sátý léta
+bezpocha zakázaný autor rehabilitovaný rehabilita ci zasazovat zakázaný literatura znát
+přístupný
+zkušenost
+ohnisko zájem
+skupina liberální spisovatel autor kritik starý generace osobní zkušenost blematika literatura šedesátý léta obeznámený
+starý autor Kmeni slední doba vystoupit obrana zakázaný český literatura
+kmen napsat čla nek stalinista ného přispět různý komunistický číst názit forma dopis
+příspěvek kmen výjimka
+případ článek Eva Foj tíkový Moskva znát uveřejněný kmen číslo Fojtíková útočit sovětský prát strojek týdeník Ogonék šéfredaktor román Anatolij Ry bákový dítě Arbat Kmeni re cenzovaný kladný jiný litovat sovětský svaz odsuzovaný Stalin
+článek vyvolat československý veřejnost velký odezva
+šéfredaktor kmen obdržet dopis
+jiný věc rozdíl liberální spisovat lů stalinista mít Československo
+kmen nistický příspěvek vyskytnout čtenář mít tendence považovat článek gramový zásadní
+příspěvek stalinista začínat objevovat jistý váhavost
+jistý míra platit Eva Fojtík
+vznikat určitý pluralita názor
+konzervativní stalinistický výpad kmen odvažovat podrobit kritika
+velký problém časopis kvalita uveřejňovaný příspěvek nízký vyskytnout výjimka
+většina zveřejňovaný článek mnohomluvný nudný
+kmen otiskovat různý irelevantní osobní polemika skuteč kvalitní kritický časopis mít snižovat
+časopis kmen jistý míra docházet autor ský diferenciace
+přispěvatel psát jiný
+listování číslo začít čtenář vyhledávat jistý jméno vyhýbat jiný
+značný handi cap časopis kmen šéf redaktor Karel Sýs zrovozní vzor odvaha spisovatel ský žurnalistický talent
+článek Sýs patřit dogmatický komunista
+druhý strana lze upřít posled rok šéfredaktor rozho dovaný časopis zařadit tolerantní
+typický reprezentant skalní komunismus Kmeni Jiří Hájek Jan Kliment letošní rok časopis uvést řejnit jediný krátký příspěvek
+první číslo letošní ročník přínášet zásadní Hájkův projev literatura autor přednést Dobříš
+příspěvek psaný tupý dřevěný funkcionářština
+slovo text Hájek dopracovávat dos jednoduchý převratný hlavní myšlenka mít reha bilitovat český literatura léta
+jiný Hájkův příspěvek článek číslo Kmen přetiš těný Izvěstije
+nudný zabývat československo sovétský literární výměna
+článek hodný věc místo Hájek zapřísahat sovětský literární kolega ruština překládat antisocialistický pamflet Václav Havel emigrant Milan Kundera mani festačný zříci národnost pře slušnost český literatura sic
+Čech čeština překládat ruský podvratný dílo Solženicynův souostroví gulag
+potíž sovětský svatý Solženicynův dílo připravovat vydání raněný Hájek dodávat interview Václav Havel otištěný sovět ský časopis Sobesednik český soudruh překvapit
+Příspa vek Jan Kliment otištěný číslo Kmen tvrdý stalinistický útok sovětský film Alexandr pušanský dopis mrtvý
+Kli ment líbit film nukleární katastrofa existovat jacísi mocipán zavádět pořádek další teror
+klo mentův vkus film pe simistický poraženecký
+příspěv čišet rád Kliment film zakázat moc
+jiný komunistický pře spěvek primitivní demagogický článek Karel Sýse vyjít kme číslo název vymknutý klý
+jiný Sýs padat zakázaný spisovatel Karel Pecko František Kautman
+pozoruhodný Sýsův paskvil reagovat číslo Štěpán Vlašín
+psát básník Karel
+Sýs ovládat vzácný uma namíchnout článek vrstva čtenář stať mknutý kloub pobouřit prum dérnímoralista stoupenec Char polemika František Kaut man Karel Pecka zapálený ctitel přestavba sovětský kultura výpad Jevtušenko ctitel aktuální próza scénář Radka John
+Vlašín zdůrazňovat lidé dřívější období postižený kritizovat
+stejný obtížný útočit desátý léta Československo zaujmout klíčový pozice člověk muset obávat odveta
+kmen číslo přimlouvat Vladi mír Přibský rehabilitace řada zaký zaný český spisovatel
+Kon krétný jmenovat Ludvík Aškenazy Arnošta Lustiga Vratislav Blažek Jan Procházka Karel Michal Ed varda Valento další
+Přibský žít autor vynecký chán slovník český spisovatel století redigovaný Milan Blahynka vyjít Praha rok
+číslo Přibský článek reagovat Štěpán Vlašín
+zmiňovat knihovna kniha emigrant daný rok index volný půjčovat omezení zrušený
+Pavel Taussig
+dodávat heslář slovník záviset představa autorský kolektiv
+informa brněnský ústav slavistika ČSAV současnost připravovat nový dějiny český literatura zabývat český spisov tele emigrovat d íla autor napsat vydat Československo
+nový dějiny mít psát rový 2ert Vaculíková Sekyra Ludvík Vaculík emigrovat
+Vlašín vysvětlovat zahraniční tvorba exilový spisov tele český literární vědec znát
+Pouš emigrace možný
+vyvolat komplikace
+zmínka Vaculík řadit emigrant zaký zaný spisovatel žít čes koslovensko Vlašín zsít ňot
+číslo časopis kmen editor slovník český spisovatel století Milan Blahynka reagovat kritika dílo neto podrážděný
+pozoruhodný obrat posuzo vání český spisovatel žít zahraničí zakázaný český literární vědec ná kmen číslo listopad
+krátký zpráva kritický analýza dél český autor publikum jící emigrace stát trvalý sa část výzkum poválečný literatura pražský ústav český světový literatura ČSAV Infor movat zasedání komise literární kritika teorie listopad klub spisovatel Hana Hrzalová
+jít konkrétní reakce říjnový usnesení výbor svaz český spi sovatel člen komise připomenout nutnost reflektovat předpojatost hodnotit vědecký úroveň práce kritik literární badatel považý váně sporný
+jít jistý zají mavý zpráva
+oficiál československý předpojatý lite kritický analýza západ vydaný dél vypa data muset počkat
+kmen uveřejňovat ukázka kontroverzní literární dél ruský otiš těna sovětský svaz vydání plánovat
+Č přinášet úryvek Pasternakův romý doktor Živago překlad Jan Zábrana
+číslo citovat Adolf Bra naldový pasáž český překlad auto biografie Graham Green kus živo mít vyjít pražský nakla datelství Vyšehrad rok
+kniha vytištění pozastavený léta smět uve dena prodej inzerce
+Branald uvádět zmiňovat Greenův kniha citát vybrat
+kmen číslo otiskovat vinný pasáž Hrabalův Proluk
+rok dílo vyjít označovat československý Hrabalův dílo rukopis
+číslo uveřejňovat kmen ukázka orwellovský román ruský zakázaný autor Jevgenij Zamjatina mít vydaný nakladatelství Odeon
+časopis zmiňovat kniha českoslo venska mít vyjít rok edice světový literatura vysázený sazba rozmetaný
+fotografický otisk zakáza ného vydání vyjít exilo nakladatelství index rok
+zajímavý ukázka Zamjatinův román otištěný Kmeni vybraný překlad česko slovensko rok zakázaný vyjít index
+kniha přeložit Ja roslav Vlasta Tafel
+číslo uva řejňovat ukázka Ripellinův kniha magický Praha
+stručný pozoruhod níjký příspěvek
+kmen číslo srovnávat Ondřej Neff recenze tit lem anatomie totalitarismus Páralův nový román Zemé žena kniha George Orwell docházet násilnícka systém utlačovat specifický způsob osvobozovat určitý typ lidé jiný systém odsa zeni role nýmand
+kmen číslo krátký noticko František Křelino číslo oznámení smrt Vladimí ra Vokolka
+článek zmiňovat autor zakázaný
+celý číslo věnovaný Franz Kafka
+kmen číslo přinášet interview Kája Saudek tvůrce český comics slavit kresba film chtít zabít Jessie
+Saudkův comics poslední léta českoslo venska index autor smět uveřejňovat obskurní spe leologický časopis
+číslo uva řejňovat kmen interview Ladislav Smoljak Zdeněk Svěrák nový film jistý sezóna pranýřovat blahý československý praktika schvalování divadelní inscenace
+umělec hovořit cenzurní zásah vlastní divadelní představa
+mít zakázaný používat číslovka
+divák moci domnívat narážet historický letopočet
+kmen číslo přinášet interview Jan Schmid šéf pražský liberecký divadlo Ypsilon
+Schmid říkat český divadlo krize
+dobrý mít Československo poslední léta problém
+dvacátý číslo Kmen interview vášnivý reagovat Arnošt Goldflam celý kultura krize
+obecný podpo ra konzumní orientace pasivní ven mání kultura pseudoprolém administrovaný byrokratismus tabuizovaný oblast tvůrce žijící mrtvý úplný absence kva lifikovaný kritika proměna lopravdivý referování známkovaný nedostatek prostor opravdový diskuse malý kontakt dění svě mít následek krize plynoucí ztráta zmatení hodnota celkový duchovní úpa dek
+pokles úroveň myšlený lidé umět chtít diskutovat obava případný represe mít vliv jiný sféra
+proměna spo lečnost základna dostačující změna dílčí
+chtít vý zvát diskuse reagovat
+mluvit otevřenost
+řečený změnit
+vypadat jiný českoslo venský noviny časopis
+postup jící diferenciace československý periodikum znamenat časopis glasnosť dotknout
+horší ohled známý politický týdeník tribuna uvést řejňovat útočný tvrdý stalinský članý ky trvat temný pade sátý sedmdesátý léta
+počínat rudý právo
+vjistý ohled druhý strana rudý právo otevřený
+čes koslovenský oficiální deník poslední doba vyskytovat alarmující článek ekologic kůs jiný společenský problé mech
+příloha rudý právo haló sobota září uveřejnit příklad zajímavý diskuse lékař Československo placený
+letní měsíc rok uvést řejňovat týdeník tvorba kapitola nový kniha publicista Ivan Brož život Jan Masaryk
+jediný pře nos Brožův text doprovázený řada zajímavý dáv publikovaný fotografie státník
+kniha nový hrubý zkreslovat historie skalní linistický pozice
+kuriozita podpora zkres lený argument Brož citovat pa měť Prokop Drtina Českosloven sko osud uvést vydaný Toronto rok
+československý glas tisk dívat lidé českoslo venska
+
+potíž perestrojka českoslovný
+lidé mít komunismus chtít demokracie demokracie přívlastek
+trápit Československo porov nání západ západ obyčej míněný NSR tech zaostalý
+obecný skepticismus znávat rudý právo zdát lidé poslední doba nistický úřad smělý
+říjen příloha rudý právo haló sobota přiznat začátek rok konec srpen stát redakce deník anonymní dopis čtenář stěžovat různý článek list celý loňský rok tako vých anonymní dopis
+závislý československý aktivista poskytovat telefon roz hovor západní rozhlasový stan cím svobodný Evropa čes koslovenský vysílání BBC
+Altern tivní kulturní sféra česko slovensko úřad zvládnout telný
+duch revolta pronikat uznávaný umělec
+pozastavovat známý pražský hudebník recitovat jaro veřejný stoupení Praha báseň sečský přehrada udělat kruh stát povídat učitelka pětiletý holčička kopat míč
+hodina stoj malý kruh holčička chlapeček
+Stoj piátat
+masitý učitelka plavky rozvalovat lavička vychutnávat moc
+zbýt chlapečkový holčička koupat míč mysl divat
+divý
+přimhouřený vička hlas všemocný vykřikovat další iména odsouzenec
+bát drobečkový
+kopat balón
+vyrůst nakopat prdel
+dojít projev solidarita povolený alternativa kulturní scéna veřejný
+sobota září folkový festival Lipnice kritik Jan Rejžek přispěvatel časopis kmen melodie aj festival uvádět pódium pub pozvat spisovatel Václav Havel
+Havel veřejnost vystoupit léta
+pódium Havel nucený minuta poska tovat účastník festival autogro
+policie zasáhnout obávat publikum
+Rejžka Havel zkritizovat rudý právo tvorba
+časopis kmen doba Rejžkův příspěvek objevit
+sobota září dojít kontakt domácí český exilový kul turní scéna
+Budapešť den uspořádat exilový zpěvák Ja roslav Hutka Vlastimil Třešňák koncert píseň česko slovensko přijet účastník
+koncert vystupovat oficiální zpěvák českoslo vensko
+situace Československo ovlivňovaný vývoj sovětský svaz
+docházet značný konsternace československý oficiální místo zasáhnout dnešní sovětský otevřít nost Československo
+lovina září dobříšský zámek konat setkání zahraniční bohemista překlada tele oficiální československý spisovatel
+informace rozhlý sový stanice svobodný Evropa kání přivést var ruský bohemista
+bohemistka jméno Taťána Čepota revový Dobříš zeptat československo začít uveřejňovat kniha český spisovatel žít zahraničí
+sál nastat ticho slyšet upadnout špendlík
+známý linistický literární teoretička Hana Hrzalová Čepotarev odpo vědět Milan Kundera český spisovatel
+dodat český spisovatel žijící zahraničí psát špatný odtržený živý čeština
+Taťána Čepotarevová namítnout otázka spisovatel psát záhada Československo vyjít rozerový mána Kunderův žert Skvo recký zbabělec
+člen ruský delegace zájem přečíst stalinistický útok Eva Fojtík sovětský perestrojka vyjít kmen číslo odnést větský vyslanectví Moskva informovat šéfredaktor týdeník Ogoněk článek časopis reagovat
+sovětský spisovatelka Dobříš vznést dotaz mít chápat stanovisko soudružka Fojtík
+říci Eva Fojtíková nezno mená
+stanovisko
+muž Jan Fojtík nezno mená
+stanovisko
+stanovisko ÚV KSČ
+slovo šéfredaktor kmen Karel Sýs zčervenat vztek
+závěr disk dodat Bohumil Hrabal Komenský zemřít cizina zůstat Čech
+Československo vzniknout celý řada nový závislý skupina Polsko československý solidarita závislý mírový sdra žení iniciativa sociální obrana spo lečenství přítel USA skupina český dítě veřejný vystoupit příležitost dvacátý výročí sobota větský invaze hnutí občanský svoboda progra mem otevřený zasazovat zno vunastolení demokracie českoslo venska
+člen iniciativa signatář stou pence charta lidé střední věk aktivista zá vislý mírový sdružení skupina český dítě mladý
+
+mladý lidé obyčejný statečný postoj komunistický úřad kompromisní
+ukázka část prohlášení skový český dítě Praha vydat listopad pražský pole říjen Praha václavský náměstí rozehnat záviskn demonstrace poslední dějství konec komuň stický strana Československo říjen ukázat státní moc komunistický strana Československo plný nahota
+manifestant pamětník ob dobný manifestace václavský náměstí říjen rok fašista zraněný student Uni verzita Karlův Jan Opletal
+léta situace opakovat
+fašista vyměnit uniforma
+sila slavit f f číslo t e Č e w V ý rok M metr opomíjet <5 ten fřáfat
+jedny ¡ ckvbý jtdfí prttipeš připomínat j e Čds ndehýl e^ fo vyťtánj^ pdilednice Iám mSjrfe stoupit násl^dje série lednice iopohlednice atóp C pWrífoiC série pohlednice Av P ¿emj IrW^krnujf podnik š Vedeta ekvívtllerttý jiný mžný
+Orjmta pbta pobd bankovka kole lek n&ko pcžWný pukat ^ I^SM ToMÁš Novotný W Wimzertst
+kawgaiťdo Rjinrc QM L Al&hraba
+pochybný vítězství komunista tajit jít
+moc hájený dostupný zákonný prostředek
+Komunistic káno strana Československo strana zkorumpovaný úředník léta moc pošlapat zneužít vlastní ideál strana klam podvod nestoud ný lež hra lepší svět spravedlivý rozdělený statek role ochránkyně zájem pracující lid národ hrát
+uvěřit dobrý úmysl snaha změnit
+udržet udržitelný moc vládnout
+konec uspíšit
+aktivizace veřejnost projí vila účast občan závislý demonstrace Praha srpen říjen překvapit úřad disident viz fejeton Ludvík Vaculík srpnový září autor přiznávat srpen václavský náměstí jít věřit Čech zmoci
+demonstrace první
+předcházet demonstrace pražský staroměstský náměstí prosinec den lidský právo bratislavský demonstrace náboženský svoboda březen
+různý místo Československo konat obrovský ná boženský pouto
+poslední Saštín západní Slovensko září zúčastnit lidé
+mezinárodní vývoj veřejný mínění zahraň čí úřad závislý občanský aktivista přestat pronásledovat jaro nesmysl zemřít vězení obránce lidský právo Pavel Wonka zřejmý rozhodnout zoufalý pokus vešký rou aktivita závislý občan potlačit
+snaha chartista ostatní občanský sdružení uspořádat Praha závislý diskusní fórum policie důsledný mařený kový závislý setkání konat jiný východoevropský země
+pražský demonstrace říjen rudý právo zahájit známý hystý rický kampaň namířený rozvratník imperialista pra vicový síla proslout zej ména sedmdesátý léta
+zajímavý úřad tradiční oslava VňSR listopad odvážit uspořádat pražský ulice
+Ko nala palác kultura vstupenka zvaný Augustin Navrátil moravský Lutopecen autor katolický petice požadující občanský náboženský právo podepsat československý občan říjen prohlášený chorý uvězněný pes chiatrický klinika Kroměříž
+červ nu slovenský katolický akti vista Ivan Polanský odsouzený roz množování závislý literatura obyčejný tvrdý rozsudek rok vězení
+vzatý vazba Ivan Jirous Jiří Tichý Petr Cibulka kněz František Lízen další aktivista
+vězněný člen zá vislý mírový sdružení Jiří Stencl Tomáš Dvořák Luboš vydra dr Hana Marvanová
+Dr Marvanová obviněný trestný čin buřování mít dopustit vyvolávat nedůvěra role KSČ oslabovat úloha ozbrojený síla
+činit zřejmý aktivistka NMS důsledný spojovat myšlenka odzbrojení myšlenka lidský právo požadovat zavedení náhradní služba odpírač vojna důvod svědomí
+náhradní služba existovat země východní blo úloha ozbrojený síla zdát narušovat
+situace dnešní Československo rozporný československo léta stagnace nom jistý pohyb
+budoucnost záviset vývoj větský svaz stoj zaujmout Čechoslovák
+záležet samotný podařit zko rumpovaný úředník svrhnout
+Dou fejme splnit naděje skalní komunista doufat sovětský svaz liberalizace pokračovat Československo velký bratr odtrhnout konzerva tivní komunistický vedení země don tíněně jít vlastní dogmatický cesta
+kový naděje reálný uskutečnitelný
+poukazovat Albánie Albánie sovětský svaz Čína odtrhnout vnitřní uspořádání narušit tvrdý stalinismus země úspěšný přežívat ještý léta roztržka
+plést demokracie anarchie rudý právo Praha zpravodaj slavnostní atmosféra státní svátek výročí vznik Československo narušit páteční odpoled níchy hodina václavský staroměstský náměstí Praha provokační vystoupení osoba
+sejít výslovný zákaz obvod ního národní výbor Praha
+úspěšný výzva příslušník SNB soulad zákon dav rozptýlit
+zásah ztěžovat přítomnost postávající zvědavec
+mnohý demonstrant přemístit roměstský náměstí provokace pokračo vale
+muset zasáhnout pořádkový síla
+útvar veřejný bezpečnost předve deno lidé
+část zodpovídat pře stupek přečín trestný čin útok veřejný činitel
+provokační akce středa Praha dlouhý hodobý připravovaný zahraniční antisocialis tický emigrantský centrum disidentský skupina
+role koordinátor ujmout západní sdělovací prostředek země severoatlantický pakt oficiální rozhlasový stanice americký vláda hlas Amerika
+záměr zahraniční inspe rátor zřejmý otevřený konfrontace zpo chybnit probíhající proces přestavba discre dltovat ČSSR signatář závěrečný akt konference evropský bezpečnost spoluprý ci narušit klid pořádek pomluvit republe zahraničí
+
+dodat událost pátek odehrat
+dojít čtvrteční slavnostní manifes tace václavský náměstí občan vyjádřit plný podpora politický linie KSČ
+pracující pracovní dobé poslaný manifestace poznámka
+západ organizátor provokačni sraz chtít vyvolat odvetný demonstrace sledovat rozvratný cíl zasévat neklid mez pracující zneužít mladý lidé
+podstata zůstávat protisocialistický
+akce přestavba demokratizace
+říci přítomný
+Jaroslav Kojzar Michal Podzimek Karel Walter Martin Kind devizový blokáda držet vepře koryto momentální situace ČSSR dát charakterizovat silný opo změna rámec pe restrojka strana vláda naprostý apatie strana unavený resigý nujichý lid
+stabilní situace kombinovaný ideologický dikta rou brežnévovský typ policejní systém vrst vách obyvatelstvo produkovat osobní nedůvěra zášť postupný rozklad lidský vztah
+československý populace znamenaný růst osobní cynis materiální egoismus univro zální ideologický apatie
+struktura celý systém přesunovat fáze maligní korupce českoslovný skůho lid
+charakterový kulturní etický hodnota národ redukovaný nula
+situace udržovaný relativní ekonomický prosperita Českoslo vensko ostatní socialis tický stát
+pocházet relativní ekonomický prosperita
+pravděpodobný rámec RVHP vnitřní československý ekonomie značný přesahovat devisový produkce okolní socialistický stát
+myslat základ rozdíl rok zahraniční politika ČSSR začít sát střeďovat emigrant usídlený západní hemisfére
+velko káno část emigrant mladý lidé opustit ČSSR sovětský invaze rok
+většina lidé udržovat rozerový dinný vztah blízký příbuzenstvo ČSSR eko nomický možnost odpovídat stan dart západní stát
+první krok československý vládní systém zaměřit t zvačka úprava vztah
+cena úprava pohybovat částka dolar osoba t j různý jiný poplatek průměr dolar osoba
+odhadnout emigrant dnešní den vztah upravit soukromý odhad počet známý blízký okolí zdát celkový počet přesahovat
+počet násoký osoba representovat čistý příjem dolar československý ekonomický systém počítat me dodatečný příjem československý aerolinie hotel restaurant pod
+část ka zanedbatelný připočíst devizový přísun forma šek nýcha peněžní dar zasílaný rozerový dinný příslušník ČSSR
+devis převáděný bezcenný tuzexo vý bon operační síla západní měna připadat ruka stát
+dát odhadnout posled ních léta způsob přesunout ekonomický síla československý režim dolar
+jednat skvělý byznis držet vepře koryto
+svěd dávný změna pravidlo cestovní ruch západ moci západ složit československý banka $ den
+úprava vztah přednost zaměřovat zrušení občanství zahrnovat povinný výměna zátý padní měna návštěva ČSSR směšný nízký kurs skutečný kupní síla
+věřit západ moci otevřít československý občan devizový konto Živnosten ský banka minimální vklad US dolar osoba
+emocionální psychologický ná tlak příbuzný žijící západní svět uvěřitelný podívat ten žít západ mít stranout dát video mašina mít
+Soused poslat bratr dolar
+statistický výrok jemný hrubý ší forma setkat emigrant
+lze vyvarovat dojem materiální posedlost ČSSR porovaný vysoký místo
+soukromý dovoz embargový techno logie mikro computer ukládat clo
+Byznis západ hybný síla československý ekonomie
+zajímavý všimnout ČSSR mít ruka digitální hodinky podobný tech nologie socialistický statý produkovat
+skutečnost chtít ČSSR urazit darovat laciný digitálka
+jemný psychologický nátlak upravence žijící západ rov pozoruhodný
+návštěva ČSSR většina případ muset jednat přímý výt slo forma přátelský pohův chování jedinec návrat ČSSR dát shrnout věta západ chovat občan bo
+slyšet jede negativní poznámka Českoslo venska upravence vystéhův lecký pas
+většina popis upra vený návštěva sestávat chvála systém potutelný úsměv hýbavý odpověď
+pošep tal ucho povídat pře ce chtít jet
+chtít poměry ČSSR skutečný dozvědět popovídat skutečný Čechoslovák kte rý pracovní rodinný ná vštěv zahraničí
+většina lidé vyznačovat upřímný projekce frustrace vynikající smysl černý humor
+popis celkový situace podložený smutný úsměv odhalující zkažený lorozpadlý chrup perla komunis tický zdravotnictví
+držet emigrant lajný svědčit článek V odstavec b dávný amnestie vztahovat osoba projevovat projevit přátelský vztah sobota cialistický zřízení
+přá telský vztah uvádět zřejmý dát přišpendlit nepo hodlný
+M S T E N O V E f I J C \ A litr tim nový myálenimum opatrný přijdat koryto
+Pavel Kantorek
+hledisko Orwellův vepř ko ryta situace jasný vytvořit geniální systém příliv západní deviza
+celý svéta mít rozho zena síť upravenec lajeň amnestie dát ších
+jezdit oet vírat dolarový konto Praha Bratislava zvát příbuzný nový znát kauce $ čížka rád pochlubit většina závidět psychóza muset udržovat
+Gorbačeve perestrojka kecat podívat západní valuta svej hodnyj ochočenej ovečka
+podstata jednat jemný mistrný manipulace citlivý psychý ky emigrant
+manipulace ložený základní lidský emo cích rodinný pouta přátelství nostalgie ctižádost strach
+síla emoce současný česko slovensko měřit dolar
+dát koupit sehnat zařídit tvrdý valuta
+přísun valuta západ potrvat moci očet kávat změna nový myšlení
+výsledek charakterový kulturní etický úpadek národ
+rostoucí ekonomický závislost občanský příbuzenský vztah západní hemisféra úkor stimulace vnitřní produkce vést kritický situace vnitřní ekoný mický soběstačnost národ
+česko slovensko návratný řítit propast země třetí svět národní existence záviset liknavý benevolence industriálna společnost
+hledisko výše uvedený čas uspořádat celosvětový akce Čechoslovák západ sestá vající generální devizový blokáda název devizový blokáda
+akce sestávat široký puble výše uvedený fakt náslo dující bod
+zasílat ČSSR šek jiný deviza pře váděný tuzexový bon
+Seka mezinárodní platební poukázka obdarovaný moci směnit zahraničí
+zasílat hotový předmět kniha spotřební zboží lék vyrobený západ
+kopit zasílat pojištěný zásilka
+
+zasílat věc tuzex jiný oficiální zastupitelský úřad
+
+otvírat konto československý banka otevřít konto zahraničí
+chtít příbuzný přítel poskytnout koupit zaslat pojištěný
+
+CSSR plátit koruna cizí měna poskytovat přítel
+používat československý mezinárodní aerolinie
+
+nacházet vlastní cesta dor čit finanční věcný zásilka soukromý ruka intervený obohacování činitel korupční státní aparát
+
+pamatovat povolení cesta zahraničí příbuzný známý dát místný vyřídit proplatit československý koruna
+
+vyjednávat smlouvat československý úřad pozice emigrant
+kraj případ jednat československý úřad pozice naprostý suverenita státní příslušník nový země
+překvapený uctivost ochotnost československý orgán
+dodržování výše uvedený zátý kladní pravidelj osobní ctít zála žitost Čechoslovák hraničit
+dodržování pravidlo vystavovat bezpečí skrytý persekuce
+držování pravidlo jede ná možnost pomoci náro du překonání současný situace
+současný režim ČSSR ochuzený jedinec uvědomit výše uvedený faktum jednat rámec osobní etika
+poznámka redakce
+exilový časopis noviny považovat text vhodný propagace devizový blokář moci použít
+ekonomický úroveň
+mladý fronta
+častý téma vzájemný rozhovor ekonomický úroveň srovnání země navštívit
+
+N úvod zmínit území stát patřit celý století hospodář vyspělý oblast Evropa
+úspěšný hospo dářský rozvoj druhý polovina století vya stil rychlý industrializace český země znamenat důsledek výsadní eko nomický postavení Čechy rámec Rakousko Slovensko rámec Uher doba první svě tový válka
+území dnešní českoslovný žít rok obyvatel představovat procento celý monar chie
+vyrábět procento vešký rék průmyslový produkce procento produkce zěmédělský
+lze říci řada problém musý lo čelit léta československý hos podářství pozice světový hospodář ství udržet
+pozice
+jít plexný měřítko ukazatel hrubý mácí produkt HDP obyvatel
+
+pokusit vymezit postavení česko slovenský ekonomika rámec ekonomika svě tové současný doba
+
+pravda tlenikní autor odhadovat současný e n metr c úroveň Československo rozmezí procento úroveň Rakousko procento úroveň USA výt hrada určitý oprávnění mít
+odhad nízký
+výpočet strana přihlížet zjevný proces ztráta pozice československý ekonomika svět začínat výrazný projevovat poslední léta
+reforma program dávat pozitivní odpověď otázka socialistický společnost vyvstat
+úspěch gram moci rozhodnout aktivní účast vrstva společnost
+poslední číslo číslo třetí ročník londýnský časopis rok angličtina vydávat londýnský agený tura vedení Jan Kavana přinášet množství informace vnitropolitický vývoj česko slovensko ostatní východo evropský země činnost vzájemný mezinárodní spolupráce různý východoevropský závislý skupina
+československý oddíl časopis přinášet inter Jiří Kratochvíl Milan Uhde brněnský aktivista Ja roslav Šabata názor sovětský invaze zkušenos život Československo bědový poslední léta dok ment charta výročí sovětský invaze Československo podrob informace Vonsu událost Praha letošní srpnový výročí
+časopis otiskovat anglic kýtní překlad tajný dopis vedení KSČ stranický aktiv záviskn lý československý aktivita rozhovor Pavel Wonka infor mace okolnost Wonkův smrt pohřeb
+časopis řada příspěvek závislý mírový seminář mezinárodní účast československý chartista další závislý skupina pokusit Praha uspořádat červen rozehnaný policie
+EER jiný přinášet podrobný shrnutí alarmující ekologický brožura Bratislava na hlas podzim vydat bratislavský odbočka oficiální svaz ochránce příroda krajina vydání zkonfiskovaný policie
+další číslo časopis obsahovat jiný podrobný informace pražský brátní něnský závislý demonstrace říj fotografie zpráva kus závislý skupina uspořádat Praha seminář Československo anglický překlad manifest česko slovenský hnutí občanský svoboda rozhovor Anna Šabato vou český mluvčí závislý organ zace Polsko československý Solid rita rozhovor Saša Vondra re daktor samizdatový časopis Revolver revue další důležitý text dokument
+časopis lze objednat adresa N AX
+telefon
+roční předplatné US jednotlivec US $ instituce
+V P Ota Rambousek létat pták
+žít plný svoboda moci létat pták nebeský
+stačit útlý dokument peníze celý svět otevřený
+celý
+nadsázka lidé křiž nebeský klenba různý příčina
+jistý zajímavý podívat problém mít Ikar země rozvinutý prosperující socialismus předpokládat občan Čechomedánie úspěšný absolvovat několikaměsíční povolovací kalvárie vybavený předpokládaný let platný pas příslušný dolož patřičný vízum
+jít technický podstatnost letět
+přicházet chvíle moci žet popovídat potíž občan země lid vládnout hlavní předmět blaho lid slovo člověk znít
+vybrat vydrý dušský kapitalistický letecký spo lečnost americký Panam západo německý Lufthans holandský KLM
+doba letenka nej levný začínat září
+zpáteční tenka stát dolar
+cena přija telný projevit zájem říci cena letenka kapitalistický společnost dolar stejný
+dojít koupě úředník úřednice začít divit Oh chtít ten letenka Praha hektar
+tojeúplnéjiný historie
+dolý rů cena léta Praha
+případ začit ná sezona říjen cena odmlka prst létat klávesa počitač czecho
+patnáctý říj nu
+dolar ticho opětovný hraní prst počitač dolar
+Čechoslovák mít řádný daný vysvětlit Panamo
+koruna
+jít brát říci zavolat pracný vyhledaný nená padný číslo ČSA čechomedánský socialistický Aerolinie
+adresa
+skrývat
+York
+ozvat ženský hlas chtít letenka
+muset volat číslo
+Manhattan ozvat žena chtít letenka
+předat
+hovor pochopitelný angličtina
+dlouhý minuta běžet začít pochybovat druhý konec drát
+konečný
+mluvit ptát ženský hlas
+sdělit chtít mluvit
+ozvat sytý vnitrácký hlas připomínající vyšetřovák ňek nete jít patnáctý říjen dolar
+hle demokratický letecký společnost dolar drahý vydřidušský kapitalis tický
+letět hodina da leko sever Kanada žadovat případ kanadský tranzitní vízum
+letenka koupit
+dát sehnat penze prachmizerný
+známý rát půjčit
+starý bačkor
+prvý čedko chomedánský aerolinka vypro daný dlouhý měsíc
+červen dostat místo konec říjen
+protekce
+patnáctimilioný vum stát najít stovka šťastlivec mít nuzný příbuzný zrádný emigrace léta USA Kanada
+glasnosť
+volný lepší snadný
+místečko Iljušin najít
+vzrušující
+fádní západ
+měsíc shánět trhat květ kopretina povolit
+povolit
+povolit místo letadlo
+Nešť
+dát socialistický Ikar dát sázka
+udělat re zervace dostat doložka kapitalistický cizina
+vez me peníze jít platit
+
+československý štyn lík podložený práce
+patný tým říjen
+plný letní sezona Kčs koruna daň US $ daň York
+ka nadský tranzitní vízum
+létat volný být čechom dán
+pasát Atlantik Praha silný vítr vědět stát letecký benzin
+nazpátek plachtit
+člověk napadnout létání konečný podařit vymýtit zahnívající kapitalismus
+navštivit krajanský motel západní pobřeží Florida konfortní dvoupokojový jednopokojový apartment kuchyňka vzduchový chlazení barevný televize bazén metr krásný paní sečný pláž
+rozumný denní týdenní cena
+Florida telefon zvát Jindra Čeněk Kopecký U S A C E C H S L O V A K A N D Mich telefon ^ P>iMftous F K f
+rtm M jiný IM Fjodor
+lidé Větička zdánlivý smyslný
+žvást
+šum
+stejný rod výrok náročný udělat zisk sláva
+vyčleňovat hlucho frázovitý rámus ob sahovat jistý magický mysterióz určitý zpětný vazba
+
+
+šerý dávnověk první fáze revo doba kanoný zovaný průkopník sejít parta mocichtivý lidé začít říkat odlišený soudruh
+vzpomínat
+mít ztratit okova
+Zalo žít revoluční jádro strana hnutí jít velký cíl umírat obalit revo luční učení
+
+ušlechtilý talentovaný Němec vytvořit nauka zděj chytit mocichtivý macchiava list
+vejce slepice nepochybný první fáze revoluce uchopení moc figurovat ideologie prokla mace skutečnost podstatný rozpor
+fak tů skutečnost mož ověřit skutečný všeob sáhlý nesobecký ušlechtilý oběť výt altruismus hnací síla revolucionář
+lidé rozpoznat čapka viz fejeton komunista Zoon Politikon Praha Borový kolovat samizdat nastat únor
+vítězný ^ V y £ f c v < S Pavel Taussig bílý pole sílit
+Vůňsr jiný komunistický převrat
+soud ruze poučit dějiny vidět nasadit hromadný teror rozat sejbout rozmáchlý revoluční ges tem jméno vznešený cíl ospravedlňovat rozat sejet masový hrůza strach svět poslušený pud sebezáchova ie smát
+vzpomenout pařížský komuna maďarský republika rada aj aj vyvodit závěr znamenitý pokus zahynout přílišný mík kost
+třídní nepřítel štít štítit
+
+dohnat předehnat
+druhý fáze revoluce etapa upev ňování moc uvádět historický poučení praxe
+nacistický komunistický diktatura podstata lišit detail Hitler zavírat žid komunista další nepohodlnka koncentrák Stalin trockista lak eser aj pracovní tábor
+Solženicyn souostroví dokládat výraz koncentrač tábor vynález sovětský Rus ka počátek dvacátý léta
+Hitler odpůrce likvidovat Stalin převychovávat práce
+proklamace suplovat skutečnost
+výsledek stejný nistický způsob fungovat
+příšerní ková budování bělomořsko balt ský průplav hromadný umírat muset soutěžit
+Stalin překonat Hitler punk revoluce požírat vlastní dítě
+Adolf provést
+noc dlouhý nůž tichý efektivní vraždění
+Stalin volit okázalý zrůdný proces absurdní svět uvě řila
+VizJoseph F Davies velvyslanec USA Moskva polovina léta poslání Moskva nechat ujít jediný šance pobratim Stalin spojit
+náruč tajem otevřený polovina třicátý léta zadní vrátka připravený celý kolektivní bezpečnost velkolepý politika lidový fronta
+vítězství revoluce řada strana plný agresivní idealista plést proklamace skuteč nost věřit všeobsáhlý ideál povznesení pracující lid stát odmítnout chutnat jablko kravský mléko výhoda hmotný statek naba moc nabízet
+Srv konec kapitola farma zvíře G Orwell chtít zabíhat detail dát citovat
+zapomenout mluvit
+reptat bezvýsled
+prasata ohled vzác jednotný Snowball Napoleon
+poslat Squealer zvíře řádný vyložit
+soudruh hulákal myslit prase dělat sobectví chtít vyvyšovat druhý
+mnohý skutečnost mléko jablko rád
+rád
+jediný důvod jít chom zůstat zdraví
+mléko jablko dokázaný soudruh obsahovat látka zbýt nutný prasečí organismus
+prase duševní pracovnice
+stát ležet celý řízení orga nizace farma
+den noc starý me mít
+dět lámat pít mléko jít jablko
+vědět stát prase úkol plnit
+Jones vrátit
+soudruh
+Jones vrátit jistý soudruh křičet Squealer prosebný poskakovat mrskat ocásek jistý chtít Jones vrátit
+zvířátko pochopit
+pře mýšlet Jones
+provádět spousta řídící akt cíl míněný prospěch obyvatelstvo
+akční výbor
+zrušení klášter aj aj
+výsledek paskvil původní záměr dostavovat
+další fáze prožívat pozor výrazný zvědečtěný rozhodův cího proces
+řešit nesčetný komise svěřovat recensent oponent vracet další přešetření
+výsledný rozhodnutí zastaralý komicmní promistický možný jasný dvojznačný značný
+vydat vyhláška zákon nutný uveřejnit výklad hospodářský noviny
+autor autor pr votní vyhláška dostat výklad extra honorář
+postupný komunistický vize spravedlivý stát vyloupnout hlavní smysl trvání reálný socialis potřeba udržet moc získaný oběť život odpůrce vlastní stoupenec
+vládnoucí elita vyčistit
+agresivní idealista první fáze revoluce ňíkávat skalní komunista
+vychcípat vymizet nesčetný čistka
+třetí fáze reálný socialismus cynik živač výhoda
+anekdota slovo reforma slední léta česko slovenský politický ekonomie tabu
+dělat muset nej lepší odstraněný eko nomický mozek zplodit psaný způsob polovičatý vylep šení ekonomický systém nazvat soubor opatrení
+slovo spojení samozřejmý celý rok skloňovat pád stránka noviny televize roz hlas
+věc dílna ptát učeň mistr pan mistr sát bor opatření
+mistr zamyslit povídat vidět kýbl ten šroubama
+pan mistr
+vidět prázdnovat kýbl
+vidět pan mistr
+dívat
+povstat vzít první kbelík přesypat šroub druhý
+stát povídat Vidéls
+soubor opatr
+divit Franta kýbla jiný
+pravda slyšet kravál
+soubor opatření uvést život léta zvuk fanfár záplava samolibý článek
+rok frekventovaný sousloví slyšet najít potkat
+člověk čekat důsledek důsledný uplatnění zásada soubor opatření úroveň řízení docílý obměna zpředu
+ticho
+připrat vený iniciativa zhůra další centrální řídící akt viz RMS ZEÚMS nový koncepce učební obor aj aj končit neurčita tichý jistý utajený konstatování tvůrce stranicko vládní špička hovno
+lid hospoda říkat hlas zřetelný šum viz hospoda prolik —proles blábol ignorovat všeobec nost ztrácet politický ostří
+fiíkat fekalistický teorie vypadat blblý hospodský plk stát hovno
+rafinovaný neofeký listický teorie pravící čas stát
+atmosféra podhoubí společenský klima zrod ného výrok stejný všeobecný říkající výšepsaný hoviná nařský filosofie výrok radní komunista vysvětlovat fungovat šejdr vzít zjevný kravi ny vymyslit lepený ší mozek mít lepší úmysl
+lidé
+napadat připouštět kotelna emigrace Chartis umývač okno lesní dělník moci množství lidé mít nápad tvořivý řešený rád nechávat spoutat ideolo gický tabu
+Aha
+
+uvěřitelný myš lenka vrstva silný individualita vynikající tvořivý jedinec su gestivní osobnost talent vedení lidé získávat důvěra lhát strana najít vrstva noucí národ vymírat komunistice stát závist bujet spirý rozhodnutí mít hluboký revoluční tradice stát prostý vyplatit vyň kající
+lidé
+okřídlený výrok zdánlivý snímat zodpovědnost ustaraný rameno ÚV KSČ elita myslit
+lidé
+všimnout lid
+pracující lid pracující lid muset vznešený dotknutelný
+lidé
+říkat lidé
+pochyba považovat lidé sůl dárně mafiánský parta hrdý ná zvemý komunistický strana českoslo vensko
+soudra zi
+první řada obviňovat oby vatelstvo ukazovat ostatní lidé MRSČ malý socialistický člověk kazit vozt báječný akce pan státnický rozhodnutí moci chybný zaujetí vážnost krajní vypětí plný nasaze produkovat strana
+další gradace znamenitý logika výrok velký lidé ov šemže soudruh
+první známý prozradit ocitovat zboží lidé kupovat
+druhý Čapek udělat
+vláda dobrý lid měnit srpen rozhlasový dokument
+dramatický montáž použitý záznam vysílaný ABC tralium československý rozhlas Praha krajový vysilač kolabo rantský stanice Vltava hlas pořízený osudný den srpen
+pořad vysílaný Austrálie
+objednat lze adresa Jaroslav Kováříček Skye S A Australia
+cena kazeta US anský časopis zápas duše hledat dopisovatel čtenář celý svět
+předplatný dobro volný československý
+psát adresa Pavel Steiger c P O box JKT Jakarta Indonesia Heřman Chromý Hon Kacíř chronický porucha nemocný charakterizovat ucelený blud podezíravost ztráta kontakt svea litý rozumový schopnost nemocný systém blud neporušený nemocný vitální dostatečný vzdělaný schopný stát nout celý masa lidé
+odvolávat nemocný úspěšný výsledek pes chologický test svědčit predpojatost lékařský komise dospívající nemocný diagnóza paranoia kverulans
+Dife renciální diagnostika spadat kompetence psycholog hodnotit momentální stav psychic kýt funkce onec mocnění projevit mít vliv psychologický test mlouvat šestý čtyřicetiletý plnoštíhlý dáma přít vzít odborný asistentka psychií trický klinika Olomouc MUDr Marta Tichá
+arogantní tón shovívavý převaha odbor nost podávat důkaz schopnost vyložit posluchač látka
+nacházet poslo vysoký škola skromný místnůstka kroměřížský soud tísnit lidé zazna menaný slovo patrit konkrétní člověk mít podklad skončit psychiatrický léčebna
+chvíle naslouchat šedesátiletý rtuťovitý muž působit ele bývázvyk představovat háj pravda
+Augustin Navrátil psát zasazovat pravda léta možný zákonný gán instituce zřízení obnášet
+dočkat odpověď
+pravda obsažený otázka klást soud marný žádat čekat odpo věď
+dopis nej označený trestný činnost přestávat psát začínat ptát dodržování lid ský právo náboženský svoboda zájem houževnatý úsilí diagnostikovaný projev príčetnost
+hlas Augustin
+Navrátil vzrušený přerývaný slovo jasný argumentovat
+dotazovat seda senát JUDr Urbánek kurátor JUDr Kubík soudní znalec jediný písemnost slovní obrat doložit trestnost počínaný ztráta kon takt realita uvést blud
+rozhořčený stup ňot poukazovat schopnost generální prokuratura marný žádat soud znalec
+dvaačtyřicetiletý docent kandidát věda Bogdan Buzek fakultní mocnice Olomouc postrádat našečský rutina kolegyně tichý
+jistý odvolávat obecný svět uznávaný definice parano ohánět výrok Augustin Navrátil lékařský pohovor mít ilustrovat kritičnost schopnost korekce
+vypovědět dát Augustin Navrátil člověk předsudek přijit jící tabuizův autorita
+dokládat obhajoba omylný dopis petice laik probírat celý řada jiný lidé světlo názor zkuš nost
+hodina jednání prokurátor znalec trvat vykonstruovaný závěr sudka desetičlenný lékařský komise popírající život obyčejný pracovitý člověk otec dítě hluší tvářit tvář argument modlitba lidé Augustin Navrá tlumený doléhat chodba soud vynášet roz hodnutí umístit Augustin Navrátil blázinec
+sla jít vidět moci nazvat ústav léčba
+blázinec člověk nést žojit klystýra ničit houževnatost přesvědčení medi kament dojít utlumení masivní písemný činnost vyjádřit znalec lékařský slib odborný znalost půjčit zločin
+hradlař Augustin vrátil práce soud znalec označit obyčejný zmetek hrozit vyhlídka důchod šoupnout vůle zdravý rozum blázinec
+celý desetiletí vydávat vydat vát pravda lež lež pravda utopie skutečnost pořý data hon kacíř chtít žít blud ztratit kontakt realita
+
+otec kardinál Tomášek situace otče kardinále soudit petice československý katolík bratislavský manifes tace březen
+znamení velký probuzení zralost laik důslet zasazovat svoboda církev
+nový jev něko lika léta možný
+laice uvědomovat povědnost církev angažovanost osobný platit
+zúčastnit proces Augustin Navrátil autor petice odsouzený nucený pobyt psychiatrický klinika
+lze říci bolestné událost
+důležitý mích psát protestovat přehma vláda
+jediný vina pan Navrátil milovat církev zasazovat svoboda
+krajanský středisko Denia Španělsko
+výběr garsonek byt řadový domek vilka pozemek
+Denie najít příznivý klima kouzelný kraj nový přítel kout svět
+vesnička klubový ráz fáze dokončený vyprodaný fáze klub výstavba blízký informace prodej podnáj diva K V Divoký segantinistr C H telefon mluvit rozdělený podzemní oficiálna církev
+roz dělení trvat vláda existovat ČSSR církev
+
+církev |edn lec činnost muž konat skryt stát zasahovat omezovat svoboda náboženský ži vota
+týkat biskup problém jmenování úže havý rozhovor československý vláda svatý stolec
+velký zájem čekat jed nání svatý stolec vláda mít začít listopad velký zpoždění
+taktika strana odkládat řešení nej vážný naléhavý blém
+týkat změna docházet SSSR pozorovat změna strana stát
+definovat situace CSSR
+obrovský obtíž uchovávat velký naděje budoucno křesťan křesťan optimista žít kristový naděje
+důležitý pomoc modlitba
+důležitý psát vina zapomenutý
+velký odpovědnost
+jistý
+ryzí jasný slovo
+psát zapomínat církev ČSSR
+italský deník ĹAvvenire říjen PRA SKF zfnařst I W Toronto
+lei svět Tomáá Novotný Expo Střipka střep
+britský královna Viktoria přelom minulý století zasazovat organizace první světový výstava sídelní méstý mocný říše slunce zapadat napadnout letitý tradice vlast zakládat
+moci jít mysl pouhý léta prapravnuč ka Alžběta zahajovat světový výsta vu bezvýznamný proviný ční město nej velký britský trest cký kolonie
+období Londýn Brisbane uspořádaný ceta světový výstava
+nej velkolepý překonatelný zůstat pařížský výstava rok kul minovat vatenáctý století vítat nadšení dychtivost dvacátý malý čekat
+československý paměť pa řížský zastiňovat jiný světový výstava Expa druhý válka zvyknout říkat Brusel Montreal
+uspořádání světový výstava Brisbane splnit záměr bývalý předseda queenslandský vláda sir Joha Bjelke Petersen smířit označový Brisbane Queensland Zapadákov různý způso pokoušet povznést kra lovství vládnout Queensland plný léta loňsko svě tovost
+případ Expa povést další veleprojekt výstava vysoký mrakodrap svět zamítnutý Johov chod funkce mluvit megalomanie bývalý premiér letní olympiáda řadatelství mínit rozloučit nový queenslandský vláda Bris ban zřejmý rok počkat
+výstaviště začít budovat centrum město levý nábřý ží řeka Brisbane konečný zbavit ošklivý budova volající likvidace
+nej výstavný přežít středa budoucí mumraj starý australý skát krčma stylový zres taurovaný podoba konat odvý kao funkce Expo admý nistrativní budova nezbytý ný oprava úprava umístit banka směnárna
+zplanýrovaný prostranství vybovat mohutný stožár stylizovaný tvar rameno obří jeřáb pjat velikánský plachta barevný odstín světlý působit
+vypadat smontovaný kopule cirkusový šapit stor zavěšený bizarní kyklopský klo bouka zasvěcený část brisban skůho obyvatelstvo dohadovat jednat provizorní ochrana stavitel slunce zůstat
+otázka názor různit zůstat vypadat vytvořit osobitý panorám brisbanský Expa mluvit vítaný stínivý funkce město slunce svítit den rok jiný bod vzát shodovat nábřežní nudle moci vejít
+zahajovací duben prokázat rozloha velký výstaviště konec druhý moci délka přejít minuta polovina čas stačit zdolání výstava ních prostor našít vejít vejít mít chtít
+zbýt místo stovka první dočký vých návštěvník začít drát cpát pasírovat turniket Expa veličenstvo odložit slavnostní nůžky pře střihnout slavnostní páska
+vystavovat londýnský první expo země Bris ban desítka účast ník mluvit národní státní expozice předvat dít společnost věta šina australský japonský počet překnat zaostat
+muset uvědomit nový stát čas světový výstava Londýn vzniknout markantní prohlídka bris banský Expa exotický pavilón země Brunei Tonga Vanuata hovořit statistika OSN
+hojný Expo stoupený Asie Tichomoří mít Brisbane
+předvádět exponát vystavěný pavilón vzdálený zámořský krajina spokojit typizovaný krabice smontovaný železo nýcha plát pastelový natrout nýme popsaný pomalovaný
+účastník asijský ticho morský oblast zaskvět velko lepost stánek ce paráda sestávající obyčejný prodejný suvenýr sério vých umělecký předmět vejít stylizovaný domorodý chatrč če muž zdejší český rasista poučený poučitelný dlouhý holetý pobyt západní demo kracie poznamenat zajímat dotyčný země scházet parlament jediný barák mít pučit Expo blejíknout
+voň vrátit větvoví blém dodat závidět
+současný technika zásluha svět scvrkávat předsevzetí bývalý nynější premiér městský radní Expo potvrdit popřít Brisbane zůstávat svět místo vzdálený
+nasvědčovat absence země zjevný odflák nutost řada expozice říci ly Brisbane dobrý
+západní Evropa scházet Expo komplet celý Skandinávie země benelux Rakousko Port galsko zářnézítřkový část zúčastnit Maďar pavilón jiný restaurace Jugo slávek SSSR smět scházet slezina
+severní Amerika zastoupený plný střední jižní noha
+pomyslný prapor africký kontinent Brisbane chopit diná Keňa vypreparovaný vyfotografovaný nafilmovaný namalovaný utkaný hlína tena dřevo vyřezaný fauna podivuhodný národní park pavilón klimatizace obdivovat vydržet člověk klást otázka hutný dusno technický nedostatek odvážný pokus vtlouk návštěva ník představa Afrika jiný zrakový čidlo
+Austrálie pochopitelný dů voda moci pochlubit expozice rozsáhlý společný federální mít stát federace zvláštní pavilón vel úspěch slavit Brisbane sousední nový Zéland expozice stát dvouhodinový fronta první poslední den výstava
+předvádět pěkný show ovce tančící Maur slyšet určitý vědět
+fronta novozélandský pavilón utábořit snažit skopové rád domorodý tanec jít nosan Strážnice mít srdce blízký
+zadaný téma znít volný čas věk technologie spousta zúčastněný přistoupit rázovitý
+moci seznámit historický současný ma lebnost jednotlivý země mo mentální úroveň rozvoj věda technika pokrm nápoj pavilón přiléhat restý úroveň připomínat hotel Alcron bufet koruna zásada pohybovat póla
+překvapit ohromit člověk sklonek dvacátý století svízelný možný vystavující zjevný snažit
+drtivý většina spokojit praktický aplikace audiovizuální technika pavilón moci vchod umístit nápis kino
+kino známý omezený počet místo způsobovat končící fronta živený konečnost
+fronta určitý mít stát smět nechat ujít základní frontový pes chóza Čechoslovák muset vykládat fronta stát kino vláček vzná šející pavilón jediný ko lej vystoupení akvablo džbán pivo wurst kyselý zelí mecký Festhaus řada další atrakce
+našinec bris banský výstaviště připadat chodit různý obměna polyekrán laterna magika říkat
+vzejít hlava
+veselo pyšný
+smutno existovat Kinoautomat laterna magika lidé tvořit dlouhatánský fronta uniknout skutečný jeď čnost mít obdoba
+
+osobný cítit pavilón dokázat vzepřít všeobecný promítací mánie mít kinosálka návštěva povinný jediný součást expozice
+zaujmout Číňan kolekce umělecký předmět různý dynastie živý řemeslník zachovávající tisíciletý dovednost předek
+lepší část evropanství jasný směsice hrdost pokora uvědomit obraz socha cír kevní předmět historický do kument vatikánský pavilón
+připadat expo zice jižní Korea sestavený nebom chlubivý korejský folklý vidění maketa soulský olympijský sportoviště poslední technický zázrak elektronika moci Korejec pyšnit
+legrace užít člověk Švýcar pavilón postavit umělý sněhový svah ná vštěvník Expa moci zapůjčený výt zbroj výstroj vyzkoušet ly žařský umění pointa tkvět naprostý většina návštěvník Expa tvořit Australani naprostý většina Australan sněhový svah život stát
+lyže noha
+sport věno vát pavilón spojený stát potěšit příznivec druh lidský činnost Ital všední zájem milovník ložnice těšit prototyp sofistikovaný super postel lze prožít celý život
+blýsknout domácí Queensland pavilón přenést kus subtropický tropic kilometr příroda moci zemdlení návštěvník obdivovat vseda lavička loď proplouvající queenslandský expozice vodní kanál
+přežít lidský svět třetí síciletí pravděpodobný doba nahluchlý sípavý chraptící
+síla snažit Expo snaha zaostat valo
+vkročit výstaviště ušní bubínka roz vibrovat ustat výt stavní prostora opustit
+kaž dé špeluňka kiosek otevřený zavřít nýcha dveře kus reprodukovaný vyhrávat řvávat hlučet hulákat rachotit drnčet bručet bzučet syčet vyvádět volný prostranství přizvukovat roztodivní oso mělý skupinový hráč šumar hu dební nástroj typizovaný typický vybavený řádný zesilovací zařízení
+slyšet vlastní slovo říkat vadit návštěva Expa soukromý osamocený tichý šachový partie
+světový výstava chodit part rodina přítel lidé sdělovat bezprostřední dojem hodnotit kritizovat chválit výše popsaný multídecibelovo atmosféra znamenat druhý muset řvát chtít rozumět
+mno hé hlasivka absolvování celodenní světový exkurse podo bal hlasivka tribuna fotbalový zápas jít dlužný dodat majitel vadit mnohý chraptit všimnout chraptit
+pohybovat nápaditý řešený prostora výstaviště příjemný oko týkat
+setmění celý Expo zářivý rozdovádět bezpočet svě telný barva tvar kázat dý desátý zavírací hodina brisbanský Expa otevírat poledne závěreč ohňostroj den stěhovat řeka noční nebe město
+pravidelný světelný hra velký popularita získat obvyklý socha vyhlížet jící lidský postava životní velikost rozsetý celý výstaviště
+vyrobený béžový šedý omak tvrdý hmota připomínající beton vypadat věrný odlitek skutečný lidé dokázat člověk zmást
+támhleta ženský blbnout chtít fotit
+zorný pohled paní aparát socha
+sednout
+lavička obsaný zený
+počkat sedět ňákej děda úplný
+pochopitelný dílělý dula živý návštěvník Expa stejný salutující skautík skupina kopáč opírající lo pata úplný tralan styl práce cizí paní slunečník maminka holčička desítka další postava obveselovat samozřejmý pózovat objektiva přístroj člověk pokoušet změnit pomí jivý pomíjivý věčný
+řada brisbanský obyvatel Expo půlroční trvání stát zábavní park společenský centrum víkend vodit dětička týden večeřet přítel restaurace
+podnik společní ného stravování vyjádřit způsob pokat šet zobák narůst narostlýzka vit Expo všeobecný moci stěžovat nízký obrat mít litovat prostový velký
+hlad žízeň před chuť Brisbane veliký konjunktura narušit polovina Expa veřejný sdělovací prostředek zaznamenout ný případ paní chuť najetnout cizokrajný zapomenout expácký res taurace druhý den ležet lékař označit prostřední příčina smrt slední večeře
+zahájení Expa bris banský televize objevit záběr zpustlý dějiště minulý světový výstava
+rozpadající pavilón skučet meluzína komentátorův hlas nabádat dívat Bris ban
+dopadnout kanadský Vancouver myslit budoucnost
+bývalý výstaviště Expa stávat ostuda celý svět
+brisbanský Expo den skončit
+přemýšlat
+český lidový rčení pregnant vymezovat následovávat posvícení právo chtít brisbanský organizátor Expa pa čení chyba vancouver ský předchůdce prozíravý vyvarý
+jmenovat zvláštní komise úprava využití výstavní prostor skončení výstava měsíc závěrečný říjen oznámit vybavení výstaviště dát
+socha světelný maják kolejný vláček zařízení restaurace
+vdobý sepisovat polovina listopad odprodaný příklad souprava vláček jednokolejáček kolej samotný kupec najít výstaviště J klidný stát levý břeh řeka Bris ban
+zmlklý potemnělý dota čený
+chtít pustit bourání měsíc vnášet Brisbane ruch jas
+zvláštní komise
+měsíc působení zamítnout různý návrh naložit uvolněný prostranství kasino obdoba Prátro areál zdraví předložit jediný
+krátký doba chlubit podrobný rozpracovaný projekt odpovídat zájem město další rozkva
+uvidět jistý výstaviště zlikvý dovaný zřejmý snadný světový výstava uspořádat vypořádat zůstatek
+lokální problém starost jed notlivý pořadatel městský radní průběh brisban ský výstava objevovat globální otázka expa
+mít smysl dobé informační exploze člo věk umožňovat vědět svět
+moci svě tový výstava dnešní lidé kultivovat rozšiřovat škála pasivní zábav mající podstatný pozitivní dopad
+ulpívat Expo tradice pouhý setrvač nost
+jistý zajímavý námět myšlení mezinárodní výbor výstava kontrolovat řídit orga > nizování světový výstava pařížský konvence rok
+mít člověk soudit bris banský Expa přiklánět skeptický názor budouc nost světový výstava
+
+televizní přenos Expa dát slovo ředitel špa nělský pavilón
+samozřejmý ptát říkat brisbanský výstava zvědavý špa něla chystat Sevilla
+španělský ředitel odpovědět názor upřímný hostitelský ucho Australan moci slovo znít
+pojatý výstava Evropa velký díra svéto udělat říci
+milý příjemný příští expo rok chtít pokusit vrátit světový výstava formát mívat léta
+věřit dařit
+počkat znít kastanéta
+československý účast
+zmínit Českoslo vensko Brisbane vystavovat čepovat
+sejít zahájení Expa letadlo Evropa Čech dát řeč
+příbuzný hádat moře cestovat čas mít trvalý bydliště Austrálie
+druhý Čechy vracet bydlet Pra zavrtět hlava
+
+služebný
+expo Expo podivit Čechy trálie
+myslit pavilón mít
+mít souhlasit Pražák
+dělat ruskej
+utajený tvůrčí československý podíl Expo jistý patro nátma strana vláda
+Čechoslovák jít výstavnictví dostat mož nost
+expozice SSSR vyjít celkový porovnání ostání štít jediný hlubokéšrám zanechat silný zasmrádlý propagandistický snaha
+Expo přítomný
+minulost pečeť římský císař český král Karel vystavený vatikánský pavilón přítomnost příslib budoucnost expozice aus tralský
+věnovat velký samostat ný panel československý emig rant Karol Ligetim letecký konstruktér pilot slul revoluční konstrukce lehoučký osobní letadlo garáž
+Stratos Ligeti dopravní prostředek příští tisíciletí pojmenovat vzít uznání vědomí americký NASA obdiv sklízet laický návštěvnictvo australský pave lóna životní velikost vznat jít zavěšený panel připomín jící slovo obraz tvůrce
+sedmatřicetiletý Karol Ligeti září zahynout zkový šební let Melbourne
+Československo rodit lidé moci pomíjivost současný srab dívat svatý Výclav budoucnost optý
+demonstrace první týden Expa krajánek Brisbane usedlý rozkřiknout výstaviště Václav
+svatý Václav vévod země český
+osobný blanický sloj známý otnout říci kníže Václav podoba násilný vnutit mistr Myslbek
+malý Václavák informovat první očitý svědek kůň sedět hrdý
+Brisbane zapůjčit pražský národní galerie spoluprý ci československý vláda
+stát napsaný stavec
+skutečný stát soška pozorný prohlédnout čerstvý emigrant pře včír dávat rande osmý vocas vyjít upravence přijít ptát kníže Expo malý mladý oblečený nalehko jinačí václavský náměstí
+zalistovaný chytrý kniha zjištěný bris banský Václav časový posloup nost Myslbekův tvorba předchůdce pražský mezistupeň sochařův hledání podoba legendární patro
+onaký mužný jinošský požehnání stra novlád čertvíproč Bribane slát obhlížet svatý Václav živý prostranství německý francouzský couzský pavilón pře tomnost stát inspirativní smysl stranovláda pranic těšit rozmrzet Brisbane nachat zet bezpečný vzdálenost mocenský seslo
+hlubina historie nej mélčí mít prů běh Expa vynořit dvacátý výročí trvající sovětský okupace Československo pár nena upravitelný brisban ský krajan říci shoda okolnost výstaviště kníže symbol někdejší krát kilometr srpnový rezistence jiný mít nechat
+dobový časopis nalezený příhodný fotografie vévod země český obklopený lidé shlížet tank označený širo bílý pruh snímek chopit dvojice výtvarný umělec Pavel Forman otec syn přidat anglický text Josef Felcman češ léta ruský okupace Československo
+brisbraný vyslaný přá telský Rus přátelský ruský okupační armáda přijet léta Československo zhotovit pěk ný plakát skladný závěsný způ sob školní mapa
+jednadvacátý srpen stéhoosmdesátéhoosmý léta pán připadnout neděle Brisbane slunečno brána Expa smě řevat dav
+Če choslovák zmíněný plakát československý prapor trans parent C E Choslovakia ob dobný zhotovený nedostatek materiál velký froté osušek
+kolemjdoucí všimnout vědět toužit vědět jít mít stanoviště expácký rikš ozvat potlesk
+dovést posoudit plácat mlá dence sympatie ubohý česko slovensko líbit mladý krajanka spolutřímající transparent
+jediný jed noznačný reakce možný ptvát žovat výkřik otevřený okénko kolemjedoucí taxík
+mít možnost rámec světlit mít spáda nabádat mít pře ležitost zahulákat pokračo vát most královna Viktoria levý břeh řeka Brisbane hlavní brána světový výstava
+vědět demonstrace Expo přilehlý okolí zakázaný chvíle stát doba přistoupit mladý Australan ptát demonstrovat zřejmý zájem vyslechnout vysvětlení odejít tlumočit opodál stojící kamarád rozloučit Boris popřát štěstí sbalit prapor trans parent vydat
+ujít krok zastavit muž žena uniforma výstavištní bezpečnost
+mít ruka krátkovlnný přenosný sílačka
+dobrý odpoledne
+vracet ten obrátit Australan bůh víproč
+
+vidět říci
+transparent mít zeptat vidět nést sbalený rameno
+přikývnout
+jistý
+vlajka
+chtít prohlíd nout
+mít nápis svoboda Československo
+začínat připomínat mládence trocha jiný uniforma
+
+
+shodit tran sparent rameno chtít začít roz balovat bezpečák zarazit
+říkat odcházat rád myslit snažit dostat vyleznout
+
+projít město stačit uklidnit
+přikývnout pohlédnout mlčenlivý kolegyně pře létnout oko říci
+uvědomit Expo místo politický demonstro ce
+chvíle vzpomenout plakát bývat hojný olepený nároží dětství
+držet kroužek ruka různobarevný dětička poletovat bělostný holubice kapat lepkavý cukrkandlový pohoda vylhaný svět chtít vidět sla šet toužit křičet
+napadnout Boris nej užít
+vniknout jednadvacátý srpen Expo plakát srolovaný nená podpaží rozvinout socha český kníže pavilón větský svaz Boris hala ma nabídnout
+nabídnout muset úkol vybraný tože jít zvolit šího
+Boris vypadat důstojný samozřejmý zahození vlastnit sezónní vsta penek celý Expo muset demonstrování extro platit Slovák Čechoslovák emigrace úkaz běžný nej vhodný osoba Boris dělat reprezentativní zázemí
+malý chlapec houpávat koleno mladý právník chodívat návštěva Borisův rodič
+Boris říkat ujo Gusto tušit prů kopník
+přijít začít ujmout Gusto mnoko houpat sídlit Boris jižní polokoule
+ujo gust zapomenout čas čas poslat dopis nabádat dát českoslo venský kriminál propustit politic kilometr vězný
+ujo Gusto oddat povídat
+dopis skutek
+zřejmý zapomenout malý chlap ce Boris jediný člověk líbit ujmout Gusto houpý
+zajímavý Borisův teto Mašu báseň propsat ná rodní umělectví ujmout Gusto zapomenout rozenina poslat blahopřejný tele gram
+známost tetička teletrat fovat různý jiný Jakešová Boris tvrdit rodina chodit
+Boris vchod výstaviště nápadný srolovat účel rolování uzpůsobený plakát konspirativný oddělit zmizet vstupní turniket zamířit Václav
+předešlý úmluva hodina čekat Josef Felcman zko mít terén strana fotografovat kníže čtvrthodinový inter val stahovat pozadí socha přicházet Expo bezpečák obhlédnout Václav přilehlý okolí vzdálit
+činit demonstrující miniprocesí ocitnout muset zřejmý instruovat dát neděle věc podoba nýcha souvislost
+Boris dorazit kníže bezpečnostní složka odejít mít Josef minuta čas
+plakát rozvinutý Josef něko likrát zmáčknout spoušť brašna vylovit leták formát A vytištěný pla káť
+začít Boris rozdávat lidé podařit vzbudit zájem blížit čas bezpečnostní inspekce Bo ris Josef začít příst novat daleký sovětský pavilón
+cesta samozřejmý roz dávat leták Boris otáčet plakát strana informovanost dav nej vyloký
+fronta sovětský pavilón leták obdarovaný čekající začíst zapomínat postupovat vcházet rozj venit pořádný všimnout veliký fotografie veliký Lenina měřit nový příchozí hlava táhnout vzpo mínka veselý děvčátko pařížský bordýlek veselý dát dělat jiný popíjet čaj Naděžda vymýšlet revoluce stejný
+Boris plakát vybrat výhodný místo vchod pavilón cesta nacházet nabitý zahradní restaurace německý Festhaus ohřát
+obklopený příslušník výstavištní pečnost vyzvaný sbalit plakát leták zmizet
+chvíle Josef zpovzdálý fotografující usoudit dobrý zdržovat prchnout hnaný va fotoaparát vybrat film
+Boris navenek souhlasit slovenský zbojník mít plán
+projít chvíle výstaviště uklidnit vrátit pokračovat
+úmysl vydat pavilón zanedlý mít ukázat podcenit ostražitost bezpečnostní orgán míra závažnost společenský škodlivost činnost
+půlhodina vrátit místo čin rozdat zbývající leták čekat
+VB výstavištní pečnost regulérní polica
+Borisův bloumání Expe celý doba bedlivý sledový projevit recidivista VB zalarmovat policie společný síla jít chránit sovětský pavilón cukerínový internacionalismus svě tový výstava
+příznačný televize Expo natočit volovina objevit
+policajť odebrat Boris plakát zbytek leták úskočný žádat moci ukázat vstupenka
+zlý toci podat Boris pemanentka polica přihodit odebraný závadný materiál oznámit věc moci vyzvednout stanice
+krátký možný cesta opustit prostora světový výt stav
+skončit demonstrace sovětský okupace Československo Expo Brisbane
+skončit druhý den jít Boris vyzvednout zabavený věc
+držet pevný klika dveře policejní stanice druhý ruka policejní úředník dotázat lidé svléknout mít plakát otištěný tričko postat oděn sovětský pavilón
+úředník zamyslit
+svléknout říci
+smět pavilón soustavný postý vata
+muset procházet
+pohrávat čas myšlenka vyrůbět provokační tričko Rusák korzovat zvládnout realizace
+Československo platný
+Post sriptum Expo dostat pár den závěr
+přijít václavský plácek koukat vévod
+zbýt opuštěný podstavec odložit prázdný kelímek coca cola
+kníže odvolat napadnout myslit stranovláda
+uvědomit
+začít pídit čerstvý informace domov
+hora otevřít Václ vák dát socialistický bezpečnostní složka antisocialistický živel ujo Gusto vyhlásit amnestie přát srdce doba živel
+Boris houpavý zkušenost zůstat zřejmý osamocený vadit známý Boris Pavilon USSR
+služba čtenář svobodný závazek rád dopisovat účel přátelství
+značka přátelství
+bánský inženýr praxe žijice USA hledat práce obor
+značka adresa re dakce volat USA VT
+Krzysztof Turkowski Polsko československý solidarita
+rok dobé exista jící závislý organizace pracující solidarita Československo přijít návrh rozšíření dosavadní forma spolupráce zajímavý skutek povolání Václav Havel redakce závislý občasník kritika založit Polsko česko slovenský solidarita
+prosinec přerušit rozpočatý práce vést zaměstnanec wroc lavský solidarita Alexander Gleichgewidet
+březen Wroclav obje vila kurýr charta začít pravidlo ná spolupráce Praha Brno Wroclav
+vyjít stálý vý měna informace dokument doručování ilegální text území Československo
+přelom Polsko čes koslovenský solidarita nu cena zanechat úzký konspirace zatčení Petr Pospíchal český aktivista P československý
+Zorgani zovat protestní akce sbírání podpi sů protestní hladovka pod
+postupný následovat další rozšíření činnost jiný rozhodnutí vydávání vlastní buletina
+vzniknout Buletyn Polsko českoslo venský solidarita redaktor Miroslaw Ješinski Jaroslav Broda
+Buletyn informovat tuace politický vězeň katolický církev přibližovat dějiny českoslo vensko ochrana životní prostředí závislý vydavatelství
+dvojitý číslo jaro redakce zabývat situace katolický církev Čechy Slovensko
+komentář týkat samizdatový náboženský publikace kněz Václ va Malý
+redakce kolportáž publikace informace církev slo venský Náboženstvo súčasnosť
+narůstající represe člen demokratický opozice náboženský aktivista Čechy Slovensko bylas zahájený akce patronát propuštění zatčý nýcha vězněný
+zvláštní číslo duben stát obracet instituce lidé dobrý vůle Polsko Československo účast akce patronát politický vézna
+solidarita národ stavět základ lidský solidarita solidarita potřebovat pomoc osamocený podléhat represe
+spočívat akce patronát
+vrhovat závislý instituce individuální osoba vykonat patronát konkrétní leva Miroslav Jasinski Petr UHL Jozef Pinior ADAM Michnik Jan Litynsko Mieczysla Piotrowský Jaroslav Šabata Ivan Lamper
+Zbignie Bujar Hanna Sabatova Stanislav Devttý Vaclav MALÝ Jan Ruml
+NlŽE Zbignie Romaszecski Petr Pospíchal Jacek Kuron Jan URBAN
+Ladislav LIS Danuta Winiarsko
+Jan Carnogurský
+Prostředne ftADA Zbignie Janas Vaclav Havel vězný sousední země
+chtít akce patronát činnost
+záležet trvalý činnost spojení lidé druhý strana hranice
+obr csát pomoc propagace akce
+různý organizace skupina ujmout politický vězeň území Československo
+dvacátý výročí pražský jaro začátek rok číslo Bu letyna umístěný kalendarium událost odehrávat česko slovensko léta čtenář moci dovědět vypadat cesta svoboda Čech Slovák pokus reformace vlastní země
+dvacátý výročí agrese stát varšavský smlouva Praha vyjít zvláštní číslo časopis
+Polsko československý Solidari snažit pomáhat změnit současný negativní stereotyp Čech Polsko
+záměr popularizovat kul turní úspěch Čech Slovák bohatý literatura
+příklad moci kolekce československý literatura první vyjít knížka Bohumil Hrabala Obslu anglický král
+příprava další výjimečný ^ literární dílo jižní soused
+produkce poštovní známka přednáška situace českoslo venska část každodenní činnost
+složitý organizování pravidelný kontakt stavitel národ
+kontakt věta šího rozměr objevovat informace tisk trvat skutek přý telství
+idea spolupráce představý tele národ přitahovat nový lidé vidět smysl činnost přinášet vlastní ná pada
+dobrý příklad moci akce oranžový alternativa sko československý solidarita cesta Polsko československý přátelství Krkonoše
+rozhovor otištěný pařížský kultura Miroslav Jasinski sdělit účastník Polsko československý solidarita represna tojit směr středoevropský obrácený sousední země
+samozřej výsledek přirozený selekce náhoda
+koncepce protivit připojit
+druhý vážný věc dis souhlasit koncepce
+uvažování hovořit soused moci rozzlobit Moskva
+vládce Kreml pocítit ohrožený souhlasit mikoli koncese táhnout šroub
+myslit logický hledisko názor vnitřní protiklad
+ústupek jiný země sovětský blok podařit vybojovat výt sledka útlak národ
+poslušný národ chtít překý žet zájem Moskva místní ko munistický strana potřebovat ústupek
+akceptovat vlastný osud
+měnit fungovat
+spolupráce udržo vání kontakt soused lidský právo moci vzít
+bod prak končit diskuse
+jasný právo člověk národ svobodný volba partner spo jence postavený chybný politický zájem
+mys lím alternativa volba moci provést
+činnost Polsko československý solidarita vzbuzovat nevraživost pečnostní aparát země velký úsilí vyžadovat organizý tor příprava doručování materiál hranice přejezd kurýr
+námaha vyžadovat orga nizace setkání hranice
+lze představit práce muset vynaložit organizátor moci setkat desítka peč livý hlídaný osoba policie moci utrhnout přijít opuštěný horský místo střežený hranice
+podařit unik nout policajt setkání velký skupina končit
+charakteristický možnost chycený projitý represe odrazovat
+mladý lidé ruksaka vydávat hora vědomí moci zatčení účastnit potřebný země
+poznámka redakce autor článek polština vyjít polský noviny Gazeta vydat vaný Toronto emigrovat Polsko září
+Vídeň pracovat vinář koordinátor solidarita
+Pol sku tiskový mluvčí solidarita Wroclav
+_ cena Jiří Lederera polský revue Syé decta udělit třetí cena Jiří Lederera
+poctěný pan Miroslav Jasiňský
+léta únavný propagátor český kultura Polsko prostředník závislý hnutí země
+rok hlavní ini ciátor kruh přítel polsko česko slovenský solidarita
+Jiří Lederer jméno cena nést český novinář léta usilovat česko polský sblížení
+zemřít exil říjen
+cena výše frank udělovat Polák Čech Slovák přispívat rozvoj vzájemý ného svobodný politic kého poznání srozumění
+plánujet dovolený Florida
+navštivit krajanský motel S
+Florida telefon
+těšit Lajoš Janet Naňák exil Ján Mlynářík Exulant kolaborant dejiny vec národ
+držitelium moc propagandista neraz vyslovit názor exulant vystupovat svojej starej vlast obyvateľstvo svojim krajanom
+vraj groš špinit svoj domov kraj vyrástot očierňovat budova teľský úsilie oslobodený ľud
+obvinenium mít rôzný forma aj intenzita rôzen slovník
+podstata ide vzťah exulant do movine vlast
+Fígeľ celej vec držitelium moc predstavitelium režim vydávat vlasť národ stotožnit svůj nemorálna pojmom ná roda domov kritika ktorý ide ich adresa vydávat kritika široký historicko politický kategórie mít okro nemo rálnout diktatúr spoločný
+napokon nový
+rok osudový osmičiek tým podoba ná presadzovat najnovší dejiny storočium
+keď sklonek rok profesor T G Masaryk zahájit prvý zahra ničný odboj cieľom rozbúrať Ra kúsko Uhorsko troska okro iný nástupnícky štátov vybudovat samostatný českoslovný sko nepochybný mieril vtedaj ším držiteľom moc habsburgov dynastie ňba spojený predstaviteľ politika jednotlivý krajina podunajský monarchie
+habsburský dynastium malo monarchie svojich oddaný služobníkov rada aktívna politikov
+Tí podiel moci osobný prosp bole ňba zviazaný materiálne aj morálne
+útok vládnucej dy nastie muset považovať aj útok seba cela štruktúr ktorej pre spievat udržanium moc Habsburgov
+počas prvej svetovej vojna čo Masaryk vystupovat dynastie český politický reprezentácium niekoľ kokrát dezavuovat Masaryk vlastizradec ako zemský zradec človek obrátit štátne útvar ktorom český národ rozvíjmout svoj talent možnost mal ňom aj ochrana
+útok T G Masaryk habsbur govcom monarchie zamenit útok český náro du český ľud český domo vlast český histórie kul túre
+Masaryk počíst prvej sveto vej vojna no aj spomienka trpko pociťovat zhadzo vanie český politik ktorí slúžit monarchie odvažovat sa ako napra dr Karel Kramář súdit nasmrť vystupovať vláda nucej dynastie
+Kramář napokon popravit
+odváž vystúpenie získat veľkú autorita viednout sa stát prvý ministerský predsedom oslobodený národ novovznikno tej ČSR
+politik spojit svoj život vláda nucý dynastia habsburgovcov tiaľ pokiaľ vládnout mali osost
+dôsledek fronto no aj diplomý tickom postavení rakúsko uhorskej monarchie dynastie postupne dištancovat aj opora tunistický doVodov zaujmout miesta
+tým politika počítat
+Tí čo pád monarchie nepo chopit prehrát úloha dynastie vyradenie moc muset niesťzodpo vednost čin politika stratit morálný právo saznovuuchád zaťo priazeň voličov
+monarchie malo prívržencov
+duch zakorenit istý vrstva obyvateľstvo najmä stredný úradnícky spojený mocený ský výkonný aparátom
+Nietdiv Masaryk ako prvý prezident ČSR vydat heslo nový štát moci vyštartovat svojej existencie zaťaženium ná vykov získaný monarchie
+dokázat sprvnout osamotený Masaryk stojace renomovaný vlastence monarchie svoj spor vyhrat
+Nie bolo veľký počet zahraničí reprezentovat vôľa svojho národ získať národnú štátno slo bod
+Spojovať osud český národ naďalej osudom dynastie chádzat potreba vôľa národ
+Kto vec chtít udržateľný pomera monarchie cítit potreba nastoliťprvat národ štátno alternatíva
+Kto zrádzat český národ ži votný historický potreba perspektíva
+nést Masaryk Kramář Rašín tíněně slúžit držiteľom moc osud ná roda chtít zviazaťs osudom tejto moc
+Tí preklínat vrátit vlast zaujmout dôstojný vedení štátu ako aj oblastiach hospodárstvo politika kultúr
+História storočí vteda ukázat domov sudzovaný exil potreba náro podstatný bližšie tíněně zaklínat češstvo vlast ctvout
+Slovensko bolo vývoj podobný ako český krajina
+Milan Rasti slav Štefánik ktorý účinne pomáhat profesor Masaryk riešiť ak tuálne otázka prvý zahraničný odboja nést síka slovenský pole známý ako Masaryk českoj považovat skôr Francúza stát predmetom dezavuo strana
+nielen aj iniciatíva Slovákov spojený štáto Clevelandskej dohoda rok du konec mája
+Spojenectvo Čech považovat prouhorský slo venský politik zrada uhorskej vlast aj zrada slovenský vec
+maďarský propaganda zahraničí vsadit presvedčit spojený cov dohoda iné štát Slovák mít Čech spoločný sednout národ ktorý vyvinout tisícročnej uhorskej vlast ňba spojený nitka ekonomický politický život
+brutalita násil maďarizácie mlčat
+maďarský vládnuca trieda přinucovat slovenský litikov aj napritdit rok vyhlásit pasivita covat slovenský predstaviteľov zahraničný odboja odsúdit akt americký Slovákov vyhlásit prisahat vernosť uhorskej vlast
+Niektorí zondělí slovenský politikov nátlak aj podľahnout hľadat riešenie slovenský osud spojení Uhorskom
+Ešte konec mája tajnej porade národnovat strana rozhodovat základnej otázka Maďarmi Čech
+pripomenout vteda otázka rozhodit Andrej Hlinka hlásení tisícročný manželstvo vydarit nevy hnutný rozchod
+Slovákov slovenskú vec reprezentovat tíněně uhorskej vlast tíněně priklonit riešenium slovený vec rámec československý štátnost
+rozbití Československo rok sa vytvorit druhý veľký vlna politický emigrácie storočí
+český krajín zondělí Slovensko utieknout množstvo politikov ničit Francúzsko Veľkej Británie spojit úsilí vydobyť samostatnosť Československo ob noviť ČSR
+pre národ bát príznačný osobnost bojovat vznik spoločný štátu Čechov Slovákov prvom odboj ako dr Edvard Beneš vyslanec dr Štefan Osuský ocitnout aj druhý odboj doplnení nový politik aký zondělí slovenský strana bole ministerský predseda ČSR dr Milan Hodža ČSR dr Slávik iní
+mecký nacistický moc vládnout Protektoráte zátý vislý režim republika sudzovat činnosť zahraničnovat emi grácie
+přinucovat český politikov dezavuovat Beneša londýnsko vláda ako aj všetký zahraničný vojakov ktorí bojovat
+Ríš
+stát najmä heydrichiáda keď aj protektorátna prezident Hácha protektorátna vláda dištancovat dr Beneša vláda odsúdit ich vyhlásit vlastizradcov
+doben aj Slovensko zaznievat dobný odsudek slovenský exi lový politikov
+popredium dostávat zátek kladný morálna otázka kto ná rod životný záležitostiam perspektíva kto zradzovat
+Kaž dý dvůch dávat pravda
+História ukázat pravda moci mať
+Tí zviazat osud český slovenský národ mecký nacizmom vidět per spektíva rámec nacistický mocenský panstvo rozchádzat najzákladný potreba Čechov Slovákov
+konat aj vynútenium aj zondělí zbabelost oportunizmus utilitarizmus mnohí aj osobný prospech podieľat moc znevoľnovaný vlastný národ
+Slovensko bolo otázka služba národ skomplikovaný relatívný samostatnosťa
+niektorý akt bolo naj genocída slovenský židov ukázat slovenský štát uplat ňot svůj moc prosp Slovákov žít cudzej mocnost
+násilný čin predstaviteľov nacistický režim Slovensko ukázat slo vec mít slúžit kto bojovat návrat plura litnej demokracie zničenie cizma
+napokon národný postavenie léta jeseň rok svojý štít nadpísat cieľ ob noviť ČSR rehabilitovat slovenský národ pred pred hranicí
+predstavitelium druhý odboja bát preklínaný režimový nacistický slovenský štátný propaganda
+označovat ich sluhov francúzsko anglický plutokracie bojujúk životný záujmom Čechov Slovákov
+Histó ria ukázat mít pravda reže mist ktorí zviazat osud národov cudza veľmoca
+pravda bojovat samostatnosť národ štátu
+Zo protinárodnej službe žít tíněně čo slúžit nacizmus na cistickej
+Ríš
+nástup komunistov moc rok vytvorit tretium veľkú vlna litický emigrácie ktorý bolo doplný ná rok okupácium českoslo vensko živený najmä začiatek rokov nový vlna politický emigrácie
+komunista zjmout zapredat národný záujem Čechov Slovákov cudzej moc raz boľševický totalitarizmus
+demo kratický zriadenie Československo bát zničený národ Čechov slo ocitnout komunistický útlakom
+politický emigrácie Čechov slo vákov mít cieľobnovenie demokra tický Československo slobodnej Európa
+Cieľ aký druhý československý odboj druhej sve tovej vojna
+snaha obnoviť demokra ciu slobodnom štát domác reže mový propaganda označovat služba žolda imperializmus zrada národnovat vec špinenie vlast
+muset uznat nie vynaliezavý
+argument pochádzaj arzenál nacizmus objavit monarchistickej propagande prvej svetovej vojna
+obohrý ná pesnička autor vézit
+vynorit základný otázka kto viacej slúž vlast svojý národ pochádza
+Tí štátu národ zapredat skutočný žold cudzej boľševický mocnost zbavit vlasť národ jarma sednout rok
+presvedčení histórium konečno dôsledek ako prvý dvůch historický pre padoch svetový vojna dát aj pravda tým chtít národ štát zbaviť cudzie jarma
+Preto viac režimový predstavitelium ich služobník kričium zrade emigrácie
+služba čtenář
+návštěva Evropa navštivit otevřený knihkupectví dialog Mnichov Hess strana Mun telefon
+otevřený odpoledne sobota dopoled
+bohatý výběr český slovený ský kniha exilový domác produkce překlad audiokazeta gramodeska
+Čechy žijice Colorado hledat žena československý původ odkudko lev
+založený znalost ang ličtina nutný
+volat
+značka táhnout
+Vladimír Kříž Waldemar zpívat
+odchod koslovenska mít Čech Slovák západní pobřeží spojený stát možnost vidět slyšet šich lepší zpěvák
+rámec koncertní turné USA Kanada vystoupit Waldemar Olga Matuška Francisca
+sejít divák zájem očekávat Waldemar překvapit
+nezký
+pestrý program sestava prozrazovat profesionální talent dlouholetý zkušenost moci posluchač najít
+Waldemar Matuška žena Olga prozradit ab solventka konzervatoř obor kladý sický hra kytara dát přednost novinka trampský píseň většina znát generace
+píseň krát ce zahájení koncertní turné vydat Matuška dlouhohrající gramodeska název Niagara
+deska pěkný nápaditý obal použití obraz známý malíř Zdeněk Burian moci dát návštěva níc podepsat skončení koncert
+cesta mládí doba tramp výt let příroda posezení totem táborový oheň provázený píseň Zlatokop Tom cesta moře Rikatádo další
+hudba nahraný zpest řenat hra benžo kytara nahrazovat orchestr náročný
+absence orchestr vadit publikum přijít hlas zpěvák vyprá vění zábava zklamat
+Waldemar Matuška začít zpívat starý písnička slavný období pražský divadlo semafor zavzpomínat přítel herec zpě vák
+dlouhý vyprávění věnovat Jaroslav Marvan Jiří Sovák
+moci poslechnout humorný smutný zážitý ky mít Waldemar zásoba přehršel
+vzpomínat další přítel zesnulý znát herec Vladimír Menšík sa morostlý umělec oblíbený komikum generace svérázný temperament podoba ného Vlasta Burian geniální divadlo režírovatelný umělec
+prohlásit český režisér zvíře Menšík dát režírovat
+příchod USA Waldemar spojit Eduard Ingri šem hudební skladatel cesto vatel autor známý Niagár interview Pavel Landovský soukromý vzpoura rozhovor Karel Hvižďala ukázka vybraný upravený západ píseň opereta trampský milování žít Kalifornie
+osobný sejít stárnoucí Eduard In griš narozený stát poradce vydávání deska trampský píseň upravit starý oblíbený písnička skládat Waldemar Matuška nový píseň
+pěkný český polek doufat uslyšet někte rém příští koncert cí gramodeska kazeta Matuškův
+koncert hovořit Waldemar výt znamný skladatel trampský populární píseň vzpomínat zej ména Ingrišův učebnice hra kytara čas známý škola kytarový hra název veselý učení kytara
+základní hudební vzdělání obor čerpat Waldemar Ma tuška prohlásit absolvovat první díl pokročilý zbývat síla vytrva lost
+Eduard Ingriš dostý čas velký vzdálenost moci osobný koncert dostavit publikum jistý uvítat slechat píseň gára Waldemar zazpívat počest
+chystat Waldemar Olga Ma tuška uslyšet moci těšit
+jemství prozradit krátký rozhovor zákulisí
+jistý koncertní turné úspěšý přinést Čech Slovák dobrý zapomenut zážitek
+koncer tem prokázat obliba vydaný gramodeska lidový vánoční trampský píseň rád mít Waldemar Matuška našiný žijící velký louže
+léta vyhnanstvo herec udělat
+hrát Burgtheater hrát druh trpaslík hrát Plechův bubínek esesák centimetr vysoký moci hrát moci hrát Urzus hrát kocour výborný herec trpaslík
+mít vada mít vybroušený hochdeutsce
+divadlo velký moci dovolit hodný lidé držet muset hrát
+prominentní blbeček
+zbavit Čechy občanství zůstat
+mít vadlo smlouva stáž rok odstážovat jet občanství zašantročit podepsat Dr Oldřich Bastl Rakousko dát občanství postarat
+myslit svět vyvázý nej
+svět stěžovat mít nárok život očekávat chtít dělat příslušet
+domnívat člověk stupeň moci klesnout svět zásada spravedlivý umět moci jít prdele jít zřejmý zasloužit místo
+vrátit herecký práce západ
+film udělat hrát re žisér Petr Patzak rakouský film přičinlivý patřit svět pan Patzak hrát rakouský policajt povídat kameraman Jirka Stieber vlastné film pomoci muset Patzak ří litr němčina
+reže sér Patzak chvíle zamyslit povídat polica stejný blbý
+pikantní Pat zakův táta polda
+točit velký role režisér Ernst Laus cher film Kopfstand dostat cena herecký výkon Taormina Sicilie
+stejný režisér natočit hlavní role film Zeitgenossen
+točit český režisér Ber nard Safarik vlastný Šafařík film jmenovat Hunderen
+práce fantastický mladej kluk léta mít nesmírný vazba Čech český lidé emigrant navyhnanec
+biják vzniknout společný scénář Bernard Šafařík Jaroslav Vejvoda Mar novinka Waldemar Matuška
+vážený přítel nabízet novinka LP deska kazeta trampský píseň možný zakoupit tíčit voda tíčit LP deska lidový píseň LP deska kazeta vánoční koleda cena deska kazeta US náklad spojený přeprava poštovné Evropa Austrálie
+Afrika US kazeta deska loď USA US šek muset vystavený US banka
+plat Evropa Austrálie Afrika platba US zasílat prosit adresa ENT
+P O box Madeir FL děkovat těšit shledaná Waldemar Olga Matuška Nablzl český FILMY videokazetá VHS BETA CENA film kazeta $ Winnipeg R W Pavel Landovský ka déla témét koleno neuvě řitelný těžkyj finanční podmý nek film vážit nékterya jin biograf spous peníze
+zapomenout dělat film Vojtěch Jas nápad svatý Klára scénář Jelena Mašinová Selbstmorder geniální hra Michael Erdman ruský kladý napsat rok
+Stalin říci hra zdát vtipný určitý okolnost moci bezpečný
+hrát
+konečný teďjso hrát český jezedo áka Kunderová nesne sitelný lehkost bytí
+americký film režírovat Philip Kaufman Jean Cloud Carrière napsat scé nář
+hrát vlastní synovec Paříž prosadit role synovec
+vypadat úplný sranda
+protirole hlavní postý vi pátý casting představovat stabilita země dotknout dějiny sedlák duše
+příběh země vevalit vyprovokovat vášeň stupné utlumit utišit zklidnit celý doba dno příběh muset bát tenhle lidé sedlák sedový JZD
+role vlastné film našeptat
+chytrý kluk mít ná pad
+ňákej naznačit pochopět vědět
+cena Sicílie
+příběh
+domnívat Rakousko Československo všimnout psát noviny cena přivézt Klaus Marie Brandauer kufr Taorminá dele gát potkat říkat mít cena
+dát ptát
+potkat divadlo odpovídat
+potkat povídat mít cena zabručet nosit
+léta potkat Josefstadt ulice řít odpovědět moci dát barák
+mít vysvětlit zátý kladní poznatek divadlo říci
+
+mít slovo lidé dokopat mít zkušenost mít říci
+léta moci divad mluvit léta vědět říci
+muset umět dělat věc muset zvyknout věc bát soustředěný
+moci vypočítat
+počkat
+počítat léta vědět
+první řada muset mluvit text muset bát rozumět muset bát světlo smět krátnout říkat muset bát srozumitelný divadlo slovo dívat muset vnímat poslouchat partner říkat odpovídat vymyslit napadnout
+věc důle žitý
+poslouchat říkat třicátý odpovídat slyšet říci těžký moci bát text umět nazpamět
+dít Německo herec čekat rážek štychvortový divadlo
+skončit začít mluvit vadlo fungovat herec profilovat předvádět tý hezčí stra
+praxe říkat začátek těžký sku tečnost stát tma muset bát světlo muset otočit slyšet mít vypadat situace muset chovat ur čitý hranice divák všimnout moment sdělení přehrání dání zdůraznění
+hraní vyvažovačka děsivý dát vysvětlit praktický pře pada
+dát říci divadlo zkuštěný skutečnost
+zhuštěný
+divadlo muset umělý muset vypadat přesný reálný tajemství
+muset ovládat aranžmá scéna aranž mít muset vycházet určitý bod scéna přivést soustředěný jeviště lítat blázen hrát blázen divadlo vnímat obraz celkový
+obraz mít podobný rytmický vizuál řád
+aranžování scéna mít zlatý kříž aranžovat číst věk vědět muset vnít mat rozptýlený divák dostat připravený
+režisér přítel Josef Šmíd napsat dopis věta pan Landovský zapomenout člověk muset vydělat
+zjistit takový dra vec extrakt vypozorovat mít sklon muset skový tečný dát pozor mít vědět
+dopis pamatovat brzdit životní dra vost vědět ohrožovat kámen úraz moci dojet
+tý doba zklidnit spousta věc nechat ujít nechat plavat mozek pracovat vydělat dát
+dravat typ
+platit práce jeviště ustoupit poza dít nechat prostor ostatní lidé představený ladit bát součást figurující doména
+začínat profesionál klo tov
+Klatovy
+hrát představení
+rok oblastní divadlo škola herec škola mít moci stihnout rok
+dělat divadlo jeviště lidé předhánět lepší jít divadnoství lo fotbal
+dobrej
+dobrej
+líbit druhej úplný blbost
+mít pár néjakyj herec horší pár lepší hrát vědět začít hrát nechat vědět mít říci
+člověk dělat muset říci hra text vědět bezpečný vědět vědět moci říci kdybys sebegeniální
+Chaplin říkat vědět mít nahrabaný životní zkušenost moci tý svý malý figurka dát hrát
+herec povolání povolání autor
+herec divadlo text převažovat svý osobní zkušenost sdělovat aktualizovat věc napsaný začít hrát konec
+blbost tý věta zahřát pan
+nechávat usínat vyzbrojený vycházet lidé jeviště brát lidé postava reagovat
+král moci chovat král vůl nést téma král téma stáří téma nenávist závist
+mít moci chovat král vypadat blbec
+vlézt jeviště král král muset cho takovej vědět král
+hrát Jan Werich skutečný král
+hrát král
+jasný
+Činoherák hra dávat popisovat zkát jít zkoušet obyčejný měsíc znamenat nazkoušet naset pád vypadat čerstvý
+pamatovat ředitel Jaroslav Vostrý režisér Ladislav Smoček dramaturg Leoš Suchařip proslavit revizor režie Jan Kačera
+sát hlasit
+Jan Kačera svatý zácký duše organizátorský ini ciativý cílevědomý chtivost lás kao divadlo nadšení pade sátý léta léta válka lidé ukázat konstruktivní ňístit kát Kačera svazák mít mysl schopnost stmelit říkat svazák kolektiv myslit
+důvod dokázat týmový pra covat lidé nahnat motivovat zapálit dokopat začít bavit naučit myslit potřebovat divadlo
+mít spousta jin nost ješitnej režisér režisérstvo přistoupit kompromis říkat zkusit fungovat lepší akceptovat
+chlap vědět divadnoství lo muset zkoušet zkouška slovo zkoušet zkoudit přijít hodina divadlo omluvéj přijít vzít druhý obraz pátý jednání sjet přijít slušný nudný kritika
+zkoušet jít říci vědět kluk stát text říkat sedět vstat mít chuť vstát pocettit potřeba vstat zvednout chtít naletnout čaj vstát Honza Kačer povídat dobrý cejtit potřeba pohyb hlediště hyb cejtí cejtí vstávat
+Aran žovat scéna přirozenost
+zkouška zkoušet jít optimálný
+říci mít vyjít leva zro šít dveře dát nutit
+zdát scéna stůl jít stůl vyhodit zkoušet země dece scéna rustý
+scéna divadlo uvidět
+dnešní divadlo otevírání dveře házení noha noha zapalování cigareta předváděný pít kafe hra jou
+vědět napsaný člověk vymyšlený scézimý nu vidět
+divadlo jít dostávat tý situace autor psát šifrovat přijít
+uvědomit válit země žerat slepice moci agresiv potřebovat scéna zbavit agresivita stačit herec povalit pupka dát ruka žvanec
+nechat herec chodit žvanit většina ume lej poznat říkat normální okolnost moci napadnout
+myšlenej trůn
+sedět truna mluvit fráze chtít domluvit muset jít projít zahrada
+místo mít jazyk odhalování závis lost dělání divadlo
+mít štěstí divadlo moci dělat léta
+činoherní klub dělat divadlo smět moci dělat rok velký štěstí vděčnat vyhodit
+léta Maďarsko vidět Krejčíkův inscenace penzion svobodný pán hrát nový lidé představený fungovat duch starý Činoherák strašit divadlo obcházet divadlo zít zračný scuknout vyjet kový špička člověk leknout mít bát
+prostý život
+hora důl
+vydávat Karel Ritter Verlag Fahrenheitstr D Bonn divadlo Igor Hájek český pokoušení
+poslední hra Václav Havel dočkat obecný úspěch přijetí dostat vaň kovský jednoaktovka desátý léta Audienc vernisáž protest
+ozvat hlas autor dávat strhnout an gažovanost boj občanský právo odvádět síla pozornost vlastní tvorba začínat projevý vata dlouholetý odloučení živý jeviště možnost ova řit výsledek práce přispět případný úprava doko nalejší podoba
+dojem posi lovat hra hrdina hroutit břemeno nárok očekávání vkládat přítel spoluob čaný toužit vrátit vězeňský klid
+zřejmý Havel dát inspirovat vlastní postavení
+britský vedený hra přeložit upravit známý dramatik český původ Tom stop pard stránka zhutnit zvýraznit kritika zapůsobit
+dávný uvedení rozhlasový úprava třetí program BBC kažený přehnaný zdůraznění groteskní rys hlavní postava
+Pochy bnost Havlův nový tvorba rozptýlit hra pokoušení
+první čtení zdát jistý rozostřený místo vzniknout autorův úmysl
+Havlův pražský kolega zkušený pronikavý zakázaný divadelní kri tik Sergej Machonin naznačit dů myslný rozbor hra značnost muset spěch věc
+past pomýlený výt klad uvíznout rakouský režisér vídeňský provedení pokoušení beznadějný propadnout
+napětí čekat dopadnout premiér země prvotřídní divadlo velký Británie
+poučený vídeňský fiasko zajet režisér Roger Michell Praha autor den hra diskutovat
+prozradit hra hodlat uvést expe rimentální pobočný scéna královský shakespearovský společnost Stratford Avona jeviště obklopený strana divák
+pokoušený pře klást zemřelý Jiří Theiner Stratford duben provedený divák kritik šeni
+moci potvrdit skutečný divadelní zážitek ohled
+hra mít pevnýajasný rámec papír dát autorův nejistota vysvitnout pravý podoba filozofický zamyšlení
+úspěch přispět skvělý herecký výkon britský scéna ob vyklo
+inscenace přenesený Londýn přivítat obecenstvo
+světový premiéra původní čes kýmaný znění pokoušení dočkat říjen scéna umě lecký středisko svatý Vavřinec uvést nový divadlo Toronto
+muset přiznat ochotnický představení chystat jis obava
+jist výsledek Václav Havel nový divadlo poslat zdravice přání provedení dopadnout Vídeň Stratford
+chtít věřit přání moci splnit
+překvapený
+stránka he recký výkon toronský šence britský suverénní profe sionál měřit moci rozdíl malý dát čekat
+představitel Fistula Bohouš Máca ohled zadat
+dobrý vyrovnaný výkon ostatní přispět celý představení proběhnout vysoký úroveň
+Foustka Tomáš Mašek roztěk níjký bázlivý stavovat věc režijní pojetí
+Marie Klečková role Vilma ženský typ přesvědči velký britský kolegyně
+stav tajemník posunutý názor směr groteska jistý výhrada mít přítomnost herec vist podoba chór scéna Foustka hra Fistula
+domnívat fyzický dra matický blízkost jednání herec muset divák mást
+re žisér Adolf Toman
+pokoušení intrum pretovat podobný insený ce stratfordský možný patit považovat autentický
+náročný hra podnítit torontský divadelní skupina mimořádný výkon ohlas dát soudit pre miéra dopadnout du Vídeň
+J J ověřený překlad čeština angličtina franština němčina provádět přísežný překladatel Ladislav Santiago spolkový republika Německo telefon právo Ota Ulč
+pokoutní právní porada pozor pokoutník varovat titulek příloha rudý právo listopad
+trestní řízení moci obviněný zastupovat člen advokátní poradna státní druž stvo občanský soudní řízení úkol moci zastat zástupčí činnost odporovat pravidlo socialistický soužití
+odporovat pokoutník dopouštět přečin zájem socialistický hospodářství
+vět šin vyvrhel pocházet řada podnikový právník melouchařý pra covní doba rozkrádat sobota cialistický pracovní doba
+obvinění ohradit Ruďas leden projev nevole otisknout
+nesporný zůstat hlavní bod motiv činnost hamižd nost bažení zisk
+t j bažení koruna socialistický drát věru obvinit moci
+válit valuta kapsa protrhávat jidášský stříbrňák
+psát Průboj únor postup emigrace stát dloužený prst americký roz vědek honorářový listina mít západoevropský sdělovací středek univerzitní katedra
+zvedat dolar honorovaný prst první odstavec první para graf trestní řád čestný plnění povinnost stát společní nost
+primérní takzvaný oznamovací povinnost informovat donášet udávat
+muset činit nepro dleň tlustý podtržený vyžadovat váděcí nařízení moci dodr žena leninskázásada žádnýtrest ný čin zůstat neodhalený pachatel nepotrestaný
+toť slavý ný princip Vladimír lljič potrestat vinný viník uniknout
+povinný ozný mit orgán mínit plánovat utéci hranice učinit dotyčný zločin uplatnění mezinárodní závazek slavnost zaručený právo uskutečnit
+neudání vyjít bát trestný čin pomoc nadržování uvěznění léta
+účel článeček ozno movat opačný oznamovat gratis
+rok dávnověk vydumat ztéci barikáda rozdělený svět perma odpelášit socialistický budování
+masový zajíždět Čedok západ Berlín ztopořit zeď míra
+zbývat zájezd Balt Dederonie přílež tost správný směr hlavní město ztratit
+lapit soudce renegát proradný
+soudruh spolupracovník natahovat skřipec polévat vřící olej
+notný přemýšlet alibi případ potřeba
+záležitost komplikovaný mnoko hektar bod zmínit odjezd majetek prodávat nakupovat
+čerstvý vlastník Fiata justiční pra covník plzeňský kraj krása závidět
+hříšný peníze koupit gramorádio krám
+nechat stravitelný pravděpodobný obh joba případ lapit sát druh prosit nedo rozumění —zatoulal vyznat slyšet utíkat nechat kav pít
+upláchnout velký potíž většina komplikovaný alibi muset menšina muset použít majetečka vteřina litovat transakce vyplatit skětnout potřebný klid duše
+účastník odjíždějící hranice uvažovat počínat nak
+lump ko munistický nechat říci mít pravda
+transakce nenechání udělat chyba stát moci potrestat uniknuv šího potrestat majetko osoba blízký zanechaný
+dostávat pokoutnický poradenský činnost
+začít chmurný premisa reálný socialismus stát konec konec moci dělat chtít
+sdělení příjemný většina přípa dů stát mít akutní zájem předpis porat šovat
+občan dostávat přílež tost nebezpečí arbitrární zásah redukovat
+stát vydat nový předpis výhoda občan sa vislost majetkový transakce emi gráce
+stát duben připadnout erára majetek občan osoba připravující opustit povolení republika odkoupit dobrý víra základ paragraf občan skůho zákoník
+zákoník novelizovaný zákon číslo sbírka další speciální případ odpovědnost oprávněný majet kový prospěch zformulovaný
+jít připadnutí věc stát par
+paragraf dlouhý článek dispozice majet připadlý stát časopis kontrola březen napsat vědec Josef Vrabec vysoký škola policajt ské
+započít zdůraznění společený ské závažnost daný problematika negativní politický do pad
+dopustit vlastník véc protiprávní jednání zbavit možnost věc obvyk lým způsob užívat připadat véc vlastnictví stát
+vlastník zbavit možnost obvyklý způsob užívat opuštění ztratit dis pozice věc
+věta zdaný jednoznačný obvyklý způso bem jednotlivec spo lečnost norma rozhodovat rodný strana
+vlastnit domek léta dovolit rodina sídlit šle chetnost obvyklý případ obvyklý
+utéci
+útěk pozbýt možnost véc obvyklý způsob užívat možnost uplatňovaný ona šlechetnost tyjící
+dostat povolení stát vystěhovat movitost moci vlastnit rodina moci sídlit
+opuštění republika povolení trestat odnětí svoboda léta případ přitéžující okolin nostit léta zákon
+véc připadnout vlastnictví stát vlastník trestní řízení odsouzený
+konfiskace podléhat majetek mít velkoburžoazní vila mít motorka bicykl koloběžka ponožka
+připadnout stát stát národní majetek útěk hodný občan sloužit národ
+Erár stávat vlastní kilow okamžitý exlege následný den úprk
+jméno stát socialis rozkrást místo bydliště dojít hlášení příslušný orgán pas vízum majetek dostat dočasný péče finanční bor ONV zevidovat sepsat případ nemovitost orgán VB zapečet
+nový blahovolný vyhláška obsahovat povinnost občan pomáhat zjišťování majetek
+předpis osoba slanec pracovník lidospráva justice SNB nabývání majetek výslovný vylučovat mít reálný socialismus jiný předpis vyjmenovaný funkcionář bývání vylučovat
+dobročinný ONV správný lidé rozprodávat takzvaný zahazovací cena
+známý prodej docházet řejnost přístupný dražba
+prodej vyjmutý věc zvláštní charakter valuta deviza zlo drahokam zbraň střelivo věc muzejní galerijní hodnota
+bídák uprchlík vlast zanechat manželka kup hladový nezletilec
+stát ponechat část oděv potravina palivo domácí zařízení plus hotovost maxi koruna osoba
+stát majetek osoba druhý třetí nabýt vlastník dobrý víra
+důkazní břemeno osoba prokázat dobrý víra stát popřít dobrý víra
+nabyvatel dobrý víra muset domek vydat stát důvod oprávněný majetko vyjoko prospěch Vrabec Ruďa su květen uvažování prapodivný budoucí emi grant kupec ošidit okrást vzít hůl okradený chudák oko stát vinný oprávněný obohacení
+důkazní břemeno úspěšný poradit
+hypotetický pře klad občan mínit utéci vlastní dům auto srst mít tek padnout stát
+připadnout muset nebezpečí redukovat zbavit lze zalíbit sídlo Fojtík případ ztracený sebevý opatrnost
+dlouhý doba transakce úto kilow
+dohodnutý předstíraný cena odpovědět dát hodnota nabývaný majetek
+druhý strana kupní smlouva příbuzný blízký ka maráda
+prodat chromý penzista závodní kon
+jít tchán notář babka převést luxusní sídlo čerstvý mlýčný výrobek nejlepší J O G R T Y smetanový Syrý lisovaný TVAROH kyselý Tvaroh jogurtův nápoj nejnový jogurtový pomazánka tzatzik
+věřit kvalita vyrábět přírodní jogurt Biobest kultura Acidofil Bifidum kalorie gram výrobek firma ASTRO dostat lepší prodejna potravina ASTRO LTD Ontario Kanada
+poledne odjet cizina
+úřední molo vykonávat takzvaný devizový dohled jmenovat správa věc majetkový devizový
+sídlit Praha dědictví penze rent honorář úspora úspora pert sportovec evidence vést Čechoslovák vlastněný nemo vitost výnos realizát převod realizát chudinko matko
+platba výživ né pojistka náhrada škoda daňový refundace evidence soudní notářský poplatek cizinecký prvek
+fundamentální funkce moloch působit občan účinný uplatnit ma jetkový právo cizina výt sledek projevit přínos československý devi zový hospodářství
+případ potřeba poskytnout občan uplatnění ná rok cizina bezplatný úplný právo pomoc
+bezplatný pomoc velko dušnost
+slýt příklad praxe Slovensko starý židovský paní do zvědět zdědit dům Argentina
+moci překvapení vdít matovat psát československý stát výzva podepsat plný moc prodej nemovitost přesný stanovený suma cizí hodnota dotyčný vědět
+dovtípit divný počínání cena novený
+pár oklika doputovat požadavek věc moci podívat
+podívat moci mít ruka zjistit kamarád moci skutečný cena dě dictví desetinásobný
+— inu účel moloch vylepšo vata stav devizový pokladna okrádat občan účel hodit výt tečný
+lze vyloučit jít pokus okrást stát zlodějský československý diplomat předmětný místo perestrojka neperestrojka
+mít dědička kový případ počínat
+doporučit plný moc pověřit místní solid ních advokát místní slo venska Argentina
+moci sehnat tamější známý duše pomoc obrátit diplomý tům
+ČSSR mít zastupitelský úřad Argentina mít mít pra
+československý stát dědička obořit váhat plný moc říci pán dát taměj ším pán advokát
+udělat
+inu psát známý odtamtud poradit počkat ten momentík dopis ukázat podívat najít potřebovat
+starý ženský zlobit splést papír podepsat moci zákonný moci zájem československý stát advokát solidní známý ujistit
+zemědělský noviny duben šdesátiletý Ludmila H Brno zdědit dům Vídeň
+devi zovat činže odevzdávat českoslo venský stát nechat uklat data konto rakouský banka
+dopustit trestný čin ohro žování devizový hospodářství par trenér z trest léta plus peněžitý trest propadnutí věc
+Čechoslovák pozvat štěd rý příbuzný Amerika zajet kasino Čechoslo vák vyhrát dolar
+muset nechat hnedka výhra odevzdávat lačný stát
+prohrát občanský povinnost rozhoupat
+prohrát výhra probendit hříš ný žena
+okradnout okradnout stát
+mladý fronta srpen odpojit vídat devizový tuzemec hraničit vyhrát loterie získat dar peněžní částka moci prostředek místo spotřebovat
+říkat přikazovat spotřebovat
+částka utratit smět povolení ponechat zahraničí muset valuta spěchat státní banka
+převelký množství návštěvník USA USA černo vydělávat značný peníze
+šikovný řemeslník
+vědět dílělý dečka hodinář rok vyzískat
+tyční dolar přivézt ko runa dostat znač ného jmění
+peníze nechávat
+riskovat provalení zákonný krok banka omyl poslat majitel výpis konto riskovat ztráta konto
+stát známý nechat pár tisícovka přítelkyně zainvesto vala vlastní jméno
+slovo řádka skutečný majitelka
+zdravý přítelkyně ranit mrtvice investice schlamst dědící americký potomstvo
+transakce získat věrohodnost inzerát
+občan dohodnout oso důvěřovat prodej suma X datum prodej den inzerát nabídka objevit noviny
+soudruh mít moci vědět
+důkaz dobrý víra dodaný
+autor Vrabec pravit mít vrátit osoba spáchat trestný čin opuštění republika ustanovení par trenér zákon dojít dodatečný legalizace pobyt doklad trvalost zbavení možnost obvyklý způsob užívat daný
+věta elegantní potvrzovat permanence konfiskace existence restituce majetek vracet vracet zaměstnanecký pozice poskvrněný kádrový fila
+emigrant znormalizovat upravený vztah dovolený vrátit rodiště sypat ptáček Vltava rodný cha loupek Podkrkonoší moci nastěhovat dát platit tvrdý valuta
+emigrace ztrácet projednávaný uzavřený dědický nárok
+svobodný slovo březen uvést případ neteře hádající příbuzný pozůstalost
+moci dojít vyřešení pře neteř utéci západ pávit řila otec dědictví prát
+
+odvo lací soud rozhodnout trestní čin úprk dotyčný diskvalifikovat právo zbýt
+stát máhat dědictví diskva lifikovaný osobý odejít věč
+tématika psát ZÁ PADU prvný číslo květen dědění reál ného kapitalismus reálný socium lism
+stát mít deviza monopol
+přísný zákon číslo sbírka pravit mnohý nařizovat stěžejní princip devizový monopol ČSSR zakotvený abso lutní zákaz obchod devízový prostředek
+devizový tuzemce ulo žena povinnost převést tuzemsko pohledávka
+devizový tuzemce mít povinnost nabídnout devizový banka zex odkup valuta zlato nej den
+devizový tuzemce povinný hlásit devizový evidence hledávka devizový cizoz cům nemovitost zahraničí majetkový účast závazek nárok dědictví
+paragraf devizový zákon kazovat platit tuzemsko devizový cizozemec prospěch
+znalost předpis zprošťovat pachatel odpovědnost devizový přestupek
+přestupek považovat jednání stát způsobený škoda přesahující Kčs
+přesahovat přestupek stát trest ný čin značný potrestání
+par trenér zákon účinný lí tost trestnost ohrožení devizový hospodářství zanikat pachatel škodlivý následek napravit banka Tuzex upla nyvoký den odebrat odebrat vyšetř jící orgánový
+Praha souzený odsouzený číšník majitelství marka dolar
+marný hájit valuta mínit odejmout sféra devizový monopol mínit směný zasko čit Tuzex
+častý prohřešek česko slovenský obyvatelstvo uve den národní výbor číslo informovat stát nabídnout banka prodej platit koruna cizinec CSSR předpoklad revanžovat platba zahraničí
+stát ubližovat fingovaný dar automobil zahranič níchy značka
+skutečnost cena automobil vyplacený cizozemec nékom prospěch
+stát občan domluvit NSR sídlící uprchlík darovat mercedesa platit aliment
+stát transakce kouknout následovat kriminál
+rok zrušit povinný zápis valuta dovážený cizinec zrušení trvat
+stát unikat zjištění valuta cizinec přivézt občan československý vyvézt
+rudý právo březen prozrazovat Pavel Rydlo major VB doktor společenský věda vyvezený cizí nu léta daro vaný občan drtivý věteš spekulant auto mobil spousta další zboží video počítačka hudební aparatura
+spekulant důkladný zpeněžit
+přijít obchodní patrn ři cizina většina emigrant
+orgán činný trestní řízení setkávat názor trest ná činnost vekslák stíhaný naoko trpa valuta stát získat
+názor mylný tvrdit stát sobota prosinec přesvědčit
+státní bezpečnost vekslák luxusní prostitutka ruka
+zdroj nákaza zdroj valuta informace vytaha cizinec
+lze užít využít funkce houba pořádný nasáknout vyždímat
+praxe nový precedent posloužit pogrom zbohatlý obchodování věnovat csát Žid širý Rus
+podařit zjistit jed noznačný lze kav tuzexový poukázka oznamovat dr Tomáš T Žiliny mladý fronta březen odpovídat příslušný předpis ustanovení připouštět prvomajitel tuzexový pouká zek devizový tuzemec poukázka získat část mzda práce zahraničí dědictví dar zahraničí prodat
+prodat moci domluvený cena osoba druhý vlastní potřeba
+osoba vekslák neprvomajitel
+veksláctví dvoufázový činnost valuta cizinec koupit atak spáchat trestný čin ohrožení devizový hospodářství par trenér zákon osoba druhý zisk prodat trestní čin spekulace par trenér zákj
+říci lidé ptát rudý právo březen fede rální policejní major Pavel Zeman odpovídat mít kriminální živel hrubní ražení
+považovat lepší část kri nální podsvětí zastavit násilný čin majetkový trestný čin
+mnoh dy zaměstnaný poctivý třebný profese umožňovat kontrolovatelný pohyb přicházet styk cizinec
+pestrý paleta topič uklízeč noční hlídač technik hudební skupina špičkový obslo hující personál restaurace re cepční pumpař taxikář
+technik špičkový hudební skupina topič kontrolovatelný pohyb styk cizinec
+lze uvalit další ober nění parazitismus porušování pra vidět socialistický soužití
+veksláctví poslední doba psát fenomý zfil movaný
+Tuzex kardinální politický trapnost život udržo vaný ekonomický priorita
+blamáž zrušit valuta přístup mít
+mít velký šance úspěch uvážení chura vého stav československý spodářství
+začínat podnikat velký antivekslácký razie
+rudý právo příklad oznámit říjen první strana prodejna Tuzex Gorký ulice Bratislava uskutečnit stro du říjen příslušník kriminální služ městský správa VB vyčlenění zvláštní pracovní skupina příslušník pohotovostní motorizý vaný jednotka VB pečnost akce zaměřený oso bám zabývající prodej tuze xový poukázka
+motorizovaný represívne akce nést osoba zatčený včet letý hospodařit cího rolník letý důchodkyně Kčs TK dolar mar ky frank guldený šilink forint rubl řetízek žlutý kov
+koruna směna telný drama odpadnout
+služba čtenář zemědělský agronom pěstitel zele nina vinný réva sadař ovocnář žijící jižní Afrika rád přestěhovat Kanada
+pomoci
+značka jižní Afrika
+literatura Jan Vladislav
+opustit
+vědět život slyšet opakovat Čechy patrný rok
+pamatovat věnovat pozornost
+lidé spílat politický emigrace stát
+pamatovat slýchat číst únor důraz srpen
+spravedlivý hněv prokurátor placený dobrovolný rozhořčovat zrádný pikla emigrant vypadat člověk uvěřit
+uvět řít slyšet volávat autorita uznávaný básník končit tiráda varování opustit zahynout
+opustit zahynout
+verš známý napsat Viktor Dyk
+tvořit závěr báseň země mluvit lze najit sbírka okno
+sbírka součást soubor básnický kniha vznikat předvečer první světový válka
+básník spojit společný název válečný tetralogie
+název vyjít rok kniha třetí svazek spis Viktor Dýk redakce univerzitní profe Antonín Grunda zemřít rok sebevražda
+Grundův vydání záslužný moci ověřit Dykův válečný verš vznikat pravý smysl
+případ báseň země mluvit závěrečný verš jít okolnost důležitý
+platit dvojnásobný míra Antonín Grund připomenout první stránka komentář ce lém soubor válečný tetralogie lze čist užitek dobový vysvětlivka
+říkat dobový vysvět livka založený historický pra men vlastní svědectví Vikto dýka dvousvazkový vzpomínka komentář politický stát národní stát kniha tichý dům belet zpracovat zážitek praž ský vídeňský vězení
+sbírka okno patřit báseň země mluvit vlast básníkový vězeňský deník
+odpovídat název okno jít okno vězeňský cela
+Viktor Dyk zatčený druhý půle listopad
+publikovat řada báseň dát vyčíst sympatie krvácející Francie legium rakouský cenzura ujít
+začít lidový noviny publikovat tajemný dobrodružství Alexej Ivanyč Koza linovo ruský nátěr skrývat satira Rakousko pomoci cenzura anonymní udavač básník zatčený
+etapa věznění odpovídat titul oddíl sbírka okno první mít název předehra druhý nadepsaný Praha policejní věznice třetí dlouhý Vídeň posádkový vězení
+vídeň ský vězení básník převezený půle prosinec
+setkat dát ším český politický vězeň jiný někdejší politický protivník Karel Kramář zůstat propuštění konec květen
+leden dojít událost vyvolat rozhořčený lidé Čechy Čech vídeňský posádkový vězení
+český svaz český poslanec říšský rada založený měsíc vyjádřit ústa předsed nictva loajalita rakouský monarchie odmítnout prohlášení stát dohoda uvést válečný cíl osvobození Ital Slovan Rumun Čechoslovák cizí nadvláda český svaz znát poškodit úsilí český slovený skůho zahraniční odboj vyvolat nesouhlas
+předsednictvo svaz zasedat Bohumír Šmeral osvobození kladatel KSČ
+Viktor Dyk zpráva prohlášení český svaz reagovat výbuch hněv roztrpčení den den rovnat
+noc vlastni bouřit bezmoc opakovat slabý
+Podlí
+bidáct nepohodlí
+tápání cesta jednoduchý
+gloriol první vítr cuchat
+moci slyšet
+vidět
+cítit
+tichý vážný klid
+bolest spoutávat výčitka žal šílenství kolo květ šlapat
+spoutaný bolest uklidnit
+léci odsoudit um sofista vyloudit premis Bidno zlý závěr být bídní
+báseň napsaný únor stát zmínka srovnání tehdejší dnešní cenzurní praxe propuštění Dyk říj nu otisknout doplnit ko mentář mít chuť pohledět dávný minulost vzpomenout hanebný politic čin politika válka uhádnout dojem vzniknout verš psaný dík bůh příš tího den
+den cítit zpráva prohlášení český svaz bezmocný vztek strani hanba
+vědět znát číst vědět znát číst působit strašný hanba působit pravděpodobný radost radost odpůrce možný opovrhnout
+báseň den den rovnat náslo dovat duch adre opakovat adresa další verš
+patřit báseň země mluvit
+potvrzovat Viktor Dyk
+tichý dům číst vězeň znát politický duch domov
+těžký zoufalý chvíle přinést jaro
+chvíle vědomí bezmoc sevřít dusit
+bezmoc vidět drahý jít propast lze vykřiknout
+bezmoc vidět jasný chystaný úklad lze varovat zákeřnik
+zeď udusit volat psát lze
+návštěva kontro lovaný
+rozbít hlava chtít
+vězat ňový usilovný hledat
+možnost možný promluvit
+hledat vrub stejný muč vým neklid
+ovzduší nálada vzniknout báseň věz ňova země mluvit
+projít verš prósa projít auditorový cena sura
+projít
+báseň projít cenzura vy zeňský auditorium cenzura tiskový vyjít květen den básníkový propuštění pražský Lumír
+báseň rozumět činnost český slovenský emigrace zahraničí vztahovat
+ostatný Viktor Dyk vzpomíný kový komentář nechávat pochyba báseň psát svaz český poslanec revoluce ruský duben usnést veřejný prohlášení žádat rakouský soustátí myšlenka mokracie parlamentarismus ústavní revise směr sebeurčení potřeba národ řešený otázka nej žhavý palčivý
+Dr Tobolka konstatovat první veřejný jev oficiální politika země český doba válečný řešení právo určení potřeba národ rámec habs burský monarchie
+první projev léta vypuknutí válka první jev revize ústava dožadující
+vězení dát obava výraz báseň země mluvit
+stejný obava stejný doba znít projev český spisovatel
+manifest český spisovatel adre sovaný český poselstvo rada říšský uveřejněný květen
+podepsat český spisovat lů vědec žádat český poslaný ce jednánídbal národ níchy zájem usilovat Evropa mokratický Evropa národ právný svobodný
+manifest adresa poslanec užitečný
+těžký psát vězení verš mít odezva podařit dopsat propaco vat cenzura tisk podávat svě dectev básník
+kniha národní stát napsat báseň auditor závadný říci chtít říci
+slovo slovo nutný
+mít první koncept báseň škrtaný opravovaný měněný
+Auditor propustit báseň vyjít květnový číslo Lumír
+otisknout báseň jiný lis tů otisknout
+čekaný vrátit Praha říci kamarád báseň lo pochopit výkřik výkřik básníkový mluvit moci
+jasný Viktor Dyk adresovat báseň závě rečný výzva
+určený tehdejší český emigrace odboj zahraničí
+určený emigrant obecný
+určený tehdejší český poslanec malověrný slaboch zrádce
+ostatný jasný báseň stačit číst celý poslední sloko
+aktuální obracet nucený Čechy odejít vzít ruka rozhodování prodávat pověstný mísa čočovice úděl vlastní lid opouštět země oslýt slovo varující prodat úděl čočovice
+opustit zahynout
+vědět přijít stín
+pěst potomek zatínat syn proklínat
+zahýt věčen ¡sem žít trpný úžas zapomenout dědičný díl
+váhat
+zradit
+možný kletý čin provóst vědomek
+zradit moh
+potomek
+Dokavad dýchat vzdát
+bát
+smrt
+smrt znamenat
+matka země otvírat náruč možný zhrď
+jít poznat země náruč měkký splnit čekat
+matka brát syn
+jít smrt jít
+opustit zahynout
+opustit zahynout
+zemřít Vilém Hejl český spisovatel signatář charta publicista novinář blizký spolupracovník časopis přitel
+hluboký zármutek redakce Ivo Kotrlá katalog čtenářský záznam husitský pouto český západ Ústřed cirkevní nakladatelství Praha číslo strana vedouc redaktor ThDr Vlastimil Zftek
+husitství fenomén prostupovat ohlas český kul tura
+český zápas časopis církev okupace srpen ob dobí normalizace rozšířit název čestný přídomek husitský razit termín novodobý hnutí hu sitský
+viz český zápas číslo červenec číst rok slavit ČSR červenec den upálení M Jan husa státní svátek
+čelo ofi ciální slavnost stát T G Masaryk Antonín švehla
+Novodoba husitský hnutí vyvolat český země stavba počet nýcha husitský sbor budo nést jméno význačný husit hnutí původní husitský teolo gů hejtman
+český kultura vztah husitství
+pročíst pečlivý seznam název původní význam husit sbor nést jméno významný husit německý původ Johannes Dran dorff Friedrich Reiser Peter Turnow Johannes Hagen Stephan Basilej
+husitá známý dějiny husit ské misie Německo jistý moci stát čestný nositel mezinárodní význam husitství pojem jméno novodobý hnutí husit století
+století Zd
+Nejedlý odhodlat vysvétlit duchovní průlom husitství mravní obroda teologický forma
+odmyslit přínos Němec husitský období lze popření dějinný pravda
+učitel ský generace husitský mistr patřit Křišťan Prachatice němec kého původ revoluční epocha lze opomenout Zatec značný podíl německý oba vatelstvo město
+mravní obroda účinný vyzdvihovat paměť žijící národnost druhý zapo míná
+mravní obroda teologický forma připomínat praktický důsled ky obroda den dát Žižka pobít obyvatel Cheb
+prof dr Dolenský prokázat 2ižka masakr rozhodnout žena dítě ušetřený život rozlícený táborský žena pobít
+Čheb Žižka bojovat odmítnout přijmout podobojí
+podobný osud potkat obyvatel Beroun Mělník žena dítě ušetřený
+den vypálený český Brod obyvatelstvo vyvražý děno
+den pobitý oby vatel Jaroměř
+dějiny Evropa známý velký lidský sídlo stát oběť husitský holocaust husitá město velikost Cheb Reteč vypálit obyvatel vyvraždit kový důkladnost léta vymazat mapa
+doba dlouhý fašista podařit malý Lidic
+schválný používat srovnávání pojem souměřitelný Reteč Lidice podobný novodobý husitský hnuť dějiny vybírat poučení současnost jméno osoba děj
+výše uvést ného článek husitský pouto psaný biskup církev česko slovenský husitský rok vysvětlení citovat lidé sbor sborový dům katedrála mít výročí
+léta
+malý plzeňský diecéze léta stát zvyk kamenný jubilant putovat
+zakladatel poutí působit přednosta ideový odbor UÚR CČSH Praha
+drumý květnový neděle putovat sídlo diecéze město karafiát Klatovy naplvní něný sbor posílit bratr patriar cha příležitost třicátý výročí otevření sbor Karel Farský
+sbor dostavěný rok vydatný morální pomoc tehdejší prezidna Antonín Zápotocký klatovský náboženský obec najít pamětník působení svrčovský lom
+četba věta připomenout pravdivost přísloví pán bůh cesta najít
+rok československý pře stavba Jakešův cesta setkávat připomínka novodobý husitský hnutí pán bůh cesta najít
+prezident T G Masaryk ministerský předseda Antonín Švehla ministerský předseda prezident Antonín Zá potocký
+pozoruhod boží cesta zaujmout rok novodobý hnuť husitský Masaryk Švehla podporovat živit lidé rok datný morální pomoc tehdejší pre zident Antonín Zápotocký poskytovaný zásvětí záhrobí
+A Zápotocký zemřít
+umět posoudit působení A Zápotocký svrčovský lom promítnout vydat morální pomoc husitství klo tovsko děsit teologie prosazování církevní záj potřebovat svět úspěšný voja vůdce typ Žižka novodobý preze denta ministerský předseda
+rok napsaný A Zá potocký přispél stavba sbor Círk československý husitský hmotný finanční dar chápat
+umět posoudit A Zápo tocký smrt Stalin prezident člověk morálkysobý vlastní nechávat věšet spoluobčan stát sporný provinění politický smrt popravený marný omyl morálka tehdejší
+laictví moci chopit stavba dům boží soudobý husit ná pomocný nota bene smrt vydatný morální pomoc ateista československý moderní děj nách známý
+nutný prostřednictví biskup doktor teologie současník připomínat
+teologie pojem husitství smrt odhodlaný bránit věc boží lidé hodný rázt
+myslit rozumět politický souvislost současný husitský poutí vracení husitství ber ber
+stručnost výklad obmění věta známý německý myslitel století
+Werner Heisenberg napsat dveře vést pootevřít lze tušit bůh
+mít kacířský obměna znít dveře vést husitství pootev ře lze tušit politika
+P S poetesse zatížený van husitství nízký škomna sociální škola moci uvést důkaz síla novodobý hnutí husitský
+
+proniknout edice petlice připomínka oběť Jan husa
+jech následek
+citovat dílo český básník Eberhardt Hauptbahnhof rok rozmnožit edice petlice verš
+čtvr téhozinský oddíl sbírka společnost báseň číslo hon hydrant Hon hydrant Hus chyt Uhasme sčerstvo chytnout lid začít páchat zvěrstvo hasič Hasan hup Hrd vypjat trup Hasil husa hasák Polámal chrup literatura krásný pís nictví novodobý hnutí husitský důležitál prezident Československo A Zápotocký sjezd československý spisovatel rok prohlášený mistr literární um krásný písemnictví
+mravní cítění spi sovatel smrtelný význam podpora stavitei dům boží
+lesk literatura ovlivněný rudý září výstavba husový sbor vysvětlený mnohý J
+křížový Sedmihlásekek aktuální úkol uměný zabitý nuda stesk šedivost život
+K Čapek Marsyas řeč duše kultura národ pravit Čapek kniha Marsyas kapitola chvála český řeč
+zvučnost melodie dávat svědectví poetický radost kmen
+skřípat řeč skřípat harašit hluboký bytí lid
+básník Čapek udávaj úro veň jazyk udávat vysoký stupeň národní vědomý
+učinit řeč zpěvný líbezný zvučící zvon délovina řeč jasný moudrý pružný věcný lehký logický vzletný vnukat ctnost samotný duše národ
+pravit Čapek mluva těžký zmatený beztvarý obnošený falba ná budie zlořečený prohřešit duchovní bytí národ
+Čapek funkce spisovatel básník
+mít národ odraz duchovní bytí zpěv
+interview Zdena Salivarová Daniel Strož západ uvažovat jiný problém vydávání poesie exil finanční potíž vyplývající poměrný nízký počet zájemce
+Daniel Strož domnívat poesie zprostředkovaný recitovaný zpívaný lidé stravitelný
+čist znamenat zůstat
+lidé boj
+vysvětlit báseň Jaroslav Seifert dostat Nobelův cena rozebraný Seifert čtený oblíbený ctěný převážný většina národ exil
+ňíci odpověď snadý záležet zachovaný zpěvnost melodičnost řeč báseň svobodný vydat vána básník dokonalý nástro jem melodický zvučný mateř ština umět zacházet
+srpen dostat konečný denní světlo útlý knížka báseň Jan Křesadl zvaný Sedmihlásek lze autor zlořečit muset bát zůstat
+zatoulaný Sedmihlásek zpívat líbezný čtenář doporučovat
+nakladatelství Rozml Purley Surrey CR £
+autor vědět tiráž román mladík vysvětlovat úvod jistý ostýchavost podlehnout ná tlak přítel překládat číst nářský veřejnost výbor zachovat poesie
+sbírka obsahovat báseň český zbývající cizí jazyk latina starořežiž tina staroslovénštiný němčina špa nělština umělý jazyk urugalnit
+jazyk částečný odůvodňovat název sbírka
+Křesadlův prosaický dílo podobat sbírka báseň hledný dobé český jazyk vydaný exil mít dělat opožděný doznívání celosvětový novosurrealistický vlna šedesátý léta poplatný většina současný český poesie navazovat svazý kao poetika léta padesátý
+kře sadlo lámat zaběhaný konvence
+sbírka dělit oddíl autorův předmluva prů řez vzorek životní básnický dílo vydaný
+formální stránka jít báseň dokonalý roz ličný tradiční forma rondel soneta pantoum obsa hova jít kontemplatívni lyrika přírodní
+báseň mít pře jemný estetický kvalita číst
+čtenář znalý Křesad lovo prosaický dílo moci očet kávat báseň sarkastický bizarní blasfemický sa vislost údaj přesný tradič níchy forma moci mysl vyvolat představa cosi sousedství francouzský dekadent
+kové jít
+zdát báseň odrážet příjemný positivní stránka autorův povaha
+báseň mít zvláštní uklida jící lyricko kontemplatívni kvalita slovo vypsatelný zřetelný pociťovaný
+dnešní dobé básník předávat vyvolávat pocit prožitek jitřící příjemný vnikajílid útroba říkat D Strož lze Křesadlův sbírka uvítat vidět psychoterapeutický vlast nost funkce
+uklidňující funkce moderní poesie možný souhlasit akadní micko teoretický hledisko vzpo moci Václav Černý kritika Seifertův dílo změnit názor praktický čtenářský hledisko lze Křesadlův báseň doporučit
+mít názor druh poe moci autor upřít vynikající formální talent řadit bok básník Vrch lický hora Nezval Seifert
+báseň uvedený sbírka vložený autorův pros vydaný německý epigram citova ný postava kniha ohlášený příští ediční období
+jediný báseň sbírka mít přesný forma španělština
+výtvor magický flašinet nerudogena rozerový mána ohlý šený příští léta generovat poesie styio Pabel Neruda
+jít vlast parodie styl známý chilský nobelista komunista obdivovatel Stalin režim
+báseň starořečtiná moci kom vyjádřit
+sbírka končit soubor sonet
+ztěch první italský typ druh rým označený sur reálný
+jít běžný metoda automatický poloautomatický text
+jít visuální představa surrealisující povaha obraz Paul Delvaux Dorothey Tanning ové líčený tradiční sonetový
+vědět míra me originální zdát český poesie mít obdoba běžný
+další sonet anglický typ druh rým tvořit věnec sonet další soneta začínat poslední řádek předchozí poslední pat náctý skládat první řádek předchozí sonet emigrantský odpověď slavný Seifertův věnec sonet
+viz dvojjazyčný vydání
+vzdorovénec autor nazvat konalý věnec Seifertův cítit mít Křesadlo morální právo básník domov odpovědět mluvčí exil
+patnáctý soneta Vzdo rověnka znít Souzvuk věžovat vzpínat pedál řeka hučet chutnat hlta víno octa žluč
+platný krása duše mrtvý
+odejít zima erární hrnec maso
+kamení století posvěcený kopec sládnout zelený květ jaro vznikat načechraný erotika
+okupant zaženout
+otázka Křesadl ismus přisoudit názor obtížný irelevantní
+Křesadlův báseň mít charakter obecný poetický nadčasový
+přesný forma kotvit renesance postřehnutelný vliv pozdější slohový období
+lze označit novoklasický
+zapřít originální osobnost autor mít rozma nitost jednotný charakter
+výbor vhodný doplněný laděný duchý autorův kresba velký tah odhalovat čtenář další stránka Křesadlův slo žitý umělecký osobnost
+Antonín Měšťan Masaryk Josef Novák
+nakladatelství Rodopi Amsterdam společnost svatý
+svědčit nový náctý svazek studie rakouský filo zofie věnovaný Masarykův díl
+historik rakouský filozofie počítat Masaryk rakouský filo zofa nepráva
+Masaryk většina cech generace rok rakousko uherský občan odborný dílo vyjít doba
+napsat značný část filozofický dílo předmluva kniha Rusko Evropa rok označit rakouský profesor
+důležitý Rakousko stejný svět Masarykův vědecký odkaz střed zájem odborný veřejnost
+vydaný kniha vyjít stať autor
+příspěvek otištěný Wellkův text masarykový filozofie Patočkův článek duchovní krize evropský humanismus Husserla Masaryk Jakobsonův staťo ja zyc Masarykův spis
+naprostý většina příspěvek psaný vydaný sborník
+vydavatel kniha Josef Novák článek vztah Masa ryka Brentanův škola pořadatel knižnice studie rakouský filosofie Rudolf Halier psát Masarykův teorie véda Josef Froněk zkoumat vztah jazykovědný strukturalista pražský lingvistický kroužek Masarykův díl
+problém duše Masaryk Patočka námět pře spěvka Roger Scruton Karl Schuh mann zabývat Husserlův vztý Masaryk Milič Čapek psát Masaryková personalismus Jaromír Daněk filozofický humanis Milan Walter problém moralý ky Masaryk
+Antonín Měšťan zvát příspěvek Masarykův cesta dostojevský filozo fav Jan Milič Lochman zkoumat Masarykův vztah marxismus Karel Hrubý vztah Nietzsch
+oddíl věnovaný sociologice politický otázka J C Nyíri rozepsat statistika sebevražda Rakousko Uhersko bléma Masaryk Zdeněk Suda spěl stať teorie národ dílo T G Masaryk Emanuel Rádla Ota Weinberger zabývat funkcionalis tický teorie demokracie Masaryk jiný autor Erazim Kohák položit otázka vztah T G Masaryk monarchie
+třetina autor sborník tvořit Čech
+překvapovat čeština ovládat cizí odborník výjimečný
+přehlédnout celý životní dílo T G Masaryk moci umět značný počet práce zůstat čeština
+určitý paradox Patočkův dílo vycházet péče vídeňský ústav velkolepý výbor čin ujmout úkol vydat celý Masarykův dílo západní jazyk němčina
+Patočka leccos Masaryk navazovat odvolávat polemizovat
+vydavatel Josef Novák působit fordský univerzita Kalifornie podařit snadný úkol přivést spolupráce odborník země světadíl
+rakouský profesor filozofie Rudolf Halle pomoci rozšířit znalost proble matika Masarykův dílo západní veřejnost
+text psaný němčina
+znamenat naprostý většina odbor ník filozofie sociologie polito logie západní východní země moci výsledek nový bá dání Masaryk seznámit
+Doufej me kniha dostat velký počet výtisk česko slovensko
+mít velký zájem masarykový vlast
+j okraj článek vymknutý kloub kmen číslo kmen básník Karel Sýs ovládat vzácný umění míchnout článek vrstva čtenář protichůdný stať vymknutý kloub kmen číslo jistý pobouřit prudérní moralista přímluva chodský kundička stoupenec charta polemika František Kautman Karel Pecka zapálený ctitel přestavba sovět ský kultura výpad Jevtušenko ctitel aktuální próza scénář Radka John
+pestrý kaleidoskop glosa postřeh polemika nápad výpad mít vlak sympatický potřeba ný základní rys otevřenost
+zvykat minulý etapa iluze věc mluvit psát přestávat existovat jít kniha nerecen hojit autor uvádět problém příjemný
+taktika zdar provozovat kovaný marxista materialista dialektikový
+Sýs sloužit čest odvaha říkat věc vyvolat nadšení podráždění odpor
+dokázat napino povědět chartista rekrutovat řada bojovný dogmatik padesátý léta pošta kávaný kultura samizdatový nadřový zený pozice evropský nadhled motivovat závist zloba
+Sýsův argument možný nutný přít mout glos mít ráz provokující chtít vytrhnout lhostejnost vést zamyšlení polemika
+chtít pár slovo vstoupit Sýs právo vyčítat Karel Peck dovést odpustit úspěch Formanův Amadea upadat obdobný superkritičnost próza scénář Radka John
+mít Karel Sýs vzor konkrétnost jmenování pravý jméno
+klidný moci kraj zva polemizovat chartista autor samizdatový stať moci napsat den velký básník mít paměť nád herný zářivý místo místo uslzený sen timentální stesk pravý zlato užívat falešný
+Karel
+Sýs jmenovat rušovat pohodlný zvyk pálit prst
+najít následovník
+jít kritizovatelnost odkrýt Sýs křídlo kritizovat dřívější období způsob stižený Seifert Skácel Holub aj
+druhý křid lo opačný tvořit desátý léta zaujmout klíčový pozice vysoký funkce šéfredaktorský jiný místo
+Samozřej možný napsat povést tvrzení nacházet cesta tisk najít moci autor utrhačný řádka čekat odveta různý druh doufat nový demokratický ovzduší šeho socialismus povést kritizovatelný
+Sýs líbit nedůvěra oficiál ním umění veřejnost projevovat vychovávat nede věřa
+rozdávat český titul státní jiný cena
+národní umělec národní národ známý uznávaný
+dostávat výroční cena soupis funkce kvalita vydaný kniha
+otázka vyvolávat Sýsův opravý něný polemika snobismus kořící zahraniční
+nahrávat povážlivý změkčování norma
+Štépsn Vlašnn květen mít Cambridgi koncert Karel Kryl
+udělat profesionální hrávka koncert Karel Kryl zajímavý současný básník český scéna vynikající inter pret píseň poezie roz hodnout nahrávka pubnout kovat
+jedinečný záznam
+kazeta nahrávka koncert květen cena $ objednávat nahrávka $ plus manipulační platka
+jméno ulice byt město
+odešlet objednávka být vystavený C S D C adresa P O box Ma dopis zneužitý Hus
+rozhodnutí možný reagovat velký nehoráznost tisk muset ohradit demagogický psaní používaný podnik Kře sadlo kritika Marginalia Jehllčkův Hus otištěný Zá číslo srpen ¡iné věta představa husa dobrý směšný tlouštík bleskovice podloci ná zlomyslný
+pan Křesadlo hubený tyčka věc mít uvědomitnout lidé Čechy šin
+podobný postava vytvořit velký umělec maiíř Brožík malovat zakáz poskok mezinárodní protlkatollcký kruh
+vytvořený idealistický stav asketa moci zpodobňo vata Mojžíš Pavel Tarsa jiný svatý kopírovaný mělec jiný použitý brain patřičný text škola níchy knížka
+napadnout pan Křesadlo myšlenka národ moci jmout většina takzvaný levicový socialismus udělat většina katolický počátek devatenáctý stůl tíněně celý osmnáctý století demagog konec začát kilow století odkatolizovat
+podařit vytvořit velký procento Jidáš stře brňák politický moc sláva dočasný prodat víra
+laik říkat Hus zemřít pravda Kristův blahoslavený svatý
+položit život pravda rebelující kněz obviněný přijmout šířit myšlenka John Wicleff chtít utvrzovat pravda
+moci ujistit český katolík historický Hus imponovat mýlit
+nedávní samozvaný český husitá převzít upálený katolický kněz Jan Husinec jmený čest tele
+moci znásilnout vata vraždit vlastní národní bratr
+století patnáctý dvacátý
+Jan Hus obraci hrob jméno zneužitý
+katolík demagý gický živel
+František Hašek Kanada Čech pite vkusný článek
+stydět číst krajanský no vina vkusný nekrolog podnik Šte fana B Roman psát Češí
+myslit Moravan uctívat podnik Roman činnost Slovák Kanada
+slyšet podnik Roman dobrý šlechetný bohabojný muž
+Čech bůh vlastenec Slovák podnik Roman
+pisatel Slovák závidět
+dojatý číst darovat dolar chrám Unionville Kanada dojatý vidět obraz chrám
+krásný památka
+uctívat památka Štefan Roman Moravák rád Slovák vůdce
+zdát bo hužet morálně síla Čech slabý moci očekávat psát noviny kovat vkusný článek
+F Bača USA
+komunista tráva růst číslo ročník číst pan Stanislav Reiniš smrt barva chuť zápach
+souhlasit psát naprostý pravda úplný katastrofa soudruh ko munista stačit léta vláda nuta dopadnout
+pěkný český přísloví slýchat pracoviště vstoupit ko munista léta tráva růst
+J Novák Rakousko oblíbený článek Skvorecký rád číst článek pan Švorecký líbit Vinohrady ský divadlo takzvaný narovnání vztý republika podepsaný loajál nost Husákův vláda
+P Šiblo Rakousko dík západ zdraví kraj děkovat pomoc
+pán bůh plať přinášet
+těžký obětavý práce celý národ
+dojít pořádek závada
+moci zaslat starý číslo západ
+B P Československo pan Schieblovl děkovat dopis západ společnost tnout živý
+psát
+domnit obhajoba upravenectví existovat argument morálni argument
+důkaz podat
+rozmetat tvrzení předek lze zadnice posvícení
+vypsat vehemence vnitrác kao pravda vědět požidovštělý Tatar tušit řádný občan ČSR věta šin národ státní
+vědět jíst den muset místo zdravit zdrávstvovat
+vědět mnohý jiný
+vědět postoj vést
+vytvořit nový koncepce život lidský
+právo jmenovat šibl ismus Jaroslav Švestka Kanada depresivní odezva závěr článek Josef Škvorecký uveřejněný západ číslo zapůsobit
+Škvo recký psát český uměný země
+bát existovat paskřivý organizace nazvaný nistický strana Československo
+vypadat nový úpadek přát
+chtít souvislost ocitý myšlenka příspěvek pražský disidentský novinář Jiří Dienst biera autor psát americký časopis
+Dienstbier psát obyvatel země vládnout komunistický strana účelný stanovisko komunismus moci reformo ván
+názor prosaz zdroj rezignace brežněvovský sovětský svaz Gierkův Polsko sku porážka pražský jaro
+jedý smysluplný perspektiva poska tuj přesvědčený reformovaný muset
+paradox mít Diensbier pravda domnit vyplývat závěr druh článek dospívat Josef Škvorecký vláda ko munismus východní Evropa napomáhat
+zdát skutečnost složitý vidět časopis západ
+Čech Slovák západ mít zbavit názor převážný většina lidé mít mít záj změnit postoj československý vláda lid prásknout bota odvážný pokřivený { československo zůstat viz dopis Gustav Nesta číslo časopis západ
+představa Československo žít sběř většina charakterní kvalitní Čech Slovák utéci západ absurdní
+Václav Písecký velký Británie
+odpověď dopis V Pisecký úpadek český umění přát dělat dělat celý život
+zakončení článek ironický výraz frustrace radost komunistický strana dělat český kultura
+jít pragmatický úvaha přítel Dienstbier pomáhat oko pační režim říkat pravda komunismus šířit iluze
+muset rozhodnout
+komunismus nerefor movatelný myslit zkušenos tech léta jasný
+jistý doba věc uvolnit reformovat jojo zřítit
+loď houpý zpívat starý šlágr
+vědět starý teoretik demokracie kritik systém přátelský hrabě Tocqueville první půle století napsat bsolutistický systém zůstat vát silný absolutistický
+začít reformovat konec
+moci reforma vyhnout explodovat
+značný přesný popis vývoj komunismus komunismus znešvařit svět
+přítel Písecký jiný článek citovat komunismus myslit dnešní mladý generace česko slovensko komunistický strana koslovenska strana zkorumpov nýcha úředník léta moc pošlapat zneužít vlastní ideál strana klam voda stoudný lež hra lepší světý spravedlivý rozdělení statek role ochránkyně zájem pracující lid národ dohrát
+uvěřit dobrý úmysl snaha změnit
+udržet udržitelný moc vládnout
+konec uspíšit
+citát prohlášení skupina český dítě stát požehnaný organizace mládež vydat estébáctvo vodní dít dětivní ský kočárek oslavovat říjen t rok sedmdesátý výročí založení republika
+komunismus totalitní systém zreformovat dát
+reformovatelný demokracie komunismus zreformovatelný feudalismus veslo Stalin Kadár
+komunistický stát pustit existence rovnoprávnost nýcha politický strana reforma konec komunismus
+totalitní systém odvozovat jméno koncepce totální moc moc strana moci dělit vyjádřit Benito Musso lina jméno totalitní sys tém pocházet
+léta generál Franco připustit exis tence jiný rovnoprávný strana fašismus Španělsko odzvonit
+jít dopis pan Gustav Nesta dopis čtenář otiš tění znamenat redakce ztotožňovat
+čtenářský dopis první řada demokratický výzva diskuse
+Josk Škvorecký odrůda upravence dík článek pán Pulda Jareš rubrika věda západ
+odbornice poievit dopisovaný
+dopis J Schiebl západ pan Schiebi gramotný
+naučit psát číst
+podivuhodný úspěch dokázat napsat
+upravenec upravence plout loď plný lidský slušnost
+Jiří Kučera Kanada mít hrdina pan K Mikulash chtít Čechy omluvit hloupý replika pan Ivan Sviták pan Sviták chtít připomenout Slovák vyrovnat existence hrdina Jan Jesenius Šte fánik Gabčik význam přesáhnout federatívni repub lik
+Jan Čurda Německo jazykový fajnšmekr čeština deformovat Ota Ulč snesitelný
+mít potíž hadovat vliv ruština čínština
+čínština reportáž jižní Čína přijatelný
+čínský žena mluvit Ota Ulč potvoření rodný jazyk vidět zajímavý
+vědět čínština primítivně vyvinutý důvod ničený čeština
+muset poslouchat český vysílání BBC spousta chyba zničit
+ostatní Ka Ulča deformový jazyk nadšený zbývat kapitulovat být menšina
+Jiří Stárek Rakousko Čtenim západ lze získat litr áá časopis pobavit poučit ob čas vyprovokovat čo svedčit dobrej úroveň
+jednota názorov tlačit poznat Československo
+aj pamäta väčšina dát čítať
+upravenec zrušenec tvrdium status quo trvat
+ruka srdce koľkí vynadat redakcie pravda rudý právo atď fráza polopravda pravda
+Kanade mít záplava brýcha menej dobrý publikácie čitaní nie núdzo smo objednat západ
+Vypľňa určitý medzera politika vlast očít našinec kultúr život krajanov udržiava kontakt vývojom jazykov
+Rušiť pred platný kvalitnej publikácie nezaujimavosť jedný priezkum potrestat redakce ob jektívna vytlačit protichodný nepo pulárnout názor jednotlivcov pre najmenovat povrchný rozhodnutie
+myslit západ zrušit
+ako odchovanec pravda moci brát vážen zistit čítaní západ mít získať
+Edita Mikulash Kanada obdiv Vladlmiř
+děkovat výborný dvoumôsíč ník přát jít rok
+mít otázka myslit mít poslat panu_e tenezní borský flaška požádat bojovat polemika uražený ješitnost pero { jasný pan Škvorecký jed nuduchý záležitost mít život jednoduchý
+doba trvaný západ napsat pěkný věc scházet
+škoda mlčet
+prosit vyřídit paní Vladi míra Burke neskonalý obdiv prosit litr ás psát psát psát
+hezčí článek napsa český korektor dovolená
+poslat trvý dovolená článek číst pobavit
+Jiří Jehlička Kanada
+výuka čeština dítě časopis líbit uva žojit doživotní předplatný mít
+osoba zápasící dítě snaha zabránit dorozumívat lem Neandertáíec film F článek Jiří Krupička přečíst značný potěšení
+snažit formulovat dů voda chtít dítě umět mluvit číst psát záležitost prosto samozřejmý snažit dosáhnout vzdor shovívavý úsmě vům udivený kroucení hlava otevřený posměšek argumen tům typ strana krajan
+vyjádřit jít budoucnost český jazyk litera tura Československo kvalita vzájemný vztah porozuměný rodič dítě vypěstovaný vztah potomek země předek
+poznámka styl dítě mít odpovídat materiální stránka přečtení dobrý kniha poslech pěkný hudba
+muset přiznat jednoduchý účinný zřejmý argument nena padnout
+přečtený článek rozhodnout přejit praxe teorie problém čeština cizina hloubat
+usoudit důvod druhý
+Vytvo řena dobrý kamarádský vztah rodina ideál rod če touha pu bertální dítě
+podařit rodina mluvit stejný jazyk
+
+záležet čeština český kultura moci dítě vychovat lidé český slovenský původ stydět lepší případ hrdý
+Roz mít mysl upravený vztah země mládí prohlášený Rafael Kubelika vlast nosit srdaný
+cíl mít starý vlast nosit srdce dítě jediný odměna pocit uspokojení dítě dát moci dát jiný
+Československo diný země svět exilový kladatelství vydávat ší literatura nakladatelství domý cí mít blahý tušený kniha vydávat nový vlna emigrant dítě
+jediný bod pan Krupičko souhlasit
+Budouc český literatura Česko slovensko záviset dítě mluvit mluvení čtený cesta dlouhý
+klesat duch dělat doporučovat Matuška deska Suprafon nadšení pít čes kýt dítko americký škola hoďi pan učitel flint žito vzdát mít úspěch
+vzdát mít úspěch stoprocentní malý podařit pěstovat dítě český slovenský dobrý vztah
+exilový knížka dobrý přeložený jiný jazyk možný dítě sáhnout němčina angličtina francouzský couzština mít dobrý pocit napsat Čechy
+bý doucnost literatura cizina vypadat zásluha spisovatel Milan Kundera Josef Škvorecký Jan Procházka Pavel Kohout Vla dimír Škutina
+český písnička zahynout postarat Waldemar Matuška
+filmový uměný bujet Švýcarsko Kanada
+myslit moci mít cela dobrý pocit Čech podařit vzdor zátý kono pravděpodobnost dosáhnout pravděpodobný český kultura cizina hynout rozkvést
+Jiřina Kokešová USA
+rozporný glasnosť brát
+Gorbačovův spas teistev
+souvislost dávný statený ným čin estonský parlament vyjít Moskva připrat vovat vše tichost zásadní utužený sovětský centralismus
+právo jed notlivý země odtržený proklamovat Lenin začátek myšlený ozdoba sovětský fasáda mít dekoratívni funkce zrušený
+utažený šroub státní centralismus tlout veliký plán decentralizace ekonomika prohlubování demokra
+zdát mít nej pádný důkaz perestrojka glasnosť zjednaný služba sovětský imperialismus uklidit domácí Augiášův chláv moci vystupovat
+platit rozdíl politický svo bodý politický diktatura cház paný doba Herodotův rozdíl západ Orient
+Karel Hykel Kanada volnost J Schiebl
+ohánět fikce Kanada čekat pože dovštěný Tatar ujmout moc
+západ číslo
+statečný hrdý Če choslovák chtít zachovat občan ství
+vědět mít společný úprava vztah
+čechoslovák zůstat vámat zachovat čest
+muset veselý vidět va šem zdařilý útěk západ
+prchat
+úcta západ dokázat ovládnout tisknout
+Augustin Řehák Kanada
+uznání hodnota rodinný škola rád poděkovat podnik L Procház kové uznaný hodnota rodinný škola článek poznámka eminace pace Čechy západ číslo
+vděčný učitelka soukromý odborný škola dr Jana Zátková Č Budějovice široký praktický vzdělaný předválečný léta škola dostat
+důležitý Austrálie začát cích vařit ohled výžý vu umět ušitý přešít spravit
+Vlasta Baboučková Austrálie československý perlička
+poslední doba mít sranda postaraný začít hučet přední kolo
+vyhodit první kuže líkový ložisko omej koukat prdele
+volat Lada servis zlobit moci mít
+volat záruční Lada sel vis zlobit moci udělat mít zkusit dejna Mototechna
+stejný písnička mít vést mít velký
+potřebovat menout zlobit klídka mít
+volat kumerád heleď říkat mít znát
+volat sehnat posila
+stát zázrak slečna Mototechna volat dostat přijet
+říkat Ježíšmarjá stihnout
+další zázrak schovat kladna zítřek
+druhý den jet manželka cesta říkat kup děvence čokoládka mluvit schovat sloužit zastavovat veliký obsluha manželka vracet stán fronta košíček mít kousek čokoláda obrov ský bonboniéra fůra peníze
+vymejšlit
+realita zkurvený plánování komplet ního postátnění bezkonkurenčnost
+mít nedostatkový ložisko vo miň prach kap možnost pomoci hroutit dovo lena
+
+život zažít tošní prázdniny Sudeťák
+vrátit svejma dětma
+obsadit Sudeta
+smát přihlásit nosat dirnd ly bílý f ausgerechnet samý
+vyst jít hořčice ocet knedlík prášek chléb ovoce zelenina mluvit
+
+druhý okupace
+kolikáta
+Krkonoše uslyšet
+vybuchovat litr á barevný televizor klid vypnutý
+mít vyjet další zázrak nový Ško dovka Kčs vo lant
+mít maras mus mozek vypínat vidět dovážet auťák Polsko Rumunsko země doba tatínek Tatro vek Zetek Jaw Škodovek Aerovek Waltrovek tamtuda jíždět obyvatel země skákat strom utíkat podívat kočár kůň jet
+země vyrábět licence auto vysoký parametr J B československo vážený redakce západ
+děkovat zveřejnění diskus ního příspěvek Hus ostatní 6tý číslo západ
+mít připomínka
+třetí sloupec strana přehled nutí sazeč náslý dující věta vypadnout část věta ztratit smysl
+chtít padat hnidopich puntičkář známý ptát správný zněný pasáž myslit čtenář diskuse zát mít mít zveřejnit oprava
+věta mít znít arcibiskup Konrád Vechta král Václav vyzý váně Hus zakročit
+výzva rát govat
+vypuštěný část věta uvozov kac
+James V
+Jakoubek

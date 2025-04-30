@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc1b8ae4c443ceeebb45c721cc08a012b6780f151096d786d68de7185e0efd98
-size 278
+ A tak se na Šumavě tentokrát diskutovalo velmi svobodněji o skutečném bezpečí či nebezpečí atomových elektráren, o ozónové vrstvé a právě také o kyselých deštích, které se na účastníky možná snášely stejně mocně, jako na pražské demonstranty.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6db6ef69e82ea0caa73d56a7398c70056400aa7000bdd7ff89c75e2b019df33e
-size 57
+ Tyto námitky se týkají všeobecně bezpečí státu.

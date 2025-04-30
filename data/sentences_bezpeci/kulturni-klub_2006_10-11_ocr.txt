@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:feaf4ece4b441e8b27e127654ec81f8680c8c0f20faf47e81dd7ef6ac7b8dbe6
-size 40
+úkryt vyhledat budit zdání bezpečí

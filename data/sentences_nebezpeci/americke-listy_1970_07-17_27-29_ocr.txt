@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:696f5e966351fd0e92a8c46da5f80bfeb6a8ae8d88b3a1321ea30d6bebd77a62
-size 70
+Československo spisovatel Vaculík nebezpečí napsat manifest slovo

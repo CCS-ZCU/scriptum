@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3921d0029965f611fabecd48c27c2c144859e5bae75bb109d3eebe06db75f92d
-size 54
+nebezpečí hrozit osádce pasažér letadlo Concorde

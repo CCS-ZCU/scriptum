@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b719cab8025eea41da937abdc156b0c5492627d3929c53822a8131dd0c3ea02b
-size 125
+ “My zde v US”, řekl president Nixon, “považujeme evropskou bezpečnost za stejně důležitou jako naši vlastní .

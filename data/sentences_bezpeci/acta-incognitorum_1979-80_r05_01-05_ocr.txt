@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4171de4c81c42eb751a83553caa9b7337fc96a9ac5eecb77ad151cef197618d
-size 93
+lze porozumět věta vyslovený zkušený absolutní bezpečí
+smýšlející zeptat vědět

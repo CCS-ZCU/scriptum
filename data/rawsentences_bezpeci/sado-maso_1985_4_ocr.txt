@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a882cff066ae6d785088a175ed1ec593b78e6c92d127d34474270b1e0d099590
-size 139
+Je to uzavřený okruh jež se hroutí až když jeho uvědomění naráží na překážky vnější,na hrozby jeho vlastního bezpečí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d60a7f30cc47042866e0363ae792440f1f5a8dd4b651715a71b9b5fa65f4ad0
-size 78
+ Ať se zaměstnává neurčitými možnostmi, jak zajistit svou bezpečnost.

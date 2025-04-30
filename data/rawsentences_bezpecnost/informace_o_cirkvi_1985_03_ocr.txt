@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb141eb894cd28b93a8b30390421cb0bea52a39ff0d27b4f7bc007dac877f021
-size 115
+ Obžalovaný plukov- ník bezpečnosti až do konce procesu klidně mluvil o vvsoké morální úrovni poli- cie.

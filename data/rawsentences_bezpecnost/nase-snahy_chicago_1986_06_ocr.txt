@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce4da014ec7c72ac7ed8b68b86a394ba2d38fc7f463fec9f9c50cfa7a0d0740c
-size 1241
+ novembra sa začala vo Viedni konferencia o spolupráci a bezpečnosti v Európe, ktorá znovu reviduje ako boli za posledné dva roky dodržiavané ustanovenia Helsinskej deklarácie z roku 1975.
+ Jeden panel expertov rokoval o otázkach bezpečnosti v Stockholme, druhý mal porady o ľudských právach v Ottawě a tretí sa radil vlani na jeseň v Budapešti o spolupráci v oblasti kultúrnej a vedeckej a v Berne bola porada v apríli a v máji tohto roku o tom, ako sa dodržujú ustanovenia Helsinskej deklarácie o umož- není osobných kontaktov medzi občanmi jednotli- vých krajín.
+ Radili sa vraj aj o spolupráci pri zaisťovaní a zvyšovaní bezpečnosti jaderných elektrární.
+ Zhromaždenie európskych podmanených národov (ACEN) pripravilo rezolúciu, v ktorej žiada, aby sa americký kongres uzniesol na tom, aby kauza európskych podmanených národov sa stala integrálnou a trvalou záležitosťou na pro- grame valného zhromaždenia Spojených národov; aby osud podmanených európskych národov bol predmetom rokovania v dekolonizačnom výbore Spojených národov a aby otázka slobody a nezávi- slosti týchto národov bola aj na programe viedenskej konferencie o bezpečnosti a spolupráci v Európe.

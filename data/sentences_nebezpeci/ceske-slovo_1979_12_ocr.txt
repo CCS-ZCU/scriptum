@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0cdd4f0c9b29b7f987d4cc0adf6e9285a58c7976119ebbfba7ac5395bb84a66
-size 58
+ktorí nebezpečí smrt hlad slobodný snažit zachránit

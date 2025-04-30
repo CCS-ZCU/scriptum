@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e76a64917e3baa7fa4eaff5e9386653da1d8f909b1775928b96f0ad949dab83b
-size 116
+žádat prostý obsažný slovo politický pluralismus vylučující vedoucí role svémocna tvářící organizace

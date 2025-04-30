@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1d4eb74e6618d96c74381f5d4cef52a37630cf7e4d9031b6cf563e2e8674964
-size 212
+ Pochopitelně nikdy se nedovíme všechno z komunistického podsvětí, kam nebylo lze v padesátých a na začátku šedesátých let pohledět a odkud nebylo nic slyšet: z vyšetřoven Státní bezpečnosti.

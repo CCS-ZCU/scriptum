@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80d5e104accfd05d069da79cc9ec6fdc63891811b6e21e93b8a793dfb9e3b9e9
-size 35
+držet nůž ruka cítit bezpečí

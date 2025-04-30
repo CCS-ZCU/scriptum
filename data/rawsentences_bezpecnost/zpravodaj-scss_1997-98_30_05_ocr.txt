@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8891975fb13afdf2dbd68f4e2604ddd18322c3c5696b8ce7c49a51d27c44a1d
-size 195
+, zajišťuje bezpečnost zásilek mnohdy nad rámec standardních povinností, a proto již dnes není problémem spolehlivě prokázat, zda zapsaná zásilka došla na území ČR či nikoliv.

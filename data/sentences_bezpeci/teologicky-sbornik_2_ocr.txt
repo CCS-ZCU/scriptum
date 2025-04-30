@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6bd288b0ff12ba095d915fa7f2f3d818b1eaa575381ec7c55793dbd73b2e3d9e
-size 47
+odchod skupina znamenat stoupit spadnout moře

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eef6fd1dbf786561185482c94305565852d753c28f77c2fe518e406d439463ed
-size 78
+Tužba připravit pohodlí přinášet nebezpečí dostávat vztah závislost

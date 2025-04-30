@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23506df1417001b4a0447875dfc0fec6ea33380570b976e85fb899ab55744e24
-size 79
+manžel Rys zasluhovat zvláštní uzání nebezpečí dítě dostat povolený

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91b70df6f967c55289cf95f24c8c58851d05517518a769f3b0f2df13430f8d8a
-size 21
+diplomat nebezpečí

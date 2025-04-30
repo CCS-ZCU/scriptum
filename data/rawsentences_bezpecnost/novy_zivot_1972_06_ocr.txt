@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47324141f7f1a0a97c3b7e73e44411decc74d9a654b2ed9c3d7f6ee7774d69bc
-size 73
+ pórovaly myšlenku svolání celoevropské bezpečnosti a spolupráce.

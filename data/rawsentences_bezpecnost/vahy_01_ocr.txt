@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1d14a3d1e5836bb26c10130763b687ff5a5515a8001c3c029c9dfa4564802d0
-size 71
+ Bezpečnost měla pohotovost /ohled- ně našeho srazu/ od pátku 14.

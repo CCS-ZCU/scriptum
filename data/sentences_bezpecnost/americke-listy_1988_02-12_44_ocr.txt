@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eefbfef01bf4a348c6cfd8f9447fffecbb6c88288d601b683abb1733377fc705
-size 96
+říci nadpis odzbrojovací jednání muset znít odzbrojení znamenat velký malý bezpečnost

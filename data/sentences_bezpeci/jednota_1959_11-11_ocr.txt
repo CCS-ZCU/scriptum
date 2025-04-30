@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb4a1f70bd0d0817627bec832526566644de3451cb7258dc28c603f3cbbca7d6
-size 38
+vzdát úrad funkcie bežat bezpečí

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4ede13045e2e19fcc19b58b668a9fdf01bf56ae247cb108d2d52650fe3206f1
-size 96
+ Tam už aj v bezpečí doča- káš.
+ Jako had jsem se pomaličku plazil dopředu, do bezpečí.

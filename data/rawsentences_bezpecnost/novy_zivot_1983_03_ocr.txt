@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2de06792926ae49e7e41e89dba7a2fa51cf7a5708dcac49bf2042d9a2b3ffad
-size 211
+ Byl přijat dokument, kterým se odsuzují podvratné a teroristické akce, ohrožující vnitřní bezpečnost západoevropských států a mezinárodní mír a vycházející ze zemí ovládaných komunisty.

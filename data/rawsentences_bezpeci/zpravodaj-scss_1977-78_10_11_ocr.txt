@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85b9a44c13afdd55595ad5b24e21d4eeba1603544aa87f89fd90768475718ec3
-size 226
+ Zároveň dát svým vlastním poctivým a demokraticky smýšlejícím občanům pocit, že vláda není schopna zajistit jejich bezpečí a právní status země, který právě takové bezpečí před násilím garantuje.

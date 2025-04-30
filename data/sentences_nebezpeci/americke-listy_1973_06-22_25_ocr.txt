@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b518112d604d93e2dbbaf20d1d41ebafb5b76861239050494feb95bd8e6c7939
-size 78
+pan Hájek scházet odvaha vrhat stálý nebezpečí lidé říci osel kritik

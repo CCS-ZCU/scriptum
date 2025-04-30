@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c036df4c57397993d20b88a59a19236a237aa851cc036f2d16a303952681588e
-size 71
+svědomí rozvažovat povinnost pohodnout nebezpečí vrátit pomáhat

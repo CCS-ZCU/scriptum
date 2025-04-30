@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3923cfefc81ce5fea5624e907cfde23fd4aa74a1dfadd64500989d66140be129
-size 141
+ 1948 Josten napsal: "Minulá válka nás naučila, že kolektivní bezpečnost je nedělitelná: bezpečnost pro každého nebo pro nikoho.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c2c8ca5a345b248fb98100bf6b2355d8470d4edf96d6af418e917f1b2442b07
-size 57
+jiný věc prvořadý důležitost bezpečnost mést ves

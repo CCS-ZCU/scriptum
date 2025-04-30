@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fdfc6339f734b62d330ae65478f524584205418ae2270034daf0313236ebe0a9
-size 75
+bezpečí peníze bankovní služba druh vkladní knížka šekový účet

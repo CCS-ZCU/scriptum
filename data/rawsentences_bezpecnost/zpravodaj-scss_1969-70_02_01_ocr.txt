@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f08b35e8d7482bcf6ff0770598ad46f9677efd59ea35033a26f9aeffe17ea169
-size 141
+ Rozum? Rozvaha? Bezpečnost? Jistota? Klid? Blahobyt? Zájmy národa? Palachův čin není negací těchto hodnot, jde nad ně a přes ně.

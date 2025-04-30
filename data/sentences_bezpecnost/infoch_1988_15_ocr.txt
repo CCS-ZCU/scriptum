@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aaa7e586cef28ec35312ef67917b9fde5641ce7ca087b912d24f5ac060f69952
-size 30
+sovětský výbor bezpečnost

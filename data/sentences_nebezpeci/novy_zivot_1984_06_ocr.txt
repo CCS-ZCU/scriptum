@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2bb43c2c4f419bd4f963949469a2025aa43e040a117ba0e92ed55c0dcf926f0c
-size 48
+pravda hrozit nebezpečí pochopit smět mlčet

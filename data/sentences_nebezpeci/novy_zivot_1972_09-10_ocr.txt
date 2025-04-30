@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac9735a8c4aa1ee913ab600d80b335a115beab78e80cd8cc48ccb5e5258e4c64
-size 55
+Ehler dopis dotaz odpovadý redakce dojít nebezpečí

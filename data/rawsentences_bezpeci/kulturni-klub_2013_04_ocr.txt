@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46ec220dcecccd504336011ed369d3a6fe6862b5e5f2a3849ab9ec61a50fe83d
-size 188
+ Ústav v tomto pojetí znamenal funkční a stabilní organizaci, která měla racionální uspořádání a zároveň poskytovala prostor a bezpečí pro individuální rozvoj klientů.

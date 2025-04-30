@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe0e96c2d9edbfdeec38441de60979d8f63d0609a811683591b2edecafc4c179
-size 188
+ Prezidentův poradce pro otázky národní bezpečnosti McFarlane.
+ Bělehradská bezpečnost vyřešila aféru šalomounsky: v létě dokument zkonfiskovala a oba novináře pokutovala.

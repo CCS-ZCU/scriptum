@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90dcbdaecefeb124a2a2f6d0253db8119e1ed54afe610ae72bd4a0c375d436f3
-size 380
+ Na závěr MFF byl uveden český film průměrného armádního režiséra Ivo Tomana sneznámými herci "Cesty mužů" o příslušníku Bezpečnosti, který zneškodni ilegál.
+ Bezpečnost další z řady oblíbených razií, při které bylo prý zadrženo 152 zločinců /!/, z toho 8J hledaných osob, příživníků 58 a odhaleno 22o trestných činů a 128 přečinů.

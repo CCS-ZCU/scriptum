@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd61c4a6c6ef07854945fb84d898cc0893c72ea8ff62f49fdbde12c1f2fcd38b
-size 192
+ Tříčlenný výbor bude dnem i nocí hlídali hrob, aby se žádný podvod nemohl státí a k vůli větší bezpečnosti bude na pozemku, na němž Seymour bude pohřben, naseto ječmene.

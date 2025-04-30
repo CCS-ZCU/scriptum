@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4596338a0635583df63b8471d6438535d6ef0bddf8c15669ba43833ec4103ec
-size 78
+budovat existence skutečný nebezpečí velký počet počítat návrat dům

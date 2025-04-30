@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:463704120ba74058dd9239d949086cb828f6adc913292bd53802a3acee628aed
-size 30
+zbraň zůstat bezpečí loď

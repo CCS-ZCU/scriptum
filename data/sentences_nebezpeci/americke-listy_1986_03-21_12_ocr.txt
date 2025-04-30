@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:528920c5576dcfce9668c440127fae5061e3636e99864b27a007609bd201bca5
-size 90
+upozornit rostoucí vliv sovětský svaz Angola vrůstající nebezpečí sousední země

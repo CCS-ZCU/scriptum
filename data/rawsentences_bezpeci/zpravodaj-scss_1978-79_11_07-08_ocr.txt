@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:56777f9981a5de5616b3c563882dc2b69ebaec56e80de23d91364c388b40c795
-size 277
+ Chodil jsem nočními moskevskými Ulicemi a měl jsem pocit úžasného bezpečí.
+ Každá další obava, nebo nejistota či opatrnost je zbytečná, protože celý dokumentační materiál je v bezpečí a nebude za žádných okolností ponechán v nepovolaných rukách.

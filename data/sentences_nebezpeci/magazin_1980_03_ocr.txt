@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98e908c272d428e032cc08664b2fdec35866c37beb01d06ea756c3b52dabbd01
-size 74
+většina anekdota vyprávěný Čechy nést nebezpečí smích poslední

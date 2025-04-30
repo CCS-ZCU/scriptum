@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d75e460d314ab92359f4c76216e11dfe6bef7fd76b79910e2649df1beb6b30cf
-size 103
+ Využití zkušeností z povodní pomůže v budoucnu zvýšit bezpečnosti v ohrožených oblastech.

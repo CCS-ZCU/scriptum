@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:556051bf535b72724e72d7e77bffc01755d3098ca265740555e23b2edac7056e
-size 110
+dojít pracující počátek cítit bezpečí
+září londýnský bezpečí žádat domácí odboj povstání

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1da8b5a7573c4410bf3d62f27fdfc56ca67dfac374f7e7ee8fe6e3bef56ac015
-size 204
+: "Co je třeba konstatovat? Že u nás není orgány Bezpečnosti, prokuratury nebo soudu nikdo trestně stíhán za názor nebo přesvědčení, ani za názory dnešní, ani za názory z let 1968-1969.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efedd0afb5199ddde862297d174f80172d7dba79b75452b40883e81bdd8aed4e
-size 55
+hrozit nebezpečí stádo bible dovědět pravda znát

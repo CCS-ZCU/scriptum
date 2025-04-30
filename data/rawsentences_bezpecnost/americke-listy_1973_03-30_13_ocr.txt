@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1da3011a069b24470646ef61c676806758a24413b7217d445854598300577fd7
-size 216
+ PROBLEM PANAMSKÉHO PRŮPLAVU Bezpečnostní rada Spojených národů se sešla k šestidenní- mu zasedání, údajně, aby diskutovala o udržení a posílení míru a vzájemné bezpečnosti v latinské Americe.

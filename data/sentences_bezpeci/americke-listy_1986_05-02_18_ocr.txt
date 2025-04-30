@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b83ef5eb2b2082f02be91df2c640f4a9990814e0bd4bb3b82097c23e1981dadb
-size 54
+dokázat naprostý nezájem bezpečí vlastní občan

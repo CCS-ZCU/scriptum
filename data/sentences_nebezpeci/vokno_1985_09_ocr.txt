@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aeec31021d24d1afe4520ea72d52e4769c9e2f41d218a79c18b6d17ef0fe2223
-size 18
+dechy nebezpečí

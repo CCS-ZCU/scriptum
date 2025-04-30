@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a94f7352be8944a23a572670571773c19ca2a8f394d32eeabeb50b14c7be9860
-size 82
+výslech jennerový výbor pokračovat xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

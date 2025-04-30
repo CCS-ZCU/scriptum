@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b828bdb357f7fae07eba56b26205ea6f531b2671199f7736fe33a463ea079652
-size 40
+Lovecrafta rád děsit cítit bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4162f8d392ba6641c97b4dc3c1ea2bb397e5ec04be7f776e8f7c5db32f20a96
-size 85
+ být podkladem k zamýšlené publikaci ‘‘Svědectví o Státní bezpečnosti".

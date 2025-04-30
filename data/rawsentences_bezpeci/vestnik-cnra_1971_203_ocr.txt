@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71eef6a00f038767d7641e5c5ec16a714010052862653677740b66fe1f0b4d29
-size 286
+ A národ, který ať vinou svou či cizí pozbyl svobody, samostatnosti a bezpečí, má v minulosti hledat posilu, povzbuzení a naději.

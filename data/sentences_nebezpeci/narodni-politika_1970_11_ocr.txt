@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e85e95097e336bc5c8b797338b4f5bf4f8b209c3d8c2f70633fab3aa4701cdfc
-size 61
+projevovat pozor číhat nebezpečí
+nebezpečí trvat malý

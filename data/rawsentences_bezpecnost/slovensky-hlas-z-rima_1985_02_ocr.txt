@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92ff57f37224570a902183d0d2d29a2aaac2b28b26e223691d4549d28ba5851f
-size 124
+ « Toto je pošta, toto je dom služieb, toto je dom Miestneho národného výboru, toto je stanica Verejnej bezpečnosti.

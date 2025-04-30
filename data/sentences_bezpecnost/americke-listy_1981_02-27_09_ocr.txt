@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:acfa957c0bffe8341a8816e08c60e767ab22f8c0f1b684ed24e444d2adff758b
-size 75
+zvýšený muset bezpečnost cestující auto ostatní účastník doprava

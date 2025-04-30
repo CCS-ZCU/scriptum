@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38106b052684b3e8d2ed525af2588fa6bf60fd6e69245e74be7124a06c96cc75
-size 43
+zbytek skupit nucený couvnout nebezpečí

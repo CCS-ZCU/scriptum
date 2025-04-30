@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42bfe514a7ec4927a89d3eb04d275ff6edf6aea67db65e34e654d66cc4be1c65
-size 62
+ Hala- mu a důstojníka veřejné bezpečnosti Stanovského.

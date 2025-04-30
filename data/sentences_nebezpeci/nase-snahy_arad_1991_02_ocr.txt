@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be6062789bda5872795d1677f9e7e77696b1ab537e5a26ed16c5f675b94a304a
-size 123
+vyhláška vyvolat chudý kraj poš mavský pravý vystěhovalecký horečka kraj hrozit nebezpečí zůstat liduprázdný

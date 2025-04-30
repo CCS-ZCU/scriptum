@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20bdcd763fbdd9825a2ee38779b2763c56d302d6fd55881684bab0ea22819c4f
-size 202
+ Těch prvních pár minut běžného pořadu „v rámci existující rozumové úrovně posluchače" mělo ukolébat (možná i znudit) posluchače tak, aby se oddávali falešnému pocitu bezpečí.

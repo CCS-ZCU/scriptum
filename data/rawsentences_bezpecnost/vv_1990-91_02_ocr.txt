@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:412a799f9788bce6f435a679e003c54d16e240a9adc997a1b1a362493814030b
-size 364
+ Kontakty mezi školami v zemích patřících donedávna k antagonistickým vojenským a politickým seskupením mají odpovídat měnícímu se pojetí vzájemné bezpečnosti: důvěra založená na co nejlepší informovanosti o životě, práci a záměrech „protivníka“ zajišťuje mír lépe než sebedůkladnější utajení všeho, co se utajit dá.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ab42e7558892ec2e6258959247818817a8883e9d1f300a75934b657250b1188
-size 93
+ Pro větší bezpečnost vykopáme okolo malou stružku, aby voda pohodlně mohla odtékut.

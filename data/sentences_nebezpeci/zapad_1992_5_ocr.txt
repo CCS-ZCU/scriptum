@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35124c0d134b0ddc62e23573311bc337577adee6fc3c5ad2bbd3838410752b95
-size 48
+mít komára blackflies ukousnout kus krk bolet

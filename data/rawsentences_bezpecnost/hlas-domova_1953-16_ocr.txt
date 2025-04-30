@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e97663ba44e7545281b65fa5f5a947220295a7b1e206d282df71ffc3d57033cc
-size 46
+7',/ Veřejná bezpečnost na železhici-VBZ.

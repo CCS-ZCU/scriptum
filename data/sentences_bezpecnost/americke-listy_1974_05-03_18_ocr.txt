@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75164a6962c0d927fae8e31b7653aa4f5129dd65981b1e281e6d07fa65d2134f
-size 30
+Newsweek návrat soupeřství

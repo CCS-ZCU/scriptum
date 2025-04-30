@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cd469a2955456a1f0cee1395ccb2ace40abb7726c651347fd38a152be104d87
-size 79
+volný chráněný nebezpečí odpovědnost žít podmínka moci dopustit zlý

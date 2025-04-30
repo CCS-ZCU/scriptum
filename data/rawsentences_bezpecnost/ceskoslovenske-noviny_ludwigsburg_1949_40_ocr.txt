@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:700559a3de0f6c769be3ee4de29852b7892fb4141d2ec814cfc7eee709b23351
-size 86
+Zvláštním způsobem je též postaráno o bezpečnost členů závodních milicí.

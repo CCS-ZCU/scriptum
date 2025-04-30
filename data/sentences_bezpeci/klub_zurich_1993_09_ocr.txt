@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af2611158abdb9a6d64c6b41a20bbc4e491a201364384232567def38f2bb7218
-size 54
+maminka poznat dcera bezpečí začít pomáhat jiný

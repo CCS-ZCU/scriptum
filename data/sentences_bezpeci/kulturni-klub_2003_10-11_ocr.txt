@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c82d6ef4fa8d27b4afa348999a8dee1f63d82e2348069deb3eec70f20d3bff7
-size 61
+ulice vyjít sokolský stráž udržovat pořádek bezpečí

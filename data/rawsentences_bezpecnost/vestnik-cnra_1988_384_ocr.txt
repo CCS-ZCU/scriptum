@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e9152e5daef219e1826544ed07df8b9f90cb658d7fc96b3118a3fc033f0da0a
-size 107
+ Dvůr v blízkosti vězeňské nemocnice je zaplněn orgány ministerstva vnitra a Státní bezpečnosti.

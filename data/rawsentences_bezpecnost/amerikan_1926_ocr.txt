@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67d64b9df4583b973aae834ed71803e9e755deeb9e08b53dbb66f4ef5df22bb2
-size 946
+ Antonie Červenková, Zajímavé jsou také vzpomínky na založení Podpůrné Jednoty česko-Slovanských Rvtířů a Dam, která povstala odtržením se českých loží od cizonárodní Jednoty, o níž se proslýchalo, že nehospodářstvím velkoúředníků zaviněn byl schodek v pokladní hotovosti úmrtního fondu a tu několik jednotlivců předáků, členů podřízených českých loží, s Janovo tchánem panem čeňkem Bolkem v čele navštívili úřadovnu Nejvyšší Lože Rytířů a Dam Cti (Knights and Ladies of Honor) a dožadovali se patřičného vysvětlení a rázného zakročení vůči pověstem, týkajícím se bezpečnosti pojištěných členů jednoty, ale tam nejen že nebyl dán sluch jejich oprávněným dotazům, naopak pohroženo jim co jednotlivcům i ložím, které je vyslaly, okamžitým suspendováním a konečným vyloučením, opováží-li se ještě jednou s podobnou věcí přtitjíti.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:897babca674643291d48b80838f8ab77afaae2d5cf060bae77d1235faa3a3ebe
-size 298
+ Handicapovaný neprofesionální sportovec Heřman Volf ve spolupráci s MILD production, Nadačním fondem Cesta bezpečí a Národní abilympijskou asociací vybrali z celé České republiky 18 dětí s pohybovým postižením, aby jim v rámci projektu „Cesta za snem“ splnili jejich sny.

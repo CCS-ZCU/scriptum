@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:750bbb33af1f19c60d36d9624c854983ce5d7890714b71c478f64ea26e6c0271
-size 55
+státní bezpečnost najít důvod trestní stíhání

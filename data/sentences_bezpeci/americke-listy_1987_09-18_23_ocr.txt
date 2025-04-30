@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48d097fb2442a965cb79456de85bf9e10498cc9826a7527d08c401729c2df02d
-size 41
+dlouhý doba cítit šťastný bezpečí

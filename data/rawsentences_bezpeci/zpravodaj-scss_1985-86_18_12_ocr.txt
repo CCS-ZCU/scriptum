@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:73dcb90253c868484e9ce002b7dff814f0c423bdbe172d1dda6eb677191d40e3
-size 42
+ Domov je bezpečí.
+ Bezpečí je iluze.

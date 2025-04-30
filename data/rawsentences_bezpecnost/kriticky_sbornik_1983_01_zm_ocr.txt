@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86d4e9f959539fd7efd5944b4c16e4f04dc2892703c3567dc4e5bd3b799622a2
-size 117
+"právo na osobní bezpečnost je za- jisté něco jiného než právo na služební byt či na bezplatné obě- dy.

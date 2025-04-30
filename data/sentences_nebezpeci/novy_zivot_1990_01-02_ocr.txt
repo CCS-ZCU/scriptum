@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0731e531b2ed996db8acb32373f432d9f29513eee8575fdc70775f176ed1b22e
-size 525
+spo lečný nebezpečí odstraněný cesta začínat roz cházet vyvstávat nebezpečí roztříštění dorozt měnit znepřátelování

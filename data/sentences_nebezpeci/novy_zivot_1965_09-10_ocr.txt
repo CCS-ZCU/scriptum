@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:980715c312c077791f028278b0cc95878f4e03c7c83758a0ecd6a15df0f81101
-size 35
+nebezpečí hrozit ctitel zjevení

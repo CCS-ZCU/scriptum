@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ab7f00e96b386b0589a3e240ddd04b8b0a1f2968cf3325882770aea86559c03
-size 78
+strana Patrick White ústa mluvit zanícený mír druhý Sacharov Solženicyn

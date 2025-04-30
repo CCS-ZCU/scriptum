@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b215b4b95a26a9f13259b4e3054a871a4ae7568bebd2342ad16b8fa7ae750f5
-size 43
+horník dostat nebezpečí hrožený důl

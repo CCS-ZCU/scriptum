@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb2cd8d8bae7f1673226b71e7b2917c58a6bbe154032c446449b3928dbbf30c6
-size 39
+nebezpečí opakování stálý sestup

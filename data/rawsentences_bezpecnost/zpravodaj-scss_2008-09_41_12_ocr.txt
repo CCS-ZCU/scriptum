@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d178a9c7d999bf7670ce5ef89a9cf6027152cb879f8944af58aafe6a14af1a09
-size 166
+ rokoch vzniklo v rámci Štátnej bezpečnosti špeciálne komando, vycvičené na likvidáciu nepohodlných československých emigrantov v západných krajinách.

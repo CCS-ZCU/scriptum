@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cb592eaec471edd1c46dbef889566ed2d6d6cb6a388082789c4908461d6c39e
-size 289
+ Roku 1979 došlo k montáži semaforů na důležitém uzlu Piazza Tuscolo, čímž se značně zvýšila bezpečnost průjezdu tímto místem.
+ V ranních dopravních špičkách by měla být bezpečnost zvýšena přítomností několika dispečerů z řad italské dopravní policie.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:60bcca4208fe59d986dd059803698b117836d610068484af4fc66db71b10cf82
-size 77
+, která se odvolává na informace z Prahy, Státní bezpečnost zatkla 16.

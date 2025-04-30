@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8dd378b5aab921d082ee96eb9b2f0c0d1f3f3a1caa0a639f6cd18c413494572
-size 48
+vyžadovat nový theorie vystavovat nebezpečí

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd0ca407e12a76cfc58997835737c48a79c38336c288419bfbce2d88a5bf08ce
-size 281
+ *) 1) Bacílek: “Zdrojem vnitřní síly a bezpečnosti naší republiky, jed* ) Citáty z Bacílkovy řeči: Rudé právo 10.
+ Chceme svobodu myšlení, řeči, politické činnosti a osobního života, jež jsou v souladu se sociálním pořádkem a sociální bezpečností.

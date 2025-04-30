@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3210560700e1db42ac776a128ed60522c4f2aeb8ba28dc55fdd0968a56ce4da1
-size 141
+ Už proto, že tu naprostí nováčci fárali do dolů zcela nedostatečně vybavení a bez základní instruktáže o bezpečnosti práce.

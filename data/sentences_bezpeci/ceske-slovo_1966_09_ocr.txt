@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd4a03cf0328048b0396563db4359889583328acad6f9b1f54589f187553069d
-size 35
+Zenkl dopravený bezpečí Londýn

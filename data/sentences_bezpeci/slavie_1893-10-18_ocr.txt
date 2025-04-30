@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f75b015d938e1921ff24444ace0b4dd53260527f00a8ec2d555099e52342283b
-size 62
+vězeň uvedený bezpečí prvý hasič opustit žároviště

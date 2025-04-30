@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:014440bc76ddfee14ab45f7dd95a5b8a9a6956b821001564bb14515e59edcb90
-size 275
+ Ale ovzduší bylo spíše válečné než mírové a lidový instinkt, třeba jen v podvědomí, pomyslil na národní bezpečnost, na nevyhnutelnost pohotové sí- ly a jistě také na lstivost druhé strany, s níž sjednávat čestné úmluvy je smrtelně nebezpečné.

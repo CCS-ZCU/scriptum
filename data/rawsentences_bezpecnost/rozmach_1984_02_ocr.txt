@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a877fcfeef100e1e66d0c09bb31de42908203c38dba6f7413ded9e54d2e03eb
-size 131
+ Svobodný svět by měl bez obav sdílet své poznatky - samozřejmě v mezích vlastní bezpečnosti - s komunistickými státy.

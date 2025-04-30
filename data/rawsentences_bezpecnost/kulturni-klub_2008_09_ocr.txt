@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08578e09cf0f72c538b5ef80531857a896d79ea1d527b1ba9146f8b16735ea73
-size 272
+ Ta je pak při zřizování radarů motivována především snahou přichytit co nejvíce řidičů při přestupcích, zatímco zajištění bezpečnosti provozu zůstává poněkud v pozadí.
+ „Co se uskladnilo tady, zmizelo nebo to skartovala Státní bezpečnost.

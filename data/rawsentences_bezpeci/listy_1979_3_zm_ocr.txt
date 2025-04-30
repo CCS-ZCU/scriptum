@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a4ad3bc93912eaca1c16e1a3b909a6d8b912980d19724285b9334bd68d28b00
-size 142
+ Jak se jim budeme umět při- způsobit a žít s novým pocitem bezpečí, založe- ném na tušeném, leč nevyhnutelném technickém pokroku.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:764e82098bd0333cd8012f8985b3aae94747419af15c1e666d44f9962dedf966
-size 162
+ Mezi její projekty patřila Linka bezpečí, nyní se věnuje i dětem handicapovaným a ze sociálně slabých rodin a ochraně dětí v rámci jejich rodiny.

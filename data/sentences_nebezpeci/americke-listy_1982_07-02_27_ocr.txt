@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e161e59a42c1fd77d917aa2329f1c8316f4715263425e23e2fbdd1f03249c07
-size 72
+popisovat vystavovat nebezpečí československý bezpečnostní orgán

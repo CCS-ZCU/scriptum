@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84b45273bfa781b5574a7ed89853bf42ad016fbf1f90f73ac100db5b89433c92
-size 34
+ U Hotham Permanent je bezpečí.

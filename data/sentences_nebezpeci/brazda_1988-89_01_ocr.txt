@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0f7f135039110a915f2f69bd96a1f757373bc34528b26d4aae2edf707d85ad5
-size 69
+velký nebezpečí představovat reálný podstata pojem ticho ticho

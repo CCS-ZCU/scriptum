@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ed79bc1826b33092e2090bdb67013500e787af0c1154548b46561afef2d4686
-size 128
+" Jsme si asi všichni vědomi ne bezpečí, které hrozí, ne budeli zmíněný připad včas vyšetřen, pachatelé dopadeni.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96b9d7f7c6223ce0b7d6c34b5838c6b575581c24fdd3155f0a04757972780262
-size 60
+ Marně se Veřejná bezpečnost snaží pachatele polapit.

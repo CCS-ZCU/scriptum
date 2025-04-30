@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d6d4a343ea53997309e49f0a567946b681a0488801506f19adee3a7de8ac075
-size 228
+ 1939 pomáhala utečencům; nyní shromažďovala doklady o porušování lidských práv v Československu a svědčila před Komisí pro bezpečnost a spolupráci v Evropě (Commission on Security and Cooperation in Europe).

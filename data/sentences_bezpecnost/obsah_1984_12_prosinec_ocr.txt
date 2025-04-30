@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43a19b3aa0211c73979cc6daaf70c599e4e9c53e4f1cd46edb4946da6cf37c05
-size 98
+statní bezpečnost soukromý setkah tolerovat označovat dovolený shrornažaovárí kontrolovat

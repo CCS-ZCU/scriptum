@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc83688e57301c7efb8701f91bc57ceca7748f6f876d4e8ab40ee4ccc89f0fba
-size 482
+ Současně vyšla navenek i jména dalších dvou Bulharů: sekretáře vojenského přidělence Kole- va a pokladníka velvyslanectví Ajvázová, kteří jsou v bezpečí, v Sofii, a Turka Bekira Čelenka, hledaného po celé Evropě Interpolem pro pašování deviz, zbraní a dróg, o němž najednou ze Sofie potvrdili, že se tam zdržuje a že byl dán pod policejní dozor; on snad byl organizátorem atentátu a Akžovi slíbil tři miliony marek, když papeže zavraždí.

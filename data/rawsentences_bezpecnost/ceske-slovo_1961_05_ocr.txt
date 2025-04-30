@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bd8f6e1c5687781671627cbac0a10f663a2b450a90081b91712eef83c2877ed
-size 730
+ Nyní by mělo být jasné, žc toto vše nadále nestačí — že naše bezpečnost by mohla být ztracena kousek po kousku, jedna země za druhou, aniž bychom vystřelili jedinou střelu nebo aniž bychom překročili jedny jediné hranice.
+ A v noci často ozařuje Státní bezpečnost budovu velvyslanectví reflektory se sousedních domů.
+ Instrukce Státní bezpečnosti jsou průhledné: provokovat, urážet a kompromitovat.
+ Útočnost a bezohled- i nost orgóně bezpečnosti dosáhla ostrostí a intensity z doby informbyra.
+ Posledně jeden z nich řekl, že Jugoslávie již nemůže trpět ohrožování bezpečnosti svých diplomatů v Praze a pohrozil protiopatřeními proti zástupcům pražského režimu.

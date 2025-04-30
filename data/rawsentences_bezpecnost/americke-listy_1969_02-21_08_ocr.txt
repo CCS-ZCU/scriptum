@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e8e7dd97d4a0bcaece9dc4aa6e2b9bbd9637827f4900c6c3a3dfe31c1d911b8
-size 175
+ zahraničí Spolkové republiky notu, ve které německou vládu ujišťuje, že ji dá záruku bezpečnosti ihned, jakmile pakt o nepoužití atomových zbraní podepíše.

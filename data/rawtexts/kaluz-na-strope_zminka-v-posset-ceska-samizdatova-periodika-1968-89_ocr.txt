@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c388432cc395fcab6ef3ba13dff929f89b8ab2f6aa41d955b91de1efd84e5bfc
-size 44
+Kaluže na stropě "O": asi 1988. [pageend1]

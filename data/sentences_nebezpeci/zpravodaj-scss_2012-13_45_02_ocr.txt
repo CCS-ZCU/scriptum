@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e522ed59beee91f7a5d0dbb887a449288dc0560ce80eb8e3ac2b9f9cb2857e2f
-size 49
+příslušný referent DZS nebezpečí prodlení

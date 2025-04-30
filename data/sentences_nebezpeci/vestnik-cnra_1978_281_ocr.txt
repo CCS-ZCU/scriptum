@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98747b293aec7a958b2bbf5f89d9407a29c19114eb7b102ad7f38e1e6b6dd2c6
-size 66
+nastat krátký jaro nový naděje velký obava nový nebezpečí

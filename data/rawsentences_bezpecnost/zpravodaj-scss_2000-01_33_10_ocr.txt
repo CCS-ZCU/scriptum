@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b178256033464545dbbab9d87cb4dddb129c770e8eb5366d498de0c96b36a90
-size 299
+ Na rozdíl od dnešní Rady bezpečnosti by už žádný člen neměl právo veta, tedy možnost jednostranně zablokovat nějaké rozhodnutí.
+ Jejím posláním je posilování vzájemných vztahů mezi USA a ČR v oblastech obchodu, kultury, vzdělání, bezpečnosti a občanské společnosti.

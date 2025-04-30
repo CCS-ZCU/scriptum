@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57ea9134a7fb62993f8f0ab9fac71d354b20186aca92d782f872a8fc92d9fdb5
-size 49
+slabý cvičenec hrozit nebezpečí pád zákmih

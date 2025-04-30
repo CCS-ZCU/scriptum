@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:45f96a6a1e939540dfa1a1182621c581c1f8975583564928dd984551df66b335
-size 95
+zajímavý věc tedlencten přísný chystat vyklidit pole dostat bezpečí chtít odebrat pas

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c88b1e331fdcd2193c01f7d8bb1962059097477b1217fc55d70e05cf61e2f4c
-size 23
+atom dělitelný basta

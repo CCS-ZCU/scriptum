@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7d388e742d5866136db6850038d99fc5f1f82dfe410f0d087a5ff4753c49343
-size 17
+střední Evropa

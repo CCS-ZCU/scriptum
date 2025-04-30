@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b8198249ea280dbb2fb241e1d143639740bd2cfcb0b5641922e2b2f5973d8fb
-size 78
+mít místo sjíždět Čech Slovák připomínat svobodný svět nebezpečí

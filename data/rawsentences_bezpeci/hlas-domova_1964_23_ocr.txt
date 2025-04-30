@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3e0c4664da6d715f4ccc39bc0d6e0011c8e858068f33a0b2463a2dccdecd61d
-size 102
+ * BEZPEČÍ pro vaše peníze * BANKOVNÍCH SLUŽEB VŠEHO DRUHU Vkladní knížky, šekové účty.

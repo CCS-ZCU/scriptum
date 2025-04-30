@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:756bae65b4de5a70fa1c45095f9bf97e9e75bb9720e2dfbf05106ef3b4057d3a
-size 60
+bezpečnost $imo provést oaobní proh lídka podpis zabavit

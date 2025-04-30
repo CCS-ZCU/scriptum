@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b5934edf22352320b833b2e889d88e5165bd633bbf33b08ef51076d9ee12b01e
-size 71
+ Zil tehdy v bezpečí Mandžurska, hrál si s hliněnými kuličkami.

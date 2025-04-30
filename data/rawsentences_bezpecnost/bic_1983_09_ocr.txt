@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc686bf317a46557df920a0c240f928dfb85ca2f996be29d918e12a17867c62d
-size 91
+ Orgán Veřejné Bezpečnosti se diví, že rozdávaný papír není vůbec potištěný.

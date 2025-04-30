@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:047027552f2673b470854717abb8548c3bb6ee7565886475b2b0458d1b7ea583
-size 80
+sázka lze říci značný část les hrozit nebezpečí bezprostřední zánik

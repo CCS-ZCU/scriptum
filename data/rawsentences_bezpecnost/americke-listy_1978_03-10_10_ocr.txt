@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9db4d26352116ac96b8eaa4320e42e7b5642ba83a6bc1cfc76a08c1510ea5937
-size 199
+ Uveďme tu mimo jiné znovu závěrečný akt kon ference o bezpečnosti spolupráci v Evropě a řadu resolucí OSN pro něž ČSSR hlasovala, naposledy resoluce Valného shromáždění OSN z 19.

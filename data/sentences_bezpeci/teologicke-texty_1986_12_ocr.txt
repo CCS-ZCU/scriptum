@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5bd3f8617fc7e120300eafd8282041e9ac5bc0f223786f0f8d914c6d1f06ed66
-size 46
+úloha brát vědomí bezpečí skupina žít

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbbb93326d8cd52328914ab7296e08cf866ca96f2bee8f19c75893e14905440a
-size 64
+Na "obranu a bezpečnost" se má vydat deset a půl miliardy,t.

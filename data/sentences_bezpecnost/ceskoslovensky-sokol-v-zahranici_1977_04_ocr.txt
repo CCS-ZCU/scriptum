@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4232b80a99a42d96f72628887721374d4bfdb879d8b79f4e1ca43892bc992090
-size 32
+dbát bezpečnost cesta kázeň

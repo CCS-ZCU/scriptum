@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a50d6f34a45bc4b1774eb4f674322dec2230e990d12d2c5285bc54464e112e0
-size 56
+redakce revoluce bezpečnost název úvodní studie dra

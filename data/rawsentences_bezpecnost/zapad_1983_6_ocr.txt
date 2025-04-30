@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1a6433c8ed02e06269751779a793d5740567dbe711c8b74c4521b847e40da09
-size 128
+ Druhý přikazoval preventivní zbouráni neopravitelných a tedy chátrajících soch - s odkazem na bezpečnost veřejnosti.

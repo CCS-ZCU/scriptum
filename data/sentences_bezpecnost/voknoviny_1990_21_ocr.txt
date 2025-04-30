@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16ba23a13d1379767d19edc70f30a7003e7d1b091fd22d7d5a92580693a8160d
-size 74
+bezpečnost jaderný elektrárna přednáška pozvaný kapacita stojící

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cad0ce1fdcb9d0536ba6d853b4e6a55c3b0b39396359d1c05717c968e02fb74c
-size 110
+posila vlivní americký novinář začínat upozorňovat skrytý nebezpečí podobný návštěva Mikojanův

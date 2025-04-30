@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:111f9d46d42e1e9ccb3404df22214c458de01e1dd6d3f66f986c1f6d47f86307
-size 188
+ jak jsme si mysleli a že jsme ovlivňováni tak nekontrolovatelnými faktory jako je situace v produkci ropy,a že bezpečnost v našem světě už není vůbec nic než pouhý mýtus .

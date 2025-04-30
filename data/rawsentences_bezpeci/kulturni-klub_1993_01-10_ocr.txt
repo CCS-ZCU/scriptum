@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9932cb699403c9f6922c94d0da0ca40f1bd7d1239536bc2f2a628ce953691c0
-size 129
+ Domov, v dětském smyslu spočinutí v bezpečí, v klidu, v místě, kde se o vás někdo stará, je možný jenom u maminky.

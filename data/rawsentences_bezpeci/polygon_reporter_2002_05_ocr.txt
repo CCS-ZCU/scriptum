@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5dbe7c84d1a446d349ba0978dfe5a66d19b6c121853a1ac8d4563633d7e2e11
-size 352
+ Vídeňský deník Kurier napsal: „Ačkoli ve volbách vyhráli sociální demokraté, skutečným vítězem jsou komunisté, kteří se dostali z politické karantény“ The New York Times konstatuje: Voliči v Česku prokázali překvapující nostalgii po bezpečí komunistické éry, neboť dali téměř pětinu hlasů komunistické straně.

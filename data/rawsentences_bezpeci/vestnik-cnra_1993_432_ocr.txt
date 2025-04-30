@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0e06bdff2fc2e7e723bf74519208dda2c3af508001aedaa7d65216d8c019e07
-size 245
+ Byl jsem představen muži, který se měl starat o moje bezpečí a bezpečí spolupracujících organizací, jehož krycí jméno bylo kapitán Fišer a jehož pravé jméno bylo Zelenka, šéf Kašiny (to jsem se dověděl mnohem později).

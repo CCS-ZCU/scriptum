@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:503d77cd42903bba43c250545b72f63f0366f018fa617b67d88686820802bae9
-size 256
+vést protekční způsob privatizace přinášet velký nebezpečí
+drahý peníze žádat malý banka úvěr vysoký sazba vystavovat nebezpečí přihlásit podnikatel získat levný půjčka tradiční banka
+major záloha předseda vláda nebezpečí
+

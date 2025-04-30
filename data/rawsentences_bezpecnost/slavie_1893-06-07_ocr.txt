@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51e63fec1308eab2df6377004b57533de9840863dc44831458dc9d123ec1f58c
-size 287
+ T Známý klinik professor Ger- main-Sée předložil akademii věd nový prostředek “nuclein”, jenž má vlastnost, že pomocí něho lze poznati tuberkulosu v samých počátcích s úplnou bezpečnosti a to v době, kdy se nejeví ještě žádné povážlivější příznaky.

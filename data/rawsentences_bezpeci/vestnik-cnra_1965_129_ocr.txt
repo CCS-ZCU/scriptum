@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6234184d8f083e1f9c467c6753bc97c1c122ca7cd892dda062e570568180f18c
-size 79
+ Tohle neukazuje na cestovní bezpečí osob s československým visem v pasu.

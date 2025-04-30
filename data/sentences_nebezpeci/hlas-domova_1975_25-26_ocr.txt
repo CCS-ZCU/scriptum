@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:439154ce939e400e9c7eeb5dca35eddd69312e42820306b7333556a2f03da6bb
-size 75
+moci odjet situace vážný komplikace druhý rodička nebezpečí umřít

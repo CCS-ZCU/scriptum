@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:863f77d358d405a1a3ebe5981009bf5701d1fc9e622752112e60958d6535876f
-size 78
+děsit slovenský vládní koalice uvědomovat nebezpečí Mečiarův návrat

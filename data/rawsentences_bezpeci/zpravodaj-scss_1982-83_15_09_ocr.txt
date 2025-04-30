@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b3e20a765782847459ee781f581617812020fabce5b2d1f8f579ee5c263afe8
-size 246
+ Přesel můstek první a volal na nás z bezpečí: - Okamžitě ustaňte s tím houpáním nebo vás citelně potrestám! - Rozhoupali jsme můstek tak, že se muselo přejit po námořnicku a na konci dostal každý jednu klackem přes prdel.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:299672f6ca2d5d02f8e5bae34d311e5c53a44d85a6c7a40e054467a3db91350a
-size 271
+ Několik dnu poté Bezpečnost začala vyšetřovat osoby, které se představení zúčastnili, ačkoli inscenace nebyla nijak ilegální a byla také řádně povolena jako soukromé představení.
+ A proti těm, kdo přesto nemlčí, zakročí bezpečnost nebo soud.

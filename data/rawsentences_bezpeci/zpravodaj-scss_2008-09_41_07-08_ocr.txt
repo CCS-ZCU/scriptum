@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec74174ed4c604c6101e1962056360bca353b76b10c3dca42063a4088c4e2085
-size 209
+ Stojí za to nastínit další možný vývoj, který by vedl k většímu bezpečí na silnicích.
+ Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.

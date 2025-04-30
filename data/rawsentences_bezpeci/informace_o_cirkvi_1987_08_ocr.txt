@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3d18e8845bf9806c685339d66736bf12cc225998305acf541e2042509661b30
-size 100
+ Jestliže člověk pocítí u něho toto láskyplné bezpečí,nic ho nemůže od Něho odloučit.

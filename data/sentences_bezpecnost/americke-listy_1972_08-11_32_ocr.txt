@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:289f277be64eb65fd1a08c983c0b6e76067b76664561f5870ee2817d9f105630
-size 50
+příklad otázka stav bezpečnost člověk ulice

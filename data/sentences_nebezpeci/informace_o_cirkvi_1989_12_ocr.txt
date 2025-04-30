@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b035a115f2f96ed4f12cff9e8d4db4c0683cd667e87129786cdfb92e8a2e2be8
-size 36
+úloha církve společenský Svtdom

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:791109550bfe0e0c356f33314f9d791e4387298687a97ee87dad6d7ef069fc20
-size 148
+ tuto krát- kou zprávičku: "Pracov- níci Státní bezpečnosti v Brně vyšetřují nepřátel- skou činnost zaměřenou proti zájmům ČSSR.

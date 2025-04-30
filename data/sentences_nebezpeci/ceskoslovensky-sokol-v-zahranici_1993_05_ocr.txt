@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc582513574312461a434c39c258cd88821140ea587eb5e1e1d8ad6f9d7e67a5
-size 109
+mírový práce vnitřní výstavba obrana stát čas nebezpečí vyjadřovat čtvrtý sletový scéna domov

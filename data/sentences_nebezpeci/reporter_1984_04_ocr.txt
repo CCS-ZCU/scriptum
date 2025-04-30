@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:184f89af5ceab59452cdf22163ee8f9ee9e11c2bf5c548aac38005725ba61b6b
-size 56
+zaplétat vlastní síť nastražený problém emigrace

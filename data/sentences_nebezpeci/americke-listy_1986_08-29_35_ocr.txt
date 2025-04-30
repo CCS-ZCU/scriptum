@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0731320eaff4296841451baf67cf1e3705095d96091afaf1435f1df64788c5da
-size 50
+Černobyl dokumentovat nebezpečí lidstvo hrozit

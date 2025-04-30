@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2135480296faaf55c23aa4678291cbaeaee7c5bc7ef379e56e6f041135255f2
-size 273
+ Můžeme teda ndati počet Čechů v době té s úplnou bezpečností na půl šestá milionu; nejspíše bylo jich ještě o mnoho tisíc více, neboť těch připočtených 27 tisíc nezváží ztrátu, kterou na pohled spůsobil národnosti české “obcovacíjazyk.

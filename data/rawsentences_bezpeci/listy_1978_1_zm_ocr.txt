@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01ec057ad81bc0790352bb97f3401d6bb524968c775810a86663e8eaf6d6557b
-size 66
+ Vaše podpora je o to cennější, že neho- voříte z bezpečí.

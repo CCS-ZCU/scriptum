@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5b8c6093771ef27494c39b94f1cc34a0f47503dd7843a1fa028d7fdaf464c0b
-size 72
+Wejde nutný obrana obrana zrejmý pŕimeŕený povoz nebezpečí útok

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70d6b87d49edfcfee1185422fefe70f46278d106a79a7dd6233ff625385c3e82
-size 176
+ Kdyby vojevůdci v londýnském a moskevském bezpečí namísto- častých výzev k sabotážím a povstáním posílali kontejnery se zbraněmi, situace by se vyvinula jinak.

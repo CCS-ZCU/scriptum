@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d721f75ae6f9c495406b6db1467e452c333934cd21b419b4f27bfb88fcfbfcac
-size 69
+menšie stát bezprostredno nebezpečí súc ohrožovaný točník

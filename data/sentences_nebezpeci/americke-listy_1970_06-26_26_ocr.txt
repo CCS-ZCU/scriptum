@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5097617a6ce50e9671f398590329673821af05f2d786e199dbf5058aee4db469
-size 38
+léta vyvstat Jugoslávie nebezpečí

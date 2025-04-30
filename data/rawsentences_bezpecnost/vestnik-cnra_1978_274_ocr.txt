@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c2b5c53c3eff9df27d36aa4241872c3b247603d860bfbf059fef58f7c066e1e
-size 130
+ Jaroslav Hejdánek a Marta Kubišová napsali do Bělehradu dopis delegátům konference o bezpečnosti a spolupráci v Evropě.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e61f381c20236e32686271d7b7e2f37ca1890f93707c1e0f5d504c8396e5857e
-size 146
+ o Žena jednoho komunistického tajemníka přiběhla na Veřejnou bezpečnost a stěžovala si, že byla právě znásilněna nějakým blbcem.

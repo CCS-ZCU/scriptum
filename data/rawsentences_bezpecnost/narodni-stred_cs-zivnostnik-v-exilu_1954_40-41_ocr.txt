@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f30268ed36afdbdce3063db231066ad6c8aa12741d583c3b51df68279c775af2
-size 78
+Zabývala se též otázkou bezpečnosti.
+Jennera pro vnitřní bezpečnost .

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05b00121c80bcd1d37e4a22b7117b1a9bda4a1c9a60ff6749612058a3274b4e6
-size 90
+ Kdybych ale byl lahví koňaku, nikdy bych se necítil v jeho přítomnosti v bezpečí.

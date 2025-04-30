@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fa5844f6997284384608548969b6bc678db0b1f4e381adc8f4dcdc32f1fdd99
-size 101
+Stárek vazba Hradec Králové státní bezpečnost vyšetřování věc používat zákonný metoda

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0cd2fa44008c304441b505d1f102ad510535301e78076d6349a1b49dafbb91b
-size 47
+ Teprve pak bude německý národ v bezpečí.

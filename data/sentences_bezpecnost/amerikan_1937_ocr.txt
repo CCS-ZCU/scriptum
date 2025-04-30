@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2fe50bdeb5f502bcbc1873b301adfc5a5dbd75c3a9eb8ae5cd81ba3d54d98b48
-size 38
+bezpečnost— vklad zajištěný OOO

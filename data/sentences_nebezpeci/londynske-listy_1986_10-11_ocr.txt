@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:899e5d38858fcd827293d28b91b3e80ad7b2c1122c37825f544db556a47cbcbb
-size 47
+národ smrtelný nebezpečí vázat spoj Vvalo

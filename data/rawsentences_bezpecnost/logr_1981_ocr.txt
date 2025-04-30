@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:245f2ce24e3b9fb1320e7280595b5678ac05b844f9e1a543413d447fa3304551
-size 163
+ Do některých částí byl z bezpečnost- ních důvodů vstup zakázán, jinde haraburdí, sajrajt aji Nadšené ruce však daly vše jakžtakž dohromady vč.

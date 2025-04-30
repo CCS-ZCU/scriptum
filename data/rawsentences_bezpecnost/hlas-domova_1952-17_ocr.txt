@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:82250b293cfe9743d90b5ba2b0076c8d9f8fa3072cd507de9595754798797222
-size 144
+ NYL Sbor národní bezpečnosti prodělává neustálé změny,Jak vzrůstá počet pří slušníků,vzrůstá i počet policejních okrsků.

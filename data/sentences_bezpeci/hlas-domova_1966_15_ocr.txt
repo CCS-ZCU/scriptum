@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4184ff2b7aa70116fff616f9ea5846402e440b3a06fc13b1def4a701fbfc225f
-size 48
+doba psaní dopis vědět masa ryktown bezpečí

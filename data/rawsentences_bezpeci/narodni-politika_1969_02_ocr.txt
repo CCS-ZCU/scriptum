@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27cd2523258c415fab5fb5977425e780e5bac1cf736ccfdb1ed05f6ad9f1c527
-size 488
+ Bylo by velkolepé, kdyby této aktuálnosti nebylo a kdybychom si dnes po třiceti letech mohli vybavovat onen zasněžený den, oživený obrněnými stíny, s odstupem pamětníků, kteří shlížejí na uplynulé tragedie s výšin poklidného bezpečí.
+ Bohužel není tomu tak; doma opět nežijí v bezpečí, nezmlkají hrozivé hlasy, neschvalující myšlení národa doma.
+ Z těchto několika šťastlivců již šest dostalo švédská visa a také již jsou v bezpečí.

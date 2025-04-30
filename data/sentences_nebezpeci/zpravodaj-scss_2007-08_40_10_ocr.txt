@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0147d11097a6188b0168a8b5fbae1088abb0619ff942d775f995705b9d33989e
-size 59
+mít člověk cítit pohoda zůstávat krajní nebezpečí

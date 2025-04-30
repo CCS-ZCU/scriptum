@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7bcf56ea9964217bf6b6373cf467dc978d2392b6ba6cd0fa2d90bc3fdbd070c
-size 29
+bezpečí mříž Biaľolqca

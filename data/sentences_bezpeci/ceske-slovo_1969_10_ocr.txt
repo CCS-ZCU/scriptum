@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b673a7da5bba5409243d98638e85c50c68b4f111f77d7c7bf7711714fcb25fac
-size 32
+Zenkl paní Zcnklová bezpečí

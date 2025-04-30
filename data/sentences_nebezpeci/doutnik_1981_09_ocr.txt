@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:357fd13d4adb4bb467f1168afef62065a44eefe1f20f03a065e386915a8dde3b
-size 35
+prostřeunictva hon stát Amazonka

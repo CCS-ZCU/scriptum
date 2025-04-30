@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5933d59d44ed914b4382adab96f54465b717a35692bdced3a09d6d7831d0a179
-size 476
+ Tato část jeho projevu obrážela poněkud nerealistické očekávání československé veřejnosti, pokud jde o evropskou integraci a federaci: nastolí dobu míru, bezpečnosti a blahobytu.
+ Kdyby se nám podařilo vytvořit rozsáhlou oblast demokracie, rozkládající se od západního pobřeží Spojených států až k Sovětskému Dálnému východu, byla by to pro nás a pro všechny ta nejlepší záruka bezpečnosti — protože demokracie spolu neválčí.

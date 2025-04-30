@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3d6ec06ef156ee56ab10cf6d06322193a903e1b8b9c38df9a47efc2d7fe1b0c
-size 77
+představovat muset bojovat pravicový nebezpečí pravidlo český pravopis

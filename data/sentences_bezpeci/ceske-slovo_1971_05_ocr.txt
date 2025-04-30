@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f590fd1acdc8587edb14b12029c276aa0f976f100a0fb7b8359cc69e1520d1bb
-size 50
+lidé bojovat bojovat bezpečí nový koncentrák

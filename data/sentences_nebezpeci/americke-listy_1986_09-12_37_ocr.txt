@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1441434a99bd8bb281fcef97e0393869981c1aa4c4aee99f66e44d774b5eb041
-size 28
+konec konference rez dohoda

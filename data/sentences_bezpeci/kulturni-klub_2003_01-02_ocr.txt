@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:336b2e284a2e552da4e151bc64f297a3c164ecc3fb6c34c83aab6c2d783e7c68
-size 56
+vojenský vrtulník přepravit povodní bezpečí lidé

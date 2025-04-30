@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27575e287940f359766cfa8398e574034c523d5b3b6bb314dbe7d812cdb5c1ab
-size 84
+000 staženo z normální služby, aby chránili bezpečnost zahraničních hostí.

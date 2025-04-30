@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b746d8cefcf7dcb486ff2390af445bb760346f9aed0f4d0858fcbbcae5c2ea9
-size 49
+^Preventivní válka proti_Soyětskétskýzému_

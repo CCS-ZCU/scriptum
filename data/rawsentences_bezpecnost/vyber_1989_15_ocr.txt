@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12bae5eb76e2b585f263f34715d2e872f2177172091f0363d77296e2e92e3cf6
-size 193
+000 obyvatel USA připadli asi tři pracovníci Federální bezpečnosti.
+ Směšný počet ve srovnám s tím, kolik pří -15- slušníků má státní bezpečnost u nás na počet obyvatel.

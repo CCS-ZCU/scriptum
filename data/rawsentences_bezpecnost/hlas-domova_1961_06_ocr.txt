@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b749d424340bf79babca2c310918a8ce8b762c04115f421a0b8343661889674
-size 201
+ A nikdo si neuvědomí, jak slo- žité je takové malé dobrodružství, na jakém vlásku visí životy letců, bezpečnost strojů, na kolika ná- hodách závisí, vrátí-li se letka bez ztrát.

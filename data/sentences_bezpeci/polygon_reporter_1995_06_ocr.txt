@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:258efc5b950232fd193eafdfbeef90318f1838099bdb1786d6d90ea8d2f32e49
-size 41
+aktér sud bezpečí
+platit vysoký daň

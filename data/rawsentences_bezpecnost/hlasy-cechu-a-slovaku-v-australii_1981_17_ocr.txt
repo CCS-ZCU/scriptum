@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2504f25f37d5052a5833267192c8b1a6ce5c0841ed2be60ad3642e44cc6ee83b
-size 59
+ Nepsat nic, co může bezpečnost tamních lidí ohrozit.

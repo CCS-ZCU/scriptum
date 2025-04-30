@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8477f530ca0b93b0c0f4366bc8e7613b134c51d294b78eb06c4267e1139b7f10
-size 54
+hořet minuta čas doutnák zapálit ukrýt bezpečí

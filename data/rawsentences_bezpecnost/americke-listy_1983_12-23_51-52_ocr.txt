@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c7c864fbe895af8995035f368c85e10bf4bb9f645e84b4c63fd3f3535e16479
-size 129
+ Cenzura je jedna z převodových pák režimu, jejíž soukolí má být právě tak utajeno jako metody státní bezpečnosti.

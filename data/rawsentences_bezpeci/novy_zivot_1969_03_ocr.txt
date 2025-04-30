@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1dddd110b8354cc7f8a7742c6a102ef84ac36478edd8e82767b1101bf411441
-size 220
+ Jeho ideálem není klid, bezpečí, osobní bohatství, blahobyt smyslů a kapsy, nýbrž zakotvení ve vyšším řádu hodnot, který by mohl dát jeho dním a nocím, životu a sm rti pevný, kladný smysl a směr.

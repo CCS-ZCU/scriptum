@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9964ded65e925bbd3f1da22a620711563c6ffcc3ccccbc271ed4e56c85ccab1
-size 226
+Československo žít drama existovat nebezpečí monotonnost stejný slovo stejný výraz opakovat muset opakovat
+správný stavět věc hlaveň věc vedlejší nebezpečí monotonnost vyvstávat hlavní věc věc vedlejší

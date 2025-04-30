@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7354a5e84e91ded7425f76359bb0079d5167be451a03d1d91381adf3be0ea59e
-size 14
+muset bránit

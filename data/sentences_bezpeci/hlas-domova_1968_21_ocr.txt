@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c815ed37e5fec6656cf23c9f0b10377b7a4f617d0669dcf4ba73d6adfee8ffec
-size 49
+redaktor uklizený bezpečí Literárek nemeckon

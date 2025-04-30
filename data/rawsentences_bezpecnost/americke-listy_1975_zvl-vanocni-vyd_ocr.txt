@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d01c4cdbd3ff8a332a2fb92850d4defb92e1058d50e9d4ddf9c4c449fdc3ad1
-size 158
+ Nakladatelství Rudého práva Svoboda vydalo pod názVem Dokumenty konference o bezpečnosti a spolupráci v Evropě brožůru v nákladu padesáti tisíc.

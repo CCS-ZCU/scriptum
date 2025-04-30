@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d1222c52eeea11ff78defef32e8e017ebf466248ee30d2cafd1bdce8f8f002e
-size 56
+přikázání upozorňovat vota bližní patřit bůh

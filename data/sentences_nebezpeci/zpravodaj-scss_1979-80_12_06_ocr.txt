@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d5767e82d0cca2f3c15e6efb8817d7f03e491d3dfc9985947f500c6ad5851e7
-size 91
+nebezpečí nový pořádek spočívat mít platit
+nechat mýlit obloudit vážený protok

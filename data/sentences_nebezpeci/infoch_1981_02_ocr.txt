@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b14b5625f8d6916058e671ad5ac17f94c428d891025366e2eab1187570c5e2b6
-size 81
+Slanina hrozit nebezpečí MUDr Placák moci roz vrátit kolektiv spolupracovník

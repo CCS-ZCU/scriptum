@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13d7de2c97468bbec925a2b5e1a73d2a02f12e0fa6dcf2cb1838a97b24564bb0
-size 610
+ Provoz však trpěl stálými spory mezi majiteli dolů a horníky, kteří vytýkali majitelům nedbalost v bezpečnosti provozu; vleklé spory byly často doprovázeny dlouhými stávkami, o jedné z nichž se zmiňovali zakladatelé jednoty v otištěném dopise.
+ Cvičíme-li na řece, v jezeře, rybníku, musí se cvičitel před zahájením výcviku přesvědčit o dastatečné hloubce vody a její bezpečnosti; musí se dokonale seznámit s dnem - musí zejména zjistit zda se pod hladinou nenácházejí balvany, klády, větve a jiné předměty, které by mohly způsobit zranění cvičenců.

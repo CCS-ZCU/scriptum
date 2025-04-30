@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6396ac0e0a68794894a6ea8ae46aa073ad3ad9a5d95e2cbefc3fd5ccc4e25f8f
-size 89
+Masaryk Beneš vědět bezpečnost Československo garantovaný versaillský mír pevný

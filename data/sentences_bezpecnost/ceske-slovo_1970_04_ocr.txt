@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2171287d901d10b6b7f913cd8d9f41b9f351aa33c1c9d2e13ac09cdce0e84451
-size 56
+František Neuman muset hledat osobní bezpečnost exil

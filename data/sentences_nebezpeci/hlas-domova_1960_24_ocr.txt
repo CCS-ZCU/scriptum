@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e44dfa054043e0733fd70121ad6a68e1f102ba6c3da1b9ed65437830f1a9805
-size 90
+nebezpečí neutralisace hrozit

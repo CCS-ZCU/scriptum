@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eda2de0b2450d3e9d7a0634d0619ce39d4336281ebdc6439436a439c547ab0c5
-size 181
+ Pravil, že letadla se stanou smrtelným nástrojem zkázy, jestliže ti, kdo jim poroučejí, nepocítí odpovědnost a neobjeví “novou bezpečnost, založenou na inteligenci.

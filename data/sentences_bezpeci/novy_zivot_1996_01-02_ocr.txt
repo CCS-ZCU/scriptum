@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85098bd950acf1ef010328bc505620f672dde99b5ab0e9db6659ff0a2861ecf6
-size 41
+metr metr najít dát prostor čas mozek

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa63e0e4267e604767f249a86f05d74246800c21532bba6e1dd3831fe2199c93
-size 62
+ Po odeznění potíží plavete co nejrychleji do bezpečí.

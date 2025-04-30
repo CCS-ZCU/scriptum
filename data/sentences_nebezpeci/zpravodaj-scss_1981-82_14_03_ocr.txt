@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df2111da57bf3a117865a5b05602b3de2b372577ffcfea084e880c171246660f
-size 107
+jiný zbývat čas mít tušení staronový nebezpečí
+muset nový prostředí bránit starý nebezpečí

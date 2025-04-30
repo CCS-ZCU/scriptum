@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6307c9e16c59e6035e571e0aeea4307a377cdd1c7a0dbc9bb84ce7107216320d
-size 127
+samotný předsednictvo úkciový střední výbor KSČ přijmout politický hodnocení pravicový nebezpečí věc obroda socialismus

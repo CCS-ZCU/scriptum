@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b26bd58910cead856cc066128086fd7e6b82f6b0e9a4587cfa7e72d4833a7e90
-size 139
+intenzivní hromadění moc přinášet úměrný zvětšení operativní použití rostoucí bezpečnost
+bezpečnost platit nepohyblivost

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47f382a1a71b9ee0476e0f4fdd53cd8fbe7b6dff67453d192ff6d80a2fdd088a
-size 255
+ Další důvod, který prý Belgičany přimněl k tomu, aby na svých perfektních dálnicích omezili rychlost na 120 kilometru za hodinu, byla prý starost o životy, zdraví a bezpečnost Angličanů, prchajících auty napříč Belgií zpět domu.

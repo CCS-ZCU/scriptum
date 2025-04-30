@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0797b1f535f049650de44f34605a8f150a5bd7cec8d11060d02544515a732267
-size 66
+strojvedoucí Prendergast zůstat vzdor velký nebezpečí místo

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5c90c2f290187e705f5f422930842b66a3f5111393569c8dcb2cbda8b23dd62
-size 112
+ Postaví tam člena Veřejné bezpečnosti.
+ "Proč ty občany zaháníte?'" - "Ale jenom kvůli bezpečnosti.

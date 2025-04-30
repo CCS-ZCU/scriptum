@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a648bb59b623e138eebf0b40b599fd87a11124e7fda5ad3a7e908a7598b3d29
-size 78
+poledne Lídla odcházet ozvat siréna oznamující nebezpečí bombardovaný

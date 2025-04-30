@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a82f4b06899ea8755fe8e97afb5da431b4b246a2f348230fbf758194dba5d1f
-size 156
+ Neklid, který svírá duše i tam’, kde lidi obklopuje bezpečí a hmotný blahobyt, je jen prvním znamením stísněnosti, která se všude vzdouvá.

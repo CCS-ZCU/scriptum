@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:976ede4b6a15198018b13f5d3152d88c23d5919caa45683c4d20781197481cbe
-size 51
+postel ?rní požárník symbol bezpečí jístota

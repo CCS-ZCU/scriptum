@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ce2b9595364b8de4ad49f8fde36771ea5661b30c2c233d6bc3c9e8f4282aa7e
-size 681
+ listopadu po souhlasu Státního úřadu pro jadernou bezpečnost.
+ V dohodě z Melku, uzavřené v prosinci 2000 a pode- psané počátkem následujícího roku v Bruselu, se Česko zavázalo prověřit možnost zvýšení bezpečnosti několika uzlů elektrárny poskytovat neprodleně veškeré informace o provozu a umožnit monitorování okolí elektrárny.
+ Objektivní skutečností také je, že na některé otázky jaderné bezpečnosti existuje tolik názorů, kolik expertů je posuzuje.
+ Na Štěpána odvezla Václava Nebeského, otce čtyř dětí, Státní bezpečnost.
+ Nestalo se nic, protože o naši společnost nebo o mě osobně se Bezpečnost nezajímala.

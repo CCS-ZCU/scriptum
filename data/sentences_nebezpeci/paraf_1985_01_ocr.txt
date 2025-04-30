@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09d9008b23edbd591a89f5a4ca49f85015d0ed16845e166ff74a08d403837550
-size 105
+jazyk malý národ zbytný
+možný nebezpečí uniknout

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed73bdd27dac345e8bcd3240a476eaf566ba43e6243e8c64781e45052eaa32c1
-size 141
+hlavní důvod nutnost přeškolení moci začleněný řada pracující nebezpečí zanášet nový vítaný názor spolupracující okolí

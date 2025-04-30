@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f3ce129b1488a46ffbe6e73df5d030a0a44b06bba1ec0baf562c055a5e405d2
-size 192
+ Naproti tomu v USA zatím i FDA (organizace bdící nad bezpečností potravin a léků pro spotřebitele) stále ještě tvrdí, že je bisfenol při běžném užívání „bezpečný“.

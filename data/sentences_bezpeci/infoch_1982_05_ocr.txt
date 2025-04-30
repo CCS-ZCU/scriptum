@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:410ec8adcec72c2342d5413d68c7c98779fc18fa206fdf4637b57933bd3e3da5
-size 61
+mít společenství hodnota materiální danost přésahovat

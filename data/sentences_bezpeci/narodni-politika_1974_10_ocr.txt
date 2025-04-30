@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d502331675bcd0acdd647d55d69da55a01cf7efe589966842bbb31ed1f81305a
-size 25
+druhý prohodit krásný

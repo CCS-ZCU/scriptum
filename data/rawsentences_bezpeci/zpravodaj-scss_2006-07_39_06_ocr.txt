@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc6b2f1d6462a8f6693a283fd1a6e7c66cabe43cd93b43317173690888fc99a9
-size 161
+ Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+ Nadace naše dítě - Linky bezpečí, Policie ČR.

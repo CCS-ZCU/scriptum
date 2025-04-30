@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f99f44fe523b93426e2e1485b1e292bf1f12d5878aa7da2440d6fee8dea19f38
-size 81
+dohoda muset zaručovat bezpečnost západní aliance spjatý západní Německo

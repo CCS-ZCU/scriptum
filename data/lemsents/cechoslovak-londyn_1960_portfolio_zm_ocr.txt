@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b037bdd6fec52c06c4a8c2d28fb5ea08dbf7c27be07a2f703bc3d52ee905d278
-size 84
+lepší výsledek dosáhnout portfolio PDF otevřít aplikace nový
+opatřit Reader

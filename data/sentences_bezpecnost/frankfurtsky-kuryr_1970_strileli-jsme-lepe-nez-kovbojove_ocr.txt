@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:82ba8c09f4931a0d66c9342554807892b2b7de76e3a9da857e30b41227e43266
-size 49
+výbor státní bezpečnost KGB československý

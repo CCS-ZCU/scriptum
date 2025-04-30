@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d7b57fe494249404541119b934010cd716b0c74273c2a75a458985573da1049
-size 38
+ bezpečí, existenci i své životy.

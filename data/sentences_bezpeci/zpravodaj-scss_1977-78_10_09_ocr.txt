@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6cfdd48c5d0e008cffaf1ef65de8e68eedb91219837bbfb42ad4162ae6a26bb
-size 61
+opustit bezpečí vlak vydat výlet mapa kompas moci ztratit

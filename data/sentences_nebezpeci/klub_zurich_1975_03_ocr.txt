@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57debb31d73600fd59d48c2bfd5cc5964032f64bb735b0f0ff9d309f81dbfe97
-size 56
+nebezpečí dirigentský pult vrátit
+dobrý chutnání

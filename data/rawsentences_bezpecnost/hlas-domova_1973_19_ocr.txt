@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ddf8b8c78786b941c3afec7727bd12206a7493901670fc0d9834b74ca7d915d
-size 208
+ “ Jestliže budu prohlášen za mrtvého, nebo bude oznámeno, že umírám, můžete dojít bez rizika c-mylu k závěru, že jsem byl zabit agenty státní bezpečnosti nebo alespoň s jejich souhlasem.

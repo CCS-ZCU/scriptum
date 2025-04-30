@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c9c6fbc9820c4d103e60fe2d3a27b25d5c5f2a726f7640a9fa1025848f3fc89
-size 351
+ Věc byla vznesena před Radu bezpečnosti Spojených národů.
+ Po několika dnech pohoršlivých poměrů akademický senát ustoupil veřejnému nátlaku a Autherinu vyloučil, nejprve z důvodů její osobní bezpečnosti, později protože obvinila vedení vysoké školy ze zaujatosti.
+ lmde považována za spiknutí proti bezpečnosti země.

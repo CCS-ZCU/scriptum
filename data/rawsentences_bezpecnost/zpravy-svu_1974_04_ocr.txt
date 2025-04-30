@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5388d2f85591a4ba549a07049a8c57912c45e4f8dab54e61fa6c33f92d0202c
-size 454
+ V dubnovém čísle Proměn Ján Papánek referuje o konferencii o bezpečnosti a spolupráci v Evropě, redaktor Proměn Jiří škvor uveřejňuje výňatek ze svého projevu v Ottawě, “Proč vzpomínáme T.
+ Výbor si vytkl za cíl vysvětlovat veřejnosti, jakož i členům zákonodárných sborů, proč boj disidentů v sovětské oblasti za lidská práva má mimořádný význam pro úsilí Spojených států o trvalý mír a bezpečnost.

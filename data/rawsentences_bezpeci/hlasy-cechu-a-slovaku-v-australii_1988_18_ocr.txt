@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cfb857d6994220510f72b4e0e295b45a56b6d99834a970e6afcd890c86346a4d
-size 312
+" Už po celá desetiletí mění Rusové život v pohodlí za život v bezpečí, motorové sekačky trávy za stálé ceny a nevyčerpávající zaměstnání.
+ Dany zaplavené až po okna, střechy aut vyčnívají z vody na ulici, lidé se brodí s videorekordéry nad hlavami do bezpečí vyšších poloh.

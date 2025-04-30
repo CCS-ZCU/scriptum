@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34846ef916bf33f15ff025fcf82765145cbb505e834f407e72fc9378ea04d3eb
-size 131
+ Pr? dosavadním staivu kapacit nelze dělat nic jiného, než co nejrychleji odstra- nit závady ohrožující bezpečnost lidí.

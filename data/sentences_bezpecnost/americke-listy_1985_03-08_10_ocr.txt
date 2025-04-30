@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c093d30f9c32e84f0cc5a3b0b059a008342634530867b6f5916c8be7886a45c8
-size 25
+Josef Jablonický říci

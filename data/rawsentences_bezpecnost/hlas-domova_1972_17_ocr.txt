@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f519a7565dccdb82a2fca624e53ebfa2cfc6b9ee5d19897e9271cbb89c1af071
-size 76
+ Je na příklad otázka, v jakém stavu je bezpečnost člověka na ulici.

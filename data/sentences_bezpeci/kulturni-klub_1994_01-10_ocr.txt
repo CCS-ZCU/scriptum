@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c47164937abec428c7813faf9f6b96ae69acde00dbac908dc0ca598ebead0c8
-size 45
+smrt bezpečí zahrada rok stát kinský sad

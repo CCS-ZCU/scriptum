@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:acfa66e7ac1f21f61229dd13f3d32c900605eefc1e659e6dd42d987ab20b7c6b
-size 151
+ Popravčí vrch určoval přesně místo, které umožňovalo člověku obcházet smrt a dávalo pocit bezpečnosti, nevybočil-li z řádných cest.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:228406010546acbbd2ae1936a738f0b57da512dc05ec51f019a2eb221ac49858
-size 123
+ Farář viděl, jak bídné jsou mzdy horníků, jak málo se dbá na jejich bezpečnost při jejich vysilující práci.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffd8cf64f1d9b14108beffa68f8c496f413cb6317977b299335807a5805cbaf6
-size 56
+lik Nechí starat přehlížet bolševický nebezpečí

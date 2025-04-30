@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f0f1ab794076d5aadecf332b4eab037cbe462a3abc65874d85907b9320f0585
-size 66
+Stolce u Organizace pro bezpečnost a spolupráci v Evropě mons.

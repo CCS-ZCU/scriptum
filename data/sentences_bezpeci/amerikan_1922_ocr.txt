@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c98e6b6dc287785ef635154b46fdd85d659a722808e24d9b83f8f6d57be0bc59
-size 52
+Indián porada prohlásit jet dohlédnout bezpečí

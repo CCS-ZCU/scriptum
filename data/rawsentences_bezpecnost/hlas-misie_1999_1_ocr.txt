@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f20d740c419c357de26d2b654437d3173ce51789e0e30afb9684ff9d1518f8b
-size 76
+ Avšak prízrak svétové války není jedinou hrozbou naši bezpečnosti.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c34267a4686b998bd91b34908d7ebcacd83fd2c359398eff58f3b6c73998ebb
-size 147
+ V polovině ledna skončila ve Vídni konference o bezpečnosti a spolupráci v Evropě, součást procesu, započatého roku 1975 v Helsinkách.

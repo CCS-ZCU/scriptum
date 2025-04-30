@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f89886579832f080901c427946c855cbea3124dfc640edb3dcdb30f9440d781d
-size 88
+Bohuslav Čížek ulohá řád politika římskokatolický cír kůs časopis bezpečnost

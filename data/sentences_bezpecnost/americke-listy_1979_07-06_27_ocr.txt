@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abee5779114dcff24de7a200dc5ab35bc2d0d342cba4545383f5a25e49fc67da
-size 86
+Fascell předseda kongresní komise bezpečnost spolupráce Evropa činnost referovat

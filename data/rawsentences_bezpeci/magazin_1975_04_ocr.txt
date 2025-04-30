@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c755f38e903a4a34ead5374562318aaad8cbb4abf57d4da4d68f9c1304fcb763
-size 66
+ Dokud držíte nůž v ruce, necítím se příliš v bezpečí.

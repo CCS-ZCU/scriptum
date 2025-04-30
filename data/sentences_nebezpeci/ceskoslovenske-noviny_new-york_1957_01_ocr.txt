@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07bce3dec17cedc197ec3bb2343e4a43e00ccef7f875d679d6d6872eeedb1594
-size 32
+mít pocit nebezpečí člověk

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52b61922cccb207f8e8b18fcffc09b69c03b39e07b122f326d55c8de81ed0417
-size 53
+druh dozvědět spolehlivý nebezpečí platný druh

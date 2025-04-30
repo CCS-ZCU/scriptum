@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d1e8dfbbf04d929e9688b3347f268e2ea946e73abcb414f317737e60c1c1dd9
-size 115
+ Kněz je slyšel čistě a jasně a zdálo se, že i osel slyší ty tóny, které mu slibují teplo a bezpečí.

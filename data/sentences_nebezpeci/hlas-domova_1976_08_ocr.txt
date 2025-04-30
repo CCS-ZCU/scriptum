@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7380bcfff682372e19d016ffe1e1cfb5c11ef8f2dcbac421872280dc822e1c6e
-size 58
+počítat čínský nebezpečí přijít léta zlý úvod

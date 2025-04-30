@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e53ea0cf158be2cd56663c023e54aecf317ac2af8e9ea30b5b694390577abcf5
-size 1613
+ F410  PROHLÁŠENÍ SVAZU ČESKOSLOVENSKÝCH SPOLKŮ VE ŠVÝCARSKU K JEDNÁNÍ KONFERENCE O BEZPEČNOSTI A SPOLUPRÁCI V EVROPÉ 1.
+ V Evropě nemůže být zajištěna trvalá bezpečnost a nemůže dojít k opravdovému dorozumění a spolupráci, pokud všechny státy a vlády nebudou respektovat a důsledně aplikovat zásady Všeobecné deklarace lidských práv.
+ Bezpečnost a spolupráce v Evropě byly v minulosti nejednou ohroženy právě potlačováním základních svobod občanů, kteří v hnutích odporu v Polsku, v Maďarsku a nedávno v Československu povstali k obraně svých nezcizitelných práv.
+ Evropská bezpečnost a spolupráce závisí v budoucnosti do značné míry na tom, zda a jak budou tato práva obnovena a zaručena.
+ Konference o bezpečnosti a spolupráci v Evropě, jejíž druhá fáze právě probíhá v Ženevě, je pokusem o formulaci a aplikaci nových vztahů mezi zeměmi tohoto kontinentu.
+ Prohlašujeme, že evropská bezpečnost a spolupráce nemůže být reálná, dokud v některé zemi existují zákazy domácích i zahraničních kulturních hodnot, dokud existují indexy zakázaných knih a zakázaných tvůrců.
+ Kniha je také přínosem do debat velmocí o bezpečnosti v Evropě.
+ Konference odeslala poselství Socialistické internacionále a ženevské konferenci o spolupráci a bezpečnosti v Evropě.
+ září zelené světlo k založení «Výzkumného ústavu pro otázky konfliktů a bezpečnosti», jemuž již nyní mnozí novináři říkají «Mírový institut».
+ Každý má právo na život, svobodu a osobní bezpečnost.

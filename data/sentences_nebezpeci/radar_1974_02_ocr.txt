@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33e0d7ab89d0451eddb8929cf15cfe1bc59ff3dbe66e48ad926efcf80b8b6f65
-size 79
+práce namáhavý chlapec muset tápět mořský hlubina číhat nebezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f782d2ff067ca58a15a3da2a3fed671a1964b4b744dba859a65f0dedca68263b
-size 47
+šestinásobný zvětšený kapitál

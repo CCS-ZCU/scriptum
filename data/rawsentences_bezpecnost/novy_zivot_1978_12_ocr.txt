@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b3d24263108394fd8d05d7e0f50404ec94d52f61ee719820f3c7ef831b6ce52
-size 271
+ Článek je spíše naléhavým otazníkem, jaký postoj za nového papeže zaujme Vatikán, který přece podepsal také závěrečný dokument Helsinské konference, stran posílení míru ve světě, mezinárodní bezpečnosti, uvolnění a závodění ve zbrojení.

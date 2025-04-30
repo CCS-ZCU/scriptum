@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c00c01f9d03c07e7330df60dcd562b7be23ff9d6c05947e9a7bbbe9f486ca1a0
-size 92
+ Experti nórskej bezpečnosti našli niekoľko skrytých mikrofónov v budove vyslanectva.

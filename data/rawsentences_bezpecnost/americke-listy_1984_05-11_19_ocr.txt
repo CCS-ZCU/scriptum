@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11b8f6bbbb5806f14778c5a810a736735a1de5e404e6e13633ecd49f40b57fff
-size 271
+ Gelb, redaktor specializovaný na otázky národní bezpečnosti v The New York Times.
+ dubna se v Moskvě konaly sovět- sko-americké konzultace — týkající se stockholmské konference o opatřeních k posílení důvěry a bezpečnosti a o odzbrojení v Evropě.

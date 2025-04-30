@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a29ed6a5fcfb824b7517c836f1829329ab68e3f17edeecfec0792a7adbb79b1
-size 59
+záležitost zapojit československý státní bezpečnost

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b421ee57d4732dbc440a7193f20d501b10ce9159c76324e6dc934b804f63c2c
-size 57
+atraktivný sto jednotlivý akce EFD bezpečí objevovat

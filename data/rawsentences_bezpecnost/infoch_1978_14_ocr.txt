@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f1526046062ed92ee0dfb6df4fb41c60256dc2709b3948b22b049dbf4df5122
-size 3098
+ První dokument tohoto typu, kter^ř vydáváme, se zabývá problematikou bezpečnosti provozu jaderných elektráren 7 wSSR» domníváme se, že jde o téma neobyčejně živé a důležité, jak o tom ostatně svědčí stále se zvyšující zájem, kterému se tělí v mnohs zemích.
+ Tyto vlsstnostáž má zejména ra- dioizotop jodu, který se hromadí ve Štítné žláze, a izotopy radia a stroncia, které se usezuqí v kostech« Všechny tyto látky jsou rovněž produktem reakcí používaných v jaderné energetice, odkuö se dostávají do okolního ovzduší, řidčeji do vod a půdy* Pří úvahách o bezpečnosti jaderných provozů se ODakovanč zdůrazňuje, :e neexistuje idná dávka záření néškodná pro organismus, n|bot i iainám^lií o- záření může vyvolat některé z uvedených následků.
+ Kvalita prevence těch» to havarií a úroveň prostředků na odstranění jejich následků jsou proto rozhodujícímisfcfconfjt faktory pro bezpečnost jaderného provozu.
+ Kapacita těchto zařízení je však omezená zejména proto, ;e údajně funguje jen do urřitého stupně ha- variep ííezajištují bezpečnost při maximální možné havarii, za nif se ob- - výkle povahují* rozhodnutí primárního potrubí.
+ Havarijní bezpečnost je zajištováns kryty na kritických částech primárního okruhu, odkud lze unikajíoí radio- aktivní látky odčerpávat óu čtyx havarijních plynojemů.
+ V provoze, jehoí bezpečnost závisí do z»ačné míry nejen n£.
+ Klíčově postavení pro provoz a jaho bezpečnost má operátor reaktoru.
+ Za naléhavé považujeme, aby obyva- telstvo v cbdtix okolí jaderných elektráren bylo informováno o charakteru pro- vozu a aspektech jeho bezpečnosti a aby byly okamžitě zveřejněny informace o dosavadních nehodách, jejích příčinách a následcích.
+vu, kdy společnost není ilifomována o r^icích jaderných provozů a prp případ, že i v budoucnu se rozhodne jadernou energetiku rozvíjet, považujeme za nutnéj Informovat veřejnost o všech aspektech bezpečnosti provozu jaderných elekt- ráren včetně statistických údajů o zdravotním stavu jejtch z.
+jaěstnanců a oby- vatelstva v jejich okolí a tuto problematiku žahrnout do školských osnov, - Zajišťovat dodání kompletních podkladových materiálů a projektů a zpřístup- nit je širší odborné veřejnosti, aby existovala nezávislá kontrola z hlediska bezpečnosti provozu.
+ - V zájmu důsledného dodržování provozních předpisů a respektování bezpečnost- ních limitů a radiačních předpisů zavést a uplatňovat zásadu, že v případě, že byl některý předpis stanoven zbytečně přísně, nemá nikdo právo jej porušit resp.
+ Státní bezpečnost si volá návštěvníky k výslechu i" do- datečně, Veřejná bezpečnost posílá do zaměstnání hlášeni, že občan byl "kontro- lován" v pracovní době.
+ Bití osob zadržených orgány bezpečnosti se neomezuje na jednotlivé případy, ale nabylo povahy policejního srmosoudu, 4 -pěného politickou mocí.

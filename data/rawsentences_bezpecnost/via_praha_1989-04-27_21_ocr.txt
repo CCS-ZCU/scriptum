@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ade3862fbd6b53d383921d3f32c20afd5f2b771310fc0b5c240f3d2a4f6fc548
-size 109
+1989 londýneskému informačnímu foru dopis, v němž popisuje zásah Státní bezpečnosti které dne 23.

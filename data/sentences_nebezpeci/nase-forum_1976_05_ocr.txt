@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d559f9cca7cdea190113e8832e1a6cd907bc7a05d7b19a34a81bb6c61a86029
-size 34
+moci nebezpečí čas stát kněz

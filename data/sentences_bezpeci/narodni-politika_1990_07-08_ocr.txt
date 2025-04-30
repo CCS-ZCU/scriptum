@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ff68102066c1b927453f686232e4d76d9f47ae3ec4a5f44f9b9a312a994788f
-size 71
+nedostatek prostor řadový knihovník Univerzitka nést zodpovědnost

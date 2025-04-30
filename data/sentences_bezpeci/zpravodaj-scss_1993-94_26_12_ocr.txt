@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4c2c0e56c8b382d5a1245b5d36f0e12493d938afd95725961eac20db53620d4
-size 102
+znát výhoda třetí sloupec jistota
+Pony svobodný bezpečí zvůlě stačit mentorovat celý svět

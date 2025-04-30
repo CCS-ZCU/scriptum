@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b938bfa7ed55623f1adc81071b87961e96e1143ff2367481775ffb1310b27b84
-size 106
+pomoci zdánlivý štěstí odňatý možnost činit dobrodiní způsob chvályhodný prokazovat přítel

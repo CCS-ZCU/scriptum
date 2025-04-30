@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a92a58848b54c420a5782d4d651af23b2b063b3c79af33729092602a386753a
-size 189
+1999 Cibulka: Na silových ministerstvech jsou bývalí pracovníci StB Řada agentů bývalé Státní bezpečnosti údajně stále pracuje na ministerstvech vnitra, zahraničí a obrany.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3ece19f4df42f91c3201f887bd240d7aa70bde88fc65fb955afc6cace2d6fbc
-size 110
+ Ve vyšší o- běžné dráze mohl být Saljut v bezpečí tak dlouho, pokud by se závada nebyla odstranila.

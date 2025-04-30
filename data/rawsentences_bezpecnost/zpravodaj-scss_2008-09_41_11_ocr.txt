@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a37d454f0ef106951584569d41bec8e1d33ac8917e64b2896c2dd3793a226ace
-size 223
+ Badatelé z Ústavu pro studium totalitních režimů na svém webu zveřejnili fotokopii záznamu Sboru národní bezpečnosti (SNB), ve kterém figuruje právě jméno jednoho z nejznámějších českých spisovatelů.

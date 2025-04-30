@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:056d70a34012438151108d57512091bc384e677ab916cdaf846d1e0079b8e691
-size 36
+ Moje rodina již byla v bezpečí.

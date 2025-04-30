@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79f0b2b60f558a3676ee3490a0edbb49c40b9ee631a6ceddeaa5109590c9104c
-size 104
+logika rozum konec bezpečnost vyzbrojený plzákovský metoda odhalení pachatel hračka pouhý rébus

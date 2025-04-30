@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6369154e294148f84ab599857134811820fa1c6358d1c0cf3dcdca5cdcf003bb
-size 148
+ Slimáci jdou v absolutní tmě, to kvůli bezpečnosti, jako tajná policie a s prvním kuropěním jsou už dávno v bezpečí svých skrýší.

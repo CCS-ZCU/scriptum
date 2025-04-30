@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8be87900d26157f170b1b1fc889f7d54b638ba9d82d834b6d785ec804b2ead49
-size 271
+ Irena Osi- pová píše v předmluvě, že v knize jsou shrnuty výsled- ky jejího pětiletého bádání v archivech KGB - ko- mitátu pro státní bezpečnost - a v archivech minis- terstva vnitra bývalého Sovětského Svazu, které byly před tím nepřístupné.

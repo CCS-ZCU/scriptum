@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc914f80fe68ed3b9a9181551280890ad287a8fe21a3e66704f528ae4bef360e
-size 73
+lidé chtít dobro spravedlnost bezpečí uskutečnit dálný budoucnost

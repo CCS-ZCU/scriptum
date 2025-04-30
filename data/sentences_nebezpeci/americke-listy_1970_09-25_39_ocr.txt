@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aab617dbacef569d876567badd8c68d026956d20de28ac2ac1f0836acba6659e
-size 60
+slovo skrývat dvojí nebezpečí
+hrozit velký nebezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ce4eba5d7e2ee2f5b4203a19faee65b37f1d3ebc9d99e2342d2f1179755cec7
-size 107
+ Snížit nadbytečnou zabíjecí kapacitu zní sice ekonomicky dobře, ale málo prospívá bezpečnosti.

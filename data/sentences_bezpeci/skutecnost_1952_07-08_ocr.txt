@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:606b7fb94682a5d8eafe2c53d5467370182db48dea7acc40005d1e871a845e54
-size 59
+cítit bezpečí myslit stačit vzpomenout doba rozhodnout

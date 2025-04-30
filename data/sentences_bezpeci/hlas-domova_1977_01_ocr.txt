@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39a2e1b69d91183f73c31077d8d8575cb6fc6ed2bfd8ecd1c4c2de986a1d2d3d
-size 98
+vysvětlení situace stačit mít prosba jméno uveřejňovat moci ohrozit bezpečí pře buzný

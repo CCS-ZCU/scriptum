@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:502ca9f1dc2a696ea01ce2723b2894496c0c369240c9acb56a23ee9ed81c2eba
-size 18
+prosit léhavý

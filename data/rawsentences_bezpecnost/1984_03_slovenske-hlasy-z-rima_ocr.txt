@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:526254191b83c126f146cb24431ad5f8ca882c6a474219b8ef3cb7e6c7407ad8
-size 112
+ Z Prievidze ho previezli do vyšetrovacej väzby krajskej centrály štátnej bezpečnosti v Banskej Bystrici.

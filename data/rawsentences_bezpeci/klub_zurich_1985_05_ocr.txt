@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d29aad43d47f07c40435ed88101636522eeae786b0631f226879d8acb7c55fa3
-size 29
+ Děti jsou tam v bezpečí.

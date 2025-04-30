@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dee64c94aa2b40c377301c50396a3650fc57e3eb3b1c109a08137669ad27f83c
-size 8
+kuřák

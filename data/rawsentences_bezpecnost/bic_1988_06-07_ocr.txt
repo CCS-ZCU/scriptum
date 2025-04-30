@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74fc032d9ac32f0189cdb32b56905d5643791ea95eac91e8884917c834f4e94f
-size 90
+ Na vedeni Veřejné Bezpečnosti hledali odborníka pro horolezecký výcvik členů VB.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14c04087b977adca22916e129dd746bbc74ef9dfb621c534a62e95020e94cecc
-size 42
+rodič hořeo vyčítat vydat nebezpečí

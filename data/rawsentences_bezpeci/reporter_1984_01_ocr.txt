@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46f9d6c15d7b4ae3355fa4d43d2cdad068f72f531b6fd0359d1eb87f446737aa
-size 131
+ Armáda také dosáhla poměrného bezpečí od KGB — velmi důležitý výdobytek s ohledem na jisté historické zkušenosti.

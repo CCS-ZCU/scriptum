@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f155562f0f7bdbeb4b285fae72711c35e3fabb8c8a7779c1c615e7ec0f050649
-size 128
+ Jednou například vběhl jeden agent bezpečnost i do budovy kam jsem mířil ještě dříve, než jsem do ní vkročil já.

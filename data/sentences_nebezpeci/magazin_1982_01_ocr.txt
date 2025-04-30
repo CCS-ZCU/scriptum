@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15d3a2cafb7f67a830f3f615dfb58f20603e1d0491fffc7d71383e1859aba35c
-size 100
+hlásit nebezpečí najít
+vznikat mimořádný nebezpečí potlačování informace část planeta

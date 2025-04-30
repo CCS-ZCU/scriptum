@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d4a6b5e2080d444286a372cc38a12e1403052ef4522a795022ea37b3e79516a
-size 240
+ VÝZVA Stěžujeme si téměř všichni na drahotu, na vysoké daně, pa byrokracii, na stovky různých vládních a státních instituci, vysoké sazby nemocnic, na hrozivé poměry bezpečnosti osob i majetků, na nízkou morálku atd.

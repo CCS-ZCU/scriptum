@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15f7e338db92ae0c681321082ad6e621affaec03b7cbf1198838462f9dacdc1e
-size 482
+ Belehradská konferencia, ktorá je pokračovaním Helsinskej konferencie o bezpečnosti a spolupráci v Európe z roku 1975 mala skončiť koncom roku 1977, ale nebolo dohody o tom, ako formulovať výsledky jejích jednaní a ako ju uzavreť, tak bola 22.
+ listopadu na právě probíhající konferenci o bezpečnosti a spolupráci v Evropě v Bělehradě: “We are a nation of immigrants, people who have come from all over the world to participate in the promise of America.

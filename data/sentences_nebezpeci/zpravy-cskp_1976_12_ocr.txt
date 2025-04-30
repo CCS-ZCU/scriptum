@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ab43b8b2eba27bfd084f04685fafbb3ccc3732a0991d35297a8e8b8fa861b32
-size 22
+celý svobodný svět

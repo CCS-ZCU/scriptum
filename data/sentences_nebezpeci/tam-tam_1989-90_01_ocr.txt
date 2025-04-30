@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ef93f6c7cdbb1544cc0b27edf7595cf4bda67ae67b3fd96f9108bcd5216bc74
-size 50
+vidět skaut nebezpečí hrozit dát odvést srub

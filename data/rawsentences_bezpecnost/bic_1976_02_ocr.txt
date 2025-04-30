@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d142b64e1f780cb1dfab6acdf7de4aad12cae180a5c75e329d619db4ca60bc8a
-size 69
+ K případu se dostaví dva příslušníci Veřejné Bezpečnosti.

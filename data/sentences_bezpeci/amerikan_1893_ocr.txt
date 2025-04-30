@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ccda8c852e5ebec376068581392065c4a9090e919f5980a5480a1ea67876122
-size 49
+střílet vzpomenout bezpečí
+bezpečí svoboda

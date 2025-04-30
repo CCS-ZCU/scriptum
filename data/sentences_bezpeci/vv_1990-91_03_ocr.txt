@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab0273d778de9f80921d868e79f87eccfd336e21b1bf7812177cbf6f35ed8e9c
-size 49
+moci počínat klient cítit naprostý bezpečí

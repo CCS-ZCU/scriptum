@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2947ab313934be79b7e1e62cf0e5ba00e197f82844d700c57b3959ccf3c0f8a
-size 82
+čeština písmo mít psát Štěpán úsek zajímat místo žádat rukopis psát

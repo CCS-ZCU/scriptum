@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d40fa1e6c0ac8156b9021d50df701979926aa639794282e0d51866b00dd4363
-size 358
+ Byla to obyčejná lidová hospoda s líným, netečným a často měněným personálem, hlučná, špinavá a připomínající nejspíš nádražní restauraci, ale chodíval sem už léta, protože se zde cítil v bezpečí.
+ Uklidnilo ho to, poddal se pocitu bezpečí a nechal hlavu klesnout na hřbet rukou, jimiž třímal rám sedadla před sebou.

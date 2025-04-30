@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5342880ce4457a0f71273ee8857d86307b750dadf8ca09ba46f24037691be89d
-size 192
+ “Dál podnět k šetření ve věci týrání svěřené osoby, využít k tomu i příslušných institucí a zařízení (Kruh bezpečí, dětský lékař, policie v místě bydliště).

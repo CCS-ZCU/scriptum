@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4320516bf3b1edb00b4ec14cb158a6ecd14a60e84f003429a38625f3805b5bf8
-size 129
+ nnn 17  zpravodaj 2 / 2004 Spisy bývalej Štátnej bezpečnosti ešte stále nie sú úplne v rukách Ústavu pamäti národa.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c15315742bddeea9881a9fa312123ce02a14a334e39a10458fdfca68de1efc5
-size 133
+ Chalupoví, CNCA, Chicago, při konferenci o bezpečnosti a spolupráci v Evropě, která se konala ve Vídni, ve spolupráci s dr.

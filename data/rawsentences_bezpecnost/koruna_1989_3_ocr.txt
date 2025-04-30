@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:edcbe1eea11a9f99a3cde22f608b9f10446237074b5343b2c5b929d6602faec0
-size 125
+ Bylo to show pod názvem VB - Veselá Bezpečnost a zpráva o něm se během dvou následujících dnů rozlétla po Praze.

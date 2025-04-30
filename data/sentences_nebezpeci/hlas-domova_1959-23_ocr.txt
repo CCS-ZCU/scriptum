@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cc2079c830442aaf647c16b247d57adc4deea4f2ea7a8ca21163a4f52240b02
-size 70
+stil skotský hrdina Špa nělsko velký nebezpečí rodný Skotsko

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b60082d20c11a355eb7a6faf510cbb4ae0e905361e8fd86bf77aaf68d1f0708d
-size 101
+ Váš člověk pojede v bezpečí a my už si s lotrem poradíme, když ho dáte dobře přivázat.

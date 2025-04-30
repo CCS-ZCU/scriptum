@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:668b77c1752d7f10f8d3973bd598050f9be98c12e7704f98f172050ba85607de
-size 94
+ Okolo puku patrolovali s oboch strán hliadlcy Verejnej bezpečnosti v bieložltýoh vozoch.

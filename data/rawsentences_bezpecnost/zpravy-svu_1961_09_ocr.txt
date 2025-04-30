@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7297a26c75844a45e99f1fd5b3a3eb4e30061ca85e30bc0a04893e269d72ffad
-size 190
+ Tedy posláni české literatury: světovost, dychtěni po světovosti, vyrovnané a usměrněné láskou k zemi jako ke kotvě bezpečnosti, k velkému středu vši činnosti člověkovy.

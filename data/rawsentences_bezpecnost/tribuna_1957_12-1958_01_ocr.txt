@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92a8cb734304e771a9a8b72d4a316d2d4a6956d5cf4159f2724c6dbfa08cc166
-size 630
+ Naše národní obrození bylo od prvopočátku motivováno touhou sloužit lidstvu a neseno humanitním, nadnárodním ethosem, který rychle krystalisoval v požadavek politické demokracie a sociální spravedlnosti doma a v podporu kolektivní bezpečnosti a vlády práva a ne násilí na poli mezinárodním.
+ Zde je vysvětlení skutečnosti, že z tmářské, reakční společnosti rakousko-uherské se náhle vynořila pokroková demokracie, která v mnoha ohledech byla příkladem demokraciím západním; i skutečnosti, že ze soukromopodnikatelského systému se přes noc vytvořil stát sociální bezpečnosti.

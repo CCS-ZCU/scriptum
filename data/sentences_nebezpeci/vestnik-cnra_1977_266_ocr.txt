@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aef140f95eec64f23f3bfd7cbe288ff091d2118194899126ee3bd9e8eb8e1a4d
-size 89
+pomoci nemocný uvrhnout nebezpečí
+moci očekávat dlouhý léta nejistota nebezpečí

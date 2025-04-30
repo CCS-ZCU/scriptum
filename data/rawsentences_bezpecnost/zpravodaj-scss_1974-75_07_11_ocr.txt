@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4567def1b6ac274e6134f370ee3a1c7a09db276fb67515150092188638c8c454
-size 464
+ Rigorózny postup našich pasových úradov pri cestách na Západ mohol by súvisieť s dlho pripravovanou konferenciou o bezpečnosti Európy, ktorá akosi prešľapuje na mieste a na ktorej Západ žiada uvoľnenie informácií a usnadnenie cestovania do zahraničia.
+ Před zasedáním Evropské konference pro bezpečnost a spolupráci v Helsinkách vydal informativní studii, kterou Sbor rozeslal všem západním delegacím v Helsinkách jakož i parlam.

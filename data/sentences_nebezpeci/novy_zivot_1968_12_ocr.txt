@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17d05979f65e4a873e373d6277080e10d0bda9ac18472384f9705026cffad9cd
-size 56
+ukládat možnost úkol odpovědnost nebezpečí bylout

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38d05566e052d5c25cdd0c8c7283193e6e12b79d751fd7c4ec3af32f79bd0634
-size 548
+ ročník Rita Kämpfer rozhovor s výtvarnicí  Byty Ikk, 2kk - nájemní bydlení se službami pro seniory Otevřenost vůči veřejnosti, bezpečnost a soukromí pro klienty Výborná dopravní dostupnost do centra Prahy (trasa metra C, zastávka Kobylisy) Asistenční pohotovostní služba Praktický lékař a psychiatr přímo v objektu Aktivizační programy, knihovna, multifunkční sál Kavárna, restaurace, kadeřnictví, manikúra, pedikúra 24h tísňová péče a ostraha objektu Střelničná 1680/8, Praha 8 | info@rezidencerosa.

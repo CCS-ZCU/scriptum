@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a0419f9c119dc00b3991ff77a05bd22f484ffad3f71c771f181573414b71940
-size 42
+bezpečí soudruh Barešo jedlit zapomět

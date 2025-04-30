@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aeacb756a8e9ea7085bc5a012d23f9ffa566c37e0d203326477db4fac10d87e3
-size 87
+  — 640 — KDE f a t JAK Vaše peníze jsou uloženy, rozhoduje jejich bezpečnost.

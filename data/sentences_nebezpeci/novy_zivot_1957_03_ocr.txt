@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:229e42a7d61a5993e18b51b6181dddf0f8752ab9c9323da05056d93fe1547a6f
-size 29
+františkánský nebezpečí

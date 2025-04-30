@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:83a10463f651f6d2b46f090d90f90596373d82fa976f3b9f39b38288a8aaf16a
-size 109
+bohatost princip zvyšovat bezpečí princip platný celý myšlenkový systém spočívající stát písko

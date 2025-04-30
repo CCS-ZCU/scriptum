@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4ad4000a5471ca4a28dae54c55f8dc049e59d223dcd2b4d36c93dc5db5801e3
-size 107
+ Svědkové po- tvrzují, že po útěku z CSR Havelka žil v stá- lých obavách o vlastní bezpečnost.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d66135211beafba70ee694aab15a9979d156cbb2e0ab6a02b50fa6db63fcf571
-size 39
+domov skýtat bezpečí domov slibovat

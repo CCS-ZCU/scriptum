@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1de98da883cb2b51ba7514de3a89dfcaf72de569147c3336bd1d5f0434fcbb9d
-size 145
+druhý zapomenout hrozit vážný nebezpečí okresní soud

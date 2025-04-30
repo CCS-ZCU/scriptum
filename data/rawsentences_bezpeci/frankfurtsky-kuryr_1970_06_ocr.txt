@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54c9c0b8f81dc798e1640f99993091145723e1f71780b3fc8a74cec163ce4867
-size 149
+Borkovec,ale zdálo se,ze už dávno někdo ztratil své mládí a že rád vyměnil riziko zvídavého myšlení za podzimní pohodlí a bezpečí.

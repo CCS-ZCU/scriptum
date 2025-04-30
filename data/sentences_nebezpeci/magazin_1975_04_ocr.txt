@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b79d56c06178af1645eaf864fce8b612626bf8c6a14fd55b9d1f1a83ceb3a0c1
-size 52
+ctnost zůstat povšimnutý Kdyba závist odhalovat

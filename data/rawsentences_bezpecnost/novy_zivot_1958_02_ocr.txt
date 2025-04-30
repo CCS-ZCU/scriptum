@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac9acf62dc97384737853c35545a6a20c14d4cbf5cf681639d99220fe3e9a19a
-size 117
+ Od konce poslední války spočívala bezpečnost západního světa na americké převaze v atomických zbraních.

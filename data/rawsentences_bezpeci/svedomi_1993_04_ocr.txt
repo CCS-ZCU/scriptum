@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84c149779584c97389cc047e8ef1e722ac8675ffb1a6d4564f623f22f9387b3c
-size 82
+ Ten se měl starat o jeho "bezpečí a bezpečí spolupracujících organizací.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d78a997748ec087544a9efbbd1f7c186202826e8eb4bc986d5e66ff38efd3f3
-size 212
+a my, kteří žijem zde v bezpečí a máme příležitost živobytí své vydělávat beze strachu, jsme vyzváni by aspoň částečné jsme naší povinnosti dostáli a pomohli uskutečnit sen našich otců.

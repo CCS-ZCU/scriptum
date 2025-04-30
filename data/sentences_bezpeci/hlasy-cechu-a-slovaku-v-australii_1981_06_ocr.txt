@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f007044f7d0c8e13d810adc32769df820a6969be6dbdcf3f0bebf8d9c6ce139
-size 92
+známý chtít stavět dům muset předložit magistrát plán schválení bezpečí spást

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba3e1f4b43a7f194ff72af019cab31f6bdbc2172e3a1461e4cd1510b81dceb9f
-size 29
+mluvit nebezpečí ciha krok

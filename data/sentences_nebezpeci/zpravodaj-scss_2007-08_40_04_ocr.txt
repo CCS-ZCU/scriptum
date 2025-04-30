@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:588c5ef6b91bf7d1f0738db04c58de88c87df7f6b55194fd7480204d52ca32bd
-size 67
+hrozit Tatra velký nebezpečí Španělsko Francie velký požár

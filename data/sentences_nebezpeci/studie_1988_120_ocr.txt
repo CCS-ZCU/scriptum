@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd80fd399374d75a636dd09298103527e7116faae29551f3e2289a4317caf224
-size 37
+nebezpečí pominout slib zapomenout

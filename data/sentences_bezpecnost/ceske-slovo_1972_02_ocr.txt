@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:714137c93c8877ad7b442e06c3c227fed83b50966ac3e28b42f53d9772b5c576
-size 45
+evropský konference bezpečnost spolupráce

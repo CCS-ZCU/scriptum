@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9047e4e2543e3a95a7a9c20c935c21cb0ada452daf5766320bdfd94ea0620799
-size 242
+ U Veřejné a Státní bezpečnosti je místo hodnosti rotmistra a nadrotmistra hodnost strážmistra a nadstrážmistra, takže pořadí hodností pak je : rotný, strážmistr, nadstrážmistr, podpraporiík, praporčík a nadpraporčík.

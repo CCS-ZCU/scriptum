@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ad8a225980e1c09df16b7d1a223ea5f0772b01ab24f241e7a762b0bb36b9073
-size 50
+ Ochrana a bezpečnost: (Punť a, Jestřáb) XIV.

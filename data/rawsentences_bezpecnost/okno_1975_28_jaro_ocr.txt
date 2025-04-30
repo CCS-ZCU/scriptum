@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d05b35f87ee30773b5f367bf1381e6326e5b8df2f510b3a22166535ba9a1aac
-size 184
+ Státní bezpečnost v Praze zřídila po desinformačním oddělení "D" novou sekci - DRAPO, čili DRby A POmluvy.
+ Bezpečnost jim systematicky kontroluje veškerou korespondenci.

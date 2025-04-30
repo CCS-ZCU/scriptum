@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a25ab9fd0438e6df0f6169bcb458b72c6fcaae9033695bf5b996e7d00323a98b
-size 86
+myslit Gramsci navazující italský tradice frankfurtský škola maďarský marxista

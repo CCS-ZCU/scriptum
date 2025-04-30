@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef073dad27e9249e4911b89900dd4da7e9c090525c5fe7e81e962c3e273c248d
-size 49
+situace rozvíjet deformovaný mezilidský vztah

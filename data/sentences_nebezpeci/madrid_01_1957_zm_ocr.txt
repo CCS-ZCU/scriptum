@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76219927b3236db71e88b91327bbd3a02e140ac9fc35b6c03b649699aa86a440
-size 29
+lze stisknout zaťatý pěst

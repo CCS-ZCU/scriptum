@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3740c28abd547a0d2fefff9056d7b432eb4ce05330bc3814c3f54d795207b56e
-size 230
+ Dále je věnována nejmenovaným, jichž autor vděčně vzpomíná, kteří náležejí mezi hrdiny národního odboje, ale trpěli pod komunistickým režimem a proto nelze udávat jejich jmen s ohledem na jejich bezpečnost.

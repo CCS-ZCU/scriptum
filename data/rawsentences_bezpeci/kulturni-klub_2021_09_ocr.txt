@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f27f7a503ebb4649557fcf7cf655b5b4ca7d16ee9d86ba87db7c2b654298a9b5
-size 238
+ „V roce 2020 jsme nestáli jen před úkolem udržet samotnou existenci OKD, ale i obhájit naše kroky, zachovat lidem alespoň dočasně práci, ale zároveň pro ně udělat všechno, aby se cítili v bezpečí oni i jejich rodiny.

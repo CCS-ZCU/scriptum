@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d17833d52b86b90c245eb8a43481066c0779883a6a97693c4bec769f00691996
-size 176
+ ♦ "Češi žijící v zahraničí se nepodílejí na tom, jaké mají být daně, kolik se má ze státního rozpočtu dát na starobní důchody nebo bezpečnost občanů.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64588cbd7383a6197ce2229140e20d216d2cf909049f331bfadaa0e10f109043
-size 76
+Malinski: Jak to začalo Apoštolově žili v pocitu naprostého bezpečí.

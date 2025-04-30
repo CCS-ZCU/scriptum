@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a88e08a1d6b5d6eefa60d1d37543ad8f06244daad5c504f0370d627f90ecb0ed
-size 140
+ Nuže, my tu máme člověka, kterého — kdybyste potkali k večeru — zrychlili byste krok, abyste už byli v bezpečí svého domova.

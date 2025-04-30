@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdc82c82cf1045f35405baa776c2e5aa647b7e85cc8ee01e35522bf2e1643fc8
-size 181
+ PCl/vm SNB PROTI NEUVEDOMELOSTI Armádny generál Karol Bacílek formuloval na schôdzi zamestnancov ministerstva národnej bezpečnosti úlohy bezpečnostného aparátu_takto: 1.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ae74762c152de20f7d35d84b0a9453c2e015de17105ccb71daaa4afae5c7586
-size 34
+Evans Novak podařit Kissingerův

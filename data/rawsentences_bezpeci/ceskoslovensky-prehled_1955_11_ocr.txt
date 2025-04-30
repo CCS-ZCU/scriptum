@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a19cf6d8d45e5e2fc622bd9f9920a86177501c2e27b65496633d18baa36ea11a
-size 147
+ O statečnosti se mluví obyčejně tehdy, když jsou věci v proudu a když je třeba zasáhnout bez bázně a beze strachu o osobní bezpečí.

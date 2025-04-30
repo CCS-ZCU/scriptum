@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65f2c77358790d202d5061a04199c4b6c4317e708624473522310287dfa6c3e4
-size 319
+ /2/ Zajištění nesmí trvat déle, než 48 hodin, /3/ O zajištění, Jež trvá déle, než 48 hodin, vyrozumí příslušné útvary Sboru národní bezpečnosti, nebrání-li tomu závažné okolnosti, některého z blízkých příbuzných zajištěné osoby, a jde-li o vojáka, jeho přímého nadřízeného.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3370bf6c88eb8f008b42d1bb74aa5342962a5c03fc3e464c55c270fa7b3dc36c
-size 689
+ - Mekteří pediatři doporučgí, aby matky zpívaly usínajícím rnslým dětem, nebot povědomý matčin hlas signalizuje dítěti majícímu zavřené oči matčinu přítomnost a vnuká mu pocit bezpečí.
+ Se všemi nemocnými lidmi v Rakousku děkuji proto v tuto chvíli ze srnce všem lékařům, sestrám, ošetřovatelkám a ošetřovatelům, kteří slouží zae v tomto domě milosrdné lásky a všude v zemi věrně a obětavě, nekuji všem, kteří zde i v ostatních nemocnicích, v domovech v z*odináeh skrze své sebeobětující nasazení přispívají k tomu, že utrpení se mírní, nemoce hojí a starí lidé jsou znovu naplnění odvahou a pocitem bezpečí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9881da3afff5ec03ee4871e48a76104dca7c6ff867fa34b1703ff0c8cb160270
-size 635
+ Syn hlavního protagonisty inženýra Hlaváče má sice jisté pochybnosti o bezpečnosti jaderných elektráren, jeho obavy však briskně rozptýlí jiný osvícenec, tentokráte lékař /a autorita lékaře je v běžném vědomí přece jen autoritou nejméně spornou/, který sdělí, že atomová elektrárna je asi tak stejně riskantní jako každodenní sledování televize, která přece taky produkuje záření! Syn Rosia, v podstatě slaboduchý estét, tak jej alespoň prezentuje režisér, si dokonce dovoluje srovnání - »’minulý věky stavěly katedrály - my stavíme betonový škatule, jako třeba táta.

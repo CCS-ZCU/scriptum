@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20a96fb56f133382c7965196da28c219c860483f303a5e5f66edf7afd1788b71
-size 74
+ddie: "Osvobození od bezpečnosti < bezpečnostních opatření, zékor.

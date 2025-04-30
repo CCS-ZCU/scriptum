@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e7ed6d96e3dfdc9b1015e2fa35e48617d6353f9e805cea273160241944cb92b2
-size 638
+ 40 - červen 1966 /Teoreticko-politický občasník/ Obsah tohoto čísla: Helsinky a perspektivy vývoje k celoevropskému společenství /Jiří Hájek/ Podklad pro diskusi o odpovědi na "Milánskou výzvu" /Jaroslav Šabata/ Stanovisko vzniklé v prostředí Charty 77 /43 signatářů/ "Výhrady" ke kolektivnímu dopisu do Milána /Petr Uhl/ Poznámky k signovanému textu /Luboš Kohout/ Vídeňská výzva socialistiek internacionály z října 1985 Jiří Hájek Helsinky a perspektivy vývoje k celoevropskému společenství Při podpisu Žávěrečn ho aktu Konference o bezpečnosti a spolupráci v Evropě v Helsinkách 1.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee4e1bd42c426d4e6866f682ec47a1b05d6915a06e7db31568753c11479435b5
-size 27
+střežit policejní stát

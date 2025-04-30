@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f1f8a5e453e76492ac86e86ebec9e54b66f88c95a4684230bdbb25f931d4a16
-size 19
+kyperský kontrast

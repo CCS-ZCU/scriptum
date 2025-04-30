@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e4af8427d30ca901cf5e3a9f244a86db9e15fb02d6ffdc1b1f9494c34295a6a
-size 136
+domov kousek svět člověk vybojovat vyhradit blízký obestavený zeď chráněný pouhý stanový plátno nacházet úkryt bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b268801080d00a14e542ac99f8fc3894c2978c9b30828548828976fedec8a8a6
-size 38
+jmout dispozice koleno druhý třetí

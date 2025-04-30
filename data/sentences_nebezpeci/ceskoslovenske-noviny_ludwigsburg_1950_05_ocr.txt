@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:070352d7352e66c7467bae3a9c46fe963c731d843050baf9636b35db0410d40a
-size 87
+brněnský studentský demonstrace první varovný výkřik nebezpečí rýsovat obzor

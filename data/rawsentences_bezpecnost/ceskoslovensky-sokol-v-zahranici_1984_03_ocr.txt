@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71d22819c28f3b51eaf819c3133f56ade8dbac50d1e60a77186b58ef97e6e6e3
-size 156
+ Následující léta byla poznamenána velkými spory mezi majiteli dolô a horníky, kteří majitelům vytýkali nedbalost v bezpečnosti provozu dolfl.

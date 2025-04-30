@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe12836f7326da29f04a8841aa00221b3395f6fa4ded8e29131d539de6e9123b
-size 419
+ Pocit jistoty a bezpečí, vědom í svobody, povinnosti odvahy a myšlení .
+ Protože — Proč ? řekla Emoke a zadívala se na mé pronikavě a zase se na mé zadívalo to zvířátko, ale tentokrát jako by mu někdo něco bral, nějakou iluzi o lesní svobodě, o bezpečí zelených houštin, jako by se dívalo do tváře divokému dravci, o jehož existenci ve svém zeleném a slunném světě do té doby nevědělo, netušilo.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf3460ba203bfbeabb1fbae9d1af1b786f484d84119525ad391ddd0739d920ef
-size 47
+domnívat Sacharov přímý nebezpečí život

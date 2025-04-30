@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca58507d07a049d5498022e727a94cdd5a2b75e0dbbf2e5c88cfeafcab33ccf4
-size 68
+ „Tedy nic, co by ohrozilo provoz stroje nebo bezpečí řidiče.

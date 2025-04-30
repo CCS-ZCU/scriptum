@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c576b917e0b8bfda0230a732fbf18757bedb191fb58bb98a1e56ddd2124f13a
-size 48
+Siam poměrný bezpečí vyřešit krise Formos

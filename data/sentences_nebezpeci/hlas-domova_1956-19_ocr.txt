@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:851966cee420c313e739d7d96d6ab8ea8418b7c88f6a912436aeaf9e6137777b
-size 61
+muset dokazovat veliký nebezpečí hrozit západní svoboda

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bfb126fb46d2f86411760e71b14dcaa312f2aa5a8e3d7c3bbd25cfc812593aa
-size 58
+kaplanovat různý místo arcidiecéze olomoucký patřit

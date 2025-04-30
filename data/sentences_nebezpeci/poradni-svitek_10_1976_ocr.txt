@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ad0933e59f3e03883a8d96da71d796ef69d364891467054656509d9396dc6c6
-size 129
+znát nebezpečí ohná plyn voda znát výstražný značka nebezpečí úraz litr
+znát nebezpečí tetan znečištění rána

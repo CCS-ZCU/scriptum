@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93138395c5d84be858f7f24863c6f8b23233fa219905236c3ccfe7d0cd336e45
-size 33
+sovětský politbyro potřebovat

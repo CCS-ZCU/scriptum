@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d67a37489dbca4ac8883ca50b3e87b3dfc3f14e71d9a81016ccc0f38faad1fe
-size 204
+ Pocit bezpečí se odvozuje od pozorování, že někdo jiný si troufá.
+ Drahé a moderní vybavení přejezdu navozuje u řidičů falešný pocit bezpečí, či dokonce „přehnaného bezpečí“.

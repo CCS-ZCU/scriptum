@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d957cf602e998978ca180e23a73f24350ee2a5234d083420e3d5421a663be63
-size 67
+silný přítomnost dálný východ žádoucí žlutý nebezpečí

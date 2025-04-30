@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29b410c69fc76ca28fb061c43e74e19dbcc52bd3d0ad670eb7b9bc5dd18ce7be
-size 72
+ A když se s našimi sejdeš v bezpečí, všechny ode mně pozdravuj.

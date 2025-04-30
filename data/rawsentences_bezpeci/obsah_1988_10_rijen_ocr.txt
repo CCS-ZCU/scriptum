@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89ab57173623be70a1a7a8e9e27cff063a57095240fe9c5353b5a84b1f107ebc
-size 65
+ spočinout v bezpečí jistot, přijioit uklidňující pravdu.

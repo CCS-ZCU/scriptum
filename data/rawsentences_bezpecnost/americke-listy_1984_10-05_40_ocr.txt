@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0df304365daba93f61cb37896f30b8bb5c7ae0e9f170d275f2e9cc232bdb062c
-size 154
+ Jejich cílem má být odchod izraelských vojsk z jižního Libanonu výměnou za záruky, týkající se bezpečnosti iz- raelsko-libanonské hranice.

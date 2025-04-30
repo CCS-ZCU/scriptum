@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65358f61f4e22ada69a63089b444f8117a1d4ce5d9ac56db66c3dc2dcfd86bbf
-size 669
+ jp Grossův důvěrný přítel byl 11 let agentem StB Mezi důvěrné přátele rodiny premiéra Stanislava Grosse patří muž, který byl jedenáct let agentem Státní bezpečnosti.
+ Slovenský Ústav pamětí národa zveřejnil první registry StB Slovenský Ústav paměti národa (ÚPN) na své internetové stránce zveřejnil první část registru svazků bývalé komunistické Státní bezpečnosti (StB).
+ "Otváráme archivy Státní bezpečnosti.
+ Vypracovali jsme způsob, jak zpřístupňovat materiály StB osobám, o nichž Statní bezpečnost vedla zápisy a dnes jsme zveřejnili první dávku registrů," řekl novinářům šéf UPN Jan Langos.

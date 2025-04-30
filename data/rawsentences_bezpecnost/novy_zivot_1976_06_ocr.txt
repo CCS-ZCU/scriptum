@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb162771ac264dfbd09692ec8b67c0b22a36125c0d18928974983ff922f5454a
-size 201
+(?) * Ústavněprávní výbor ČNR se zabýval novým vládním návrhem zákona o civilním letectví; zavádí se Ozbrojený sbor ochrany letišť, který má zvýšit bezpečnost letecké dopravy.

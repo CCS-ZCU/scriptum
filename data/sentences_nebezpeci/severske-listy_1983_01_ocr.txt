@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24da5ddda1fd9af4777a9444bb6a2a62fb9bddc8fecc86715a35fbf90592f3b3
-size 45
+důvod
+nebezpečí východ chtít připustit

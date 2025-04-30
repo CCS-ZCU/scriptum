@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7963a51ec305695b22795dadff16d8215a22f8a7c78da08a446418bd11ec42d2
-size 161
+ Ústava zaručovala rolníkům bezpečnost vlastnictví půdy, ale to nevadilo režimu, aby půdu rolníkům sebral a rolníky nahnal do družstev a kolchozů.

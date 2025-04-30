@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47b67d16c3888b84cc11c8757b384467633a875282db02f2d6cc629f36253ec7
-size 149
+hrozit nebezpečí vznik dependence syndrom
+nebezpečí hrozit demokracie krize strana nebezpečí lidé demokracie dávat možnost chyba předejít

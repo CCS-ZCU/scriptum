@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12ac606ad88e88960c5dba46c5843def5148959957bd8942b5b4821d33d45ce6
-size 224
+ Veřejná bezpečnost v ČSSR.
+" Bylo takhle jednou k ránu,, když kohorta příslušníků Veřejné bezpečnosti přivedla k domácímu krbu podroušeného manžela, který se vydával za zaměstnance pražských jatek.

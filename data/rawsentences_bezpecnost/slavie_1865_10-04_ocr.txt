@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b60fe9af49ca9b3b064f35d4b767706183ccad564891d37f6657b1cbbd273a2b
-size 136
+ Ručím za vaši bezpečnost, pakli so nepokusíte o útěk a o vypátrání tajemství našeho, o kterém věděti zúplna nemusíte.

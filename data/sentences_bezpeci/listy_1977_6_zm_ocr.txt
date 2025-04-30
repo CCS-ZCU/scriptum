@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fccb0392ad136faf7fc80dbe423b9a9b2f8fcccd2650aebe19ee5c5517d6036
-size 61
+sdělený bezpečí válka akutní případ československý

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:217dde6b91f2b98ce8bc45e9094548a0f88163d178a5dcc81cb3c3fc0b878c54
-size 77
+ Západní občan zpohodlněl poměrným blahobytem a falešným bezpečím.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff1664442be4ed41619cb6d62e3b10a94d5eb186658d0069bb4ac4606f372800
-size 56
+Amerika zaviadnout nova poplach nebezpečí ruský utek

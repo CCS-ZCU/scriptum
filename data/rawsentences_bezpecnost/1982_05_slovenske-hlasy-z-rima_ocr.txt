@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bed2dfa5ab904f1bf12d3c2ed2bb500f99a9a622f7562d314db009a7983405a2
-size 249
+ Často sa stáva, že príslušníci Štátnej bezpečnosti, preoblečení za elektrikárov, inštalatérov alebo iných remeselníkov, prídu v neprítomnosti sledovaného do jeho bytu, aby mohli nerušene previesť dôkladnú domovú prehliadku.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a11abb0a1626577cd5b49b143f83c775430a605b1e9e30540d267a03bf6c9f15
-size 259
+ Ako to pôsobí na členov bezpečnosti? Lebo keď sú medzi "svojimi”, majú vždy plné ruky prá- — To Je pravda.
+ Kto však má pozorné oko a trochu intormádl, vie, že u verejnej bezpečností sa štátna bezpečnosť neteší veľkej ob- ľúbe.

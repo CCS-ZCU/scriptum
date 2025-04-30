@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8d4dddd8abf8368547843cc5e6b6a1d61ebc59b7a59e9ed4c731bc63edfc701
-size 43
+svoboda oko malý dítě vystihnout myslit

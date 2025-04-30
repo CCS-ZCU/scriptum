@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb9904b14f0e29294a1095756de620ae9c68439fd95b0631d9eb0f8c78bda0b8
-size 161
+ Nyní snad se jim bude zdát, že ani přátelé nerozumí potřebám jejich bezpečnosti, nebo snad budou hledat viníka, který není — viníka domácího.

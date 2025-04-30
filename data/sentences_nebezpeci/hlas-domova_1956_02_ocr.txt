@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:117424009c3d18a9bf9d7b5d6600639a54f40fb66f7eeb9a2c59613ecd5cf9dd
-size 27
+nebezpečí Siam zvětšit

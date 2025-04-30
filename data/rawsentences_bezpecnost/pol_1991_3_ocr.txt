@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:accc5bdb4483a82c3361457da4b1148b8483d8db9f90a0190b3f4cc6c0be879c
-size 880
+ * Je zřejmé, že Státní bezpečnost vyvinula značné úsilí, aby řady Charty infiltrovala svými donašeči.
+ Jde o otázky ekonomické, ate i ekologické, sociální, zdravotní, pracovně právní, kulturní, také o problémy vzájemné komunikace, bezpečnosti, dopravy, spojů, emigrace, občanských práv, národnostních menšin a jiné.
+ Nato obvinilo Pittra z podvratné činnosti a ředitelství národní bezpečnosti mu brzo potom zakázalo jakýkoliv přistup do internačních táborů.
+ Odboj proti komunistické totalitě uskutečňovaly statisíce těch, kdo byli vězněni, vylučováni z pracovišť a ze škol všech stupňů, zbavováni kvalifikovaných a vedoucích míst na základě odlišného smýšlení, původu, víry, či se stali obětmi nařčení a falešných obvinění z kriminálních činů, vykonstruovaných Státní bezpečnosti.

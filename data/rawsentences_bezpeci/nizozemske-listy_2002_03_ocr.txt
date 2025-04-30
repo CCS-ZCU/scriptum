@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f735b1539eb704671b5952f6ffb0606d59f8f7c20930cd1a13d66d439c16442
-size 94
+ Nechť použije podchodu anebo třeba přechodník ten převede ji do bezpečí na chodník.

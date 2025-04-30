@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ea5f8f4102e05ff29a099c954e512605e80ffae3a2e244c1f70300b9dfb1daf
-size 311
+příklad líčení desetiminutový zpoždění stanice Cheb železniční točnice pořádek nebezpečí lokomotiva Konvalinka moci odjet celý plán ztro skotat

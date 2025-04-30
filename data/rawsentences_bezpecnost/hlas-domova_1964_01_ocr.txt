@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8f02d64a7b7f1d30c45f66bf88a3c0419ac794c02f183a8110188fbba1fad4f
-size 244
+ a orientovat ji na boj s nešvary, které ohrožují plnění hospodářských a výrobních plánů, proti soustavně absentujícím pracovníkům a proti těm, kdož hrubou nedbalostí porušují technologickou kázeň a bezpečnost práce.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fec6044ddcd28e7da7ac084f938ac2656adcccabb5df1f62fddebd4122076864
-size 77
+muset ukazovat akutní bezprostřední nebezpečí další trestný činnost

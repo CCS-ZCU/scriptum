@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f40a5c100be34a9439e62b4ef76734072888051b759c48be87f07991b3cb282
-size 124
+hranice
+vyrvat předpokládaný nebezpečí
+Mikuláš vzdálený nebezpečí dýka tasit kord
+strach skutečný nebezpečí

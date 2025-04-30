@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26e019215ae5ae82e9e2f7415d10ce7ee6f1354395046fac95da61c7973666fc
-size 112
+ Poskytuje každou možnou pomoc a příležitost každému, kdo vyžaduje BEZPEČNOST A JISTOTU SVÝCH PENĚZ.

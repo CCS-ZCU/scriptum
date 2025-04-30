@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:482f6184a0933118cd28c646fdb2e2be44b2baec1b28dcb2165951f4abe845e3
-size 39
+nebezpečí válka malý západ silný

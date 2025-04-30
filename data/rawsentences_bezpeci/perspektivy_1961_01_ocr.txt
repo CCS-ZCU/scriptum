@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:541dd107ba547d8787d152a3b2581782de4f0cb9de776007bceb71935dbef7ea
-size 547
+ Exulant je poutníkem míjejícím, odpoutaným ode všeho, co mu dávalo klid, jistotu a bezpečí domova, vrženým do světa konfliktů a převahy nových podmínek.
+ Rodinné a přátelské svazky byly zpřetrhány, sladké bezpečí domova navždy ztraceno, teplé kouzlo mateřského jazyka bylo umlčeno do samotářské myšlenky: živá rostlina byla vykořeněna a je v nebezpečí zahynutí.
+ Svoboda, volnost právo na soukromí často znam ená zároveň osamocení, isolovanost, méně bezpečí.
+ a jeho autoritě — a bezpečí.

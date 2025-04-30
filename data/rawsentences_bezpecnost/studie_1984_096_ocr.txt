@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db5091be5b28db549fd860dc78c4dc09bc958cc3583d219b3d9000d9b331a49c
-size 382
+ Jedním slo- vem, rozvojová politika má být založena na celosvětovém spravedlivém sociálně-hospodářském rádu, zaměřeném na rovnoměrné rozdělování bohatství, dozor nad životním prostředím a přírodními zdroji, jakož i smysl pro mravní odpovědnost a mezinárodní spolupráci pro dosažení míru, bezpečnosti a hospodářské stability pro všechny.

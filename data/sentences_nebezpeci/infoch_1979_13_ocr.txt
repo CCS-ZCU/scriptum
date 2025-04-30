@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89f4d96551ae52067823732ca2de610bc09245e568a34bc998dd0a419a67c560
-size 80
+lewartovský slovo platit nebezpečí vzít plíživý skrytý vzdálený forma

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9fbdb3c3af9814cfe645500e5eb43043f3cf7cbece7f414d2fdeb4a85ba25452
-size 117
+ - Ale ten, kdo mi naslouchá, najde v sobě bezpečí a zbaví se strachu z věcí, zlý’ch, protože porozuměl.

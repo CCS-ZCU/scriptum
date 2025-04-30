@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b621807fddf0d07820935b2deaab33595d871281f199a5a7aa661bbbe79b5b1
-size 213
+ Byl tc dychtivý americký novinář, jenž při- vedl do vězení tucet československých občanů, kteří svěřili své bezpečí novinářské cti a občanským ctnostem amerického obchodníka se zprávami.

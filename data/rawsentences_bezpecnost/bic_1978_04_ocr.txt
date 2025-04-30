@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ec6af690dde03031f7b8e51f1baebd5a1252290c8c83481c32651525c2040d6
-size 222
+" "A jak mám říšt jinými slovyže na bezpečnost a hygienu při práci vedoucí se.
+?" - "Inu, íreba: bezpečnost a hygiena práce nedoznala v našem závodě u vedoucích pracovníků potřebné vážnosti‘a tak.

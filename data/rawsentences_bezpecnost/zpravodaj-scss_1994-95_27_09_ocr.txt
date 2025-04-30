@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:788f5b2923fc45f89a77c33ea09780b793bf3878d05a2ec503360e8ee998cdf2
-size 392
+ V článku 4 se píše: "Smluvní strany potvrzují, že bezpečnost je nedílná a že jejich bezpečnost je nerozlučně spjata s bezpečností všech účastnických států Konference o bezpečnosti a spolupráci v Evropě /KBSE/.
+ Budou všestranně napomáhat posilování bezpečnosti a rozvoje spolupráce v Evropě s cílem vytvořit účinný celoevropský bezpečnostní systém.

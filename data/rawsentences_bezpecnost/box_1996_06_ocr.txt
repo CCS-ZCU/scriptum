@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:120914f766764b113010ac4f9e4fe0918f0d0b4acbfabda3b59ac3debfff5b9e
-size 107
+ že nás nežádá celé, že si můžeme nechat něco pro sebe, pro svou osobní bezpečnost a pohodlí.

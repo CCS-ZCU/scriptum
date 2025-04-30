@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4eed924d18a6c50383a714b43204cb54edb65a62f6e79f76ae16e6fde423a5b
-size 31
+Martine říci dbát bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af58bb9423775509736624c50cf1486e911c97a5ecebe6d16282b6dc6b54f65c
-size 63
+pozdější zpráva nacházet dotyčný velrybolovec bezpečí

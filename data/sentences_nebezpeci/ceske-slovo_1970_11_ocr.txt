@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb83e78b40449a13b32c626e7c5aa208563b6259725996c7a74af933a87d6bb3
-size 219
+první odstavec popisující zážitek fronta první světový válka sledovat osud dnešní den cesta dobrodružný plný nesnáz nebezpečí okamžik život dokázat angažovat zájem ocitnout dějiny Přemysl Pitler

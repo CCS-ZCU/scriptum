@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c7bbd4e18f2f9ed31ebb389fdd9a2367855e5a25f75d0bd75f52e73031ad245
-size 81
+ Nedej se zahnat do bezpečí stáda, do jistot iluzí a do ochrany ,,realistů.

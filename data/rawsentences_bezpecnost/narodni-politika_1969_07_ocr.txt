@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a64f8e112dfa10ea5cab251ca2f3f0c5c6544f83ff19bdc076494127b8bba42d
-size 288
+ První, založen na Husích bezpečnosti a jistoty, které mají ospravedlnit nedostatečné odhodlání k oběti a činům, i na opovážlivém spoléhání se na jiné sovětské síly, nežli vlastní, druhé zase podceňující rozmety vnitřní svobody i reálné možnosti obrany.

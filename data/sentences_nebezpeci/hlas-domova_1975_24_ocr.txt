@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cfa9a1a108481a9f12e977868e258a4d56a7386a4d8c5af0d745319eda8a7234
-size 33
+HLAS domova voličům Austrálie

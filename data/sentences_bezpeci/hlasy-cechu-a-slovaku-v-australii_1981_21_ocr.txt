@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3de95d8dd171ca44cab5a02c8eea7bc1e2f375c091ce5040285c3e3850c299ae
-size 77
+Lenže českoslovesnký režim prítomnost početný jednotik cít bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9a0013894f050c19d318b08d8120ac2baa3368352ef4f8cad6a85721f984cdc
-size 59
+celek dělat dojem naprostý bezpečí znalost provinění

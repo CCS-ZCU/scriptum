@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c4677b19d886e82d456cd29b5f88bd8aaf3f4f4e3b2b6a475916db2daaaffa2
-size 97
+nebezpečí povstání uvolněný ovzduší přimět režim zostření bezpečnostní opatřený

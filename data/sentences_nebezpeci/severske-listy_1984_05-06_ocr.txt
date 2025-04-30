@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a84c7543271f8aff4cb3e5975ef2fbdea9c4eca99546517cfe33bd364b481a5
-size 81
+Reaganův vláda chtít zmenšit nebezpečí válka stálý kontrola odzbrojení

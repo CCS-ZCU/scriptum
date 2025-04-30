@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d83d850296bde8f4d2d40aefdb686fe1896a4d54b24c99fa566c991c3809a434
-size 342
+ Jde o to, že bychom se zbavili něčeho, co nám dávalo pocit bezpečí, co za nás rozhodovala příroda.

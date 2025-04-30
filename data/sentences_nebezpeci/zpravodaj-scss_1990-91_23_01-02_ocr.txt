@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:344a015285776a14d145ba67be5de9fbba383ba93ecddefcca5424aa0bb4e93a
-size 108
+moci posílat Československo zpravodaj nebezpečí adresát
+uvědomit různý nebezpečí potřebí čelit

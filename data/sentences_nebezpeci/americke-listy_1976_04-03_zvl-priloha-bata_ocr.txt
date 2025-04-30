@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61acce2d17c4c0eabcbb3dfed415b1ff1d9c666c59628f9cdd01e67360d3975a
-size 66
+kolektivistický systém výroba hrozit nebezpečí racionálnost

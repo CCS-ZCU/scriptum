@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8a43aed2f8520d29fa7cb0cf9e12b375dcda1ce3f00ab71b8a9b0167fe927b0
-size 149
+ " Otočil se:"Nechte mě jít prvního,"řekl,"když budu pod vámi, budete mít větší pocit bezpečí a já vám při prvních krocích pomohu.

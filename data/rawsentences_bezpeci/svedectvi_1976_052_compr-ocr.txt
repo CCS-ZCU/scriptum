@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94554bea2c22cff667060e1a2a3402fd49ce87c7fc6c8f23bdba690d5dfdf879
-size 800
+ V celku ovšem vychází jeho subtilní a kultivovaná lyrika z prastarého pojetí básně jako vnitřní „krajiny duše" : surrogáty zážitkové a autobiografické jsou destilovány a transformovány do jakési v sebe uzavřené emblematické krajinomalby, jejímiž mezníky jsou utkvělé symboly jako „hlína1*, „Strom", „džbán", „včely", „úly", „jabloně" — ony mají být orientačními a opěrnými body na cestě k hledané „jistotě", „bezpečí", civilizací nezpotvořené „přírodě" — a k „domovu".
+ Ctihodný Cnssiodorus, zakladatel jedné z dávných písařských dílen, které dnes mají nejednu moderní repliku, o nich kdysi napsal, že „svýma rukama káží lidem, svými prsty rozvazují jazyky a potichu dávají bezpečí smrtelníkům".

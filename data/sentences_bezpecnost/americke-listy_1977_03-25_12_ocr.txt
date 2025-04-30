@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:015c6fa99aca8ac07926e3eb24efd9b599f607a8c919d2ad932cbbf0fdfd0336
-size 57
+kongresový komise spolupráce bezpečnost Evropa zvaný

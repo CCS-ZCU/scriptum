@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3cffb85154e25d74fcf86d61a15f95e66f30a7f664069d70aee5105840d301a
-size 36
+bezpečnost Evropa československý

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbd2790be99a6277c8752516792f350a72dd93ca085ad3f7eb862ec203ee9027
-size 60
+zmatený saranč nesnáz moci jediný skok dostat bezpečí

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc9c692a7edfa5864bb45513bf5115218979865a9c053287c7d66350767364a2
-size 94
+přesun scinda snížit hladina podzemní voda zvýšit bezpečnost plavba punkevní jeskyně

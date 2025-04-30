@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e359007cb631f622c50cff69695e3fed292b93ac1e235629c4050fdbc5c4431
-size 73
+ bezpečnost a světovou spolupráhyblivého zvyšování mezd a platů.

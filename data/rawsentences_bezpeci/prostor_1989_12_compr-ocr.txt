@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da73aa32f71dbd91449bcaa1cb208ccca277c91ec6aa7675d0a22385193cb5a5
-size 148
+ Přichází strach objektivizovaného člověka vydaného napospas systému, kde dosavadní hodnoty byly zrušeny, 6tejně jako záruky bezpečí.

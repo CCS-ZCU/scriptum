@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0b7d0850d5861956bcdeb77242b87599b8f337863e991fda8cc9d87d99f3209
-size 46
+Tokio nebezpečí válka hrozit boV západ silný

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36075f166bd2a645846af9481927d7c85bb0e684aa330b1b4f9eb5d19073584a
-size 244
+ Domov znamená bezpečí, prosperitu, jistotu a vřelost vztahů, tedy pocity, které se z naší společnosti stále více vytrácejí.
+ Pocit bezpečí ochromují rakety, které se proti vůli většiny obyvatel objevují na našem území.

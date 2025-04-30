@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2312212988a4208cd986b002246a4353d916db439c6f9b187511ed24d41f8531
-size 27
+bezpečí existence život

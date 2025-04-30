@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3c979a1906c78f6c95adc2dff2744231142eff096655bf2e6b4c2a58cbcae4e
-size 70
+pětiletý kluk pero vlas schovávat keře zábava hrozit nebezpečí

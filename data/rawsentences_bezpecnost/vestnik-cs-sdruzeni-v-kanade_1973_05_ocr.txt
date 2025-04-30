@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b13e313ccf8920e5682dd079396835349e8a7f15e895fa9f1ac946cc3755f204
-size 285
+ Podání vysvětluje stanovisko CSNS k problémům kolem připravované Konference o evropské bezpečnosti a Konference o vzájemném omezení zbrojení.
+ Románové zpracování zavraždění vesnického faráře Státní bezpečnosti, které vyšlo najevo během pražského jara.

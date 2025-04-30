@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55c832402a07c36c1393d1fe2c6a197f4f5c4e0a1be75e730c1cfe5778e9f743
-size 98
+elitní policista vybraný stráž olympijský bezpečí vybavený speciální zbraň
+Davydovský

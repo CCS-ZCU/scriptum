@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92274b2decef24e0c4c41b9eb0d3f4e1dc8ced57672892c64eaea96e9b2c44a0
-size 93
+vysílený špinavý zahmyzený skákat chladný voda řeka Upul dbát nebezpečí krokodýl

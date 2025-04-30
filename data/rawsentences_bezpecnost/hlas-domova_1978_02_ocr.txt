@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21100b2240f22fec783c5632be2838b8ff450e92010e8163d8e293a54828f8f1
-size 399
+ "Účelem Rady svobodného Československa je účast na boji proti komunismu, obnovení svobodné, nezá vislé a demokratické československé republiky v předmnichovských hranicích, obnovení demokratic- kých 'svobod v ní, účast na úsilí o vytvoření svobod- né a sjednocené Evropy a světového řádu, založeného na spoluprácí, míru a bezpečnosti, právu a spravedl- nosti.

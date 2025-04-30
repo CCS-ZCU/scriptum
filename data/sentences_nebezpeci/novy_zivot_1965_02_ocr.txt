@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75a608f729fbf74d433dd84840a9be707a36898633bfae775a5cfb92743d3b73
-size 49
+vystavovat nebezpečí minout pravý cíl život

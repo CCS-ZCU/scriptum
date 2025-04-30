@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:936de33f55d147065c728574d844f711a4f351e160609cbfc7766a96ba77e5d0
-size 179
+ Gertler vysvětlil jednak podklady, které jsou nutné pro existenci letecké služby a jednak formulaci leteckého práva, které umožňuje provedení letu a jeho bezpečnost.

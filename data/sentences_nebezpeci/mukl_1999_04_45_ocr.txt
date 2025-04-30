@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:239b8a38d701e9dc4361489fcbd9b7b6b3e97fb3f8b8fba8647865133460a32c
-size 57
+autor předmět text vystavovat nebezpečí potrestání

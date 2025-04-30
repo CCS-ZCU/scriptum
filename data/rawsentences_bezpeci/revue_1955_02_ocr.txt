@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4e5a9a46a3237fd8c443206fba5619bff1f08ccc2f9882b6100e44d860d1949c
-size 97
+ Pocit bezpečí vyrůstá v Goliáše, neboť v tu dobu se sotva co neočekávaného přihodí.

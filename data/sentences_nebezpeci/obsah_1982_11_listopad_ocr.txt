@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6b7207e01f65bdb29e1d07abb82ec6533d60402434cc62f88071cb41fda7289
-size 50
+dobrý důvod vyhýbat nebezpečí číhat hradba

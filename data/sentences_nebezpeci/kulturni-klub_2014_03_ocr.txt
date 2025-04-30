@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fecd4bafa13fcb3143d4ecfafebba1d2ed610184e3806432d680856945ba105b
-size 66
+hodina houbař zastavit ptát otec kluk nebezpečí jít babička

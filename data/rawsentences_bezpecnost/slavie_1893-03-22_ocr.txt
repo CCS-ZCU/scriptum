@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54070f2bec759578a2bd24eeef26db5fa4ca308fd4ac719d32488e9ad7dd61b4
-size 295
+ Velký počet strážců svštláren a osamocenost těchto zabraňují stálé přehlídce jejich práce a věrné plnění jejich povinností, od něhož závisí bezpečnost velkého majetku a velkého počtu životů lidských, jest závislé od dobrého charakteru a schopnosti strážců.

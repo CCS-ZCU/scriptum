@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3efa404ca9a6f47f26f1ffe8521fc8951a7a31388dc360536fb8c944125f528e
-size 529
+, vydání 1940): nepřítel má právo zřídit vlastní administraci napadené nebo obsazené země, dosadit své vlastní vojenské či jiné soudy trestní, změnit i trestní zákony obsazené země, vyžaduje-li toho “vojenská nutnost”, konkrétně bezpečnost okupační armády, může zavést trest smrti na činy, tuto bezpečnost ohrožující, může vymáhat na obyvatelích ne sice státoobčanský slib věrnosti, ale slib poslušnosti svých nařízení a může neposlušnost trestat, přirozeně i smrtí.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9d851c70d31e993e86097695463f0af7558de3b255510369500f08d2ff76c15
-size 65
+kvalita velení nebezpečí daný úkol zvyšovat morálka letec

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6bf7e5037a1afc765817aa0c656bdaac75b0d26bf750bb9d48a67e5ab7c9a86
-size 76
+ Ale skrytost, skýtající mír a bezpečí patří k podstatě člověka.

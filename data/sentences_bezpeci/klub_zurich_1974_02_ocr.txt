@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f90c92c5e9b84eb910f6e3b244c429924f300b563da0cc074a6f70a2050a68c
-size 57
+hledat bezpečí svoboda jistý míra nást objevit nitr

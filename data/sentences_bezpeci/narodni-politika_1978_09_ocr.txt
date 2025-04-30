@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:286e926310a9a65a31ab051b0fc9ff6ed0500814d3b70f397d44d6cdebfbb1cf
-size 151
+stát bezpečnostní systém dodávat pocit bezpečí
+většina příslušník bezpečnost názor rád občan vytvořit podmínka skutečný bezpečí

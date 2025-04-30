@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c533e212172c866de8c6d1669fc84411ec087e72c0dfbd86d73c831d42cd328
-size 223
+ Ale ačkoli je dnes naše národní bezpečnost ohrožena víc než kdy v historii, přežití samo bylo by jen nedostatečným výrazem našeho národního úkolu .
+ Sovětská Kádárova vláda mu zaručila bezpečnost.

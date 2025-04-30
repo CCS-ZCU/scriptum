@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6a68dd78341f805e9e174ea5d61a2527417d42d2a6b6798f710ebee73d6bf0c
-size 62
+třímetrový uslyšet zvon vědět bezpečí hraniční plot

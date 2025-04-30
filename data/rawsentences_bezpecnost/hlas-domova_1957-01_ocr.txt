@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f5214d469219825bc327eeef68b769e2364673a9fe93babb0049a56e21475c7
-size 202
+ Na Plaza de la Concorde stojí jediný andorský pomník s pamětní deskou, do které je vtesáno: NA VĚČNOU PAMÁTKU TŽÍ ANDORANTÍ, KTEŘÍ PADLI, ABY ZAJISTILI SVÉTU BEZPEČNOST A DEMOKRACII.

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cec319f7bd1d811ac55d879bd758b69769eb67940530d46db29429163c9e21c4
-size 77
+Somálec chtít odklidit bezpečí vozidlo letadlo blízkost stroj Lufthansa

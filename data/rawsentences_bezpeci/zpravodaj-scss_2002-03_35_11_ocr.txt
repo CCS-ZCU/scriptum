@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9493830befe5c8284fb0c153fba9d5bb1371b1bd2392a2cc0a75dce7e2b0405e
-size 288
+ Švýcarské bankovnictví a pojišťovnictví skýtá nejvyšší možnou záruku solidnosti a bezpečí.
+ Zkuste v bezpečí svých domovů poznávat svět očima člověka, jehož věk, osobní zkušenost a moudrost vám zprostředkuje nesmazatelné zážitky.
+ Útulnost, bezpečí.

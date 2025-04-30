@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20a4019dc979f6fda06788dfbaa982f93a2c47159b76d405d1e90b655487cfe5
-size 616
+dubna zúčastnit konference pořádané Československým výborem pro bezpečnost a sooluoráci v Evropě.
+ : ’’Chci poděkovat vládám zemí na 'Konferenci o bezpečnosti a spolupráci v Evropě, která probíhá ve Vídni, Mezinárodní jazzové federaci při hudební radě UNESCO, organizaci Amnesty International, humánním a podpůrným organizacím, které se začaly obracet na odpovědné československé představitele, děkuji umělcům, hudebníkům, spisovatelům, výtvarníkům, jejichž jména na protestních podpisových akcích představují nejhumánnější symboly druhé poloviny 20.

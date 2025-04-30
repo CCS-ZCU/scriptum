@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bc86875edb0b5d79de44bd4c4d1a7613ed65e67a8b8c81245c013d43ba38d6b
-size 126
+Freudův pesimismus spočívat prohlédnutí dvojí nebezpečí nebezpečí vytěsnění pudový síla nebezpečí uvolnění

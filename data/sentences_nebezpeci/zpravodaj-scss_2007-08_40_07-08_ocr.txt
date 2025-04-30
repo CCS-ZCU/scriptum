@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5fdfef9ec2f3ac6a91fd7e4ef10fcd5d249f5942787b8fa01c26e94f92ad9b78
-size 59
+pomoc lze dostat CSSR hrozící nebezpečí kontrarevoluce

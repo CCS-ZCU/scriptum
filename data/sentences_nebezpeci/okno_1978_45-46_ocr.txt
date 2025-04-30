@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5587373cee091da471c7ae3a601444a987b97ec478b0304a2317916f6af8e626
-size 48
+nebezpečí krajan zahraničí smět podlehnout

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25bf0b2a2ab4ea0bb91577debe76b170a91fabf9f160836aa449c99851f5b8b6
-size 47
+ Sama a bez ochrany opustila bezpečí domova.

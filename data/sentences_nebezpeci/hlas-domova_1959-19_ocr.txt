@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5fe51d40800c6ed5deedd476636d7522f186441179f252ba31070ac09f78c1b9
-size 111
+sovětský svaz paubý žito železný pěst silný slovo dotýt hrozit nebezpečí válka

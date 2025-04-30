@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f76fa482f9abbd09b5a80299910bc7cbca5ee40ab992d51d7250a5fd014afae
-size 83
+ Podle názoru kubánské DGI je vnitřní bezpečnost v USA “fraška” (joke).

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b689e7f418805bb7835ba59c1420c6a9f37101e123de96bc152f0e3f183b2c8
-size 100
+návěští uvádět značný nebezpečí popa obcházet strašidlo
+uniknout den velký nebezpečí

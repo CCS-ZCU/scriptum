@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89f7cb0808ce432470ab08ab20394aa70adfd5c2ad019d4f2ca6a81cf880f83c
-size 61
+napadnout Šetina vrchol státní bezpráví Beneš Gottwald

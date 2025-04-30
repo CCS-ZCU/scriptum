@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52a4260bb2181d12893efed3e7a13fff25f5063290ffa5b2eb5857c0c922b739
-size 186
+ Seznámil jsem se s lidem, který je rozhodnut dál postupovat po nesnadné cestě směrem k hlubší životní bezpečnosti, širším svobodám , zvýšenému respektu k jednotlivci.

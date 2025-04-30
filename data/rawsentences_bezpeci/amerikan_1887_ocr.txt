@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7f336cf2818d7d2ef77b78bb48663d9d5c44e478b121ef9e5310bc46d59cf0b
-size 44
+ Dopravíme ji v bezpečí do New Orleansu.

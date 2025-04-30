@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3630b62b4b747c4d758ec48adff00f5f2c5fc424de827946d6970c5b44396c2c
-size 103
+ Bezpečnost by měla podléhat kontrole zastupitelských sborů i veřejnosti.
+ Státní bezpečnost.

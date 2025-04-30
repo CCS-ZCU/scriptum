@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e772b1423d881ddcdeb12aefb760e3be0568078e4e848965eb41bdf6fc97f5cd
-size 421
+ 7 * Právo na sociální pomoc,na sociální pojištění pro případ nemoci,invalidity a stáří a právo na sociální bezpečnost.
+ Podobně při stavbě domů omezují stavební řády v zájmu bezpečnosti a veřejného pořádku stavby nových domů různým způsobem.
+ A konečně jsou zdrojem bezpečnosti,což platí "nejen o hmotných statcích,ale i o statcích nehmotných jako jsou odborné schopnosti".

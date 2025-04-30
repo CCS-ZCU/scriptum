@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5dcaa0d503b5275d1a30f00462be93cfe3adc59447d71de3101d72109aa1cc5
-size 74
+hocha dosvědčit pravda dávný doba dokonalý bezpečí poskytnout hrob

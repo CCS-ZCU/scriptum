@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd1dbe278601d3f874e7617c1bac1c9cf699c7c20d3b569d968feeaec221fe5f
-size 758
+cz REZIDENCE RoSa Rezidence RoSa Praktický lékař a psychiatr přímo v objektu Aktivizační programy, knihovna, multifunkční sál Kavárna, restaurace, kadeřnictví, manikúra, pedikúra 24h tísňová péče a ostraha objektu Byty 1kk, 2kk - nájemní bydlení se službami pro seniory Otevřenost vůči veřejnosti, bezpečnost a soukromí pro klienty Výborná dopravní dostupnost do centra Prahy (trasa metra C, zastávka Kobylisy) Asistenční pohotovostní služba Střelničná 1680/8, Praha 8 | info@rezidencerosa.
+ Jaroslav Matějka, Deník El5 Technika Němečtí hackeři na kongresmanově iPhonu předvedli nedostatečnost režimu ochrany dat Firma Apple možná bere bezpečnost tak vážně, že je ochotna soudit se kvůli ní s FBI.

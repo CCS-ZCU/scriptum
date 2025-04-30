@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a68d8516eb62830ff1bd8f4d5958bee8f8e663299b47e36b80d5e0233325637
-size 92
+policie pohotovost zasáhnout ostatní procházející přihlížet nebezpečí střetnutí

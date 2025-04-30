@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4428ec1962621ec1a65ab43d5e16426c79ee8dc0ac623ace2297f8a6da59a731
-size 41
+květen teoreticko politický občasník

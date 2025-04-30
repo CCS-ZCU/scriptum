@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6f4552a778c6f6efc7bd8853bb935304f3c477760f67baba04e1cc76d42816c
-size 325
+ Vysoké smluvní strany, majíce na zřeteli zájmy bezpečnosti každé z nich, jsou dohodnuty o těsné spolupráci v době po obnovení míru, i o tom, že budou jednati v shodě se zásadami: vzájemného respektování své nezávislosti a svrchovanosti, jakož i nevměšování do vnitřních věcí druhého státu.

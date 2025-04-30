@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd56486d0707f3a2c6bfa1128b46e0f8242d5fcd1c6ec193ab2eba83be0f5b4d
-size 107
+ Pod tlakem bezpečnosti podepsal Hrabal prohlášení, v němž žádá zničení opisů svého rukopisu.

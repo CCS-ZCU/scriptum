@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10b8058d2b6d79e928b48886890f491b7724e00c62b40b24e8113bea7da74613
-size 223
+ Narychlo svolaná rada fénických měst sestavila ponížený list s přísahou věrnosti, kde se hovořilo o egyptském králi jako o milostivém vládci, který dává svým poddaným život a jejich majetku bezpečí.

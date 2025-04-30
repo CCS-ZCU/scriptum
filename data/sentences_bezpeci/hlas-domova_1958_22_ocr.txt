@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f7a689705b1b3dd10870f2badf4f258db5227712d0b9cf61ff42ae486196fed
-size 70
+velký Britanie moci dopřát poměrný bezpečí ostrov dobromyslní

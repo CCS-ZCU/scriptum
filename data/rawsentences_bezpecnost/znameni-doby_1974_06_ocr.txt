@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5358bacc62108788a994cd7b6b52679b903525c35154198beb3550dcecece4f9
-size 140
+ Veřejná bezpečnost v Galantě zakrátko zjistila, kdo je jeho konstruktérem a pilotem.
+ Ty vzala do své péče Veřejná bezpečnost.

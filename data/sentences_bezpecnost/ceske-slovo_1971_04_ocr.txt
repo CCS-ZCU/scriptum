@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04f50308cf55a0c702f4ba3811149e4c1a7b311b6b0236a1f719b2d01cb139f4
-size 137
+vet dokument plný fráze typický politika KSČ spát boj sociální osvobození boj demokracie národní svoboda bezpečnost republika

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cbf9c7d2c16bdfa3dbaa990edbfc32fe3dae32f08621a3bbd30603c169c0c79
-size 61
+boj společný nebezpečí zahajovaný boj druhý ohrožený

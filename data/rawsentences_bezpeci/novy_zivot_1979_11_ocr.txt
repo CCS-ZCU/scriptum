@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75f40387d70203469f470bdfbd61adebf5b18cb7cbbdfad28800b6de36a6cff7
-size 291
+ Ať to byly poznámky z jeho oboru — poznávání a studium tolika úžasných rozmanitostí přírody a skrytých geofysikálních a vesmírných tajů a úkazů, anebo zcela prostých pravd víry, či krásy, bezpečí, ale i dobrodružství vnitřního i praktického života z víry.

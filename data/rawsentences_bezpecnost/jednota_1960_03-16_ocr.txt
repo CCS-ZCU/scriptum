@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a2048420cfeceda4bd328b916398e26a39b0b406862be30f6a61b4affbc6d1b8
-size 89
+ Kým silný muž so zbraňou stráži svoj dom, zatiaľ jeho majetok je v bezpečnosti.

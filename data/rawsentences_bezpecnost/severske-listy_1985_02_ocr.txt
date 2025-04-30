@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5975add3c1e63679bb86c7c6849762d6044f66d456dba4dc0302e72b6d42bc44
-size 455
+ Třebaže v mnoha případech jsou jasné důkazy, že pachatelem je polská bezpečnost, bylo vyšetřování zastaveno.
+ Neodpíráme legitimní zájmy o bezpečnost žádnému státu.
+ Avšak chránit bezpečnost jednoho státu tím, že jiný je oloupen o národní nezávislost a národní tradice, legitimní není.
+ Dávno po Jaltě jedno zůstává jasné: nej významnější cesta jak zajistit bezpečnost Evropy, je učinit ji svobodnější.

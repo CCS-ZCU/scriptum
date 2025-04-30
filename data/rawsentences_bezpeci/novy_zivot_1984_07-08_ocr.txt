@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e862a6e2208ad766ccbd3c6b67eb0d4342f95dc38451390ae4ceb4579978e57f
-size 454
+ OTCE SVATÝ OTCE Tisíce Čechů, kteří z nutnosti zajištění svého lidského bezpečí po dlouhých a krutých letech osobního pronásledování a v důsledku svých mravních zásad i svého náboženského přesvědčení našli útočiště ve Švýcarsku, Vás s upřímnou radostí vítají na půdě země, jež se stala jejich dočasným domovem.
+ Náš život je hledání a očekávání onoho cíle, kde dojdeme odpočinku a bezpečí.

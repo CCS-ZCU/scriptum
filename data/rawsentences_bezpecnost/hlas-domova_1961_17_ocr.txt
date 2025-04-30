@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a05907e590e656e98d09ce6af1c9c805a60607ea62eb5b5ecfc1744e4845dba3
-size 292
+" — Pořádek musí být: "Jak nás upozornili z městské správy \"eřejné bezpečnosti, nejeden Pra- žan málo dbá, zda jeho občanský průkaz je dosud platný.
+ Je to tak těžké? Nejpozději 15 dní před skončením platnosti stačí zajít na oddělení Veřejné bezpečnosti.

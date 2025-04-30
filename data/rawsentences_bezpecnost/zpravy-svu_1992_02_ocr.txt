@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aea2bf3d539b8c8aa6363847324f86cc5cc3d01dce4855cb7d39c2268a7d843b
-size 661
+ svetový kongres SVU ROZDELENIE HLAVNÝCH SEKCIÍ Jan Tříska, předseda SVU Počet Sekcia Umenie Muzikologia Hudba Divadlo Dějiny Literatúra Linguistika Pedagógia a kombinované témy Právo Filozófia Vojensko-politické témy Bezpečnost' a zahraničná politika Sociologia Intra a internacionálně styky Ekonomika Ekonometrika Psychologia Politické védy Knihovnictvo Pol 'nohospodárstvo Biomedicina Chemia Fyzické védy a technologia Geologia Informačná technologia Management technologie Taxonomia Predsedajúci panelov George Karger, CBS TV, Los Angeles, CA 1 Dagmar Hasal-White, Northern Virginia 2 Community College, Annandale, VA Zdenka E.

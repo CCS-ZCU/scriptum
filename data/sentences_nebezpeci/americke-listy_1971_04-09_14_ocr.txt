@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78fc279ce19c642cc91777ab8cbb903aecdc0a6c5cbfec912666e249afb7a348
-size 101
+vydávat nebezpečí mít potíž zpáteční cesta bráněný návrat
+skutečný nebezpečí hrozit

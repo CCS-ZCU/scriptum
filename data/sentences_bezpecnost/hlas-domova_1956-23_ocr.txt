@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30792a6842df49ce2f71917498aebbae02ada10ef85f5a39cc711b0f6b58a6ab
-size 60
+vidět malý důvod mít chovat osobně bezpečnost dovolit

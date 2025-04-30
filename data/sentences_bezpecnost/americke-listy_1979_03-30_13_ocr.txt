@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c529b3fd2ac44695673a5f5d270ab5f782c600573795eea3773666343a3394be
-size 85
+stát připomenout způsob československý bezpečnost Václav Havel pronásledovat

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f6db607b73e1cae8cfd9c141cf400eddfe384e19c064d322de09cdbdcfb48b5
-size 120
+paušalizovat nebezpečí hrozit
+vystavovat nebezpečí vozidlo starý označení dovolený opustit území Švýcarsko

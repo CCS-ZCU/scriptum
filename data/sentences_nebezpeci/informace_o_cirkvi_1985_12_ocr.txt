@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:572cfd608330c0486ef9ca1f23b8eda85a67470ac3fb7b86d71881e22f946783
-size 46
+stačit říkat člověk ^oslouchat svědomí

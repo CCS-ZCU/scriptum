@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c144a2ad8c1cb35ec4785355cc7068853fc4aff9391782e4572f80277ac3cf7b
-size 364
+, o zpřístupnění svazků bývalé Státní bezpečnosti, je možno od 1.
+ 8 Zpřístupnění svazků vzniklých činností bývalé Státní bezpečnosti Po smrti osoby uvedené v předchozím odstavci může o zpřístupnění svazku požádat osoba, která je podle § 15 občanského zákoníku oprávněna uplatnit právo na ochranu osobnosti zemřelého.

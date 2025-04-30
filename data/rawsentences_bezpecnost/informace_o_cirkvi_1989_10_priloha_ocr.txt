@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e1554338712dc5b433509faed5e164e008a894342a60e89d52a1a1f6e657b98
-size 146
+ 3, Vláda ČSSR je zmocněna zavést dobrovolnou službu v ozbrojených silách, jakmile to mezinárodní situace a bezpečnost státu umožní.

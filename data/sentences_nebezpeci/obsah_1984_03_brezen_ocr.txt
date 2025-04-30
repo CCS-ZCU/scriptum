@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8520b800e0df31c17ab0d6930376cccfc2372b9c30a0b3cbd4bdf6fcc348aaf
-size 35
+ekologický nebezpečí budoucnost

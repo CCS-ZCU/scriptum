@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce26bce33e1e1ad02dbce131d3769db02ce032abfa6be2ef79813b36af5b6192
-size 344
+ -ČSNRA - afa Vladimír Škutina: Promlčet zločiny? Různé zprávy Z MADRIDU Vedoucí americké delegace na madridské konferenci o bezpečnosti a spolupráci v Evropě, Max Kampelman, připomněl delegátům, jako zástupcům signatářských států Závěrečného Aktu z Helsink, povinnost respektovat suverenitu jednotlivých států.

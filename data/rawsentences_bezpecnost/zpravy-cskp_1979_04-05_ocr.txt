@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fafa9b4e7f40bf57aa5d7ad553e1754048703b5c4110e370a3a69acc7678e546
-size 107
+ Pokud jde o jejich bezpečnost prohlásil Štrougal,že budou stavěny podle sovětských projektů resp.

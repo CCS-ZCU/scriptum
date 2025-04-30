@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f14af264a7844449d70eb9e3ec46b9b387af857edecbba2d92ed74ac3e9e952
-size 32
+domov bezpečí
+bezpečí iluze

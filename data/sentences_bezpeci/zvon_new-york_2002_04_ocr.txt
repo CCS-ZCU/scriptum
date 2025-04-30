@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8bd637b5ca8a3d9eda33322d3d640b364541319cdff22aa060f86ca2d714d0c
-size 20
+bezpečí dům otec

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10153bd2c06a7f6e66c41d2f92e0b96f9763f167f477c6cf3de929ae86253ddf
-size 43
+ekumenický bohoslužba mat velký význam

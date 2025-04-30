@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0cf76f6fd23e56488270193f469e919cf8e03ab16fb6dc630462bf639a691f8
-size 63
+mít malý dítě silný důvod vystavit nebezpečí zatčení

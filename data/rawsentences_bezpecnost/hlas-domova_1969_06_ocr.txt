@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02d109bcef87329c41fc7e7ae7558d59b862d5a3fcb5daeb585a5b9f3655f9ae
-size 69
+ — Šéf olomoucké Veřejné bezpečnosti poskytl redaktoru Svob.
